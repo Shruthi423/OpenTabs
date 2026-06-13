@@ -161,7 +161,9 @@ input[type="range"]::-moz-range-thumb {
 .raised-intro h1 {
   margin: 0 0 10px; font-family: var(--font-title); font-weight: 700;
   letter-spacing: -.02em; font-size: 30px;
+  display: flex; align-items: center; gap: 10px;
 }
+.ico-fire { flex: none; color: var(--spec); }
 .raised-intro p { margin: 0; color: var(--mut); font-size: 13px; line-height: 1.55; }
 .feed {
   display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -228,7 +230,8 @@ a.role .role-loc { color: var(--mut); }
 }
 .job-top .idx { color: var(--mut); }
 .job-top .co { color: var(--fg); }
-.job-top .src { margin-left: auto; }
+.job-top .src { margin-left: auto; display: inline-flex; align-items: center; gap: 4px; }
+.ico-li { flex: none; vertical-align: middle; }
 .job-title {
   display: block; color: var(--spec); font-family: var(--font-title);
   font-size: var(--spec-size, 24px); line-height: 1.12;

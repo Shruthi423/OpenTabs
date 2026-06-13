@@ -131,6 +131,13 @@ function visible() {
   return out;
 }
 
+/* LinkedIn glyph — shown in place of the "Linkedin" source label */
+const LI_SVG = '<svg class="ico-li" width="14" height="14" fill="currentColor" viewBox="0 0 256 256" aria-label="LinkedIn"><path d="M216,24H40A16,16,0,0,0,24,40V216a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V40A16,16,0,0,0,216,24Zm0,192H40V40H216V216ZM96,112v64a8,8,0,0,1-16,0V112a8,8,0,0,1,16,0Zm88,28v36a8,8,0,0,1-16,0V140a20,20,0,0,0-40,0v36a8,8,0,0,1-16,0V112a8,8,0,0,1,15.79-1.78A36,36,0,0,1,184,140ZM100,84A12,12,0,1,1,88,72,12,12,0,0,1,100,84Z"></path></svg>';
+function sourceLabel(src) {
+  if (/linkedin/i.test(src || "")) return LI_SVG + '<span>LinkedIn</span>';
+  return esc(src || "");
+}
+
 /* ── rendering ────────────────────────────────────────────────── */
 function jobHTML(j, n, k) {
   const badges =
@@ -152,7 +159,7 @@ function jobHTML(j, n, k) {
       <div class="job-top">
         <span class="idx">${idx}</span>
         <span class="co">${esc(j.company)}</span>
-        <span class="src">${esc(j.source || "")}</span>
+        <span class="src">${sourceLabel(j.source)}</span>
       </div>
       <a class="job-title" href="${href}" target="_blank" rel="noopener">${esc(j.title)}</a>
       <div class="job-meta">

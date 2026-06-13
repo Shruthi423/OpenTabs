@@ -9,7 +9,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 """
 
-import json, os, time, hashlib, logging, schedule, requests, re, html, subprocess
+import json, os, time, hashlib, logging, schedule, requests, re, html, subprocess, math
 import feedparser
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
@@ -387,13 +387,25 @@ def scrape_jobspy(query: str, location: str, sites=None) -> list:
         if df is None or df.empty:
             return []
 
+        # JobSpy returns pandas NaN (a truthy float) for missing pay — guard
+        # against it, else int(NaN) raises and the whole query's rows are lost.
+        def _money(x):
+            try:
+                if x is None or (isinstance(x, float) and math.isnan(x)):
+                    return None
+                return int(x)
+            except (ValueError, TypeError):
+                return None
+
         jobs = []
         for _, row in df.iterrows():
             salary = "Not listed"
-            if row.get("min_amount") and row.get("max_amount"):
-                salary = f"${int(row['min_amount']):,} – ${int(row['max_amount']):,} / {row.get('interval','yr')}"
-            elif row.get("min_amount"):
-                salary = f"${int(row['min_amount']):,}+"
+            lo = _money(row.get("min_amount"))
+            hi = _money(row.get("max_amount"))
+            if lo and hi:
+                salary = f"${lo:,} – ${hi:,} / {row.get('interval','yr')}"
+            elif lo:
+                salary = f"${lo:,}+"
 
             job = {
                 "title":    str(row.get("title", "")).strip(),
@@ -830,14 +842,31 @@ def funding_is_relevant(title: str, description: str) -> bool:
         return False
     return True
 
+# Narrow set = "this segment is the funding sentence" (for ':' splits).
+_FUNDVERB_RE = re.compile(
+    r'\b(raises?|raised|secures?|secured|closes?|closed|lands?|nabs?|bags?|'
+    r'snags?|scores?|hauls?|nets?|pulls?|funding|round|backed|invests?|investment)\b', re.I)
+# Broad set = "the company name ends here" (where to cut the title).
+_CUT_RE = re.compile(
+    r'\b(raises?|raised|secures?|secured|closes?|closed|lands?|nabs?|bags?|snags?|'
+    r'scores?|hauls?|nets?|pulls?|gets?|gains?|announces?|launches?|unveils?|debuts?|'
+    r'is|are|was|were|eyeing|eyes|says?|to|valued?|hits?|reaches?|after|with|for|on)\b', re.I)
+_SEP_RE = re.compile(r'\s+[-–—|]\s+')   # " - Publisher" / "Company – descriptor"
+
 def _clean_company(title: str) -> str:
-    return (
-        title.split(" raises")[0].split(" Raises")[0]
-             .split(" secures")[0].split(" Secures")[0]
-             .split(" closes")[0].split(" Closes")[0]
-             .split(" lands")[0].split(" nabs")[0]
-             .split(",")[0].strip()
-    )
+    """Pull a clean company name out of a headline, incl. Google News titles
+    like 'Co raises $X led by VC - Publisher' or 'Lead-in: Co raises $X'."""
+    t = (title or "").strip()
+    t = _SEP_RE.split(t)[0]                       # drop trailing " - Publisher" / descriptors
+    if ":" in t:                                  # "Editorial lead-in: Company raises ..."
+        segs = [s.strip() for s in t.split(":") if s.strip()]
+        verby = [s for s in segs if _FUNDVERB_RE.search(s)]
+        t = verby[0] if verby else segs[-1]
+    m = _CUT_RE.search(t)
+    if m:
+        t = t[:m.start()]
+    t = t.split(",")[0].strip(" –—-:•·").strip()
+    return t or (title or "").split(",")[0].strip()
 
 def scrape_funding_rss(name: str, url: str) -> list:
     if is_cooling(name): return []
