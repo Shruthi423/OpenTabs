@@ -56,7 +56,7 @@ sup { font-size: .5em; vertical-align: super; }
 .nav {
   position: sticky; top: 0; z-index: 20;
   display: grid;
-  grid-template-columns: 1.4fr 1fr 1.2fr 1fr 1.8fr;
+  grid-template-columns: 1.4fr 1fr 1fr 1.2fr 1fr 1.8fr;
   background: var(--bg);
   border-bottom: 1px solid var(--line);
 }
@@ -152,6 +152,56 @@ input[type="range"]::-moz-range-thumb {
   border: 1px solid var(--line); cursor: pointer; padding: 0;
 }
 .sw.is-on { box-shadow: 0 0 0 2px var(--bg), 0 0 0 3px var(--fg); }
+
+/* ── Just Raised strip (funding radar) ─────────────────────────── */
+.raised { border-bottom: 1px solid var(--line); }
+.raised[hidden] { display: none; }
+.raised-head {
+  display: flex; align-items: baseline; gap: 10px;
+  padding: 20px 18px 14px; border-bottom: 1px solid var(--line);
+}
+.raised-head h2 {
+  margin: 0; font-size: 12px; text-transform: uppercase;
+  letter-spacing: .06em; font-weight: 700;
+}
+.raised-head em { font-style: normal; color: var(--mut); font-size: 12px; }
+.raised-head .hint { color: var(--mut); font-size: 12px; margin-left: auto; }
+.raised-rows {
+  display: grid; grid-auto-flow: column; grid-auto-columns: minmax(280px, 1fr);
+  overflow-x: auto; scroll-snap-type: x proximity;
+}
+.raise {
+  scroll-snap-align: start; min-width: 0;
+  padding: 16px 18px; border-right: 1px solid var(--line);
+}
+.raise-top {
+  display: flex; align-items: baseline; gap: 8px;
+  color: var(--mut); font-size: 11px; margin-bottom: 9px;
+}
+.raise-top .amt {
+  color: var(--spec); font-weight: 700; font-size: 15px; letter-spacing: -.01em;
+}
+.raise-top .badge.t1 { color: var(--fg); }
+.raise-top .src { margin-left: auto; }
+.raise-co {
+  display: block; color: var(--fg); font-family: var(--font-title);
+  font-size: calc(var(--spec-size, 24px) * .8); line-height: 1.12;
+  font-weight: 600; letter-spacing: -.02em; word-break: break-word;
+}
+.raise-co:hover { opacity: .78; }
+.raise-meta { margin-top: 8px; color: var(--mut); font-size: 11px; }
+.raise-meta .sep { opacity: .45; margin: 0 5px; }
+.roles { margin-top: 12px; display: flex; flex-direction: column; gap: 6px; }
+.roles-lbl {
+  color: var(--mut); font-size: 10px; text-transform: uppercase; letter-spacing: .06em;
+}
+.roles.none { color: var(--mut); font-size: 11px; font-style: italic; }
+a.role {
+  color: var(--spec); font-size: 12px;
+  border-bottom: 1px solid transparent; align-self: flex-start;
+}
+a.role:hover { border-bottom-color: var(--spec); }
+a.role .role-loc { color: var(--mut); }
 
 /* ── Three-column board ────────────────────────────────────────── */
 .board { display: grid; grid-template-columns: repeat(3, 1fr); }

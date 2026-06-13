@@ -5,8 +5,12 @@
 seen_jobs.json
 pending_jobs.json
 jobs_store.json
+seen_funding.json
+pending_funding.json
+funding_store.json
 tg_offset.json
 backfill_done.flag
+funding_backfill_done.flag
 *.log
 
 # Python

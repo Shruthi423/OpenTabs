@@ -23,6 +23,11 @@ load_dotenv()  # read secrets from a local .env file (never committed)
 CONFIG = {
     "TELEGRAM_BOT_TOKEN": os.environ["TELEGRAM_BOT_TOKEN"],
     "TELEGRAM_CHAT_ID":   os.environ["TELEGRAM_CHAT_ID"],
+    # ── Funding alerts → separate channel. CHAT_ID enables the feature;
+    #    TOKEN falls back to the job bot's token when left blank. ──
+    "TELEGRAM_FUNDING_BOT_TOKEN": os.environ.get("TELEGRAM_FUNDING_BOT_TOKEN", "").strip()
+                                  or os.environ["TELEGRAM_BOT_TOKEN"],
+    "TELEGRAM_FUNDING_CHAT_ID":   os.environ.get("TELEGRAM_FUNDING_CHAT_ID", "").strip(),
     "POLL_INTERVAL_MINUTES": 15,
     "REMINDER_MINUTES":      30,
     "HEARTBEAT_HOURS":       1,
@@ -33,6 +38,11 @@ CONFIG = {
     "PENDING_FILE": "pending_jobs.json",
     "STORE_FILE":   "jobs_store.json",      # authoritative job records + status (local)
     "WEB_FILE":     "docs/jobs.json",        # derived data the website reads (published)
+    # ── Funding pipeline state (local) + published data file ──
+    "SEEN_FUNDING_FILE":    "seen_funding.json",
+    "PENDING_FUNDING_FILE": "pending_funding.json",
+    "FUNDING_STORE_FILE":   "funding_store.json",
+    "FUNDING_WEB_FILE":     "docs/funding.json",
     "SITE_DIR":     "docs",                  # GitHub Pages serves from /docs on main
     "TG_OFFSET_FILE": "tg_offset.json",      # last processed Telegram update id
     "LOG_FILE":     "job_bot.log",
@@ -200,10 +210,15 @@ def job_id(title, company, location):
 # ─────────────────────────────────────────────────────────────────
 #  📬  TELEGRAM ONLY
 # ─────────────────────────────────────────────────────────────────
-def send_telegram(msg: str, reply_markup: dict = None) -> bool:
-    url = f"https://api.telegram.org/bot{CONFIG['TELEGRAM_BOT_TOKEN']}/sendMessage"
+def send_telegram(msg: str, reply_markup: dict = None,
+                  token: str = None, chat_id: str = None) -> bool:
+    # Defaults target the job channel; pass token/chat_id to reach another
+    # channel (e.g. the funding channel).
+    token   = token or CONFIG["TELEGRAM_BOT_TOKEN"]
+    chat_id = chat_id or CONFIG["TELEGRAM_CHAT_ID"]
+    url = f"https://api.telegram.org/bot{token}/sendMessage"
     payload = {
-        "chat_id":    CONFIG["TELEGRAM_CHAT_ID"],
+        "chat_id":    chat_id,
         "text":       msg,
         "parse_mode": "HTML",
         "disable_web_page_preview": False,
@@ -220,6 +235,13 @@ def send_telegram(msg: str, reply_markup: dict = None) -> bool:
         log.error(f"Telegram: {e}")
         return False
 
+def send_funding(msg: str) -> bool:
+    return send_telegram(msg, token=CONFIG["TELEGRAM_FUNDING_BOT_TOKEN"],
+                         chat_id=CONFIG["TELEGRAM_FUNDING_CHAT_ID"])
+
+def funding_enabled() -> bool:
+    return bool(CONFIG["TELEGRAM_FUNDING_CHAT_ID"])
+
 def notify(job: dict, reminder: bool = False, jid: str = ""):
     title   = job.get("title", "?")
     company = job.get("company", "?")
@@ -231,6 +253,7 @@ def notify(job: dict, reminder: bool = False, jid: str = ""):
     bt      = job.get("is_big_tech", False)
 
     badges = ""
+    if job.get("is_funded"): badges += "🔥 JUST RAISED  "
     if ng: badges += "🎓 NEW GRAD FRIENDLY  "
     if bt: badges += "⭐ BIG TECH"
 
@@ -715,6 +738,340 @@ def scrape_startups_gallery() -> list:
         log.error(f"Startups.Gallery: {e}")
     return jobs
 
+# ═════════════════════════════════════════════════════════════════
+#  💰  FUNDING RADAR — fresh raises = design hire incoming
+#  Scans VC news + SEC Form D, then for each freshly-funded company
+#  checks its Greenhouse/Ashby board for OPEN DESIGN ROLES. Matched
+#  roles are injected into the job board; the raise itself is alerted
+#  to a separate funding channel and shown in the "Just Raised" tab.
+# ═════════════════════════════════════════════════════════════════
+FUNDING_FEEDS = [
+    ("TechCrunch Venture",  "https://techcrunch.com/category/venture/feed/"),
+    ("TechCrunch Startups", "https://techcrunch.com/category/startups/feed/"),
+    ("TechCrunch Funding",  "https://techcrunch.com/tag/funding/feed/"),
+    ("VentureBeat",         "https://venturebeat.com/category/business/feed/"),
+    ("Crunchbase News",     "https://news.crunchbase.com/feed/"),
+    ("Fortune Term Sheet",  "https://fortune.com/section/term-sheet/feed/"),
+    ("StrictlyVC",          "https://strictlyvc.com/feed/"),
+    ("SiliconANGLE VC",     "https://siliconangle.com/category/venture-capital/feed/"),
+    ("GeekWire Funding",    "https://www.geekwire.com/tag/funding/feed/"),
+    ("a16z Blog",           "https://a16z.com/feed/"),
+    ("Sequoia Blog",        "https://www.sequoiacap.com/stories/feed/"),
+    ("YC Blog",             "https://www.ycombinator.com/blog/rss.xml"),
+    ("First Round Review",  "https://review.firstround.com/feed.xml"),
+]
+
+AMOUNT_RE = re.compile(r'\$\s*([\d,.]+)\s*(billion|million|B|M)\b', re.IGNORECASE)
+STAGE_RE  = re.compile(r'\b(pre-?seed|seed|series\s+[a-f]|bridge|extension)\b', re.IGNORECASE)
+STAGE_PRIORITY = {
+    "pre-seed": 10, "preseed": 10, "seed": 9,
+    "series a": 8, "series b": 7, "series c": 6,
+    "series d": 5, "bridge": 6, "extension": 5,
+}
+TIER1_VCS = {
+    "a16z", "andreessen", "sequoia", "benchmark", "greylock", "accel",
+    "kleiner", "lightspeed", "general catalyst", "founders fund",
+    "index ventures", "y combinator", "ycombinator", "first round",
+    "bessemer", "spark capital", "thrive capital", "khosla", "lux capital", "coatue",
+}
+FUNDING_SKIP_SECTORS = [
+    "biotech", "pharma", "drug", "clinical", "medical device",
+    "aerospace", "defense", "military", "mining", "agriculture",
+]
+FUNDING_WORDS = [
+    "raises", "raised", "funding", "investment", "round",
+    "backed", "seed", "series", "capital", "million", "billion",
+]
+
+def extract_funding(text: str) -> dict:
+    result = {"amount": None, "stage": None, "investors": None, "priority": 3}
+    m = AMOUNT_RE.search(text)
+    if m:
+        num  = float(m.group(1).replace(",", ""))
+        unit = m.group(2).lower()
+        result["amount"] = f"${num}B" if unit in ("billion", "b") else f"${num}M"
+    m = STAGE_RE.search(text)
+    if m:
+        stage = m.group(0).lower().strip()
+        result["stage"]    = stage.title()
+        result["priority"] = STAGE_PRIORITY.get(stage, 3)
+    inv_m = re.search(r'(?:led by|backed by|investors?[:\s]+)([\w\s,]+?)(?:\.|,\s+\w+\s+said|\n)',
+                      text, re.IGNORECASE)
+    if inv_m:
+        investors = inv_m.group(1).strip().rstrip(",")
+        result["investors"] = investors
+        if any(t in investors.lower() for t in TIER1_VCS):
+            result["priority"] += 3
+    return result
+
+def funding_is_relevant(title: str, description: str) -> bool:
+    text = f"{title} {description}".lower()
+    if not any(w in text for w in FUNDING_WORDS):
+        return False
+    if any(s in text for s in FUNDING_SKIP_SECTORS):
+        return False
+    return True
+
+def _clean_company(title: str) -> str:
+    return (
+        title.split(" raises")[0].split(" Raises")[0]
+             .split(" secures")[0].split(" Secures")[0]
+             .split(" closes")[0].split(" Closes")[0]
+             .split(" lands")[0].split(" nabs")[0]
+             .split(",")[0].strip()
+    )
+
+def scrape_funding_rss(name: str, url: str) -> list:
+    if is_cooling(name): return []
+    items = []
+    try:
+        r = requests.get(url, headers=H, timeout=15)
+        if r.status_code == 429: set_cooldown(name, 60); return []
+        if r.status_code != 200: return []
+        feed = feedparser.parse(r.content)
+        for entry in feed.entries[:20]:
+            title = (entry.get("title") or "").strip()
+            link  = (entry.get("link") or "").strip()
+            desc  = re.sub(r"<[^>]+>", "", (entry.get("summary") or entry.get("description") or "")).strip()
+            if not funding_is_relevant(title, desc):
+                continue
+            f = extract_funding(f"{title} {desc}")
+            items.append({
+                "company":   _clean_company(title),
+                "amount":    f["amount"],
+                "stage":     f["stage"],
+                "investors": f["investors"],
+                "source":    name,
+                "url":       link,
+                "priority":  f["priority"],
+            })
+    except Exception as e:
+        log.error(f"Funding RSS {name}: {e}")
+    return items
+
+def fetch_sec_edgar() -> list:
+    if is_cooling("sec"): return []
+    items = []
+    try:
+        today = now_pt().strftime("%Y-%m-%d")
+        r = requests.get(
+            "https://efts.sec.gov/LATEST/search-index?q=%22Form+D%22"
+            f"&dateRange=custom&startdt={today}&enddt={today}&forms=D",
+            headers={**H, "Accept": "application/json"}, timeout=20)
+        if r.status_code != 200: return []
+        for hit in r.json().get("hits", {}).get("hits", [])[:20]:
+            src     = hit.get("_source", {})
+            company = src.get("entity_name", "Unknown")
+            raw     = src.get("total_offering_amount", 0)
+            if raw and raw < 1_000_000: continue
+            amount  = f"${raw/1_000_000:.1f}M" if raw else None
+            items.append({
+                "company":   company,
+                "amount":    amount,
+                "stage":     "SEC Form D Filing",
+                "investors": "See filing",
+                "source":    "SEC EDGAR",
+                "url":       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany"
+                             f"&company={requests.utils.quote(company)}&type=D",
+                "priority":  3,
+            })
+    except Exception as e:
+        log.error(f"SEC EDGAR: {e}")
+    return items
+
+# ── Enrichment: does this freshly-funded company have open design roles? ──
+_CO_SUFFIX_RE = re.compile(r'\b(inc|llc|ltd|corp|co|technologies|technology|labs|ai|io|app)\b\.?',
+                           re.IGNORECASE)
+def _ats_slugs(company: str):
+    base = re.sub(r'\([^)]*\)', '', company).strip().lower()      # drop "(YC W24)"
+    base = _CO_SUFFIX_RE.sub('', base)
+    words = re.sub(r'[^a-z0-9 ]', '', base).split()
+    if not words: return []
+    cands = ["".join(words), words[0]]
+    if len(words) > 1:
+        cands.append("-".join(words))
+    seen, out = set(), []
+    for c in cands:
+        if c and c not in seen:
+            seen.add(c); out.append(c)
+    return out
+
+def find_company_design_roles(company: str) -> list:
+    """Best-effort: try the company's Greenhouse/Ashby board for US design roles."""
+    found = []
+    for slug in _ats_slugs(company)[:2]:        # cap lookups per company
+        for fetch in (_greenhouse_jobs, _ashby_jobs):
+            try:
+                for j in fetch(slug):
+                    if not j.get("title") or not j.get("url"):
+                        continue
+                    if not is_us(j.get("location", "")):
+                        continue
+                    if not classify(j["title"], j.get("company", ""), j.get("description", "")).get("relevant"):
+                        continue
+                    found.append(j)
+            except Exception:
+                pass
+            time.sleep(0.3)
+        if found:
+            break
+    # de-dupe by url
+    uniq, seen = [], set()
+    for j in found:
+        if j["url"] not in seen:
+            seen.add(j["url"]); uniq.append(j)
+    return uniq[:6]
+
+def funding_id(company, amount):
+    return hashlib.md5(f"{(company or '').lower()}|{amount or ''}".encode()).hexdigest()
+
+def notify_funding(item: dict, roles: list = None, reminder: bool = False):
+    company   = item.get("company", "Unknown")
+    amount    = item.get("amount") or "Undisclosed"
+    stage     = item.get("stage") or "?"
+    investors = item.get("investors") or "Undisclosed"
+    source    = item.get("source", "")
+    url       = item.get("url", "")
+    priority  = item.get("priority", 0)
+    roles     = roles or []
+
+    tier1 = "⭐ TIER 1 VC  " if priority >= 8  else ""
+    hot   = "🔥 HOT  "      if priority >= 10 else ""
+
+    roles_block = ""
+    if roles:
+        lines = "\n".join(f'• <a href="{r["url"]}">{r["title"]}</a> — {r.get("location","")}' for r in roles)
+        roles_block = f"\n\n🎯 <b>{len(roles)} open design role(s):</b>\n{lines}"
+
+    if reminder:
+        send_funding(
+            f"⏰ <b>REMINDER — Reached out yet?</b>\n\n"
+            f"💰 <b>{company}</b> raised <b>{amount}</b>\n"
+            f"Stage: {stage}  |  Investors: {investors}\n\n"
+            f"Fresh raise = design hire incoming. Contact the founder!{roles_block}\n\n"
+            f'🔗 <a href="{url}">Read More →</a>'
+        )
+    else:
+        send_funding(
+            f"💰 <b>NEW FUNDING ALERT!</b>\n{hot}{tier1}\n\n"
+            f"🏢 <b>{company}</b>\n"
+            f"💵 <b>Raised:</b> {amount}\n"
+            f"📈 <b>Stage:</b> {stage}\n"
+            f"👥 <b>Investors:</b> {investors}\n"
+            f"📰 <b>Source:</b> {source}{roles_block}\n\n"
+            f'🔗 <a href="{url}">Read Full Story →</a>\n\n'
+            f"💡 <i>Fresh raise = design hiring mode. Reach out within 48 hrs!</i>"
+        )
+
+def publish_funding():
+    try:
+        store = load_json(CONFIG["FUNDING_STORE_FILE"], {})
+        published = [v for v in store.values() if v.get("status") != "dismissed"]
+        published.sort(key=lambda f: f.get("first_seen", ""), reverse=True)
+        os.makedirs(CONFIG["SITE_DIR"], exist_ok=True)
+        save_json(CONFIG["FUNDING_WEB_FILE"], published)
+    except Exception as e:
+        log.error(f"publish_funding: {e}")
+
+def run_funding_check(job_seen: set, job_store: dict, job_pending: list,
+                      jobs_silent: bool) -> int:
+    """Scan funding sources, enrich with open design roles, alert + inject.
+    Mutates the passed job state in place; returns the count of new raises."""
+    if not funding_enabled():
+        return 0
+    log.info(f"💰 Funding check {now_pt().strftime('%H:%M:%S %Z')}")
+    f_seen    = set(load_json(CONFIG["SEEN_FUNDING_FILE"], []))
+    f_store   = load_json(CONFIG["FUNDING_STORE_FILE"], {})
+    f_pending = load_json(CONFIG["PENDING_FUNDING_FILE"], [])
+    f_silent  = not os.path.exists("funding_backfill_done.flag")
+
+    raises = []
+    for name, url in FUNDING_FEEDS:
+        raises.extend(scrape_funding_rss(name, url)); time.sleep(0.5)
+    raises.extend(fetch_sec_edgar())
+    raises.sort(key=lambda x: x.get("priority", 0), reverse=True)
+
+    new_count = 0
+    for item in raises:
+        company = item.get("company", "")
+        amount  = item.get("amount", "")
+        if not company:
+            continue
+        fid = funding_id(company, amount)
+        if fid in f_seen:
+            continue
+        f_seen.add(fid)
+        new_count += 1
+
+        roles = find_company_design_roles(company)
+        # Inject matched design roles into the job board (they're real openings)
+        for r in roles:
+            jid = job_id(r["title"], r.get("company", company), r.get("location", ""))
+            if jid in job_seen:
+                continue
+            job_seen.add(jid)
+            rank = location_rank(r.get("location", "")) or 4
+            flags = classify(r["title"], r.get("company", ""), r.get("description", ""))
+            first_seen = (now_pt() - timedelta(hours=CONFIG["NEW_HOURS"] + 1)) if jobs_silent else now_pt()
+            job_store[jid] = {
+                "id": jid, "title": r["title"], "company": r.get("company", company),
+                "location": r.get("location", ""), "salary": r.get("salary", "Not listed"),
+                "url": r.get("url", ""), "source": f"💰 {company} (just raised)",
+                "is_new_grad": bool(flags.get("is_new_grad")),
+                "is_big_tech": bool(flags.get("is_big_tech")),
+                "is_funded": True,
+                "funding_note": f"{company} raised {amount or 'a round'}",
+                "posted_at": "Recently", "priority": rank,
+                "first_seen": first_seen.isoformat(), "status": "active", "applied_at": None,
+            }
+            if not jobs_silent:
+                notify({**r, "is_funded": True}, jid=jid)
+                job_pending.append({
+                    "job": r,
+                    "remind_at": (now_pt() + timedelta(minutes=CONFIG["REMINDER_MINUTES"])).isoformat(),
+                })
+                time.sleep(1)
+
+        if not f_silent:
+            log.info(f"💰 {company} — {amount} [{item.get('source')}] · {len(roles)} role(s)")
+            notify_funding(item, roles)
+            f_pending.append({
+                "item": item,
+                "remind_at": (now_pt() + timedelta(minutes=CONFIG["REMINDER_MINUTES"])).isoformat(),
+            })
+            time.sleep(1)
+
+        f_store[fid] = {
+            "id": fid, "company": company, "amount": amount or "Undisclosed",
+            "stage": item.get("stage") or "?", "investors": item.get("investors") or "Undisclosed",
+            "source": item.get("source", ""), "url": item.get("url", ""),
+            "priority": item.get("priority", 0),
+            "roles": [{"title": r["title"], "url": r["url"], "location": r.get("location", "")} for r in roles],
+            "first_seen": (now_pt() - timedelta(hours=CONFIG["NEW_HOURS"] + 1)).isoformat() if f_silent else now_pt().isoformat(),
+            "status": "active",
+        }
+
+    # Funding reminders
+    still = []
+    for p in f_pending:
+        due = datetime.fromisoformat(p["remind_at"])
+        if due.tzinfo is None: due = due.replace(tzinfo=TZ)
+        if now_pt() >= due:
+            notify_funding(p["item"], reminder=True)
+        else:
+            still.append(p)
+
+    save_json(CONFIG["SEEN_FUNDING_FILE"], list(f_seen))
+    save_json(CONFIG["PENDING_FUNDING_FILE"], still)
+    save_json(CONFIG["FUNDING_STORE_FILE"], f_store)
+    publish_funding()
+    if f_silent:
+        open("funding_backfill_done.flag", "w").close()
+        log.info(f"🔇 Funding backfill: seeded {new_count} raises (no Telegram alerts).")
+    else:
+        log.info(f"✅ {new_count} new raises." if new_count else "😴 No new funding.")
+    return new_count
+
 # ─────────────────────────────────────────────────────────────────
 #  🌐  WEBSITE — data only. The page lives in docs/index.html + style.css
 #  + app.js (hand-authored, committed once). Python writes ONLY the data
@@ -836,6 +1193,10 @@ def run_check():
             })
             time.sleep(1)
 
+    # 💰 Funding radar — fresh raises + the design roles they're hiring for.
+    # Mutates seen/store/pending in place (injects matched roles as job cards).
+    run_funding_check(seen, store, pending, jobs_silent=silent)
+
     # Reminders — skip jobs already applied/dismissed from Telegram
     still = []
     for item in pending:
@@ -873,8 +1234,9 @@ def daily_digest():
         f"🎯 {len(SEARCH_QUERIES)} search queries active\n"
         f"🌐 LinkedIn · Indeed · Glassdoor · ZipRecruiter\n"
         f"   + Remotive · Dribbble · WeWorkRemotely + more\n"
-        f"🏢 {len(BIG_TECH)} big tech companies monitored\n\n"
-        f"<i>🎓 Graduating May 2026 — let's get that offer!</i>"
+        f"🏢 {len(BIG_TECH)} big tech companies monitored\n"
+        + (f"💰 {len(FUNDING_FEEDS)} funding feeds + SEC Form D → design-role radar\n" if funding_enabled() else "")
+        + f"\n<i>🎓 Graduating May 2026 — let's get that offer!</i>"
     )
 
 # ─────────────────────────────────────────────────────────────────
@@ -905,6 +1267,15 @@ if __name__ == "__main__":
            f"   Tap ✅/🗑 on alerts to sort jobs\n\n" if CONFIG["GITHUB_USER"] else "") +
         f"<i>Graduating May 2026 — let's get that offer! 🚀</i>"
     )
+
+    if funding_enabled():
+        send_funding(
+            f"💰 <b>Funding Radar is LIVE!</b>\n\n"
+            f"📡 {len(FUNDING_FEEDS)} VC news feeds + SEC Form D\n"
+            f"🎯 Each fresh raise → I check the company's careers board "
+            f"for open design roles and push them to your job board.\n\n"
+            f"<i>Fresh raise = design hire incoming. Reach out within 48 hrs! 🚀</i>"
+        )
 
     run_check()
     schedule.every(CONFIG["POLL_INTERVAL_MINUTES"]).minutes.do(run_check)
