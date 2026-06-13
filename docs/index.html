@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenTabs</title>
+  <meta name="description" content="OpenTabs — live design-job board: New, Yet to Apply, Applied.">
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <!-- ── Top navigation (brand · section tabs · status) ────────────── -->
+  <header class="nav">
+    <a class="cell brand" href="#top">
+      <svg class="logo" viewBox="0 0 256 256" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M232,216H208V40a16,16,0,0,0-16-16H64A16,16,0,0,0,48,40V216H24a8,8,0,0,0,0,16H232a8,8,0,0,0,0-16Zm-64,0H64V40H168Zm-40-84a12,12,0,1,1,12,12A12,12,0,0,1,128,132Z"></path></svg>
+      <span>OpenTabs</span>
+    </a>
+    <a class="cell tab" data-jump="new"><span class="t">New <em data-count="new">0</em></span></a>
+    <a class="cell tab" data-jump="yet"><span class="t">Yet to Apply <em data-count="yet">0</em></span></a>
+    <a class="cell tab" data-jump="app"><span class="t">Applied <em data-count="app">0</em></span></a>
+    <div class="cell status" id="status">Loading…</div>
+    <button class="cell menu" id="menuBtn" aria-label="Toggle filters">Filters</button>
+  </header>
+
+  <!-- ── Filter / control bars ─────────────────────────────────────── -->
+  <section class="controls" id="controls">
+    <div class="row">
+      <label class="field search">
+        <input id="q" type="search" placeholder="Search title or company" autocomplete="off">
+      </label>
+      <label class="field">
+        <span class="lbl">Source</span>
+        <select id="fSource"><option value="">All</option></select>
+      </label>
+      <label class="field">
+        <span class="lbl">Location</span>
+        <select id="fLoc">
+          <option value="">All</option>
+          <option value="san francisco">San Francisco</option>
+          <option value="bay area">Bay Area</option>
+          <option value="remote">Remote</option>
+        </select>
+      </label>
+      <label class="field">
+        <span class="lbl">Badges</span>
+        <select id="fBadge">
+          <option value="">All</option>
+          <option value="ng">New Grad</option>
+          <option value="bt">Big Tech</option>
+        </select>
+      </label>
+      <label class="field size">
+        <span class="lbl"><span id="sizeVal">24</span>px</span>
+        <input id="size" type="range" min="14" max="44" value="24">
+      </label>
+    </div>
+
+    <div class="row sub">
+      <div class="left">
+        <span class="count" id="count">0</span> results
+        <span class="seg">
+          <button class="view is-on" data-view="board">Column view</button>
+          <button class="view" data-view="list">List view</button>
+        </span>
+      </div>
+      <div class="right">
+        <span class="sortlbl">Sort by</span>
+        <span class="seg">
+          <button class="sort is-on" data-sort="new">Newest</button>
+          <button class="sort" data-sort="salary">Salary</button>
+          <button class="sort" data-sort="company">A–Z</button>
+        </span>
+        <span class="swatches" id="swatches" aria-label="Colour theme">
+          <button class="sw" data-theme="dark"  style="--c:#0c0d0f" title="Dark"></button>
+          <button class="sw" data-theme="paper" style="--c:#ffffff" title="Paper"></button>
+          <button class="sw" data-theme="blush" style="--c:#f4dcda" title="Blush"></button>
+          <button class="sw" data-theme="mint"  style="--c:#d9f0db" title="Mint"></button>
+          <button class="sw" data-theme="cream" style="--c:#f1efbe" title="Cream"></button>
+        </span>
+        <button class="reset" id="resetBtn">Reset All</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Three-column board ────────────────────────────────────────── -->
+  <main id="top" class="board">
+    <section class="col" id="sec-new">
+      <div class="col-head"><h2>New</h2><em data-count="new">0</em><span class="hint">last 24 hours</span></div>
+      <div class="rows" id="rows-new"></div>
+    </section>
+    <section class="col" id="sec-yet">
+      <div class="col-head"><h2>Yet to Apply</h2><em data-count="yet">0</em><span class="hint">not applied yet</span></div>
+      <div class="rows" id="rows-yet"></div>
+    </section>
+    <section class="col" id="sec-app">
+      <div class="col-head"><h2>Applied</h2><em data-count="app">0</em><span class="hint">done via Telegram</span></div>
+      <div class="rows" id="rows-app"></div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <span class="stats"><b id="statOpen">0</b> tabs open · <b id="statDone">0</b> done</span>
+    <span class="tagline">Close the tabs. Get the offer.</span>
+  </footer>
+
+  <a href="#top" class="totop" aria-label="Back to top">Top</a>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/Flip.min.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
