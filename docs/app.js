@@ -14,7 +14,7 @@ const state = {
   source: "",
   loc: "",
   badge: "",
-  sort: "new",
+  sort: "priority",
   size: +(localStorage.getItem("size") || 24),
   theme: localStorage.getItem("theme") || "dark",
   view: localStorage.getItem("view") || "board",   // "board" (3 cols) or "list"
@@ -118,6 +118,11 @@ function visible() {
     return true;
   });
   out.sort((a, b) => {
+    if (state.sort === "priority") {                 // SF → Bay → Seattle/LA/NY/Philly → US → remote
+      const pa = a.priority || 9, pb = b.priority || 9;
+      if (pa !== pb) return pa - pb;
+      return (b.first_seen || "").localeCompare(a.first_seen || "");
+    }
     if (state.sort === "salary")  return salaryNum(b.salary) - salaryNum(a.salary);
     if (state.sort === "company") return (a.company || "").localeCompare(b.company || "");
     return (b.first_seen || "").localeCompare(a.first_seen || ""); // newest
@@ -238,9 +243,9 @@ function bind() {
   }));
 
   $("#resetBtn").addEventListener("click", () => {
-    Object.assign(state, { q: "", source: "", loc: "", badge: "", sort: "new" });
+    Object.assign(state, { q: "", source: "", loc: "", badge: "", sort: "priority" });
     $("#q").value = ""; $("#fSource").value = ""; $("#fLoc").value = ""; $("#fBadge").value = "";
-    $$('[data-sort]').forEach((x) => x.classList.toggle("is-on", x.dataset.sort === "new"));
+    $$('[data-sort]').forEach((x) => x.classList.toggle("is-on", x.dataset.sort === "priority"));
     render(true);
   });
 
