@@ -849,9 +849,12 @@ _FUNDVERB_RE = re.compile(
 # Broad set = "the company name ends here" (where to cut the title).
 _CUT_RE = re.compile(
     r'\b(raises?|raised|secures?|secured|closes?|closed|lands?|nabs?|bags?|snags?|'
-    r'scores?|hauls?|nets?|pulls?|gets?|gains?|announces?|launches?|unveils?|debuts?|'
-    r'is|are|was|were|eyeing|eyes|says?|to|valued?|hits?|reaches?|after|with|for|on)\b', re.I)
+    r'scores?|hauls?|nets?|pulls?|gets?|gains?|announces?|launch(?:es|ed)?|unveils?|'
+    r'debuts?|invests?|seeks?|seeking|locks?|emerges?|is|are|was|were|eyeing|eyes|'
+    r'says?|to|valued?|hits?|reaches?|after|with|for|on)\b', re.I)
 _SEP_RE = re.compile(r'\s+[-–—|]\s+')   # " - Publisher" / "Company – descriptor"
+# "Seattle startup Emphere" / "Oslo-based AI startup Mimir" → the name follows "startup".
+_DESCRIPTOR_RE = re.compile(r'\bstartups?\b\s+(.+)$', re.I)
 
 def _clean_company(title: str) -> str:
     """Pull a clean company name out of a headline, incl. Google News titles
@@ -862,11 +865,34 @@ def _clean_company(title: str) -> str:
         segs = [s.strip() for s in t.split(":") if s.strip()]
         verby = [s for s in segs if _FUNDVERB_RE.search(s)]
         t = verby[0] if verby else segs[-1]
+    dm = _DESCRIPTOR_RE.search(t)                 # strip "City/AI startup <Name>" lead-in
+    if dm and dm.group(1) and not _CUT_RE.match(dm.group(1)):
+        t = dm.group(1)
     m = _CUT_RE.search(t)
     if m:
         t = t[:m.start()]
-    t = t.split(",")[0].strip(" –—-:•·").strip()
+    t = t.split(",")[0].strip(" –—-:•·[](){}").strip()
     return t or (title or "").split(",")[0].strip()
+
+# A roundup/editorial headline isn't a single company — skip these.
+_ROUNDUP_RE = re.compile(
+    r'\b(funding wrap|wrap|weekly|this week|week in|roundup|round-up|recap|digest|'
+    r'report|rises?|grew|grows|list of|top \d|deals?|acquisitions?|edition|frenzy|'
+    r'race|investments?|takes the bulk)\b', re.I)
+
+def _is_company_like(name: str) -> bool:
+    """Heuristic: does this look like a real company name vs. a news headline?"""
+    n = (name or "").strip()
+    if not (2 <= len(n) <= 40):           return False
+    if re.match(r'^\d', n):               return False   # "30", "3 top VCs"
+    if any(c in n for c in "%[]{}"):      return False
+    if len(n.split()) > 6:                return False
+    if _ROUNDUP_RE.search(n):             return False
+    if n.lower().endswith(("startup", "startups", "founder", "founders",
+                           "ventures", "partners", "capital")):
+        return False                                     # descriptor / VC firm, not a raiser
+    if n.lower() == n and " " in n:       return False   # all-lowercase multiword ≠ a name
+    return True
 
 def scrape_funding_rss(name: str, url: str) -> list:
     if is_cooling(name): return []
@@ -882,9 +908,12 @@ def scrape_funding_rss(name: str, url: str) -> list:
             desc  = re.sub(r"<[^>]+>", "", (entry.get("summary") or entry.get("description") or "")).strip()
             if not funding_is_relevant(title, desc):
                 continue
+            company = _clean_company(title)
+            if not _is_company_like(company):     # skip roundups / non-company headlines
+                continue
             f = extract_funding(f"{title} {desc}")
             items.append({
-                "company":   _clean_company(title),
+                "company":   company,
                 "amount":    f["amount"],
                 "stage":     f["stage"],
                 "investors": f["investors"],
