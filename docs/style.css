@@ -165,9 +165,20 @@ input[type="range"]::-moz-range-thumb {
 }
 .ico-fire { flex: none; color: var(--spec); }
 .raised-intro p { margin: 0; color: var(--mut); font-size: 13px; line-height: 1.55; }
-.feed {
+.feed-controls {
+  display: flex; align-items: center; gap: 18px;
+  padding: 13px 24px; border-bottom: 1px solid var(--line);
+}
+.feed-controls .count { color: var(--mut); font-size: 12px; }
+.feed-controls .count b { color: var(--fg); font-weight: 700; }
+/* Column view = responsive card grid */
+.feed.cols {
   display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 }
+/* List view = full-width stacked rows */
+.feed.list { display: block; }
+.feed.list .raise { border-right: 0; padding: 22px 24px; }
+.feed.list .raise-co { font-size: calc(var(--spec-size, 24px) * .95); }
 .feed-empty { padding: 40px 24px; color: var(--mut); font-size: 13px; }
 .raise {
   min-width: 0; padding: 18px 20px;

@@ -52,6 +52,7 @@ function render(data) {
 
   $("#raisedCount").textContent = live.length;
   $("#statRaises").textContent  = live.length;
+  $("#statRaises2").textContent = live.length;
   $("#status").textContent = live.length
     ? "Updated " + new Date().toLocaleTimeString()
     : "No data yet";
@@ -72,5 +73,17 @@ function load() {
     .catch(() => { $("#status").textContent = "No data yet"; $("#empty").textContent = "Couldn't load funding data."; });
 }
 
+/* ── Column / List view toggle (persisted, independent of the board) ── */
+let view = localStorage.getItem("raisedView") || "cols";
+function applyView() {
+  if (!["cols", "list"].includes(view)) view = "cols";
+  $("#feed").className = "feed " + view;
+  $$('[data-rview]').forEach((b) => b.classList.toggle("is-on", b.dataset.rview === view));
+}
+$$('[data-rview]').forEach((b) => b.addEventListener("click", () => {
+  view = b.dataset.rview; localStorage.setItem("raisedView", view); applyView();
+}));
+
+applyView();
 load();
 setInterval(load, 60000);   // live: silent refresh every 60s

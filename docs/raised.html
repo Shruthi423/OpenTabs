@@ -31,8 +31,17 @@
        I found on the company's careers board. Reach out to the founder early.</p>
   </section>
 
+  <!-- ── View toggle ───────────────────────────────────────────────── -->
+  <div class="feed-controls">
+    <span class="count"><b id="statRaises2">0</b> raises</span>
+    <span class="seg">
+      <button class="rview is-on" data-rview="cols">Column view</button>
+      <button class="rview" data-rview="list">List view</button>
+    </span>
+  </div>
+
   <!-- ── Funding feed ──────────────────────────────────────────────── -->
-  <main class="feed" id="feed">
+  <main class="feed cols" id="feed">
     <div class="feed-empty" id="empty">Loading funding news…</div>
   </main>
 
