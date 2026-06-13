@@ -4,7 +4,7 @@ Scrapes UX/product design jobs from LinkedIn, Indeed, Glassdoor, ZipRecruiter,
 Y Combinator, BuiltIn SF and many design boards, sends Telegram alerts, and
 publishes a live one-page dashboard. Built for an early-career designer job hunt.
 
-**Live dashboard:** https://shruthi423.github.io/OpenTabs_job_bot/
+**Live dashboard:** https://shruthi423.github.io/OpenTabs/
 
 ## Setup
 
