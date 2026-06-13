@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenTabs — Just Raised</title>
+  <meta name="description" content="OpenTabs — funding radar: startups that just raised and the design roles they're hiring for.">
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <!-- ── Top navigation (brand · back to board · status) ───────────── -->
+  <header class="nav nav-raised">
+    <a class="cell brand" href="#top">
+      <svg class="logo" viewBox="0 0 256 256" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M232,216H208V40a16,16,0,0,0-16-16H64A16,16,0,0,0,48,40V216H24a8,8,0,0,0,0,16H232a8,8,0,0,0,0-16Zm-64,0H64V40H168Zm-40-84a12,12,0,1,1,12,12A12,12,0,0,1,128,132Z"></path></svg>
+      <span>OpenTabs</span>
+    </a>
+    <a class="cell tab" href="./index.html"><span class="t">← Job Board</span></a>
+    <a class="cell tab is-active"><span class="t">Just Raised <em id="raisedCount">0</em></span></a>
+    <div class="cell status" id="status">Loading…</div>
+  </header>
+
+  <!-- ── Page intro ────────────────────────────────────────────────── -->
+  <section class="raised-intro" id="top">
+    <h1>Just Raised</h1>
+    <p>Startups that closed a round recently — fresh money usually means a design
+       hire is coming. Each card links to the article and any open design roles
+       I found on the company's careers board. Reach out to the founder early.</p>
+  </section>
+
+  <!-- ── Funding feed ──────────────────────────────────────────────── -->
+  <main class="feed" id="feed">
+    <div class="feed-empty" id="empty">Loading funding news…</div>
+  </main>
+
+  <footer class="foot">
+    <span class="stats"><b id="statRaises">0</b> raises tracked</span>
+    <span class="tagline">Fresh raise = design hire incoming.</span>
+  </footer>
+
+  <a href="#top" class="totop" aria-label="Back to top">Top</a>
+  <script src="./raised.js"></script>
+</body>
+</html>

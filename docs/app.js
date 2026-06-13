@@ -191,34 +191,10 @@ function render(animate) {
   if (animate) reveal();
 }
 
-/* ── Just Raised strip (funding radar) ────────────────────────── */
-function fundHTML(f, n) {
-  const idx   = String(n).padStart(2, "0");
-  const tier1 = (f.priority || 0) >= 8;
-  const roles = (f.roles || []).map((r) =>
-    `<a class="role" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}` +
-    (r.location ? `<span class="role-loc"> · ${esc(r.location)}</span>` : "") + `</a>`).join("");
-  return `<div class="raise">
-      <div class="raise-top">
-        <span class="idx">${idx}</span>
-        <span class="amt">${esc(f.amount || "Undisclosed")}</span>
-        ${tier1 ? '<span class="badge t1">Tier-1 VC</span>' : ""}
-        <span class="src">${esc(f.source || "")}</span>
-      </div>
-      <a class="raise-co" href="${esc(f.url || "#")}" target="_blank" rel="noopener">${esc(f.company)}</a>
-      <div class="raise-meta">${esc(f.stage || "—")}<span class="sep">/</span>${esc(f.investors || "—")}</div>
-      ${roles ? `<div class="roles"><span class="roles-lbl">Open design roles</span>${roles}</div>`
-              : `<div class="roles none">No design roles posted yet — DM the founder.</div>`}
-    </div>`;
-}
-
+/* ── Funding lives on its own page (raised.html). Here we only surface
+   the count on the "Just Raised" nav tab. ───────────────────────── */
 function renderFunding() {
-  const sec = $("#sec-raised");
   const live = FUND.filter((f) => f.status !== "dismissed");
-  if (!live.length) { if (sec) sec.hidden = true; return; }
-  if (sec) sec.hidden = false;
-  live.sort((a, b) => (b.first_seen || "").localeCompare(a.first_seen || ""));
-  $("#rows-raised").innerHTML = live.map((f, i) => fundHTML(f, i + 1)).join("");
   $$('[data-count="raised"]').forEach((el) => (el.textContent = live.length));
 }
 
