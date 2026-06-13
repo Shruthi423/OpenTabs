@@ -242,7 +242,7 @@ a.role .role-loc { color: var(--mut); }
 .job-top .idx { color: var(--mut); }
 .job-top .co { color: var(--fg); }
 .job-top .src { margin-left: auto; display: inline-flex; align-items: center; gap: 4px; }
-.ico-li { flex: none; vertical-align: middle; }
+.ico-li, .ico-money { flex: none; vertical-align: middle; }
 .job-title {
   display: block; color: var(--spec); font-family: var(--font-title);
   font-size: var(--spec-size, 24px); line-height: 1.12;
