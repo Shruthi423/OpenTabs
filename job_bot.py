@@ -65,20 +65,14 @@ SEARCH_QUERIES = [
     "design systems designer",
     "interaction designer",
     "visual designer",
-    "design lead",
-    "head of design",
 ]
 
-GOOGLE_QUERIES = [
-    "product designer jobs San Francisco Bay Area entry level 2026",
-    "UX designer jobs San Francisco remote new grad",
-    "founding designer startup San Francisco 2026",
-]
-
+# US-focused. "United States" pulls nationwide (LinkedIn/Indeed); the
+# location_rank() filter then keeps US-only and ranks by priority.
 LOCATIONS = [
-    "San Francisco Bay Area, CA",
     "San Francisco, CA",
-    "Remote",
+    "San Francisco Bay Area, CA",
+    "United States",
 ]
 
 # ─────────────────────────────────────────────────────────────────
@@ -103,14 +97,16 @@ INCLUDE = [
     "interaction designer", "visual designer", "ux researcher",
     "user researcher", "design researcher", "design systems",
     "design technologist", "service designer", "founding designer",
-    "motion designer", "brand designer", "head of design",
-    "design manager", "design lead", "design director",
+    "motion designer", "brand designer",
 ]
 EXCLUDE = [
     "graphic designer", "fashion", "interior design", "industrial design",
     "game designer", "floral", "packaging", "print designer",
     "instructional designer", "curriculum", "learning designer",
     "software engineer", "data engineer", "devops", "web developer",
+    # seniority — we want roles for ≤4 years of experience
+    "senior", "staff", "principal", "lead", "director", "head of",
+    "vp ", "vice president", "manager",
 ]
 NEW_GRAD_SIGNALS = [
     "new grad", "new graduate", "entry level", "entry-level", "junior",
@@ -125,6 +121,14 @@ def _kw_hit(kw: str, text: str) -> bool:
         return re.search(rf"\b{re.escape(kw)}\b", text) is not None
     return kw in text
 
+def _too_senior(text: str) -> bool:
+    # Exclude roles whose MINIMUM required experience is 5+ years.
+    # "3-5 years" → min 3 (kept); "5+ years" / "6 years" → min 5+ (dropped).
+    for m in re.finditer(r'(\d+)\s*\+?\s*(?:-|to|–|—)?\s*\d*\s*(?:years|yrs)\b', text):
+        if int(m.group(1)) >= 5:
+            return True
+    return False
+
 def classify(title: str, company: str = "", description: str = "") -> dict:
     text = f"{title} {description}".lower()
     tl   = title.lower()
@@ -132,6 +136,8 @@ def classify(title: str, company: str = "", description: str = "") -> dict:
     for ex in EXCLUDE:
         if ex in tl:
             return {"relevant": False}
+    if _too_senior(text):
+        return {"relevant": False}
     if not any(_kw_hit(kw, text) for kw in INCLUDE):
         return {"relevant": False}
     return {
@@ -339,7 +345,7 @@ def scrape_jobspy(query: str, location: str, sites=None) -> list:
         return []
 
     if sites is None:
-        sites = ["linkedin", "indeed", "glassdoor", "zip_recruiter"]
+        sites = ["linkedin", "indeed"]   # Glassdoor (400) & ZipRecruiter (403) block scraping
 
     active = [s for s in sites if not is_cooling(s)]
     if not active:
@@ -446,13 +452,59 @@ RSS_FEEDS = [
 # ─────────────────────────────────────────────────────────────────
 #  🌉  SF / BAY AREA + STARTUP SOURCES (custom scrapers)
 # ─────────────────────────────────────────────────────────────────
-SF_TERMS = [
-    "san francisco", "bay area", "palo alto", "mountain view", "sunnyvale",
-    "san jose", "oakland", "berkeley", "menlo park", "redwood city",
-    "santa clara", "south san francisco", "remote",
+# ── US-only location filter with priority tiers ──
+#   1 = San Francisco · 2 = Bay Area · 3 = Seattle/LA/NY/Philly ·
+#   4 = other US · 5 = US-remote · None = explicit foreign (excluded)
+NON_US = [
+    "india", "bengaluru", "bangalore", "mumbai", "delhi", "hyderabad", "pune",
+    "chennai", "gurgaon", "noida", "kolkata", "ahmedabad",
+    "dubai", "abu dhabi", "uae", "united arab emirates", "qatar", "doha",
+    "saudi", "riyadh", "bahrain", "kuwait", "oman",
+    "united kingdom", "england", "scotland", " uk", "u.k", "london", "manchester",
+    "canada", "toronto", "vancouver", "montreal", "ottawa", "ontario", "calgary",
+    "germany", "berlin", "munich", "hamburg", "france", "paris", "lyon",
+    "netherlands", "amsterdam", "spain", "madrid", "barcelona", "portugal", "lisbon",
+    "ireland", "dublin", "poland", "warsaw", "krakow", "romania", "bucharest", "ukraine",
+    "italy", "rome", "milan", "sweden", "stockholm", "denmark", "copenhagen",
+    "norway", "oslo", "finland", "helsinki", "switzerland", "zurich", "geneva",
+    "austria", "vienna", "belgium", "brussels", "czech", "prague", "hungary", "budapest",
+    "greece", "athens", "singapore", "australia", "sydney", "melbourne", "brisbane",
+    "new zealand", "auckland", "brazil", "sao paulo", "mexico", "argentina",
+    "colombia", "bogota", "chile", "peru", "japan", "tokyo", "china", "beijing",
+    "shanghai", "hong kong", "taiwan", "south korea", "seoul",
+    "pakistan", "nepal", "bangladesh", "sri lanka", "nigeria", "lagos", "kenya",
+    "nairobi", "egypt", "cairo", "morocco", "tunisia", "ghana", "uzbekistan",
+    "south africa", "philippines", "manila", "indonesia", "jakarta", "vietnam",
+    "hanoi", "thailand", "bangkok", "malaysia", "kuala lumpur", "turkey", "türkiye",
+    "istanbul", "israel", "tel aviv", "worldwide", "emea", "apac", "latam",
 ]
-def sf_or_remote(location: str) -> bool:
-    return any(t in location.lower() for t in SF_TERMS)
+_P2_BAY = ["bay area", "oakland", "palo alto", "mountain view", "san jose",
+           "sunnyvale", "berkeley", "menlo park", "redwood city", "santa clara",
+           "south san francisco", "cupertino", "fremont", "emeryville", "san mateo"]
+_P3_CITIES = ["seattle", "los angeles", "l.a.", "new york", "nyc", "manhattan",
+              "brooklyn", "philadelphia", "philly"]
+_US_STATE_RE = re.compile(
+    r',\s*(a[klzr]|c[aot]|d[ce]|fl|ga|hi|i[adln]|k[sy]|la|m[adeinost]|n[cdehjmvy]|'
+    r'o[hkr]|pa|ri|s[cd]|t[nx]|ut|v[at]|w[aivy])\b', re.I)
+
+def location_rank(location: str):
+    t = (location or "").lower()
+    if any(tok in t for tok in NON_US):
+        return None
+    if "san francisco" in t:
+        return 1
+    if any(k in t for k in _P2_BAY):
+        return 2
+    if any(k in t for k in _P3_CITIES):
+        return 3
+    if "united states" in t or "usa" in t or re.search(r'\bu\.?s\.?a?\b', t) or _US_STATE_RE.search(t):
+        return 4
+    if "remote" in t:
+        return 5
+    return None
+
+def is_us(location: str) -> bool:
+    return location_rank(location) is not None
 
 # ── Y Combinator (workatastartup.com) — real YC startups, structured JSON ──
 def scrape_yc() -> list:
@@ -506,7 +558,7 @@ def scrape_opendoors() -> list:
                 loc = f"Remote ({city})" if city else "Remote"
             else:
                 loc = ", ".join(p for p in [city, ctry] if p) or "See posting"
-            if not sf_or_remote(loc):
+            if not is_us(loc):
                 continue
             jobs.append({
                 "title":    (j.get("title") or "").strip(),
@@ -590,7 +642,7 @@ def scrape_uiuxjobsboard() -> list:
             comp = j.get("company") or {}
             city = (j.get("city") or "").strip()
             loc  = "Remote" if j.get("remote") else (city or (j.get("country") or "").strip() or "See posting")
-            if not sf_or_remote(loc): continue
+            if not is_us(loc): continue
             jobs.append({
                 "title":    (j.get("title") or "").strip(),
                 "company":  (comp.get("name") if isinstance(comp, dict) else "") or "Unknown",
@@ -658,7 +710,7 @@ def scrape_startups_gallery() -> list:
             jobs.extend(_greenhouse_jobs(co)); time.sleep(0.5)
         for co in list(ash)[:25]:
             jobs.extend(_ashby_jobs(co)); time.sleep(0.5)
-        jobs = [j for j in jobs if sf_or_remote(j["location"])]
+        jobs = [j for j in jobs if is_us(j["location"])]
     except Exception as e:
         log.error(f"Startups.Gallery: {e}")
     return jobs
@@ -707,6 +759,14 @@ def run_check():
     seen    = load_seen()
     pending = load_pending()
     store   = load_store()
+    # Clean the existing board: drop non-US / too-senior jobs and (re)tag priority
+    for _jid in list(store.keys()):
+        _rec  = store[_jid]
+        _rank = location_rank(_rec.get("location", ""))
+        if _rank is None or not classify(_rec.get("title", ""), _rec.get("company", "")).get("relevant"):
+            del store[_jid]
+        else:
+            _rec["priority"] = _rank
     new_count = 0
     all_jobs  = []
 
@@ -741,6 +801,9 @@ def run_check():
         if not flags["relevant"]:
             continue
         job.update(flags)
+        rank = location_rank(job.get("location", ""))
+        if rank is None:
+            continue  # not in the USA — skip
         jid = job_id(job["title"], job.get("company",""), job.get("location",""))
         if jid in seen:
             continue
@@ -759,6 +822,7 @@ def run_check():
             "is_new_grad": bool(job.get("is_new_grad")),
             "is_big_tech": bool(job.get("is_big_tech")),
             "posted_at":   job.get("posted_at", "Recently"),
+            "priority":    rank,
             "first_seen":  first_seen.isoformat(),
             "status":      "active",
             "applied_at":  None,
