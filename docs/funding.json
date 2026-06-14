@@ -1,5 +1,57 @@
 [
   {
+    "id": "4aacc59ddc19a8a99e9d932e790d663f",
+    "company": "Funding Friday",
+    "amount": "$54.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGbDFSb3c3V21tVG05NWhhWHVLbG5xS21NTnRpbU1JTVRyZUNnelVUcnVobnAxalNYNkxYOXlFTXRHSUxldzdRNnFrcklFRkVlbXBLc0lrR3dLQm5zNEl0Rm9uSThWTVND?oc=5",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-14T09:55:50.846432-07:00",
+    "status": "active"
+  },
+  {
+    "id": "400091ff548e454f05102a8429e46aac",
+    "company": "Nvidia executive",
+    "amount": "$740.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/why-is-the-cost-of-ai-higher-than-human-workers-nvidia-executive/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-14T09:55:47.482548-07:00",
+    "status": "active"
+  },
+  {
+    "id": "d9353e5d7d641d08a8d6636c642e0221",
+    "company": "REMEDY",
+    "amount": "Undisclosed",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFRKTEtTb2hyeEZVeUdLaFQtQ2VmUFBta3gxV0pQLUpZdS1TWGl0cjRxai1DNEoxTU13SFZPeVdEbzIza2Z0dGxzelJtUDhFc1FvbEtEQk11QktaamhRMVQyME55ajFxSDlLeldKaFpmVWJ4ZU84Sk1kRDJTZl9mMTBSWU9iNjlSSjBPQ0xVQnZrWjNWdGfSAZsBQVVfeXFMT3k5eFR2T2tKeWU4VGgxMEIzVmlPbVdwV0JzMWc4dkxFUTRQaE1GeVhlMm1sUXNIeTRaWDZ3M3laeFVVb2kta19ENUJUclItTWpVaU9VRVZkczdNMjZRUVllYkpiNzFoeWFSSmVFdGluc0Vwa1dXLVNkbG5KUU1hRE95T3gtNlJJdDh2THFhOEdxYzJ3eHpQTG00OXc?oc=5",
+    "priority": 8,
+    "roles": [],
+    "first_seen": "2026-06-14T09:55:44.148529-07:00",
+    "status": "active"
+  },
+  {
+    "id": "3abdeef4fea7e5de43de549597134376",
+    "company": "Lium",
+    "amount": "$5.5M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWkhrU09JS0NQWmg5NnJ0ZGF4NzdMN1FOM1JqUzR0UjFQTktCemZhY09MZ3dKbEtYMERqb21aM3I1VTFlMXM5U0JISVczYlZiS1VQRERrc3ptcTYtak1mNnhrRU51S1NsdTBrYVJEbjZYOUxFOG5MUDNqLXk5U0IxMUNMU2VBbzRKWTRYY0M0a3JadWszSTRXUnZua0trUEFYc2FwcDhyaUNXN0dSRzlRd3A0M0NDbDlZdndINEx2YW54d9IBxwFBVV95cUxPeUk4MHBXeVdpQndvemNhYTRacWZ1TlpzOU5VdDRjSE5zVGpYUVVSNXY3ZjM2UC0tamVuNjlYWXQ3SW5Fck82NHR3R2NFSjJuUG5Fb2RLZnhwZ3Rkbzl3UXVXb0VyZEl2bVdkTWZRWEhvR3JSblNsUVhlZks5S253U0x0blAtR1BMSk5pWHZpSVBSWEwtckhJOUZRV2lpV2VxakZVU3V5NUx2YVhvQTE3MWQzbjRnR0hUSVVIMjloa2E2cWxyWTVV?oc=5",
+    "priority": 9,
+    "roles": [],
+    "first_seen": "2026-06-14T09:55:41.675103-07:00",
+    "status": "active"
+  },
+  {
     "id": "aae0a792ce7892657ca0b2d2be21e9e4",
     "company": "Biodimension",
     "amount": "Undisclosed",
