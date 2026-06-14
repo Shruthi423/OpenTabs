@@ -1,5 +1,31 @@
 [
   {
+    "id": "3045cd0b59e4cc60df7515518d54cafd",
+    "company": "Pakistani PM",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/06/14/us-iran-ceasefire-extended-hormuz-reopen-trump",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-14T14:42:40.754166-07:00",
+    "status": "active"
+  },
+  {
+    "id": "fa716565749ed319b3157cbebcfee294",
+    "company": "Vietnam has bold plans",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/06/14/vietnam-us-asean-business-council-economic-growth/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-14T14:42:37.194852-07:00",
+    "status": "active"
+  },
+  {
     "id": "7bdb5f79a2e35fac07a6b2502a9df1e6",
     "company": "How",
     "amount": "Undisclosed",
