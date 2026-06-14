@@ -1,5 +1,18 @@
 [
   {
+    "id": "be688f1e6686da51be41b0a35e358a94",
+    "company": "Bezos",
+    "amount": "$12.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYWFkTHUweXlYbGlDU25ES3JIVW5ST0xKc04zTDZ4V0MteTIzZjU2UHdNZktCWDdNX1laTWRHUjZFejM5Nm9Cb0J4bUtTc25mRk1UdVNCN042X2p4Sk1mNGNhTEtUTURFT3hXV0lmWVhOU21LQWh3MWdmNC1YRlBXaU9DMS11QXNZNUdJNDVEUTZWcTdWeS1JdXhQZ1FvYXhyMXNIVkRHUzZNQUlPNl82a0VJNlRyWEJWNVJGd0p3?oc=5",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-13T19:30:51.827330-07:00",
+    "status": "active"
+  },
+  {
     "id": "30a7f1b3451e173b399ca1f64dd58e76",
     "company": "Prometheus",
     "amount": "$12.0B",
