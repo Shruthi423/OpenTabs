@@ -1,5 +1,31 @@
 [
   {
+    "id": "3c5e9fff55a335a0faa1dac0cecf9879",
+    "company": "AOC's hot streak",
+    "amount": "$1.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/06/14/aoc-endorsements-democrats-winning",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-14T16:52:50.160574-07:00",
+    "status": "active"
+  },
+  {
+    "id": "cd2405d4b2c020924cb886a78ad10448",
+    "company": "Gray Swan",
+    "amount": "$40.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fQmVRZGVvRlg4bWE1QW8waXgtZk9fbXRNTHZ6cFUtYWJMaFo1aV9RRGpGTEtsOVI2TTNFTmJLYWhjdXRUTC1jQ0gxT28ybHZqcUtiMzRocnhIVnowS2dhVVpxb18wdlAxLUdZaEZGTlI2anVORlJOX0pLMm5MQQ?oc=5",
+    "priority": 8,
+    "roles": [],
+    "first_seen": "2026-06-14T16:52:46.441717-07:00",
+    "status": "active"
+  },
+  {
     "id": "e3fd99027ac8f6b2de092bff81ce9dbc",
     "company": "Alumni Huawei",
     "amount": "Undisclosed",
