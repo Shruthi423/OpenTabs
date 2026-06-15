@@ -1,5 +1,31 @@
 [
   {
+    "id": "506fd4056acf3fe6794b4f750e91ca28",
+    "company": "Thirdworks",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/thirdworks-secures-follow-on-investment-from-cnttech-to-accelerate-trade-specialized/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-14T22:12:22.002190-07:00",
+    "status": "active"
+  },
+  {
+    "id": "bff12aa819a0153321615946829d0526",
+    "company": "Sixfold",
+    "amount": "$30.0M",
+    "stage": "Series B",
+    "investors": "Brewer Lane to scale its agentic AI underwriting platform for global insurance carriers",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/sixfold-raises-30m-series-b/",
+    "priority": 7,
+    "roles": [],
+    "first_seen": "2026-06-14T22:12:19.431775-07:00",
+    "status": "active"
+  },
+  {
     "id": "c156e81622479dec62eda8ded0f589ab",
     "company": "Pitch",
     "amount": "Undisclosed",
