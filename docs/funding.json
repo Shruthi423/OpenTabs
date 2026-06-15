@@ -1,5 +1,44 @@
 [
   {
+    "id": "5e60f92001fb2501b13bf0747fc24057",
+    "company": "OpenAI and Oracle",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/06/15/openai-oracle-data-center-new-mexico-water-drought-tree-mortality/",
+    "priority": 3,
+    "roles": [
+      {
+        "title": "Product Designer, ChatGPT",
+        "url": "https://jobs.ashbyhq.com/openai/09d97355-0437-4054-8604-73920c0beb1a",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Quantitative UX Researcher",
+        "url": "https://jobs.ashbyhq.com/openai/250c5184-edb5-49eb-bb7e-1ddb47f1140d",
+        "location": "Remote"
+      },
+      {
+        "title": "Frontend Engineer, ChatGPT Engineering",
+        "url": "https://jobs.ashbyhq.com/openai/5bde9af5-df78-460e-ae9c-5c49ac778640",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Product Designer, People Innovation Labs",
+        "url": "https://jobs.ashbyhq.com/openai/3874db80-f3ec-4dd1-8d56-6441e8f7299d",
+        "location": "San Francisco"
+      },
+      {
+        "title": "TLM, Embedded Experiences",
+        "url": "https://jobs.ashbyhq.com/openai/967d3ad7-bd2c-40e3-ba1f-f1140a116999",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-06-15T12:27:32.351316-07:00",
+    "status": "active"
+  },
+  {
     "id": "2d5ab6bfdba903b6cc6e07cc385fe006",
     "company": "Decagon",
     "amount": "Undisclosed",
