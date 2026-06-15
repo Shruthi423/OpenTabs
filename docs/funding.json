@@ -1,5 +1,18 @@
 [
   {
+    "id": "39c0d5d7ec1f66eac0f8cb15580bec74",
+    "company": "Radical Numerics",
+    "amount": "$50.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/15/radical-numerics-launches-50m-build-general-biological-intelligence/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-15T15:30:27.445375-07:00",
+    "status": "active"
+  },
+  {
     "id": "7169aa65b1d71aabebc9058d1679e608",
     "company": "Tenstorrent",
     "amount": "$10.0B",
