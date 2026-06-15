@@ -1,5 +1,31 @@
 [
   {
+    "id": "2912285ac68a3b8b0d042fec6ba5168f",
+    "company": "Berlin\u2019s Qorelo",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY2U0SWxHRTM1QktDa0RVbHVkalNxZ20zcjlGc1VTWmMybkF0eExZd1R1XzA5Yk9jQ1Z2T2FPMnJGRnhDdzNPMERCbkh6RGhZSjV6d2RRa2FhRnlZakVWT1lGUUpnQ0p5RWtOYmlFRlhsLTNiVDdLZDd0VWdvZDJST2o5MGpwWmZoZmZjaWdIdFBxYkphLS1DRUtwMUNOTzhtcmZOb3NMTlhUdWRCazVuQ2ZqY3VlNUZjY1c1X0NWcXJzcHFjaV9ya3Y1OF9SRkNpamc?oc=5",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-14T22:55:24.111129-07:00",
+    "status": "active"
+  },
+  {
+    "id": "99a76d89e744b34c399e26af1084900f",
+    "company": "Definic",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/definic-raises-2-5m-seed/",
+    "priority": 9,
+    "roles": [],
+    "first_seen": "2026-06-14T22:55:20.573318-07:00",
+    "status": "active"
+  },
+  {
     "id": "0ac5b89fafce0f9d4d73632eb624d507",
     "company": "Orbio",
     "amount": "Undisclosed",
