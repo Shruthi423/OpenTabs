@@ -1,5 +1,57 @@
 [
   {
+    "id": "c156e81622479dec62eda8ded0f589ab",
+    "company": "Pitch",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ1ZfNVU3SlRhZVljZkd5Ym1XME5OV0FBZ0VlcGxlTklDZTJjejJVZENPWU5WOHRneTNfcVZoTXAwRDYzblFnblM3bnlocUxoQTM1cDc5Unp6NFlHWEZMVjFieno5T3BhYTA5S3c5TFJHQVpBYkFobWRoRzhHZWV4VHNCR21NRGFKUEdpeVBQV3hWa25PcWhN?oc=5",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-14T21:50:53.437956-07:00",
+    "status": "active"
+  },
+  {
+    "id": "334cdea394dcdf4cec5118259f3f0db2",
+    "company": "Orbio",
+    "amount": "$21.0M",
+    "stage": "Series A",
+    "investors": "Dawn Capital",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
+    "priority": 8,
+    "roles": [],
+    "first_seen": "2026-06-14T21:50:51.041341-07:00",
+    "status": "active"
+  },
+  {
+    "id": "bc2e1355d7978c9d59a452b915d9212c",
+    "company": "Cashmere",
+    "amount": "$5.0M",
+    "stage": "Seed",
+    "investors": "Reach Capital to scale its data infrastructure platform connecting premium publishers with AI models",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/cashmere-raises-5m-seed/",
+    "priority": 9,
+    "roles": [],
+    "first_seen": "2026-06-14T21:50:48.472505-07:00",
+    "status": "active"
+  },
+  {
+    "id": "41050cdc52a418f4d15c469cc7e52c23",
+    "company": "Sunbay",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/sunbay-raises-550k-pre-seed/",
+    "priority": 10,
+    "roles": [],
+    "first_seen": "2026-06-14T21:50:45.757156-07:00",
+    "status": "active"
+  },
+  {
     "id": "c53601ce28da9b1374f70cfaf961bbcf",
     "company": "Anthropic",
     "amount": "$965.0B",
