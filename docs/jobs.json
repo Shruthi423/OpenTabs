@@ -1,5 +1,37 @@
 [
   {
+    "id": "b993e80bdda2126a6ae8d1d7b3ecfc42",
+    "title": "Solutions Designer, Assessments and Interactives",
+    "company": "CFA Institute",
+    "location": "Charlottesville, VA, US",
+    "salary": "$106,400 \u2013 $141,900 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=6fe07ee6f96be9c8",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "posted_at": "2026-06-15",
+    "priority": 4,
+    "first_seen": "2026-06-15T10:29:40.800656-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  {
+    "id": "e0c9127199ec0487598882f19ad40b18",
+    "title": "Frontend Developer (React) Junior/Mid",
+    "company": "CareerSwift",
+    "location": "San Francisco, CA, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=250b732f9cdc669c",
+    "source": "Indeed",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "posted_at": "2026-06-15",
+    "priority": 1,
+    "first_seen": "2026-06-15T10:29:39.273513-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  {
     "id": "ce09dcf4f0c16c0c34a86085644d785d",
     "title": "UX/UI Designer III - Project Based",
     "company": "Autonomous Solutions, Inc. (ASI)",
