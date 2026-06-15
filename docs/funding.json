@@ -1,5 +1,18 @@
 [
   {
+    "id": "dc9001f11f476a6ece6927d9d6a8d165",
+    "company": "New Mexico",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/06/15/openai-oracle-data-center-new-mexico-water-drought-tree-mortality/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-15T15:54:23.585375-07:00",
+    "status": "active"
+  },
+  {
     "id": "39c0d5d7ec1f66eac0f8cb15580bec74",
     "company": "Radical Numerics",
     "amount": "$50.0M",
