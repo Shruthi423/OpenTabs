@@ -1,5 +1,31 @@
 [
   {
+    "id": "2fe0a40869811cdea16312779ac7667d",
+    "company": "Zumutor",
+    "amount": "$7.3M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTzFodmpmallvVFE2QTI4WlZYQmtkTEtiOV9KWFpXSEZzQjVSaFhpeUxsYTVKVDNkYXpod1R6ZHhpTzlQNEd4eHRWeG05YWp5dXZ1RHRpeWw5MldqeUlxeFJnNU4xcU9sNXQ4RU4tczhSZUN2VTJLQ1hHRC1GZjJqQ3h2U0tHOXRiOTV5WjJmNE9aeTB1Q0dsZE5QZnM4TUt4eVNlM0Q1U0tqWEN4a2RsMXZvWTFMeWY5STlQSWoyYUVEUlY4VXc?oc=5",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-15T08:54:12.550669-07:00",
+    "status": "active"
+  },
+  {
+    "id": "643a4906ffa96edca41e2a5fb1694809",
+    "company": "Meet Gwynne Shotwell",
+    "amount": "$2.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/06/15/gwynne-shotwell-spacex-engineer-mars-nasa-ipo/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-15T08:54:10.106851-07:00",
+    "status": "active"
+  },
+  {
     "id": "b53f9fe0e4bc6b07e1407121b859f214",
     "company": "Sarvam",
     "amount": "Undisclosed",
