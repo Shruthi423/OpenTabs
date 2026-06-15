@@ -1,5 +1,21 @@
 [
   {
+    "id": "5022b2cb1fa95cf988d57145c9fb20bd",
+    "title": "User Experience Designer",
+    "company": "Epic",
+    "location": "River Falls, WI",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4306621553",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-06-15T14:51:25.096424-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  {
     "id": "b40b27082b9e287a47744edaeffd072b",
     "title": "UX Researcher",
     "company": "nan",
@@ -76,22 +92,6 @@
     "posted_at": "2026-06-15",
     "priority": 4,
     "first_seen": "2026-06-15T14:27:58.351166-07:00",
-    "status": "active",
-    "applied_at": null
-  },
-  {
-    "id": "065f6bdcc5b50aca0fd27dc0f09802dd",
-    "title": "Sr. Designer, Digital",
-    "company": "Simple Science Inc.",
-    "location": "Costa Mesa, CA, US",
-    "salary": "$100,000 \u2013 $125,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=97f860b033e7c684",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "posted_at": "2026-06-15",
-    "priority": 4,
-    "first_seen": "2026-06-15T14:27:56.755304-07:00",
     "status": "active",
     "applied_at": null
   },
