@@ -1,5 +1,57 @@
 [
   {
+    "id": "a1076d358b5afe9e0d3d10a06847214f",
+    "company": "All",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Jonathan Pingle wrote in a note",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/06/15/fed-kevin-warsh-inflation-policy",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-15T16:42:33.105982-07:00",
+    "status": "active"
+  },
+  {
+    "id": "3244d00e9519b8f518c7695919b7d615",
+    "company": "Republicans spark fury",
+    "amount": "$1.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/06/15/republican-primary-meddling-democrats-midterms-ny",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-15T16:42:30.747400-07:00",
+    "status": "active"
+  },
+  {
+    "id": "feb8f86c8c3fa2cfd5e55fa93c17f5df",
+    "company": "Mext",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/15/amd-buys-data-center-memory-optimization-startup-mext/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-15T16:42:27.580528-07:00",
+    "status": "active"
+  },
+  {
+    "id": "af64d9469701b7079173e41ff865aeeb",
+    "company": "Entro",
+    "amount": "$200.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/15/sailpoint-acquires-ai-agent-security-startup-entro-reported-200m/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-15T16:42:25.182969-07:00",
+    "status": "active"
+  },
+  {
     "id": "52add73a07fa94d9abec57c85932e672",
     "company": "Paris wellness studio",
     "amount": "$1.0M",
