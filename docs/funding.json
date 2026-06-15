@@ -1,5 +1,31 @@
 [
   {
+    "id": "2d8f9c456626a7b76d8751a51556c44b",
+    "company": "Sentinel DeepActive",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RbEVyaFBuN1pxUFZoczlMbTNyNVlfenViYnR0ZUZ3QXgxT1AzeEdTdncxLTFzR3JVckMzUmY1Q2R5ZFB3UW92UlRGWW9JeGtxUHFN?oc=5",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-14T19:23:52.912545-07:00",
+    "status": "active"
+  },
+  {
+    "id": "94d0a5968aaabffc6831f4184c9399c7",
+    "company": "DEEPLY",
+    "amount": "$1.65M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MVXRJOTJkVnZrWXJMOW9IbXQ0TkF0cWt2TmZIaXpBS0FwUG9XRnVJQUdlUzB1QlhCc3pCNUxNRnZuWl9TMG1KOEEwa3U2bG5jZFdZ?oc=5",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-14T19:23:49.300165-07:00",
+    "status": "active"
+  },
+  {
     "id": "3c5e9fff55a335a0faa1dac0cecf9879",
     "company": "AOC's hot streak",
     "amount": "$1.0M",
