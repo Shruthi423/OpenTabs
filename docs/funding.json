@@ -1,5 +1,31 @@
 [
   {
+    "id": "e4d5c74b96fb53d9156918eba79b97c9",
+    "company": "Omli",
+    "amount": "$1.5M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/omli-raises-1-5m-seed/",
+    "priority": 9,
+    "roles": [],
+    "first_seen": "2026-06-14T21:08:13.192872-07:00",
+    "status": "active"
+  },
+  {
+    "id": "444b72a11172bae82fce6d617f05551e",
+    "company": "Qorelo",
+    "amount": "$3.5M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/qorelo-raises-3-5m-sap-migration-automation-seed/",
+    "priority": 9,
+    "roles": [],
+    "first_seen": "2026-06-14T21:08:10.764262-07:00",
+    "status": "active"
+  },
+  {
     "id": "c344422817332fcedb74d4c72488dfca",
     "company": "Singapore's Pints AI",
     "amount": "$5.6M",
