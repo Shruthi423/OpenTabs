@@ -1,5 +1,57 @@
 [
   {
+    "id": "e8439e24fffc0c0e85ff9733384e49e5",
+    "company": "AutoVRse",
+    "amount": "$2.4M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/autovrse-raises-2-4m-other/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-16T00:16:22.723972-07:00",
+    "status": "active"
+  },
+  {
+    "id": "0302288c07a70fc32f3e9d7880f47e77",
+    "company": "Two mayors",
+    "amount": "$10.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/06/16/ai-data-center-texas-lacy-lakeview-ross/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-16T00:16:20.129842-07:00",
+    "status": "active"
+  },
+  {
+    "id": "015f130f4a1f06ee033b74630e9a7bab",
+    "company": "Vietnam\u2019s economy",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/06/16/vietnam-economy-manufacturing-construction-economy-ho-chi-minh-southeast-asia/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-16T00:16:16.588321-07:00",
+    "status": "active"
+  },
+  {
+    "id": "b6dde12d98e8c68fb9d36553b7b93056",
+    "company": "Data center hate",
+    "amount": "$130.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/06/16/data-center-opposition-construction-delays-blocks-report/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-16T00:16:13.125593-07:00",
+    "status": "active"
+  },
+  {
     "id": "3330193f3de3e2598a24b7a1e02b4300",
     "company": "Undo",
     "amount": "Undisclosed",
