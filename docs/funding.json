@@ -1,5 +1,50 @@
 [
   {
+    "id": "e9d4e6d4632ff66001698307a4fa8e4e",
+    "company": "Cursor",
+    "amount": "$60.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/16/spacex-acquire-vibe-coding-startup-cursor-60b/",
+    "priority": 3,
+    "roles": [
+      {
+        "title": "User Researcher",
+        "url": "https://jobs.ashbyhq.com/cursor/793f18fa-a06f-475e-9c3f-6535e6e73f88",
+        "location": "San Francisco"
+      }
+    ],
+    "first_seen": "2026-06-16T14:37:41.905041-07:00",
+    "status": "active"
+  },
+  {
+    "id": "d6effdaed692d9ff4baa426bc07d3c62",
+    "company": "What",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/augusta-precious-metals-review/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-16T14:37:37.802552-07:00",
+    "status": "active"
+  },
+  {
+    "id": "96dbdf3e7a6a73236b86f0e9d221dd60",
+    "company": "Pizza Hut",
+    "amount": "$2.7B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/06/16/pizza-hut-private-equity-sale-yum-brands-1990s-nostalgia-retro/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-16T14:37:35.260827-07:00",
+    "status": "active"
+  },
+  {
     "id": "8eefcc5d7ce798cc7828b06118009f7d",
     "company": "SpaceX\u2019 surging stock paid",
     "amount": "$60.0B",
