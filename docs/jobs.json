@@ -1,5 +1,37 @@
 [
   {
+    "id": "2bffc3222b4c9bcf91536e3826fdea30",
+    "title": "UX Designer",
+    "company": "OtterSoft",
+    "location": "US",
+    "salary": "$55 \u2013 $65 / hourly",
+    "url": "https://www.indeed.com/viewjob?jk=d4e78c84613f201e",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "posted_at": "2026-06-15",
+    "priority": 4,
+    "first_seen": "2026-06-15T17:05:22.852473-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  {
+    "id": "acdc6cadebc27c50176dc38092c71448",
+    "title": "UI-UX Designer - Hybrid",
+    "company": "NTT DATA",
+    "location": "Irving, TX, US",
+    "salary": "$75,168 \u2013 $130,500 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=c576267c9b81e955",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "posted_at": "2026-06-15",
+    "priority": 4,
+    "first_seen": "2026-06-15T17:05:21.333230-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  {
     "id": "b16b5a55745dda694fe24bb7d6573ebb",
     "title": "Sr Product Designer - Growth & Acquisition",
     "company": "Angel",
