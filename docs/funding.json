@@ -1,5 +1,18 @@
 [
   {
+    "id": "f8b7155ec7af2c38d4633c4dbb53d304",
+    "company": "Atom Computing",
+    "amount": "$300.0M",
+    "stage": "Series C",
+    "investors": "Third Point Ventures, with participation from DCVC, Cisco Investments and others",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/16/atom-computing-raises-300m-races-build-worlds-first-fault-tolerant-commercially-viable-quantum-computer/",
+    "priority": 6,
+    "roles": [],
+    "first_seen": "2026-06-16T18:52:54.769341-07:00",
+    "status": "active"
+  },
+  {
     "id": "98abc9a0330952818f091f462d0be523",
     "company": "Anthropic vaults",
     "amount": "$965.0B",
