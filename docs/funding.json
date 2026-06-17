@@ -1,5 +1,18 @@
 [
   {
+    "id": "2f6fc45007dea96853efc21dbba151e8",
+    "company": "Collins wins Georgia Senate runoff",
+    "amount": "$4.3M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/local/atlanta/2026/06/17/georgia-primary-runoff-elections-mike-collins-derek-dooley",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-16T19:17:22.566901-07:00",
+    "status": "active"
+  },
+  {
     "id": "f8b7155ec7af2c38d4633c4dbb53d304",
     "company": "Atom Computing",
     "amount": "$300.0M",
