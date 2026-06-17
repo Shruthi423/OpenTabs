@@ -1,5 +1,57 @@
 [
   {
+    "id": "93896326cb2b1643c61785976b99f9af",
+    "company": "Bland",
+    "amount": "$50.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/16/bland-raises-50m-automate-complex-high-stakes-phone-calls/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-16T17:40:36.842270-07:00",
+    "status": "active"
+  },
+  {
+    "id": "f87f3a37ef4cfcc1031021c95335f6c4",
+    "company": "Panther",
+    "amount": "$1.4B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/16/databricks-acquires-cyberattack-detection-startup-panther/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-16T17:40:34.521226-07:00",
+    "status": "active"
+  },
+  {
+    "id": "ada7b575cd2756ea447e8d33003f9ac8",
+    "company": "Vietnam has",
+    "amount": "$200.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/06/16/techcombank-ceo-jens-lottner-vietnam-energy-growth/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-16T17:40:32.050506-07:00",
+    "status": "active"
+  },
+  {
+    "id": "c21ac7f1e7fb4ccc4554ca3359e036af",
+    "company": "Tariffs",
+    "amount": "$742.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/06/16/tariffs-revenue-debt-duties-interest-payments-balance/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-16T17:40:28.745900-07:00",
+    "status": "active"
+  },
+  {
     "id": "e9d4e6d4632ff66001698307a4fa8e4e",
     "company": "Cursor",
     "amount": "$60.0B",
