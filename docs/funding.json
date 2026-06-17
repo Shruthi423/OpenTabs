@@ -1,5 +1,37 @@
 [
   {
+    "id": "98abc9a0330952818f091f462d0be523",
+    "company": "Anthropic vaults",
+    "amount": "$965.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQNWdnVGR5WHMzTngyYW1sS1ZwYVdRZHR0M1Z0N1RYLVlaQTh0WjUxUHdoeDVLd1A5cFpGbDREYkc1YVZaOGNScmlCMHRPN25tUXpWLVpNSmdkRDU3UkJrYU1kZlZLUDhHVzgxclNycU1qd2h3UFNqYlF0WTBzbWhnOXJVMVI0UWZmdE54OFFUWFhBa0pWbzZSZ2NVbFNGc0tCaEFwenBFYW9oU282bmFKNEVScmIwbm9CczZmTE5qN0hKVGRWQnRfcjBoRUdSeExfSUlKX2s1TXZxRVNfcUt3OEpDSXRfZzdfS2lrbnZYOW5SWWx2YXpVZU5wV05xc0t6WXpmTzln?oc=5",
+    "priority": 3,
+    "roles": [
+      {
+        "title": "Motion Designer, Core Brand",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5116771008",
+        "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY"
+      }
+    ],
+    "first_seen": "2026-06-16T18:28:47.613165-07:00",
+    "status": "active"
+  },
+  {
+    "id": "129611035d8693e252e775b0fd9d373c",
+    "company": "China\u2019s DeepSeek reportedly",
+    "amount": "$7.4B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/16/chinas-deepseek-reportedly-raises-7-4b-funding-50b-valuation/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-16T18:28:44.378097-07:00",
+    "status": "active"
+  },
+  {
     "id": "5f5190e2fc677ce36e7ca6c143af1b87",
     "company": "Everlab receives $65 million injection",
     "amount": "$65.0M",
