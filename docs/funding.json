@@ -1,5 +1,31 @@
 [
   {
+    "id": "69a2c3afe8ad9696b1f98da4e83b71a9",
+    "company": "Whatnot",
+    "amount": "$11.5B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oV3UzWk9sMHptR3dhQ1M2ZE5rci1BckJIY3Foc2dHMU92c2tCQ1F4SzV3R3VHWElGUGwxRm5pQ2FYMGZteHBkSzE4YklGODlGckNzZmxGbHIwUUpwTG8xWFNhSkdNY2ZRYmc?oc=5",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-18T16:46:52.639401-07:00",
+    "status": "active"
+  },
+  {
+    "id": "bde9b7e493d05f23f94f317635afc77d",
+    "company": "Prem",
+    "amount": "$100.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/18/prem-seeks-100m-series-export-bans-boost-sovereign-ai-demand/",
+    "priority": 8,
+    "roles": [],
+    "first_seen": "2026-06-18T16:46:50.313415-07:00",
+    "status": "active"
+  },
+  {
     "id": "a62fe45d24bbe16ea194105442990150",
     "company": "Dream",
     "amount": "$260.0M",
