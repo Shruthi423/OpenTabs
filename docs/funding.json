@@ -1,5 +1,31 @@
 [
   {
+    "id": "a62fe45d24bbe16ea194105442990150",
+    "company": "Dream",
+    "amount": "$260.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/18/dream-raises-260m-sovereign-ai-cybersecurity-tools/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-18T16:18:15.986247-07:00",
+    "status": "active"
+  },
+  {
+    "id": "8807dc5fe546dcc6db59f069c592c53b",
+    "company": "General Intuition in talks",
+    "amount": "$300.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/18/game-clip-ai-startup-general-intuition-talks-raise-300m-2b-valuation/",
+    "priority": 3,
+    "roles": [],
+    "first_seen": "2026-06-18T16:18:13.501920-07:00",
+    "status": "active"
+  },
+  {
     "id": "910a557376f11f956fc8dfea3b2814b5",
     "company": "Context",
     "amount": "Undisclosed",
