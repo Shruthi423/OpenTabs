@@ -1,5 +1,57 @@
 [
   {
+    "id": "648c4fc761aa89ff735fb7b6f3202b00",
+    "company": "TruNativ",
+    "amount": "$30.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV09xQXVMaUNVd2VjV3d2bkJtUlM1MTBha18wbWJYV1A4QVhENGlWOF9tNVBiOUJkMG15NDliMjRvUHVPa1gwanhqbk8zYzZHYlJiN1ZxMURKcTNUZEFHWGRxY1BFMXdZNERTdWNkSkFzSWpoQlEyMU8xS1BYcHp4MkNpQ3Y1SjU4MDB4dy1BM3otZjFkYk5hZHNrZ2hPU1VMcHN3dWJSTTVDdWdidGNwWUQ1bWJTTVVFN0hrTWZiRnVSZFhaTGdGcWdOVTIzSmtCZ0J2VWcyQ3dCZHZ0T0FTV0N3ONIB4wFBVV95cUxQV09xQXVMaUNVd2VjV3d2bkJtUlM1MTBha18wbWJYV1A4QVhENGlWOF9tNVBiOUJkMG15NDliMjRvUHVPa1gwanhqbk8zYzZHYlJiN1ZxMURKcTNUZEFHWGRxY1BFMXdZNERTdWNkSkFzSWpoQlEyMU8xS1BYcHp4MkNpQ3Y1SjU4MDB4dy1BM3otZjFkYk5hZHNrZ2hPU1VMcHN3dWJSTTVDdWdidGNwWUQ1bWJTTVVFN0hrTWZiRnVSZFhaTGdGcWdOVTIzSmtCZ0J2VWcyQ3dCZHZ0T0FTV0N3OA?oc=5",
+    "priority": 7,
+    "roles": [],
+    "first_seen": "2026-06-17T23:45:48.984620-07:00",
+    "status": "active"
+  },
+  {
+    "id": "84a572026994b4216334db7fee4e18bf",
+    "company": "Monument Technology",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/monument-technology-raises-18m-seed/",
+    "priority": 9,
+    "roles": [],
+    "first_seen": "2026-06-17T23:45:46.525730-07:00",
+    "status": "active"
+  },
+  {
+    "id": "c6c1f3fb94f84a1efe5fa6fc0f20471e",
+    "company": "Clario",
+    "amount": "$6.0M",
+    "stage": "Seed",
+    "investors": "Preface Ventures to launch its platform aimed at eliminating enterprise data ROT to optimize AI performance",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/clario-raises-6m-seed/",
+    "priority": 9,
+    "roles": [],
+    "first_seen": "2026-06-17T23:45:43.908497-07:00",
+    "status": "active"
+  },
+  {
+    "id": "d09e920810f0c164e7f01d1c1d57ebeb",
+    "company": "Tryll",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/tryll-raises-600000-pre-seed/",
+    "priority": 10,
+    "roles": [],
+    "first_seen": "2026-06-17T23:45:41.466380-07:00",
+    "status": "active"
+  },
+  {
     "id": "4ca360d633435f300ed18d4a1a7b5577",
     "company": "Tonada",
     "amount": "Undisclosed",
