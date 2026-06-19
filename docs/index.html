@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>OpenTabs</title>
-  <meta name="description" content="OpenTabs — live design-job board: New, Yet to Apply, Applied.">
+  <meta name="description" content="OpenTabs — live design-job board: New, Older than a day, Applied.">
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,8 +20,8 @@
     </a>
     <a class="cell tab" href="./raised.html"><span class="t">Just Raised <em data-count="raised">0</em></span></a>
     <a class="cell tab" data-jump="new"><span class="t">New <em data-count="new">0</em></span></a>
-    <a class="cell tab" data-jump="yet"><span class="t">Yet to Apply <em data-count="yet">0</em></span></a>
-    <a class="cell tab" data-jump="app"><span class="t">Applied <em data-count="app">0</em></span></a>
+    <a class="cell tab" data-jump="yet"><span class="t">Older than a day <em data-count="yet">0</em></span></a>
+    <a class="cell tab" id="appTab"><span class="t">Applied <em data-count="app">0</em></span></a>
     <div class="cell status" id="status">Loading…</div>
     <button class="cell menu" id="menuBtn" aria-label="Toggle filters">Filters</button>
   </header>
@@ -62,9 +62,9 @@
     <div class="row sub">
       <div class="left">
         <span class="count" id="count">0</span> results
-        <span class="seg">
-          <button class="view is-on" data-view="board">Column view</button>
-          <button class="view" data-view="list">List view</button>
+        <span class="seg seg-view">
+          <button class="view is-on" data-view="board" title="Column view" aria-label="Column view"><svg viewBox="0 0 256 256" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M120,48V208a16,16,0,0,1-16,16H64a16,16,0,0,1-16-16V48A16,16,0,0,1,64,32h40A16,16,0,0,1,120,48Zm72-16H152a16,16,0,0,0-16,16V208a16,16,0,0,0,16,16h40a16,16,0,0,0,16-16V48A16,16,0,0,0,192,32Z"></path></svg></button>
+          <button class="view" data-view="list" title="List view" aria-label="List view"><svg viewBox="0 0 256 256" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M224,152v40a16,16,0,0,1-16,16H48a16,16,0,0,1-16-16V152a16,16,0,0,1,16-16H208A16,16,0,0,1,224,152ZM208,48H48A16,16,0,0,0,32,64v40a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V64A16,16,0,0,0,208,48Z"></path></svg></button>
         </span>
       </div>
       <div class="right">
@@ -87,24 +87,32 @@
     </div>
   </section>
 
-  <!-- ── Three-column board ────────────────────────────────────────── -->
+  <!-- ── Two-column board (Applied lives in the right drawer) ──────── -->
   <main id="top" class="board">
     <section class="col" id="sec-new">
-      <div class="col-head"><h2>New</h2><em data-count="new">0</em><span class="hint">last 24 hours</span></div>
+      <div class="col-head"><h2>New</h2><em data-count="new">0</em><span class="hint">newest posted first</span></div>
       <div class="rows" id="rows-new"></div>
     </section>
     <section class="col" id="sec-yet">
-      <div class="col-head"><h2>Yet to Apply</h2><em data-count="yet">0</em><span class="hint">not applied yet</span></div>
+      <div class="col-head"><h2>Older than a day</h2><em data-count="yet">0</em><span class="hint">over 24h old</span></div>
       <div class="rows" id="rows-yet"></div>
-    </section>
-    <section class="col" id="sec-app">
-      <div class="col-head"><h2>Applied</h2><em data-count="app">0</em><span class="hint">done via Telegram</span></div>
-      <div class="rows" id="rows-app"></div>
     </section>
   </main>
 
+  <!-- ── Applied: collapsible drawer that slides in from the right ─── -->
+  <button class="drawer-tab" id="drawerTab" aria-label="Open applied"><span>Applied</span><em data-count="app">0</em></button>
+  <div class="drawer-scrim" id="drawerScrim"></div>
+  <aside class="drawer" id="drawer" aria-label="Applied jobs">
+    <div class="drawer-head">
+      <h2>Applied <em data-count="app">0</em></h2>
+      <button class="drawer-close" id="drawerClose" aria-label="Close applied">✕</button>
+    </div>
+    <div class="rows" id="rows-app"></div>
+  </aside>
+
   <footer class="foot">
     <span class="stats"><b id="statOpen">0</b> tabs open · <b id="statDone">0</b> done</span>
+    <button class="restore" id="restoreBtn" hidden></button>
     <span class="tagline">Close the tabs. Get the offer.</span>
   </footer>
 

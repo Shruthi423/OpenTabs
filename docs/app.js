@@ -18,7 +18,8 @@ const state = {
   sort: "priority",
   size: +(localStorage.getItem("size") || 24),
   theme: localStorage.getItem("theme") || "dark",
-  view: localStorage.getItem("view") || "board",   // "board" (3 cols) or "list"
+  view: localStorage.getItem("view") || "board",   // "board" (cols) or "list"
+  appliedOpen: localStorage.getItem("appliedOpen") === "1",   // Applied drawer
 };
 const THEMES = ["dark", "paper", "blush", "mint", "cream"];
 if (window.gsap && window.Flip) gsap.registerPlugin(Flip);
@@ -38,6 +39,11 @@ function applyMark(id, act) {
   else MARKS[id] = act;                            // "done" | "yet"
   saveMarks(MARKS);
 }
+
+/* ── Cards you've removed from the board, hidden in this browser ── */
+function loadRemoved() { try { return new Set(JSON.parse(localStorage.getItem("removed") || "[]")); } catch { return new Set(); } }
+function saveRemoved() { localStorage.setItem("removed", JSON.stringify([...REMOVED])); }
+let REMOVED = loadRemoved();                        // Set<jobId>
 // move a card between sections with a GSAP Flip transition (card "flies")
 function flipMove(id, act) {
   if (window.gsap && window.Flip) {
@@ -92,6 +98,14 @@ function postedAgo(j) {
   }
   return ago(j.first_seen);
 }
+// best available timestamp in ms — real posted_at if present, else first_seen
+function jobTime(j) {
+  if (j.posted_at && j.posted_at !== "Recently") {
+    const t = Date.parse(j.posted_at);
+    if (!isNaN(t)) return t;
+  }
+  return new Date(j.first_seen).getTime() || 0;
+}
 function salaryNum(s) {                  // first $ figure, for sorting
   const m = (s || "").replace(/,/g, "").match(/\$(\d+)(k)?/i);
   if (!m) return -1;
@@ -108,6 +122,7 @@ function bucket(j) {                      // which section a job belongs to
 /* ── filtering + sorting ──────────────────────────────────────── */
 function visible() {
   let out = JOBS.filter((j) => {
+    if (REMOVED.has(j.id)) return false;            // removed from the board here
     if (state.q) {
       const hay = (j.title + " " + j.company).toLowerCase();
       if (!hay.includes(state.q.toLowerCase())) return false;
@@ -182,6 +197,9 @@ function render(animate) {
   const jobs = visible();
   const groups = { new: [], yet: [], app: [] };
   jobs.forEach((j) => groups[bucket(j)].push(j));
+  // "New" column is always newest-posted first; Applied = most recently moved
+  groups.new.sort((a, b) => jobTime(b) - jobTime(a));
+  groups.app.sort((a, b) => jobTime(b) - jobTime(a));
 
   ["new", "yet", "app"].forEach((k) => {
     $("#rows-" + k).innerHTML =
@@ -200,6 +218,13 @@ function render(animate) {
   JOBS.forEach((j) => (bucket(j) === "app" ? done++ : open++));
   rollTo($("#statOpen"), open);
   rollTo($("#statDone"), done);
+
+  // "N hidden · Restore" link — only shown when you've removed cards
+  const rb = $("#restoreBtn");
+  if (rb) {
+    rb.hidden = REMOVED.size === 0;
+    rb.textContent = REMOVED.size + " hidden · Restore";
+  }
 
   if (animate) reveal();
 }
