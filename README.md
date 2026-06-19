@@ -22,7 +22,7 @@ publishes a live one-page dashboard. Built for an early-career designer job hunt
 
 3. **Run it**
    ```bash
-   python3 job_bot.py
+   python3 opentabs.py
    ```
    It runs continuously: a job check every 15 minutes, an hourly heartbeat,
    and a daily digest at 9 AM Pacific. Press `Ctrl+C` to stop. (Or run it in
@@ -36,7 +36,7 @@ between sections with the **Done** / **Not yet** buttons on each card; your
 choices are saved in your browser and the board updates itself.
 
 **One-time setup:**
-1. In `job_bot.py` `CONFIG`, set `GITHUB_USER` and `GITHUB_REPO`.
+1. In `opentabs.py` `CONFIG`, set `GITHUB_USER` and `GITHUB_REPO`.
 2. Push this repo to GitHub (make sure `git push` works without a prompt —
    use a saved HTTPS token or SSH key).
 3. On GitHub: **Settings → Pages → Source: Deploy from a branch →
@@ -70,7 +70,7 @@ launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.opentabs.jobbot.plis
 launchctl kickstart -k gui/$(id -u)/com.opentabs.jobbot
 
 # watch the log
-tail -f ~/Desktop/job_bot/job_bot.log
+tail -f ~/Desktop/OpenTabs/job_bot.log
 ```
 
 The **first run is a silent backfill** (seeds the board, no Telegram alerts);
@@ -83,4 +83,4 @@ delete `backfill_done.flag` if you ever want to re-run that.
   are local state (git-ignored). The `docs/` folder **is** committed — it's
   the website.
 - Tune search queries, locations, and timing in the `CONFIG` block at the
-  top of `job_bot.py`.
+  top of `opentabs.py`.

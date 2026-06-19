@@ -32,8 +32,9 @@ CONFIG = {
     "REMINDER_MINUTES":      30,
     "HEARTBEAT_HOURS":       1,
     "DAILY_DIGEST_HOUR":     9,
-    "HOURS_OLD":             3,
+    "HOURS_OLD":             24,
     "RESULTS_PER_SEARCH":    25,
+    "QUERIES_PER_CYCLE":     5,        # rotate JobSpy queries per cycle to dodge blocks
     "SEEN_FILE":    "seen_jobs.json",
     "PENDING_FILE": "pending_jobs.json",
     "STORE_FILE":   "jobs_store.json",      # authoritative job records + status (local)
@@ -45,6 +46,7 @@ CONFIG = {
     "FUNDING_WEB_FILE":     "docs/funding.json",
     "SITE_DIR":     "docs",                  # GitHub Pages serves from /docs on main
     "TG_OFFSET_FILE": "tg_offset.json",      # last processed Telegram update id
+    "QUERY_OFFSET_FILE": "query_offset.json",  # rotating cursor into SEARCH_QUERIES
     "LOG_FILE":     "job_bot.log",
     "TIMEZONE":     "America/Los_Angeles",
     "NEW_HOURS":      24,                     # jobs newer than this show under "New"
@@ -131,11 +133,18 @@ def _kw_hit(kw: str, text: str) -> bool:
         return re.search(rf"\b{re.escape(kw)}\b", text) is not None
     return kw in text
 
+# Year figures framed as "preferred / a plus / bonus" don't disqualify — many
+# roles open to new grads still list a higher "preferred" number.
+_PREF_RE = re.compile(r'(preferred|a plus|nice to have|bonus|ideal|or more)', re.I)
 def _too_senior(text: str) -> bool:
     # Exclude roles whose MINIMUM required experience is 5+ years.
-    # "3-5 years" → min 3 (kept); "5+ years" / "6 years" → min 5+ (dropped).
+    # "3-5 years" → min 3 (kept); "5+ years" / "6 years" → min 5+ (dropped),
+    # unless the figure is framed as preferred rather than required.
     for m in re.finditer(r'(\d+)\s*\+?\s*(?:-|to|–|—)?\s*\d*\s*(?:years|yrs)\b', text):
         if int(m.group(1)) >= 5:
+            window = text[max(0, m.start() - 40): m.end() + 40]
+            if _PREF_RE.search(window):
+                continue
             return True
     return False
 
@@ -172,13 +181,15 @@ log = logging.getLogger(__name__)
 def load_json(path, default):
     if os.path.exists(path):
         try:
-            return json.load(open(path))
-        except:
-            pass
+            with open(path) as f:
+                return json.load(f)
+        except Exception as e:
+            log.warning(f"load_json({path}) failed, using default: {e}")
     return default
 
 def save_json(path, data):
-    json.dump(data, open(path, "w"), indent=2)
+    with open(path, "w") as f:
+        json.dump(data, f, indent=2)
 
 def load_seen() -> set:    return set(load_json(CONFIG["SEEN_FILE"], []))
 def save_seen(s):          save_json(CONFIG["SEEN_FILE"], list(s))
@@ -210,6 +221,7 @@ def job_id(title, company, location):
 # ─────────────────────────────────────────────────────────────────
 #  📬  TELEGRAM ONLY
 # ─────────────────────────────────────────────────────────────────
+_LAST_SEND = {"t": 0.0}   # monotonic timestamp of the last Telegram send (rate limiter)
 def send_telegram(msg: str, reply_markup: dict = None,
                   token: str = None, chat_id: str = None) -> bool:
     # Defaults target the job channel; pass token/chat_id to reach another
@@ -225,15 +237,33 @@ def send_telegram(msg: str, reply_markup: dict = None,
     }
     if reply_markup:
         payload["reply_markup"] = reply_markup
-    try:
-        r = requests.post(url, json=payload, timeout=10)
-        if r.status_code != 200:
-            log.error(f"Telegram error {r.status_code}: {r.text[:100]}")
-            return False
-        return True
-    except Exception as e:
-        log.error(f"Telegram: {e}")
-        return False
+    # Telegram throttles to ~1 msg/sec per chat / ~20 per min to a group. We
+    # space sends and honor the server's retry_after so burst alerts aren't
+    # silently dropped (the old code returned False and lost the message).
+    for attempt in range(4):
+        gap = 1.1 - (time.monotonic() - _LAST_SEND["t"])
+        if gap > 0:
+            time.sleep(gap)
+        try:
+            r = requests.post(url, json=payload, timeout=10)
+            _LAST_SEND["t"] = time.monotonic()
+            if r.status_code == 429:
+                try:
+                    wait = int(r.json().get("parameters", {}).get("retry_after", 2))
+                except Exception:
+                    wait = 2
+                log.warning(f"Telegram 429 — waiting {wait}s (attempt {attempt+1}/4)")
+                time.sleep(wait + 1)
+                continue
+            if r.status_code != 200:
+                log.error(f"Telegram error {r.status_code}: {r.text[:100]}")
+                return False
+            return True
+        except Exception as e:
+            log.error(f"Telegram: {e}")
+            time.sleep(2)
+    log.error("Telegram: gave up after repeated 429s")
+    return False
 
 def send_funding(msg: str) -> bool:
     return send_telegram(msg, token=CONFIG["TELEGRAM_FUNDING_BOT_TOKEN"],
@@ -360,6 +390,27 @@ H = {
     "Accept-Language": "en-US,en;q=0.9",
 }
 
+def _http_get(name: str, url: str, *, timeout: int = 15,
+              accept_json: bool = False, cooldown: int = 60):
+    """Shared fetch for the RSS/custom scrapers. Respects each source's
+    cooldown, backs off on 429, and logs non-200s so a dead source is
+    distinguishable from a genuinely empty one. Returns the Response or None."""
+    if is_cooling(name):
+        return None
+    hdrs = {**H, "Accept": "application/json"} if accept_json else H
+    try:
+        r = requests.get(url, headers=hdrs, timeout=timeout)
+        if r.status_code == 429:
+            set_cooldown(name, cooldown)
+            return None
+        if r.status_code != 200:
+            log.warning(f"{name}: HTTP {r.status_code}")
+            return None
+        return r
+    except Exception as e:
+        log.error(f"{name}: {e}")
+        return None
+
 def scrape_jobspy(query: str, location: str, sites=None) -> list:
     try:
         from jobspy import scrape_jobs
@@ -431,12 +482,10 @@ def scrape_jobspy(query: str, location: str, sites=None) -> list:
         return []
 
 def scrape_rss(name: str, url: str, default_location="Remote") -> list:
-    if is_cooling(name): return []
+    r = _http_get(name, url)
+    if r is None: return []
     jobs = []
     try:
-        r = requests.get(url, headers=H, timeout=15)
-        if r.status_code == 429: set_cooldown(name, 60); return []
-        if r.status_code != 200: return []
         # feedparser tolerates real-world quirks (undefined entities, raw &,
         # custom namespaces) that the strict stdlib XML parser rejects.
         feed = feedparser.parse(r.content)
@@ -543,12 +592,10 @@ def is_us(location: str) -> bool:
 
 # ── Y Combinator (workatastartup.com) — real YC startups, structured JSON ──
 def scrape_yc() -> list:
-    if is_cooling("yc"): return []
+    r = _http_get("yc", "https://www.workatastartup.com/jobs/l/designer", timeout=20)
+    if r is None: return []
     jobs = []
     try:
-        r = requests.get("https://www.workatastartup.com/jobs/l/designer", headers=H, timeout=20)
-        if r.status_code == 429: set_cooldown("yc", 60); return []
-        if r.status_code != 200: return []
         m = re.search(r'data-page="([^"]+)"', r.text)
         if not m: return []
         data = json.loads(html.unescape(m.group(1)))
@@ -610,12 +657,10 @@ def scrape_opendoors() -> list:
 
 # ── Built In SF — design/UX jobs via server-rendered JSON-LD ItemList ──
 def scrape_builtinsf() -> list:
-    if is_cooling("builtin"): return []
+    r = _http_get("builtin", "https://www.builtinsf.com/jobs/design-ux", timeout=20)
+    if r is None: return []
     jobs = []
     try:
-        r = requests.get("https://www.builtinsf.com/jobs/design-ux", headers=H, timeout=20)
-        if r.status_code == 429: set_cooldown("builtin", 60); return []
-        if r.status_code != 200: return []
         page = html.unescape(r.text)
         for block in re.findall(r'<script type="application/ld[^"]*json">(.*?)</script>', page, re.S):
             try:
@@ -656,12 +701,10 @@ def _turbo_decode(arr, node, depth=0):
     return node
 
 def scrape_uiuxjobsboard() -> list:
-    if is_cooling("uiux"): return []
+    r = _http_get("uiux", "https://uiuxjobsboard.com/design-jobs.data", timeout=20)
+    if r is None: return []
     jobs = []
     try:
-        r = requests.get("https://uiuxjobsboard.com/design-jobs.data", headers=H, timeout=20)
-        if r.status_code == 429: set_cooldown("uiux", 60); return []
-        if r.status_code != 200: return []
         arr = json.loads(r.text)
         # Locate the jobs array: a list of int refs whose first item decodes to a job dict.
         refs = None
@@ -733,12 +776,10 @@ def _ashby_jobs(co: str) -> list:
     return out
 
 def scrape_startups_gallery() -> list:
-    if is_cooling("startupsgallery"): return []
+    r = _http_get("startupsgallery", "https://startups.gallery/jobs", timeout=20)
+    if r is None: return []
     jobs = []
     try:
-        r = requests.get("https://startups.gallery/jobs", headers=H, timeout=20)
-        if r.status_code == 429: set_cooldown("startupsgallery", 60); return []
-        if r.status_code != 200: return []
         gh  = set(re.findall(r'greenhouse\.io/([A-Za-z0-9_.-]+)/jobs/', r.text))
         ash = set(re.findall(r'ashbyhq\.com/([A-Za-z0-9_.-]+)/', r.text))
         for co in list(gh)[:25]:
@@ -895,12 +936,10 @@ def _is_company_like(name: str) -> bool:
     return True
 
 def scrape_funding_rss(name: str, url: str) -> list:
-    if is_cooling(name): return []
+    r = _http_get(name, url)
+    if r is None: return []
     items = []
     try:
-        r = requests.get(url, headers=H, timeout=15)
-        if r.status_code == 429: set_cooldown(name, 60); return []
-        if r.status_code != 200: return []
         feed = feedparser.parse(r.content)
         for entry in feed.entries[:20]:
             title = (entry.get("title") or "").strip()
@@ -926,15 +965,14 @@ def scrape_funding_rss(name: str, url: str) -> list:
     return items
 
 def fetch_sec_edgar() -> list:
-    if is_cooling("sec"): return []
     items = []
     try:
         today = now_pt().strftime("%Y-%m-%d")
-        r = requests.get(
+        r = _http_get("sec",
             "https://efts.sec.gov/LATEST/search-index?q=%22Form+D%22"
             f"&dateRange=custom&startdt={today}&enddt={today}&forms=D",
-            headers={**H, "Accept": "application/json"}, timeout=20)
-        if r.status_code != 200: return []
+            timeout=20, accept_json=True)
+        if r is None: return []
         for hit in r.json().get("hits", {}).get("hits", [])[:20]:
             src     = hit.get("_source", {})
             company = src.get("entity_name", "Unknown")
@@ -1203,8 +1241,15 @@ def run_check():
     new_count = 0
     all_jobs  = []
 
-    # JobSpy — all major boards
-    for query in SEARCH_QUERIES:
+    # JobSpy — rotate through SEARCH_QUERIES a few per cycle so we don't hit
+    # LinkedIn/Indeed with all 15×3 calls every run (the main block trigger).
+    # Over consecutive cycles the cursor walks the whole list.
+    q_off = load_json(CONFIG["QUERY_OFFSET_FILE"], 0)
+    n_q   = min(CONFIG["QUERIES_PER_CYCLE"], len(SEARCH_QUERIES))
+    batch = [SEARCH_QUERIES[(q_off + i) % len(SEARCH_QUERIES)] for i in range(n_q)]
+    save_json(CONFIG["QUERY_OFFSET_FILE"], (q_off + n_q) % len(SEARCH_QUERIES))
+    log.info(f"🔎 JobSpy queries this cycle: {', '.join(batch)}")
+    for query in batch:
         for loc in LOCATIONS:
             all_jobs.extend(scrape_jobspy(query, loc))
             time.sleep(2)
@@ -1220,6 +1265,7 @@ def run_check():
     all_jobs.extend(scrape_builtinsf())
     all_jobs.extend(scrape_uiuxjobsboard())
     all_jobs.extend(scrape_startups_gallery())
+    log.info(f"📥 Collected {len(all_jobs)} raw postings before filtering.")
 
     # First ever run = SILENT backfill: seed the board with the current
     # backlog (aged into "Yet to Apply") without blasting Telegram. A flag
