@@ -791,6 +791,107 @@ def scrape_startups_gallery() -> list:
         log.error(f"Startups.Gallery: {e}")
     return jobs
 
+# ── UX Jobs (Substack) — the weekly digest embeds 100s of US design roles
+#    with direct apply links (Google/Apple/Amazon/Adobe…). One post → many
+#    jobs, so we parse the <li> blocks rather than treat it as a plain feed. ──
+SUBSTACK_UXJOBS_URL = "https://uxjobs.substack.com/feed"
+
+def _despace_city(loc: str) -> str:
+    # The digest strips spaces inside hashtags ("#SanFrancisco, CA"); restore
+    # them so location_rank() can tier SF/Bay roles instead of dumping them in
+    # the generic "US" bucket.
+    parts = loc.split(",", 1)
+    city  = re.sub(r'(?<=[a-z])(?=[A-Z])', ' ', parts[0]).strip()
+    return f"{city}, {parts[1].strip()}" if len(parts) > 1 else city
+
+def scrape_substack_uxjobs() -> list:
+    r = _http_get("substack_uxjobs", SUBSTACK_UXJOBS_URL, timeout=20)
+    if r is None: return []
+    jobs = []
+    try:
+        feed = feedparser.parse(r.content)
+        for entry in feed.entries:
+            if "UX Jobs" not in (entry.get("title") or ""):
+                continue  # only the weekly / mid-week roundups carry the job list
+            body = (entry.get("content", [{}])[0].get("value")
+                    if entry.get("content") else (entry.get("summary") or ""))
+            if not body:
+                continue
+            for li in re.findall(r"<li>(.*?)</li>", body, re.S):
+                sm = re.search(r"<strong>(.*?)</strong>", li, re.S)
+                am = re.search(r'href="(https?://[^"]+)"', li)
+                if not (sm and am):
+                    continue
+                url = html.unescape(am.group(1))
+                # drop the newsletter's own links, affiliate links, author bylines
+                if any(x in url for x in ("substack.com", "uxjobs.io", "amzn.to", "linkedin.com/in/")):
+                    continue
+                label = html.unescape(re.sub(r"<[^>]+>", "", sm.group(1))).strip()
+                if " - " not in label:
+                    continue  # not a "Role - Company" job line
+                title, company = label.rsplit(" - ", 1)
+                locs = re.findall(r"#([A-Za-z .]+,\s*[A-Z]{2})", li)
+                loc  = _despace_city(locs[0]) if locs else ("Remote" if "remote" in li.lower() else "United States")
+                m   = re.search(r'\$[\d,]+(?:\s*[-–]\s*\$[\d,]+)?', li)
+                jobs.append({
+                    "title": title.strip(), "company": company.strip(),
+                    "location": loc, "url": url,
+                    "salary": m.group(0) if m else "See posting",
+                    "description": "", "posted_at": "Recently",
+                    "source": "UX Jobs (Substack)",
+                })
+            break  # newest digest only
+    except Exception as e:
+        log.error(f"Substack UX Jobs: {e}")
+    return jobs[:150]
+
+# ── ZipRecruiter — OFFICIAL Job Search API (replaces the scraper we had to
+#    disable: the public site 403s bots, and the bot can't reach Claude's
+#    ZipRecruiter MCP tool from an autonomous process). DORMANT until a
+#    ZIPRECRUITER_API_KEY is set in .env — get one via the publisher program
+#    at https://www.ziprecruiter.com/publishers . UNVERIFIED end-to-end
+#    (no key on hand to test); written against the documented v1 shape. ──
+def scrape_ziprecruiter_api(query: str, location: str) -> list:
+    api_key = os.environ.get("ZIPRECRUITER_API_KEY", "").strip()
+    if not api_key or is_cooling("ziprecruiter_api"):
+        return []
+    jobs = []
+    try:
+        r = requests.get(
+            "https://api.ziprecruiter.com/jobs/v1",
+            params={"search": query, "location": location, "radius_miles": 25,
+                    "days_ago": max(1, CONFIG["HOURS_OLD"] // 24),
+                    "jobs_per_page": CONFIG["RESULTS_PER_SEARCH"], "page": 1,
+                    "api_key": api_key},
+            headers=H, timeout=20)
+        if r.status_code == 429:
+            set_cooldown("ziprecruiter_api", 60); return []
+        if r.status_code != 200:
+            log.warning(f"ZipRecruiter API: HTTP {r.status_code}")
+            return []
+        for j in r.json().get("jobs", []):
+            comp = (j.get("hiring_company") or {}).get("name") or "Unknown"
+            lo, hi, interval = j.get("salary_min"), j.get("salary_max"), j.get("salary_interval", "year")
+            if lo and hi:
+                salary = f"${int(lo):,} – ${int(hi):,} / {interval}"
+            elif lo:
+                salary = f"${int(lo):,}+"
+            else:
+                salary = "Not listed"
+            jobs.append({
+                "title":    (j.get("name") or "").strip(),
+                "company":  comp.strip(),
+                "location": (j.get("location") or "").strip() or location,
+                "url":      j.get("url") or "",
+                "salary":   salary,
+                "description": re.sub(r"<[^>]+>", "", j.get("snippet") or "")[:400],
+                "posted_at": j.get("posted_time_friendly", "Recently"),
+                "source":   "ZipRecruiter",
+            })
+    except Exception as e:
+        log.error(f"ZipRecruiter API: {e}")
+    return jobs
+
 # ═════════════════════════════════════════════════════════════════
 #  💰  FUNDING RADAR — fresh raises = design hire incoming
 #  Scans VC news + SEC Form D, then for each freshly-funded company
@@ -1265,6 +1366,10 @@ def run_check():
     all_jobs.extend(scrape_builtinsf())
     all_jobs.extend(scrape_uiuxjobsboard())
     all_jobs.extend(scrape_startups_gallery())
+    all_jobs.extend(scrape_substack_uxjobs())
+    # ZipRecruiter official API — no-op unless ZIPRECRUITER_API_KEY is set
+    for query in batch:
+        all_jobs.extend(scrape_ziprecruiter_api(query, "United States"))
     log.info(f"📥 Collected {len(all_jobs)} raw postings before filtering.")
 
     # First ever run = SILENT backfill: seed the board with the current
