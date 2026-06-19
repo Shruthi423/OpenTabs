@@ -154,6 +154,7 @@ function visible() {
     return true;
   });
   out.sort((a, b) => {
+    if (state.sort === "new")    return jobTime(b) - jobTime(a);      // newest on top
     if (state.sort === "salary") return salaryNum(b.salary) - salaryNum(a.salary);
     // Location (default): SF → Bay → Seattle/LA/NY/Philly → US → remote,
     // newest first within a tier.

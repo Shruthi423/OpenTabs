@@ -25,7 +25,7 @@ function ago(when) {
 }
 
 /* map-pin glyph for the highlighted location chip */
-const PIN_SVG = '<svg class="ico-pin" width="13" height="13" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M128,16a88.1,88.1,0,0,0-88,88c0,75.3,80,132.17,83.41,134.55a8,8,0,0,0,9.18,0C136,236.17,216,179.3,216,104A88.1,88.1,0,0,0,128,16Zm0,56a32,32,0,1,1-32,32A32,32,0,0,1,128,72Z"></path></svg>';
+const PIN_SVG = '<svg class="ico-pin" width="13" height="13" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M200,224H150.54A266.56,266.56,0,0,0,174,200.25c27.45-31.57,42-64.85,42-96.25a88,88,0,0,0-176,0c0,31.4,14.51,64.68,42,96.25A266.56,266.56,0,0,0,105.46,224H56a8,8,0,0,0,0,16H200a8,8,0,0,0,0-16ZM128,72a32,32,0,1,1-32,32A32,32,0,0,1,128,72Z"></path></svg>';
 
 function cardHTML(f, n) {
   const idx   = String(n).padStart(2, "0");

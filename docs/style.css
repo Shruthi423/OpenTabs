@@ -1,13 +1,13 @@
 /* ════════════════════════════════════════════════════════════════
    OpenTabs — editorial index theme, 5 colour modes
    (dark · paper · blush · mint · cream). Manrope (sans) for job titles
-   + monospace (Space Mono) for all UI / numbers / metadata.
+   + monospace (DM Mono) for all UI / numbers / metadata.
    Numbered index down the left with a hairline spine.
    ════════════════════════════════════════════════════════════════ */
 
 :root {
   --font-title: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  --font-ui: "Space Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  --font-ui: "DM Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
 }
 
 :root[data-theme="dark"] {
@@ -148,13 +148,24 @@ input[type="range"]::-moz-range-thumb {
 }
 .seg button.is-on { color: var(--fg); }
 .reset:hover, .seg button:hover { color: var(--fg); }
+/* Sort-by buttons carry an icon + label */
+.seg-sort .sort, .seg-sort .rsort { display: inline-flex; align-items: center; gap: 6px; }
+.seg-sort .sort svg, .seg-sort .rsort svg { display: block; opacity: .9; }
 
-/* colour-theme swatches */
-.swatches { display: flex; gap: 8px; }
+/* colour-theme swatches — collapsed to the active colour, fan out on hover */
+.swatches { display: flex; align-items: center; }
 .sw {
   width: 15px; height: 15px; border-radius: 50%; background: var(--c);
-  border: 1px solid var(--line); cursor: pointer; padding: 0;
+  border: 1px solid var(--line); cursor: pointer; padding: 0; margin-left: 7px;
+  transition: width .22s ease, opacity .22s ease, margin .22s ease,
+              transform .22s ease, border-width .22s ease;
 }
+.swatches .sw:first-child { margin-left: 0; }
+.swatches:not(:hover) .sw:not(.is-on) {
+  width: 0; opacity: 0; margin-left: 0; border-width: 0;
+  transform: scale(.4); pointer-events: none;
+}
+.swatches:not(:hover) .sw.is-on { margin-left: 0; }
 .sw.is-on { box-shadow: 0 0 0 2px var(--bg), 0 0 0 3px var(--fg); }
 
 /* Global Undo (reverts the previous action), next to the colour swatches */
