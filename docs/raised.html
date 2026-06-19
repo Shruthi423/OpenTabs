@@ -34,9 +34,17 @@
   <!-- ── View toggle ───────────────────────────────────────────────── -->
   <div class="feed-controls">
     <span class="count"><b id="statRaises2">0</b> raises</span>
-    <span class="seg">
-      <button class="rview is-on" data-rview="cols">Column view</button>
-      <button class="rview" data-rview="list">List view</button>
+    <span class="rsort-wrap">
+      <span class="sortlbl">Sort by</span>
+      <span class="seg">
+        <button class="rsort is-on" data-rsort="new">Newest</button>
+        <button class="rsort" data-rsort="amount">Amount</button>
+        <button class="rsort" data-rsort="loc">Location</button>
+      </span>
+    </span>
+    <span class="seg seg-view rview-seg">
+      <button class="rview is-on" data-rview="cols" title="Column view" aria-label="Column view"><svg viewBox="0 0 256 256" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M120,48V208a16,16,0,0,1-16,16H64a16,16,0,0,1-16-16V48A16,16,0,0,1,64,32h40A16,16,0,0,1,120,48Zm72-16H152a16,16,0,0,0-16,16V208a16,16,0,0,0,16,16h40a16,16,0,0,0,16-16V48A16,16,0,0,0,192,32Z"></path></svg></button>
+      <button class="rview" data-rview="list" title="List view" aria-label="List view"><svg viewBox="0 0 256 256" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M224,152v40a16,16,0,0,1-16,16H48a16,16,0,0,1-16-16V152a16,16,0,0,1,16-16H208A16,16,0,0,1,224,152ZM208,48H48A16,16,0,0,0,32,64v40a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V64A16,16,0,0,0,208,48Z"></path></svg></button>
     </span>
   </div>
 

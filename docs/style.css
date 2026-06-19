@@ -171,10 +171,15 @@ input[type="range"]::-moz-range-thumb {
 }
 .feed-controls .count { color: var(--mut); font-size: 12px; }
 .feed-controls .count b { color: var(--fg); font-weight: 700; }
-/* Column view = responsive card grid */
+/* Column view = card grid, capped at 3 columns */
 .feed.cols {
-  display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
 }
+@media (max-width: 1024px) { .feed.cols { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 680px)  { .feed.cols { grid-template-columns: 1fr; } }
+/* Sort + view controls share the row; view icons sit at the far right */
+.feed-controls .rsort-wrap { display: inline-flex; align-items: center; gap: 14px; }
+.feed-controls .rview-seg { margin-left: auto; }
 /* List view = full-width stacked rows */
 .feed.list { display: block; }
 .feed.list .raise { border-right: 0; padding: 22px 24px; }
@@ -338,9 +343,10 @@ main.list .apply { font-size: 12px; }
 
 /* ── View toggle: icon buttons (column / list) ─────────────────── */
 .seg-view { gap: 14px; }
-.seg-view .view { display: inline-flex; align-items: center; line-height: 0; }
-.seg-view .view svg { display: block; opacity: .85; transition: opacity .15s ease; }
-.seg-view .view:hover svg, .seg-view .view.is-on svg { opacity: 1; }
+.seg-view .view, .seg-view .rview { display: inline-flex; align-items: center; line-height: 0; }
+.seg-view .view svg, .seg-view .rview svg { display: block; opacity: .85; transition: opacity .15s ease; }
+.seg-view .view:hover svg, .seg-view .view.is-on svg,
+.seg-view .rview:hover svg, .seg-view .rview.is-on svg { opacity: 1; }
 
 /* ── Icon actions: Undo + Remove (sit alongside Done / Not yet) ── */
 .act.icon {

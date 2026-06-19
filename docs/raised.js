@@ -53,10 +53,34 @@ function cardHTML(f, n) {
     </article>`;
 }
 
-function render(data) {
-  const live = (Array.isArray(data) ? data : [])
+let DATA = [];                                   // last fetched funding records
+let rsort = localStorage.getItem("raisedSort") || "new";
+
+// location shown on a card: company HQ, else first matched role's location
+function locOf(f) { return f.location || (f.roles && f.roles[0] && f.roles[0].location) || ""; }
+// "$24.0M" → 24, "$1.5B" → 1500, "Undisclosed" → -1 (for Amount sort)
+function amtNum(a) {
+  const m = (a || "").match(/\$?\s*([\d.]+)\s*([MB])/i);
+  if (!m) return -1;
+  return parseFloat(m[1]) * (m[2].toUpperCase() === "B" ? 1000 : 1);
+}
+const byNew = (a, b) => (b.first_seen || "").localeCompare(a.first_seen || "");
+const SORTERS = {
+  new: byNew,
+  amount: (a, b) => amtNum(b.amount) - amtNum(a.amount) || byNew(a, b),
+  loc: (a, b) => {                                // located first, then A–Z, then newest
+    const la = locOf(a), lb = locOf(b);
+    if (!la !== !lb) return la ? -1 : 1;
+    return la.localeCompare(lb) || byNew(a, b);
+  },
+};
+
+function render(data) { DATA = Array.isArray(data) ? data : []; draw(); }
+
+function draw() {
+  const live = DATA
     .filter((f) => f.status !== "dismissed")
-    .sort((a, b) => (b.first_seen || "").localeCompare(a.first_seen || ""));
+    .sort(SORTERS[rsort] || byNew);
 
   $("#raisedCount").textContent = live.length;
   $("#statRaises").textContent  = live.length;
@@ -92,6 +116,16 @@ $$('[data-rview]').forEach((b) => b.addEventListener("click", () => {
   view = b.dataset.rview; localStorage.setItem("raisedView", view); applyView();
 }));
 
+/* ── Sort by (Newest / Amount / Location), persisted ── */
+function applySort() {
+  if (!SORTERS[rsort]) rsort = "new";
+  $$('[data-rsort]').forEach((b) => b.classList.toggle("is-on", b.dataset.rsort === rsort));
+}
+$$('[data-rsort]').forEach((b) => b.addEventListener("click", () => {
+  rsort = b.dataset.rsort; localStorage.setItem("raisedSort", rsort); applySort(); draw();
+}));
+
+applySort();
 applyView();
 load();
 setInterval(load, 60000);   // live: silent refresh every 60s
