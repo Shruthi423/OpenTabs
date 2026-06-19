@@ -959,22 +959,28 @@ FUNDING_WORDS = [
 #    Catches "San Francisco-based X raises…" and "Seattle startup Y…",
 #    else falls back to scanning a short list of common startup hubs. ──
 _FUND_CITIES = [
-    "San Francisco", "Bay Area", "Palo Alto", "Mountain View", "San Jose", "Oakland",
-    "Menlo Park", "New York", "Brooklyn", "Boston", "Cambridge", "Seattle", "Los Angeles",
-    "San Diego", "Austin", "Denver", "Boulder", "Chicago", "Miami", "Atlanta", "Washington",
-    "Philadelphia", "Portland", "Pittsburgh", "Salt Lake City", "Nashville", "Raleigh",
+    "San Francisco", "Bay Area", "Silicon Valley", "Palo Alto", "Mountain View", "San Jose",
+    "Oakland", "Menlo Park", "Redwood City", "San Mateo", "Santa Clara", "Sunnyvale",
+    "New York", "Manhattan", "Brooklyn", "Boston", "Cambridge", "Seattle", "Bellevue",
+    "Los Angeles", "Santa Monica", "San Diego", "Austin", "Dallas", "Houston", "Denver",
+    "Boulder", "Chicago", "Miami", "Atlanta", "Washington", "Philadelphia", "Portland",
+    "Pittsburgh", "Salt Lake City", "Nashville", "Raleigh", "Detroit", "Minneapolis",
     "London", "Berlin", "Paris", "Amsterdam", "Tel Aviv", "Bangalore", "Bengaluru",
-    "Singapore", "Toronto", "Tokyo", "Sydney", "Dublin", "Stockholm", "Munich",
-    "Barcelona", "Madrid", "Zurich", "Bangkok", "São Paulo", "Mexico City",
+    "Singapore", "Toronto", "Vancouver", "Tokyo", "Sydney", "Dublin", "Stockholm", "Munich",
+    "Barcelona", "Madrid", "Zurich", "Bangkok", "São Paulo", "Mexico City", "Waterloo",
 ]
-_BASED_RE = re.compile(r'\b([A-Z][A-Za-z.]+(?:\s[A-Z][A-Za-z.]+){0,2})[-–]based\b')
+# "San Francisco-based X", and "X based/headquartered/located in <City>".
+_BASED_RE   = re.compile(r'\b([A-Z][A-Za-z.]+(?:\s[A-Z][A-Za-z.]+){0,2})[-–]based\b')
+_BASEDIN_RE = re.compile(r'\b(?:based|headquartered|located)\s+in\s+'
+                         r'([A-Z][A-Za-z.]+(?:\s[A-Z][A-Za-z.]+){0,2})')
 
 def extract_location(text: str):
     if not text:
         return None
-    m = _BASED_RE.search(text)
-    if m:
-        return m.group(1).strip()
+    for rx in (_BASED_RE, _BASEDIN_RE):
+        m = rx.search(text)
+        if m:
+            return m.group(1).strip()
     for city in _FUND_CITIES:
         if re.search(r'\b' + re.escape(city) + r'\b', text, re.IGNORECASE):
             return city

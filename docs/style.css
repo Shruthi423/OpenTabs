@@ -177,9 +177,8 @@ input[type="range"]::-moz-range-thumb {
 }
 @media (max-width: 1024px) { .feed.cols { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 680px)  { .feed.cols { grid-template-columns: 1fr; } }
-/* Sort + view controls share the row; view icons sit at the far right */
-.feed-controls .rsort-wrap { display: inline-flex; align-items: center; gap: 14px; }
-.feed-controls .rview-seg { margin-left: auto; }
+/* Sort + view controls share the row; Sort by sits at the far right */
+.feed-controls .rsort-wrap { display: inline-flex; align-items: center; gap: 14px; margin-left: auto; }
 /* List view = full-width stacked rows */
 .feed.list { display: block; }
 .feed.list .raise { border-right: 0; padding: 22px 24px; }
