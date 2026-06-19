@@ -319,6 +319,30 @@ function bind() {
   // restore everything you've removed
   $("#restoreBtn").addEventListener("click", () => { REMOVED.clear(); saveRemoved(); render(true); });
 
+  // ── Clear all (per column / drawer) with a Yes/No confirm modal ──
+  const SECTION_LABELS = { new: "New", yet: "Older than a day", week: "Older than a week", app: "Applied" };
+  let pendingClear = null;
+  const closeModal = () => { $("#modalScrim").hidden = true; pendingClear = null; };
+  const openModal = (k) => {
+    pendingClear = k;
+    $("#modalMsg").innerHTML =
+      `This will remove all the listings from <b>“${esc(SECTION_LABELS[k] || k)}”</b>. Do you want to clear?`;
+    $("#modalScrim").hidden = false;
+  };
+  $$('.clear-all').forEach((b) => b.addEventListener("click", () => openModal(b.dataset.clear)));
+  $("#modalNo").addEventListener("click", closeModal);
+  $("#modalScrim").addEventListener("click", (e) => { if (e.target === $("#modalScrim")) closeModal(); });
+  $("#modalYes").addEventListener("click", () => {
+    if (!pendingClear) return;
+    const k = pendingClear;
+    // hide every currently-shown listing in that section (restorable from footer)
+    visible().filter((j) => bucket(j) === k).forEach((j) => REMOVED.add(j.id));
+    saveRemoved();
+    closeModal();
+    render(true);
+  });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
+
   // Done / Not yet / Undo / Remove buttons on each card (event delegation).
   // Attached to both the board and the drawer, since Applied cards live there.
   const onCardClick = (e) => {

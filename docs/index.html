@@ -107,6 +107,7 @@
   <aside class="drawer" id="drawer" aria-label="Applied jobs">
     <div class="drawer-head">
       <h2>Applied <em data-count="app">0</em></h2>
+      <button class="clear-all" data-clear="app">Clear all</button>
       <button class="drawer-close" id="drawerClose" aria-label="Close applied">✕</button>
     </div>
     <div class="rows" id="rows-app"></div>
@@ -119,6 +120,18 @@
   </footer>
 
   <a href="#top" class="totop" aria-label="Back to top">Top</a>
+
+  <!-- ── Confirm modal (Clear all) ─────────────────────────────────── -->
+  <div class="modal-scrim" id="modalScrim" hidden>
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalMsg">
+      <p class="modal-msg" id="modalMsg"></p>
+      <div class="modal-actions">
+        <button class="modal-btn no" id="modalNo">No</button>
+        <button class="modal-btn yes" id="modalYes">Yes, clear</button>
+      </div>
+    </div>
+  </div>
+
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/Flip.min.js"></script>
   <script src="./app.js"></script>

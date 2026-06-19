@@ -955,8 +955,34 @@ FUNDING_WORDS = [
     "backed", "seed", "series", "capital", "million", "billion",
 ]
 
+# ── Where is the company based? Best-effort from the headline/blurb.
+#    Catches "San Francisco-based X raises…" and "Seattle startup Y…",
+#    else falls back to scanning a short list of common startup hubs. ──
+_FUND_CITIES = [
+    "San Francisco", "Bay Area", "Palo Alto", "Mountain View", "San Jose", "Oakland",
+    "Menlo Park", "New York", "Brooklyn", "Boston", "Cambridge", "Seattle", "Los Angeles",
+    "San Diego", "Austin", "Denver", "Boulder", "Chicago", "Miami", "Atlanta", "Washington",
+    "Philadelphia", "Portland", "Pittsburgh", "Salt Lake City", "Nashville", "Raleigh",
+    "London", "Berlin", "Paris", "Amsterdam", "Tel Aviv", "Bangalore", "Bengaluru",
+    "Singapore", "Toronto", "Tokyo", "Sydney", "Dublin", "Stockholm", "Munich",
+    "Barcelona", "Madrid", "Zurich", "Bangkok", "São Paulo", "Mexico City",
+]
+_BASED_RE = re.compile(r'\b([A-Z][A-Za-z.]+(?:\s[A-Z][A-Za-z.]+){0,2})[-–]based\b')
+
+def extract_location(text: str):
+    if not text:
+        return None
+    m = _BASED_RE.search(text)
+    if m:
+        return m.group(1).strip()
+    for city in _FUND_CITIES:
+        if re.search(r'\b' + re.escape(city) + r'\b', text, re.IGNORECASE):
+            return city
+    return None
+
 def extract_funding(text: str) -> dict:
-    result = {"amount": None, "stage": None, "investors": None, "priority": 3}
+    result = {"amount": None, "stage": None, "investors": None, "priority": 3, "location": None}
+    result["location"] = extract_location(text)
     m = AMOUNT_RE.search(text)
     if m:
         num  = float(m.group(1).replace(",", ""))
@@ -1057,6 +1083,7 @@ def scrape_funding_rss(name: str, url: str) -> list:
                 "amount":    f["amount"],
                 "stage":     f["stage"],
                 "investors": f["investors"],
+                "location":  f["location"],
                 "source":    name,
                 "url":       link,
                 "priority":  f["priority"],
@@ -1261,6 +1288,8 @@ def run_funding_check(job_seen: set, job_store: dict, job_pending: list,
             "stage": item.get("stage") or "?", "investors": item.get("investors") or "Undisclosed",
             "source": item.get("source", ""), "url": item.get("url", ""),
             "priority": item.get("priority", 0),
+            # company HQ from the headline, else fall back to the first role's location
+            "location": item.get("location") or (roles[0].get("location") if roles else None),
             "roles": [{"title": r["title"], "url": r["url"], "location": r.get("location", "")} for r in roles],
             "first_seen": (now_pt() - timedelta(hours=CONFIG["NEW_HOURS"] + 1)).isoformat() if f_silent else now_pt().isoformat(),
             "status": "active",

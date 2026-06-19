@@ -56,7 +56,7 @@ sup { font-size: .5em; vertical-align: super; }
 .nav {
   position: sticky; top: 0; z-index: 20;
   display: grid;
-  grid-template-columns: 1.3fr .9fr .9fr 1.5fr .9fr 1.6fr;
+  grid-template-columns: 1.1fr .8fr .7fr 1.2fr 1.3fr .7fr 1.3fr;
   background: var(--bg);
   border-bottom: 1px solid var(--line);
 }
@@ -230,8 +230,8 @@ a.role {
 a.role:hover { border-bottom-color: var(--spec); }
 a.role .role-loc { color: var(--mut); }
 
-/* ── Two-column board (New · Older than a day; Applied = right drawer) ── */
-.board { display: grid; grid-template-columns: repeat(2, 1fr); }
+/* ── Three-column board (New · Older-day · Older-week; Applied = drawer) ── */
+.board { display: grid; grid-template-columns: repeat(3, 1fr); }
 .col { border-left: 1px solid var(--line); min-width: 0; }
 .col:first-child { border-left: 0; }
 .col-head {
@@ -403,6 +403,44 @@ body.drawer-open .drawer { transform: translateX(0); box-shadow: -22px 0 50px rg
 }
 .drawer-close:hover { color: var(--fg); }
 .drawer .rows { overflow-y: auto; flex: 1 1 auto; }
+
+/* ── "Clear all" per column / drawer ───────────────────────────── */
+.clear-all {
+  background: none; border: 0; cursor: pointer; color: var(--mut);
+  font-family: var(--font-ui); font-size: 11px; padding: 0; white-space: nowrap;
+  border-bottom: 1px solid transparent;
+}
+.clear-all:hover { color: #e5484d; border-bottom-color: #e5484d; }
+.col-head .clear-all { margin-left: 8px; }
+.drawer-head .clear-all { margin-left: auto; }
+.drawer-head .drawer-close { margin-left: 10px; }
+
+/* ── Confirm modal (Clear all) ─────────────────────────────────── */
+.modal-scrim {
+  position: fixed; inset: 0; z-index: 50; padding: 20px;
+  display: flex; align-items: center; justify-content: center;
+  background: rgba(0,0,0,.45);
+}
+.modal-scrim[hidden] { display: none; }
+.modal {
+  background: var(--bg); border: 1px solid var(--line); border-radius: 14px;
+  max-width: 380px; width: 100%; padding: 24px 22px 18px;
+  box-shadow: 0 24px 60px rgba(0,0,0,.35);
+}
+.modal-msg {
+  margin: 0 0 20px; color: var(--fg); font-size: 14px; line-height: 1.5;
+  font-family: var(--font-ui);
+}
+.modal-msg b { font-weight: 700; }
+.modal-actions { display: flex; gap: 10px; justify-content: flex-end; }
+.modal-btn {
+  cursor: pointer; font-family: var(--font-ui); font-size: 13px;
+  border-radius: 20px; padding: 8px 16px; border: 1px solid var(--line);
+}
+.modal-btn.no { background: none; color: var(--mut); }
+.modal-btn.no:hover { color: var(--fg); border-color: var(--fg); }
+.modal-btn.yes { background: var(--active-bg); color: var(--active-fg); border: 0; }
+.modal-btn.yes:hover { opacity: .85; }
 
 /* ── Responsive ────────────────────────────────────────────────── */
 
