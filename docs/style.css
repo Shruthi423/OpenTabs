@@ -56,7 +56,7 @@ sup { font-size: .5em; vertical-align: super; }
 .nav {
   position: sticky; top: 0; z-index: 20;
   display: grid;
-  grid-template-columns: 1.4fr 1fr 1fr 1.2fr 1fr 1.8fr;
+  grid-template-columns: 1.3fr .9fr .9fr 1.5fr .9fr 1.6fr;
   background: var(--bg);
   border-bottom: 1px solid var(--line);
 }

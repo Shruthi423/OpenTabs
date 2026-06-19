@@ -1,5 +1,37 @@
 [
   {
+    "id": "f41d50a896f506a78bd18e34e3ae8289",
+    "title": "User Experience Designer",
+    "company": "Synchrony Systems, Inc.",
+    "location": "Pittsburgh, PA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4431116392",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-06-19T12:04:15.452393-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  {
+    "id": "58bd659500d08ac2455ca028f52ffb3c",
+    "title": "ServiceNow UI/UX Designer",
+    "company": "Accenture Federal Services",
+    "location": "Washington, DC",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4341205088",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-06-19T12:04:13.900441-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  {
     "id": "fb32dad4cfa052313595c95e8b8096fd",
     "title": "UX/Product Designer - AI Trainer",
     "company": "DataAnnotation",
