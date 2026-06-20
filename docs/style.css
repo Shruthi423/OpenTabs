@@ -133,12 +133,12 @@ sup { font-size: .5em; vertical-align: super; }
 .dd.has-val .dd-sum { color: var(--spec); }
 
 .dd-panel {
-  position: absolute; top: calc(100% + 9px); left: 0; z-index: 60;
+  position: absolute; top: calc(100% + 9px); right: 0; z-index: 60;
   min-width: 210px; max-height: 320px; overflow-y: auto;
   background: var(--bg); border: 1px solid var(--line); border-radius: 12px;
   padding: 6px; box-shadow: 0 12px 34px rgba(0,0,0,.28);
   opacity: 0; transform: translateY(-6px) scale(.98);
-  transform-origin: top left; pointer-events: none;
+  transform-origin: top right; pointer-events: none;
   transition: opacity .16s ease, transform .16s ease;
 }
 .dd.open .dd-panel { opacity: 1; transform: none; pointer-events: auto; }
