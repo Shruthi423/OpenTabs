@@ -81,6 +81,7 @@ sup { font-size: .5em; vertical-align: super; }
   background: var(--active-bg); transform: scaleY(0); transform-origin: bottom;
   transition: transform .34s cubic-bezier(.22,1,.36,1);
 }
+.nav .tab .tab-fire { align-self: center; margin-right: -2px; color: var(--spec); flex: none; }
 .nav .tab .t {
   position: relative; z-index: 1;
   display: inline-flex; align-items: baseline; gap: 8px;
@@ -106,8 +107,11 @@ sup { font-size: .5em; vertical-align: super; }
 .field.search { flex: 1; }
 .field.search input {
   flex: 1; background: var(--field-bg); border: 0; outline: 0;
-  color: var(--fg); font-family: inherit; font-size: 15px; padding: 4px 0;
+  border-bottom: 1px solid var(--line); color: var(--fg);
+  font-family: inherit; font-size: 15px; padding: 4px 0;
+  transition: border-color .2s ease;
 }
+.field.search input:focus { border-bottom-color: var(--spec); }
 .field.search input::placeholder { color: var(--mut); }
 
 select {
@@ -150,7 +154,7 @@ input[type="range"]::-moz-range-thumb {
 .reset:hover, .seg button:hover { color: var(--fg); }
 /* Sort-by buttons: icon only; label slides in on hover (active = lit icon) */
 .seg-sort .sort, .seg-sort .rsort { display: inline-flex; align-items: center; gap: 0; }
-.seg-sort .sort svg, .seg-sort .rsort svg { display: block; opacity: .9; }
+.seg-sort .sort svg, .seg-sort .rsort svg { display: block; opacity: .9; width: 18px; height: 18px; }
 .seg-sort .lbl {
   max-width: 0; opacity: 0; overflow: hidden; white-space: nowrap;
   transition: max-width .22s ease, opacity .22s ease, margin .22s ease;
@@ -180,7 +184,7 @@ input[type="range"]::-moz-range-thumb {
   background: none; border: 0; padding: 2px; color: var(--mut);
   display: inline-flex; align-items: center; line-height: 0; cursor: pointer;
 }
-.undo-all svg { display: block; }
+.undo-all svg { display: block; width: 21px; height: 21px; }
 .undo-all:hover:not(:disabled) { color: var(--fg); }
 .undo-all:disabled { opacity: .3; cursor: default; }
 
