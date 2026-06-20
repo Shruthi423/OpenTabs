@@ -269,6 +269,27 @@ a.role {
 a.role:hover { border-bottom-color: var(--spec); }
 a.role .role-loc { color: var(--mut); }
 
+/* Outreach row: company site + LinkedIn + founder deep-links (free layer) */
+.outreach {
+  margin-top: 13px; padding-top: 12px; border-top: 1px dashed var(--line);
+  display: flex; flex-wrap: wrap; align-items: center; gap: 7px;
+}
+.outreach .ol-lbl {
+  color: var(--mut); font-size: 10px; text-transform: uppercase;
+  letter-spacing: .06em; margin-left: 4px;
+}
+.outreach .ol, .outreach .founder {
+  display: inline-flex; align-items: center; gap: 5px;
+  border: 1px solid var(--line); border-radius: 20px;
+  padding: 4px 10px; font-size: 12px; line-height: 1; color: var(--fg);
+  transition: border-color .18s ease, color .18s ease;
+}
+.outreach .ol { color: var(--mut); }
+.outreach .founder { color: var(--spec); border-color: var(--spec); }
+.outreach .ol:hover { color: var(--fg); border-color: var(--fg); }
+.outreach .founder:hover { background: var(--spec); color: var(--bg); }
+.outreach svg { flex: none; opacity: .85; }
+
 /* ── Three-column board (New · Older-day · Older-week; Applied = drawer) ── */
 .board { display: grid; grid-template-columns: repeat(3, 1fr); }
 .col { border-left: 1px solid var(--line); min-width: 0; }

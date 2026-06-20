@@ -1096,6 +1096,45 @@ def extract_funding(text: str) -> dict:
             result["priority"] += 3
     return result
 
+# ── Founders — best-effort from the article text. Funding pieces usually name
+#    the people ("founded by X and Y", "co-founder and CEO X", "CEO X"). We pull
+#    those names so the Just-Raised card can deep-link to their LinkedIn. ──
+# NB: keep the NAME pattern case-SENSITIVE (no global re.I — that would let
+#     [A-Z] match lowercase and capture junk like "founded by ryan"). Keyword
+#     parts use scoped inline (?i:…) so "Founded"/"FOUNDED" still match.
+_PNAME = r'[A-Z][a-z]+(?:\s+[A-Z][a-z.\'\-]+){1,2}'      # 2–3 capitalised words
+_FOUNDER_BLOCK = re.compile(
+    r'(?i:\b(?:co-?found(?:ed|er[s]?)|found(?:ed|er[s]?))\b'
+    r'(?:\s+and\s+(?:co-)?(?:ceo|cto|coo|president))?'
+    r'(?:\s+(?:by|are|is|:|,))?)\s+'
+    r'(' + _PNAME + r'(?:\s*(?:,|(?i:and)|&)\s*' + _PNAME + r')*)')
+_CEO_RE     = re.compile(r'(?i:\b(?:ceo|chief executive(?:\s+officer)?))\s+(' + _PNAME + r')')
+_NAME_SPLIT = re.compile(r'\s*(?:,|and|&)\s*', re.I)
+_NOT_A_PERSON = ("capital", "ventures", "venture", "partners", "fund", "group",
+                 "holdings", "labs", "technologies", "inc", "llc")
+
+def extract_founders(text: str, company: str = "") -> list:
+    """Return up to 3 founder/CEO names mentioned in the article text."""
+    if not text:
+        return []
+    blocks = [m.group(1) for m in _FOUNDER_BLOCK.finditer(text)]
+    m = _CEO_RE.search(text)
+    if m:
+        blocks.append(m.group(1))
+    co = (company or "").lower()
+    out, seen = [], set()
+    for block in blocks:
+        for name in _NAME_SPLIT.split(block):
+            name = name.strip(" ,.&")
+            low  = name.lower()
+            if len(name.split()) not in (2, 3):           continue
+            if low in seen or (co and (low == co or low in co or co in low)): continue
+            if any(t in low for t in _NOT_A_PERSON):       continue
+            seen.add(low); out.append(name)
+            if len(out) >= 3:
+                return out
+    return out
+
 def funding_is_relevant(title: str, description: str) -> bool:
     text = f"{title} {description}".lower()
     if not any(w in text for w in FUNDING_WORDS):
@@ -1178,6 +1217,7 @@ def scrape_funding_rss(name: str, url: str) -> list:
                 "stage":     f["stage"],
                 "investors": f["investors"],
                 "location":  f["location"],
+                "founders":  extract_founders(f"{title}. {desc}", company),
                 "source":    name,
                 "url":       link,
                 "priority":  f["priority"],
@@ -1382,6 +1422,7 @@ def run_funding_check(job_seen: set, job_store: dict, job_pending: list,
             "stage": item.get("stage") or "?", "investors": item.get("investors") or "Undisclosed",
             "source": item.get("source", ""), "url": item.get("url", ""),
             "priority": item.get("priority", 0),
+            "founders": item.get("founders") or [],
             # company HQ from the headline, else fall back to the first role's location
             "location": item.get("location") or (roles[0].get("location") if roles else None),
             "roles": [{"title": r["title"], "url": r["url"], "location": r.get("location", "")} for r in roles],

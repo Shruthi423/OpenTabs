@@ -36,9 +36,20 @@ function isSF(f) {
 function linkedinUrl(co) {
   return "https://www.linkedin.com/search/results/companies/?keywords=" + encodeURIComponent(co || "");
 }
+// One-click to the company's real site (DuckDuckGo !ducky → first result)
+function siteUrl(co) {
+  return "https://duckduckgo.com/?q=" + encodeURIComponent("\\" + (co || "") + " official site");
+}
+// Google search pinned to a founder's LinkedIn profile (no scraping, no API)
+function founderUrl(name, co) {
+  return "https://www.google.com/search?q=" +
+    encodeURIComponent('site:linkedin.com/in "' + (name || "") + '" ' + (co || ""));
+}
 
 /* map-pin glyph for the highlighted location chip */
 const PIN_SVG = '<svg class="ico-pin" width="13" height="13" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M200,224H150.54A266.56,266.56,0,0,0,174,200.25c27.45-31.57,42-64.85,42-96.25a88,88,0,0,0-176,0c0,31.4,14.51,64.68,42,96.25A266.56,266.56,0,0,0,105.46,224H56a8,8,0,0,0,0,16H200a8,8,0,0,0,0-16ZM128,72a32,32,0,1,1-32,32A32,32,0,0,1,128,72Z"></path></svg>';
+const LI_SVG  = '<svg width="12" height="12" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M216,24H40A16,16,0,0,0,24,40V216a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V40A16,16,0,0,0,216,24ZM96,176a8,8,0,0,1-16,0V112a8,8,0,0,1,16,0Zm-8-80a12,12,0,1,1,12-12A12,12,0,0,1,88,96Zm96,80a8,8,0,0,1-16,0V140a20,20,0,0,0-40,0v36a8,8,0,0,1-16,0V112a8,8,0,0,1,15.79-1.78A36,36,0,0,1,184,140Z"></path></svg>';
+const WEB_SVG = '<svg width="12" height="12" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24ZM101.63,168h52.74C149,186.34,140,202.87,128,215.89,116,202.87,107,186.34,101.63,168ZM98,152a145.72,145.72,0,0,1,0-48h60a145.72,145.72,0,0,1,0,48ZM40,128a87.61,87.61,0,0,1,3.33-24H81.79a161.79,161.79,0,0,0,0,48H43.33A87.61,87.61,0,0,1,40,128ZM154.37,88H101.63C107,69.66,116,53.13,128,40.11,140,53.13,149,69.66,154.37,88Zm19.84,16h38.46a88.15,88.15,0,0,1,0,48H174.21a161.79,161.79,0,0,0,0-48Zm32.16-16H170.94a142.39,142.39,0,0,0-20.26-45A88.37,88.37,0,0,1,206.37,88ZM105.32,43A142.39,142.39,0,0,0,85.06,88H49.63A88.37,88.37,0,0,1,105.32,43ZM49.63,168H85.06a142.39,142.39,0,0,0,20.26,45A88.37,88.37,0,0,1,49.63,168Zm101.05,45a142.39,142.39,0,0,0,20.26-45h35.43A88.37,88.37,0,0,1,150.68,213Z"></path></svg>';
 
 function cardHTML(f, n) {
   const idx   = String(n).padStart(2, "0");
@@ -48,6 +59,14 @@ function cardHTML(f, n) {
   const roles = (f.roles || []).map((r) =>
     `<a class="role" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}` +
     (r.location ? `<span class="role-loc"> · ${esc(r.location)}</span>` : "") + `</a>`).join("");
+  const founders = (f.founders || []).map((nm) =>
+    `<a class="founder" href="${esc(founderUrl(nm, f.company))}" target="_blank" rel="noopener" ` +
+    `title="Find ${esc(nm)} on LinkedIn">${esc(nm)}${LI_SVG}</a>`).join("");
+  const outreach = `<div class="outreach">
+        <a class="ol" href="${esc(siteUrl(f.company))}" target="_blank" rel="noopener">${WEB_SVG}Website</a>
+        <a class="ol" href="${esc(linkedinUrl(f.company))}" target="_blank" rel="noopener">${LI_SVG}Company</a>
+        ${founders ? `<span class="ol-lbl">Founders</span>${founders}` : ""}
+      </div>`;
   return `<article class="raise">
       <div class="raise-top">
         <span class="idx">${idx}</span>
@@ -62,6 +81,7 @@ function cardHTML(f, n) {
       <div class="raise-meta">${esc(f.stage || "—")}<span class="sep">/</span>${esc(f.investors || "—")}</div>
       ${roles ? `<div class="roles"><span class="roles-lbl">Open design roles</span>${roles}</div>`
               : `<div class="roles none">No design roles posted yet — DM the founder.</div>`}
+      ${outreach}
       ${f.url ? `<a class="read" href="${esc(f.url)}" target="_blank" rel="noopener">Read article →</a>` : ""}
     </article>`;
 }
