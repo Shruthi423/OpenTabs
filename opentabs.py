@@ -491,11 +491,11 @@ def scrape_jobspy(query: str, location: str, sites=None) -> list:
         return []
 
     if sites is None:
-        # Google Jobs aggregates LinkedIn/Indeed/Glassdoor/ZipRecruiter postings
-        # and tolerates non-residential IPs better; Glassdoor/ZipRecruiter often
-        # block but are worth trying from a residential (local) IP. Cooldowns
-        # below quietly bench any site that starts returning 4xx.
-        sites = ["linkedin", "indeed", "google", "glassdoor", "zip_recruiter"]
+        # Google Jobs AGGREGATES LinkedIn/Indeed/Glassdoor/ZipRecruiter postings,
+        # so we get Glassdoor/ZipRecruiter coverage through it without scraping
+        # them directly (they hard-block JobSpy: Glassdoor 400, ZipRecruiter 403,
+        # regardless of IP). ZipRecruiter's official API is the cloud path.
+        sites = ["linkedin", "indeed", "google"]
 
     active = [s for s in sites if not is_cooling(s)]
     if not active:
