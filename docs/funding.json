@@ -1,5 +1,67 @@
 [
   {
+    "id": "41c1c06e572ff53894a9b83c10a5921b",
+    "company": "EMO Energy",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaHVTNEJQamZDTmVmNjRJQklHeEhOMV9SU1JmZ0x3Q01pczU2S3JWZVY2YjNkRjJiRzI3T3A1dWo4amR2SXhuZE5jRVJyYWlIU3U2THBFaEgxbF9uOHo1Z1hsMnU3eDhXUURBcXlXXzYwX3pJTU5POGEwalZQNTRxSE51SFlIR0JPSnZXMnYtZ05laFp3NldnTExvcFNpVW1ZLU80NzVJN3kwU2VzRFY1eVpDMGVsa0pCQThsdkJNb0p4WGRGOWJ0eU5mbWpFZw?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-20T08:06:30.394254-07:00",
+    "status": "active"
+  },
+  {
+    "id": "7b13c3ce0d276dc77770efe47b056976",
+    "company": "Establishment Dems face blowback",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "D",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/06/20/democrats-primary-dccc-maine-dunlap-jeffries-2026",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-20T08:06:27.477681-07:00",
+    "status": "active"
+  },
+  {
+    "id": "59eff7f6ed84ddafda1d9fe5176a2f8e",
+    "company": "AI CEOs as heads of nation-states",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/06/20/ai-tech-moguls-g7",
+    "priority": 3,
+    "founders": [
+      "Demis Hassabis"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-20T08:06:24.590439-07:00",
+    "status": "active"
+  },
+  {
+    "id": "1e0a542786770b6af2d9649e85ea2544",
+    "company": "Senators",
+    "amount": "$300.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/06/20/congress-300-billion-fund-iranian-reconstruction-ceasefire-deal-mou-trump/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-20T08:06:21.730357-07:00",
+    "status": "active"
+  },
+  {
     "id": "9c8e203c8650d8c5a853f02f73618033",
     "company": "that",
     "amount": "$72.4M",

@@ -1,58 +1,60 @@
 [
   {
     "item": {
-      "company": "Terraxy",
-      "amount": "$3.0M",
-      "stage": "Seed",
+      "company": "Senators",
+      "amount": "$300.0B",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVUR4TUpEdml2eTBQcW1BZWZoWjVISTJuUVZRYjd4S2xpOFZZU0lyeDd3QmtjVG1OU1o1RDNLa3YySVFYZmdPWEl1bTgyVU5NN29yRUZ6b0ZkSFR0QnBnUWJnblhpZzNnUFEtdkhkSWRFXzJLaXJzZ3ZYcDBESnJKbjhxVEs4S1Y4VTFQOEhIbGZKdXRnNmsxeVk4UnFpQWoyS05YbnFVUU9XRklOLTlHdk1IS1c5ZFRMMU9PM3NGZzZlZTA?oc=5",
-      "priority": 9
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/20/congress-300-billion-fund-iranian-reconstruction-ceasefire-deal-mou-trump/",
+      "priority": 3
     },
-    "remind_at": "2026-06-20T06:30:06.501474-07:00"
+    "remind_at": "2026-06-20T08:36:20.730190-07:00"
   },
   {
     "item": {
-      "company": "Ent",
-      "amount": "$100.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGRIWHBrMUZ6dUJSYXMzc1RSRnJIdXBMWkNWR25LSXFscXBWRmtRSzduUzNYS1N4YWVCaXI4X1l4TV9nS05qMDc1cjZ5SDUyYi10YXpJdVVtQmNYb2xFVExFZHM0dXN6N21id1lhRnRzb1ZaUC1IeEtkMWlNbUI2Y1c1cEtIVUJWcVM2VWs1cmZsVVVaekRTOGs1TUpVcWpSRURuWmlZZDNyUjRmOXVfbXU2OXVOczZDUnF1cHlSMzJSS0Qta3UzcA?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-06-20T06:30:08.681755-07:00"
-  },
-  {
-    "item": {
-      "company": "World Cup tourists discover America",
+      "company": "AI CEOs as heads of nation-states",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": "Boston",
-      "founders": [],
+      "location": null,
+      "founders": [
+        "Demis Hassabis"
+      ],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/06/20/world-cup-tourists",
+      "url": "https://www.axios.com/2026/06/20/ai-tech-moguls-g7",
       "priority": 3
     },
-    "remind_at": "2026-06-20T06:30:11.630545-07:00"
+    "remind_at": "2026-06-20T08:36:23.590231-07:00"
   },
   {
     "item": {
-      "company": "that",
-      "amount": "$72.4M",
+      "company": "Establishment Dems face blowback",
+      "amount": null,
+      "stage": null,
+      "investors": "D",
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/20/democrats-primary-dccc-maine-dunlap-jeffries-2026",
+      "priority": 3
+    },
+    "remind_at": "2026-06-20T08:36:26.477512-07:00"
+  },
+  {
+    "item": {
+      "company": "EMO Energy",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3JvVFJrNEs1bTE2TXczUWp1TkQtUmw2WDhyVGg2ZWg5NXpHa1lFQWVaZkszZldhM2xlQnd0NlBoTUM1R2NFa1BPakdTRU41ZG5tV0ZTWlE2SThVZWJ3VFNPdmd0V1BnQ0tMY2NnNmVZU3cwYXVERjJ4R2NVemNNaUt5ZTBMeTdpcHZTMFFfaTNXVjZENGRTZVQ2YWNlYi1fbjN3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaHVTNEJQamZDTmVmNjRJQklHeEhOMV9SU1JmZ0x3Q01pczU2S3JWZVY2YjNkRjJiRzI3T3A1dWo4amR2SXhuZE5jRVJyYWlIU3U2THBFaEgxbF9uOHo1Z1hsMnU3eDhXUURBcXlXXzYwX3pJTU5POGEwalZQNTRxSE51SFlIR0JPSnZXMnYtZ05laFp3NldnTExvcFNpVW1ZLU80NzVJN3kwU2VzRFY1eVpDMGVsa0pCQThsdkJNb0p4WGRGOWJ0eU5mbWpFZw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-06-20T06:30:13.823950-07:00"
+    "remind_at": "2026-06-20T08:36:29.394043-07:00"
   }
 ]
