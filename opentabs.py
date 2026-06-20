@@ -1397,6 +1397,7 @@ def run_funding_check(job_seen: set, job_store: dict, job_pending: list,
                 "is_big_tech": bool(flags.get("is_big_tech")),
                 "is_funded": True,
                 "funding_note": f"{company} raised {amount or 'a round'}",
+                "founders": item.get("founders") or [],
                 "posted_at": "Recently", "priority": rank,
                 "first_seen": first_seen.isoformat(), "status": "active", "applied_at": None,
             }
@@ -1573,6 +1574,7 @@ def run_check():
             "is_new_grad": bool(job.get("is_new_grad")),
             "is_big_tech": bool(job.get("is_big_tech")),
             "visa":        job.get("visa"),          # "yes" | "no" | None
+            "founders":    extract_founders(job.get("description", ""), job.get("company", "")),
             "posted_at":   job.get("posted_at", "Recently"),
             "priority":    rank,
             "first_seen":  first_seen.isoformat(),

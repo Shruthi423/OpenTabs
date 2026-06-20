@@ -247,9 +247,15 @@ function render(animate) {
   if (animate) reveal();
 }
 
-/* Funding count on the "Just Raised" nav tab */
+/* SF / Bay Area test — kept in sync with isSF() in raised.js, since the
+   Just Raised page only shows SF raises and the nav count must match it. */
+function isSF(f) {
+  const t = (f.location || (f.roles && f.roles[0] && f.roles[0].location) || "").toLowerCase();
+  return /san francisco|bay area|palo alto|mountain view|san jose|oakland|menlo park|sunnyvale|berkeley|redwood city|san mateo|santa clara|\bsf\b/.test(t);
+}
+/* Funding count on the "Just Raised" nav tab — SF-only, matching the page */
 function renderFunding() {
-  const live = FUND.filter((f) => f.status !== "dismissed");
+  const live = FUND.filter((f) => f.status !== "dismissed" && isSF(f));
   $$('[data-count="raised"]').forEach((el) => (el.textContent = live.length));
 }
 
