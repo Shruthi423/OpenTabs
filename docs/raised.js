@@ -23,6 +23,19 @@ function ago(when) {
   if (d < 86400) return Math.floor(d / 3600) + "h ago";
   return Math.floor(d / 86400) + "d ago";
 }
+function fmtDate(d) {
+  try { return new Date(d).toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" }); }
+  catch { return ""; }
+}
+// SF / Bay Area only (best-effort, from the extracted/role location)
+function isSF(f) {
+  const t = (f.location || (f.roles && f.roles[0] && f.roles[0].location) || "").toLowerCase();
+  return /san francisco|bay area|palo alto|mountain view|san jose|oakland|menlo park|sunnyvale|berkeley|redwood city|san mateo|santa clara|\bsf\b/.test(t);
+}
+// LinkedIn company page (search) for a startup name
+function linkedinUrl(co) {
+  return "https://www.linkedin.com/search/results/companies/?keywords=" + encodeURIComponent(co || "");
+}
 
 /* map-pin glyph for the highlighted location chip */
 const PIN_SVG = '<svg class="ico-pin" width="13" height="13" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M200,224H150.54A266.56,266.56,0,0,0,174,200.25c27.45-31.57,42-64.85,42-96.25a88,88,0,0,0-176,0c0,31.4,14.51,64.68,42,96.25A266.56,266.56,0,0,0,105.46,224H56a8,8,0,0,0,0,16H200a8,8,0,0,0,0-16ZM128,72a32,32,0,1,1-32,32A32,32,0,0,1,128,72Z"></path></svg>';
@@ -39,9 +52,9 @@ function cardHTML(f, n) {
       <div class="raise-top">
         <span class="idx">${idx}</span>
         ${tier1 ? '<span class="badge t1">Tier-1 VC</span>' : ""}
-        <span class="src">${esc(f.source || "")} · ${ago(f.first_seen)}</span>
+        <span class="src">${esc(f.source || "")} · ${esc(fmtDate(f.first_seen))}</span>
       </div>
-      <a class="raise-co" href="${esc(f.url || "#")}" target="_blank" rel="noopener">${esc(f.company)}</a>
+      <a class="raise-co" href="${esc(linkedinUrl(f.company))}" target="_blank" rel="noopener" title="Open on LinkedIn">${esc(f.company)}</a>
       <div class="raise-highlight">
         <span class="hl hl-amt">${esc(f.amount || "Undisclosed")}</span>
         ${loc ? `<span class="hl hl-loc">${PIN_SVG}${esc(loc)}</span>` : ""}
@@ -79,7 +92,7 @@ function render(data) { DATA = Array.isArray(data) ? data : []; draw(); }
 
 function draw() {
   const live = DATA
-    .filter((f) => f.status !== "dismissed")
+    .filter((f) => f.status !== "dismissed" && isSF(f))   // San Francisco / Bay Area only
     .sort(SORTERS[rsort] || byNew);
 
   $("#raisedCount").textContent = live.length;
@@ -91,8 +104,8 @@ function draw() {
 
   const feed = $("#feed");
   if (!live.length) {
-    feed.innerHTML = '<div class="feed-empty">No raises tracked yet. ' +
-      'The funding radar seeds this on its first scan.</div>';
+    feed.innerHTML = '<div class="feed-empty">No San Francisco / Bay Area raises yet. ' +
+      'Location is detected best-effort from the headline, so this fills in as new SF raises come through.</div>';
     return;
   }
   feed.innerHTML = live.map((f, i) => cardHTML(f, i + 1)).join("");
