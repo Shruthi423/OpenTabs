@@ -3745,5 +3745,24 @@
     "first_seen": "2026-06-20T08:05:59.817587-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "f8a8466e7f21ed268194c9a4663c4e83": {
+    "id": "f8a8466e7f21ed268194c9a4663c4e83",
+    "title": "Frontend Engineer",
+    "company": "Factory",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/factory/7db3e048-8e2f-48e9-9794-da30c8a4c7c9",
+    "source": "\ud83d\udcb0 Factory (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Factory raised $150.0M",
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-06-20T11:08:32.509321-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }

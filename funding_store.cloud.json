@@ -6144,5 +6144,61 @@
     "roles": [],
     "first_seen": "2026-06-20T08:06:30.394254-07:00",
     "status": "active"
+  },
+  "4b95bb38c4c0e4cdc6c12570d47bad00": {
+    "id": "4b95bb38c4c0e4cdc6c12570d47bad00",
+    "company": "New stablecoin-powered fintech Sovra",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmFXQWNBbzhudTB5QnlWb3VsQjhDVXlha3JnbV9zek53NVB3bHdqejZWTkU2b0dCZFd2QUlFUzEwaThTaXdkR0k2UE84OTk5ZUhHLXg4aG5HZzZfdzVSVkhycy1NOTVnbmtWNGl5MlBrZWFIbFJ2a2ZoRmY0aWdHa2lzdjhtV1BVaE9YbGtxZ0JZYW9KSmljS05VNGprWDZsREZCU2RneHBOMTU3TWF6TUdnVQ?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-20T11:08:28.665855-07:00",
+    "status": "active"
+  },
+  "928c7bd05496957e5eb65eb358df4142": {
+    "id": "928c7bd05496957e5eb65eb358df4142",
+    "company": "Mantle Energy",
+    "amount": "$5.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUE1THA1NDdTTTcybE1kRjNvS0k4bnlKSTBHcHdFcEROZ3FSOVRwTW1CTjB4aVJ6SkNNa1VZSlZtRnhtWGdfanZ6X0lnUTFVVkp4eUg4Q1gxd3FiNE9iY20zOE91OXJvUWZmZjExV2FSRVlYdjJzekRDWDF2dWhYYThFUlU1VVJQeEhSc0owckh2WWJ3X1g5U2JUVVhmVTNIUUlHNGVfYldXYVIzOTNWMNIBsAFBVV95cUxQbUE1THA1NDdTTTcybE1kRjNvS0k4bnlKSTBHcHdFcEROZ3FSOVRwTW1CTjB4aVJ6SkNNa1VZSlZtRnhtWGdfanZ6X0lnUTFVVkp4eUg4Q1gxd3FiNE9iY20zOE91OXJvUWZmZjExV2FSRVlYdjJzekRDWDF2dWhYYThFUlU1VVJQeEhSc0owckh2WWJ3X1g5U2JUVVhmVTNIUUlHNGVfYldXYVIzOTNWMA?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-20T11:08:31.806440-07:00",
+    "status": "active"
+  },
+  "884680833e5c08f078da9946e40174a6": {
+    "id": "884680833e5c08f078da9946e40174a6",
+    "company": "Factory",
+    "amount": "$150.0M",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80OHhKblJhUG5xMGtEVVIzbFdGNGVYUmpwdWFGNnNKX1N1T0t5UU1fWVpTZWRra2swbjNRNGFSUUMxSGF6RGlyTFVpQkhvYUxUdFdLQVdsaVA2aVdZbGxOV1hZZXlhM29EblM3NA?oc=5",
+    "priority": 6,
+    "founders": [],
+    "location": "San Francisco, CA",
+    "roles": [
+      {
+        "title": "Frontend Engineer",
+        "url": "https://jobs.ashbyhq.com/factory/7db3e048-8e2f-48e9-9794-da30c8a4c7c9",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/factory/7a1dde6b-0d7c-45c8-a374-66e9f8aa0d1a",
+        "location": "San Francisco, CA"
+      }
+    ],
+    "first_seen": "2026-06-20T11:08:35.614435-07:00",
+    "status": "active"
   }
 }
