@@ -166,9 +166,13 @@ EXCLUDE = [
     "game designer", "floral", "packaging", "print designer",
     "instructional designer", "curriculum", "learning designer",
     "software engineer", "data engineer", "devops", "web developer",
-    # physical / industrial product design (titles) — we only want digital UI/UX
+    # physical / industrial / engineering design (titles) — digital UI/UX only.
+    # "mechanical" catches e.g. "Mechanical Design Engineer", which otherwise
+    # sneaks through on the "design engineer" include. (Broader words like
+    # "manufacturing"/"electrical" live in PHYSICAL_DESIGN as whole-word matches
+    # to avoid nuking e.g. a UX role for "Manufacturing Cloud".)
     "industrial designer", "hardware designer", "mechanical designer",
-    "cad designer", "footwear designer", "apparel designer",
+    "mechanical", "cad designer", "footwear designer", "apparel designer",
     "furniture designer", "soft goods designer", "packaging designer",
     # seniority — we want roles for ≤4 years of experience
     "senior", "staff", "principal", "lead", "director", "head of",
@@ -186,7 +190,9 @@ PHYSICAL_DESIGN = [
     "injection moulding", "design for manufacturing", "sheet metal",
     "cad software", "3d cad", "cad modeling", "cmf design",
     "color material finish", "soft goods", "footwear", "plastic part",
-    "physical product", "consumer hardware", "mechanical engineering degree",
+    "physical product", "consumer hardware", "mechanical engineer",
+    "mechanical design", "manufacturing engineer", "fab design", "clean room",
+    "electrical engineer", "fabrication", "semiconductor", "wafer",
 ]
 NEW_GRAD_SIGNALS = [
     "new grad", "new graduate", "entry level", "entry-level", "junior",
