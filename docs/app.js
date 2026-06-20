@@ -246,14 +246,22 @@ function applyChrome() {
   refreshUndo();
 }
 
-/* ── "Did you apply?" popup ────────────────────────────────────── */
-let pendingApply = null;
-function openApply(id, title) {
-  pendingApply = id;
-  $("#applyMsg").innerHTML = `Did you apply to <b>“${esc(title)}”</b>?`;
-  $("#applyScrim").hidden = false;
+/* ── "Did you apply?" prompt — flips in on the clicked tile itself ── */
+function clearAsk() {
+  document.querySelectorAll(".job-ask").forEach((e) => e.remove());
+  document.querySelectorAll(".job.asking").forEach((c) => c.classList.remove("asking"));
 }
-function closeApply() { $("#applyScrim").hidden = true; pendingApply = null; }
+function askOnCard(card) {
+  clearAsk();
+  card.classList.add("asking");
+  const ov = document.createElement("div");
+  ov.className = "job-ask";
+  ov.innerHTML = '<span class="ask-q">Did you apply to this role?</span>' +
+    '<span class="ask-btns"><button class="ask-no" data-ask="no">No</button>' +
+    '<button class="ask-yes" data-ask="yes">Yes, applied</button></span>';
+  card.appendChild(ov);
+  if (window.gsap) gsap.from(ov, { rotationX: -90, opacity: 0, duration: 0.35, ease: "power3.out", transformOrigin: "top center" });
+}
 
 /* ── Clear-all confirm popup ───────────────────────────────────── */
 const SECTION_LABELS = { new: "New", notapplied: "Not Applied", app: "Applied" };
@@ -312,17 +320,6 @@ function bind() {
   // global Undo
   $("#undoBtn").addEventListener("click", undoLast);
 
-  // ── "Did you apply?" popup ──
-  $("#applyYes").addEventListener("click", () => {
-    if (pendingApply) { const id = pendingApply; pushUndo({ type: "mark", id, prev: MARKS[id] }); flipMove(() => { MARKS[id] = "done"; saveMarks(MARKS); }); }
-    closeApply();
-  });
-  $("#applyNo").addEventListener("click", () => {
-    if (pendingApply) { const id = pendingApply; pushUndo({ type: "mark", id, prev: MARKS[id] }); flipMove(() => { delete MARKS[id]; saveMarks(MARKS); }); }
-    closeApply();
-  });
-  $("#applyScrim").addEventListener("click", (e) => { if (e.target === $("#applyScrim")) closeApply(); });
-
   // ── Clear all → move a column to Trash (confirm) ──
   $$('.clear-all').forEach((b) => b.addEventListener("click", () => openModal(b.dataset.clear)));
   $("#modalNo").addEventListener("click", closeModal);
@@ -334,12 +331,19 @@ function bind() {
     closeModal(); render(true);
   });
 
-  document.addEventListener("keydown", (e) => { if (e.key === "Escape") { setTrash(false); closeApply(); closeModal(); } });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") { setTrash(false); clearAsk(); closeModal(); } });
 
-  // ── Tile interactions: delete / restore, or open posting + ask ──
+  // ── Tile interactions: apply-prompt / delete / restore, or open posting ──
   const onCardClick = (e) => {
     const card = e.target.closest(".job"); if (!card) return;
     const id = card.dataset.id, url = card.dataset.url;
+    const ask = e.target.closest('[data-ask]');
+    if (ask) {                                // answered the on-tile prompt
+      pushUndo({ type: "mark", id, prev: MARKS[id] });
+      if (ask.dataset.ask === "yes") flipMove(() => { MARKS[id] = "done"; saveMarks(MARKS); });
+      else flipMove(() => { delete MARKS[id]; saveMarks(MARKS); });
+      return;
+    }
     if (e.target.closest('[data-act="restore"]')) {
       pushUndo({ type: "restore", ids: [id] }); TRASH.delete(id); saveTrash(); render(true); return;
     }
@@ -349,9 +353,9 @@ function bind() {
       if (window.gsap) gsap.to(card, { opacity: 0, duration: 0.25, ease: "power1.out", onComplete: drop }); else drop();
       return;
     }
-    // click anywhere else on the tile → open the posting, then ask if applied
+    // click anywhere else on the tile → open the posting, then ask on the tile
     if (url && url !== "#") window.open(url, "_blank", "noopener");
-    if (!card.closest("#drawerTrash")) openApply(id, card.dataset.title);
+    if (!card.closest("#drawerTrash")) askOnCard(card);
   };
   $("main").addEventListener("click", onCardClick);
   $("#drawerTrash").addEventListener("click", onCardClick);

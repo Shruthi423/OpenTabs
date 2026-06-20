@@ -336,7 +336,22 @@ a.role .role-loc { color: var(--mut); }
 #sec-app .job:hover .job-title { opacity: 1; color: var(--fg); }
 
 /* whole tile is clickable (opens the posting + "did you apply?") */
-.job { cursor: pointer; }
+.job { cursor: pointer; position: relative; }
+
+/* on-tile "Did you apply?" prompt — covers the clicked card in place */
+.job-ask {
+  position: absolute; inset: 0; z-index: 6;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 14px; padding: 14px; text-align: center;
+  background: var(--bg); border: 1px solid var(--spec);
+}
+.job-ask .ask-q { font-family: var(--font-ui); font-size: 13px; color: var(--fg); }
+.job-ask .ask-btns { display: flex; gap: 10px; }
+.job-ask button { cursor: pointer; font-family: var(--font-ui); font-size: 12px; border-radius: 20px; }
+.job-ask .ask-yes { background: var(--active-bg); color: var(--active-fg); border: 0; padding: 7px 16px; }
+.job-ask .ask-yes:hover { opacity: .85; }
+.job-ask .ask-no { background: none; border: 1px solid var(--line); color: var(--mut); padding: 6px 14px; }
+.job-ask .ask-no:hover { color: var(--fg); border-color: var(--fg); }
 .act, .clear-all, .drawer-close { cursor: pointer; }   /* keep buttons obvious */
 .act.icon.del:hover { color: #e5484d; }
 
