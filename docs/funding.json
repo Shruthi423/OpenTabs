@@ -1,5 +1,19 @@
 [
   {
+    "id": "4a9e3be0188121b77c3497f673a42178",
+    "company": "Copperlane",
+    "amount": "$4.1M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX014Z01mdFAzN0kzSTR4V09CLUFyZGRta09CZV9tRGl4NHVfOUdTV1A1WmdJdWgxMFdSdmk5cDdlcVdGQ1ZOVGhqdWhhUDRzLTd5S1V6NmlVYTE5SlFCTGhiX2xOdkJFbUR6bHIzbW9XOUlzQWctR2hoWW5QblJjQTg0SlJNT3JBY1FieVcxa0FGVVp0MVdRbUVqUlVOdw?oc=5",
+    "priority": 9,
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-19T18:39:49.840474-07:00",
+    "status": "active"
+  },
+  {
     "id": "5ed561b9340a65d48e570dd4603477e9",
     "company": "Funding Rounds of All Time (2026",
     "amount": "Undisclosed",
@@ -3925,19 +3939,6 @@
     "priority": 9,
     "roles": [],
     "first_seen": "2026-06-15T08:04:32.122122-07:00",
-    "status": "active"
-  },
-  {
-    "id": "4a9e3be0188121b77c3497f673a42178",
-    "company": "Copperlane",
-    "amount": "$4.1M",
-    "stage": "Seed",
-    "investors": "Undisclosed",
-    "source": "The SaaS News",
-    "url": "https://www.thesaasnews.com/news/copperlane-raises-4-1m-seed/",
-    "priority": 9,
-    "roles": [],
-    "first_seen": "2026-06-15T08:04:29.744931-07:00",
     "status": "active"
   },
   {
