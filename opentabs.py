@@ -118,6 +118,7 @@ SEARCH_QUERIES = [
     "UX researcher",
     # ── adjacent roles ──
     "founding designer",
+    "product design engineer",
     "design technologist",
     "interaction designer",
     "design systems designer",
@@ -169,7 +170,7 @@ EXCLUDE = [
     # "manufacturing"/"electrical" live in PHYSICAL_DESIGN as whole-word matches
     # to avoid nuking e.g. a UX role for "Manufacturing Cloud".)
     "industrial designer", "hardware designer", "mechanical designer",
-    "mechanical", "design engineer", "cad designer", "footwear designer",
+    "mechanical", "cad designer", "footwear designer",
     "apparel designer", "furniture designer", "soft goods designer",
     "packaging designer",
     # seniority — we want roles for ≤4 years of experience
