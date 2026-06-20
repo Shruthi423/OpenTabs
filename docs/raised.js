@@ -32,13 +32,17 @@ function isSF(f) {
   const t = (f.location || (f.roles && f.roles[0] && f.roles[0].location) || "").toLowerCase();
   return /san francisco|bay area|palo alto|mountain view|san jose|oakland|menlo park|sunnyvale|berkeley|redwood city|san mateo|santa clara|\bsf\b/.test(t);
 }
-// LinkedIn company page (search) for a startup name
+// Direct URLs derived from the company name (no scraping, no API)
+const coDomain = (co) => (co || "").toLowerCase().replace(/\([^)]*\)/g, " ").replace(/[^a-z0-9]/g, "");
+const coSlug   = (co) => (co || "").toLowerCase().replace(/\([^)]*\)/g, " ")
+  .replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+// Direct LinkedIn company page for a startup name
 function linkedinUrl(co) {
-  return "https://www.linkedin.com/search/results/companies/?keywords=" + encodeURIComponent(co || "");
+  return coSlug(co) ? "https://www.linkedin.com/company/" + coSlug(co) : "#";
 }
-// One-click to the company's real site (DuckDuckGo !ducky → first result)
+// Direct to the company's website (best-guess .com)
 function siteUrl(co) {
-  return "https://duckduckgo.com/?q=" + encodeURIComponent("\\" + (co || "") + " official site");
+  return coDomain(co) ? "https://" + coDomain(co) + ".com" : "#";
 }
 // Google search pinned to a founder's LinkedIn profile (no scraping, no API)
 function founderUrl(name, co) {
