@@ -377,6 +377,9 @@ function load(animate) {
     .catch(() => {});
 }
 
+// arriving from the Just Raised page's Trash tab? open the trash drawer
+if (location.hash === "#trash") state.trashOpen = true;
+
 applyChrome();
 bind();
 load(true);

@@ -148,9 +148,16 @@ input[type="range"]::-moz-range-thumb {
 }
 .seg button.is-on { color: var(--fg); }
 .reset:hover, .seg button:hover { color: var(--fg); }
-/* Sort-by buttons carry an icon + label */
-.seg-sort .sort, .seg-sort .rsort { display: inline-flex; align-items: center; gap: 6px; }
+/* Sort-by buttons: icon only; label slides in on hover (active = lit icon) */
+.seg-sort .sort, .seg-sort .rsort { display: inline-flex; align-items: center; gap: 0; }
 .seg-sort .sort svg, .seg-sort .rsort svg { display: block; opacity: .9; }
+.seg-sort .lbl {
+  max-width: 0; opacity: 0; overflow: hidden; white-space: nowrap;
+  transition: max-width .22s ease, opacity .22s ease, margin .22s ease;
+}
+.seg-sort .sort:hover .lbl, .seg-sort .rsort:hover .lbl {
+  max-width: 90px; opacity: 1; margin-left: 6px;
+}
 
 /* colour-theme swatches — collapsed to the active colour, fan out on hover */
 .swatches { display: flex; align-items: center; }

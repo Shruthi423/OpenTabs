@@ -142,20 +142,16 @@ $$('[data-rsort]').forEach((b) => b.addEventListener("click", () => {
    same localStorage marks/removed so the numbers match index.html.
    (Bucket rule kept in sync with bucket() in app.js.) ── */
 function navCounts() {
-  let marks = {}, removed = new Set();
+  let marks = {}, trash = new Set();
   try { marks = JSON.parse(localStorage.getItem("marks") || "{}"); } catch {}
-  try { removed = new Set(JSON.parse(localStorage.getItem("removed") || "[]")); } catch {}
-  const NEW = 864e5, WEEK = 7 * 864e5, now = Date.now();
+  try { trash = new Set(JSON.parse(localStorage.getItem("trash") || "[]")); } catch {}
+  const NEW = 864e5, now = Date.now();
   fetch("./jobs.json?_=" + Date.now()).then((r) => (r.ok ? r.json() : [])).then((JOBS) => {
-    const c = { new: 0, yet: 0, week: 0, app: 0, notapply: 0 };
+    const c = { new: 0, notapplied: 0, app: 0, trash: trash.size };
     (Array.isArray(JOBS) ? JOBS : []).forEach((j) => {
-      if (removed.has(j.id)) return;
-      const m = marks[j.id];
-      let k;
-      if (m === "done" || j.status === "applied") k = "app";
-      else if (m === "notapply") k = "notapply";
-      else { const age = now - new Date(j.first_seen).getTime(); k = age <= NEW ? "new" : age <= WEEK ? "yet" : "week"; }
-      c[k]++;
+      if (trash.has(j.id)) return;
+      if (marks[j.id] === "done" || j.status === "applied") c.app++;
+      else { const age = now - new Date(j.first_seen).getTime(); age <= NEW ? c.new++ : c.notapplied++; }
     });
     Object.entries(c).forEach(([k, v]) =>
       document.querySelectorAll(`[data-count="${k}"]`).forEach((e) => (e.textContent = v)));
