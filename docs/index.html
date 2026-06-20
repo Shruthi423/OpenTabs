@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>OpenTabs</title>
-  <meta name="description" content="OpenTabs — live design-job board: New, Older than a day, Applied.">
+  <meta name="description" content="OpenTabs — live design-job board: New, Not Applied, Applied.">
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,10 +20,9 @@
     </a>
     <a class="cell tab" href="./raised.html"><span class="t">Just Raised <em data-count="raised">0</em></span></a>
     <a class="cell tab" data-jump="new"><span class="t">New <em data-count="new">0</em></span></a>
-    <a class="cell tab" data-jump="yet"><span class="t">Older than a day <em data-count="yet">0</em></span></a>
-    <a class="cell tab" data-jump="week"><span class="t">Older than a week <em data-count="week">0</em></span></a>
-    <a class="cell tab" id="appTab"><span class="t">Apply <em data-count="app">0</em></span></a>
-    <a class="cell tab" id="notTab"><span class="t">Not Apply <em data-count="notapply">0</em></span></a>
+    <a class="cell tab" data-jump="notapplied"><span class="t">Not Applied <em data-count="notapplied">0</em></span></a>
+    <a class="cell tab" data-jump="app"><span class="t">Applied <em data-count="app">0</em></span></a>
+    <a class="cell tab" id="trashNav"><span class="t">Trash <em data-count="trash">0</em></span></a>
     <div class="cell status" id="status">Loading…</div>
     <button class="cell menu" id="menuBtn" aria-label="Toggle filters">Filters</button>
   </header>
@@ -36,23 +35,38 @@
       </label>
       <label class="field">
         <span class="lbl">Source</span>
-        <select id="fSource"><option value="">All</option></select>
+        <select id="fSource"><option value="">All sources</option></select>
       </label>
       <label class="field">
         <span class="lbl">Location</span>
         <select id="fLoc">
-          <option value="">All</option>
-          <option value="san francisco">San Francisco</option>
-          <option value="bay area">Bay Area</option>
+          <option value="">All locations</option>
+          <option value="sfbay">San Francisco &amp; Bay Area</option>
+          <option value="ny">New York</option>
+          <option value="us">Rest of USA</option>
           <option value="remote">Remote</option>
         </select>
       </label>
       <label class="field">
-        <span class="lbl">Badges</span>
-        <select id="fBadge">
+        <span class="lbl">Date</span>
+        <select id="fDate">
+          <option value="">Any time</option>
+          <option value="3">Last 3 hours</option>
+          <option value="8">Last 8 hours</option>
+          <option value="16">Last 16 hours</option>
+          <option value="24">Last 24 hours</option>
+          <option value="72">Last 3 days</option>
+          <option value="168">Last week</option>
+          <option value="720">Last 30 days</option>
+        </select>
+      </label>
+      <label class="field">
+        <span class="lbl">Visa</span>
+        <select id="fVisa">
           <option value="">All</option>
-          <option value="ng">New Grad</option>
-          <option value="bt">Big Tech</option>
+          <option value="yes">Sponsors visa</option>
+          <option value="no">No sponsorship</option>
+          <option value="unknown">Unknown</option>
         </select>
       </label>
       <label class="field size">
