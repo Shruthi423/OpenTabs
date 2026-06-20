@@ -170,7 +170,17 @@ function navCounts() {
   try { marks = JSON.parse(localStorage.getItem("marks") || "{}"); } catch {}
   try { trash = new Set(JSON.parse(localStorage.getItem("trash") || "[]")); } catch {}
   const NEW = 864e5, now = Date.now();
-  fetch("./jobs.json?_=" + Date.now()).then((r) => (r.ok ? r.json() : [])).then((JOBS) => {
+  // merge the hybrid job files (laptop + cloud), same as app.js
+  const FILES = ["./jobs.local.json", "./jobs.cloud.json", "./jobs.json"];
+  Promise.all(FILES.map((f) =>
+    fetch(f + "?_=" + Date.now()).then((r) => (r.ok ? r.json() : [])).catch(() => [])
+  )).then((lists) => {
+    const haveLocal = Array.isArray(lists[0]) && lists[0].length > 0;
+    const pick = haveLocal ? [lists[0], lists[1]] : [lists[0], lists[1], lists[2]];
+    const seenIds = new Set(), JOBS = [];
+    pick.forEach((arr) => (Array.isArray(arr) ? arr : []).forEach((j) => {
+      if (j && j.id && !seenIds.has(j.id)) { seenIds.add(j.id); JOBS.push(j); }
+    }));
     const c = { new: 0, notapplied: 0, app: 0, trash: trash.size };
     (Array.isArray(JOBS) ? JOBS : []).forEach((j) => {
       if (trash.has(j.id)) return;

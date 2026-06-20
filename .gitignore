@@ -9,9 +9,24 @@ seen_funding.json
 pending_funding.json
 funding_store.json
 tg_offset.json
+query_offset.json
 backfill_done.flag
 funding_backfill_done.flag
 *.log
+
+# Hybrid: the laptop's "local" runner state stays on the Mac (gitignored).
+# The "cloud" runner's *.cloud.json / *.cloud.flag ARE committed (by Actions)
+# so its state persists across runs — do NOT ignore those.
+seen_jobs.local.json
+pending_jobs.local.json
+jobs_store.local.json
+seen_funding.local.json
+pending_funding.local.json
+funding_store.local.json
+tg_offset.local.json
+query_offset.local.json
+backfill_done.local.flag
+funding_backfill_done.local.flag
 
 # Python
 __pycache__/

@@ -55,6 +55,54 @@ CONFIG = {
     "GITHUB_REPO":  "OpenTabs",               # repo name
 }
 
+# ── Backfill flags (per-mode below) ──
+CONFIG["BACKFILL_FLAG"]         = "backfill_done.flag"
+CONFIG["FUNDING_BACKFILL_FLAG"] = "funding_backfill_done.flag"
+
+# ─────────────────────────────────────────────────────────────────
+#  🔀  RUN MODE — hybrid split between the laptop and GitHub Actions
+#  ─────────────────────────────────────────────────────────────────
+#  "local" : browser-scraped sites (LinkedIn / Indeed / Glassdoor /
+#            ZipRecruiter / Google) that need a residential IP — run on the
+#            Mac whenever it's on.
+#  "cloud" : the API / RSS sources (Greenhouse·Lever·Ashby, YC, BuiltIn,
+#            UXJobs, funding radar…) that work great from a datacenter IP —
+#            run on GitHub Actions 24/7.
+#  "all"   : everything on one machine (the original single-runner behaviour).
+#  Each runner writes its OWN data + state files, so the two never clobber
+#  each other in the repo; the dashboard merges jobs.local.json +
+#  jobs.cloud.json (see app.js). ──
+MODE = os.environ.get("OPENTABS_MODE", "all").strip().lower()
+if MODE not in ("all", "local", "cloud"):
+    MODE = "all"
+# RUN_ONCE: do a single cycle and exit (GitHub Actions cron), instead of the
+# long-lived schedule loop used on the Mac.
+RUN_ONCE    = os.environ.get("RUN_ONCE", "").strip().lower() not in ("", "0", "false", "no")
+DO_SCRAPERS = MODE in ("all", "local")    # JobSpy browser scrapers
+DO_APIS     = MODE in ("all", "cloud")    # API/RSS/ATS sources + funding radar
+
+if MODE != "all":
+    _sx = MODE                            # "local" | "cloud"
+    CONFIG["WEB_FILE"]             = f"docs/jobs.{_sx}.json"
+    CONFIG["SEEN_FILE"]            = f"seen_jobs.{_sx}.json"
+    CONFIG["PENDING_FILE"]        = f"pending_jobs.{_sx}.json"
+    CONFIG["STORE_FILE"]          = f"jobs_store.{_sx}.json"
+    CONFIG["SEEN_FUNDING_FILE"]   = f"seen_funding.{_sx}.json"
+    CONFIG["PENDING_FUNDING_FILE"]= f"pending_funding.{_sx}.json"
+    CONFIG["FUNDING_STORE_FILE"]  = f"funding_store.{_sx}.json"
+    CONFIG["QUERY_OFFSET_FILE"]   = f"query_offset.{_sx}.json"
+    CONFIG["TG_OFFSET_FILE"]      = f"tg_offset.{_sx}.json"
+    CONFIG["BACKFILL_FLAG"]        = f"backfill_done.{_sx}.flag"
+    CONFIG["FUNDING_BACKFILL_FLAG"]= f"funding_backfill_done.{_sx}.flag"
+    # Funding only runs cloud-side; keep the single published filename so the
+    # Just-Raised page always reads ./funding.json regardless of who wrote it.
+
+# Let the environment force git publishing on/off (Actions sets this false so
+# the workflow can commit the .cloud state files alongside docs/, in one push).
+_pub = os.environ.get("PUBLISH_TO_GIT")
+if _pub is not None:
+    CONFIG["PUBLISH_TO_GIT"] = _pub.strip().lower() not in ("0", "false", "no", "")
+
 TZ = ZoneInfo(CONFIG["TIMEZONE"])
 def now_pt(): return datetime.now(TZ)
 
@@ -443,7 +491,11 @@ def scrape_jobspy(query: str, location: str, sites=None) -> list:
         return []
 
     if sites is None:
-        sites = ["linkedin", "indeed"]   # Glassdoor (400) & ZipRecruiter (403) block scraping
+        # Google Jobs aggregates LinkedIn/Indeed/Glassdoor/ZipRecruiter postings
+        # and tolerates non-residential IPs better; Glassdoor/ZipRecruiter often
+        # block but are worth trying from a residential (local) IP. Cooldowns
+        # below quietly bench any site that starts returning 4xx.
+        sites = ["linkedin", "indeed", "google", "glassdoor", "zip_recruiter"]
 
     active = [s for s in sites if not is_cooling(s)]
     if not active:
@@ -500,10 +552,12 @@ def scrape_jobspy(query: str, location: str, sites=None) -> list:
     except Exception as e:
         err = str(e).lower()
         log.error(f"JobSpy [{query}@{location}]: {e}")
-        if "429" in err or "rate" in err or "blocked" in err:
-            if "linkedin" in err: set_cooldown("linkedin", 60)
-            if "indeed"   in err: set_cooldown("indeed", 30)
+        if "429" in err or "rate" in err or "blocked" in err or "403" in err or "400" in err:
+            if "linkedin"  in err: set_cooldown("linkedin", 60)
+            if "indeed"    in err: set_cooldown("indeed", 30)
             if "glassdoor" in err: set_cooldown("glassdoor", 45)
+            if "ziprecruiter" in err or "zip_recruiter" in err: set_cooldown("zip_recruiter", 45)
+            if "google"    in err: set_cooldown("google", 30)
         return []
 
 def scrape_rss(name: str, url: str, default_location="Remote") -> list:
@@ -1359,7 +1413,7 @@ def run_funding_check(job_seen: set, job_store: dict, job_pending: list,
     f_seen    = set(load_json(CONFIG["SEEN_FUNDING_FILE"], []))
     f_store   = load_json(CONFIG["FUNDING_STORE_FILE"], {})
     f_pending = load_json(CONFIG["PENDING_FUNDING_FILE"], [])
-    f_silent  = not os.path.exists("funding_backfill_done.flag")
+    f_silent  = not os.path.exists(CONFIG["FUNDING_BACKFILL_FLAG"])
 
     raises = []
     for name, url in FUNDING_FEEDS:
@@ -1446,7 +1500,7 @@ def run_funding_check(job_seen: set, job_store: dict, job_pending: list,
     save_json(CONFIG["FUNDING_STORE_FILE"], f_store)
     publish_funding()
     if f_silent:
-        open("funding_backfill_done.flag", "w").close()
+        open(CONFIG["FUNDING_BACKFILL_FLAG"], "w").close()
         log.info(f"🔇 Funding backfill: seeded {new_count} raises (no Telegram alerts).")
     else:
         log.info(f"✅ {new_count} new raises." if new_count else "😴 No new funding.")
@@ -1465,7 +1519,14 @@ def git_publish():
         # Only commit/push when something in docs/ actually changed
         if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode != 0:
             subprocess.run(["git", "commit", "-m", "\U0001F4CA Update job dashboard data"], capture_output=True)
-            push = subprocess.run(["git", "push"], capture_output=True, text=True)
+            # Two runners push to main (laptop + Actions). They write different
+            # files, so rebase merges cleanly — pull --rebase before each push.
+            def _push():
+                subprocess.run(["git", "pull", "--rebase", "--autostash"], capture_output=True)
+                return subprocess.run(["git", "push"], capture_output=True, text=True)
+            push = _push()
+            if push.returncode != 0:          # racing push landed first → rebase + retry once
+                push = _push()
             if push.returncode == 0:
                 log.info("\U0001F4E4 Dashboard published to GitHub")
             else:
@@ -1507,41 +1568,47 @@ def run_check():
     new_count = 0
     all_jobs  = []
 
-    # JobSpy — rotate through SEARCH_QUERIES a few per cycle so we don't hit
-    # LinkedIn/Indeed with all 15×3 calls every run (the main block trigger).
-    # Over consecutive cycles the cursor walks the whole list.
-    q_off = load_json(CONFIG["QUERY_OFFSET_FILE"], 0)
-    n_q   = min(CONFIG["QUERIES_PER_CYCLE"], len(SEARCH_QUERIES))
-    batch = [SEARCH_QUERIES[(q_off + i) % len(SEARCH_QUERIES)] for i in range(n_q)]
-    save_json(CONFIG["QUERY_OFFSET_FILE"], (q_off + n_q) % len(SEARCH_QUERIES))
-    log.info(f"🔎 JobSpy queries this cycle: {', '.join(batch)}")
-    for query in batch:
-        for loc in LOCATIONS:
-            all_jobs.extend(scrape_jobspy(query, loc))
-            time.sleep(2)
+    batch = []
+    # ── Browser-scraped sites (LinkedIn/Indeed/Glassdoor/ZipRecruiter/Google).
+    #    Residential-IP only → MODE "local"/"all". ──
+    if DO_SCRAPERS:
+        # JobSpy — rotate through SEARCH_QUERIES a few per cycle so we don't hit
+        # the sites with all queries every run (the main block trigger). Over
+        # consecutive cycles the cursor walks the whole list.
+        q_off = load_json(CONFIG["QUERY_OFFSET_FILE"], 0)
+        n_q   = min(CONFIG["QUERIES_PER_CYCLE"], len(SEARCH_QUERIES))
+        batch = [SEARCH_QUERIES[(q_off + i) % len(SEARCH_QUERIES)] for i in range(n_q)]
+        save_json(CONFIG["QUERY_OFFSET_FILE"], (q_off + n_q) % len(SEARCH_QUERIES))
+        log.info(f"🔎 JobSpy queries this cycle: {', '.join(batch)}")
+        for query in batch:
+            for loc in LOCATIONS:
+                all_jobs.extend(scrape_jobspy(query, loc))
+                time.sleep(2)
 
-    # RSS design boards
-    for name, url in RSS_FEEDS:
-        all_jobs.extend(scrape_rss(name, url))
-        time.sleep(1)
+    # ── API / RSS / ATS sources — datacenter-friendly → MODE "cloud"/"all". ──
+    if DO_APIS:
+        # RSS design boards
+        for name, url in RSS_FEEDS:
+            all_jobs.extend(scrape_rss(name, url))
+            time.sleep(1)
 
-    # SF / Bay Area + startup sources
-    all_jobs.extend(scrape_yc())
-    all_jobs.extend(scrape_opendoors())
-    all_jobs.extend(scrape_builtinsf())
-    all_jobs.extend(scrape_uiuxjobsboard())
-    all_jobs.extend(scrape_startups_gallery())
-    all_jobs.extend(scrape_substack_uxjobs())
-    all_jobs.extend(scrape_ats())          # curated Greenhouse/Lever/Ashby boards
-    # ZipRecruiter official API — no-op unless ZIPRECRUITER_API_KEY is set
-    for query in batch:
-        all_jobs.extend(scrape_ziprecruiter_api(query, "United States"))
+        # SF / Bay Area + startup sources
+        all_jobs.extend(scrape_yc())
+        all_jobs.extend(scrape_opendoors())
+        all_jobs.extend(scrape_builtinsf())
+        all_jobs.extend(scrape_uiuxjobsboard())
+        all_jobs.extend(scrape_startups_gallery())
+        all_jobs.extend(scrape_substack_uxjobs())
+        all_jobs.extend(scrape_ats())          # curated Greenhouse/Lever/Ashby boards
+        # ZipRecruiter official API — no-op unless ZIPRECRUITER_API_KEY is set
+        for query in (batch or SEARCH_QUERIES[:CONFIG["QUERIES_PER_CYCLE"]]):
+            all_jobs.extend(scrape_ziprecruiter_api(query, "United States"))
     log.info(f"📥 Collected {len(all_jobs)} raw postings before filtering.")
 
     # First ever run = SILENT backfill: seed the board with the current
     # backlog (aged into "Yet to Apply") without blasting Telegram. A flag
     # file marks it done, so every later run alerts new jobs normally.
-    silent = not os.path.exists("backfill_done.flag")
+    silent = not os.path.exists(CONFIG["BACKFILL_FLAG"])
 
     # Process
     for job in all_jobs:
@@ -1592,7 +1659,9 @@ def run_check():
 
     # 💰 Funding radar — fresh raises + the design roles they're hiring for.
     # Mutates seen/store/pending in place (injects matched roles as job cards).
-    run_funding_check(seen, store, pending, jobs_silent=silent)
+    # RSS/SEC + ATS lookups → datacenter-friendly, so cloud-side only.
+    if DO_APIS:
+        run_funding_check(seen, store, pending, jobs_silent=silent)
 
     # Reminders — skip jobs already applied/dismissed from Telegram
     still = []
@@ -1613,7 +1682,7 @@ def run_check():
     save_store(store)
     publish_site()
     if silent:
-        open("backfill_done.flag", "w").close()
+        open(CONFIG["BACKFILL_FLAG"], "w").close()
         log.info(f"🔇 Silent backfill: seeded {new_count} jobs to the board (no Telegram alerts).")
     else:
         log.info(f"✅ {new_count} new jobs." if new_count else "😴 No new jobs this cycle.")
@@ -1641,14 +1710,22 @@ def daily_digest():
 # ─────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     log.info("=" * 60)
-    log.info("  🎨 JOB BOT — Starting")
+    log.info(f"  🎨 JOB BOT — Starting [mode={MODE}{' · run-once' if RUN_ONCE else ''}]")
     log.info("=" * 60)
 
-    try:
-        import jobspy
-        log.info("✅ JobSpy ready.")
-    except ImportError:
-        log.error("❌ Run: pip3 install python-jobspy"); exit(1)
+    if DO_SCRAPERS:
+        try:
+            import jobspy
+            log.info("✅ JobSpy ready.")
+        except ImportError:
+            log.error("❌ Run: pip3 install python-jobspy"); exit(1)
+
+    # One-shot (GitHub Actions cron): run a single cycle and exit. Skip the
+    # "I'm LIVE" announcements (they'd fire every 15 min) and the daemon loop.
+    if RUN_ONCE:
+        run_check()
+        log.info("✅ run-once complete — exiting.")
+        raise SystemExit(0)
 
     send_telegram(
         f"🎨 <b>Job Bot is LIVE!</b>\n\n"

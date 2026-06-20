@@ -405,11 +405,35 @@ function populateSources() {
   sel.value = state.source;
 }
 
+// Hybrid runners publish separate files: jobs.local.json (laptop: LinkedIn/
+// Indeed/Glassdoor/ZipRecruiter/Google) and jobs.cloud.json (GitHub Actions:
+// API/RSS/ATS + funding roles). jobs.json is the legacy single-runner file —
+// used only as a fallback when no jobs.local.json exists yet. We merge all
+// present sources and dedupe by id (deterministic, so the same posting from
+// two sources collapses to one).
+const JOB_FILES = ["./jobs.local.json", "./jobs.cloud.json", "./jobs.json"];
+function mergeJobs(lists) {
+  const haveLocal = Array.isArray(lists[0]) && lists[0].length > 0;
+  const pick = [lists[0], lists[1]];                 // local + cloud
+  if (!haveLocal) pick.push(lists[2]);               // fall back to legacy jobs.json
+  const byId = new Map();
+  pick.forEach((arr) => (Array.isArray(arr) ? arr : []).forEach((j) => {
+    if (!j || !j.id) return;
+    const prev = byId.get(j.id);
+    // keep the freshest copy if the same posting shows up in two files
+    if (!prev || (j.first_seen || "") > (prev.first_seen || "")) byId.set(j.id, j);
+  }));
+  return [...byId.values()];
+}
+
 function load(animate) {
-  fetch("./jobs.json?_=" + Date.now())
-    .then((r) => (r.ok ? r.json() : []))
-    .then((data) => { JOBS = Array.isArray(data) ? data : []; populateSources(); render(animate); })
-    .catch(() => { $("#status").textContent = "No data yet"; });
+  Promise.all(JOB_FILES.map((f) =>
+    fetch(f + "?_=" + Date.now()).then((r) => (r.ok ? r.json() : [])).catch(() => [])
+  )).then((lists) => {
+    JOBS = mergeJobs(lists);
+    if (!JOBS.length) $("#status").textContent = "No data yet";
+    populateSources(); render(animate);
+  });
   fetch("./funding.json?_=" + Date.now())
     .then((r) => (r.ok ? r.json() : []))
     .then((data) => { FUND = Array.isArray(data) ? data : []; renderFunding(); })
