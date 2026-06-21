@@ -1,16 +1,86 @@
 [
   {
     "item": {
-      "company": "Specx",
-      "amount": "$2.2M",
+      "company": "The GLP-1 boom",
+      "amount": null,
+      "stage": null,
+      "investors": "realize",
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/21/glp1-drugs-climate-food-system-emissions-investment/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-21T04:59:42.397273-07:00"
+  },
+  {
+    "item": {
+      "company": "Each team will",
+      "amount": "$871.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/21/world-cup-teams-paid-record-871-million-each-team-get-12-5-million-bare-minimum-qualifying-preparation-money/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-21T04:59:45.661916-07:00"
+  },
+  {
+    "item": {
+      "company": "Nobel Laureate Daron Acemoglu",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/21/nobel-laureate-daron-acemoglu-ai-productivity-capitalism-democracy/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-21T04:59:48.898620-07:00"
+  },
+  {
+    "item": {
+      "company": "in Malaysia",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QUmhXQTlPckFmZGlIb0tUZFc4TFlLN1B3aFI0N0dRNVpZNTlMX09fTW45MWx2V3Z3aENEOHJiZWdIdTMtUUdwVWJjcl9YR1dlSUVj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMkI5RFQ3NHJKMnl5TkpGZzRweWxleEY3VTc4cGwwZ1BTcVdJTWItMlRiQkFVUGZ6c2IwdVZ4cTdtZXRIVnBXWmFsUXVvcDJuSzEyVkdSU1Q4OU5vSE05cThJUU1OVWZ2UlBwSE1qT25SMk5SUFJXb1VlTnlsemRGTW1LUHRib3BGamlGcGlvY1c?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-06-21T01:48:08.133435-07:00"
+    "remind_at": "2026-06-21T04:59:52.135921-07:00"
+  },
+  {
+    "item": {
+      "company": "Respond.io",
+      "amount": "$62.5M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGp0OWRhX2tnR1hNZDE4elktNDJpQ0JIbzBVR3lzNnRDcWtPeE5QS05kZW52WGhpZGxKeUtYNTVQUERiQTl4Q01DT1RnTGtBLTFvQUtVbjdHNlI3S3I2dkYxSlJobThJRzgzRWVobXNDTmNEcWVicjZXdHR1NTJ5LWxpNWNtcTIwMWdPRHh2QnRJZUpfWmNlRg?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-06-21T04:59:54.574361-07:00"
+  },
+  {
+    "item": {
+      "company": "Festina",
+      "amount": "$25.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObU5TekNxS29mZWpFdUszaklGRWdHY2pnZzl2OF9NMm0zbi1BV2dZNFE5elk5UUc4cVRWUm1VWktRd1I3VWxUalhYTnBrV1RxX0JlUGtBM01lc2lkRmt6LWN4Um1oTWxaOENBcndjczdtV29aNnptdHlyZVJuaXFTVXVMV2NGeGtrSTlTQkgzZVRsNXEta0FySnVDVmZtSTg?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-06-21T04:59:57.007079-07:00"
   }
 ]
