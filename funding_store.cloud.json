@@ -6484,5 +6484,20 @@
     "roles": [],
     "first_seen": "2026-06-21T08:23:23.633646-07:00",
     "status": "active"
+  },
+  "afa338b448e84592370e910fabe7087d": {
+    "id": "afa338b448e84592370e910fabe7087d",
+    "company": "Ground beef",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/06/21/us-cattle-herd-usmca-beef-prices-screwworm-trump-tariffs/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-21T10:01:59.521499-07:00",
+    "status": "active"
   }
 }
