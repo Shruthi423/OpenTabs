@@ -6433,5 +6433,56 @@
     "roles": [],
     "first_seen": "2026-06-21T06:23:28.143732-07:00",
     "status": "active"
+  },
+  "84d9b3e8dd71cfd6ef2c36c952e7cf09": {
+    "id": "84d9b3e8dd71cfd6ef2c36c952e7cf09",
+    "company": "Britain marks Brexit\u2019s 10th anniversary",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/06/21/brexit-anniversary-burnham-uk-economy-rejoin/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-21T08:23:18.388189-07:00",
+    "status": "active"
+  },
+  "0281f8ef5af84ead3c56ae89092c75bc": {
+    "id": "0281f8ef5af84ead3c56ae89092c75bc",
+    "company": "ElevenLabs",
+    "amount": "$11.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN3FpZGkyNXhLT3M2bENIelNxLVdveTJPeDhpT2JCY2tBS3pDZ3AyMVR1OGNpNjdneGVhNVlXTFR5ZFNURHVvQVdYazBiV1piTWFrZEZuRGViUGYyMnhQX1JteWFEZmp6TXFwM245OHBwWDFMNHlCZnJ4SmVQenJkTTJzSzNfLW5VMHdCNl9iSTFwck5pSlhOM3FhNWt5MVRzUGdGZGFmMDRyeEp1UWxFQXY5X3RYcUxxU0FYSWsxRWpUUzVQU1pLM25OU2tRdUY5bVRXRmJDaF94eG9NclE?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/elevenlabs/89da00ec-11b0-4359-913b-c3a89c1013bc",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-06-21T08:23:20.658105-07:00",
+    "status": "active"
+  },
+  "f6373d2f8c26fd5e71fe3f4046e03610": {
+    "id": "f6373d2f8c26fd5e71fe3f4046e03610",
+    "company": "Saudi\u2019s Terraxy",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMWxHNWgtSG90Yll4a3kyWGdkalZiSHRYYUhldGRZaVRwSFkxZ2lNakZUWXppZWMxNVIycEdJNldwZ1JPcWVrMm5xcU1lVE45RDQ2by1ZOEo1RVA4ckhYN1l5SU5EdXRhN1JsMHJxUk9oZnNZNWwyX1N0NVJ2QXBwLTVSUE9IcUJ4NHVPNA?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-21T08:23:23.633646-07:00",
+    "status": "active"
   }
 }
