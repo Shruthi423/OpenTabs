@@ -6499,5 +6499,47 @@
     "roles": [],
     "first_seen": "2026-06-21T10:01:59.521499-07:00",
     "status": "active"
+  },
+  "b3d522ba809ec548b610faef820b49bb": {
+    "id": "b3d522ba809ec548b610faef820b49bb",
+    "company": "Stripe",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUlFSjF1V2x3WV9UaWZDRkx3LTdBWHJMdWdpc2l2UzFKVlRJMlRrWDRHSjViQ1JUckZLQV9ybnV0b0RRNzNpTGZKdTdtWHdKc0dNQTlQY0JzRWtBdWtuMm1RYlM2WmZCN2pSanp2QmNkN01XbnVXMnNkNHhocTUzTXpFNGdIaEM1MHh2NkpVYldvZXVtTjJ5QTVYbS1ZRFVRN25zbVlvTWM?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "NYC-Privy",
+    "roles": [
+      {
+        "title": "Brand Designer, Privy",
+        "url": "https://stripe.com/jobs/search?gh_jid=7721132",
+        "location": "NYC-Privy"
+      }
+    ],
+    "first_seen": "2026-06-21T13:22:35.085509-07:00",
+    "status": "active"
+  },
+  "2015129f7f1ea8b89dbc0b7d324a1aa1": {
+    "id": "2015129f7f1ea8b89dbc0b7d324a1aa1",
+    "company": "ElevenLabs",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNVpLd2xkU09QeXpyUENaSVhsa21SMzF5X1NvMjlRX2VLRFM1cklhQ2gxTUhyUDFLdElicjhyZG9hYTZTZGs2OWpmRmhJTm8xa09qeFhOMXJUNWg1cGdlTlFWdHZlZ3kwanY5LTBNYk1UMTZoM1dJXzNNeHkxSWVnSEtUVV9IRGk0dlV2Vk9qbVhWQ1dYRFNYbFJncGhvS21ET21EYm1wZURBV3ltTGc?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/elevenlabs/89da00ec-11b0-4359-913b-c3a89c1013bc",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-06-21T13:22:37.332359-07:00",
+    "status": "active"
   }
 }
