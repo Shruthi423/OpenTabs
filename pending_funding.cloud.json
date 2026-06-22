@@ -1,16 +1,114 @@
 [
   {
     "item": {
-      "company": "Reflecting Pool repairs become personal",
-      "amount": "$14.0M",
+      "company": "BuyerBeats",
+      "amount": "$2.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/buyerbeats-raises-2m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-06-21T23:11:36.834475-07:00"
+  },
+  {
+    "item": {
+      "company": "dodoAI",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "Genesia Ventures to scale its enterprise AI governance platform for regulated industries",
+      "location": "Seed Tokyo",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/dodoai-raises-280m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-06-21T23:11:39.127884-07:00"
+  },
+  {
+    "item": {
+      "company": "Franklin",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/franklin-raises-1-6m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-06-21T23:11:41.414047-07:00"
+  },
+  {
+    "item": {
+      "company": "Fasset",
+      "amount": "$51.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/fasset-raises-51m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-06-21T23:11:43.699565-07:00"
+  },
+  {
+    "item": {
+      "company": "Connie Health",
+      "amount": "$40.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/connie-health-raises-40m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-06-21T23:11:46.632289-07:00"
+  },
+  {
+    "item": {
+      "company": "Seqana",
+      "amount": null,
       "stage": null,
       "investors": null,
-      "location": "New York",
+      "location": "Other Berlin",
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/21/trump-reflecting-pool-renovation-vandalism-fix-dc",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/seqana-raises-3-2m-other/",
       "priority": 3
     },
-    "remind_at": "2026-06-21T17:52:47.262820-07:00"
+    "remind_at": "2026-06-21T23:11:48.948368-07:00"
+  },
+  {
+    "item": {
+      "company": "THE SMC",
+      "amount": "$13.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/the-smc-raises-13m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-21T23:11:51.984531-07:00"
+  },
+  {
+    "item": {
+      "company": "Prosper AI",
+      "amount": "$30.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQkt1VlVNMG5MbVlobnlpeG9Bc1IyZHBTMU5ObEtyMkx2NHdQYUVteThXU0FRRTJfUTMzS1dmWHZUUUxjd2tzWTEwR3pSSFk2bmFIdzlmaVBNWlpzRHVwZ3ZwdVJyZ1c2TXFyUUJoWVNOeDVXejlHeWZURGl6NGozcFhmQWZpaGlhMmZQdmNkN0JqWWhXOGVsWkt3V2lzQ01YcndyMVM3MTQ?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-06-21T23:11:54.260766-07:00"
   }
 ]
