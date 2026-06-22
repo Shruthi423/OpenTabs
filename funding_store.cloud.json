@@ -7402,5 +7402,20 @@
     ],
     "first_seen": "2026-06-22T15:00:02.880851-07:00",
     "status": "active"
+  },
+  "93335943a2955a373e2faaab9921f3a5": {
+    "id": "93335943a2955a373e2faaab9921f3a5",
+    "company": "AI networking provider Upscale AI",
+    "amount": "$190.0M",
+    "stage": "Extension",
+    "investors": "Premji Invest with participation from Nvidia Corp",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/22/ai-networking-provider-upscale-ai-raises-190m-2b-valuation/",
+    "priority": 5,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-22T16:23:15.380159-07:00",
+    "status": "active"
   }
 }
