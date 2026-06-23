@@ -1,16 +1,44 @@
 [
   {
     "item": {
-      "company": "AI networking provider Upscale AI",
-      "amount": "$190.0M",
-      "stage": "Extension",
-      "investors": "Premji Invest with participation from Nvidia Corp",
+      "company": "Elon Musk will",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/22/elon-musk-billion-shares-spacex-settle-million-humans-mars-colony/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-22T19:00:22.501452-07:00"
+  },
+  {
+    "item": {
+      "company": "Trump signs two executive orders",
+      "amount": null,
+      "stage": null,
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/22/ai-networking-provider-upscale-ai-raises-190m-2b-valuation/",
-      "priority": 5
+      "url": "https://siliconangle.com/2026/06/22/trump-signs-two-executive-orders-try-accelerate-arrival-powerful-quantum-computers/",
+      "priority": 3
     },
-    "remind_at": "2026-06-22T16:53:14.379962-07:00"
+    "remind_at": "2026-06-22T19:00:25.450793-07:00"
+  },
+  {
+    "item": {
+      "company": "Google forms research partnership",
+      "amount": "$75.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/22/google-forms-research-partnership-a24-films-thats-focused-ai-filmmaking-tools/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-22T19:00:28.496743-07:00"
   }
 ]
