@@ -1,30 +1,58 @@
 [
   {
     "item": {
-      "company": "Across Stages",
-      "amount": "$3.0B",
-      "stage": "Seed",
+      "company": "Blockchain data provider Allium",
+      "amount": "$40.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/menlo-ventures-raise-ai-startup-funding-across-stages-anthropic/",
-      "priority": 9
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/23/blockchain-data-provider-allium-raises-40m-funding/",
+      "priority": 8
     },
-    "remind_at": "2026-06-23T12:50:08.602450-07:00"
+    "remind_at": "2026-06-23T14:44:10.140326-07:00"
   },
   {
     "item": {
-      "company": "White House quiet",
-      "amount": null,
+      "company": "After betting the firm on Anthropic",
+      "amount": "$3.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/23/white-house-openai-anthropic-safety-security",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
       "priority": 3
     },
-    "remind_at": "2026-06-23T12:50:11.914862-07:00"
+    "remind_at": "2026-06-23T14:44:13.072002-07:00"
+  },
+  {
+    "item": {
+      "company": "UPS",
+      "amount": "$50.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/23/ups-invests-50-million-temperature-controlled-facilities-glp-1-boom-healthcare-pivot/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-23T14:44:15.228570-07:00"
+  },
+  {
+    "item": {
+      "company": "Trump's America faces global side-eye",
+      "amount": null,
+      "stage": null,
+      "investors": "Trump ally Prime Minister Viktor Orb\u00e1n until April, respondents viewed the U",
+      "location": "Washington",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/23/trump-foreign-policy-reliability-pew-poll",
+      "priority": 3
+    },
+    "remind_at": "2026-06-23T14:44:18.127337-07:00"
   }
 ]
