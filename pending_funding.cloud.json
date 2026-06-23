@@ -1,114 +1,30 @@
 [
   {
     "item": {
-      "company": "Kyrok",
-      "amount": null,
-      "stage": "Pre-Seed",
+      "company": "Across Stages",
+      "amount": "$3.0B",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQkFXenpiQnJZdk82dTh4RXlnRHRUdTFINVVFVkpZQlBzdFlkV2lHRVRFci1jVVFBSm01Yjk5Y3paVFNkcFIyRVdSdG9acU5pLU42ZE9GTXpOUjJEV2d1QmZhQmpMRXkzdk0weWkyY3hEajNSNVRubndKN010bXlIOA?oc=5",
-      "priority": 10
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/menlo-ventures-raise-ai-startup-funding-across-stages-anthropic/",
+      "priority": 9
     },
-    "remind_at": "2026-06-23T10:36:38.845053-07:00"
+    "remind_at": "2026-06-23T12:50:08.602450-07:00"
   },
   {
     "item": {
-      "company": "HaloBraid",
-      "amount": "$7.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
-      "priority": 3
-    },
-    "remind_at": "2026-06-23T10:36:41.168423-07:00"
-  },
-  {
-    "item": {
-      "company": "Anthropic",
-      "amount": "$27.7B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
-      "priority": 3
-    },
-    "remind_at": "2026-06-23T10:36:43.473156-07:00"
-  },
-  {
-    "item": {
-      "company": "Halo",
-      "amount": "$7.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/06/23/halo-raises-7m-to-launch-halobraid-a-device-that-makes-braiding-5x-faster-for-stylists/",
-      "priority": 3
-    },
-    "remind_at": "2026-06-23T10:36:45.681780-07:00"
-  },
-  {
-    "item": {
-      "company": "Apple",
-      "amount": "$4.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/06/23/apple-hit-with-4-billion-uk-icloud-lawsuit-as-40-million-users-join-class-action/",
-      "priority": 3
-    },
-    "remind_at": "2026-06-23T10:36:48.161188-07:00"
-  },
-  {
-    "item": {
-      "company": "Probook",
+      "company": "White House quiet",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdVMxLURGVGZiREVkdzdRVUtpTWF0SU95MTZNSUtUdEJPZDdpM0VrMDdZUkQ2N08zcmtVOWt3dmFPMDNUMGhUZURldWNxZDdVWjV6SkdBTDNva1ZzcmIxbXlDT0w0NWhTYjk2azY1TS1fTTVaZmJjdHFXclU0YlNCeWVBSVFuOXd6OFBGZjViSk0tYm1HMThJZWZwcmVxVTU5dTVQaVkzMWEtWEpJYmJHNFBEeUN1SDlnYTExZkJudXFnWERvN0pF?oc=5",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/23/white-house-openai-anthropic-safety-security",
       "priority": 3
     },
-    "remind_at": "2026-06-23T10:36:50.316697-07:00"
-  },
-  {
-    "item": {
-      "company": "Stark confirms \u20ac500m",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaRl9JWFpVSm5mM0xfUHJ3c3F3Vk01TWNsc1RJZHJQWmhZaVRfYkMtMElwRFlGUXNqSm9TWm8wanNkekxSNEdxUl9QZGFEVmdHcnBwMUFIbzRZYzZINWhYbklzaGltNlBaUUY4SXNpeXFiN3NfdW1jNy1n?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-06-23T10:36:53.469731-07:00"
-  },
-  {
-    "item": {
-      "company": "Lithuania's PDKINEMATICS",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Eb1R5Z2dZLXRVSDVubTRkTWFybTc1bXVzcnU4TER1VmhjTzk4cE9SOFZXeXk1SjRHTGFOdDZjNkhNQjdydzJQQjZyOF82UGJUSEZJbHZJcVlYVHdXbmFwdHpfek51UdIBZkFVX3lxTE9Eb1R5Z2dZLXRVSDVubTRkTWFybTc1bXVzcnU4TER1VmhjTzk4cE9SOFZXeXk1SjRHTGFOdDZjNkhNQjdydzJQQjZyOF82UGJUSEZJbHZJcVlYVHdXbmFwdHpfek51UQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-06-23T10:36:56.426385-07:00"
+    "remind_at": "2026-06-23T12:50:11.914862-07:00"
   }
 ]

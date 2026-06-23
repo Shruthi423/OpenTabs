@@ -8185,5 +8185,35 @@
     "roles": [],
     "first_seen": "2026-06-23T10:06:57.426566-07:00",
     "status": "active"
+  },
+  "f71ce0c9bd3f186db5f2ddaaceb7d1f4": {
+    "id": "f71ce0c9bd3f186db5f2ddaaceb7d1f4",
+    "company": "Across Stages",
+    "amount": "$3.0B",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/menlo-ventures-raise-ai-startup-funding-across-stages-anthropic/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-23T12:20:09.602608-07:00",
+    "status": "active"
+  },
+  "009a9f9dbc4c7ceaa8140a8e772d432c": {
+    "id": "009a9f9dbc4c7ceaa8140a8e772d432c",
+    "company": "White House quiet",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/06/23/white-house-openai-anthropic-safety-security",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-23T12:20:12.915067-07:00",
+    "status": "active"
   }
 }
