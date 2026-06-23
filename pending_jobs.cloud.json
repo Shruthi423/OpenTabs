@@ -1,15 +1,70 @@
 [
   {
     "job": {
-      "title": "Founding Product Designer",
-      "company": "Allium",
-      "location": "New York",
-      "url": "https://jobs.ashbyhq.com/allium/a133179c-fe38-493a-b95e-44ebba22ad33",
-      "salary": "Not listed",
-      "description": "THE 4 BIGGEST BLOCKCHAIN STRENGTHS ARE ALSO ITS WEAKNESS\n\n - Permissionless nature leads to fragmentation of meaning\n\n - Decentralization leads to too many standards https://xkcd.com/927/\n\n - Immutability leads to exponential data + query infrastructure complexity\n\n - Neutrality means that no one is",
+      "title": "Founding Designer",
+      "company": "Floot (S25)",
+      "location": "San Francisco, CA, US",
+      "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D97232&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30729",
+      "salary": "$140K - $200K",
+      "description": "The easiest way for non-coders to build apps with AI.",
       "posted_at": "Recently",
-      "source": "Startups.Gallery"
+      "source": "Y Combinator",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
     },
-    "remind_at": "2026-06-23T08:11:54.587069-07:00"
+    "remind_at": "2026-06-23T10:36:13.448322-07:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer (Design Systems)",
+      "company": "Tabs",
+      "location": "New York City, NY",
+      "url": "https://jobs.ashbyhq.com/tabs/d2bbce25-43e7-4ae8-a3f1-505027a356ee",
+      "salary": "Not listed",
+      "description": "Tabs is the leading AI-native revenue platform for modern finance and accounting teams. Tabs agents automate the entire contract-to-cash lifecycle, including billing, collections, revenue recognition, and reporting, to help teams eliminate manual work and accelerate cash flow.\n\nHigh-growth companies",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-06-23T10:36:15.016448-07:00"
+  },
+  {
+    "job": {
+      "title": "Junior Brand Designer",
+      "company": "Tabs",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/tabs/fc388a93-c20d-47a6-8cb8-e40c951d6be9",
+      "salary": "Not listed",
+      "description": "Tabs is the leading AI-native revenue platform for modern finance and accounting teams. Tabs agents automate the entire contract-to-cash lifecycle, including billing, collections, revenue recognition, and reporting, to help teams eliminate manual work and accelerate cash flow.\n\nHigh-growth companies",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery",
+      "relevant": true,
+      "is_new_grad": true,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-06-23T10:36:16.799870-07:00"
+  },
+  {
+    "job": {
+      "title": "Brand Designer",
+      "company": "Supabase",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/supabase/4a85c92b-1d0d-43ee-8dbc-0e45a58be208",
+      "salary": "Not listed",
+      "description": "ABOUT SUPABASE\n\nSupabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.\n\n\n\n\nABOUT THE ROLE\n\nWe",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-06-23T10:36:18.534220-07:00"
   }
 ]

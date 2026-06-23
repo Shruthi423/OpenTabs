@@ -1,128 +1,114 @@
 [
   {
     "item": {
-      "company": "Hair-tech Start-up Halo",
-      "amount": "$7.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdnl1MWItclQ1cTBHRVUtU2wwQ1hTZ2VNTkxOSEZubldkbVlIZkR6LVl1a2pkdUcwUE5HYlA4MWFZOXlwVjhCbzIteGNsYU5DMGdQelNVcTZweV9JaWoxTlRONHlLaEVub29KR1FrcG5kQ3RDdVc2YmlGUS05UXQ2ellFTnkwLVZ1aE1LaHVpVjhmeDRwZ1luYWkwY0lnYk16QmVqVXExXzdzUQ?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-06-23T08:11:47.754642-07:00"
-  },
-  {
-    "item": {
-      "company": "PDKINEMATICS",
+      "company": "Kyrok",
       "amount": null,
-      "stage": "Seed",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43cE4tZjAwTkQxWE1obEk1UG90SGoxeTc2ajFwV0xNRUY4aXVwcDRYeVB5c1lfNk02b2xqdE1XZDRYMzg0emVUVEROVWtfdjhpTF9zRG9BZFZXQUNYWEU0UTd5VWRPSXFaLXc?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQkFXenpiQnJZdk82dTh4RXlnRHRUdTFINVVFVkpZQlBzdFlkV2lHRVRFci1jVVFBSm01Yjk5Y3paVFNkcFIyRVdSdG9acU5pLU42ZE9GTXpOUjJEV2d1QmZhQmpMRXkzdk0weWkyY3hEajNSNVRubndKN010bXlIOA?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-06-23T08:11:49.952700-07:00"
+    "remind_at": "2026-06-23T10:36:38.845053-07:00"
   },
   {
     "item": {
-      "company": "Lama AI",
-      "amount": "$10.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/23/lama-ai-raises-10m-accelerate-automated-loan-originations/",
-      "priority": 8
-    },
-    "remind_at": "2026-06-23T08:11:52.199493-07:00"
-  },
-  {
-    "item": {
-      "company": "Allium",
-      "amount": "$40.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWlhXMDM4YTh3LTFVYlJkSEowVWVzSUF4RkpSdzN2Y1dnNFRVc1BtQnJzSjZfYjdZNkFENkd4SFF4ZVF4ajVGckpXTGg5aFgxTnlHU2N0enZhSHJ4NWNHSldsMHQ5N3lLMnRyLW1fZ1ZPanlJb1g2Y3JuazJCcHozTDRQVDhpOVhoYjlWVFR3WGg3MTdVYnE1NWRjVVI3b01kTmlBTlVGZ1ZMWm9ZUjBzc0ltOXZYcERKU2ItcDFWNTVRN1pkd3B3RlNreU5Gc3NtSmI0NFJrWDZqUng0YzRxUw?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-06-23T08:11:56.157748-07:00"
-  },
-  {
-    "item": {
-      "company": "Fika Jobs",
-      "amount": "$4.0M",
+      "company": "HaloBraid",
+      "amount": "$7.0M",
       "stage": null,
       "investors": null,
-      "location": "Stockholm",
+      "location": null,
       "founders": [],
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "url": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
       "priority": 3
     },
-    "remind_at": "2026-06-23T08:11:59.271183-07:00"
+    "remind_at": "2026-06-23T10:36:41.168423-07:00"
   },
   {
     "item": {
-      "company": "Partly",
-      "amount": "$50.0M",
+      "company": "Anthropic",
+      "amount": "$27.7B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/23/partly-raises-50m-500m-valuation-crack-us-auto-parts-market/",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
       "priority": 3
     },
-    "remind_at": "2026-06-23T08:12:01.498933-07:00"
+    "remind_at": "2026-06-23T10:36:43.473156-07:00"
   },
   {
     "item": {
-      "company": "Momentic",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/23/momentic-raises-bar-software-testing-agentic-quality-platform/",
-      "priority": 3
-    },
-    "remind_at": "2026-06-23T08:12:03.748956-07:00"
-  },
-  {
-    "item": {
-      "company": "Engram",
-      "amount": "$98.0M",
+      "company": "Halo",
+      "amount": "$7.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/06/23/engram-raises-98-million-to-help-companies-lower-ai-token-costs-with-smarter-memory-models/",
+      "url": "https://techstartups.com/2026/06/23/halo-raises-7m-to-launch-halobraid-a-device-that-makes-braiding-5x-faster-for-stylists/",
       "priority": 3
     },
-    "remind_at": "2026-06-23T08:12:05.955576-07:00"
+    "remind_at": "2026-06-23T10:36:45.681780-07:00"
+  },
+  {
+    "item": {
+      "company": "Apple",
+      "amount": "$4.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/06/23/apple-hit-with-4-billion-uk-icloud-lawsuit-as-40-million-users-join-class-action/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-23T10:36:48.161188-07:00"
   },
   {
     "item": {
       "company": "Probook",
-      "amount": "$40.0M",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdVMxLURGVGZiREVkdzdRVUtpTWF0SU95MTZNSUtUdEJPZDdpM0VrMDdZUkQ2N08zcmtVOWt3dmFPMDNUMGhUZURldWNxZDdVWjV6SkdBTDNva1ZzcmIxbXlDT0w0NWhTYjk2azY1TS1fTTVaZmJjdHFXclU0YlNCeWVBSVFuOXd6OFBGZjViSk0tYm1HMThJZWZwcmVxVTU5dTVQaVkzMWEtWEpJYmJHNFBEeUN1SDlnYTExZkJudXFnWERvN0pF?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-06-23T10:36:50.316697-07:00"
+  },
+  {
+    "item": {
+      "company": "Stark confirms \u20ac500m",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTGZLWHhDMU5VazhWMGlmWUNMQjVZd1B4MHU3enFlY2tNMU5zcWtMTXdyYjFNWEFjcWNIYXhQNUNrSm1xMlBkTzIxV1Y4ZkhrX3ZYenBPV24wZVNLSmJmT1ZlaVREZTJqTFBFcVZBOHd1VF83M0xmbVh4YXEwOWFtLU5lcWFEWlJhejl2TjZ3QVZjd0ZycjBzVGc2WERqZlk4NEtvRmR6VGZhNUxBV2wxcFlVbGtielRRU3NPampTMTR0Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaRl9JWFpVSm5mM0xfUHJ3c3F3Vk01TWNsc1RJZHJQWmhZaVRfYkMtMElwRFlGUXNqSm9TWm8wanNkekxSNEdxUl9QZGFEVmdHcnBwMUFIbzRZYzZINWhYbklzaGltNlBaUUY4SXNpeXFiN3NfdW1jNy1n?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-06-23T08:12:08.142976-07:00"
+    "remind_at": "2026-06-23T10:36:53.469731-07:00"
+  },
+  {
+    "item": {
+      "company": "Lithuania's PDKINEMATICS",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Eb1R5Z2dZLXRVSDVubTRkTWFybTc1bXVzcnU4TER1VmhjTzk4cE9SOFZXeXk1SjRHTGFOdDZjNkhNQjdydzJQQjZyOF82UGJUSEZJbHZJcVlYVHdXbmFwdHpfek51UdIBZkFVX3lxTE9Eb1R5Z2dZLXRVSDVubTRkTWFybTc1bXVzcnU4TER1VmhjTzk4cE9SOFZXeXk1SjRHTGFOdDZjNkhNQjdydzJQQjZyOF82UGJUSEZJbHZJcVlYVHdXbmFwdHpfek51UQ?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-06-23T10:36:56.426385-07:00"
   }
 ]
