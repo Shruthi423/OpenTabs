@@ -1,114 +1,142 @@
 [
   {
     "item": {
-      "company": "Kyber",
-      "amount": "$5.0M",
-      "stage": "Seed",
-      "investors": "Lightspeed Venture Partners to build the infrastructure layer for controlling physical AI and robotics fleets",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kyber-raises-5m-seed/",
-      "priority": 12
-    },
-    "remind_at": "2026-06-23T02:19:37.687376-07:00"
-  },
-  {
-    "item": {
-      "company": "Superpal",
+      "company": "Sherlocks AI",
       "amount": null,
       "stage": "Pre-Seed",
-      "investors": "FIRSTPICK for its autonomous AI coworker platform integrated into Slack",
+      "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/superpal-raises-500k-pre-seed/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeGFUaUZQNnFuRTZfaV9VZDNYTktLUUxOcG1EZ1lPaUNIRE44dWk0aGFGeEY4aXk3V3BPWkwxTnRERG5OcWxTaWdwVEdvZEV3OW8zZk5YZDdJZ1ppbG56MkhianVwSVB0OWF3RkxrMEoxbk44YjUtMHQ2bjVFUjBlVkZlS0FZZklRbEkxNlJwbWZFWG1tZ05uX1RleERCVk1kamp1WHVjOTNTbXNzclHSAa4BQVVfeXFMTnhhVGlGUDZxbkU2X2lfVWQzWE5LS1FMTnBtRGdZT2lDSEROOHVpNGhhRnhGOGl5N1dwT1pMMU50RERuTnFsU2lncFRHb2RFdzlvM2ZOWGQ3SWdaaWxuejJIYmp1cElQdDlhd0ZMazBKMW5OOGI1LTB0Nm41RVIwZVZGZUtBWWZJUWxJMTZScG1mRVhtbWdObl9UZXhEQlZNZGpqdVh1YzkzU21zc3JR?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-06-23T02:19:40.026286-07:00"
+    "remind_at": "2026-06-23T05:27:15.342544-07:00"
   },
   {
     "item": {
-      "company": "Synvo AI",
-      "amount": "$1.0M",
+      "company": "LiLLBUD",
+      "amount": null,
       "stage": "Seed",
-      "investors": "Fuel Ventures Asia to expand its enterprise AI memory layer technology across the Asian market",
+      "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/synvo-ai-raises-us1m-seed/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUC12eGNuOUprTG1ma21ZYW5XdFU4MU95dWxHVG1peWJYMFdJNDVOMjhwUnhCRThuNlJRT1BEU0h4VmhQUDAtT21RUVVJSnNkX2VhUjdTQXFWalhZQ2s4bV9xU21KV0pYTDkyZnhEWXV2bXU1dTVKS3Q0Zms0cmk3MGpHVmFLdmI5RDNraU0yaHQzcE1pOVduNWp0ZDlhd9IBngFBVV95cUxQUC12eGNuOUprTG1ma21ZYW5XdFU4MU95dWxHVG1peWJYMFdJNDVOMjhwUnhCRThuNlJRT1BEU0h4VmhQUDAtT21RUVVJSnNkX2VhUjdTQXFWalhZQ2s4bV9xU21KV0pYTDkyZnhEWXV2bXU1dTVKS3Q0Zms0cmk3MGpHVmFLdmI5RDNraU0yaHQzcE1pOVduNWp0ZDlhdw?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-06-23T02:19:42.526684-07:00"
+    "remind_at": "2026-06-23T05:27:17.537935-07:00"
   },
   {
     "item": {
-      "company": "Timefold",
-      "amount": "$13.0M",
+      "company": "Tsuga",
+      "amount": "$35.0M",
       "stage": "Series A",
-      "investors": "Alstin Capital to expand its scheduling optimisation infrastructure and grow its US operations",
+      "investors": "Singular to expand its AI agent platform",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/timefold-raises-13m-series-a/",
+      "url": "https://www.thesaasnews.com/news/tsuga-raises-35-million-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-06-23T02:19:45.075803-07:00"
+    "remind_at": "2026-06-23T05:27:19.711586-07:00"
   },
   {
     "item": {
-      "company": "H3 Zoom",
-      "amount": "$3.6M",
-      "stage": "Series A",
+      "company": "Trading start-up Fomo",
+      "amount": "$75.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmdPTUcxWnl2Vk54U3hWLUdvNE5iZDRrOHdiNDF0RW1TZ1dsRUVoLXNPZjR2R2Rial9feGFqeWlWOG93UHZ3amY4dGZCLVNPOXRNWUU3OVNLYkJsRnhoVjc1YjFBS3IxYUw1dFhicElzZVYySzQyaFJEUFJPd1ZiN3ZPZ1U?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-06-23T05:27:22.750818-07:00"
+  },
+  {
+    "item": {
+      "company": "SpaceX\u2019s drop-off sees Elon Musk\u2019s",
+      "amount": "$240.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/23/spacex-share-fluctuation-elon-musk-net-worth-trillionaire/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-23T05:27:25.690933-07:00"
+  },
+  {
+    "item": {
+      "company": "Saudi PIF\u2019s governor wants the kingdom",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/23/saudi-sovereign-wealth-fund-kingdom-global-investment-center/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-23T05:27:28.563501-07:00"
+  },
+  {
+    "item": {
+      "company": "$400 billion wiped off SpaceX stock",
+      "amount": "$400.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/23/stock-markets-fed-interest-rate-expectations-400-billion-spacex/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-23T05:27:31.474047-07:00"
+  },
+  {
+    "item": {
+      "company": "Reflection and Nvidia",
+      "amount": "$6.3B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/spacex-lands-6-3b-compute-deal-with-open-source-ai-startup-reflection-and-nvidia-is-on-both-sides-of-the-trade/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-23T05:27:34.373619-07:00"
+  },
+  {
+    "item": {
+      "company": "Adomate",
+      "amount": null,
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/h3-zoom-raises-3-6m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-06-23T02:19:48.373231-07:00"
-  },
-  {
-    "item": {
-      "company": "AlpSemi",
-      "amount": "$19.5M",
-      "stage": null,
-      "investors": null,
-      "location": "Paris",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/23/alpsemi-raises-19-5m-make-semiconducting-power-switches-ai-data-centers/",
+      "url": "https://www.thesaasnews.com/news/adomate-raises-eur1-4m-in-funding/",
       "priority": 3
     },
-    "remind_at": "2026-06-23T02:19:50.813906-07:00"
+    "remind_at": "2026-06-23T05:27:36.665315-07:00"
   },
   {
     "item": {
-      "company": "Google takes the",
-      "amount": "$2.0B",
+      "company": "This founder went from pressure washing",
+      "amount": "$40.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/23/ai-lab-agi-google-deepmind-departures",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMnVEb0I4WWNLb3d5OWZlelpLWlVxOUJORUt5ZlRKbzE3ZTRUckxxd0N2X29pOVJhYTB6dXhjU3hHQUhFSjhSR0JwcndLOU5JeDRKbDdpQV81OXR3YkZiREZUNk5UcHNvb2VjN3ZsM3lhbXpla2lJbUFuSlBPYXJ2WFVxMmV3S1ZSLVJZRUxaQk9rV3JyT3ctMXcwVzFHaS00VzJoVUt4QTBmSklOdDdwTXBoTUdvZnlid3hVVnIzanNhTlJHZml1c1pqYkt1bkhZcnhzdUdFMFExOXRzSThBSDFkcw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-06-23T02:19:54.028168-07:00"
-  },
-  {
-    "item": {
-      "company": "CRED",
-      "amount": "$900.0M",
-      "stage": null,
-      "investors": "Meta to expand its fintech and digital payments ecosystem in India",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/cred-raises-900m-growth-capital/",
-      "priority": 3
-    },
-    "remind_at": "2026-06-23T02:19:56.357254-07:00"
+    "remind_at": "2026-06-23T05:27:39.673134-07:00"
   }
 ]
