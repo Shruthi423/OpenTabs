@@ -4268,5 +4268,24 @@
     "first_seen": "2026-06-23T04:56:50.135643-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "ebebc4039198267678ed387d0c1dfd67": {
+    "id": "ebebc4039198267678ed387d0c1dfd67",
+    "title": "Founding Product Designer",
+    "company": "Allium",
+    "location": "New York",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/allium/a133179c-fe38-493a-b95e-44ebba22ad33",
+    "source": "\ud83d\udcb0 Allium (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Allium raised $40.0M",
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-06-23T07:41:53.975701-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }

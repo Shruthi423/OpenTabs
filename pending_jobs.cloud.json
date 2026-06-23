@@ -1,138 +1,15 @@
 [
   {
     "job": {
-      "title": "Junior is hiring for a position of Product Designer in New York City, NY",
-      "company": "Junior",
-      "location": "Remote",
-      "url": "https://dribbble.com/jobs/289055-Product-Designer?source=feed",
-      "salary": "See posting",
-      "description": "",
-      "posted_at": "Recently",
-      "source": "Dribbble",
-      "relevant": true,
-      "is_new_grad": true,
-      "is_big_tech": false,
-      "visa": null
-    },
-    "remind_at": "2026-06-23T05:26:39.242225-07:00"
-  },
-  {
-    "job": {
-      "title": "Product Designer",
-      "company": "Absorb Software",
-      "location": "Remote",
-      "url": "https://uiuxjobsboard.com/job/1507426-remote-canada-product-designer",
-      "salary": "Not listed",
-      "description": "",
-      "posted_at": "2h",
-      "source": "UIUXJobsBoard",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": false,
-      "visa": null
-    },
-    "remind_at": "2026-06-23T05:26:40.784160-07:00"
-  },
-  {
-    "job": {
-      "title": "Product Designer",
-      "company": "Read AI",
-      "location": "Seattle, WA",
-      "url": "https://uiuxjobsboard.com/job/1507226-product-designer-seattle-wa-united-states",
-      "salary": "$120,000 - $160,000",
-      "description": "",
-      "posted_at": "2h",
-      "source": "UIUXJobsBoard",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": false,
-      "visa": null
-    },
-    "remind_at": "2026-06-23T05:26:42.455942-07:00"
-  },
-  {
-    "job": {
-      "title": "Product Designer",
-      "company": "Adaptive",
+      "title": "Founding Product Designer",
+      "company": "Allium",
       "location": "New York",
-      "url": "https://uiuxjobsboard.com/job/1506826-product-designer-new-york-united-states",
-      "salary": "$160,000 - $180,000",
-      "description": "",
-      "posted_at": "2h",
-      "source": "UIUXJobsBoard",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": false,
-      "visa": null
-    },
-    "remind_at": "2026-06-23T05:26:44.126248-07:00"
-  },
-  {
-    "job": {
-      "title": "UX Researcher",
-      "company": "Jane",
-      "location": "Remote",
-      "url": "https://uiuxjobsboard.com/job/1507326-remote-canada-ux-researcher",
-      "salary": "$150,000 - $243,800",
-      "description": "",
-      "posted_at": "4h",
-      "source": "UIUXJobsBoard",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": false,
-      "visa": null
-    },
-    "remind_at": "2026-06-23T05:26:45.795578-07:00"
-  },
-  {
-    "job": {
-      "title": "Product Designer",
-      "company": "Pencil",
-      "location": "Remote",
-      "url": "https://uiuxjobsboard.com/job/1507626-remote-emea-product-designer",
+      "url": "https://jobs.ashbyhq.com/allium/a133179c-fe38-493a-b95e-44ebba22ad33",
       "salary": "Not listed",
-      "description": "",
-      "posted_at": "4h",
-      "source": "UIUXJobsBoard",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": false,
-      "visa": null
+      "description": "THE 4 BIGGEST BLOCKCHAIN STRENGTHS ARE ALSO ITS WEAKNESS\n\n - Permissionless nature leads to fragmentation of meaning\n\n - Decentralization leads to too many standards https://xkcd.com/927/\n\n - Immutability leads to exponential data + query infrastructure complexity\n\n - Neutrality means that no one is",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery"
     },
-    "remind_at": "2026-06-23T05:26:47.440377-07:00"
-  },
-  {
-    "job": {
-      "title": "UI/UX Designer",
-      "company": "Remotebase",
-      "location": "Remote",
-      "url": "https://uiuxjobsboard.com/job/1506426-remote-brazil-ui-ux-designer",
-      "salary": "Not listed",
-      "description": "",
-      "posted_at": "5h",
-      "source": "UIUXJobsBoard",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": false,
-      "visa": null
-    },
-    "remind_at": "2026-06-23T05:26:49.135020-07:00"
-  },
-  {
-    "job": {
-      "title": "UX Researcher",
-      "company": "Notion",
-      "location": "San Francisco, CA",
-      "url": "https://uiuxjobsboard.com/job/1506926-ux-researcher-san-francisco-ca-united-states",
-      "salary": "$196,000 - $230,000",
-      "description": "",
-      "posted_at": "6h",
-      "source": "UIUXJobsBoard",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": true,
-      "visa": null
-    },
-    "remind_at": "2026-06-23T05:26:50.811149-07:00"
+    "remind_at": "2026-06-23T08:11:54.587069-07:00"
   }
 ]
