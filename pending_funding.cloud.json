@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Menlo",
-      "amount": "$3.0B",
+      "company": "Orderful",
+      "amount": "$35.0M",
+      "stage": "Series C",
+      "investors": "Koch Disruptive Technologies with participation from NewRoad Capital",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/23/orderful-nabs-35m-streamline-supply-chain-data-management/",
+      "priority": 6
+    },
+    "remind_at": "2026-06-23T17:11:27.902817-07:00"
+  },
+  {
+    "item": {
+      "company": "Congress passes big housing bill",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXdjTTZxb2JDN0xpaTBrYXNoOWp4dTd6cmZuR0xBWmZIYVBMejItZVF4Vmdnd0dlbC1DSmRDVFBEakI3QWU3LUxjSVlaV2MwNHlZcjB5TGRPdDBUUVB1QTNRSWhtdk5qcmgtUHh3Qm5FT2I3VVUyd20wbUl5V0hRc0RWZw?oc=5",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/23/housing-affordability-senate-trump",
       "priority": 3
     },
-    "remind_at": "2026-06-23T16:10:22.865671-07:00"
+    "remind_at": "2026-06-23T17:11:31.421048-07:00"
   }
 ]

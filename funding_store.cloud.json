@@ -8290,5 +8290,35 @@
     "roles": [],
     "first_seen": "2026-06-23T15:40:23.865833-07:00",
     "status": "active"
+  },
+  "9a30d212c0fd7959cd1ecf2127548c21": {
+    "id": "9a30d212c0fd7959cd1ecf2127548c21",
+    "company": "Orderful",
+    "amount": "$35.0M",
+    "stage": "Series C",
+    "investors": "Koch Disruptive Technologies with participation from NewRoad Capital",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/23/orderful-nabs-35m-streamline-supply-chain-data-management/",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-23T16:41:28.902960-07:00",
+    "status": "active"
+  },
+  "161c1c1e6e19b24aa753e0a4dab675e6": {
+    "id": "161c1c1e6e19b24aa753e0a4dab675e6",
+    "company": "Congress passes big housing bill",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/06/23/housing-affordability-senate-trump",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-23T16:41:32.421194-07:00",
+    "status": "active"
   }
 }
