@@ -1,58 +1,16 @@
 [
   {
     "item": {
-      "company": "Blockchain data provider Allium",
-      "amount": "$40.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/23/blockchain-data-provider-allium-raises-40m-funding/",
-      "priority": 8
-    },
-    "remind_at": "2026-06-23T14:44:10.140326-07:00"
-  },
-  {
-    "item": {
-      "company": "After betting the firm on Anthropic",
+      "company": "Menlo",
       "amount": "$3.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXdjTTZxb2JDN0xpaTBrYXNoOWp4dTd6cmZuR0xBWmZIYVBMejItZVF4Vmdnd0dlbC1DSmRDVFBEakI3QWU3LUxjSVlaV2MwNHlZcjB5TGRPdDBUUVB1QTNRSWhtdk5qcmgtUHh3Qm5FT2I3VVUyd20wbUl5V0hRc0RWZw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-06-23T14:44:13.072002-07:00"
-  },
-  {
-    "item": {
-      "company": "UPS",
-      "amount": "$50.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/23/ups-invests-50-million-temperature-controlled-facilities-glp-1-boom-healthcare-pivot/",
-      "priority": 3
-    },
-    "remind_at": "2026-06-23T14:44:15.228570-07:00"
-  },
-  {
-    "item": {
-      "company": "Trump's America faces global side-eye",
-      "amount": null,
-      "stage": null,
-      "investors": "Trump ally Prime Minister Viktor Orb\u00e1n until April, respondents viewed the U",
-      "location": "Washington",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/23/trump-foreign-policy-reliability-pew-poll",
-      "priority": 3
-    },
-    "remind_at": "2026-06-23T14:44:18.127337-07:00"
+    "remind_at": "2026-06-23T16:10:22.865671-07:00"
   }
 ]
