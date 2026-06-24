@@ -1,5 +1,22 @@
 [
   {
+    "id": "191d8cd8314a77faeb9a2e7f2f470e15",
+    "company": "Mistral",
+    "amount": "$4.4B",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
+    "priority": 6,
+    "founders": [
+      "Arthur Mensch"
+    ],
+    "location": "London",
+    "roles": [],
+    "first_seen": "2026-06-24T14:54:00.073780-07:00",
+    "status": "active"
+  },
+  {
     "id": "46d40696110f589d46e644e5b5ed72f2",
     "company": "Treasury Secretary Bessent",
     "amount": "Undisclosed",
