@@ -1,128 +1,198 @@
 [
   {
     "item": {
-      "company": "BharatTender",
-      "amount": null,
+      "company": "Anchorbase",
+      "amount": "$2.0M",
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/bharattender-raises-1-25cr-pre-seed/",
+      "url": "https://www.thesaasnews.com/news/anchorbase-raises-2m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-06-23T23:20:23.364258-07:00"
+    "remind_at": "2026-06-24T02:29:05.542339-07:00"
   },
   {
     "item": {
-      "company": "Concord",
-      "amount": "$3.0M",
+      "company": "Ladder Health",
+      "amount": "$7.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/concord-raises-3m-seed-2/",
+      "url": "https://www.thesaasnews.com/news/ladder-health-raises-7m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-06-23T23:20:25.903689-07:00"
-  },
-  {
-    "item": {
-      "company": "Acumino",
-      "amount": "$11.7M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQakpTSVBuRVRhRGFKVEx4SVFCUGZDTXhIVEFiZ0VtZFg1T2hqWXJYRXM0NENhb0hRLVA5T3ZtYk5HWUUtN29nNWRMY3dFTnFqYXhOSjg5M1NXQTZYMFVHcFI0SDlseHB2bXlpWDB4MWRhZ3hTWmpqN0ZvNW5vS1NJcnJib0JkZjhHVzZQSFN0c1lobmRTdWs4QmU2UF8?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-06-23T23:20:28.486668-07:00"
+    "remind_at": "2026-06-24T02:29:08.607701-07:00"
   },
   {
     "item": {
       "company": "QOSMIC",
-      "amount": null,
+      "amount": "$3.3M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDB2Wl84WDFHV0hJZ1p1ajdrM2FnZnpmTFI4d2hSRDhseWRFZG1UWmNZeVZzWEZ5MnlzUUhPMnR1X2FJc1Q4VkMxWGRmYXdPQzRxUzNPTGZrWFZQT1IwcW5Vc2NUNFdKZVhpbVJhLUVCRVEyTHVKUFhpWU1qaHZubHJVRmJudkJuVTBsLW1fZVZCMUg3REh0ZWZMdzBwTXRoVmZfQ2U1d01TZDNwLWc1StIBsAFBVV95cUxPMDB2Wl84WDFHV0hJZ1p1ajdrM2FnZnpmTFI4d2hSRDhseWRFZG1UWmNZeVZzWEZ5MnlzUUhPMnR1X2FJc1Q4VkMxWGRmYXdPQzRxUzNPTGZrWFZQT1IwcW5Vc2NUNFdKZVhpbVJhLUVCRVEyTHVKUFhpWU1qaHZubHJVRmJudkJuVTBsLW1fZVZCMUg3REh0ZWZMdzBwTXRoVmZfQ2U1d01TZDNwLWc1Sg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQS3RLSmQ5amVna1dUTXVmVElKUHd0QVRhSVphd3RZbnEzRVZIeUIzWmNUY29BckJETVYxSURrZmRUc1RUTld3RFhsNThZbHgwQjRqZTRUM0hudDV1RDFOdjJmeUk1dG1INFZub3Bmc0g3ekhLNEtHRFp3QW1pNFEtQnlER0d0Y0hoTWlLMTlrYVByaUlaR1Q2VkZvVEZkaUVFR2tnS0NER3BGRjBOeW9VXzRVY1JGbVlFWFotbTlYMlQwZFFONU95QkFxemFELWxCdEVCSXkxQW5JNW82TUJ2bk9HNzRvMjhCQUNJUTJ2RnFhY3VqWnVhdW5RTQ?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-06-23T23:20:31.052350-07:00"
+    "remind_at": "2026-06-24T02:29:10.929381-07:00"
   },
   {
     "item": {
-      "company": "JustAI",
-      "amount": "$17.0M",
+      "company": "Vixtra",
+      "amount": "$9.6M",
+      "stage": "Series A",
+      "investors": "Valor Capital to expand its trade banking platform and develop stablecoin infrastructure for importers",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/vixtra-raises-9-6m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-06-24T02:29:13.125893-07:00"
+  },
+  {
+    "item": {
+      "company": "JUPUS",
+      "amount": null,
+      "stage": "Series A",
+      "investors": "Semapa Next to expand its AI secretarial platform for law firms",
+      "location": "Cologne",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/jupus-raises-13m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-06-24T02:29:15.417512-07:00"
+  },
+  {
+    "item": {
+      "company": "Niural",
+      "amount": "$52.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/justai-raises-17m-series-a/",
+      "url": "https://www.thesaasnews.com/news/niural-raises-52m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-06-23T23:20:33.577208-07:00"
+    "remind_at": "2026-06-24T02:29:19.482306-07:00"
   },
   {
     "item": {
-      "company": "JustAI",
-      "amount": null,
+      "company": "Lama AI",
+      "amount": "$12.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/lama-ai-raises-12m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-06-24T02:29:21.668373-07:00"
+  },
+  {
+    "item": {
+      "company": "Tetrix",
+      "amount": "$15.0M",
+      "stage": "Series A",
+      "investors": "White Star Capital and Innovation Endeavors to scale its AI platform for private market institutional investors",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/tetrix-raises-15m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-06-24T02:29:24.064593-07:00"
+  },
+  {
+    "item": {
+      "company": "DATA ALLIANCE",
+      "amount": "$1.95M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUnpULXJ1RkxLbmpaSHlHWVBFNmdLOWJiUUwxamxWZTZ6YktXeG5YWUhtYnF3eFFTM3NjbjJLRk9fbE9RbFhYYWM0eEVENUNPcHphY25CdlhGbHhfT2FOYWExLWRxeHE5NUpGbWVnbFdqcThJemZkTm9MdmNIend1OC16NEY4TVU0YXFna1R3RlNlZC1ZbkZkODNtMENrMzBEejdmeVJPcmHSAagBQVVfeXFMUFJ6VC1ydUZMS25qWkh5R1lQRTZnSzliYlFMMWpsVmU2emJLV3huWFlIbWJxd3hRUzNzY24yS0ZPX2xPUWxYWGFjNHhFRDVDT3B6YWNuQnZYRmx4X09hTmFhMS1kcXhxOTVKRm1lZ2xXanE4SXpmZE5vTHZjSHp3dTgtejRGOE1VNGFxZ2tUd0ZTZWQtWW5GZDgzbTBDazMwRHo3ZnlST3Jh?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1dXU5Mlh5cERvRTk3U0NuOHN1SUw4cWt6S09IMDZiUnhvU180dWhGZUgwUjdId1VxZUcwX0hVdUdLQjl2WjNiTF9hME5sanpfNncw?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-06-23T23:20:36.047045-07:00"
+    "remind_at": "2026-06-24T02:29:27.138551-07:00"
   },
   {
     "item": {
-      "company": "Attention",
-      "amount": "$30.0M",
-      "stage": "Series B",
+      "company": "Baseten",
+      "amount": "$1.5B",
+      "stage": "Series F",
+      "investors": "Altimeter, Conviction, and Spark Capital to scale its AI inference infrastructure platform",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/baseten-raises-1-5b-series-f/",
+      "priority": 6
+    },
+    "remind_at": "2026-06-24T02:29:29.375345-07:00"
+  },
+  {
+    "item": {
+      "company": "equipal",
+      "amount": null,
+      "stage": null,
+      "investors": "Altum Capital Management to grow its team and expand business equipment lending capacity",
+      "location": "Other London",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/equipal-raises-18-84m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-24T02:29:31.747855-07:00"
+  },
+  {
+    "item": {
+      "company": "AIVA",
+      "amount": "$1.5M",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/attention-raises-30m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-06-23T23:20:38.527222-07:00"
-  },
-  {
-    "item": {
-      "company": "Democrats left reeling",
-      "amount": null,
-      "stage": null,
-      "investors": "more than 30 percentage points as of late Tuesday night",
-      "location": "New York",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/24/mamdani-lander-valdez-chevalier-espaillat-goldman",
+      "url": "https://www.thesaasnews.com/news/aiva-secures-1-5-million-in-funding/",
       "priority": 3
     },
-    "remind_at": "2026-06-23T23:20:41.897866-07:00"
+    "remind_at": "2026-06-24T02:29:34.083345-07:00"
   },
   {
     "item": {
-      "company": "Two quantum computing researchers just",
+      "company": "Stark at \u20ac3.2 Billion Valuation",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/ora-computing-3-5m-seed-ai-model-compression/",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMFVHTThQT2FOUWZhUVpnSk5JeTdGUk04bGdwZDFVYW1JOUlSNHVBeXFHZ3hYUGh3NUVEeVVhUDlCOHRjTm1aWXZMcjVDR1lvRmprRExSYUVQSGpQZ2R3ZDhBb1JieUdtbHZ0c0NfUlkxM0Jxb1lmdUNLbHh3eXdoZ1dUZzRtWldzNjhPTV9PWER0R0EwaUR2eGppd1RxZGdLRko4bFZPUWlodUh3aDFGcEN0WGxYeHFnVGp3MWd0OTRhZFptUVpBcg?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-06-23T23:20:45.173407-07:00"
+    "remind_at": "2026-06-24T02:29:37.134848-07:00"
+  },
+  {
+    "item": {
+      "company": "Login",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWFQazBpOUV0Y01yZndQM3pXSFFDdzJTd010M2RtQThVbFB2b2otekZCS3hhbUppLWVweEVuOE1wbFdqdG90ZTE1OFhWVnZJOGhwV1NpSmVmU0dkYlFxdFN0Sm5GOEwtMVE0bm9QQkh6Vkc2aFcyV01QWWEzXzZaaUhtZWRBbFNjejljY3VTNHR3VG1QYy1GMXNEZw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-06-24T02:29:39.380761-07:00"
   }
 ]
