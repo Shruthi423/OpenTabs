@@ -1,16 +1,58 @@
 [
   {
     "item": {
-      "company": "Trase",
-      "amount": "$107.0M",
+      "company": "Valence AI",
+      "amount": "$5.0M",
       "stage": "Seed",
+      "investors": "Differential Ventures to expand its emotional intelligence infrastructure platform for voice AI",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/valence-ai-raises-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-06-24T22:13:49.938984-07:00"
+  },
+  {
+    "item": {
+      "company": "Peregrine Technologies",
+      "amount": "$250.0M",
+      "stage": "Series D",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQem0zRThCaXFBN01nSUY1UXZ4cXZucFp3Vk5HeVVNT25fcVdmeEREblc0MTRuTXVBZTdFUGczS1MwZGVfZUlkQkJXanlNOVhVM0JldEZTa1hObTRxb0FwYkxQQjZJWnhIOHJwYjdQNWZOa2pvWnMzWVFOdXgwQ1dxdzFEMWl3SWc1UmF2NHBOVmowX2JDRl9pWXU5WnZQV05WUlZDWU1TZTk?oc=5",
-      "priority": 9
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0M3cWJHNGlMZEloRFUyaWdLYzVhc1VxUmhSWE5xZXJTZHJ4OHVycEkwWThGckhoZDU3NmF0WVNwZFktb0VOcEJhTWo2Tlp1UGtaQ2REZThfcUxBVHlHRUtyTk14bGotYS1qUU1SMGlnbVhoU3pJMVZ5My0tdmRGNVJtS0tjZkIxZE1pSkFRbmlKYl9hbXRtdF80VTg1Qm9ma19xUXRKbXNETFlIUG03dlJDMjduaXBCRG5oQjRHU19ZZVQxY2NpRlZWWQ?oc=5",
+      "priority": 5
     },
-    "remind_at": "2026-06-24T17:52:44.025324-07:00"
+    "remind_at": "2026-06-24T22:13:52.478935-07:00"
+  },
+  {
+    "item": {
+      "company": "Memory maker SK hynix files",
+      "amount": "$29.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/24/memory-maker-sk-hynix-files-29b-us-ipo-amid-ai-demand/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-24T22:13:55.758403-07:00"
+  },
+  {
+    "item": {
+      "company": "America's child population",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/25/south-child-population-census",
+      "priority": 3
+    },
+    "remind_at": "2026-06-24T22:13:59.129216-07:00"
   }
 ]
