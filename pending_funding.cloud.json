@@ -1,128 +1,100 @@
 [
   {
     "item": {
-      "company": "Ground",
-      "amount": "$3.6M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ground-raises-3-6m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-06-25T04:38:23.107017-07:00"
-  },
-  {
-    "item": {
-      "company": "Talentir",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/talentir-raises-4m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-06-25T04:38:25.378254-07:00"
-  },
-  {
-    "item": {
-      "company": "Cambrian",
-      "amount": "$6.0M",
-      "stage": "Seed",
-      "investors": "Franklin Templeton and Polychain Capital to expand its blockchain data oracle network for AI and institutions",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/cambrian-raises-6m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-06-25T04:38:27.677878-07:00"
-  },
-  {
-    "item": {
-      "company": "Almetra",
-      "amount": null,
+      "company": "SuperLiving",
+      "amount": "$7.0M",
       "stage": "Series A",
       "investors": null,
-      "location": "Berlin",
+      "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/almetra-raises-16-3m-series-a/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU0gwRVg1LVlWa3ZTUHRMNUdHWXliTl9yZ1l0MVFKREMwRFlNNm5ZbjhtRFcxVnNBNnlSXy1SQ3J6YVNRWmRPV2NQcmE3T3N6ZEQ2QWx5MUZjbE5Ob2sxY1gySG82M2l2Q1M4R2ljNzRBelhzM2taeEJ6X1JvZmdsS3Q5R0d4Vm13OHhZcXAxNi1aX01FM29JTXQ5Q0YyVXBCU01uZWU3WkV6cDVpbkVCTFB5S3lOQ0phQU4wNFFwOUNqLWcyd1RrTm12czhLQndiVGxHdmpqajk5VnBUZ2YzcGd3?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-06-25T04:38:29.844382-07:00"
+    "remind_at": "2026-06-25T06:56:51.886829-07:00"
   },
   {
     "item": {
-      "company": "M&A Year",
-      "amount": "$60.0B",
+      "company": "Warp",
+      "amount": "$60.0M",
+      "stage": null,
+      "investors": null,
+      "location": "The New York",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/25/warp-lands-60m-automate-payroll-compliance-hr-ai/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-25T06:56:54.329189-07:00"
+  },
+  {
+    "item": {
+      "company": "Incode acquires Identiq",
+      "amount": "$100.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/ma/2026-mergers-acquisitions-record-cursor-spcx/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/25/incode-acquires-identiq-commits-100m-privacy-first-identity-tech/",
       "priority": 3
     },
-    "remind_at": "2026-06-25T04:38:32.815128-07:00"
+    "remind_at": "2026-06-25T06:56:57.786153-07:00"
   },
   {
     "item": {
-      "company": "America's great political implosion",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "New York",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/25/trump-america-politics-maga-socialism-israel",
-      "priority": 3
-    },
-    "remind_at": "2026-06-25T04:38:35.945090-07:00"
-  },
-  {
-    "item": {
-      "company": "Codex agents",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "San Francisco",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/25/codex-agents-growth-openai",
-      "priority": 3
-    },
-    "remind_at": "2026-06-25T04:38:40.295799-07:00"
-  },
-  {
-    "item": {
-      "company": "European VC has beaten US funds",
+      "company": "Gates Foundation backs Leyden Labs\u2019 \u20ac40M",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/european-vc-outperforms-us-invest-europe-2025-data/",
+      "url": "https://techfundingnews.com/leyden-labs-40m-nasal-spray-flu-protection/",
       "priority": 3
     },
-    "remind_at": "2026-06-25T04:38:43.341255-07:00"
+    "remind_at": "2026-06-25T06:57:01.076192-07:00"
   },
   {
     "item": {
-      "company": "Sazabi",
-      "amount": "$8.0M",
+      "company": "Airwallex",
+      "amount": "$320.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/airwallex-raises-320m-at-11b-valuation-to-let-ai-run-your-finance-team-from-day-one/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-25T06:57:04.638955-07:00"
+  },
+  {
+    "item": {
+      "company": "Neurometric",
+      "amount": "$4.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/06/neurometric-token-engineering-agentic-ai-cost-optimization-model-routing-automation-platform-rob-may/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-25T06:57:07.069271-07:00"
+  },
+  {
+    "item": {
+      "company": "Health-tech start-up SuperLiving",
+      "amount": "$7.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTlZKTFBiR0sySTliMDJ4eGNXbUh2dVlOTWt6RXRGY0hhRkppdjZMdHF5dzdmRXBxSkM5OGlwZzM1cWVwZUdoRGktaGpIY2xkY1VpOXJIcnM3ZEt0OTc3Z0Y5bUxockVmR01jVFR1WGFpR1lSaE9NR2xjZ3F2N3hWU29pUDFTeWMzZmpBbVBsQngtN0hWSnVLLVlnMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZjVreUgzZml4Z3VaRnFiRjVNbW9FNDNxdWFBVW11eTdmU0htYlZsTDZHT2tPeVdmcU81eTRjei1oLV9IaHRNMGYwMm96REJYVDdWSmdXcGJ4MER1NEJwY0UxdHFOdGcxU3lJNWxsV2NVdHlod2RXTWcybFlUR1lNTVAxbnRsN3RWaW9fd29iQm1qWjRudFBCNGdCZm5aUFk1Y1lwVERPeTNzRGJuQ2k4SHdqbGh6RG9KS19xZXR3T1JjeXZmX2Y4UnhyRUJibzExNkpITFpDeWnSAd4BQVVfeXFMUGlVNGxHaWZFNU5mQXM3QXI5YVdTSmpKLWx6MWpBSmJmRW52YTUzSmFkYkhrRkc4c192YVJKbVBNeVd1ZXZvYjJGVDNpRFJLdkg0QVRKdW9MeUxMLUV0RDdybkRsOWVwako2NUE3bmpJVUN0bVJvYVgwa3MwUHROUXlWYVIwOVRYVGtDMVJuckhSd3p3NThYY3BNTUFFWjdfN2txUHMzNHRGZVlXMXNaS2E3bU84SmlteFQxQnl0bHo3NVI2V3hNN1Q5WjIyUEVVeVd3U3ltMmFZcllNZl9n?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-06-25T04:38:45.480815-07:00"
+    "remind_at": "2026-06-25T06:57:10.409539-07:00"
   }
 ]
