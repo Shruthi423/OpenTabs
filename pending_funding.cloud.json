@@ -1,100 +1,128 @@
 [
   {
     "item": {
-      "company": "SuperLiving",
-      "amount": "$7.0M",
+      "company": "DRC-Born Yamify",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVU5adXYwWjI2NWUzTHkxRUFrMTlWMlFaN2hrUnJkNDgyMHhNZUtVd0FGR0FnNzdhRjk3b0VoQkFudERDai1MM2tOMVc1cFVXT3lRb2N4UFBLNmdGZ1IzZkh0cmFldjkxUWhQajhvbkFFcnZ5cVktb3gwdFJPcnRSMFZyTU1YUVZGeE41cWZ0cEN4QzNTOHFmR2dpOWhMQzNfR3R1NF9PVkdYaW5xaDlnM1JxOA?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-06-25T09:31:11.015469-07:00"
+  },
+  {
+    "item": {
+      "company": "Netris",
+      "amount": "$15.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcUFOUVdfcHl3Q2VXNkIyb2plc0lONmp5N2tMY1BZeTFLLU84a1NjWU5aMGtwa0RoVENfc2FKNUZhVUxnQm9oeEo3dkFXY3Nyb2hUR3FQQnhpZ1FJTzE2Z2FSQm5BcTlEaFlSZzk2NWtEeENxOC01NzVTNjBIS0ViWE8zS2t0X0VWUzJZUWJlSWZVUGQyempmdGV4dFJUOUFnZy0wSzdnOExoLUJCQVU5aEZGcU1sRExQOHpHNnQtQXFvRkNrMkhDVDdmcVpxMTFnenRKXzRIVQ?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-06-25T09:31:13.473713-07:00"
+  },
+  {
+    "item": {
+      "company": "Bosch and Siemens Energy partner Almetra",
+      "amount": null,
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU0gwRVg1LVlWa3ZTUHRMNUdHWXliTl9yZ1l0MVFKREMwRFlNNm5ZbjhtRFcxVnNBNnlSXy1SQ3J6YVNRWmRPV2NQcmE3T3N6ZEQ2QWx5MUZjbE5Ob2sxY1gySG82M2l2Q1M4R2ljNzRBelhzM2taeEJ6X1JvZmdsS3Q5R0d4Vm13OHhZcXAxNi1aX01FM29JTXQ5Q0YyVXBCU01uZWU3WkV6cDVpbkVCTFB5S3lOQ0phQU4wNFFwOUNqLWcyd1RrTm12czhLQndiVGxHdmpqajk5VnBUZ2YzcGd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZm1Zck5sTjZzMS1CNnVmdDJFdGVZSTRZSXB0WWVHRU94d1ZVVFQyVjZQbDlVZ3ZyWk5JWkhVMGs5QTZBaHdGNnlIMm90SXFsbjhPNTYyVGlOclNFNzcwM3BVcmR3cWlveWhRS094RHEydE9IdmRCUHVUNlZDUklTMklZV0Z0a2RvQWtUVnFabmkzVjczZlV1OWh3ZHY2by0wNUtRVVA2WlVzSi1EeUlwbkozVkF2NHlZaEg2Zk54SnJjbktvUndJOXNvRXo3U1RCcTZIbHVMNmFtaU9aQXc?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-06-25T06:56:51.886829-07:00"
+    "remind_at": "2026-06-25T09:31:16.835001-07:00"
   },
   {
     "item": {
-      "company": "Warp",
-      "amount": "$60.0M",
-      "stage": null,
-      "investors": null,
-      "location": "The New York",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/25/warp-lands-60m-automate-payroll-compliance-hr-ai/",
-      "priority": 3
-    },
-    "remind_at": "2026-06-25T06:56:54.329189-07:00"
-  },
-  {
-    "item": {
-      "company": "Incode acquires Identiq",
-      "amount": "$100.0M",
+      "company": "\u2018He who strikes first wins\u2019",
+      "amount": "$19.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/25/incode-acquires-identiq-commits-100m-privacy-first-identity-tech/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/25/softbank-ceo-masayoshi-son-dismisses-elon-musk-orbital-data-centers/",
       "priority": 3
     },
-    "remind_at": "2026-06-25T06:56:57.786153-07:00"
+    "remind_at": "2026-06-25T09:31:26.959241-07:00"
   },
   {
     "item": {
-      "company": "Gates Foundation backs Leyden Labs\u2019 \u20ac40M",
+      "company": "House Democrats look",
+      "amount": "$1.8B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/25/weaponization-fund-trump-blanche-raskin-jan-6",
+      "priority": 3
+    },
+    "remind_at": "2026-06-25T09:31:30.179596-07:00"
+  },
+  {
+    "item": {
+      "company": "IBM",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/leyden-labs-40m-nasal-spray-flu-protection/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/06/25/ibm-unveils-worlds-first-sub-1nm-chip-with-100-billion-transistors-cuts-power-use-by-70/",
       "priority": 3
     },
-    "remind_at": "2026-06-25T06:57:01.076192-07:00"
+    "remind_at": "2026-06-25T09:31:32.671153-07:00"
   },
   {
     "item": {
-      "company": "Airwallex",
-      "amount": "$320.0M",
+      "company": "$100B in 10 Years",
+      "amount": "$100.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/airwallex-raises-320m-at-11b-valuation-to-let-ai-run-your-finance-team-from-day-one/",
+      "source": "SaaStr",
+      "url": "https://www.saastr.com/what-vcs-are-hunting-today-100b-in-10-years/",
       "priority": 3
     },
-    "remind_at": "2026-06-25T06:57:04.638955-07:00"
+    "remind_at": "2026-06-25T09:31:37.546324-07:00"
   },
   {
     "item": {
-      "company": "Neurometric",
-      "amount": "$4.0M",
+      "company": "Roblox",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "AlleyWatch",
-      "url": "https://www.alleywatch.com/2026/06/neurometric-token-engineering-agentic-ai-cost-optimization-model-routing-automation-platform-rob-may/",
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUDdpRUpnM0kxRG5RSWozNlRndF9SdU03WWpJZEhrRm04YXluR0xkeXc5ZDRwQk1VQlZQX2VaSGdwbnowdkxfeVlQbDJITXVmZjJsUUFsVXo1Rk9mZHRvMXB6dzhJVnBsZVU4RGlYRFRtc09IaW5OVjVQZlpqd28tMmVkZ0duamxvWDlmYkc5MlRfb245YVFzN21wcFZmWUZOWnd4NzRuWmk?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-06-25T06:57:07.069271-07:00"
+    "remind_at": "2026-06-25T09:31:39.942338-07:00"
   },
   {
     "item": {
-      "company": "Health-tech start-up SuperLiving",
-      "amount": "$7.0M",
+      "company": "Alliance-backed fintech Daya",
+      "amount": "$2.4M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZjVreUgzZml4Z3VaRnFiRjVNbW9FNDNxdWFBVW11eTdmU0htYlZsTDZHT2tPeVdmcU81eTRjei1oLV9IaHRNMGYwMm96REJYVDdWSmdXcGJ4MER1NEJwY0UxdHFOdGcxU3lJNWxsV2NVdHlod2RXTWcybFlUR1lNTVAxbnRsN3RWaW9fd29iQm1qWjRudFBCNGdCZm5aUFk1Y1lwVERPeTNzRGJuQ2k4SHdqbGh6RG9KS19xZXR3T1JjeXZmX2Y4UnhyRUJibzExNkpITFpDeWnSAd4BQVVfeXFMUGlVNGxHaWZFNU5mQXM3QXI5YVdTSmpKLWx6MWpBSmJmRW52YTUzSmFkYkhrRkc4c192YVJKbVBNeVd1ZXZvYjJGVDNpRFJLdkg0QVRKdW9MeUxMLUV0RDdybkRsOWVwako2NUE3bmpJVUN0bVJvYVgwa3MwUHROUXlWYVIwOVRYVGtDMVJuckhSd3p3NThYY3BNTUFFWjdfN2txUHMzNHRGZVlXMXNaS2E3bU84SmlteFQxQnl0bHo3NVI2V3hNN1Q5WjIyUEVVeVd3U3ltMmFZcllNZl9n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lMUJIY093dDR4QjBjRkg5VG1rZm1VNlR0bTc2dDJyM3pHTkx3VEx6ZHF1dzhqanhGSmhtV1BHUHk2dEdqaTlDRVphRTlLdlNWMHE4MG40RmUwdmFFeldFRGRocw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-06-25T06:57:10.409539-07:00"
+    "remind_at": "2026-06-25T09:31:43.170264-07:00"
   }
 ]
