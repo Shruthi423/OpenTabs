@@ -1,58 +1,30 @@
 [
   {
     "item": {
-      "company": "Mamdani lives up",
-      "amount": null,
-      "stage": null,
+      "company": "Finnovate",
+      "amount": "$2.0M",
+      "stage": "Series A",
       "investors": null,
-      "location": "New York",
+      "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/26/what-does-zohran-mamdani-rent-freeze-mean-new-york-city/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSTdRWnVkUHNJOGxEMGxwalJibWwxTjFyNEtBZVZqQWRMZkIwOGQwZVR5eV8xNGVmVmdTb1ZFU21mdXI4SExEWjVZdldVLXVfTGRqWlkyenRxMmtpajNERHVfYmVXRENMZktFLVJsY28tX2taZXBzb2lxREd0bFFrMUtNd2hjd1RLc0E4bEFPUFBtSXpCM01UbDExWVdnUDhZMGJFRl94b3ByLU9ra1AzdnZ0Y0ZlYmIxOWJfaA?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-06-26T10:28:23.185676-07:00"
+    "remind_at": "2026-06-26T12:22:26.135155-07:00"
   },
   {
     "item": {
-      "company": "Newsom calls",
-      "amount": null,
+      "company": "Swatch",
+      "amount": "$170.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/26/newsom-wealth-tax-federal-california-2028-presidential/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/06/26/swatch-seeks-record-170m-in-damages-from-samsung-in-uks-biggest-watch-trademark-lawsuit/",
       "priority": 3
     },
-    "remind_at": "2026-06-26T10:28:26.161794-07:00"
-  },
-  {
-    "item": {
-      "company": "Nobody's sure where the Federal Reserve",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/26/kevin-warsh-fed-rates-guidance",
-      "priority": 3
-    },
-    "remind_at": "2026-06-26T10:28:29.177254-07:00"
-  },
-  {
-    "item": {
-      "company": "Three finalists",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "New York",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/26/fda-finalists-white-house-trump-makary",
-      "priority": 3
-    },
-    "remind_at": "2026-06-26T10:28:32.050704-07:00"
+    "remind_at": "2026-06-26T12:22:28.354693-07:00"
   }
 ]
