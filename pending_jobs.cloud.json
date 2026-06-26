@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "job": {
+      "title": "Brand Designer",
+      "company": "Infisical (W23)",
+      "location": "San Francisco, CA, US / Remote (US; CA; BR)",
+      "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88824&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27664",
+      "salary": "$100K - $180K",
+      "description": "Unified platform for secrets, certs, and privileged access management",
+      "posted_at": "Recently",
+      "source": "Y Combinator",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-06-25T19:23:38.802309-07:00"
+  }
+]

@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "Biomechanical Engineer Yinka Ogunbiyi",
-      "amount": "$7.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdktOTWJIdjRVRG5tanNEaHpZTTE4ZXRnS2JPOTAxX3NxNEtLeDVQNnJNR2JUSEFpMGl4VFRON0RrdUxIY1U2RVRTUFNPX29CRUU3QXpSWDdHQndtdkdueTRPSDliTXFsczZrSDRvMDdub3pucXdqU3U1ZmJhYXNZdHNIdDdHQVk?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-06-25T17:14:52.231492-07:00"
-  },
-  {
-    "item": {
-      "company": "Scaled Cognition",
-      "amount": "$100.0M",
+      "company": "Sail Research",
+      "amount": "$80.0M",
       "stage": "Series A",
-      "investors": null,
+      "investors": "Sequoia",
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/25/scaled-cognition-nabs-100m-automate-high-stakes-customer-interactions/",
-      "priority": 8
+      "url": "https://siliconangle.com/2026/06/25/sail-research-raises-80m-optimize-long-horizon-ai-agents/",
+      "priority": 11
     },
-    "remind_at": "2026-06-25T17:14:55.308901-07:00"
+    "remind_at": "2026-06-25T19:24:00.235044-07:00"
   },
   {
     "item": {
-      "company": "Nebulock",
-      "amount": "$25.0M",
+      "company": "DOJ ordered",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/25/nebulock-raises-25m-expand-hunt-first-security-platform/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order",
       "priority": 3
     },
-    "remind_at": "2026-06-25T17:14:57.669921-07:00"
+    "remind_at": "2026-06-25T19:24:03.181188-07:00"
   }
 ]

@@ -10010,5 +10010,35 @@
     "roles": [],
     "first_seen": "2026-06-25T16:44:58.670074-07:00",
     "status": "active"
+  },
+  "32cb72c3b0147a2d5d61a1ce4e4d9013": {
+    "id": "32cb72c3b0147a2d5d61a1ce4e4d9013",
+    "company": "Sail Research",
+    "amount": "$80.0M",
+    "stage": "Series A",
+    "investors": "Sequoia",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/25/sail-research-raises-80m-optimize-long-horizon-ai-agents/",
+    "priority": 11,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-25T18:54:01.235244-07:00",
+    "status": "active"
+  },
+  "3ef65c64d747fabb46bfa0cc8abafa86": {
+    "id": "3ef65c64d747fabb46bfa0cc8abafa86",
+    "company": "DOJ ordered",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-25T18:54:04.181349-07:00",
+    "status": "active"
   }
 }
