@@ -10346,5 +10346,67 @@
     "roles": [],
     "first_seen": "2026-06-26T02:53:05.193399-07:00",
     "status": "active"
+  },
+  "9db50c00059f6228d883fe6485ff0904": {
+    "id": "9db50c00059f6228d883fe6485ff0904",
+    "company": "The researchers who just",
+    "amount": "$200.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/ex-anthropic-researchers-raise-200m-just-weeks-after-quitting-to-build-ai-that-creates-better-ai/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-26T05:09:10.818395-07:00",
+    "status": "active"
+  },
+  "81478c468b49785bff2261d82270b67c": {
+    "id": "81478c468b49785bff2261d82270b67c",
+    "company": "General Intuition",
+    "amount": "$320.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/khosla-wrote-two-cheques-in-three-months-now-general-intuition-wants-a-third/",
+    "priority": 8,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-06-26T05:09:14.307608-07:00",
+    "status": "active"
+  },
+  "a0aadd7152b8de83b98dabe99567e71b": {
+    "id": "a0aadd7152b8de83b98dabe99567e71b",
+    "company": "Investors",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/investors-funding-black-founder-recommendations/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-26T05:09:16.858818-07:00",
+    "status": "active"
+  },
+  "f80da261ebf09b639991f73fae394bd1": {
+    "id": "f80da261ebf09b639991f73fae394bd1",
+    "company": "JD Vance",
+    "amount": "$4.2M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/06/26/scoop-jd-vance-raises-42-million-in-silicon-valley",
+    "priority": 3,
+    "founders": [
+      "Brian Armstrong"
+    ],
+    "location": "Silicon Valley",
+    "roles": [],
+    "first_seen": "2026-06-26T05:09:20.281345-07:00",
+    "status": "active"
   }
 }
