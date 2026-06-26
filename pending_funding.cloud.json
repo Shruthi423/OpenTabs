@@ -1,86 +1,198 @@
 [
   {
     "item": {
-      "company": "Patronus AI grabs $50M in funding",
-      "amount": "$50.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/25/patronus-ai-grabs-50m-funding-stress-test-ai-agents-simulated-environments/",
-      "priority": 7
-    },
-    "remind_at": "2026-06-25T23:36:30.030082-07:00"
-  },
-  {
-    "item": {
-      "company": "Patronus AI",
-      "amount": "$50.0M",
-      "stage": "Series B",
-      "investors": "Greenfield Partners to scale its AI simulation infrastructure and develop Digital World Models for AI agents",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/patronus-ai-raises-50m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-06-25T23:36:32.209402-07:00"
-  },
-  {
-    "item": {
-      "company": "FINN",
+      "company": "Aristo Intelligence",
       "amount": null,
-      "stage": "Series D",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/finn-raises-140m-series-d/",
-      "priority": 5
+      "url": "https://www.thesaasnews.com/news/aristo-intelligence-raises-pre-seed-funding-from-kakao-ventures-to-build-long-term-wowtale/",
+      "priority": 10
     },
-    "remind_at": "2026-06-25T23:36:34.496929-07:00"
+    "remind_at": "2026-06-26T03:22:29.707961-07:00"
   },
   {
     "item": {
-      "company": "Americans",
+      "company": "Marichi Labs",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/marichi-labs-raises-a-seed-round-to-build-an-ai-first-start-up-leveraging-deep-tech/",
+      "priority": 9
+    },
+    "remind_at": "2026-06-26T03:22:32.026775-07:00"
+  },
+  {
+    "item": {
+      "company": "Kalipso",
+      "amount": "$3.2M",
+      "stage": "Seed",
+      "investors": null,
+      "location": "AI",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/kalipso-raises-3-2m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-06-26T03:22:34.440862-07:00"
+  },
+  {
+    "item": {
+      "company": "Arca",
+      "amount": "$64.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/arca-raises-64m-seed-series-a/",
+      "priority": 9
+    },
+    "remind_at": "2026-06-26T03:22:36.972443-07:00"
+  },
+  {
+    "item": {
+      "company": "Tomo",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/tomo-raises-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-06-26T03:22:39.382401-07:00"
+  },
+  {
+    "item": {
+      "company": "GrailPay",
+      "amount": "$10.5M",
+      "stage": "Series A",
+      "investors": "MissionOG to scale its risk decisioning infrastructure and payments identity network for agentic B2B payments",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/grailpay-raises-10-5m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-06-26T03:22:42.093267-07:00"
+  },
+  {
+    "item": {
+      "company": "El Dorado",
+      "amount": "$9.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/el-dorado-raises-9m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-06-26T03:22:45.167164-07:00"
+  },
+  {
+    "item": {
+      "company": "Alcatraz",
+      "amount": "$50.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/alcatraz-raises-50m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-06-26T03:22:47.352882-07:00"
+  },
+  {
+    "item": {
+      "company": "Float Financial",
+      "amount": "$85.0M",
+      "stage": "Series C",
+      "investors": "Inovia Capital to expand its intelligent financial operating system across Canada",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/float-financial-raises-85m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-06-26T03:22:50.546919-07:00"
+  },
+  {
+    "item": {
+      "company": "Alan Greenspan said 3 years",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/26/greenspan-ford-cea-fed-legacy-death-100/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-26T03:22:53.626502-07:00"
+  },
+  {
+    "item": {
+      "company": "The cost of blind loyalty",
+      "amount": "$1.8B",
+      "stage": null,
+      "investors": null,
+      "location": "Washington",
       "founders": [],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/06/25/inflation-consumer-spending-interest-rates",
+      "url": "https://www.axios.com/2026/06/26/trump-senate-republicans-blind-loyalty",
       "priority": 3
     },
-    "remind_at": "2026-06-25T23:36:36.799145-07:00"
+    "remind_at": "2026-06-26T03:22:56.754354-07:00"
   },
   {
     "item": {
-      "company": "AI Home Services Platform Probook",
-      "amount": "$40.0M",
+      "company": "Trump",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Boston",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/26/trump-voter-fraud-courts-congress-save-act",
+      "priority": 3
+    },
+    "remind_at": "2026-06-26T03:22:58.957653-07:00"
+  },
+  {
+    "item": {
+      "company": "SAZO",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ2tDeGNjYXhXRGdPZThBZWhKbE5NSDBiOW5lUXNibG40MUJQNUEwZEtZZ1cyLXhFZHdXd0p3YmFWUFgwOVRNOXY0eUJxSHl0VEthYl9RRXhTNlB3TGVWaDBhTzhyWjFpUTlfWkZiZHZiUnR6RXNKQjU1bVBUMUpYUzJkemlUODJRZVJLX1Z1ajZOaHR0RVFEOGpUZGNDVG9OaE1jWS1sUnFnRDB4cTJVZ0xjU25xdTF4a0VsOXdyVkJleGcxQXFjWjRiaHhFMVU?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/sazo-secures-investment-from-naver-d2sf-to-expand-ai-powered-cross-border-commerce/",
       "priority": 3
     },
-    "remind_at": "2026-06-25T23:36:39.786188-07:00"
+    "remind_at": "2026-06-26T03:23:01.131193-07:00"
   },
   {
     "item": {
-      "company": "ALS-focused Nura Bio",
-      "amount": "$74.0M",
+      "company": "DLA Piper advises Andreessen Horowitz",
+      "amount": "$30.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWE0ajdJRUF0UjZubDQ5V0MwWGRRT3VmeE5aQ2J2WExBOVNpZW1EaTlCNDltTFlicmVFcER4QzdKNzJNSHBmREY5VnU5OUQ2R0xLMEhuRkE1OXpXaFZHVEg0YWhhc0c3Z3dKTFJKWmh5UXQySF8tQ002TVF5LVVNS1ZJMEJTdG9ZT1dBWlRpbk53bjRkaUxfM1MtUDFTbjJ3eHIxLTEwY3h0cGhoeHZ0YTl3S0l4NnBKVm9V?oc=5",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDNoNFQ4QjM4cGdmXzdPTGVLdDdNajBnczRIWDFTdEdOVXBoNmVqY19GaEtZa2pNTGpYVmRrNjN2NXFEZG1pOTNDNHdnV2c5RWh4Q1ppZ0dDRHlBQ1JqLXFma3ZVWElsa1N6NUZVazh4Nmo5QThuVUFFZ25EajJ2M0Vla0toWjI4ckVBU1JRMDU0bXFYWFUwRTloQVI1dHI5TmpXdEZGQWJDNjVJcFF1OFFvR2J4ei0zZUE?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-06-25T23:36:42.669687-07:00"
+    "remind_at": "2026-06-26T03:23:04.193241-07:00"
   }
 ]
