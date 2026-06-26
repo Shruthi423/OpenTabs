@@ -1,30 +1,86 @@
 [
   {
     "item": {
-      "company": "Sail Research",
-      "amount": "$80.0M",
-      "stage": "Series A",
-      "investors": "Sequoia",
+      "company": "Patronus AI grabs $50M in funding",
+      "amount": "$50.0M",
+      "stage": "Series B",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/25/sail-research-raises-80m-optimize-long-horizon-ai-agents/",
-      "priority": 11
+      "url": "https://siliconangle.com/2026/06/25/patronus-ai-grabs-50m-funding-stress-test-ai-agents-simulated-environments/",
+      "priority": 7
     },
-    "remind_at": "2026-06-25T19:24:00.235044-07:00"
+    "remind_at": "2026-06-25T23:36:30.030082-07:00"
   },
   {
     "item": {
-      "company": "DOJ ordered",
+      "company": "Patronus AI",
+      "amount": "$50.0M",
+      "stage": "Series B",
+      "investors": "Greenfield Partners to scale its AI simulation infrastructure and develop Digital World Models for AI agents",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/patronus-ai-raises-50m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-06-25T23:36:32.209402-07:00"
+  },
+  {
+    "item": {
+      "company": "FINN",
+      "amount": null,
+      "stage": "Series D",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/finn-raises-140m-series-d/",
+      "priority": 5
+    },
+    "remind_at": "2026-06-25T23:36:34.496929-07:00"
+  },
+  {
+    "item": {
+      "company": "Americans",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order",
+      "url": "https://www.axios.com/2026/06/25/inflation-consumer-spending-interest-rates",
       "priority": 3
     },
-    "remind_at": "2026-06-25T19:24:03.181188-07:00"
+    "remind_at": "2026-06-25T23:36:36.799145-07:00"
+  },
+  {
+    "item": {
+      "company": "AI Home Services Platform Probook",
+      "amount": "$40.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ2tDeGNjYXhXRGdPZThBZWhKbE5NSDBiOW5lUXNibG40MUJQNUEwZEtZZ1cyLXhFZHdXd0p3YmFWUFgwOVRNOXY0eUJxSHl0VEthYl9RRXhTNlB3TGVWaDBhTzhyWjFpUTlfWkZiZHZiUnR6RXNKQjU1bVBUMUpYUzJkemlUODJRZVJLX1Z1ajZOaHR0RVFEOGpUZGNDVG9OaE1jWS1sUnFnRDB4cTJVZ0xjU25xdTF4a0VsOXdyVkJleGcxQXFjWjRiaHhFMVU?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-06-25T23:36:39.786188-07:00"
+  },
+  {
+    "item": {
+      "company": "ALS-focused Nura Bio",
+      "amount": "$74.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWE0ajdJRUF0UjZubDQ5V0MwWGRRT3VmeE5aQ2J2WExBOVNpZW1EaTlCNDltTFlicmVFcER4QzdKNzJNSHBmREY5VnU5OUQ2R0xLMEhuRkE1OXpXaFZHVEg0YWhhc0c3Z3dKTFJKWmh5UXQySF8tQ002TVF5LVVNS1ZJMEJTdG9ZT1dBWlRpbk53bjRkaUxfM1MtUDFTbjJ3eHIxLTEwY3h0cGhoeHZ0YTl3S0l4NnBKVm9V?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-06-25T23:36:42.669687-07:00"
   }
 ]
