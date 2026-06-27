@@ -10751,5 +10751,20 @@
     "roles": [],
     "first_seen": "2026-06-26T21:33:12.365302-07:00",
     "status": "active"
+  },
+  "bd80574096d2e21382a11e1717821e31": {
+    "id": "bd80574096d2e21382a11e1717821e31",
+    "company": "Job scams",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/06/27/job-scams-are-getting-better-sophisticated-and-costing-americans-millions/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-27T02:51:10.846783-07:00",
+    "status": "active"
   }
 }

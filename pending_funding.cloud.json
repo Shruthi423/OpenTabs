@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "item": {
+      "company": "Job scams",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/27/job-scams-are-getting-better-sophisticated-and-costing-americans-millions/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-27T03:21:09.846626-07:00"
+  }
+]
