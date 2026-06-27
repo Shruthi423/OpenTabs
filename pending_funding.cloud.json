@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Corgi",
+      "company": "Joe Montana Joins $120M Series C",
+      "amount": "$120.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGVlWnRXRUMzd1NlXzBMLWRMWDBsYTZzclNOVWRmNWNFQjJmMW5haWdNZ2ZJMnFxR0w1dHJZdnQyS3ZhcWFtSHJUX0w3Z3VQV2JoVjhnbS0yaXJzNXFEUVZZT0hWREdLWTVWeGphTExhYml4MDB5YUtFVDg5R2JHTE1tc3RCQ3JHVGRmQWQ2NllyaVFuOU1pVXZXSkw1UndWVGpFX1h6cnA?oc=5",
+      "priority": 6
+    },
+    "remind_at": "2026-06-26T17:50:28.846831-07:00"
+  },
+  {
+    "item": {
+      "company": "OpenAI introduces GPT-5.6",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/26/openai-introduces-gpt-5-6-challenge-claude-mythos-5/",
       "priority": 3
     },
-    "remind_at": "2026-06-26T16:31:46.426371-07:00"
+    "remind_at": "2026-06-26T17:50:32.165078-07:00"
   }
 ]
