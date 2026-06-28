@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Karta",
-      "amount": "$140.0M",
+      "company": "Tension",
+      "amount": null,
+      "stage": "Bridge",
+      "investors": null,
+      "location": "Washington",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/28/maryland-wes-moore-union-problems-2028",
+      "priority": 6
+    },
+    "remind_at": "2026-06-28T15:29:30.800657-07:00"
+  },
+  {
+    "item": {
+      "company": "Trump sets Sept. 1 start",
+      "amount": null,
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "Washington",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVZUVlpNRm1oaDRUMXBHck9telVlY0w2V2VhUWpqa1d3T19LeTFaZFBNRnFnUFdLVkRENE1WV0ZJSDdIU0V3dDBxaFNUc0x2aUtfLXdTTkxlNVZyTC1DeE1nWXJXV3hmay1TSXpMRWxFaEhyc0pPbHE5QlF1RzlzdXRZOVg2U1RObWlfeEZkZ2pJLVRKelVaaE9WYWlYUVZGU3FJb0dnWFk3UQ?oc=5",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/28/trump-dc-golf-course-renovation-east-potomac-links",
       "priority": 3
     },
-    "remind_at": "2026-06-28T14:16:47.366207-07:00"
+    "remind_at": "2026-06-28T15:29:33.750715-07:00"
   }
 ]

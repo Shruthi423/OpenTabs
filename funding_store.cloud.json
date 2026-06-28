@@ -11143,5 +11143,35 @@
     "roles": [],
     "first_seen": "2026-06-28T13:46:48.366376-07:00",
     "status": "active"
+  },
+  "be6b3523121bbe4eff85897286d6a6b0": {
+    "id": "be6b3523121bbe4eff85897286d6a6b0",
+    "company": "Tension",
+    "amount": "Undisclosed",
+    "stage": "Bridge",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/06/28/maryland-wes-moore-union-problems-2028",
+    "priority": 6,
+    "founders": [],
+    "location": "Washington",
+    "roles": [],
+    "first_seen": "2026-06-28T14:59:31.800812-07:00",
+    "status": "active"
+  },
+  "5a0aa0ea06b57b9dd62e6f1a64abae59": {
+    "id": "5a0aa0ea06b57b9dd62e6f1a64abae59",
+    "company": "Trump sets Sept. 1 start",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/06/28/trump-dc-golf-course-renovation-east-potomac-links",
+    "priority": 3,
+    "founders": [],
+    "location": "Washington",
+    "roles": [],
+    "first_seen": "2026-06-28T14:59:34.750868-07:00",
+    "status": "active"
   }
 }
