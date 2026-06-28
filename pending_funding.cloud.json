@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Employees Unlock The",
-      "amount": "$3.0M",
+      "company": "Anthropic\u2019s Alibaba fight",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Washington",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/28/anthropic-alibaba-fight-raises-ipo-question-frontier-ai-moat-defensible/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-28T04:10:21.246868-07:00"
+  },
+  {
+    "item": {
+      "company": "More than 3 million college students",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVEtQQW9hQm5rcDZSQ05mWlFqZHF0cXVZT3JfLVM0MHRzME9SUEV6ajVyOHZzeDNzMTlzTDkxYWM1YURxdVFxanFCSzgyUFRTOFA1WGdfUW9weXZLWGlYRUZDdE9IT0JqRml2RXdMMkhndWpIZ3RxckhZbE9uU3YtSEg4TFVuN2hBVExCRzZ0TnIxNFBHRlF0X3NTdkZzemJyZGxEQnFNRElVTVVPblVjNlZtcEQyTGZWSkow?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/28/student-parents-workforce-talent-shortage-child-care-okebugwu/",
       "priority": 3
     },
-    "remind_at": "2026-06-28T01:48:32.786011-07:00"
+    "remind_at": "2026-06-28T04:10:24.602468-07:00"
   }
 ]
