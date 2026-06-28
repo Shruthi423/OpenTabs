@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "NE Origins",
-      "amount": "$2.0M",
+      "company": "Lytmus AI",
+      "amount": null,
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUHFxaEFoVWxRZE4wWEQ5QlVSNzN4WmEzZFhoTGFVano1ODVUTWExbm96VUFMSlFEbktOWF92X3RUd0xsOXJqOHVPRHFycDlDaUpfV0VOZTJpNXlqSkMwdjVGRDE2MUlXNUtIVjNjZ2NzTTJaSzJqU1dfa2FwUFVRUjJLNE1mNnRCSnZHQXFLVXpFdklT?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM0lpamttQlI0bGNzcjdKVVpNMFZiV0VGU2Nudl9nelFGYnp2N2lzYW5KdEpnZk5tQVFKUlBFbDMxWmtHZUhJOUszbktySzRNUlJYTXVwbTdzNl81RnkzSjNrek56eTFGd0NYUHdyUmVBUUlheWVuaGVsckl1eW5UUzJZd3VQZHE2WDVFc2hDX05nLTdxVE1lWHNUbXZpQVl5b2xJQ2llLUJSTk5xV29XbjJ3QmlPd1N1UC0yU0hHWTFmTTF3U25oa2l4bVY4SVlNVVdNYlBhZUZIUdIB3wFBVV95cUxNRDVRYlJyTGVYcTBxR3h2VklCWE9naWkwZXZJN051ZVc0Vm9oM0NRWW9ZRDg1UW1vX0NoMjN1akljYk9GVWRweUpNQWhheVRfNTlZeXRYLW45Z1lrU1VEZGxncEVERzFRaDdCdW4zMGJHN05kbzRYLU9TajFXdkN0WW5lVEJGeUlaTFpPMWxScnJPb0ROWGdXRktHRXdVNl9sTU1zUWdJdjY4emxQTmRZQ25wb0VyMVpUVlNWekhnZWo3eHcyMHd4UzhlOGptdW44YmE0Y2VUcEs2cU81Z0VR?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-06-28T09:12:37.053834-07:00"
-  },
-  {
-    "item": {
-      "company": "How Paris",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Paris",
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/28/paris-seine-river-water-district-cooling-network-pipes-france-heat-wave/",
-      "priority": 3
-    },
-    "remind_at": "2026-06-28T09:12:39.981405-07:00"
+    "remind_at": "2026-06-28T10:19:09.060705-07:00"
   }
 ]
