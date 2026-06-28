@@ -1,30 +1,18 @@
 [
   {
     "item": {
-      "company": "Anthropic\u2019s Alibaba fight",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Washington",
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/28/anthropic-alibaba-fight-raises-ipo-question-frontier-ai-moat-defensible/",
-      "priority": 3
-    },
-    "remind_at": "2026-06-28T04:10:21.246868-07:00"
-  },
-  {
-    "item": {
-      "company": "More than 3 million college students",
-      "amount": null,
+      "company": "Ex-Google engineer",
+      "amount": "$7.2B",
       "stage": null,
       "investors": null,
       "location": null,
-      "founders": [],
+      "founders": [
+        "Arvind Jain"
+      ],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/06/28/student-parents-workforce-talent-shortage-child-care-okebugwu/",
+      "url": "https://fortune.com/2026/06/28/google-sundar-pichai-larry-page-sergey-brin-crazy-trait-ai-ceo-success-trait-career-advice/",
       "priority": 3
     },
-    "remind_at": "2026-06-28T04:10:24.602468-07:00"
+    "remind_at": "2026-06-28T05:39:36.189381-07:00"
   }
 ]

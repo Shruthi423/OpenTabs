@@ -11021,5 +11021,22 @@
     "roles": [],
     "first_seen": "2026-06-28T03:40:25.602626-07:00",
     "status": "active"
+  },
+  "98839cdd0f803823a0f979fb3d3e7200": {
+    "id": "98839cdd0f803823a0f979fb3d3e7200",
+    "company": "Ex-Google engineer",
+    "amount": "$7.2B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/06/28/google-sundar-pichai-larry-page-sergey-brin-crazy-trait-ai-ceo-success-trait-career-advice/",
+    "priority": 3,
+    "founders": [
+      "Arvind Jain"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-28T05:09:37.189555-07:00",
+    "status": "active"
   }
 }
