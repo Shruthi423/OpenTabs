@@ -1,284 +1,184 @@
 [
   {
     "item": {
-      "company": "Zelara",
+      "company": "SuperPlane",
       "amount": null,
       "stage": "Pre-Seed",
-      "investors": null,
-      "location": "Seed Funding Berlin",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/zelara-secures-eur3m-pre-seed-funding/",
-      "priority": 10
-    },
-    "remind_at": "2026-06-29T03:29:17.587842-07:00"
-  },
-  {
-    "item": {
-      "company": "Serpier",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/serpier-raises-eur1-4m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-06-29T03:29:20.060087-07:00"
-  },
-  {
-    "item": {
-      "company": "Wakeline",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": "TechVision Fonds to develop continuously adaptive AI systems that learn in real time",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/wakeline-raises-2-1m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-06-29T03:29:22.534681-07:00"
-  },
-  {
-    "item": {
-      "company": "Techdollar",
-      "amount": "$3.0M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/techdollar-raises-3m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-06-29T03:29:25.002766-07:00"
-  },
-  {
-    "item": {
-      "company": "Supermemory",
-      "amount": "$3.0M",
-      "stage": "Pre-Seed",
-      "investors": "Susa Ventures to scale its memory engine infrastructure for LLMs and AI agents",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/supermemory-raises-3m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-06-29T03:29:27.467141-07:00"
-  },
-  {
-    "item": {
-      "company": "Compri",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": "Seed Round Milan",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/compri-raises-eur3-2m-seed-round/",
-      "priority": 9
-    },
-    "remind_at": "2026-06-29T03:29:29.950905-07:00"
-  },
-  {
-    "item": {
-      "company": "Poseidon",
-      "amount": "$15.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/poseidon-raises-15m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-06-29T03:29:32.404782-07:00"
-  },
-  {
-    "item": {
-      "company": "The Func. Lab",
-      "amount": "$1.5M",
-      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3Zpdms0YVhvenE2aVhjTDFXa3djb0JRcUhRcWZNa0tTeGtsclZBeE1HZktWdHo3TjI4ZDNMNlFhYU5fWE11a3d6RlpJamlPOWJrMk5ReWJoU3pudndhbEcwaGJEcFNZZGw1OTFlMkE2bGd5SXZ3SGZJUU9IM205NjBpbkZWWWR4QjFCTjd6ZURBNXBlaHRVR09kLWpmM0ROZXY3Szc2TmRWdUJkdmNTQXIxMjBVVXp5WXY4enNhMjh0d9IBwgFBVV95cUxPd3Zpdms0YVhvenE2aVhjTDFXa3djb0JRcUhRcWZNa0tTeGtsclZBeE1HZktWdHo3TjI4ZDNMNlFhYU5fWE11a3d6RlpJamlPOWJrMk5ReWJoU3pudndhbEcwaGJEcFNZZGw1OTFlMkE2bGd5SXZ3SGZJUU9IM205NjBpbkZWWWR4QjFCTjd6ZURBNXBlaHRVR09kLWpmM0ROZXY3Szc2TmRWdUJkdmNTQXIxMjBVVXp5WXY4enNhMjh0dw?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdk9HU1hRYjFyZzNqenVobjltUl9CazRGTGdNMDBJUnl4VVd5c0VqaHlyMGp1NmZKT3RCZTBFRGhudHp3aUkxQ0hRNnJWVzdPUGVzVTJUdEZYYmNCVlpPSHpuUFlLQ2lVMWMxSHRxS3hXeGRRMTBscWpxZGl6WldFMTQ0VkFOZldVRDZZTTB2Sl9xeHI3MHlnY0xRc0kzVGN2RDg1MGJZZFIxWGE2RWNQYm95QWMtbVZfY1E?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-06-29T03:29:35.559587-07:00"
+    "remind_at": "2026-06-29T07:38:05.876545-07:00"
   },
   {
     "item": {
-      "company": "The Func. Lab",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa21ScnA0NldFYm15MHJFckNIeHkzYUxpeWJDR2dSdFhGRE9SOV9JRHpCZVgwck5LMGtoRDhMSTZFMTZIYi1IVW5lR2NQYkFobl81ZHE1RFRzQkFrWEpFbHV0ODZERkUyQ1d5allIQ1FteE5mZldCNlM3azRGeElGZDlDSFZXZ3kwLWlJOTdJLVEwamc0MEtFcUNDNHhqN0xKWXFqTHRqOGNCOXpjVHV0elJqYXFRVExEWjA40gG7AUFVX3lxTE5rbVJycDQ2V0VibXkwckVyQ0h4eTNhTGl5YkNHZ1J0WEZET1I5X0lEekJlWDByTkswa2hEOExJNkUxNkhiLUhVbmVHY1BiQWhuXzVkcTVEVHNCQWtYSkVsdXQ4NkRGRTJDV3lqWUhDUW14TmZmV0I2UzdrNEZ4SUZkOUNIVldneTAtaUk5N0ktUTBqZzQwS0VxQ0M0eGo3TEpZcWpMdGo4Y0I5emNUdXR6UmphcVFUTERaMDg?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-06-29T03:29:38.805024-07:00"
-  },
-  {
-    "item": {
-      "company": "EarnOS",
-      "amount": "$18.5M",
-      "stage": "Series A",
-      "investors": "1kx to expand its verified digital advertising platform across global markets",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/earnos-raises-18-5m-pre-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-06-29T03:29:41.161874-07:00"
-  },
-  {
-    "item": {
-      "company": "ANY UNBOXING",
-      "amount": "$20.0M",
+      "company": "Omen AI\u2019s plan",
+      "amount": "$31.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/any-unboxing-raises-20m-series-a/",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
       "priority": 8
     },
-    "remind_at": "2026-06-29T03:29:44.416815-07:00"
+    "remind_at": "2026-06-29T07:38:09.191939-07:00"
   },
   {
     "item": {
-      "company": "OpenArt",
-      "amount": "$30.0M",
+      "company": "Straiker",
+      "amount": "$64.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/openart-raises-30m-series-a/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/06/29/straiker-raises-64m-series-a-as-enterprises-rush-to-secure-ai-agents/",
       "priority": 8
     },
-    "remind_at": "2026-06-29T03:29:46.962682-07:00"
+    "remind_at": "2026-06-29T07:38:11.649995-07:00"
   },
   {
     "item": {
-      "company": "Rocket Reportedly In Talks",
+      "company": "Czech Wultra",
       "amount": null,
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNEJyak1rcEtyRHVRWVpLMHJHeW1sZFV6R2ZYM0k0YzQ2Z0NPQ1lpc041a043LVFxS21LTEFxd2UxY3VJS1haRGJBM3QtcDZGT3lTYVB5UkU1UndBOVVLeXgwbzh0U3R6NzhuOXV2Mmt1dHJCWHJEWThIVW1meVdsVjZ6NmhBNG1SemRYY1cyRmFfNVM1NTlsTTVVeTBvajh3WmU3eGNqUFV3c3I4bXNJVTVaZ0x6RnhJckJHTDgzd2pRRFdCc0V0TklENGc2bnFDeUJMLUwwSkM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmJ0MmNZLVVLZGN6VVZKQmI1Wl94VF9seEY4bXZMT0szVF9FTGNuYU5XMnRoZnN4al9wbGhBRF92dVZaUlNZeWl6QUZhbHZpcXZJMjY4S1ZieDZXU2tadHRmTDQxZU9OaHBxbXN5NlZsYzlNWXk4bmoxUkltTVR3Zl9VNk1lajJCLVF4QkFnaldGR2ZQUVhvejhMcXNpLXBFd2o3RkRfLXkwcWlvYVlhVnl3UFo4UQ?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-06-29T03:29:50.173177-07:00"
+    "remind_at": "2026-06-29T07:38:14.984756-07:00"
   },
   {
     "item": {
-      "company": "The Protein Brewery",
-      "amount": "$20.5M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZlo4RnRHVEJPcm1DS3BTWlBXVC1DUWN5TkJfNXVqVUx4NzhOUFZQUDYxWms1SGxzT01Xa05kMmlXRUNHdVVQVjduNmdLOUlSZ01HS01yQWQzVjhBUkJXUzdVNk1qUXFRVDZjRjhYWlBXLWZSYm1vaHpMYTdkUi16R3N0UVNRalR2TU9pZHFvbmU3QjlOOVJXaTI0UVh2V1pwYW9BNmxzZnZwcUYxTnU1NVVRdkRwZ0Y1QjFkTjlZcDh3Y28?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-06-29T03:29:53.309336-07:00"
-  },
-  {
-    "item": {
-      "company": "The pro-AI movement",
-      "amount": null,
+      "company": "Exits Since 2021",
+      "amount": "$1.0B",
       "stage": null,
-      "investors": "and executives said they want rules, not ad hoc access decisions",
+      "investors": null,
       "location": null,
-      "founders": [
-        "Aaron Levie"
-      ],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/29/trump-ai-model-release-delays-tech-backlash",
+      "founders": [],
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/public/data-billion-dollar-startup-exits-ma-ipo-spcx-q2-2026/",
       "priority": 3
     },
-    "remind_at": "2026-06-29T03:29:56.391262-07:00"
+    "remind_at": "2026-06-29T07:38:18.373173-07:00"
   },
   {
     "item": {
-      "company": "Wayve",
+      "company": "Why BlackRock",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/29/blackrock-nvidia-temasek-betting-billions-quantum-computing/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-29T07:38:22.003658-07:00"
+  },
+  {
+    "item": {
+      "company": "Supreme Court rejects Trump effort",
+      "amount": "$5.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/29/trump-carroll-supreme-court",
+      "priority": 3
+    },
+    "remind_at": "2026-06-29T07:38:25.403086-07:00"
+  },
+  {
+    "item": {
+      "company": "Dinner with Hussein Kanji: On Babylon",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/british-business-bank-600m-uk-tech-portfolio/",
+      "url": "https://techfundingnews.com/hoxton-ventures-hussein-kanji-interview/",
       "priority": 3
     },
-    "remind_at": "2026-06-29T03:29:59.398122-07:00"
+    "remind_at": "2026-06-29T07:38:28.752189-07:00"
   },
   {
     "item": {
-      "company": "Bending Spoons",
-      "amount": "$20.0B",
+      "company": "Rocket Lab",
+      "amount": "$8.0B",
+      "stage": null,
+      "investors": null,
+      "location": "The California",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/06/29/rocket-lab-to-acquire-iridium-in-8-billion-deal-to-challenge-spacex-and-create-new-space-communications-powerhouse/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-29T07:38:33.047901-07:00"
+  },
+  {
+    "item": {
+      "company": "Kalshi in talks",
+      "amount": "$40.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUFcxTG5xOThLbDI0V185Q3pZYWVTVC1Wc3Z1OXU3SjhWckpMMmtVOFNITlRjbHFIVjhJSlBPT29sRkRnSFYxWk51RlY1WGdmWFhGRXhSMEtfNldMcEVBX3Nzb1J6Q25PZGh0WVpFbzhSWEVIM004akwwRG5zQ19lUXdLRFFaRk5aTERPay1qZ0JnVXZudElDdjQxNnVaN2lyOWEtVzZGMXh3Zw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-06-29T07:38:43.472093-07:00"
+  },
+  {
+    "item": {
+      "company": "Arato",
+      "amount": "$10.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JZ0RrMkFCV2NEbm5hdE44Zm5NSHRnRWRrd3VkMTFzNzNFZnFRd0tZN3E1LWpFWVlKUGVfemdUZFVuOTFSbzhaUDFEX0NrcF93MmJkZzlHejV2YnNfR2dFbWdMVDZuVTlRWlhuaw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-06-29T07:38:45.944383-07:00"
+  },
+  {
+    "item": {
+      "company": "MyKare.ai",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQclpia3JCcHBVWFJzaWtlSFU3NlA1a3F5T09hT2FSb1FQdHVnTzVwd2tzQWprdUQwbXZxM1gzcGlhWlhlSFZiMU1RWDN2Tm9vUE9hUUJ3a2U1QnFJRmhWeDlTWnRvbjhXNzRnb1Q5MkQ5Y2V6b3ZDb1JEOUpiZ2xDSzNrTGJiZ9IBhgFBVV95cUxQclpia3JCcHBVWFJzaWtlSFU3NlA1a3F5T09hT2FSb1FQdHVnTzVwd2tzQWprdUQwbXZxM1gzcGlhWlhlSFZiMU1RWDN2Tm9vUE9hUUJ3a2U1QnFJRmhWeDlTWnRvbjhXNzRnb1Q5MkQ5Y2V6b3ZDb1JEOUpiZ2xDSzNrTGJiZw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-06-29T07:38:48.478026-07:00"
+  },
+  {
+    "item": {
+      "company": "London-based Gaussion",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": "London",
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/bending-spoons-is-eyeing-a-20b-ipo-beacon-has-raised-550m-now-londons-circeus-emerges-as-a-new-force-among-ai-native-software-acquirers/",
-      "priority": 3
-    },
-    "remind_at": "2026-06-29T03:30:02.556169-07:00"
-  },
-  {
-    "item": {
-      "company": "Clairva",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNWEI5QlNQRU53UURhZ3pJNW9NcjR0S0RzLTh1bU9mWFVUVDQ0VmtJR1g5YllFZ0hDby15b2dCbUlTUWh1WjJlT25EaWtwU2ZlUnEyLWVfcEt0RmZCSlBKaXc1UDRtNFg3ZW1sZjM1dXpUZU9Sc3RqOU8wZWxfUkNQOU12eWxMRlFZa3ZGaG9YbUFKSTNGbXJkRW1oUzZOdHd0aFd5NzdVNUkyWkxKNXlyejJzX1RtQmJldVpoeTFhSWV3LTVrSVVlRE5MNkpUZk4zUFgwOFFmekZzTWR6VnZxSnN4YmZOcjJqNWcyVFl5MXpYV0o0dkU1S0ZURlBIeE9SUjAyZldpR2pyWDFfLUI1cU8xanFqcmk4eVlwcW1PSFo4NDRDSU9ZZnFXZWYzdFhaNmNENHhtZG1VaFZLNk8zWHZVcEstQVVFNzJ2UXgtbmNoaVZVanZqMG9aVXFpSVJ2OExDbnR6bnlyUTdZYUlaT0lqSXNadkp5RHJ1R1N5dmRodktvMEdDeUxEMzJVMnJwaHk3VVpkSmUzZ9IBmgNBVV95cUxNWEI5QlNQRU53UURhZ3pJNW9NcjR0S0RzLTh1bU9mWFVUVDQ0VmtJR1g5YllFZ0hDby15b2dCbUlTUWh1WjJlT25EaWtwU2ZlUnEyLWVfcEt0RmZCSlBKaXc1UDRtNFg3ZW1sZjM1dXpUZU9Sc3RqOU8wZWxfUkNQOU12eWxMRlFZa3ZGaG9YbUFKSTNGbXJkRW1oUzZOdHd0aFd5NzdVNUkyWkxKNXlyejJzX1RtQmJldVpoeTFhSWV3LTVrSVVlRE5MNkpUZk4zUFgwOFFmekZzTWR6VnZxSnN4YmZOcjJqNWcyVFl5MXpYV0o0dkU1S0ZURlBIeE9SUjAyZldpR2pyWDFfLUI1cU8xanFqcmk4eVlwcW1PSFo4NDRDSU9ZZnFXZWYzdFhaNmNENHhtZG1VaFZLNk8zWHZVcEstQVVFNzJ2UXgtbmNoaVZVanZqMG9aVXFpSVJ2OExDbnR6bnlyUTdZYUlaT0lqSXNadkp5RHJ1R1N5dmRodktvMEdDeUxEMzJVMnJwaHk3VVpkSmUzZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZThNZVk4SUZJT0lOUjRDTDMtemFobVdkRzNId1BXaEc3V3N0QWcxLXlzTU9tMUFWeHRNcmdleDRTZGpJYWE2NUR1VVpMZFRLcFZteElsTHZ3dFBSUzhKX1pkaENfVDlhRExBX3VaR2VCTm8yYi1NOEhmbGhFMndubTNKdmEzQk9CaVI4c2k4azRkd3c5RmpoQ3lDOEh1Q3Z2Qy00Qmduek5OaGkzamtJazRzZ2JvOWEyMFY3WVE4VVJwbWdNVWJXTFlDN3Y2Zw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-06-29T03:30:04.933909-07:00"
-  },
-  {
-    "item": {
-      "company": "Sold a company at 16",
-      "amount": "$3.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOc0E0S0IwODM2V0pfNW5XR1NCem9LTEozUlNLbVVqZHlPbUJkRElHU3NWQ2RlMjU2WWtaa0ZiV1kxZWVnb3AyWWU5Z250WngyVGZuTVV6RHRCQktLX1hpbVcxb1lpOGlORGZKaEdtblR1UXRtTExjaVNOS1YwYkhRcktMZ0FaQ0xGemVYMFVtdk1kU1Nmam5OeFNFU21NX196RnRmcG93V2M3Tk9LQ2V2SkQ1eXhjcks0SzVZblN0VWtqa2lJZVdKbzVZLW9tblNXNVF3VWx5QzNGbmxESllfU3hvVTRlSFhkRy1xU3lPbFlBZzF6cmxXZmdGeTFPWkZoalFJaUlEYVl0ekZ1bG0xckp0OXZGTVBGNU1nT05B0gGjAkFVX3lxTE1Gd1ZQZmVXZnFXbTd4U2J5TDJjRXF4Mk5SZllBSmlFRmNoTE9fQkRJWlRuVGRjRTNqRjVEXzFTbjRwV0lQZHQwVzlPY1YzMVhOLXRaZm1QQ1l5ZEF3Wno2Y0lrbUtqMFlTaHY0cHRsa3FEUkMzenNERExvc3ZsSnd6dG1hODB2M0tTWXFDTXg1N3hFY1BjZWo1eVN3b25UMFM4eVlGNlJZN0ZubXhiQVBraFVCZkN2OS1kdjNNX0QxekdaUWN4eW1rVF90THNId3c0VTBJSV84OTY4VVRGWVJta2oza3VXdlpiRmNOamRCbnpUS2l0b1prNGE5dV8wVl9uZ0Z5b0RSZDdSRmR1QmZtT1R6R1g4ZWNvX0dDMWhyMlZpQQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-06-29T03:30:08.107455-07:00"
-  },
-  {
-    "item": {
-      "company": "Staff Unlock Shares",
-      "amount": "$3.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnBnRGtJZHdFb0p4UU44LVVPTlBzdFJVa1dZRnU1LVZHdS1YTkhtdEtIQXE2b3J3bDN6YVQ5bE4wRlNPVjVkS0hhV2lQLWdaU1gyRjRjRk1kZ01MelAyeDdqamJmcHpzYTRFNEVpd3l4cmI1SkJ0aVlsUU1OWWhac2sweklHdm9IV1Z2X1JjMGh3cDZQTjFncm5qSQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-06-29T03:30:11.498161-07:00"
+    "remind_at": "2026-06-29T07:38:51.797053-07:00"
   }
 ]
