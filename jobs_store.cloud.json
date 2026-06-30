@@ -5499,5 +5499,42 @@
     "first_seen": "2026-06-29T22:56:06.220828-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "2ff9eaa72e76e008ac0cf997d0fb337f": {
+    "id": "2ff9eaa72e76e008ac0cf997d0fb337f",
+    "title": "Sr. Product Designer at Niche",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "$145,600-$170,000,",
+    "url": "https://remotefirstjobs.com/companies/niche/jobs/sr-product-designer-831193",
+    "source": "JobsCollider",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-06-30T02:25:18.170019-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "3293f4e9f9ec20d9bb2fe7e8a8ce8c1f": {
+    "id": "3293f4e9f9ec20d9bb2fe7e8a8ce8c1f",
+    "title": "Sr Technical UX Designer II, XR",
+    "company": "Axon",
+    "location": "Seattle, Washington, United States",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/axon/jobs/7627424003",
+    "source": "\ud83d\udcb0 AXON (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "AXON raised $1.0M",
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-06-30T02:25:44.793926-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
