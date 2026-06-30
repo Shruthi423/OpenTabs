@@ -1,5 +1,35 @@
 [
   {
+    "id": "e183995fb33032e087039804c352720f",
+    "company": "Akro",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zMklwTHBhVGNvSm9HM096dUhTR3I3ZTRibElPbnZ5Wm04N3UwV2lvWXJ4OEtoSUFPNnNSRl9YRW9LTDVOc0tqLTBaTEE2T2VOLWR4ajRuNnRCNHFTcjFhV2NQOWFHLUlqNmVFWnlmN3gxNGx6aFE?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "Singapore",
+    "roles": [],
+    "first_seen": "2026-06-29T18:37:56.074964-07:00",
+    "status": "active"
+  },
+  {
+    "id": "86e784ea9d7f7481aa43c80940b1ecb6",
+    "company": "Space",
+    "amount": "$8.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/29/space-launch-provider-rocket-lab-buy-satellite-operator-iridium-8b/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-29T18:37:53.831524-07:00",
+    "status": "active"
+  },
+  {
     "id": "2e6888f84c01e400fae0ad5b3ca22216",
     "company": "Mirendil",
     "amount": "Undisclosed",
