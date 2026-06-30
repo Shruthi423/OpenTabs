@@ -1,5 +1,56 @@
 [
   {
+    "id": "8892957b2d53871ddbac1e991e712bce",
+    "company": "Taxwire",
+    "amount": "$25.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "AlleyWatch",
+    "url": "https://www.alleywatch.com/2026/06/taxwire-ai-sales-tax-compliance-vat-automation-platform-andrew-rea/",
+    "priority": 3,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Founding Designer",
+        "url": "https://jobs.ashbyhq.com/taxwire/5c6c8d28-474d-41d0-8081-ba6abb6afa88",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-06-30T14:56:52.974651-07:00",
+    "status": "active"
+  },
+  {
+    "id": "f224a08a831e73606c3aaa8c18778c47",
+    "company": "The ultimate guide",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2020/01/21/the-ultimate-guide-to-the-state-of-todays-a-i/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-30T14:56:48.966161-07:00",
+    "status": "active"
+  },
+  {
+    "id": "02b56f597a2c59151f7b2a430b967208",
+    "company": "Stathera",
+    "amount": "$35.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/30/stathera-nabs-35m-make-vacuum-sealed-silicon-oscillators-ai-chips/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-30T14:56:46.058170-07:00",
+    "status": "active"
+  },
+  {
     "id": "b655fd44be7623a0e95799c0a0c4cdaf",
     "company": "AI video platform Liblib",
     "amount": "$300.0M",
