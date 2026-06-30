@@ -12735,5 +12735,50 @@
     ],
     "first_seen": "2026-06-30T11:25:21.921017-07:00",
     "status": "active"
+  },
+  "bf71d12aee3770fdbe6ca54d171ed2d6": {
+    "id": "bf71d12aee3770fdbe6ca54d171ed2d6",
+    "company": "Egypt\u2019s BrainsMingle",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fZ2JYSE1CXzF6clFxWkNqY3Bqb3RPQVN2MnVjX3ZZbGxzdU9BajU4NXpPcGl6c0VMOVkzNzdWS2ZhUzZiem1rdG1iSEFOZDRLbmZpMkFvSGl6aTNIZFhscDc3ZlBEV0hqSVpDVERhcmtacHdxT0Q2UHNsNHg?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-30T13:28:25.562003-07:00",
+    "status": "active"
+  },
+  "d930973b540ad4ea20ac7c01dd39ef49": {
+    "id": "d930973b540ad4ea20ac7c01dd39ef49",
+    "company": "Nvidia competitor Etched",
+    "amount": "$5.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-30T13:28:28.540569-07:00",
+    "status": "active"
+  },
+  "b655fd44be7623a0e95799c0a0c4cdaf": {
+    "id": "b655fd44be7623a0e95799c0a0c4cdaf",
+    "company": "AI video platform Liblib",
+    "amount": "$300.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNczlRdnZUbEM3TU9rT3Brb1Q2cC1zQXFybVBndzBVVkN1bkZPWU9wUzZEV2NDTURYODhDVldzdXV4dXFaaDhNRTBvU1JKQzk5ZmZnVXJjR2haYW9WTXBma2ZXVElJMU90TURodDRxbWx4WDhLdl9QeG5IXzB1THRQNHBMa2FfRGp4OHQtYV9YMkdZTWdZWHU5REFLZw?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-30T13:28:31.435716-07:00",
+    "status": "active"
   }
 }
