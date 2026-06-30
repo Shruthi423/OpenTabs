@@ -1,30 +1,114 @@
 [
   {
     "item": {
-      "company": "Space",
-      "amount": "$8.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/29/space-launch-provider-rocket-lab-buy-satellite-operator-iridium-8b/",
-      "priority": 3
-    },
-    "remind_at": "2026-06-29T19:07:52.831379-07:00"
-  },
-  {
-    "item": {
-      "company": "Akro",
+      "company": "Akro AI",
       "amount": null,
-      "stage": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": "Singapore",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zMklwTHBhVGNvSm9HM096dUhTR3I3ZTRibElPbnZ5Wm04N3UwV2lvWXJ4OEtoSUFPNnNSRl9YRW9LTDVOc0tqLTBaTEE2T2VOLWR4ajRuNnRCNHFTcjFhV2NQOWFHLUlqNmVFWnlmN3gxNGx6aFE?oc=5",
-      "priority": 3
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWZ1MVg4VGhRRVQ0ZVgxYTFMMXBaQWtGZDFLMExtajMyMk5iOTNHbVNrdGlGMGhFS3lPeTZ6dllvTDdlaks5LXMzOXFxM0hNRnR6TFdmV19pRUhGTHlYaU5XdGpsaFhFN1lQZUVOV3Fjd3piT3dCYVFIcmJUQTVWZTg4V2pveUU?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-06-29T19:07:55.074826-07:00"
+    "remind_at": "2026-06-29T23:26:28.366079-07:00"
+  },
+  {
+    "item": {
+      "company": "Coast 4C",
+      "amount": "$2.5M",
+      "stage": "Seed",
+      "investors": "Blue Revolution Fund to scale its digital seaweed supply chain and traceability platform for smallholder farmers",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/coast-4c-raises-2-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-06-29T23:26:31.386589-07:00"
+  },
+  {
+    "item": {
+      "company": "Baz",
+      "amount": "$9.0M",
+      "stage": "Seed",
+      "investors": "Battery Ventures and boldstart ventures to advance its agentic coding and security platform",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/baz-raises-9m-seed-extension/",
+      "priority": 9
+    },
+    "remind_at": "2026-06-29T23:26:33.748851-07:00"
+  },
+  {
+    "item": {
+      "company": "Omen AI",
+      "amount": "$31.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/29/omen-ai-raises-31m-help-data-centers-avoid-costly-downtime-continuous-liquid-coolant-monitoring/",
+      "priority": 8
+    },
+    "remind_at": "2026-06-29T23:26:36.136421-07:00"
+  },
+  {
+    "item": {
+      "company": "CYTUR",
+      "amount": "$3.4M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/cytur-raises-3-4m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-06-29T23:26:38.422358-07:00"
+  },
+  {
+    "item": {
+      "company": "Hera",
+      "amount": "$27.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hera-raises-27m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-06-29T23:26:40.781203-07:00"
+  },
+  {
+    "item": {
+      "company": "Wultra",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/wultra-raises-6-8m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-06-29T23:26:43.025062-07:00"
+  },
+  {
+    "item": {
+      "company": "Mykare",
+      "amount": "$1.0M",
+      "stage": "Bridge",
+      "investors": "Papa",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/mykare-raises-1m-other/",
+      "priority": 6
+    },
+    "remind_at": "2026-06-29T23:26:45.270707-07:00"
   }
 ]
