@@ -1,114 +1,128 @@
 [
   {
     "item": {
-      "company": "Nomerra",
-      "amount": "$2.0M",
+      "company": "BrainsMingle",
+      "amount": null,
       "stage": "Pre-Seed",
-      "investors": "14Peaks Capital to expand its AI platform for private market operations and grow its engineering team",
+      "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/nomerra-lands-2m-pre-seed/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01X1N3c2tvWjMwM2o5QjREckxBOGlBVUxyYlZvREpkRVBEQTBwV2JIZDhpRkhmRmh2eDJrcDNpTnMyeTJkYjhuM0N3Z0l5aFM3WmZqa0ZxMzYtTVlIaEJrUmRoNUx4OUhrbGxhR1lYSmpCMUNvQWNBdVcxTQ?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-06-30T02:55:40.751047-07:00"
+    "remind_at": "2026-06-30T05:28:43.913883-07:00"
   },
   {
     "item": {
-      "company": "Archimede",
+      "company": "Six Robotics",
       "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/archimede-raises-1-5m-seed/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EZkVzU21OZ0REckhVNFdVRXppOU9JdldQWFU4OVhUc3g0cWpQUEdSQzNFRzFiRXNSTGg2aGpwRnZOQTY0SHFlODAwMlAyUDRjY0dRa09SdGdXdXVfeXNLTUd4NW0xN0lsSi0zQmtGR1AtcEZE?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-06-30T02:55:43.048889-07:00"
+    "remind_at": "2026-06-30T05:28:47.116345-07:00"
   },
   {
     "item": {
-      "company": "AXON",
-      "amount": "$1.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/axon-raises-1m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-06-30T02:55:47.242333-07:00"
-  },
-  {
-    "item": {
-      "company": "be-FULL",
+      "company": "Hiway",
       "amount": null,
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/be-full-closes-y-100m-pre-series-a-first-round/",
+      "url": "https://www.thesaasnews.com/news/hiway-raises-y-300m-in-series-a-funding/",
       "priority": 8
     },
-    "remind_at": "2026-06-30T02:55:49.525509-07:00"
+    "remind_at": "2026-06-30T05:28:49.435039-07:00"
   },
   {
     "item": {
-      "company": "GenerativeX",
-      "amount": "$4.0M",
+      "company": "Final Aim",
+      "amount": null,
       "stage": "Series A",
-      "investors": "Nissay Capital to scale its enterprise AI engineering and consulting services",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/generativex-raises-4m-series-a/",
+      "url": "https://www.thesaasnews.com/news/final-aim-raises-pre-series-a-funding/",
       "priority": 8
     },
-    "remind_at": "2026-06-30T02:55:51.788982-07:00"
+    "remind_at": "2026-06-30T05:28:52.751509-07:00"
   },
   {
     "item": {
-      "company": "Should you go",
+      "company": "ALGO ARTIS",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/algo-artis-secures-y-1-538b-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-06-30T05:28:56.010201-07:00"
+  },
+  {
+    "item": {
+      "company": "We Need",
+      "amount": null,
+      "stage": null,
+      "investors": "identify overlooked startups, and make investment decisions both faster and more accurate",
+      "location": null,
+      "founders": [],
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/data-funding-solutions-ai-landgren-gilion/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-30T05:28:59.287373-07:00"
+  },
+  {
+    "item": {
+      "company": "Trump takes his inflation battle",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/06/30/too-hot-work-productivity-decline-gdp-tank/",
+      "url": "https://fortune.com/2026/06/30/trump-inflation-battle-gas-retailers-target-gallon-price/",
       "priority": 3
     },
-    "remind_at": "2026-06-30T02:55:54.777342-07:00"
+    "remind_at": "2026-06-30T05:29:02.476516-07:00"
   },
   {
     "item": {
-      "company": "The AI boom's historical warning",
-      "amount": null,
-      "stage": null,
-      "investors": "have bid up the valuations of companies expected to dominate AI, lenders have financed an unprecedented infrastructure buildout, and suppliers have expanded to meet that demand",
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/30/ai-boom-bis-warning",
-      "priority": 3
-    },
-    "remind_at": "2026-06-30T02:55:57.638104-07:00"
-  },
-  {
-    "item": {
-      "company": "just",
-      "amount": "$7.0M",
+      "company": "Ex-Special Forces founder\u2019s Six Robotics",
+      "amount": "$18.0B",
       "stage": null,
       "investors": null,
-      "location": "London",
+      "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/lucida-ai-7m-seed-duolingo-london/",
+      "url": "https://techfundingnews.com/six-robotics-raises-12m-drone-swarm-software/",
       "priority": 3
     },
-    "remind_at": "2026-06-30T02:55:59.860246-07:00"
+    "remind_at": "2026-06-30T05:29:05.659877-07:00"
+  },
+  {
+    "item": {
+      "company": "Inside Rocket Lab\u2019s $8B plan",
+      "amount": "$8.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/rocket-lab-builds-a-spacex-style-business-with-an-8b-iridium-acquisition/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-30T05:29:08.911124-07:00"
   }
 ]
