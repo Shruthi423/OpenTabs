@@ -1,114 +1,128 @@
 [
   {
     "item": {
-      "company": "Build",
-      "amount": "$8.5M",
-      "stage": "Seed",
-      "investors": "Index Ventures",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/30/build-raises-8-5m-accelerate-industrial-infrastructure-development-project-work/",
-      "priority": 12
-    },
-    "remind_at": "2026-06-30T07:50:13.887305-07:00"
-  },
-  {
-    "item": {
-      "company": "Omnea Will Give Employees $250K",
+      "company": "Norwegian Six Robotics",
       "amount": null,
       "stage": "Seed",
       "investors": null,
-      "location": "London",
+      "location": null,
       "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/startups/omnea-funding-employees-future-founders-freeman/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZWlJFd3FveDJZXzd6dTJacGJnYjRBLWV1SkNWRDkxSy1iVnB0X0JxakxYM2JEX3BmTG1JMFlvSTVwbFhPbjY1ZHlHcFhabno5RWF1WThTUEwtNFVqSDhibm5HYkhTMXpzaVp5cURZWDbSAXBBVV95cUxNWVpSRXdxb3gyWV83enUyWnBiZ2I0QS1ldUpDVkQ5MUstYlZwdF9CcWpMWDNiRF9wZkxtSTBZb0k1cGxYT242NWR5R3BYWm56OUVhdVk4U1BMLTRVakg4Ym5uR2JIUzF6c2laeXFEWVg2?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-06-30T07:50:21.874544-07:00"
+    "remind_at": "2026-06-30T10:06:10.798794-07:00"
   },
   {
     "item": {
-      "company": "Lightspeed backs Pie\u2019s $23.7M",
-      "amount": "$23.7M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/lightspeed-pie-23-7m-ai-search-small-business/",
-      "priority": 8
-    },
-    "remind_at": "2026-06-30T07:50:24.930268-07:00"
-  },
-  {
-    "item": {
-      "company": "Premier League Lacrosse adds Rob Mac",
-      "amount": "$100.0M",
-      "stage": null,
-      "investors": "Ares funds and New York Liberty owner Joe Tsai, also included a minority equity investment from ESPN",
-      "location": "New York",
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/30/premier-league-lacrosse-rob-mac-glen-powell-joe-tsai-ares-espn/",
-      "priority": 3
-    },
-    "remind_at": "2026-06-30T07:50:27.825195-07:00"
-  },
-  {
-    "item": {
-      "company": "America\u2019s getting a heat dome",
+      "company": "America added more than 1",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/06/30/heat-dome-eastern-us-july-fourth-climate-explainer/",
+      "url": "https://fortune.com/2026/06/30/everyday-millionaire-how-much-to-feel-rich-ubs-wealth-report/",
       "priority": 3
     },
-    "remind_at": "2026-06-30T07:50:30.702640-07:00"
+    "remind_at": "2026-06-30T10:06:13.831140-07:00"
   },
   {
     "item": {
-      "company": "Pie",
-      "amount": "$19.5M",
+      "company": "AWS",
+      "amount": "$1.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/30/pie-launches-19-5m-bring-ai-marketing-small-businesses/",
+      "url": "https://siliconangle.com/2026/06/30/aws-launches-forward-deployed-engineering-team-speed-enterprise-agentic-ai-adoption/",
       "priority": 3
     },
-    "remind_at": "2026-06-30T07:50:32.854212-07:00"
+    "remind_at": "2026-06-30T10:06:16.047134-07:00"
   },
   {
     "item": {
-      "company": "Ex-Special Forces founder\u2019s Six Robotics",
+      "company": "LeapXpert",
+      "amount": "$180.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/30/leapxpert-lands-180m-extract-intelligence-governed-enterprise-communications/",
+      "priority": 3
+    },
+    "remind_at": "2026-06-30T10:06:18.253861-07:00"
+  },
+  {
+    "item": {
+      "company": "SCOTUS punts Fed independence question",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/six-robotics-raises-12m-drone-swarm-software/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/30/trump-cook-fed-supreme-court",
       "priority": 3
     },
-    "remind_at": "2026-06-30T07:50:35.812664-07:00"
+    "remind_at": "2026-06-30T10:06:21.163761-07:00"
   },
   {
     "item": {
-      "company": "China\u2019s open-source AI models",
+      "company": "Google's AI boom sends emissions",
       "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/30/google-ai-boom-emissions-power-use",
+      "priority": 3
+    },
+    "remind_at": "2026-06-30T10:06:24.138195-07:00"
+  },
+  {
+    "item": {
+      "company": "Amazon",
+      "amount": "$1.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/06/30/chinas-open-source-ai-models-gain-ground-as-u-s-frontier-ai-faces-new-rollout-restrictions/",
+      "url": "https://techstartups.com/2026/06/30/amazon-launches-1b-ai-engineering-unit-to-help-customers-build-agentic-ai-faster/",
       "priority": 3
     },
-    "remind_at": "2026-06-30T07:50:38.713197-07:00"
+    "remind_at": "2026-06-30T10:06:26.366948-07:00"
+  },
+  {
+    "item": {
+      "company": "Stark",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDY1eHJubGgzMkRtalhxMVdhZkk2YWltNnJNN0lhbEZnLXRPUEJxYWJNTW1zZnlYYzF4Y2VpNU9DMlgzVUxfSk9DYWpWR0tWOTRyUFN0ejV5c09pMjgxREQya0NEZDhRYmR1bnN2czlUVnJxaFVBdWx3czhvT2JQdjRFSk96aUhVQmNZRGVQVmxLenFWRUNLZA?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-06-30T10:06:28.555005-07:00"
+  },
+  {
+    "item": {
+      "company": "Parag Agrawal\u2019s Quiet AI Comeback",
+      "amount": "$2.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTFczdm5tS3lfYW5TZlgwa0gxMU50b2Jwd2EwQ194bmdQdXJXanQ3R1lMYlV3ekxPTzRscUFaYmR3Q25UZWpsbVJaOGE2cGNtbk94LVNfdnI1V2ZuVzlKY3QxRGM5ZmJDVFRoMC0yamdwLUJkeEhZd2t4SjlUZFdLVUdic1dsTmhOVGRMSDlURVhuR3A3RzZUOXNSb2R0SDhBWm9pVEh5SWgxVllzYlQ4RXFR?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-06-30T10:06:31.467175-07:00"
   }
 ]
