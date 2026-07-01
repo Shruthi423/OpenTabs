@@ -12861,5 +12861,20 @@
     "roles": [],
     "first_seen": "2026-06-30T16:07:35.661962-07:00",
     "status": "active"
+  },
+  "199fba266bfbadd1e38645998dfa8a60": {
+    "id": "199fba266bfbadd1e38645998dfa8a60",
+    "company": "Schneider Electric acquires Cognite",
+    "amount": "$3.1B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/30/schneider-electric-acquires-cognite-3-1b-industrial-ai-push/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-06-30T17:21:58.429062-07:00",
+    "status": "active"
   }
 }
