@@ -1,46 +1,16 @@
 [
   {
     "item": {
-      "company": "Venice AI",
-      "amount": "$65.0M",
-      "stage": "Series A",
-      "investors": null,
+      "company": "Together AI",
+      "amount": "$800.0M",
+      "stage": "Series C",
+      "investors": "Aramco Ventures",
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXl1SUkyaUtpMHJNNmdTN3RyQWhKaGp1R2FXcC0tTHB5WWxIRGxkV3RjcnZTSXUtaUR1Um8yNmVDaGZwV3B3YnBhWkJ2dFlNaEwxZ0xNSVgxeUF3S1l0WlYzd2c3TW1fN0tzQjZNX2l4UkdUX2M0UW1DWVhGTU8wMHc3TlBvdHRyaXhwTFAwWlE2eG55emNzR21oZWpabktZLThfQ3Z4bHZZR2VTa3Fnam5qSFd2NUNqdlR4ag?oc=5",
-      "priority": 8
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/01/together-ai-raises-800m-grow-ai-optimized-public-cloud/",
+      "priority": 6
     },
-    "remind_at": "2026-07-01T12:31:42.102050-07:00"
-  },
-  {
-    "item": {
-      "company": "Trump's birthright Plan B",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [
-        "Sean Davis"
-      ],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/01/trump-birth-tourism-crackdown-citizenship",
-      "priority": 3
-    },
-    "remind_at": "2026-07-01T12:31:45.379458-07:00"
-  },
-  {
-    "item": {
-      "company": "Meta makes cloud push",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/01/meta-makes-cloud-push-to-sell-excess-ai-compute-following-spacexs-playbook-as-big-tech-seeks-returns-on-ai-spending/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-01T12:31:48.676272-07:00"
+    "remind_at": "2026-07-01T14:22:28.508132-07:00"
   }
 ]

@@ -13678,5 +13678,20 @@
     "roles": [],
     "first_seen": "2026-07-01T12:01:49.676563-07:00",
     "status": "active"
+  },
+  "e5425719c53baced3795ca76c7c55669": {
+    "id": "e5425719c53baced3795ca76c7c55669",
+    "company": "Together AI",
+    "amount": "$800.0M",
+    "stage": "Series C",
+    "investors": "Aramco Ventures",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/01/together-ai-raises-800m-grow-ai-optimized-public-cloud/",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-01T13:52:29.508321-07:00",
+    "status": "active"
   }
 }
