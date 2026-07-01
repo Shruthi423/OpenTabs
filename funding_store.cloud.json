@@ -13693,5 +13693,20 @@
     "roles": [],
     "first_seen": "2026-07-01T13:52:29.508321-07:00",
     "status": "active"
+  },
+  "e5d77572f24e3fcd3d5c76761ff3a0d7": {
+    "id": "e5d77572f24e3fcd3d5c76761ff3a0d7",
+    "company": "altcoins",
+    "amount": "$1.4B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/01/inside-trumps-1-4-billion-crypto-empire-altcoins-bitcoin-strategy/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-01T15:16:06.706278-07:00",
+    "status": "active"
   }
 }
