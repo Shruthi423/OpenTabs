@@ -13631,5 +13631,52 @@
     "roles": [],
     "first_seen": "2026-07-01T10:00:10.992345-07:00",
     "status": "active"
+  },
+  "572110f2fe265d1233dd39b2b9f1118f": {
+    "id": "572110f2fe265d1233dd39b2b9f1118f",
+    "company": "Venice AI",
+    "amount": "$65.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXl1SUkyaUtpMHJNNmdTN3RyQWhKaGp1R2FXcC0tTHB5WWxIRGxkV3RjcnZTSXUtaUR1Um8yNmVDaGZwV3B3YnBhWkJ2dFlNaEwxZ0xNSVgxeUF3S1l0WlYzd2c3TW1fN0tzQjZNX2l4UkdUX2M0UW1DWVhGTU8wMHc3TlBvdHRyaXhwTFAwWlE2eG55emNzR21oZWpabktZLThfQ3Z4bHZZR2VTa3Fnam5qSFd2NUNqdlR4ag?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-01T12:01:43.102206-07:00",
+    "status": "active"
+  },
+  "9dcf77056a18450c1885baada9d832d4": {
+    "id": "9dcf77056a18450c1885baada9d832d4",
+    "company": "Trump's birthright Plan B",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/01/trump-birth-tourism-crackdown-citizenship",
+    "priority": 3,
+    "founders": [
+      "Sean Davis"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-01T12:01:46.379585-07:00",
+    "status": "active"
+  },
+  "ed6b5d77a5af863c40c8da958803b51c": {
+    "id": "ed6b5d77a5af863c40c8da958803b51c",
+    "company": "Meta makes cloud push",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/07/01/meta-makes-cloud-push-to-sell-excess-ai-compute-following-spacexs-playbook-as-big-tech-seeks-returns-on-ai-spending/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-01T12:01:49.676563-07:00",
+    "status": "active"
   }
 }

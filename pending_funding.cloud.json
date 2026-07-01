@@ -1,144 +1,46 @@
 [
   {
     "item": {
-      "company": "Digiclean",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40UHNrcFVNLUdhWUFERHduSVZaei1VX3AweS1lampnLU4tZHJKcWdpZ044TV9EMm1Xa09CMmhISzJFNDVva0ZaOFpVWWo5aXAwek1CVnVOLVdpRXkxUGNJVFphSXTSAWRBVV95cUxONFBza3BVTS1HYVlBRER3bklWWnotVV9wMHktZWpqZy1OLWRySnFnaWdOOE1fRDJtV2tPQjJoSEsyRTQ1b2tGWjhaVVlqOWlwMHpNQlZ1Ti1XaUV5MVBjSVRaYUl0?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-07-01T10:29:41.682702-07:00"
-  },
-  {
-    "item": {
-      "company": "EquiLibre Technologies",
-      "amount": null,
+      "company": "Venice AI",
+      "amount": "$65.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHpZeG15Wm1ZaUVoY1pTQWhCR3NBYTBxZ2FiVkE0OS01TXVSUnQ4bEp5U1JLczVTOUVKRDNwUm1VaFBxWHJRYldmUkVuZmNFWkdUNXJBM3h2ZGdiN1RvU0M4LU9IYjdON3Y1cGtoOGhaNlVUSkhQVTJUVUwycDJiSkFjLTRmSUpONEtid1JMY0U2blRMM0h5RGhuZGFGZ05GczRMNGd0VFM2VzB3NVBYendBODRWWmM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXl1SUkyaUtpMHJNNmdTN3RyQWhKaGp1R2FXcC0tTHB5WWxIRGxkV3RjcnZTSXUtaUR1Um8yNmVDaGZwV3B3YnBhWkJ2dFlNaEwxZ0xNSVgxeUF3S1l0WlYzd2c3TW1fN0tzQjZNX2l4UkdUX2M0UW1DWVhGTU8wMHc3TlBvdHRyaXhwTFAwWlE2eG55emNzR21oZWpabktZLThfQ3Z4bHZZR2VTa3Fnam5qSFd2NUNqdlR4ag?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-07-01T10:29:43.946472-07:00"
+    "remind_at": "2026-07-01T12:31:42.102050-07:00"
   },
   {
     "item": {
-      "company": "TwelveLabs",
-      "amount": "$100.0M",
-      "stage": "Series B",
-      "investors": "NEA and NAVER Ventures",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/01/twelvelabs-raises-100m-bring-superintelligence-ai-video-models/",
-      "priority": 7
-    },
-    "remind_at": "2026-07-01T10:29:46.202770-07:00"
-  },
-  {
-    "item": {
-      "company": "Autonomous vehicle hype",
+      "company": "Trump's birthright Plan B",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-01T10:29:49.246767-07:00"
-  },
-  {
-    "item": {
-      "company": "Humble Robotics\u2019 CEO",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/podcast/humble-robotics-ceo-says-the-tech-finally-caught-up-to-the-vision-for-autonomous-vehicles/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-01T10:29:52.307628-07:00"
-  },
-  {
-    "item": {
-      "company": "How foodservice giant Sodexo",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-01T10:29:55.330406-07:00"
-  },
-  {
-    "item": {
-      "company": "Evolve or",
-      "amount": "$248.0B",
-      "stage": null,
-      "investors": null,
-      "location": "Palo Alto",
       "founders": [
-        "Nikesh Arora"
+        "Sean Davis"
       ],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/01/ceo-of-palo-alto-networks-nikesh-arora-workers-about-to-face-darwinian-moment-thanks-to-ai-evolve-or-get-cut/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-01T10:29:58.385845-07:00"
-  },
-  {
-    "item": {
-      "company": "Top central bankers align",
-      "amount": null,
-      "stage": null,
-      "investors": "forward guidance",
-      "location": null,
-      "founders": [],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/07/01/warsh-central-banks-ecb-policy",
+      "url": "https://www.axios.com/2026/07/01/trump-birth-tourism-crackdown-citizenship",
       "priority": 3
     },
-    "remind_at": "2026-07-01T10:30:05.267268-07:00"
+    "remind_at": "2026-07-01T12:31:45.379458-07:00"
   },
   {
     "item": {
-      "company": "Oxmiq",
-      "amount": "$35.0M",
+      "company": "Meta makes cloud push",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/01/raja-koduris-ai-startup-oxmiq-raises-35m-to-build-ai-chip-architecture-that-cuts-the-cost-of-custom-ai-silicon/",
+      "url": "https://techstartups.com/2026/07/01/meta-makes-cloud-push-to-sell-excess-ai-compute-following-spacexs-playbook-as-big-tech-seeks-returns-on-ai-spending/",
       "priority": 3
     },
-    "remind_at": "2026-07-01T10:30:07.562829-07:00"
-  },
-  {
-    "item": {
-      "company": "Harvey",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1dhcE5BT1drc1RYVzBvZEZ4LURLTVI3bjAyNFpYMW04NlRySW1sSk0zRWlId0NlSmhycE0zQVhKY0FDQ1dfN2hkeG9SMlhfZEVQOWVzMzZnZnVnVUFVclY3N1puTkVzV0pnTHlmaVhwYVRFMmZtU21Wb1A3dVhubGJXWkJYenl3bVAtbERMTWtBLXBsQWRsLTV0UmtqQ01kclFGMXFudmw?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-01T10:30:09.992221-07:00"
+    "remind_at": "2026-07-01T12:31:48.676272-07:00"
   }
 ]
