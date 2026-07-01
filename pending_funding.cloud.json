@@ -1,214 +1,174 @@
 [
   {
     "item": {
-      "company": "Bianca",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/bianca-raises-500k-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-01T02:27:01.187275-07:00"
-  },
-  {
-    "item": {
-      "company": "Dawnguard",
-      "amount": "$3.4M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/dawnguard-raises-3-4m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-01T02:27:03.763712-07:00"
-  },
-  {
-    "item": {
-      "company": "YoLearn.ai",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": "DataAlpha",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/yolearn-ai-raises-500000-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-01T02:27:06.390453-07:00"
-  },
-  {
-    "item": {
-      "company": "Spense",
-      "amount": "$2.8M",
+      "company": "DeepGrov",
+      "amount": "$1.1M",
       "stage": "Seed",
-      "investors": null,
+      "investors": "Kakao Ventures to accelerate its AI companion platform and expand global operations",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/spense-raises-2-8m-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/deepgrov-raises-1-1m-seed/",
+      "priority": 12
     },
-    "remind_at": "2026-07-01T02:27:09.066697-07:00"
+    "remind_at": "2026-07-01T05:28:19.062056-07:00"
   },
   {
     "item": {
-      "company": "Codeplain",
+      "company": "Appnigma AI",
       "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/codeplain-raises-2-6m-seed/",
+      "url": "https://www.thesaasnews.com/news/appnigma-ai-closes-pre-seed-round-led-by-betaboom-globenewswire/",
       "priority": 9
     },
-    "remind_at": "2026-07-01T02:27:11.617467-07:00"
+    "remind_at": "2026-07-01T05:28:21.437295-07:00"
   },
   {
     "item": {
-      "company": "Lucida AI",
-      "amount": "$7.0M",
+      "company": "Proception.AI",
+      "amount": "$11.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/lucida-ai-raises-7m-seed/",
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdWNTTFBBaC1WbDdsNy16YlF1RzlxQlRxQk4wTUJ3RFVDSG5jZ0FyYXdkc1pMUmV4NGRiZEdsdEo5WE1Sem5DY2ZIRlhYTHFJUTR0Z1BhaGFJcE1feEJQLS02aG9aZmotaUE4UUp5WWlySUREQWtfenJ4STdvVldzVl9Ybw?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-01T02:27:14.170592-07:00"
+    "remind_at": "2026-07-01T05:28:23.730999-07:00"
   },
   {
     "item": {
-      "company": "Acti",
-      "amount": "$5.3M",
-      "stage": "Seed",
-      "investors": null,
-      "location": "Seed Singapore",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/acti-raises-5-3m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-01T02:27:16.697469-07:00"
-  },
-  {
-    "item": {
-      "company": "WAKEI Inc.",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/wakei-inc-raises-jpy130m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-01T02:27:19.235239-07:00"
-  },
-  {
-    "item": {
-      "company": "Dishio Holdings",
-      "amount": "$2.5M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/dishio-holdings-raises-2-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-01T02:27:22.573501-07:00"
-  },
-  {
-    "item": {
-      "company": "Ognomy Sleep",
-      "amount": "$20.0M",
+      "company": "Prague\u2019s EquiLibre",
+      "amount": "$500.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ognomy-sleep-raises-20m-series-a/",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/equilibre-series-a-500m-ai-trading-agents-creandum/",
       "priority": 8
     },
-    "remind_at": "2026-07-01T02:27:26.037523-07:00"
+    "remind_at": "2026-07-01T05:28:26.624419-07:00"
   },
   {
     "item": {
-      "company": "Qashier",
-      "amount": "$6.125M",
-      "stage": "Series A",
-      "investors": "Cocoon Capital to scale its merchant operating system and financial services across Southeast Asia",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/qashier-raises-6-125m-series-a-extension/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-01T02:27:28.567203-07:00"
-  },
-  {
-    "item": {
-      "company": "Data Science Wizards",
-      "amount": "$5.0M",
+      "company": "CYTUR",
+      "amount": "$3.7M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUVhSX2M0OWN0eUpNenY1T29aWWFHUEVYV0RkemRQMldPRzN2a1BicHI0bEsyRlBVZExBcjJyV3NMN3RSMlZuM1BhaGRTYWNuSzJuZGprLS1sRVFYdmY5ZlNQaXpoNkdVRlZfay0zWlhZRUNBSlBKMkFQdldBcTZYY0Y1a3VCaXNWVXV6QTRsVnVkYjdjSFg0a2FlbmhGSzhmZWdDTGZvQVUxUkR6bERaTFhfN0I1aDh4VDdXRjBCTEJMTlg2MnhkUFhqd0JtWndwVEhkdjJoMWV6S1FkX2lqbFMwVzJDUjYyb0p2V0R0SWtfSjQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rMGNwSjZjckNVNWtwcUw1RmxoN3BiVG5raXZpVUxMZmpZNG11SWZvVU5WRE5iRXBlWll1OVBNRlVyX3g3TzhMb05VYVBJeHhnQlBV?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-07-01T02:27:32.065630-07:00"
+    "remind_at": "2026-07-01T05:28:28.772736-07:00"
   },
   {
     "item": {
-      "company": "Higharc",
-      "amount": "$95.0M",
-      "stage": "Series C",
+      "company": "Aligned",
+      "amount": "$60.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/01/aligned-bags-60m-funding-build-ai-native-sales-execution-layer-enterprise-deals/",
+      "priority": 7
+    },
+    "remind_at": "2026-07-01T05:28:30.934344-07:00"
+  },
+  {
+    "item": {
+      "company": "World Cup tickets",
+      "amount": "$1.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/01/inside-trump-finances-earnings-crypto-merch-gifts/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-01T05:28:33.783664-07:00"
+  },
+  {
+    "item": {
+      "company": "UN",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Singapore",
+      "founders": [
+        "Jack Clark",
+        "Aidan Gomez",
+        "Jensen Huang"
+      ],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders",
+      "priority": 3
+    },
+    "remind_at": "2026-07-01T05:28:35.919321-07:00"
+  },
+  {
+    "item": {
+      "company": "Harris",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "New York",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/01/harris-mamdani-progressives-2028",
+      "priority": 3
+    },
+    "remind_at": "2026-07-01T05:28:38.071738-07:00"
+  },
+  {
+    "item": {
+      "company": "Rick Hao moves",
+      "amount": "$50.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/rick-hao-ruya-ventures-50m-solo-deeptech-fund/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-01T05:28:40.969560-07:00"
+  },
+  {
+    "item": {
+      "company": "Bending Spoons",
+      "amount": "$1.68B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/bending-spoons-raises-1-68b-in-nasdaq-debut-valuation-jumps-to-18-4b-from-11b-report/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-01T05:28:43.846166-07:00"
+  },
+  {
+    "item": {
+      "company": "Quantifind",
+      "amount": "$200.0M",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/higharc-raises-95m-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-07-01T02:27:36.216018-07:00"
-  },
-  {
-    "item": {
-      "company": "London-Based Tapestry VC",
-      "amount": "$80.0M",
-      "stage": null,
-      "investors": null,
-      "location": "London",
-      "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/80m-repeat-founders-fund-europe-na-tapestry/",
+      "url": "https://www.thesaasnews.com/news/quantifind-raises-200m-growth-capital/",
       "priority": 3
     },
-    "remind_at": "2026-07-01T02:27:39.432404-07:00"
-  },
-  {
-    "item": {
-      "company": "Nothing and Hopin backer Tapestry VC",
-      "amount": "$80.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [
-        "Eoghan Mc"
-      ],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/tapestry-vc-launches-80m-fund-after-fin-exit/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-01T02:27:42.657690-07:00"
+    "remind_at": "2026-07-01T05:28:47.695468-07:00"
   }
 ]
