@@ -13708,5 +13708,35 @@
     "roles": [],
     "first_seen": "2026-07-01T15:16:06.706278-07:00",
     "status": "active"
+  },
+  "a9de27098633254a3a2cab2c96e4926c": {
+    "id": "a9de27098633254a3a2cab2c96e4926c",
+    "company": "Raja Koduri\u2019s Oxmiq Labs",
+    "amount": "$35.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/01/raja-koduris-oxmiq-labs-raises-35m-lower-design-cost-custom-ai-silicon/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-01T16:46:34.565761-07:00",
+    "status": "active"
+  },
+  "6327449b213ce2426480d201f435b537": {
+    "id": "6327449b213ce2426480d201f435b537",
+    "company": "Venice",
+    "amount": "$65.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/01/venice-raises-65m-1b-valuation-private-uncensored-ai/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-01T16:46:36.717624-07:00",
+    "status": "active"
   }
 }

@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "altcoins",
-      "amount": "$1.4B",
+      "company": "Raja Koduri\u2019s Oxmiq Labs",
+      "amount": "$35.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/01/raja-koduris-oxmiq-labs-raises-35m-lower-design-cost-custom-ai-silicon/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-01T17:16:33.565604-07:00"
+  },
+  {
+    "item": {
+      "company": "Venice",
+      "amount": "$65.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/01/inside-trumps-1-4-billion-crypto-empire-altcoins-bitcoin-strategy/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/01/venice-raises-65m-1b-valuation-private-uncensored-ai/",
       "priority": 3
     },
-    "remind_at": "2026-07-01T15:46:05.706120-07:00"
+    "remind_at": "2026-07-01T17:16:35.717463-07:00"
   }
 ]
