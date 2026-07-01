@@ -1,86 +1,144 @@
 [
   {
     "item": {
-      "company": "Spense",
+      "company": "Digiclean",
       "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaDV0V3I1eldGRl9INTBWa1lGTnZudzY1XzVGYldiNnB3SkpQZXI3OWMzZWJscW9WSUpXcHJDSEFMV1RiTkdLNUo5R2w5R1plREhaNTVRNG5aZ2VFNHN5TG5ZaXZKcnQ1ZS1VUlNqREI3VkFUaFJ4b3VqVzBCcVFRN3M0OXdKMGR6UHU5UTV4WjdjX1NwRFFXTWJ0R1BrQdIBngFBVV95cUxPaDV0V3I1eldGRl9INTBWa1lGTnZudzY1XzVGYldiNnB3SkpQZXI3OWMzZWJscW9WSUpXcHJDSEFMV1RiTkdLNUo5R2w5R1plREhaNTVRNG5aZ2VFNHN5TG5ZaXZKcnQ1ZS1VUlNqREI3VkFUaFJ4b3VqVzBCcVFRN3M0OXdKMGR6UHU5UTV4WjdjX1NwRFFXTWJ0R1BrQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40UHNrcFVNLUdhWUFERHduSVZaei1VX3AweS1lampnLU4tZHJKcWdpZ044TV9EMm1Xa09CMmhISzJFNDVva0ZaOFpVWWo5aXAwek1CVnVOLVdpRXkxUGNJVFphSXTSAWRBVV95cUxONFBza3BVTS1HYVlBRER3bklWWnotVV9wMHktZWpqZy1OLWRySnFnaWdOOE1fRDJtV2tPQjJoSEsyRTQ1b2tGWjhaVVlqOWlwMHpNQlZ1Ti1XaUV5MVBjSVRaYUl0?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-01T08:03:04.812257-07:00"
+    "remind_at": "2026-07-01T10:29:41.682702-07:00"
   },
   {
     "item": {
-      "company": "Hypefy AI",
+      "company": "EquiLibre Technologies",
       "amount": null,
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdUpBb2t2TnNRTGZ3eEg3ZExSNkt1X1JFak5Da1Vta1MyZlpRRnRVMXhGLTRWY3lTMHg4Nl81RVBYNW1fR0treTVHeFhieUFVclJUT25CYjlXeWsxLWxPMC1qbTZWTUxSYkwwcFdFMC1NaG9jeS1yeXNjNTVfUkVRNXpmWDkySUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHpZeG15Wm1ZaUVoY1pTQWhCR3NBYTBxZ2FiVkE0OS01TXVSUnQ4bEp5U1JLczVTOUVKRDNwUm1VaFBxWHJRYldmUkVuZmNFWkdUNXJBM3h2ZGdiN1RvU0M4LU9IYjdON3Y1cGtoOGhaNlVUSkhQVTJUVUwycDJiSkFjLTRmSUpONEtid1JMY0U2blRMM0h5RGhuZGFGZ05GczRMNGd0VFM2VzB3NVBYendBODRWWmM?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-07-01T08:03:07.226837-07:00"
+    "remind_at": "2026-07-01T10:29:43.946472-07:00"
   },
   {
     "item": {
-      "company": "House Democrats erupt in panic",
+      "company": "TwelveLabs",
+      "amount": "$100.0M",
+      "stage": "Series B",
+      "investors": "NEA and NAVER Ventures",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/01/twelvelabs-raises-100m-bring-superintelligence-ai-video-models/",
+      "priority": 7
+    },
+    "remind_at": "2026-07-01T10:29:46.202770-07:00"
+  },
+  {
+    "item": {
+      "company": "Autonomous vehicle hype",
       "amount": null,
       "stage": null,
-      "investors": "New York Mayor Zohran Mamdani unseated Reps",
-      "location": "Denver",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-01T10:29:49.246767-07:00"
+  },
+  {
+    "item": {
+      "company": "Humble Robotics\u2019 CEO",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/podcast/humble-robotics-ceo-says-the-tech-finally-caught-up-to-the-vision-for-autonomous-vehicles/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-01T10:29:52.307628-07:00"
+  },
+  {
+    "item": {
+      "company": "How foodservice giant Sodexo",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-01T10:29:55.330406-07:00"
+  },
+  {
+    "item": {
+      "company": "Evolve or",
+      "amount": "$248.0B",
+      "stage": null,
+      "investors": null,
+      "location": "Palo Alto",
+      "founders": [
+        "Nikesh Arora"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/01/ceo-of-palo-alto-networks-nikesh-arora-workers-about-to-face-darwinian-moment-thanks-to-ai-evolve-or-get-cut/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-01T10:29:58.385845-07:00"
+  },
+  {
+    "item": {
+      "company": "Top central bankers align",
+      "amount": null,
+      "stage": null,
+      "investors": "forward guidance",
+      "location": null,
       "founders": [],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/07/01/melat-kiros-colorado-degette-democrats-reaction",
+      "url": "https://www.axios.com/2026/07/01/warsh-central-banks-ecb-policy",
       "priority": 3
     },
-    "remind_at": "2026-07-01T08:03:10.540024-07:00"
+    "remind_at": "2026-07-01T10:30:05.267268-07:00"
   },
   {
     "item": {
-      "company": "Abu Dhabi\u2019s MGX",
-      "amount": "$49.0B",
+      "company": "Oxmiq",
+      "amount": "$35.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/01/abu-dhabis-mgx-closes-record-49-billion-ai-fund-to-invest-across-ai-infrastructure-chips-and-ai-companies-after-backing-openai-anthropic-and-xai/",
+      "url": "https://techstartups.com/2026/07/01/raja-koduris-ai-startup-oxmiq-raises-35m-to-build-ai-chip-architecture-that-cuts-the-cost-of-custom-ai-silicon/",
       "priority": 3
     },
-    "remind_at": "2026-07-01T08:03:13.808768-07:00"
+    "remind_at": "2026-07-01T10:30:07.562829-07:00"
   },
   {
     "item": {
-      "company": "Microsoft plans",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/01/microsoft-plans-to-lay-off-thousands-as-ai-spending-reshapes-its-workforce/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-01T08:03:17.215442-07:00"
-  },
-  {
-    "item": {
-      "company": "Wharton Graduate",
+      "company": "Harvey",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GTktzS1RhVXJHUmdDbERxZlRLcEhtVmI4bXZRemxTak0zOVJwNFZraGt6Y09abjk5SFphdU4zOXVMSDNzTTNjV3p5THI5ZlpZSWZ5ZkM5dklDeGpPZm1wYTdDa1dHcndPM0NTUTVkUzhxbmY1?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1dhcE5BT1drc1RYVzBvZEZ4LURLTVI3bjAyNFpYMW04NlRySW1sSk0zRWlId0NlSmhycE0zQVhKY0FDQ1dfN2hkeG9SMlhfZEVQOWVzMzZnZnVnVUFVclY3N1puTkVzV0pnTHlmaVhwYVRFMmZtU21Wb1A3dVhubGJXWkJYenl3bVAtbERMTWtBLXBsQWRsLTV0UmtqQ01kclFGMXFudmw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-01T08:03:20.585157-07:00"
+    "remind_at": "2026-07-01T10:30:09.992221-07:00"
   }
 ]
