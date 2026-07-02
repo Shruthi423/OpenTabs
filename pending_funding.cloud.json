@@ -1,44 +1,86 @@
 [
   {
     "item": {
-      "company": "PlayBlue",
-      "amount": "$2.7M",
-      "stage": "Seed",
+      "company": "Oxmiq Labs",
+      "amount": null,
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQmNIOTZHMlZ2ejlBa21sSW0xUlR5YW9nQlFqODR2YXM4ZnRweE5uRHh5UHVfWnVxbHRpTEVmejdud1RBWmtzbDFyV2NwREJ3STFLMllaSnlOSUJKQWRIcVRoekRrZjg3Yk00cllackNZa29yd25DOUdBa0J0VDA4bGFPS0c0WG1oVEgtNl9Qb28wV0xicEZkNWR0akJELUlfVE1xZ19qbll5UnBsQlpkVk5KX242SG5PV0k3Ym5YMjNnMXNDVkVFaTZra0U5c3diQjlfY1lITHVqNFlSNkxpUUd5TWhaRHpyQkNHcmhId1ZqcGYtdlJwYjNxMFB6bFdt0gGAAkFVX3lxTE9CY0g5NkcyVnZ6OUFrbWxJbTFSVHlhb2dCUWo4NHZhczhmdHB4Tm5EeHlQdV9adXFsdGlMRWZ6N253VEFaa3NsMXJXY3BEQndJMUsyWVpKeU5JQkpBZEhxVGh6RGtmODdiTTRyWVpyQ1lrb3J3bkM5R0FrQnRUMDhsYU9LRzRYbWhUSC02X1BvbzBXTGJwRmQ1ZHRqQkQtSV9UTXFnX2puWXlScGxCWmRWTkpfbjZIbk9XSTdiblgyM2cxc0NWRUVpNmtrRTlzd2JCOV9jWUhMdWo0WVI2TGlRR3lNaFpEenJCQ0dyaEh3VmpwZi12UnBiM3EwUHpsV20?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-07-02T10:49:24.495712-07:00"
-  },
-  {
-    "item": {
-      "company": "LinqAlpha",
-      "amount": "$22.0M",
-      "stage": "Series A",
-      "investors": "and public market research Finding an edge in public markets has become harder than ever",
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/02/linqalpha-raises-22m-series-a-to-build-ai-agents-for-institutional-investors-and-public-market-research/",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLXpUN0lDQXd6d2Z3ckJ2MUV3aFFQblRmajVhRDJPZ3VmS2FaSHRHdEVWNWtGY2g4NFhOZFBBS3U2cGJKZnlvM3RjR2FXVUVLNUY5Tm1INFZlaWpIRks2UHlNZDVXLTQ1S2hlTkJ5dTJoZXdYVEZ6eVV5UFdlZVVSaTBvdHB0RFFTX1E?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-07-02T10:49:26.780303-07:00"
+    "remind_at": "2026-07-02T12:27:11.288105-07:00"
   },
   {
     "item": {
-      "company": "A 2-year taste of the office",
-      "amount": "$13.2B",
+      "company": "Trump trots out the C-word",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/europe/article/three-grads-quit-grad-scheme-jobs-built-octopus-investments-13-billion/",
+      "url": "https://fortune.com/2026/07/02/trump-midterms-communism-gen-z-democratic-socialists/",
       "priority": 3
     },
-    "remind_at": "2026-07-02T10:49:29.658355-07:00"
+    "remind_at": "2026-07-02T12:27:14.440434-07:00"
+  },
+  {
+    "item": {
+      "company": "California bans \u2018sell by\u2019 labels",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/02/california-food-label-law-sell-by-ban/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-02T12:27:17.723583-07:00"
+  },
+  {
+    "item": {
+      "company": "Securitize",
+      "amount": "$400.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/02/securitize-is-latest-crypto-company-to-go-public-as-blackrock-backed-firm-sees-stock-jump-3-on-debut/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-02T12:27:19.912494-07:00"
+  },
+  {
+    "item": {
+      "company": "Taylor Swift",
+      "amount": "$26.0M",
+      "stage": null,
+      "investors": null,
+      "location": "New York",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/02/swift-kelce-26-million-charity-wedding-week/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-02T12:27:22.796029-07:00"
+  },
+  {
+    "item": {
+      "company": "America's 250th fireworks party collides",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Washington",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/02/americas-250th-fireworks-party-collides-with-burn-bans",
+      "priority": 3
+    },
+    "remind_at": "2026-07-02T12:27:25.678560-07:00"
   }
 ]
