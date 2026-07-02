@@ -1,5 +1,35 @@
 [
   {
+    "id": "3fdf19813e4eac741d0d1953d1ed1df0",
+    "company": "StirlingX",
+    "amount": "$20.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/02/stirlingx-raises-20m-sovereign-data-intelligence-platform/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-02T15:47:41.693813-07:00",
+    "status": "active"
+  },
+  {
+    "id": "3b4533876922bbfa216bb7bf7e719f60",
+    "company": "like Etched through Arizona connections",
+    "amount": "$300.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-02T15:47:39.285525-07:00",
+    "status": "active"
+  },
+  {
     "id": "31cae5b09689d614347beb67e71a3bcc",
     "company": "ElevenLabs",
     "amount": "$22.0B",
