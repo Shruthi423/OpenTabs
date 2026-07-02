@@ -1,86 +1,44 @@
 [
   {
     "item": {
-      "company": "Oxmiq Labs",
-      "amount": null,
+      "company": "Maalexi",
+      "amount": "$2.8M",
       "stage": "Series A",
       "investors": null,
-      "location": null,
+      "location": "UAE",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLXpUN0lDQXd6d2Z3ckJ2MUV3aFFQblRmajVhRDJPZ3VmS2FaSHRHdEVWNWtGY2g4NFhOZFBBS3U2cGJKZnlvM3RjR2FXVUVLNUY5Tm1INFZlaWpIRks2UHlNZDVXLTQ1S2hlTkJ5dTJoZXdYVEZ6eVV5UFdlZVVSaTBvdHB0RFFTX1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9FVWNQTFpkaHNpdEZIQmJHUENCWDgyc003aHBpTlhLd0VfX1lQY0E5VVIwdlZTMFpQLUdTM3hLNA?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-07-02T12:27:11.288105-07:00"
+    "remind_at": "2026-07-02T13:48:17.070176-07:00"
   },
   {
     "item": {
-      "company": "Trump trots out the C-word",
+      "company": "Trump fights fraud by freezing funding",
       "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/02/trump-midterms-communism-gen-z-democratic-socialists/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-02T12:27:14.440434-07:00"
-  },
-  {
-    "item": {
-      "company": "California bans \u2018sell by\u2019 labels",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/02/california-food-label-law-sell-by-ban/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-02T12:27:17.723583-07:00"
-  },
-  {
-    "item": {
-      "company": "Securitize",
-      "amount": "$400.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/02/securitize-is-latest-crypto-company-to-go-public-as-blackrock-backed-firm-sees-stock-jump-3-on-debut/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-02T12:27:19.912494-07:00"
-  },
-  {
-    "item": {
-      "company": "Taylor Swift",
-      "amount": "$26.0M",
       "stage": null,
       "investors": null,
       "location": "New York",
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/02/swift-kelce-26-million-charity-wedding-week/",
+      "url": "https://fortune.com/2026/07/02/ny-medicaid-fraud-unit-defunded-doj-credit/",
       "priority": 3
     },
-    "remind_at": "2026-07-02T12:27:22.796029-07:00"
+    "remind_at": "2026-07-02T13:48:20.153367-07:00"
   },
   {
     "item": {
-      "company": "America's 250th fireworks party collides",
+      "company": "Join theCUBE July 7",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": "Washington",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/02/americas-250th-fireworks-party-collides-with-burn-bans",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/02/physical-ai-industrial-robotics-machina/",
       "priority": 3
     },
-    "remind_at": "2026-07-02T12:27:25.678560-07:00"
+    "remind_at": "2026-07-02T13:48:23.217064-07:00"
   }
 ]

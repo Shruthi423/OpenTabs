@@ -5953,5 +5953,41 @@
     "first_seen": "2026-07-02T11:56:49.033794-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "beca980e5409f1aaf03dd9d18b2c4b33": {
+    "id": "beca980e5409f1aaf03dd9d18b2c4b33",
+    "title": "Product Designer at Ramp",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://nodesk.co/remote-jobs/ramp-product-designer/",
+    "source": "NoDesk",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-07-02T13:17:49.069948-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "fcbcbf6b403320c0d1791419d475f25f": {
+    "id": "fcbcbf6b403320c0d1791419d475f25f",
+    "title": "Junior Product Designer",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://remoteOK.com/remote-jobs/remote-junior-product-designer-wealthcounsel-llc-1134407",
+    "source": "RemoteOK",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-07-02T13:17:50.622657-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }

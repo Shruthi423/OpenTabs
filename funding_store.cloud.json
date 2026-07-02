@@ -14609,5 +14609,50 @@
     "roles": [],
     "first_seen": "2026-07-02T11:57:26.678750-07:00",
     "status": "active"
+  },
+  "3f99c005442bee523809f1c281333caf": {
+    "id": "3f99c005442bee523809f1c281333caf",
+    "company": "Maalexi",
+    "amount": "$2.8M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9FVWNQTFpkaHNpdEZIQmJHUENCWDgyc003aHBpTlhLd0VfX1lQY0E5VVIwdlZTMFpQLUdTM3hLNA?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": "UAE",
+    "roles": [],
+    "first_seen": "2026-07-02T13:18:18.070365-07:00",
+    "status": "active"
+  },
+  "c30fb78478d3bfbf5efca57f16185150": {
+    "id": "c30fb78478d3bfbf5efca57f16185150",
+    "company": "Trump fights fraud by freezing funding",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/02/ny-medicaid-fraud-unit-defunded-doj-credit/",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-07-02T13:18:21.153547-07:00",
+    "status": "active"
+  },
+  "4b1db3da238d772b8fb92f589177064c": {
+    "id": "4b1db3da238d772b8fb92f589177064c",
+    "company": "Join theCUBE July 7",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/02/physical-ai-industrial-robotics-machina/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-02T13:18:24.217215-07:00",
+    "status": "active"
   }
 }
