@@ -14654,5 +14654,41 @@
     "roles": [],
     "first_seen": "2026-07-02T13:18:24.217215-07:00",
     "status": "active"
+  },
+  "338915165fed6eed12acadb0fdbce1a5": {
+    "id": "338915165fed6eed12acadb0fdbce1a5",
+    "company": "IQM",
+    "amount": "$1.9B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-02T14:43:16.948874-07:00",
+    "status": "active"
+  },
+  "31cae5b09689d614347beb67e71a3bcc": {
+    "id": "31cae5b09689d614347beb67e71a3bcc",
+    "company": "ElevenLabs",
+    "amount": "$22.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/07/02/ai-voice-startup-elevenlabs-eyes-22b-valuation-through-employee-stock-sale/",
+    "priority": 3,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/elevenlabs/89da00ec-11b0-4359-913b-c3a89c1013bc",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-07-02T14:43:19.554380-07:00",
+    "status": "active"
   }
 }

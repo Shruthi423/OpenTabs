@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "Maalexi",
-      "amount": "$2.8M",
-      "stage": "Series A",
-      "investors": null,
-      "location": "UAE",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9FVWNQTFpkaHNpdEZIQmJHUENCWDgyc003aHBpTlhLd0VfX1lQY0E5VVIwdlZTMFpQLUdTM3hLNA?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-07-02T13:48:17.070176-07:00"
-  },
-  {
-    "item": {
-      "company": "Trump fights fraud by freezing funding",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "New York",
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/02/ny-medicaid-fraud-unit-defunded-doj-credit/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-02T13:48:20.153367-07:00"
-  },
-  {
-    "item": {
-      "company": "Join theCUBE July 7",
-      "amount": null,
+      "company": "IQM",
+      "amount": "$1.9B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/02/physical-ai-industrial-robotics-machina/",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
       "priority": 3
     },
-    "remind_at": "2026-07-02T13:48:23.217064-07:00"
+    "remind_at": "2026-07-02T15:13:15.948756-07:00"
+  },
+  {
+    "item": {
+      "company": "ElevenLabs",
+      "amount": "$22.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/02/ai-voice-startup-elevenlabs-eyes-22b-valuation-through-employee-stock-sale/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-02T15:13:18.554234-07:00"
   }
 ]
