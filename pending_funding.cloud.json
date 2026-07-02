@@ -1,58 +1,72 @@
 [
   {
     "item": {
-      "company": "Callie Care",
+      "company": "PlayBlue",
       "amount": null,
-      "stage": "Pre-Seed",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/callie-care-raises-500k-pre-seed/",
-      "priority": 10
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXFSRW11Vkl5MTVhUmtEUW12T0J0dlZzdkVmNnNXdC1pTEwzRk80dEhrZlZCYXFTTjIzWVpleDB5aHZGUmJWNUVOYXVBcHdkUW9PQWZ3RUtPSVRBQnhyNlNVajJpT1JtMElIc3NQRXNxYnRwT3FwZ0VGT3hfQ2g5OWJ4LXA4T0tPUWJnOTllVkVYQl9UdkVkWk5qbVFZOVdWVGNRMDI4alczQmFC0gGsAUFVX3lxTFA5cVJFbXVWSXkxNWFSa0RRbXZPQnR2VnN2RWY2c1d0LWlMTDNGTzR0SGtmVkJhcVNOMjNZWmV4MHlodkZSYlY1RU5hdUFwd2RRb09BZndFS09JVEFCeHI2U1VqMmlPUm0wSUhzc1BFc3FidHBPcXBnRUZPeF9DaDk5YngtcDhPS09RYmc5OWVWRVhCX1R2RWRaTmptUVk5V1ZUY1EwMjhqVzNCYUI?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-07-02T06:50:00.122701-07:00"
+    "remind_at": "2026-07-02T09:10:06.960281-07:00"
   },
   {
     "item": {
-      "company": "Why CFOs should pay attention",
-      "amount": null,
+      "company": "Americans",
+      "amount": "$3.0M",
       "stage": null,
-      "investors": "more than 140 companies A new stablecoin consortium aims to turn idle settlement cash into yield for banks and fintechs",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/02/cfo-open-usd-stablecoin-visa-mastercard-blackrock-financial-instituions/",
+      "url": "https://fortune.com/2026/07/02/americans-escaping-us-for-new-zealand-house-prices-hit-low-only-wealthy-americans-3-million-invest/",
       "priority": 3
     },
-    "remind_at": "2026-07-02T06:50:03.141548-07:00"
+    "remind_at": "2026-07-02T09:10:09.178713-07:00"
   },
   {
     "item": {
-      "company": "Tripo AI",
-      "amount": "$150.0M",
+      "company": "Washington\u2019s ethics establishment reacts",
+      "amount": "$2.2B",
+      "stage": null,
+      "investors": null,
+      "location": "Washington",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/02/trump-2-2-billion-income-disclosure-reactions-eisen-gephardt/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-02T09:10:12.156714-07:00"
+  },
+  {
+    "item": {
+      "company": "CarbonSix",
+      "amount": "$40.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/02/tripo-ai-secures-additional-150m-funding-enhance-3d-world-models/",
+      "url": "https://siliconangle.com/2026/07/02/carbonsix-raises-40m-deliver-intelligent-learning-machines-factory-floor/",
       "priority": 3
     },
-    "remind_at": "2026-07-02T06:50:05.331560-07:00"
+    "remind_at": "2026-07-02T09:10:14.345047-07:00"
   },
   {
     "item": {
-      "company": "News Germany",
-      "amount": null,
+      "company": "Microsoft",
+      "amount": "$2.5B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLUR6cXJYTk1pSlBJUVZCaFNBMHVDcF93RDBkS0ZvcUhhLWNlSVlkZDFpOE5oMjlweTR3SEN5azE2MDFjNXg0aXJiMFRjRFBWRzdfWC1VbmVVOXZCNDVYSDM2NDR1RGNyNzNiOURYN24yeG9Hc0VQRE5Ld1EzWjhGc0dya1MwN3BlR1MxUkFQd1QteTZXbnJrQndEc3Q5ejZYMzhVaWRqZDMzSjhCS05WS0J4X2pQQk0?oc=5",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/02/microsoft-launches-frontier-company-with-2-5b-to-help-enterprises-choose-the-best-ai-models-and-maximize-roi/",
       "priority": 3
     },
-    "remind_at": "2026-07-02T06:50:08.212790-07:00"
+    "remind_at": "2026-07-02T09:10:16.742601-07:00"
   }
 ]
