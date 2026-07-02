@@ -14474,5 +14474,50 @@
     "roles": [],
     "first_seen": "2026-07-02T08:40:17.742767-07:00",
     "status": "active"
+  },
+  "4f2eae0af4d77c66ef1d5b593e972694": {
+    "id": "4f2eae0af4d77c66ef1d5b593e972694",
+    "company": "PlayBlue",
+    "amount": "$2.7M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQmNIOTZHMlZ2ejlBa21sSW0xUlR5YW9nQlFqODR2YXM4ZnRweE5uRHh5UHVfWnVxbHRpTEVmejdud1RBWmtzbDFyV2NwREJ3STFLMllaSnlOSUJKQWRIcVRoekRrZjg3Yk00cllackNZa29yd25DOUdBa0J0VDA4bGFPS0c0WG1oVEgtNl9Qb28wV0xicEZkNWR0akJELUlfVE1xZ19qbll5UnBsQlpkVk5KX242SG5PV0k3Ym5YMjNnMXNDVkVFaTZra0U5c3diQjlfY1lITHVqNFlSNkxpUUd5TWhaRHpyQkNHcmhId1ZqcGYtdlJwYjNxMFB6bFdt0gGAAkFVX3lxTE9CY0g5NkcyVnZ6OUFrbWxJbTFSVHlhb2dCUWo4NHZhczhmdHB4Tm5EeHlQdV9adXFsdGlMRWZ6N253VEFaa3NsMXJXY3BEQndJMUsyWVpKeU5JQkpBZEhxVGh6RGtmODdiTTRyWVpyQ1lrb3J3bkM5R0FrQnRUMDhsYU9LRzRYbWhUSC02X1BvbzBXTGJwRmQ1ZHRqQkQtSV9UTXFnX2puWXlScGxCWmRWTkpfbjZIbk9XSTdiblgyM2cxc0NWRUVpNmtrRTlzd2JCOV9jWUhMdWo0WVI2TGlRR3lNaFpEenJCQ0dyaEh3VmpwZi12UnBiM3EwUHpsV20?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-02T10:19:25.495876-07:00",
+    "status": "active"
+  },
+  "7516cd5475254e585795405621961117": {
+    "id": "7516cd5475254e585795405621961117",
+    "company": "LinqAlpha",
+    "amount": "$22.0M",
+    "stage": "Series A",
+    "investors": "and public market research Finding an edge in public markets has become harder than ever",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/07/02/linqalpha-raises-22m-series-a-to-build-ai-agents-for-institutional-investors-and-public-market-research/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-02T10:19:27.780464-07:00",
+    "status": "active"
+  },
+  "20fa2509d5fd91c7414334496976a06c": {
+    "id": "20fa2509d5fd91c7414334496976a06c",
+    "company": "A 2-year taste of the office",
+    "amount": "$13.2B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/europe/article/three-grads-quit-grad-scheme-jobs-built-octopus-investments-13-billion/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-02T10:19:30.658508-07:00",
+    "status": "active"
   }
 }
