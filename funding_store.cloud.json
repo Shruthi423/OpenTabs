@@ -15140,5 +15140,89 @@
     "roles": [],
     "first_seen": "2026-07-03T05:10:18.780879-07:00",
     "status": "active"
+  },
+  "2c5686bf7083dd9c886d5d39bfd85fec": {
+    "id": "2c5686bf7083dd9c886d5d39bfd85fec",
+    "company": "How the world's top AI models",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/03/anthropic-ai-models-revived-behind-the-scenes",
+    "priority": 3,
+    "founders": [
+      "Tom Brown",
+      "Dario Amodei. Lutnick"
+    ],
+    "location": "Washington",
+    "roles": [],
+    "first_seen": "2026-07-03T07:31:37.565169-07:00",
+    "status": "active"
+  },
+  "f7172cca670f0ce262370810181dda80": {
+    "id": "f7172cca670f0ce262370810181dda80",
+    "company": "Kling AI",
+    "amount": "$3.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/kling-ai-closes-3b-round-at-18b-valuation-as-alibaba-and-tencent-back-chinas-sora-rival/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-03T07:31:39.737432-07:00",
+    "status": "active"
+  },
+  "52f5ac7d6aeac0cdfc9b57f9ada2f796": {
+    "id": "52f5ac7d6aeac0cdfc9b57f9ada2f796",
+    "company": "Kling AI",
+    "amount": "$2.8B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/07/03/kling-ai-raises-2-8b-at-15b-valuation-with-backing-from-alibaba-tencent-and-baidu/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-03T07:31:41.923922-07:00",
+    "status": "active"
+  },
+  "686beefc61617f78514fa89db5958559": {
+    "id": "686beefc61617f78514fa89db5958559",
+    "company": "Airbnb",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzgtZ2Ftb2UyeTNlTkpscVJzTXVIbjRaWllWS29HYzlxM09qSWVkWkpqNzZmbVlFTDQ0cHdtb24wVmhBMkt0NHpxYXU0SUhuZHE1ZUItWFdtdUxhZFNKRVZwampGSzRNZ3RmX1gtM1gzQVUwMUZLWkZlVVVFb3ltdGZrX1RYZjNRajdGQjNwbXhKTmJrb3FlQWhhdHgwODRUYjNjTmNpYmQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-03T07:31:44.155294-07:00",
+    "status": "active"
+  },
+  "f8fcf4bde24f68670a32bf9a11d42096": {
+    "id": "f8fcf4bde24f68670a32bf9a11d42096",
+    "company": "Neuralink",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXcwQlhsSVZ3d2ZKX1p3RlJzM2FReFFKeWQwQ2RGaFpZREVOeHBfQ1Mtd3RFeTBrNDhQcWFwNHBlLWpkZlVrVHpyVEx0ZDN4RW5maFQ5WC1vcWFQVmdVMVlRR1YtbVRQamh5NHMyYy1nUF9JdkZFYkdqMGRWU3I0d1BtRXo2WGs4YzhHbUlMQi02cWVuVUxHWFJGRDE3dmFucHRJR0NxRVRSZ2tC?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "South San Francisco, California, United States",
+    "roles": [
+      {
+        "title": "UI Design Engineer",
+        "url": "https://boards.greenhouse.io/neuralink/jobs/6057476003?gh_jid=6057476003",
+        "location": "South San Francisco, California, United States"
+      }
+    ],
+    "first_seen": "2026-07-03T07:31:47.871734-07:00",
+    "status": "active"
   }
 }

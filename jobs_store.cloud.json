@@ -6025,5 +6025,24 @@
     "first_seen": "2026-07-03T02:58:01.151776-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "793f9394d6547c6b01627812b7681c95": {
+    "id": "793f9394d6547c6b01627812b7681c95",
+    "title": "UI Design Engineer",
+    "company": "Neuralink",
+    "location": "South San Francisco, California, United States",
+    "salary": "Not listed",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6057476003?gh_jid=6057476003",
+    "source": "\ud83d\udcb0 Neuralink (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Neuralink raised a round",
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-07-03T07:31:44.884419-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
