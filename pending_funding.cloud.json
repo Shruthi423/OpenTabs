@@ -1,72 +1,128 @@
 [
   {
     "item": {
-      "company": "Kapture CX",
-      "amount": "$10.0M",
-      "stage": "Series B",
-      "investors": "Bajaj Finserv Ventures to accelerate global expansion and further develop its agentic AI platform",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kapture-cx-raises-10m-pre-series-b/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-03T00:28:29.405093-07:00"
-  },
-  {
-    "item": {
-      "company": "Librari",
-      "amount": "$1.75M",
+      "company": "Talp",
+      "amount": "$20.0M",
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/librari-raises-1-75m-pre-seed/",
+      "url": "https://www.thesaasnews.com/news/talp-raises-20m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-07-03T00:28:31.953962-07:00"
+    "remind_at": "2026-07-03T03:28:37.521769-07:00"
   },
   {
     "item": {
-      "company": "Peak XV\u2019s Surge",
+      "company": "CUNIN",
       "amount": null,
-      "stage": "Seed",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWVc4UU5JdWpncXNnU3FYRl83OXBBemdheGdLRnFqNDB2dXJXaXRYQkZxMVYyWlYzaTlSZWpscE10M09qMkV0dTU4U2VfcjQ3WXplUTJBMS1taWlNbUR1LWFpRGR2WEFMbmxUMnlMaURHQnJ2WVRpZE1ibjZpRktROWV1eHAtRUNibHhv?oc=5",
-      "priority": 9
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbnFhZW9idGlZTXZyemk0TVdfVks0dWNvMzJtbUJKb1NSX2ZLb2drdG14QUVlMVNBSzNqNDQ5VTVydEpEQnlOS3FBc0NvSGtpZFpQd2QxUXIzOW5HemRtUVVIcjJ5dlBVNHdURzRkOXdsMXk0U3hmZjJuc1BKVjJtNTZBR3dMSS1yNFlweUVsNnhJVmRJTFpNVW9ibEtXQjZvSlpJN0VlY18?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-07-03T00:28:35.655261-07:00"
+    "remind_at": "2026-07-03T03:28:39.741664-07:00"
   },
   {
     "item": {
-      "company": "Stenon",
+      "company": "DubGuild",
       "amount": null,
-      "stage": "Series B",
+      "stage": "Seed",
+      "investors": null,
+      "location": "Seed Round Tokyo",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/dubguild-closes-seed-round/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-03T03:28:41.957704-07:00"
+  },
+  {
+    "item": {
+      "company": "Smart Craft",
+      "amount": null,
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/stenon-raises-18m-series-b/",
-      "priority": 7
+      "url": "https://www.thesaasnews.com/news/smart-craft-secures-pre-series-a-extension-round/",
+      "priority": 8
     },
-    "remind_at": "2026-07-03T00:28:38.097027-07:00"
+    "remind_at": "2026-07-03T03:28:45.054914-07:00"
   },
   {
     "item": {
-      "company": "Shield AI",
+      "company": "Hypefy",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUE81MUM1cmU5aDhjWjRpQUlWOVBBdnZ0VHV0QkJNbUxleU9lM3VjRzBkUVZuZnVIS1hLQTVIUFR1M2Z5LTM1ZW5SYlJqRFFPNzVRbEptR0NjOE80M3VQX2JleGZiRE8yTTNDdDRiYTNtRFZnOGs5SjFTVGx4STg2ZFNPUWM2UkVMb0xsTGxaOA?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-03T03:28:47.469731-07:00"
+  },
+  {
+    "item": {
+      "company": "Microsoft\u2019s next big bet isn\u2019t",
+      "amount": "$2.5B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/03/microsoft-big-bet-swiss-army-knife-enterprise-ai-frontier/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-03T03:28:50.481924-07:00"
+  },
+  {
+    "item": {
+      "company": "$25 billion CEO",
+      "amount": "$25.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/03/bupa-ceo-six-hour-interview-hiring-test-wine-make-or-break/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-03T03:28:53.497566-07:00"
+  },
+  {
+    "item": {
+      "company": "\u2018Climate",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Berlin",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/tfn-world-fund-annual-summit-berlin-2026-climate-is-not-dead/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-03T03:28:55.733461-07:00"
+  },
+  {
+    "item": {
+      "company": "Visiblie",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGNVb2t3ZjJGbmNZd1czM2p2NE4xS3gteHZFbGt6YkJLUXlWVnV1UkxuejU1YmFHOElGVHE4Mk1wekMtZjZ2NWJCOWlnQmVjS25jN1FoNlVwRDJmS094TkEyamRyMFV6emZMU0xyVVBHTWx2LUctcEtQS0RZMW1OM253QTJ0S01ma1Mtc0U2aEQ5TlE2U1FkcVRoMXJYZmtkTVNWU2pDS2xyY2Vq?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/visiblie-raises-500k-convertible-loan/",
       "priority": 3
     },
-    "remind_at": "2026-07-03T00:28:40.629688-07:00"
+    "remind_at": "2026-07-03T03:28:58.031733-07:00"
   }
 ]
