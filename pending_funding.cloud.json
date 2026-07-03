@@ -1,75 +1,30 @@
 [
   {
     "item": {
-      "company": "How the world's top AI models",
-      "amount": null,
-      "stage": null,
+      "company": "Luxonis",
+      "amount": "$14.0M",
+      "stage": "Series A",
       "investors": null,
-      "location": "Washington",
-      "founders": [
-        "Tom Brown",
-        "Dario Amodei. Lutnick"
-      ],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/03/anthropic-ai-models-revived-behind-the-scenes",
-      "priority": 3
-    },
-    "remind_at": "2026-07-03T08:01:36.565008-07:00"
-  },
-  {
-    "item": {
-      "company": "Kling AI",
-      "amount": "$3.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
+      "location": "Denver",
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/kling-ai-closes-3b-round-at-18b-valuation-as-alibaba-and-tencent-back-chinas-sora-rival/",
-      "priority": 3
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/03/luxonis-raises-14m-develop-vision-layer-intelligent-automation/",
+      "priority": 8
     },
-    "remind_at": "2026-07-03T08:01:38.737219-07:00"
+    "remind_at": "2026-07-03T09:43:59.497777-07:00"
   },
   {
     "item": {
-      "company": "Kling AI",
-      "amount": "$2.8B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/03/kling-ai-raises-2-8b-at-15b-valuation-with-backing-from-alibaba-tencent-and-baidu/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-03T08:01:40.923727-07:00"
-  },
-  {
-    "item": {
-      "company": "Airbnb",
+      "company": "OpenAI offers feds a stake",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzgtZ2Ftb2UyeTNlTkpscVJzTXVIbjRaWllWS29HYzlxM09qSWVkWkpqNzZmbVlFTDQ0cHdtb24wVmhBMkt0NHpxYXU0SUhuZHE1ZUItWFdtdUxhZFNKRVZwampGSzRNZ3RmX1gtM1gzQVUwMUZLWkZlVVVFb3ltdGZrX1RYZjNRajdGQjNwbXhKTmJrb3FlQWhhdHgwODRUYjNjTmNpYmQ?oc=5",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/03/openai-offers-feds-stake-anthropic-gets-ai-model-jail-meta-wants-neocloud/",
       "priority": 3
     },
-    "remind_at": "2026-07-03T08:01:43.155095-07:00"
-  },
-  {
-    "item": {
-      "company": "Neuralink",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXcwQlhsSVZ3d2ZKX1p3RlJzM2FReFFKeWQwQ2RGaFpZREVOeHBfQ1Mtd3RFeTBrNDhQcWFwNHBlLWpkZlVrVHpyVEx0ZDN4RW5maFQ5WC1vcWFQVmdVMVlRR1YtbVRQamh5NHMyYy1nUF9JdkZFYkdqMGRWU3I0d1BtRXo2WGs4YzhHbUlMQi02cWVuVUxHWFJGRDE3dmFucHRJR0NxRVRSZ2tC?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-03T08:01:46.871535-07:00"
+    "remind_at": "2026-07-03T09:44:02.914036-07:00"
   }
 ]
