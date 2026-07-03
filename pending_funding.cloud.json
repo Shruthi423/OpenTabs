@@ -1,128 +1,86 @@
 [
   {
     "item": {
-      "company": "Talp",
-      "amount": "$20.0M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/talp-raises-20m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-03T03:28:37.521769-07:00"
-  },
-  {
-    "item": {
-      "company": "CUNIN",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbnFhZW9idGlZTXZyemk0TVdfVks0dWNvMzJtbUJKb1NSX2ZLb2drdG14QUVlMVNBSzNqNDQ5VTVydEpEQnlOS3FBc0NvSGtpZFpQd2QxUXIzOW5HemRtUVVIcjJ5dlBVNHdURzRkOXdsMXk0U3hmZjJuc1BKVjJtNTZBR3dMSS1yNFlweUVsNnhJVmRJTFpNVW9ibEtXQjZvSlpJN0VlY18?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-07-03T03:28:39.741664-07:00"
-  },
-  {
-    "item": {
-      "company": "DubGuild",
+      "company": "U-ZERO",
       "amount": null,
       "stage": "Seed",
       "investors": null,
-      "location": "Seed Round Tokyo",
+      "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/dubguild-closes-seed-round/",
+      "url": "https://www.thesaasnews.com/news/u-zero-raises-y-950m-seed-round/",
       "priority": 9
     },
-    "remind_at": "2026-07-03T03:28:41.957704-07:00"
+    "remind_at": "2026-07-03T05:40:02.917761-07:00"
   },
   {
     "item": {
-      "company": "Smart Craft",
+      "company": "CFOne",
       "amount": null,
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/smart-craft-secures-pre-series-a-extension-round/",
+      "url": "https://www.thesaasnews.com/news/cfone-raises-y-170m-in-pre-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-07-03T03:28:45.054914-07:00"
+    "remind_at": "2026-07-03T05:40:05.452109-07:00"
   },
   {
     "item": {
-      "company": "Hypefy",
-      "amount": null,
-      "stage": "Series A",
+      "company": "A $75 billion valuation",
+      "amount": "$75.0B",
+      "stage": null,
+      "investors": "are betting big on Revolut",
+      "location": "London",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/03/75-billion-valuation-london-america-ipo-francesca-carlesi/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-03T05:40:08.851140-07:00"
+  },
+  {
+    "item": {
+      "company": "Trump\u2019s bombshell $2.2 billion income",
+      "amount": "$2.2B",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUE81MUM1cmU5aDhjWjRpQUlWOVBBdnZ0VHV0QkJNbUxleU9lM3VjRzBkUVZuZnVIS1hLQTVIUFR1M2Z5LTM1ZW5SYlJqRFFPNzVRbEptR0NjOE80M3VQX2JleGZiRE8yTTNDdDRiYTNtRFZnOGs5SjFTVGx4STg2ZFNPUWM2UkVMb0xsTGxaOA?oc=5",
-      "priority": 8
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/03/trump-2-2-billion-income-financial-disclosures-new-era-big-player-theory/",
+      "priority": 3
     },
-    "remind_at": "2026-07-03T03:28:47.469731-07:00"
+    "remind_at": "2026-07-03T05:40:12.125955-07:00"
   },
   {
     "item": {
-      "company": "Microsoft\u2019s next big bet isn\u2019t",
+      "company": "$2.5B",
       "amount": "$2.5B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/03/microsoft-big-bet-swiss-army-knife-enterprise-ai-frontier/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-03T03:28:50.481924-07:00"
-  },
-  {
-    "item": {
-      "company": "$25 billion CEO",
-      "amount": "$25.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/03/bupa-ceo-six-hour-interview-hiring-test-wine-make-or-break/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-03T03:28:53.497566-07:00"
-  },
-  {
-    "item": {
-      "company": "\u2018Climate",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Berlin",
-      "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/tfn-world-fund-annual-summit-berlin-2026-climate-is-not-dead/",
+      "url": "https://techfundingnews.com/inside-microsofts-frontier-company-2-5b-to-own-ai-implementation-instead-of-selling-it/",
       "priority": 3
     },
-    "remind_at": "2026-07-03T03:28:55.733461-07:00"
+    "remind_at": "2026-07-03T05:40:14.542166-07:00"
   },
   {
     "item": {
-      "company": "Visiblie",
+      "company": "Sales Retriever",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/visiblie-raises-500k-convertible-loan/",
+      "url": "https://www.thesaasnews.com/news/sales-retriever-raises-y-95-million-in-funding/",
       "priority": 3
     },
-    "remind_at": "2026-07-03T03:28:58.031733-07:00"
+    "remind_at": "2026-07-03T05:40:17.780768-07:00"
   }
 ]
