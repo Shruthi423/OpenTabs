@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "item": {
+      "company": "Owners ID",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT0VQeGdUbC1YdzNaUW90aHc4OW4zRkxRZGZoRVUwWHB5S0lYaUlMMDl2U2EybjRCZ0YtZlBGY2VJQUdUTElZMlRWV2NWS01zRmRyRG9FNTJoYkhnbjNoMThXME5RU2s0MTU0NnhEaGkxaUxaRUp5bzRCQ2RkdXJWRDVuNUtPdVNIX3FEeEdEVW9zWFA5eGswc0lfY3o5ajJx?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-07-04T06:41:28.776691-07:00"
+  },
+  {
+    "item": {
+      "company": "Banza",
+      "amount": "$1.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVa1d4bV80N1YybzJlbklVUkk3djdGQzV5bmdfTHI0WG1ZZzVkanlqZzNwYnNCTFBHc2k4SURiSzZpckVJcHJPbGJqWWdtRDRPX0RqVU0teVlQLUFqSm8xU0pWazNNU1FLNlRtUQ?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-07-04T06:41:31.109669-07:00"
+  },
+  {
+    "item": {
+      "company": "Bayshore Exits Stealth",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmFxNUg1LTgxbkVKN1FOclVJSktUY2FObm53RDdpQjB2WGNWV28xbS1wSkl4WUpkQVQtRnhGdE1UVC0ycGFLZXpyemR3cDJCUTJzSVNnTlRScmprRHQ0UVpsOHh0R1owMWQ4TGJqbi0tbEVnLVlYc2ZzSURGdWFPN0tYT0hYb0k1UHhWMlZjWQ?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-04T06:41:34.016763-07:00"
+  }
+]

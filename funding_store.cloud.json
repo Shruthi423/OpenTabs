@@ -15391,5 +15391,50 @@
     "roles": [],
     "first_seen": "2026-07-04T03:25:56.609107-07:00",
     "status": "active"
+  },
+  "4a16a010af50abe3523c68217e247e2e": {
+    "id": "4a16a010af50abe3523c68217e247e2e",
+    "company": "Owners ID",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT0VQeGdUbC1YdzNaUW90aHc4OW4zRkxRZGZoRVUwWHB5S0lYaUlMMDl2U2EybjRCZ0YtZlBGY2VJQUdUTElZMlRWV2NWS01zRmRyRG9FNTJoYkhnbjNoMThXME5RU2s0MTU0NnhEaGkxaUxaRUp5bzRCQ2RkdXJWRDVuNUtPdVNIX3FEeEdEVW9zWFA5eGswc0lfY3o5ajJx?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-04T06:11:29.776850-07:00",
+    "status": "active"
+  },
+  "e14e248afaf5221210a6c5c49eef9514": {
+    "id": "e14e248afaf5221210a6c5c49eef9514",
+    "company": "Banza",
+    "amount": "$1.0M",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVa1d4bV80N1YybzJlbklVUkk3djdGQzV5bmdfTHI0WG1ZZzVkanlqZzNwYnNCTFBHc2k4SURiSzZpckVJcHJPbGJqWWdtRDRPX0RqVU0teVlQLUFqSm8xU0pWazNNU1FLNlRtUQ?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-04T06:11:32.109856-07:00",
+    "status": "active"
+  },
+  "8569d2a87a294cbd92bbe1ec4ca993e7": {
+    "id": "8569d2a87a294cbd92bbe1ec4ca993e7",
+    "company": "Bayshore Exits Stealth",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmFxNUg1LTgxbkVKN1FOclVJSktUY2FObm53RDdpQjB2WGNWV28xbS1wSkl4WUpkQVQtRnhGdE1UVC0ycGFLZXpyemR3cDJCUTJzSVNnTlRScmprRHQ0UVpsOHh0R1owMWQ4TGJqbi0tbEVnLVlYc2ZzSURGdWFPN0tYT0hYb0k1UHhWMlZjWQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-04T06:11:35.016923-07:00",
+    "status": "active"
   }
 }
