@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "Rosota",
+      "company": "Exina",
       "amount": null,
-      "stage": "Seed",
+      "stage": "Series B",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YVGdjQ0I1OXdQekN2ZEJ6WmJHcERqNXpSTXBuTk9Jelp1WHJaWmNWcURNUm12ZGR5MkNVVUpybVg5SG5lNF9fUy1jMl9HbmEwb1dr?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0T18zOWZkTGt3MHFxY3FKTk5jMzVwc2tSQ2hzeENZWEN1Y1RXdjRmY1FVS1NiMEJ1LWdoekllcEt0VVNnc2pZdWV6REJkZGZsTVprWVBmbDNnSFlvUUNuTzRtYS1YVjVhOW5JSmZBd21Da1BxNHc?oc=5",
+      "priority": 7
     },
-    "remind_at": "2026-07-03T22:35:58.942156-07:00"
-  },
-  {
-    "item": {
-      "company": "Alchemy",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUQ4ald1Q2dFVG1CZmhLRnRySFBQYTExUVRwYWdJMkNHZVppRkFlV2Z1T2pHUUhKd0hqY055WUJ0Z3A5cFZmalJpYkRXX1Q0V2ZWQkhhdXU0ZUxpdE80eHl2ZU1hVUlUb3dta042YUR2aXplNkNSYmNiS250UWwzSF9Ba3pyaHRPMDFPMTQ5NGYzbG41bGVYUjlzd0dPRUlOYl9PY05xNDF0Zw?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-03T22:36:02.715095-07:00"
+    "remind_at": "2026-07-04T01:35:24.502999-07:00"
   }
 ]
