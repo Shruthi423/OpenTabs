@@ -15436,5 +15436,35 @@
     "roles": [],
     "first_seen": "2026-07-04T06:11:35.016923-07:00",
     "status": "active"
+  },
+  "b7d1b0b0f76b9995b9d07c79e064cb96": {
+    "id": "b7d1b0b0f76b9995b9d07c79e064cb96",
+    "company": "Ivory",
+    "amount": "$1.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YR19qb0RVejhBTjR1ekdPMjcwbXpsY2JaQ1NmRjBoREVxczVqM2x4LWhubFA0dDB4US1qbFYxNVZfNEszaFVpeTY4dTVlQi01Y1loVXozdHBPcFhXdmtERmlZNnRwRnNRVzdrcV9tX0d5MkhSTG9wRjBlTQ?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-04T07:46:03.499455-07:00",
+    "status": "active"
+  },
+  "7cacc8fdf04902d0a93cecfba9a72c90": {
+    "id": "7cacc8fdf04902d0a93cecfba9a72c90",
+    "company": "Jozo",
+    "amount": "$2.2M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeEJtYWpXQWJhZ0NvakJ0WjRaNDlodFM1YTFXaEExNldZc0l2LTRnMTA0Yk1pNGdQQmNiRlJ2OTNnWWk4eVY3R3JVQlgtRUZnLWUtS0Ytbng3Wi1ZekpTVTc0OWNuem1XUUdWdG9haVNBNWpGYm1tNVA5QU16UjlLVGF2Nkc2N2p5UmFoMTRzenluZXNNbmpMN0l5X2JVQWM?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-04T07:46:05.766450-07:00",
+    "status": "active"
   }
 }
