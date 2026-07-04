@@ -1,16 +1,16 @@
 [
   {
     "item": {
-      "company": "Exina",
-      "amount": null,
-      "stage": "Series B",
+      "company": "The World Cup",
+      "amount": "$24.0M",
+      "stage": null,
       "investors": null,
-      "location": null,
+      "location": "Dublin",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0T18zOWZkTGt3MHFxY3FKTk5jMzVwc2tSQ2hzeENZWEN1Y1RXdjRmY1FVS1NiMEJ1LWdoekllcEt0VVNnc2pZdWV6REJkZGZsTVprWVBmbDNnSFlvUUNuTzRtYS1YVjVhOW5JSmZBd21Da1BxNHc?oc=5",
-      "priority": 7
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/04/irish-entrepreneurs-locomotive-bingo-millennial-nostalgia/",
+      "priority": 3
     },
-    "remind_at": "2026-07-04T01:35:24.502999-07:00"
+    "remind_at": "2026-07-04T03:55:55.608913-07:00"
   }
 ]
