@@ -15325,5 +15325,41 @@
     "roles": [],
     "first_seen": "2026-07-03T14:45:15.341651-07:00",
     "status": "active"
+  },
+  "ee8bda98d7286e6adb6dc41d9ea3851b": {
+    "id": "ee8bda98d7286e6adb6dc41d9ea3851b",
+    "company": "Rosota",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YVGdjQ0I1OXdQekN2ZEJ6WmJHcERqNXpSTXBuTk9Jelp1WHJaWmNWcURNUm12ZGR5MkNVVUpybVg5SG5lNF9fUy1jMl9HbmEwb1dr?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-03T22:05:59.942315-07:00",
+    "status": "active"
+  },
+  "396d44c17509030025eb410c4c447c9d": {
+    "id": "396d44c17509030025eb410c4c447c9d",
+    "company": "Alchemy",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUQ4ald1Q2dFVG1CZmhLRnRySFBQYTExUVRwYWdJMkNHZVppRkFlV2Z1T2pHUUhKd0hqY055WUJ0Z3A5cFZmalJpYkRXX1Q0V2ZWQkhhdXU0ZUxpdE80eHl2ZU1hVUlUb3dta042YUR2aXplNkNSYmNiS250UWwzSF9Ba3pyaHRPMDFPMTQ5NGYzbG41bGVYUjlzd0dPRUlOYl9PY05xNDF0Zw?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Customer Product Engineer",
+        "url": "https://jobs.ashbyhq.com/alchemy/8f61f190-33a2-454e-a030-e8e5b041bf3b",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-07-03T22:06:03.715222-07:00",
+    "status": "active"
   }
 }

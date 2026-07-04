@@ -6062,5 +6062,24 @@
     "first_seen": "2026-07-03T14:44:51.472571-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "912f97737d0dbf52a83b8fc870810da5": {
+    "id": "912f97737d0dbf52a83b8fc870810da5",
+    "title": "Customer Product Engineer",
+    "company": "Alchemy",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/alchemy/8f61f190-33a2-454e-a030-e8e5b041bf3b",
+    "source": "\ud83d\udcb0 Alchemy (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Alchemy raised a round",
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-07-03T22:06:00.640502-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
