@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "NewLimit",
-      "amount": "$435.0M",
-      "stage": "Series C",
+      "company": "Lawyered",
+      "amount": "$2.5M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfcUNyRGZGb0lkQTEydllHUG52VWgyWHY1ekNKeHNPMnNFanY3NG9ocFJ2bmluNDBJMkYzbTVzSVhHc0NSWmd0RVZja3dvS3drVjhUNWJSaGhDTzk0eFBSZ0NndEV5cXhqNHE3azQzSTd0RXNaSnc?oc=5",
-      "priority": 6
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmNaRVctYUFjVGJDd0Nfc2NGMmZjWDVrcmtiQzJiRmUtaF9wdzVkbVgwamgxQm9KUjFvMUczMEtLeHFxWDBUS0dkQTFWckktR25QYmpWX1NRRF81dU43WWUtem9WcV9iX3JiaTZRLU5US1o0VllpT2JzZkV6YTA4aHlLZkZjV3ZIUGlnRnFmQnNvR0ZPWncyV1ZwbGpxRkx4Z183aA?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-07-05T02:01:42.488824-07:00"
+    "remind_at": "2026-07-05T04:22:15.568591-07:00"
+  },
+  {
+    "item": {
+      "company": "geoSurge",
+      "amount": "$12.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFFscXBCb3NCc2lVaHJ6M3Z4S0NoYURaaVBWbFNaTWxkb2VXMFIxN0RuQWVwalZ3ZHpIUEVyZVRwRXJJR3k0WUNISmQzZVNwcllFSDRNUm1GTDd2RTlCZEpMVjg1RldhcmIwMDhEWWlYZ2MwZlphRTZXTy1tdkkyNGViSzhDaUNtTXpNcUg2QlNSTEVXVHQ0N2lLTHBSWXM?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-05T04:22:17.900744-07:00"
   }
 ]

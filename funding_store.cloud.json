@@ -15556,5 +15556,35 @@
     "roles": [],
     "first_seen": "2026-07-05T01:31:43.488988-07:00",
     "status": "active"
+  },
+  "8c145334bb608cea8d5505ef1379e690": {
+    "id": "8c145334bb608cea8d5505ef1379e690",
+    "company": "Lawyered",
+    "amount": "$2.5M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmNaRVctYUFjVGJDd0Nfc2NGMmZjWDVrcmtiQzJiRmUtaF9wdzVkbVgwamgxQm9KUjFvMUczMEtLeHFxWDBUS0dkQTFWckktR25QYmpWX1NRRF81dU43WWUtem9WcV9iX3JiaTZRLU5US1o0VllpT2JzZkV6YTA4aHlLZkZjV3ZIUGlnRnFmQnNvR0ZPWncyV1ZwbGpxRkx4Z183aA?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-05T03:52:16.568778-07:00",
+    "status": "active"
+  },
+  "373595ddd17a64f6da53bc1ef865fea6": {
+    "id": "373595ddd17a64f6da53bc1ef865fea6",
+    "company": "geoSurge",
+    "amount": "$12.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFFscXBCb3NCc2lVaHJ6M3Z4S0NoYURaaVBWbFNaTWxkb2VXMFIxN0RuQWVwalZ3ZHpIUEVyZVRwRXJJR3k0WUNISmQzZVNwcllFSDRNUm1GTDd2RTlCZEpMVjg1RldhcmIwMDhEWWlYZ2MwZlphRTZXTy1tdkkyNGViSzhDaUNtTXpNcUg2QlNSTEVXVHQ0N2lLTHBSWXM?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-05T03:52:18.900907-07:00",
+    "status": "active"
   }
 }
