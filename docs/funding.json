@@ -1,5 +1,86 @@
 [
   {
+    "id": "bf2445d460ed67ec59874044abcb65b6",
+    "company": "Chime Labs",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJZVZDY1B0U0NFZG50ZXRxUkNPNkoybS1oUnRhZERzLUZyWmktMV95MXdBZEtZdTVsVFBTUDRrblpLLXZpU3ptREUxYmF3a2x4Qm1DSGNzaXVhbG4yZ1RxbXpteGZHN0dGZEMxa3NoNzk2NzBVc1lEc2toUXk?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "Sydney",
+    "roles": [
+      {
+        "title": "Product Designer, Disputes",
+        "url": "https://boards.greenhouse.io/chime/jobs/8525321002?gh_jid=8525321002",
+        "location": "San Francisco, CA, USA"
+      }
+    ],
+    "first_seen": "2026-07-05T16:44:16.258591-07:00",
+    "status": "active"
+  },
+  {
+    "id": "07d8189309ecc31b751e34fde9f9a066",
+    "company": "Mixpanel",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkkxc21FS1VPWUJKanpVVjBXeEEya1J1anpBZWhPMFY3WXZrSFVZaXAyWkVGd3UzQVI4bG10SUxSSUZrbVBYQVk3QjFtU3d2azdwOHhrSnd2eXNYQUJhZjZpa2U3QTZ4ZHVZNHdDNmhFa3ljZVRsSTRCTTFQNzU2NmRNNmhEWWpMVTBub3dMelMzRWF1aThjVzRMU1k1Qk1JTW9MMFVseEpjZDg?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-05T16:44:13.985408-07:00",
+    "status": "active"
+  },
+  {
+    "id": "ac9091f3075a5138f2d4e2df493fdd0f",
+    "company": "Funding Overheating?",
+    "amount": "$41.0B",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xdnA1MEMwcEphUlpQektNVGhzU0FON1VILUJ4eWtscHF1VUpNN0NnRU42WmRvTklDbEZ6QkswVlBpdV9vZnhUMg?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-05T16:44:11.789758-07:00",
+    "status": "active"
+  },
+  {
+    "id": "775415541e2840efc6e6e1ae346df6f0",
+    "company": "Y Combinator Doubles Down",
+    "amount": "$22.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazdWWTh0QUNVNGl4b1pLMUJQM3dpQ1E2c0JuR2doZE9QMXUxa3NobmlQT0dhWGZUbHNCNnZ3ZFVtc3dEUU9FcEFZaXhfdG5jalJBdUJEWC1UalJRQlNZMUFFNEhZdHBCSUZJdmJtbjhXQ3JPMkhqQ1ozalZCX1I0WWRUeXlLMDFIdm1wQnBLaDhOc21mc3dVZEtvWjNkc08tcEhLV0dn?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-05T16:44:08.906729-07:00",
+    "status": "active"
+  },
+  {
+    "id": "f3b297e5dc6064214953e6e2bae16fad",
+    "company": "Nexus",
+    "amount": "$4.3M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVUV1VEw0LVpOT0JkQUhrdjFOY0w4X25PZENteV92SFFNTVZQVFBjcGtIdzA0TVNTNldEdjdfa01jSHVDZFBHbjRxS1laVVhfTHJUUUlrUlZfOFBBSWFIeW9FZzJIMnJLOFVEQVh6YWNWbVhKVXMxYnBqbzBhdGdzd0ln?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-05T16:44:06.017949-07:00",
+    "status": "active"
+  },
+  {
     "id": "b4d7be01a47cf7c8e8199b553a10edea",
     "company": "Lime",
     "amount": "Undisclosed",
