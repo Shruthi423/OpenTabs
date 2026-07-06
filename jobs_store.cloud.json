@@ -6152,5 +6152,42 @@
     "first_seen": "2026-07-05T18:25:27.121747-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "0e8fc865a1f3d1453fb3dda6737f77d2": {
+    "id": "0e8fc865a1f3d1453fb3dda6737f77d2",
+    "title": "Product Designer (UX/UI)",
+    "company": "Cie",
+    "location": "Irvine, United States",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/cie/jobs/4693861006",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-07-06T03:05:39.903949-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "1fd485a50cefe980d02efcf6b9a7520c": {
+    "id": "1fd485a50cefe980d02efcf6b9a7520c",
+    "title": "Brand Designer",
+    "company": "Vanta",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/vanta/4034e43d-9ee9-442f-99eb-e04d6ca9caf3",
+    "source": "\ud83d\udcb0 Vanta (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Vanta raised a round",
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-07-06T03:06:41.448104-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }

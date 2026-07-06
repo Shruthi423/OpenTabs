@@ -1,128 +1,240 @@
 [
   {
     "item": {
-      "company": "Clarity Labs",
+      "company": "Bucketlistt",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVk3VDNXZWJ0VVpIYUFIdUdzMGFZRWc3X3N4dnVTTTBsQVNCcXVkLUtubHhGenVVUlN1QnNkZU5NSTRNbmZ3dXNvcXBTRDRUY3ljVnFvOWNBX0g2YzItT0cyb29xMk1sNlFfY29hTkV6elR1TDdLYlVVWU5LUi1fd2xlTkJFdXVOcV9adzdLRk1hMy1vQ2dr?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-07-06T03:36:02.898640-07:00"
+  },
+  {
+    "item": {
+      "company": "Worldmodeldata",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/worldmodeldata-raises-7m-seed-round/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-06T03:36:05.140835-07:00"
+  },
+  {
+    "item": {
+      "company": "Kai Health",
+      "amount": "$4.8M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/kai-health-technology-inc-raises-4-8m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-06T03:36:08.326692-07:00"
+  },
+  {
+    "item": {
+      "company": "Lucida",
       "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2VBSmQ3TWd6Ulo0UndQc0lNanpYSWtiQlRHdXFMQUJhcnhjVDRMRW1CUWZkVmo0Mm9LTEtjTkpJUmxzdFE2d1M2MzBZcHRlb1hKdzRpendQU0FWd0lzaWFkSTlmckFHOGw2QWZ5NU4tS0pIQU9TNllxZlFxUGFVMUV2cEpib2VmYVVPUzgySy0wbjIw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4ZGk5M3dOXzFSbW9NemlCcVlIWklicUJla1hueFk2WWhvYlZZb3ljXzF4MWNxWlJjY3lsaEhJSHlHV0ZjQXVqREtVZ19PdVZXeUpDLUF5YXI0bGdmTXRUaWROblZGVlhWdzRrckVEYmMwVTRjMHpUYQ?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-05T23:21:24.134981-07:00"
+    "remind_at": "2026-07-06T03:36:10.698309-07:00"
   },
   {
     "item": {
-      "company": "Nirvana Insurance",
-      "amount": "$100.0M",
+      "company": "EternaFusion",
+      "amount": "$1.5M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ydENQS1hmWmg3dU5sbE9hemRaWlItOXFNd09BcnUwTmhYbWszVFhMak9MQUJWUC1EUDRYQTNUZjdiREM2UG9kS0tKYU5hUHZxRmVN?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-06T03:36:12.934138-07:00"
+  },
+  {
+    "item": {
+      "company": "Ivory",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HcEZtZW40T2NhRnZWYm5aek1YZndqU2VtOFczS3dIT3c1OGg3NkhzNVhDTktTdnotOV9LOWFkMW02eVY1ZU5xdlcyaWpMT2lhdUpDRWlDMXRsNzd3SXlVcjRuazJBc0Zob2NndkFONlFyekpCQklPMmdRVQ?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-06T03:36:15.161549-07:00"
+  },
+  {
+    "item": {
+      "company": "Even Realities",
+      "amount": "$150.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mS0tjRUc4aU95dlllRTJDUVJhMXFwQmQ5LXRZRmtxdmZqSWxJU3p3Zk8zakhRbEVpVjB5cERsWktfX0JxbkowdjZmOThNOXN3ekVCcDB4dXFIc1hQblAwYjlRMWJ5LWNYejJZ?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-07-06T03:36:18.153052-07:00"
+  },
+  {
+    "item": {
+      "company": "AB180",
+      "amount": "$15.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ab180-raises-15m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-07-06T03:36:20.371688-07:00"
+  },
+  {
+    "item": {
+      "company": "smallcase",
+      "amount": "$50.0M",
       "stage": "Series D",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/nirvana-insurance-raises-100m-series-d/",
+      "url": "https://www.thesaasnews.com/news/smallcase-raises-50m-series-d/",
       "priority": 5
     },
-    "remind_at": "2026-07-05T23:21:27.205084-07:00"
+    "remind_at": "2026-07-06T03:36:22.714984-07:00"
   },
   {
     "item": {
-      "company": "Rivage",
+      "company": "Smart glasses maker Even Realities",
+      "amount": "$1.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-06T03:36:25.892113-07:00"
+  },
+  {
+    "item": {
+      "company": "Vance's hot summer positions",
+      "amount": "$70.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/06/vance-summer-trump-heir",
+      "priority": 3
+    },
+    "remind_at": "2026-07-06T03:36:28.875103-07:00"
+  },
+  {
+    "item": {
+      "company": "Sherpa.ai",
+      "amount": "$18.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/sherpa-ai-bags-18-million-in-funding/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-06T03:36:31.093743-07:00"
+  },
+  {
+    "item": {
+      "company": "BR-DGE",
+      "amount": null,
+      "stage": null,
+      "investors": "to enhance its payment orchestration platform and fuel global expansion",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/br-dge-raises-10m-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-06T03:36:33.458520-07:00"
+  },
+  {
+    "item": {
+      "company": "Mabiati",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": "Paris",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/rivage-raises-1-5m-ai-rental-management-software/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-05T23:21:29.425402-07:00"
-  },
-  {
-    "item": {
-      "company": "Whiteshield",
-      "amount": "$15.0M",
-      "stage": null,
-      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/whiteshield-raises-15m-debt-financing/",
+      "url": "https://www.thesaasnews.com/news/mabiati-secures-six-figure-investments/",
       "priority": 3
     },
-    "remind_at": "2026-07-05T23:21:31.640613-07:00"
+    "remind_at": "2026-07-06T03:36:35.789364-07:00"
   },
   {
     "item": {
-      "company": "Runway",
-      "amount": "$315.0M",
-      "stage": "Series E",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/runway-raises-315m-series-e/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-05T23:21:33.972775-07:00"
-  },
-  {
-    "item": {
-      "company": "Skello",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/skello-raises-200m-growth-capital/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-05T23:21:36.194782-07:00"
-  },
-  {
-    "item": {
-      "company": "Pocket",
-      "amount": "$11.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2ZLS3VhNVBvTHRaRGVOaXZ0RmNRTTQ1bVBiY1p6cFpUNi1iWFR5cTFfT2U3LXhjS2FLSm9SVjdDVlA5WlhyVHMyR1RKbHA5Y2pGV3pqRjNHcU5aSzdRdkVUNzZwcHhqQnBOWXNpRUhzMXNuQ1VfQm9YcG12aGx4NS1pdTRBR0RmZWdlUjdzcll4MllIbVB6Q2lDQXB2eG9Ubjg0Vk53?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-05T23:21:38.416619-07:00"
-  },
-  {
-    "item": {
-      "company": "Engram\u2019s Dan Biderman and Jessy Lin",
+      "company": "Notion Revenue",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbzdwNjViMzd0RW1wSWRQM0FFR0V4Z2RfUEM0S1ZuQ1BRc3ZwazJUSjhOYTR0TTBCaGpBdS1vaUhzMHVtSmdtZWlSSXd4cXc4RVY0cXR2M0VDLWxHaHVqd1V1clhNMjN0eUlQTzBzcGE4RC1JR0NZUUc1YTVweUU0Z1hJZzhaSEFXQnJVUHJqUEx3UXpLZ2FKTXZCeVc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4TUJiN0JJVFRqNDQ4YlJrQUVFTFlCWGlIb3BiRk1WZ3hLSU5xdi1VbG1tVEQ4Qk00UE5BQVl6UzRuVDNlTWZiOTNSWWpEQQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-05T23:21:41.376815-07:00"
+    "remind_at": "2026-07-06T03:36:38.913275-07:00"
   },
   {
     "item": {
-      "company": "Deccan AI",
-      "amount": "$25.0M",
+      "company": "Vanta",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XSzdRUWg5RUlXRDd3Q2RyZE5BTm1TNmRfeG5yOHJuMUo2ejFMVkdHZ1UybW1JVXowRnczcVhpLWZ3NjhLS1lsdmVBbjFsYlFZRU9RQk05RDFrN0RIcDZJaHA0RUVxTEVoMW1sYml0WGNtRzA?oc=5",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZUxObTQ4bkZGekI1cWk4SUY2bC1CNExJSG9WUTl6Yk95Yl95Qm1OQmdUSVdnMEppTElXOXpTeTNVUVFYbkVkSTczNHY2dVNBeDZNWDBmbC1PaVgxTmZQRXdLVVZoc3Z6TTBLUks0eW9IS0tudVUtYk1LTGEtZWJGdkRYSVFsOUVxd29GUDJyMExyczFzeVk3X3cyb2VndkRzMkFteDEtTQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-05T23:21:43.587075-07:00"
+    "remind_at": "2026-07-06T03:36:43.678159-07:00"
+  },
+  {
+    "item": {
+      "company": "Clari",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGtQdDlZTGI1WTZEYWtlUVkxXzZFT2gzYWdVRHc2QTNJbzJXZmdKZUpFYzRFVVQwdnZVVmlNOXV0TUE3MUJoemdBdzdCNFk5VkJnNlZXQV9lOXliaWlPSHBYMDZCZDJYRkNZX184a3NhVTQySy12OFVFWF80bjFzVm1JU3hBQzBpUzVCYmtxOTBnRDBFU3Q0U1R5UUkyUmtka0cwVjRWaw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-06T03:36:45.904285-07:00"
   }
 ]
