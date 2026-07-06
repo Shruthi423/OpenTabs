@@ -1,170 +1,114 @@
 [
   {
     "item": {
-      "company": "Ravee Optics",
-      "amount": "$6.0M",
+      "company": "Flexprice",
+      "amount": "$1.5M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXlmX3NxMUd6Rk5lMEpxNmN0OUNBVVBnX1ZsMTJLRkNRcHhyLWg3bWFGQUdsZllYMWpWV2l1b0U5M0RHSk9ZN1prODdHWklNcHotTXp0U09XaDd0TjdzVzRlc05pdnVRS1ZIMENhMzZ4a3JIWGYtQzU3bzd5b29OWTBwc3l3bmlGSGxuQl9tNDBmdXRKMXFONHRUTnE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkNPUUV5U04za2hQei1aVTRWYTBzeEJhUHN6ZVRtaUNOZTVJNk5pTml4d2ZNcXVoLXN6NTg5NGJKc0xkdXl2VEN3SUV0OGhZTUpmUklidnNqVWFUVHlNTFRSai1XbklVMzdkVkU1dFhmM1FUWU1KbDdEWTlKX1FXeldfMHV4d0pSVmtJZ0xya1c5NnFpOFlFRHF1WDVxYUgy?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-06T07:33:53.104959-07:00"
+    "remind_at": "2026-07-06T10:46:13.151882-07:00"
   },
   {
     "item": {
-      "company": "TOCAL",
+      "company": "Billionaire Mark Cuban",
       "amount": null,
-      "stage": "Seed",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQU5PTGNQSGhod2JiVlBaLXpxeFp6SjNxMmZibzNzd2hoVVBsOC0zQWloaU4yNU9QUWpWNnduSFc3MEplRXZWZXJkejlmaVNKWnJrNWszcnVYM2tXOUNjRE0xYXdHdGtlcmdaNmVqaTNhcS1qTVZPNnk1RDU1eDFIclN0N185Y0xmUW9CRHI0dU5EaUxIeEHSAZYBQVVfeXFMTkFOT0xjUEhoaHdiYlZQWi16cXhaekozcTJmYm8zc3doaFVQbDgtM0FpaGlOMjVPUFFqVjZ3bkhXNzBKZUV2VmVyZHo5ZmlTSlpyazVrM3J1WDNrVzlDY0RNMWF3R3RrZXJnWjZlamkzYXEtak1WTzZ5NUQ1NXgxSHJTdDdfOWNMZlFvQkRyNHVORGlMSHhB?oc=5",
-      "priority": 9
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/06/billionaire-mark-cuban-embarrassing-not-pay-employees-well-20-minimum-wage-should-be-standard/",
+      "priority": 3
     },
-    "remind_at": "2026-07-06T07:33:55.513663-07:00"
+    "remind_at": "2026-07-06T10:46:16.675443-07:00"
   },
   {
     "item": {
-      "company": "Even Realities",
-      "amount": "$1.0B",
-      "stage": "Series B",
+      "company": "UEFA",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Seattle",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/06/uefa-fifa-balogun-red-card-ban",
+      "priority": 3
+    },
+    "remind_at": "2026-07-06T10:46:19.135503-07:00"
+  },
+  {
+    "item": {
+      "company": "Honeywell spinoff Solstice",
+      "amount": "$14.5B",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/06/apple-veterans-ai-smart-glasses-startup-even-realities-hits-1b-valuation-in-150m-funding-round/",
-      "priority": 7
+      "url": "https://techstartups.com/2026/07/06/honeywell-spinoff-solstice-to-acquire-element-solutions-in-14-5b-deal-to-expand-ai-infrastructure-business/",
+      "priority": 3
     },
-    "remind_at": "2026-07-06T07:33:58.760529-07:00"
+    "remind_at": "2026-07-06T10:46:22.494116-07:00"
   },
   {
     "item": {
-      "company": "Top economist",
+      "company": "Microsoft lays off 4",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/06/ai-productivity-gains-bubble-painful-repricing-markets-torsten-slok/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/06/microsoft-lays-off-4800-employees-as-ai-reshapes-the-company-xbox-loses-20-of-its-workforce/",
       "priority": 3
     },
-    "remind_at": "2026-07-06T07:34:02.017713-07:00"
+    "remind_at": "2026-07-06T10:46:25.875251-07:00"
   },
   {
     "item": {
-      "company": "Microsoft\u2019s Frontier push aims",
-      "amount": "$2.5B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/06/microsoft-frontier-push-ai-spending-measurable-returns-cfo/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-06T07:34:05.256180-07:00"
-  },
-  {
-    "item": {
-      "company": "Democrats",
-      "amount": "$1.4B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/crypto/2026/07/06/president-donald-trump-memecoin-crypto-income-clarity-act-ethics-claus/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-06T07:34:08.271592-07:00"
-  },
-  {
-    "item": {
-      "company": "alqem",
+      "company": "Funding Rounds of June 2026",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/alqem-raises-8m-rare-earth-free-magnets/",
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/07/nyc-startup-funding-top-largest-june-2026-vc/",
       "priority": 3
     },
-    "remind_at": "2026-07-06T07:34:10.758359-07:00"
+    "remind_at": "2026-07-06T10:46:29.194181-07:00"
   },
   {
     "item": {
-      "company": "CVC",
-      "amount": null,
+      "company": "By Year-End",
+      "amount": "$9.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/europes-mid-market-is-back-cvc-closes-e3b-catalyst-fund-at-double-target/",
+      "source": "SaaStr",
+      "url": "https://www.saastr.com/by-year-end-anthropic-will-out-earn-every-public-software-company-except-microsoft/",
       "priority": 3
     },
-    "remind_at": "2026-07-06T07:34:13.217837-07:00"
+    "remind_at": "2026-07-06T10:46:32.779733-07:00"
   },
   {
     "item": {
-      "company": "TaiSan",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Cambridge",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/taisan-raises-4-65m-sodium-ion-batteries/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-06T07:34:15.627456-07:00"
-  },
-  {
-    "item": {
-      "company": "Tryprofound Revenue",
+      "company": "MongoDB",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TYy1rMHlrczg3OWpRYlMtd3F4U1l1a0hpRUd2MUxDbTZsTUowX0xXZXRQWGZTWEI1cFZWV3hwV3JGQ0dva01JSFMyTlhkSWpOZGtsZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeW1kMmtjR2tqUlM3YUdDWldVbWFCc3p5dk9URng0MnNwcDVlNXBSTlNTZDdoZGp0VEVKd3M4Z1dKcm1tLWphazZPTnotYjNWdG5MX0h2bEIwUjNhNGlFcU12a3ZPSWlkczVrNk9nM3RLMFV1SHdYMml2YjNDSGdrcm9lRkpSLWdnejliQXJFVmtRREpHdzRxXzFNczhVYjNxS2JEUk1MYlk5dw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-06T07:34:19.040104-07:00"
-  },
-  {
-    "item": {
-      "company": "TaiSan founded by chess champion",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMDFqSHYtNlg2TWl1NWp1dFhXdVU0NUpiRThzYVEzajVNS2FhMnVoSmdlTUlVRWE3b3gtVmdMTFA0SXJmTldIXzZ6allSblFfMlBkOVlCM2luNzViWktpUEpXUlJPSFFWTjJqWHZ0cUs1Zk1ZMjNFSmN5UzRWVjJjQ2hLbHp4NEs3ZGVWRklXTU0yU1JtOGZIUGJyQ3FTa3c0dTlMQXFB?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-06T07:34:22.185032-07:00"
-  },
-  {
-    "item": {
-      "company": "London-based Stoa",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "London",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95akU1RndUMDBUc29ZWEJlWGZrQWcyaUFRUGh4SzlkS0pSamhndHVZZzNKdnAtSS1qUXhnZjZoLW5XWFViYWhrQ3plSlZXQ2FoOFlIbVNB?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-06T07:34:25.398811-07:00"
+    "remind_at": "2026-07-06T10:46:35.305173-07:00"
   }
 ]

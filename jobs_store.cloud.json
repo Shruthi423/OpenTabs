@@ -6333,5 +6333,41 @@
     "first_seen": "2026-07-06T07:03:30.287334-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "79703a92d16c476fb4741c82ec7b44c7": {
+    "id": "79703a92d16c476fb4741c82ec7b44c7",
+    "title": "Product Designer",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://himalayas.app/companies/seesaw-learning/jobs/product-designer",
+    "source": "Himalayas",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-07-06T10:15:47.515302-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "e00d452c651804e1b6eaa5f6a8cc34e1": {
+    "id": "e00d452c651804e1b6eaa5f6a8cc34e1",
+    "title": "Product Designer",
+    "company": "Adaptive",
+    "location": "New York City",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/adaptive/52305a82-9bbb-4b73-9301-550e87865a16",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-07-06T10:15:49.165502-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
