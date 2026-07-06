@@ -1,114 +1,72 @@
 [
   {
     "item": {
-      "company": "Flexprice",
-      "amount": "$1.5M",
+      "company": "Trump rings opening bell",
+      "amount": "$1.4B",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkNPUUV5U04za2hQei1aVTRWYTBzeEJhUHN6ZVRtaUNOZTVJNk5pTml4d2ZNcXVoLXN6NTg5NGJKc0xkdXl2VEN3SUV0OGhZTUpmUklidnNqVWFUVHlNTFRSai1XbklVMzdkVkU1dFhmM1FUWU1KbDdEWTlKX1FXeldfMHV4d0pSVmtJZ0xya1c5NnFpOFlFRHF1WDVxYUgy?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/06/trump-rings-opening-bell-trump-accounts-treasury-billion-dell/",
       "priority": 9
     },
-    "remind_at": "2026-07-06T10:46:13.151882-07:00"
+    "remind_at": "2026-07-06T12:37:24.482122-07:00"
   },
   {
     "item": {
-      "company": "Billionaire Mark Cuban",
-      "amount": null,
+      "company": "The state of AI mid-2026",
+      "amount": "$30.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/06/billionaire-mark-cuban-embarrassing-not-pay-employees-well-20-minimum-wage-should-be-standard/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/06/token-economy-state-ai-mid-2026/",
       "priority": 3
     },
-    "remind_at": "2026-07-06T10:46:16.675443-07:00"
+    "remind_at": "2026-07-06T12:37:27.790516-07:00"
   },
   {
     "item": {
-      "company": "UEFA",
+      "company": "Inflation measurement tweaks make",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": "Seattle",
+      "location": null,
       "founders": [],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/07/06/uefa-fifa-balogun-red-card-ban",
+      "url": "https://www.axios.com/2026/07/06/inflation-fed-pce",
       "priority": 3
     },
-    "remind_at": "2026-07-06T10:46:19.135503-07:00"
+    "remind_at": "2026-07-06T12:37:31.114490-07:00"
   },
   {
     "item": {
-      "company": "Honeywell spinoff Solstice",
-      "amount": "$14.5B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/06/honeywell-spinoff-solstice-to-acquire-element-solutions-in-14-5b-deal-to-expand-ai-infrastructure-business/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-06T10:46:22.494116-07:00"
-  },
-  {
-    "item": {
-      "company": "Microsoft lays off 4",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/06/microsoft-lays-off-4800-employees-as-ai-reshapes-the-company-xbox-loses-20-of-its-workforce/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-06T10:46:25.875251-07:00"
-  },
-  {
-    "item": {
-      "company": "Funding Rounds of June 2026",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "AlleyWatch",
-      "url": "https://www.alleywatch.com/2026/07/nyc-startup-funding-top-largest-june-2026-vc/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-06T10:46:29.194181-07:00"
-  },
-  {
-    "item": {
-      "company": "By Year-End",
-      "amount": "$9.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SaaStr",
-      "url": "https://www.saastr.com/by-year-end-anthropic-will-out-earn-every-public-software-company-except-microsoft/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-06T10:46:32.779733-07:00"
-  },
-  {
-    "item": {
-      "company": "MongoDB",
+      "company": "Forter",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeW1kMmtjR2tqUlM3YUdDWldVbWFCc3p5dk9URng0MnNwcDVlNXBSTlNTZDdoZGp0VEVKd3M4Z1dKcm1tLWphazZPTnotYjNWdG5MX0h2bEIwUjNhNGlFcU12a3ZPSWlkczVrNk9nM3RLMFV1SHdYMml2YjNDSGdrcm9lRkpSLWdnejliQXJFVmtRREpHdzRxXzFNczhVYjNxS2JEUk1MYlk5dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGhFbXA0LW5vQ1NOY1ZmY2tIaV9nWVBjOEpoQW1Db2swVXNBUDVfMWZpOHdJUlh5T0o0OWx6VlNfb1k3d29OUlE1RTM0NEJ0NU1WMUw1MVFiSTBYZV9RUS1OeVlFQ1JzUHFudWVuTE96S3pZaUtsV3FVWFpSVGlXVjNmdHltanQwbHVsY0MyVF9jdkJtN3ptU1JRa0ZiaTUtUTJJdU44NVo?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-06T10:46:35.305173-07:00"
+    "remind_at": "2026-07-06T12:37:33.551291-07:00"
+  },
+  {
+    "item": {
+      "company": "Meesho",
+      "amount": "$500.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ0ZtdjNzUkFPWm5aTTRHYTNrdVI4QnhjN3k3T3RzU1I5dWlaQWVVdWhwTHd0Tm1MMTdSLVNBN092R0hFakdJeEY5OWsxYUJ5UU9NTnVnYjgydzVicWxNZ3pvZEZtZ2dpY3ZNTDFvbHpFMGVOQzZTR2hRNG1wbDVkR0NsczJTWmdIZXZLZDZCWC15MHBLNDJBT3k5dXN3T0QwOGhGblIxZ0JlSlBTd3JnTG9FWVhPYXN0YmF6VURCNlU4SUNObEYzS0RpVmwzSC04WHhTcENTMUVqUdIB2gFBVV95cUxNZ0ZtdjNzUkFPWm5aTTRHYTNrdVI4QnhjN3k3T3RzU1I5dWlaQWVVdWhwTHd0Tm1MMTdSLVNBN092R0hFakdJeEY5OWsxYUJ5UU9NTnVnYjgydzVicWxNZ3pvZEZtZ2dpY3ZNTDFvbHpFMGVOQzZTR2hRNG1wbDVkR0NsczJTWmdIZXZLZDZCWC15MHBLNDJBT3k5dXN3T0QwOGhGblIxZ0JlSlBTd3JnTG9FWVhPYXN0YmF6VURCNlU4SUNObEYzS0RpVmwzSC04WHhTcENTMUVqUQ?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-06T12:37:35.990549-07:00"
   }
 ]
