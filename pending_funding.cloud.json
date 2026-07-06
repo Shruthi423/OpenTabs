@@ -1,30 +1,128 @@
 [
   {
     "item": {
-      "company": "Rippling",
+      "company": "Clarity Labs",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2VBSmQ3TWd6Ulo0UndQc0lNanpYSWtiQlRHdXFMQUJhcnhjVDRMRW1CUWZkVmo0Mm9LTEtjTkpJUmxzdFE2d1M2MzBZcHRlb1hKdzRpendQU0FWd0lzaWFkSTlmckFHOGw2QWZ5NU4tS0pIQU9TNllxZlFxUGFVMUV2cEpib2VmYVVPUzgySy0wbjIw?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-05T23:21:24.134981-07:00"
+  },
+  {
+    "item": {
+      "company": "Nirvana Insurance",
+      "amount": "$100.0M",
+      "stage": "Series D",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/nirvana-insurance-raises-100m-series-d/",
+      "priority": 5
+    },
+    "remind_at": "2026-07-05T23:21:27.205084-07:00"
+  },
+  {
+    "item": {
+      "company": "Rivage",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Paris",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/rivage-raises-1-5m-ai-rental-management-software/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-05T23:21:29.425402-07:00"
+  },
+  {
+    "item": {
+      "company": "Whiteshield",
+      "amount": "$15.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/whiteshield-raises-15m-debt-financing/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-05T23:21:31.640613-07:00"
+  },
+  {
+    "item": {
+      "company": "Runway",
+      "amount": "$315.0M",
+      "stage": "Series E",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/runway-raises-315m-series-e/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-05T23:21:33.972775-07:00"
+  },
+  {
+    "item": {
+      "company": "Skello",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/skello-raises-200m-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-05T23:21:36.194782-07:00"
+  },
+  {
+    "item": {
+      "company": "Pocket",
+      "amount": "$11.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2ZLS3VhNVBvTHRaRGVOaXZ0RmNRTTQ1bVBiY1p6cFpUNi1iWFR5cTFfT2U3LXhjS2FLSm9SVjdDVlA5WlhyVHMyR1RKbHA5Y2pGV3pqRjNHcU5aSzdRdkVUNzZwcHhqQnBOWXNpRUhzMXNuQ1VfQm9YcG12aGx4NS1pdTRBR0RmZWdlUjdzcll4MllIbVB6Q2lDQXB2eG9Ubjg0Vk53?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-05T23:21:38.416619-07:00"
+  },
+  {
+    "item": {
+      "company": "Engram\u2019s Dan Biderman and Jessy Lin",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkg2MGdIWXozNjNBN3F6VHFHc0JrVy02X0dfZHVuUW00SUQ1YWVQdXJPWUtlcEZOSWR0Y2hOUUFMRE9ibTJEYmNsLUctOTdicXRRa2drLU5zR0NDa3pFQkJ3ZElHcV95c2ZtdkJ6ODFIZ2JLeE9nMTZZeDlNUDhWRHNzN1lXS0VGTTVzUXNVVUFreEcyaVBWN3NsZVdPSHZjZUJ6UU1XalljckE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbzdwNjViMzd0RW1wSWRQM0FFR0V4Z2RfUEM0S1ZuQ1BRc3ZwazJUSjhOYTR0TTBCaGpBdS1vaUhzMHVtSmdtZWlSSXd4cXc4RVY0cXR2M0VDLWxHaHVqd1V1clhNMjN0eUlQTzBzcGE4RC1JR0NZUUc1YTVweUU0Z1hJZzhaSEFXQnJVUHJqUEx3UXpLZ2FKTXZCeVc?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-05T18:55:49.545139-07:00"
+    "remind_at": "2026-07-05T23:21:41.376815-07:00"
   },
   {
     "item": {
-      "company": "Yes Madam",
-      "amount": null,
+      "company": "Deccan AI",
+      "amount": "$25.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rOGY2UkJodzQzNzN6ajYtb1d0MndVZ18tMGF0NjVGcVFyNms3cGI1VnZzMlpseDlzOWtnSzZ4Q0ZwZmJTYm40N3ZmVjFwdlhVNjhtVTh1Tlc5S19hTWczZ2htcGlXNlhlZDlvN3ZjdUQ1QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XSzdRUWg5RUlXRDd3Q2RyZE5BTm1TNmRfeG5yOHJuMUo2ejFMVkdHZ1UybW1JVXowRnczcVhpLWZ3NjhLS1lsdmVBbjFsYlFZRU9RQk05RDFrN0RIcDZJaHA0RUVxTEVoMW1sYml0WGNtRzA?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-05T18:55:52.546892-07:00"
+    "remind_at": "2026-07-05T23:21:43.587075-07:00"
   }
 ]
