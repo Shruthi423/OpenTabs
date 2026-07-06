@@ -15933,5 +15933,35 @@
     ],
     "first_seen": "2026-07-05T16:44:16.258591-07:00",
     "status": "active"
+  },
+  "f6f33da7c551ce1201903851df0ffd97": {
+    "id": "f6f33da7c551ce1201903851df0ffd97",
+    "company": "Rippling",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkg2MGdIWXozNjNBN3F6VHFHc0JrVy02X0dfZHVuUW00SUQ1YWVQdXJPWUtlcEZOSWR0Y2hOUUFMRE9ibTJEYmNsLUctOTdicXRRa2drLU5zR0NDa3pFQkJ3ZElHcV95c2ZtdkJ6ODFIZ2JLeE9nMTZZeDlNUDhWRHNzN1lXS0VGTTVzUXNVVUFreEcyaVBWN3NsZVdPSHZjZUJ6UU1XalljckE?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-05T18:25:50.545311-07:00",
+    "status": "active"
+  },
+  "247cb7bdc581c6cdf3fc263ee4e4f76a": {
+    "id": "247cb7bdc581c6cdf3fc263ee4e4f76a",
+    "company": "Yes Madam",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rOGY2UkJodzQzNzN6ajYtb1d0MndVZ18tMGF0NjVGcVFyNms3cGI1VnZzMlpseDlzOWtnSzZ4Q0ZwZmJTYm40N3ZmVjFwdlhVNjhtVTh1Tlc5S19hTWczZ2htcGlXNlhlZDlvN3ZjdUQ1QQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-05T18:25:53.547030-07:00",
+    "status": "active"
   }
 }

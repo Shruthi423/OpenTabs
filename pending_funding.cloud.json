@@ -1,72 +1,30 @@
 [
   {
     "item": {
-      "company": "Nexus",
-      "amount": "$4.3M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVUV1VEw0LVpOT0JkQUhrdjFOY0w4X25PZENteV92SFFNTVZQVFBjcGtIdzA0TVNTNldEdjdfa01jSHVDZFBHbjRxS1laVVhfTHJUUUlrUlZfOFBBSWFIeW9FZzJIMnJLOFVEQVh6YWNWbVhKVXMxYnBqbzBhdGdzd0ln?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-07-05T17:14:05.017791-07:00"
-  },
-  {
-    "item": {
-      "company": "Y Combinator Doubles Down",
-      "amount": "$22.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazdWWTh0QUNVNGl4b1pLMUJQM3dpQ1E2c0JuR2doZE9QMXUxa3NobmlQT0dhWGZUbHNCNnZ3ZFVtc3dEUU9FcEFZaXhfdG5jalJBdUJEWC1UalJRQlNZMUFFNEhZdHBCSUZJdmJtbjhXQ3JPMkhqQ1ozalZCX1I0WWRUeXlLMDFIdm1wQnBLaDhOc21mc3dVZEtvWjNkc08tcEhLV0dn?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-07-05T17:14:07.906540-07:00"
-  },
-  {
-    "item": {
-      "company": "Funding Overheating?",
-      "amount": "$41.0B",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xdnA1MEMwcEphUlpQektNVGhzU0FON1VILUJ4eWtscHF1VUpNN0NnRU42WmRvTklDbEZ6QkswVlBpdV9vZnhUMg?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-07-05T17:14:10.789619-07:00"
-  },
-  {
-    "item": {
-      "company": "Mixpanel",
+      "company": "Rippling",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkkxc21FS1VPWUJKanpVVjBXeEEya1J1anpBZWhPMFY3WXZrSFVZaXAyWkVGd3UzQVI4bG10SUxSSUZrbVBYQVk3QjFtU3d2azdwOHhrSnd2eXNYQUJhZjZpa2U3QTZ4ZHVZNHdDNmhFa3ljZVRsSTRCTTFQNzU2NmRNNmhEWWpMVTBub3dMelMzRWF1aThjVzRMU1k1Qk1JTW9MMFVseEpjZDg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkg2MGdIWXozNjNBN3F6VHFHc0JrVy02X0dfZHVuUW00SUQ1YWVQdXJPWUtlcEZOSWR0Y2hOUUFMRE9ibTJEYmNsLUctOTdicXRRa2drLU5zR0NDa3pFQkJ3ZElHcV95c2ZtdkJ6ODFIZ2JLeE9nMTZZeDlNUDhWRHNzN1lXS0VGTTVzUXNVVUFreEcyaVBWN3NsZVdPSHZjZUJ6UU1XalljckE?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-05T17:14:12.985260-07:00"
+    "remind_at": "2026-07-05T18:55:49.545139-07:00"
   },
   {
     "item": {
-      "company": "Chime Labs",
+      "company": "Yes Madam",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": "Sydney",
+      "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJZVZDY1B0U0NFZG50ZXRxUkNPNkoybS1oUnRhZERzLUZyWmktMV95MXdBZEtZdTVsVFBTUDRrblpLLXZpU3ptREUxYmF3a2x4Qm1DSGNzaXVhbG4yZ1RxbXpteGZHN0dGZEMxa3NoNzk2NzBVc1lEc2toUXk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rOGY2UkJodzQzNzN6ajYtb1d0MndVZ18tMGF0NjVGcVFyNms3cGI1VnZzMlpseDlzOWtnSzZ4Q0ZwZmJTYm40N3ZmVjFwdlhVNjhtVTh1Tlc5S19hTWczZ2htcGlXNlhlZDlvN3ZjdUQ1QQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-05T17:14:15.258392-07:00"
+    "remind_at": "2026-07-05T18:55:52.546892-07:00"
   }
 ]
