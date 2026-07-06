@@ -1,16 +1,44 @@
 [
   {
     "item": {
-      "company": "Databricks",
+      "company": "Korea's Studio Kiko",
       "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41Q19qSko4eEtkVG1WeWxNUUt0Rmk4UUZXc1RrNjQxRWRwOEluQmhhUjRZT2tLZjNRZU1uZUJMWWdaZjAzaXFMZHQybkJBakhGc3B3?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-06T15:51:18.966131-07:00"
+  },
+  {
+    "item": {
+      "company": "Experts blame DOGE cuts",
+      "amount": "$14.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGNDNi1wSTY2eW1UdkNTZmJHRmdtV3pHX0JfR2Y0c0Nxb0xXTW1velMxc05VVXZRQVhHOXY1UHZaNkhLLUl0ZTdILTZLTmxTSU1lUnZMNmJualVPUzF5cUdMekN2aWh4X1pOUm5nemVlc2lYcmhQRlV2WU81aE52SHlXQ3FXaDlBd0ctZ1pJd2o1b2FXTGVnOExYRlVfNS1saXBQZVBoX1lkVTc0MWc?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/06/doge-cuts-usaid-humanitarian-aid-ebola-outbreak-congo/",
       "priority": 3
     },
-    "remind_at": "2026-07-06T14:31:17.682619-07:00"
+    "remind_at": "2026-07-06T15:51:22.405276-07:00"
+  },
+  {
+    "item": {
+      "company": "For Every $1 Spent on AI",
+      "amount": "$500.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/06/for-every-1-spent-on-ai-companies-pay-0-44-fixing-bugs-0-27-rewriting-code-and-0-11-on-review-delays-study-finds/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-06T15:51:25.666022-07:00"
   }
 ]
