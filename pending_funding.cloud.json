@@ -1,44 +1,16 @@
 [
   {
     "item": {
-      "company": "Korea's Studio Kiko",
-      "amount": null,
+      "company": "Bespoke Labs",
+      "amount": "$40.0M",
       "stage": "Series A",
-      "investors": null,
+      "investors": "Wing VC",
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41Q19qSko4eEtkVG1WeWxNUUt0Rmk4UUZXc1RrNjQxRWRwOEluQmhhUjRZT2tLZjNRZU1uZUJMWWdaZjAzaXFMZHQybkJBakhGc3B3?oc=5",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/06/ai-post-training-startup-bespoke-labs-raises-40m-funding/",
       "priority": 8
     },
-    "remind_at": "2026-07-06T15:51:18.966131-07:00"
-  },
-  {
-    "item": {
-      "company": "Experts blame DOGE cuts",
-      "amount": "$14.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/06/doge-cuts-usaid-humanitarian-aid-ebola-outbreak-congo/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-06T15:51:22.405276-07:00"
-  },
-  {
-    "item": {
-      "company": "For Every $1 Spent on AI",
-      "amount": "$500.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/06/for-every-1-spent-on-ai-companies-pay-0-44-fixing-bugs-0-27-rewriting-code-and-0-11-on-review-delays-study-finds/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-06T15:51:25.666022-07:00"
+    "remind_at": "2026-07-06T17:07:08.737074-07:00"
   }
 ]
