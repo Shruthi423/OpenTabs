@@ -1,72 +1,16 @@
 [
   {
     "item": {
-      "company": "Trump rings opening bell",
-      "amount": "$1.4B",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/06/trump-rings-opening-bell-trump-accounts-treasury-billion-dell/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-06T12:37:24.482122-07:00"
-  },
-  {
-    "item": {
-      "company": "The state of AI mid-2026",
-      "amount": "$30.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/06/token-economy-state-ai-mid-2026/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-06T12:37:27.790516-07:00"
-  },
-  {
-    "item": {
-      "company": "Inflation measurement tweaks make",
+      "company": "Databricks",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/06/inflation-fed-pce",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGNDNi1wSTY2eW1UdkNTZmJHRmdtV3pHX0JfR2Y0c0Nxb0xXTW1velMxc05VVXZRQVhHOXY1UHZaNkhLLUl0ZTdILTZLTmxTSU1lUnZMNmJualVPUzF5cUdMekN2aWh4X1pOUm5nemVlc2lYcmhQRlV2WU81aE52SHlXQ3FXaDlBd0ctZ1pJd2o1b2FXTGVnOExYRlVfNS1saXBQZVBoX1lkVTc0MWc?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-06T12:37:31.114490-07:00"
-  },
-  {
-    "item": {
-      "company": "Forter",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGhFbXA0LW5vQ1NOY1ZmY2tIaV9nWVBjOEpoQW1Db2swVXNBUDVfMWZpOHdJUlh5T0o0OWx6VlNfb1k3d29OUlE1RTM0NEJ0NU1WMUw1MVFiSTBYZV9RUS1OeVlFQ1JzUHFudWVuTE96S3pZaUtsV3FVWFpSVGlXVjNmdHltanQwbHVsY0MyVF9jdkJtN3ptU1JRa0ZiaTUtUTJJdU44NVo?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-06T12:37:33.551291-07:00"
-  },
-  {
-    "item": {
-      "company": "Meesho",
-      "amount": "$500.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ0ZtdjNzUkFPWm5aTTRHYTNrdVI4QnhjN3k3T3RzU1I5dWlaQWVVdWhwTHd0Tm1MMTdSLVNBN092R0hFakdJeEY5OWsxYUJ5UU9NTnVnYjgydzVicWxNZ3pvZEZtZ2dpY3ZNTDFvbHpFMGVOQzZTR2hRNG1wbDVkR0NsczJTWmdIZXZLZDZCWC15MHBLNDJBT3k5dXN3T0QwOGhGblIxZ0JlSlBTd3JnTG9FWVhPYXN0YmF6VURCNlU4SUNObEYzS0RpVmwzSC04WHhTcENTMUVqUdIB2gFBVV95cUxNZ0ZtdjNzUkFPWm5aTTRHYTNrdVI4QnhjN3k3T3RzU1I5dWlaQWVVdWhwTHd0Tm1MMTdSLVNBN092R0hFakdJeEY5OWsxYUJ5UU9NTnVnYjgydzVicWxNZ3pvZEZtZ2dpY3ZNTDFvbHpFMGVOQzZTR2hRNG1wbDVkR0NsczJTWmdIZXZLZDZCWC15MHBLNDJBT3k5dXN3T0QwOGhGblIxZ0JlSlBTd3JnTG9FWVhPYXN0YmF6VURCNlU4SUNObEYzS0RpVmwzSC04WHhTcENTMUVqUQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-06T12:37:35.990549-07:00"
+    "remind_at": "2026-07-06T14:31:17.682619-07:00"
   }
 ]

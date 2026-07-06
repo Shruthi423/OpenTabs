@@ -16750,5 +16750,26 @@
     "roles": [],
     "first_seen": "2026-07-06T12:07:36.990691-07:00",
     "status": "active"
+  },
+  "e3586b5262660be1ff97126bcec17c4f": {
+    "id": "e3586b5262660be1ff97126bcec17c4f",
+    "company": "Databricks",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGNDNi1wSTY2eW1UdkNTZmJHRmdtV3pHX0JfR2Y0c0Nxb0xXTW1velMxc05VVXZRQVhHOXY1UHZaNkhLLUl0ZTdILTZLTmxTSU1lUnZMNmJualVPUzF5cUdMekN2aWh4X1pOUm5nemVlc2lYcmhQRlV2WU81aE52SHlXQ3FXaDlBd0ctZ1pJd2o1b2FXTGVnOExYRlVfNS1saXBQZVBoX1lkVTc0MWc?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "Mountain View, California; San Francisco, California; Seattle, Washington",
+    "roles": [
+      {
+        "title": "Sr. Product Designer, AI/BI",
+        "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8429978002",
+        "location": "Mountain View, California; San Francisco, California; Seattle, Washington"
+      }
+    ],
+    "first_seen": "2026-07-06T14:01:18.682823-07:00",
+    "status": "active"
   }
 }
