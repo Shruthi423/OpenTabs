@@ -1,156 +1,114 @@
 [
   {
     "item": {
-      "company": "Before it",
+      "company": "Branddu AI",
       "amount": null,
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/tentris-raises-2m-graph-database-paderborn/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/branddu-ai-raises-300000-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-07-07T02:24:59.755507-07:00"
+    "remind_at": "2026-07-07T05:13:36.558653-07:00"
   },
   {
     "item": {
-      "company": "APTSell",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": "Seed Round Beijing",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/beijing-zhizhen-zhihe-technology-co-ltd-raises-millions-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-07T02:25:02.184953-07:00"
-  },
-  {
-    "item": {
-      "company": "InstaService",
-      "amount": "$2.0M",
-      "stage": "Seed",
+      "company": "HyperDev",
+      "amount": "$1.0M",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/instaservice-raises-2m-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/hyperdev-raises-1m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-07-07T02:25:04.734215-07:00"
-  },
-  {
-    "item": {
-      "company": "Hive",
-      "amount": "$15.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/hive-raises-15m-silicon-brain-industrial-machines/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-07T02:25:07.333441-07:00"
-  },
-  {
-    "item": {
-      "company": "AiderX",
-      "amount": "$6.9M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/aiderx-raises-krw-10b-in-pre-series-a-funding/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-07T02:25:09.763472-07:00"
-  },
-  {
-    "item": {
-      "company": "Korea Deep Learning",
-      "amount": "$8.3M",
-      "stage": "Series A",
-      "investors": "Translink Investment to scale its enterprise vision AI platform and expand globally",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/korea-deep-learning-raises-8-3m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-07T02:25:13.111470-07:00"
-  },
-  {
-    "item": {
-      "company": "Despite a $220 million",
-      "amount": "$220.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/07/220-million-net-worth-rafael-nadal-no-plans-to-retire-hotel-chain-career-retirement/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-07T02:25:16.482834-07:00"
-  },
-  {
-    "item": {
-      "company": "The shrinking 45-64 population",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/07/gen-x-population-shrinking-taxes-economy",
-      "priority": 3
-    },
-    "remind_at": "2026-07-07T02:25:19.714488-07:00"
-  },
-  {
-    "item": {
-      "company": "Where Obamacare enrollment",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/07/where-obamacare-enrollment-is-plummeting",
-      "priority": 3
-    },
-    "remind_at": "2026-07-07T02:25:22.993476-07:00"
-  },
-  {
-    "item": {
-      "company": "Proxima Fusion",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/proxima-fusion-raises-411m-google-rwe/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-07T02:25:26.360995-07:00"
+    "remind_at": "2026-07-07T05:13:39.093875-07:00"
   },
   {
     "item": {
       "company": "Mowito",
-      "amount": null,
-      "stage": null,
+      "amount": "$3.0M",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXBIWkQ1MDYtV3ZMa0Ffd3RsQnJFVldsQ0pucnYtbUI1LU1hVnJrNzQyLVYxckItc214elkwd2JacXFOeE9yc25OcDY5Rlh2VnBQVG52YmJKS1JHRVl0WUE5dDJqRE80ZnRiWVZYNnRDNHFfUEtBd3ZnaGFzdW8xOVB4TjMzbnd2aWNWMnFzTzFHUk1HTDU3dnBtaVc5ckVuVkZqalNpTDbSAagBQVVfeXFMTkVwSFpENTA2LVd2TGtBX3d0bEJyRVZXbENKbnJ2LW1CNS1NYVZyazc0Mi1WMXJCLXNteHpZMHdiWnFxTnhPcnNuTnA2OUZYdlZwUFRudmJiSktSR0VZdFlBOXQyakRPNGZ0YllWWDZ0QzRxX1BLQXd2Z2hhc3VvMTlQeE4zM253dmljVjJxc08xR1JNR0w1N3ZwbWlXOXJFblZGampTaUw2?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRzVUS2VGMGg5ODNTQmJ1Z01YVWdlTXo3b3dKdWRKa2x2MkN5WmRKVDhoVDQxOXdMV2JOdlZaVS1OeGFLaXBCc2pMbWtxd2JOUnpLcU5ZT1V4VEtnR3Jrazh6S1VEZlNoaTBncG5GYW1hSG8yd0tYb19KLXl3dzBxdlpjRTNUSzF1YXg0VzlnajRoS2o0STNtZC1ybFVHNi15SHRkMUM3eVA5eHVCZUJMWTU2OTJxSFJBS2dob0NXdGVoejN5WWZKVU9od0tMNTFCRTZFRFVn0gHbAUFVX3lxTE1kcjlQU1dWbDhpMTdTYjg1bTBMOEtzVUJhRGJRZkZRQlZYV0FXVjd1dG1KazhTVGdXYWRvRHVsd2JjSUlVX18tMGtzWTFQVXpELVF6RnZfcFhsMDFrdV9XSUhpRXJzUEIwVEtHcDVzRE52QzhBendweWhCdkJVVmc0Qk1YcFVrRTgyMFhucnNWUWpuSDVTZGE4M2dDWGFFcmtUb3VxV2otM2N0U3Y5TjRYZGdfZWZURExhN284VDc2aDU1b3REcnBCVXQ2WVRWNkdZV2FXOTZFbVhHcw?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-07-07T05:13:41.609084-07:00"
+  },
+  {
+    "item": {
+      "company": "Pensive",
+      "amount": "$6.8M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/pensive-raises-6-8m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-07T05:13:45.810375-07:00"
+  },
+  {
+    "item": {
+      "company": "True",
+      "amount": "$1.4M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/true-value-secures-krw-2-billion-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-07T05:13:48.257802-07:00"
+  },
+  {
+    "item": {
+      "company": "Oxfordshire-based Luffy AI",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": "Oxfordshire",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRnJTQnVTRl9ERlRpOUg5VzU0cFRHd2FzbEJ5bUlBd2dFU2k3X1k2bmlyYURIdzgxRWREWXhPTVdOMHJZYjdpbTlra2Fpa1JsZC1UUE5GWVFKMWpGdU9mWlpVSXFTWW5NdzZPUDZDUGJwYnppNF9vTHRCR2JFN0J4UmZHMTctQnh2UVBJYm15THJTVGxQM216NnluQTVETmQwZEdOUGxxd1FQVVM0Y080UWhya2xwaUFtZkN6d1BUZUQ1YndOVHFXU0c3aWFjZkY4VTY1ZUJPUW9pN0dwVWg1VjFR?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-07T05:13:51.652527-07:00"
+  },
+  {
+    "item": {
+      "company": "Backed by Anthropic",
+      "amount": "$40.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/backed-by-anthropic-openai-and-meta-insiders-bespoke-labs-raises-40m-can-better-environments-beat-bigger-models/",
       "priority": 3
     },
-    "remind_at": "2026-07-07T02:25:28.758492-07:00"
+    "remind_at": "2026-07-07T05:13:54.924528-07:00"
+  },
+  {
+    "item": {
+      "company": "Copia Automation",
+      "amount": "$26.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/copia-automation-raises-26m-in-funding/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-07T05:13:58.181124-07:00"
   }
 ]
