@@ -1,142 +1,156 @@
 [
   {
     "item": {
-      "company": "M1X Global",
-      "amount": "$5.5M",
-      "stage": "Seed",
-      "investors": "Paradigm to accelerate institutional adoption of its tokenized sovereign debt platform",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/m1x-global-raises-5-5m-seed/",
-      "priority": 12
-    },
-    "remind_at": "2026-07-06T23:01:43.503103-07:00"
-  },
-  {
-    "item": {
-      "company": "Stoa",
+      "company": "Before it",
       "amount": null,
       "stage": "Pre-Seed",
-      "investors": null,
-      "location": "London",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/stoa-raises-2-1m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-06T23:01:45.649000-07:00"
-  },
-  {
-    "item": {
-      "company": "ARC Intelligence",
-      "amount": null,
-      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/arc-intelligence-raises-4m-seed-erp-ai/",
-      "priority": 9
+      "url": "https://techfundingnews.com/tentris-raises-2m-graph-database-paderborn/",
+      "priority": 10
     },
-    "remind_at": "2026-07-06T23:01:48.633829-07:00"
+    "remind_at": "2026-07-07T02:24:59.755507-07:00"
   },
   {
     "item": {
-      "company": "Medical Tourism Platform 'iipuda'",
+      "company": "APTSell",
       "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": "Seed Round Beijing",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/beijing-zhizhen-zhihe-technology-co-ltd-raises-millions-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-07T02:25:02.184953-07:00"
+  },
+  {
+    "item": {
+      "company": "InstaService",
+      "amount": "$2.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamhpSldqWWxfWHBnTFlMa2thdUlOeXpHb2lucEp6d3VCZnhGM3EwaXpIaWlyUjRkYkxJM3BlLTJuakZNdlI3UkpyazNRdm56S2RoZnhxQ1NVM1NBQ1B6YndzU0RTcmhXWTBxaHdPOHh4eXlkZjN0M3ZQYk1CQkFuVTVGaFFhMEhXM2xOc2Q3NHk3ckd6ZmdQQmplSzRVMXpR?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/instaservice-raises-2m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-07-06T23:01:51.489292-07:00"
+    "remind_at": "2026-07-07T02:25:04.734215-07:00"
   },
   {
     "item": {
-      "company": "MODEPICK",
-      "amount": null,
-      "stage": "Seed",
+      "company": "Hive",
+      "amount": "$15.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlRVJvdl9sTVN3WGRxRDFYRnFZR1F3R2h2U2xhREl3SmZjQXpWRzZ2dHJkRTg4Ymg0b21IcDlYYmZhZzZVYzNTdUJWbkNuaHBXakg4?oc=5",
-      "priority": 9
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/hive-raises-15m-silicon-brain-industrial-machines/",
+      "priority": 8
     },
-    "remind_at": "2026-07-06T23:01:53.637465-07:00"
+    "remind_at": "2026-07-07T02:25:07.333441-07:00"
   },
   {
     "item": {
-      "company": "Studio Kiko",
-      "amount": null,
+      "company": "AiderX",
+      "amount": "$6.9M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/studio-kiko-raises-pre-series-a/",
+      "url": "https://www.thesaasnews.com/news/aiderx-raises-krw-10b-in-pre-series-a-funding/",
       "priority": 8
     },
-    "remind_at": "2026-07-06T23:01:56.490014-07:00"
+    "remind_at": "2026-07-07T02:25:09.763472-07:00"
   },
   {
     "item": {
-      "company": "Aviva",
-      "amount": "$18.0M",
+      "company": "Korea Deep Learning",
+      "amount": "$8.3M",
       "stage": "Series A",
-      "investors": null,
+      "investors": "Translink Investment to scale its enterprise vision AI platform and expand globally",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/aviva-raises-18m-series-a/",
+      "url": "https://www.thesaasnews.com/news/korea-deep-learning-raises-8-3m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-07-06T23:01:58.777192-07:00"
+    "remind_at": "2026-07-07T02:25:13.111470-07:00"
   },
   {
     "item": {
-      "company": "Keyfactor",
-      "amount": "$1.0B",
+      "company": "Despite a $220 million",
+      "amount": "$220.0M",
       "stage": null,
-      "investors": "Summit Partners to accelerate its machine identity and digital trust platform for AI and quantum security",
+      "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/keyfactor-raises-1b-growth-capital/",
-      "priority": 6
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/07/220-million-net-worth-rafael-nadal-no-plans-to-retire-hotel-chain-career-retirement/",
+      "priority": 3
     },
-    "remind_at": "2026-07-06T23:02:00.910634-07:00"
+    "remind_at": "2026-07-07T02:25:16.482834-07:00"
   },
   {
     "item": {
-      "company": "Samsung",
+      "company": "The shrinking 45-64 population",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/06/samsung-says-memory-chip-demand-will-drive-19-fold-jump-operating-profit/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/07/gen-x-population-shrinking-taxes-economy",
       "priority": 3
     },
-    "remind_at": "2026-07-06T23:02:03.090414-07:00"
+    "remind_at": "2026-07-07T02:25:19.714488-07:00"
   },
   {
     "item": {
-      "company": "Tanium",
+      "company": "Where Obamacare enrollment",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONmtRVHFGaXhQR3YzNVYyVEZDTzZsN25NblB3XzBqQi1aQkFZemJwVFB6b1EwQmdTVnBLQ1p5WXVJRjZZREZaT2Y5bllFV0xuZGFYSGdEelBpaHNOc2RsUzlHaTBIVmtaVC1sSnJsbXpzdGlCNTZzUEdVMTBjR1Vkb283RFlUUF8zUzYwWndKdmxvQkg4RFh3eDEtWlZSX3IteUFTQUZRR0s?oc=5",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/07/where-obamacare-enrollment-is-plummeting",
       "priority": 3
     },
-    "remind_at": "2026-07-06T23:02:05.384383-07:00"
+    "remind_at": "2026-07-07T02:25:22.993476-07:00"
+  },
+  {
+    "item": {
+      "company": "Proxima Fusion",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/proxima-fusion-raises-411m-google-rwe/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-07T02:25:26.360995-07:00"
+  },
+  {
+    "item": {
+      "company": "Mowito",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXBIWkQ1MDYtV3ZMa0Ffd3RsQnJFVldsQ0pucnYtbUI1LU1hVnJrNzQyLVYxckItc214elkwd2JacXFOeE9yc25OcDY5Rlh2VnBQVG52YmJKS1JHRVl0WUE5dDJqRE80ZnRiWVZYNnRDNHFfUEtBd3ZnaGFzdW8xOVB4TjMzbnd2aWNWMnFzTzFHUk1HTDU3dnBtaVc5ckVuVkZqalNpTDbSAagBQVVfeXFMTkVwSFpENTA2LVd2TGtBX3d0bEJyRVZXbENKbnJ2LW1CNS1NYVZyazc0Mi1WMXJCLXNteHpZMHdiWnFxTnhPcnNuTnA2OUZYdlZwUFRudmJiSktSR0VZdFlBOXQyakRPNGZ0YllWWDZ0QzRxX1BLQXd2Z2hhc3VvMTlQeE4zM253dmljVjJxc08xR1JNR0w1N3ZwbWlXOXJFblZGampTaUw2?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-07T02:25:28.758492-07:00"
   }
 ]
