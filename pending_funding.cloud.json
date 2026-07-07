@@ -1,114 +1,102 @@
 [
   {
     "item": {
-      "company": "Alchemic",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2xqUzVFZ2RjUTR0YWJBQTl0NkNYbGNxWnlpMDZHOG1rTnp2OHVPUDlDT0hlamxLVkh2Tmw1Mm10azhmd1pLbl9TMFhUOHlnVDUyX3QyY2lXb1hLUnRWTGFJOW5MV2xSR242ZDVHcFJ1WkQ0Rzh4aFV3Nk1VNHFiWjZrVkNyR3RuVWU5b0tlQ1lNVHN30gGUAUFVX3lxTE4zbGpTNUVnZGNRNHRhYkFBOXQ2Q1hsY3FaeWkwNkc4bWtOenY4dU9QOUNPSGVqbEtWSHZObDUybXRrOGZ3WktuX1MwWFQ4eWdUNTJfdDJjaVdvWEtSdFZMYUk5bkxXbFJHbjZkNUdwUnVaRDRHOHhoVXc2TVU0cWJaNmtWQ3JHdG5VZTlvS2VDWU1Uc3c?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-07-07T07:23:44.995353-07:00"
-  },
-  {
-    "item": {
-      "company": "Savi\u2019s app aims",
-      "amount": "$7.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-07T07:23:47.935122-07:00"
-  },
-  {
-    "item": {
-      "company": "Tangos grabs $20M in funding",
+      "company": "After three exits",
       "amount": "$20.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/07/tangos-grabs-20m-funding-take-bad-guys-automating-financial-crime-investigations/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQd2NMeHAxOEUwcHF1UzlXUkVZTWZKYkh2a2pPVmxXSVl0Tk4zcGszUVphLWR4YWhNcldVRVE3c2Rabmhqajg0SHlZT1BwM0tHVnlGMDlHc2pCUF9nYVotczJiaFhoTUR6?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-07T07:23:56.710033-07:00"
+    "remind_at": "2026-07-07T09:55:02.907438-07:00"
   },
   {
     "item": {
-      "company": "SK Hynix\u2014which supplies memory chips",
-      "amount": "$28.0B",
-      "stage": null,
+      "company": "One Raven",
+      "amount": "$5.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/07/sk-hynix-memory-chips-nvidia-wall-street-tech-ipo-cfo/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rc3J6WFZhVXRZNmNYeWJVM3RPaWFBdWxwRWd1bE1NazBsLTV2SlhCWmJMb0dOWnpkNGNTS3I5T3VJT29lR19FVFF0c0FCdHpCZms4MGFzN20zZkxiV0QtOVlXM1RYVzV3d0sxaW84YUwzUXl4UG5sa3l3RFY?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-07-07T07:23:59.695751-07:00"
+    "remind_at": "2026-07-07T09:55:05.881513-07:00"
   },
   {
     "item": {
-      "company": "Assail",
-      "amount": null,
-      "stage": null,
+      "company": "Norm",
+      "amount": "$120.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "priority": 6
+    },
+    "remind_at": "2026-07-07T09:55:08.157979-07:00"
+  },
+  {
+    "item": {
+      "company": "Anthropic brings Claude Cowork",
+      "amount": "$19.0B",
+      "stage": "Bridge",
+      "investors": null,
+      "location": null,
+      "founders": [
+        "Kevin M"
+      ],
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding",
+      "priority": 6
+    },
+    "remind_at": "2026-07-07T09:55:11.313515-07:00"
+  },
+  {
+    "item": {
+      "company": "Norm Ai",
+      "amount": "$120.0M",
+      "stage": "Series C",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/07/assail-launches-sidewinder-offensive-security-ai-fixes-mistakes/",
-      "priority": 3
+      "url": "https://siliconangle.com/2026/07/07/norm-ai-nabs-120m-1-2b-valuation-bring-ai-agents-law/",
+      "priority": 6
     },
-    "remind_at": "2026-07-07T07:24:01.935655-07:00"
+    "remind_at": "2026-07-07T09:55:13.491640-07:00"
   },
   {
     "item": {
-      "company": "Amazon",
-      "amount": "$25.0B",
+      "company": "Rylo",
+      "amount": "$85.0M",
       "stage": null,
-      "investors": null,
+      "investors": "rejected the idea 77 times before the first yes",
       "location": null,
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/07/amazon-seeks-another-25b-from-bond-sale-as-ai-spending-pushes-big-tech-deeper-into-debt/",
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/07/rylo-ai-communication-accessibility-deaf-hard-of-hearing-real-time-captioning-platform-tomer-aharoni/",
       "priority": 3
     },
-    "remind_at": "2026-07-07T07:24:04.138841-07:00"
+    "remind_at": "2026-07-07T09:55:15.678482-07:00"
   },
   {
     "item": {
-      "company": "EVTV",
-      "amount": "$487.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/07/envirotech-vehicles-nasdaq-evtv-closes-merger-with-azio-ai-ahead-of-schedule-positioning-combined-company-to-capture-487-billion-2026-ai-infrastructure-opportunity/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-07T07:24:06.382446-07:00"
-  },
-  {
-    "item": {
-      "company": "Ex-DJI Engineer Dives Into Obscure Niche",
+      "company": "DoorDash",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MRm0ySnFHVjZBX2FCSW5hZXlVOG9HQm9mVzhMTWRoUExEMFFXbUtEMTN3ZUY2MnlrcDVkYnJpNW1hQ1VEYmQxOEJpaWUwRC10UGtjT2FvZFVtVFlnN21zYjk2RmdNNm1lajBTdkRtUU1VZU9RN3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2pWZWVuMjVYYXh1ZkJpandGY3FMX24tN0Zocmt0UnF1cG84NlVRbG92bUEzbWUyV3otQXhHSmJzMi1LTFdwUXMydF8xb3Q0RlNzdU1VcWNwU3NMeDUwRW94d3Q3TDVrNFcxXy1ZNFdBR3VkS0xEV1Rwa3htTzJNQl92a0lweFQ4QV9STU1IWWhyLUxXSzVZU2tUWHc4Qlpoa2Vab0VhbmxGZzA?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-07T07:24:09.330788-07:00"
+    "remind_at": "2026-07-07T09:55:18.034339-07:00"
   }
 ]
