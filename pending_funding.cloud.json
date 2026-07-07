@@ -1,16 +1,44 @@
 [
   {
     "item": {
-      "company": "Bespoke Labs",
-      "amount": "$40.0M",
-      "stage": "Series A",
-      "investors": "Wing VC",
+      "company": "Modpick",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUXBsYng1eFMxR01EM0M1bkZwenV4bklibjdYc2JUQVBCeHc4bldjclhub2lrbE5rQ0NYTzRNc3I2MGRhM2N0NVhLbXJ2Q3ZLUnBXOGFYWWZYVUhnVjdaNXUxVlpmdzJpdUwwbzNUWk1jcXBRY0o5YWtTMVZKQVJOS0dkY3hhU2loTlNTWk5ydTZhTlZxVm1ibUhINjA2SE50eHRmTQ?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-06T18:54:34.262819-07:00"
+  },
+  {
+    "item": {
+      "company": "Memory chipmaker SK hynix",
+      "amount": "$28.0B",
+      "stage": null,
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/06/ai-post-training-startup-bespoke-labs-raises-40m-funding/",
-      "priority": 8
+      "url": "https://siliconangle.com/2026/07/06/memory-chip-maker-sk-hynix-seeks-raise-28b-u-s-ipo/",
+      "priority": 3
     },
-    "remind_at": "2026-07-06T17:07:08.737074-07:00"
+    "remind_at": "2026-07-06T18:54:37.629814-07:00"
+  },
+  {
+    "item": {
+      "company": "Peregrine.io",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdUcwR0ppd3FkUUV2SHhFUWJoNDJqR25JQWZaaW94WFBlTUZTaDJNY2RNZ0cyTVRVbWxWRVEyZFpRbWpTQU9jc2RxZEtXckpFTWF1SzAyTTQ2VjZJTE9IdVJIekFtaUZ0blRhWTE3ZFgwR3VmRDNMZWVwRHdlaGhSSjVCMXdJYm51V2xNMWZOemV4eUlDWWdORi1ManJ1RnpwbEpxY3R6RUZEdDE0M3Bv?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-06T18:54:40.073618-07:00"
   }
 ]
