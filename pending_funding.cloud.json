@@ -1,44 +1,142 @@
 [
   {
     "item": {
-      "company": "Modpick",
+      "company": "M1X Global",
+      "amount": "$5.5M",
+      "stage": "Seed",
+      "investors": "Paradigm to accelerate institutional adoption of its tokenized sovereign debt platform",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/m1x-global-raises-5-5m-seed/",
+      "priority": 12
+    },
+    "remind_at": "2026-07-06T23:01:43.503103-07:00"
+  },
+  {
+    "item": {
+      "company": "Stoa",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": "London",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/stoa-raises-2-1m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-07-06T23:01:45.649000-07:00"
+  },
+  {
+    "item": {
+      "company": "ARC Intelligence",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/arc-intelligence-raises-4m-seed-erp-ai/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-06T23:01:48.633829-07:00"
+  },
+  {
+    "item": {
+      "company": "Medical Tourism Platform 'iipuda'",
       "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUXBsYng1eFMxR01EM0M1bkZwenV4bklibjdYc2JUQVBCeHc4bldjclhub2lrbE5rQ0NYTzRNc3I2MGRhM2N0NVhLbXJ2Q3ZLUnBXOGFYWWZYVUhnVjdaNXUxVlpmdzJpdUwwbzNUWk1jcXBRY0o5YWtTMVZKQVJOS0dkY3hhU2loTlNTWk5ydTZhTlZxVm1ibUhINjA2SE50eHRmTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamhpSldqWWxfWHBnTFlMa2thdUlOeXpHb2lucEp6d3VCZnhGM3EwaXpIaWlyUjRkYkxJM3BlLTJuakZNdlI3UkpyazNRdm56S2RoZnhxQ1NVM1NBQ1B6YndzU0RTcmhXWTBxaHdPOHh4eXlkZjN0M3ZQYk1CQkFuVTVGaFFhMEhXM2xOc2Q3NHk3ckd6ZmdQQmplSzRVMXpR?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-06T18:54:34.262819-07:00"
+    "remind_at": "2026-07-06T23:01:51.489292-07:00"
   },
   {
     "item": {
-      "company": "Memory chipmaker SK hynix",
-      "amount": "$28.0B",
-      "stage": null,
+      "company": "MODEPICK",
+      "amount": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/06/memory-chip-maker-sk-hynix-seeks-raise-28b-u-s-ipo/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlRVJvdl9sTVN3WGRxRDFYRnFZR1F3R2h2U2xhREl3SmZjQXpWRzZ2dHJkRTg4Ymg0b21IcDlYYmZhZzZVYzNTdUJWbkNuaHBXakg4?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-07-06T18:54:37.629814-07:00"
+    "remind_at": "2026-07-06T23:01:53.637465-07:00"
   },
   {
     "item": {
-      "company": "Peregrine.io",
+      "company": "Studio Kiko",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/studio-kiko-raises-pre-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-06T23:01:56.490014-07:00"
+  },
+  {
+    "item": {
+      "company": "Aviva",
+      "amount": "$18.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/aviva-raises-18m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-06T23:01:58.777192-07:00"
+  },
+  {
+    "item": {
+      "company": "Keyfactor",
+      "amount": "$1.0B",
+      "stage": null,
+      "investors": "Summit Partners to accelerate its machine identity and digital trust platform for AI and quantum security",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/keyfactor-raises-1b-growth-capital/",
+      "priority": 6
+    },
+    "remind_at": "2026-07-06T23:02:00.910634-07:00"
+  },
+  {
+    "item": {
+      "company": "Samsung",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdUcwR0ppd3FkUUV2SHhFUWJoNDJqR25JQWZaaW94WFBlTUZTaDJNY2RNZ0cyTVRVbWxWRVEyZFpRbWpTQU9jc2RxZEtXckpFTWF1SzAyTTQ2VjZJTE9IdVJIekFtaUZ0blRhWTE3ZFgwR3VmRDNMZWVwRHdlaGhSSjVCMXdJYm51V2xNMWZOemV4eUlDWWdORi1ManJ1RnpwbEpxY3R6RUZEdDE0M3Bv?oc=5",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/06/samsung-says-memory-chip-demand-will-drive-19-fold-jump-operating-profit/",
       "priority": 3
     },
-    "remind_at": "2026-07-06T18:54:40.073618-07:00"
+    "remind_at": "2026-07-06T23:02:03.090414-07:00"
+  },
+  {
+    "item": {
+      "company": "Tanium",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONmtRVHFGaXhQR3YzNVYyVEZDTzZsN25NblB3XzBqQi1aQkFZemJwVFB6b1EwQmdTVnBLQ1p5WXVJRjZZREZaT2Y5bllFV0xuZGFYSGdEelBpaHNOc2RsUzlHaTBIVmtaVC1sSnJsbXpzdGlCNTZzUEdVMTBjR1Vkb283RFlUUF8zUzYwWndKdmxvQkg4RFh3eDEtWlZSX3IteUFTQUZRR0s?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-06T23:02:05.384383-07:00"
   }
 ]
