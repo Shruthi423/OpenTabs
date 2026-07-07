@@ -6568,5 +6568,23 @@
     "first_seen": "2026-07-07T09:24:39.499366-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "ed1c81e6494f66ca942e0ed93b26681f": {
+    "id": "ed1c81e6494f66ca942e0ed93b26681f",
+    "title": "Motion Designer, Experiential",
+    "company": "Stripe",
+    "location": "US",
+    "salary": "Not listed",
+    "url": "https://stripe.com/jobs/search?gh_jid=8047129",
+    "source": "Stripe",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-07-07T14:52:47.976008-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
