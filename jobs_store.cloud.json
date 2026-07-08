@@ -6766,5 +6766,42 @@
     "first_seen": "2026-07-08T07:39:56.969198-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "32bfa06f507f121b5f8e1dba0e96c8c6": {
+    "id": "32bfa06f507f121b5f8e1dba0e96c8c6",
+    "title": "Junior Product Designer at Nagarro",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://remotefirstjobs.com/companies/nagarro/jobs/junior-product-designer-834041",
+    "source": "JobsCollider",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-07-08T09:21:00.829659-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "d52696e380e1cccbac80e792e521c840": {
+    "id": "d52696e380e1cccbac80e792e521c840",
+    "title": "Product Designer",
+    "company": "Lassie",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/lassie/8a89fe3d-a1ae-42c0-8633-c22c0840cc37",
+    "source": "\ud83d\udcb0 Lassie (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Lassie raised $35.0M",
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-07-08T09:21:48.059585-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
