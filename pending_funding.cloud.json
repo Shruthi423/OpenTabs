@@ -1,30 +1,88 @@
 [
   {
     "item": {
-      "company": "Oratomic",
-      "amount": "$300.0M",
-      "stage": "Series A",
+      "company": "Display.dev",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": "Tallinn",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/display-dev-raises-470000-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-07-07T23:01:58.765773-07:00"
+  },
+  {
+    "item": {
+      "company": "Neothera",
+      "amount": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEpYcjNIYUxTUjFIZU1NTWd0WDI4d2JmT0ZQWFNLcGx5S0lNQWt4eVVqREo0aWR6eWEzcXRDaUZVWmNnRkNFZG9jenliTERsMFlOS2g1OVRPdDVPcjE5bDdXdWpMNGxKeUNzc3ZaRHM2b21ncEtvN1hQVDlpbnRCUWZCYWw?oc=5",
-      "priority": 8
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZkdoanRiRUdVV2RuLTdYeVNhb3pxLVh6WUVSbmE0bjIxQ0hkR0lSVVNaalowc0ItMkg5Z2ZONnJuNVV1S1JxZ3JBYllFLTA3MjNiS3htczdjVHJXTzkzeFFSbzhkd2Jzcm96MGgwMlFHWUp0clg4OGdhRXR4X3B5MGY2bEZsa3Z2OENQSklBU1cwMXFZMk5nZmRsbDg5eklOSTdvS2RGY1dZc3lza1dkUUJDYXJ3Y1R1WnVocjd3?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-07-07T19:37:21.549919-07:00"
+    "remind_at": "2026-07-07T23:02:01.103781-07:00"
   },
   {
     "item": {
-      "company": "Traveloka",
+      "company": "Point Nine breaks from software",
       "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/aardaia-raises-5m-seed-point-nine-protein-tuber/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-07T23:02:04.142633-07:00"
+  },
+  {
+    "item": {
+      "company": "Tangos",
+      "amount": "$20.0M",
+      "stage": "Seed",
+      "investors": "Red Dot Capital Partners to scale its autonomous AI platform for financial crime investigations",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/tangos-raises-20m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-07T23:02:06.366004-07:00"
+  },
+  {
+    "item": {
+      "company": "Microsoft dashes game developer dreams",
+      "amount": "$7.5B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [
+        "Asha Sharma"
+      ],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/07/microsofts-gaming-xbox-deals",
+      "priority": 3
+    },
+    "remind_at": "2026-07-07T23:02:09.417909-07:00"
+  },
+  {
+    "item": {
+      "company": "Pearl Health",
+      "amount": "$110.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSVdSOGhWcUY5LUhJYUlTNWNDYVEteDhXYjVFZWpOcXFid1RscThoTVo4Q0RLclRQaXpCZXBKckg1RVpzYnhlSjV1MUxrME15d0pIa1RhLUhFQ2lMT2ZReE85NHc2NEFLMDZIV01HeVcydFRBOHJZUlQ3WkU4NnMtOWJ4OFlnSkd4REw4eC11QVhtalplcE5vUjYtRmNjTTR6amV2MUZ5anpaT2s1?oc=5",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ2FmU3Q0bE00OWdwbk1Jc2lhUzQ0WmlINEE0R2E2QXlSWEhCS1prUWM5aUNjQldRUVoyeElmaTZRWGk0LTRiZzQwMUNKQTN4b29pcDlXZEJNd1VkZHhFc2Riel8yRjhlZ0lxSERfVXh4SzJxSHNKRVgxMjhYZmpHaV9sMFhSVDZ2VlJ6VGxQTU4?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-07T19:37:23.967115-07:00"
+    "remind_at": "2026-07-07T23:02:12.400682-07:00"
   }
 ]
