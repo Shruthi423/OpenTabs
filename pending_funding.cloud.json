@@ -1,184 +1,128 @@
 [
   {
     "item": {
-      "company": "Agave",
-      "amount": "$15.0M",
-      "stage": "Series A",
-      "investors": "Accel to expand its AI platform that automates financial workflows for construction contractors",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/agave-raises-15m-series-a/",
-      "priority": 11
-    },
-    "remind_at": "2026-07-08T01:29:09.629510-07:00"
-  },
-  {
-    "item": {
-      "company": "Paraito",
-      "amount": "$2.65M",
+      "company": "Gyre Energy",
+      "amount": "$1.3M",
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/paraito-raises-c2-65m-pre-seed/",
+      "url": "https://www.thesaasnews.com/news/gyre-energy-raises-1-3m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-07-08T01:29:11.924511-07:00"
+    "remind_at": "2026-07-08T03:51:28.995246-07:00"
   },
   {
     "item": {
-      "company": "Auxilius",
+      "company": "Avni Wellness",
       "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/auxilius-raises-1-3m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-08T01:29:14.173791-07:00"
-  },
-  {
-    "item": {
-      "company": "Savi Security",
-      "amount": "$7.0M",
       "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/savi-security-raises-7m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-08T01:29:17.185442-07:00"
-  },
-  {
-    "item": {
-      "company": "Besty AI",
-      "amount": "$3.75M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/besty-ai-raises-3-75m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-08T01:29:19.471647-07:00"
-  },
-  {
-    "item": {
-      "company": "Luffy AI",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/luffy-ai-raises-9-4m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-08T01:29:21.724207-07:00"
-  },
-  {
-    "item": {
-      "company": "Kord",
-      "amount": null,
-      "stage": "Series A",
-      "investors": "Guinness Ventures to scale its integrated identity verification and payment platform for law firms",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kord-raises-6-4m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-08T01:29:24.045513-07:00"
-  },
-  {
-    "item": {
-      "company": "Econovus Packaging",
-      "amount": null,
-      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPN2RYdGdoOU1VWDlHVl9EX19qU0JsVDB4Zi0wR0hrdXlQbE1qZXJZMExWZDFyMGJFdzliNzVlVHplRnZjeEI4V0Z6RFBPdE1xOFUwQXJZMmVaMEYzd2ptcXE1dW03SWtWZkkwY1UyNVFtNWhmOU50WUZYTjhUY0FYWHpmVnlQcU1IRVVSdUdLcXI1OXNjSGVQU3A5bFdhaXRYd2pPWmJpcEZNbVdHT05OZUVvaU5ieHdES2VTRVJSZ2otQWpJN0dFZWlHV2ZIcUdpVVZUemNvbFpuWjR0WmtSblY2dnFrUUpCdFluR29kQ2ZsODl2Z2hPTXBOemcwUE1YdUE?oc=5",
-      "priority": 8
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWdvSXJCazV2RldQY29NVnB4WXlkWWxHZHJNM09WLTdpTUJsLV9PUkR0QjV3MFRGTGtqUjdHdnRlanVoUVk4bjczOHF5YVZNWWd5NUlvdWpmbGlkZmdBMk9qOFdoR0djbDg2aFUtb0ZNeXZMVTdmaWFvVEEyei1ZTDZIN2RxSEdPaDZ6U1BNZFFPa0JET3l5MA?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-07-08T01:29:27.006024-07:00"
+    "remind_at": "2026-07-08T03:51:32.376047-07:00"
   },
   {
     "item": {
-      "company": "Stylework",
-      "amount": "$1.0M",
-      "stage": "Series B",
-      "investors": "Auxano Capital to expand its flexible workspace platform and software offerings across India",
+      "company": "BIZAY",
+      "amount": null,
+      "stage": "Series D",
+      "investors": "Indico Capital Partners to expand in the US, pursue acquisitions, and develop AI infrastructure",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/stylework-raises-1m-pre-series-b/",
-      "priority": 7
+      "url": "https://www.thesaasnews.com/news/bizay-raises-48-75m-series-d/",
+      "priority": 5
     },
-    "remind_at": "2026-07-08T01:29:29.142844-07:00"
+    "remind_at": "2026-07-08T03:51:34.680612-07:00"
   },
   {
     "item": {
-      "company": "AI chip maker SambaNova",
-      "amount": "$1.0B",
-      "stage": null,
+      "company": "Mercury",
+      "amount": "$200.0M",
+      "stage": "Series D",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Funding",
-      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/mercury-raises-200m-series-d/",
+      "priority": 5
     },
-    "remind_at": "2026-07-08T01:29:32.267377-07:00"
+    "remind_at": "2026-07-08T03:51:37.177597-07:00"
   },
   {
     "item": {
-      "company": "Fleek",
-      "amount": "$25.0M",
+      "company": "Despite ending his tennis career",
+      "amount": "$220.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/08/fleek-an-online-marketplace-connecting-vintage-clothing-wholesalers-and-retailers-raises-25-million-in-new-funding/",
+      "url": "https://fortune.com/2026/07/07/220-million-net-worth-rafael-nadal-no-plans-to-retire-hotel-chain-career-retirement/",
       "priority": 3
     },
-    "remind_at": "2026-07-08T01:29:34.477362-07:00"
+    "remind_at": "2026-07-08T03:51:40.575051-07:00"
   },
   {
     "item": {
-      "company": "Here",
-      "amount": null,
+      "company": "Republicans juice spending",
+      "amount": "$28.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/08/gop-senate-campaign-spending-ohio-iowa",
+      "priority": 3
+    },
+    "remind_at": "2026-07-08T03:51:43.852591-07:00"
+  },
+  {
+    "item": {
+      "company": "Lovable in talks",
+      "amount": "$12.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/16-unicorns-in-one-month-here-is-what-june-2026-says-about-where-ai-money-is-actually-going/",
+      "url": "https://techfundingnews.com/lovable-raises-12b-valuation-talks-vibe-coding/",
       "priority": 3
     },
-    "remind_at": "2026-07-08T01:29:36.650009-07:00"
+    "remind_at": "2026-07-08T03:51:47.075923-07:00"
   },
   {
     "item": {
-      "company": "Fuchs & Eule",
+      "company": "Flutterwave",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/fuchs-eule-raises-10m-commercial-landlords-esg/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/flutterwave-secures-circle-ventures-investment-launches-usdc-settlement-nairametrics/",
       "priority": 3
     },
-    "remind_at": "2026-07-08T01:29:39.508025-07:00"
+    "remind_at": "2026-07-08T03:51:49.410501-07:00"
+  },
+  {
+    "item": {
+      "company": "YC-backed Fleek",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTGFfcEU2UjZITmhCRTRSLTY3bEllY0FuX2J4a2pxX09PaC1oVGkzal92SEQ0RklZbU9iS0JTckZIRURzMUlKOXNDeW9UZGpfV1NNcFl1ZklMLW1IYWxpVUk0SjV5LTBtZWJ0b3RhTUdQUGUyOFQycXhlR3l5TVl1ZnVQd2dUcXc1TGsxeS1zcWNWdURyc3pvQ0dsblhPTjFFRHJjTmhPQW5raVhiXy1sN2puZ3FwWEswWWRSdnFJMzc2ZFN3MnJpOGw3WHJJUVpSZ3dxdFZ1ams?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-08T03:51:52.699144-07:00"
   }
 ]
