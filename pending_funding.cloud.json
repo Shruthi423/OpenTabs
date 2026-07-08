@@ -1,72 +1,58 @@
 [
   {
     "item": {
-      "company": "Prime Intellect",
-      "amount": "$130.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-08T11:28:56.954098-07:00"
-  },
-  {
-    "item": {
-      "company": "Alta",
-      "amount": "$25.0M",
-      "stage": "Series A",
+      "company": "Gradium",
+      "amount": "$100.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94VTBuLTFfYjVQMkhERWp6LTlRU3MwWllvbXZGNHJnLXJxLVd5VFFTX0E4bXV1bnBmNUhaWHpjbmt4dlNnMmZySF9CcnBtS3ppZVFqekhJZ2tnaTF0Q0ZjRFg1U3BNOC13?oc=5",
-      "priority": 8
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uRFdweFAxa1dsQlZwbnBkX1l2dFNFM21iRXdIcl9ZZmxuOURKcWE5V0ozUC1wTzAwRFpyRFlKcjVpSVBoOWVQQnZSV0ppZVk5Zk1Xb1ktalJUcFVIeUs1Y1hEZWRFYmdhYl93Yw?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-07-08T11:28:59.223526-07:00"
+    "remind_at": "2026-07-08T12:56:39.135296-07:00"
   },
   {
     "item": {
-      "company": "Crypto VC firm Paradigm",
-      "amount": "$1.2B",
+      "company": "Trump loses bid",
+      "amount": "$5.0M",
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "New York",
       "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/08/trump-loses-bid-to-delay-carroll-5-million-trial-payout/",
       "priority": 3
     },
-    "remind_at": "2026-07-08T11:29:02.233989-07:00"
+    "remind_at": "2026-07-08T12:56:42.412648-07:00"
   },
   {
     "item": {
-      "company": "SpaceXAI",
+      "company": "Bezos\u2019 Blue Origin",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/08/spacexai-grok-new-model",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/08/bezos-blue-origin-raising-capital-spacex-musk/",
       "priority": 3
     },
-    "remind_at": "2026-07-08T11:29:04.478900-07:00"
+    "remind_at": "2026-07-08T12:56:45.625596-07:00"
   },
   {
     "item": {
-      "company": "Paradigm",
-      "amount": "$1.2B",
+      "company": "Has Just",
+      "amount": null,
       "stage": null,
-      "investors": null,
+      "investors": "immediately",
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjlMd2R6VTBpTmttZUIxNWVjbk5FdTJWUGZFNnNlMUdGWEU0bEIyenBqN3VNYVZ4MGJKeDFmQ3FtMy1ZeF9nTUVyRVc2UC1QdHZzZGNDTHBFTndDbFBCWXl4cEF4bzB5QkpsZ2txdHdoazU3Z2dEM0tmalZKczFSWFo5ZlBacDdqTnVMSWN6d1RsMURzNEQw?oc=5",
+      "source": "SaaStr",
+      "url": "https://www.saastr.com/dear-saastr-what-happens-if-one-founder-wants-to-quit-when-the-startup/",
       "priority": 3
     },
-    "remind_at": "2026-07-08T11:29:06.779775-07:00"
+    "remind_at": "2026-07-08T12:56:48.905270-07:00"
   }
 ]
