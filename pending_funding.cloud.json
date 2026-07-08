@@ -1,128 +1,90 @@
 [
   {
     "item": {
-      "company": "Gyre Energy",
-      "amount": "$1.3M",
-      "stage": "Pre-Seed",
+      "company": "Whering",
+      "amount": "$7.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/gyre-energy-raises-1-3m-pre-seed/",
-      "priority": 10
+      "url": "https://www.thesaasnews.com/news/whering-raises-7m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-07-08T03:51:28.995246-07:00"
+    "remind_at": "2026-07-08T05:33:35.140769-07:00"
   },
   {
     "item": {
-      "company": "Avni Wellness",
+      "company": "Stilta",
       "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWdvSXJCazV2RldQY29NVnB4WXlkWWxHZHJNM09WLTdpTUJsLV9PUkR0QjV3MFRGTGtqUjdHdnRlanVoUVk4bjczOHF5YVZNWWd5NUlvdWpmbGlkZmdBMk9qOFdoR0djbDg2aFUtb0ZNeXZMVTdmaWFvVEEyei1ZTDZIN2RxSEdPaDZ6U1BNZFFPa0JET3l5MA?oc=5",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2pQYUNhbURMdElTbWRfMTdCUTNuaTUxRXZuVjRoY2lpcmY0Y0kyeVZ0V0k2S19oYWJKZjFNazdmb1llQWV3RWRpbjhiOTBqVnNselNRTlZpaHpXZ2pqVXJ0S1ZHVjFjT1NmS2JlQzVJZEIxYmlvc0ZRdWFtbG4zTHc2NEl6UXZHQTdRTTNWei1XREl0MmY0QkxwMnR4X3pMdkRkcg?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-08T03:51:32.376047-07:00"
+    "remind_at": "2026-07-08T05:33:37.626242-07:00"
   },
   {
     "item": {
-      "company": "BIZAY",
-      "amount": null,
-      "stage": "Series D",
-      "investors": "Indico Capital Partners to expand in the US, pursue acquisitions, and develop AI infrastructure",
+      "company": "Slack\u2019s Slackbot can now",
+      "amount": "$27.7B",
+      "stage": "Series A",
+      "investors": null,
+      "location": "Atlanta",
+      "founders": [
+        "Stewart Butterfield",
+        "Cal Henderson",
+        "Elia Wallen"
+      ],
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message",
+      "priority": 8
+    },
+    "remind_at": "2026-07-08T05:33:40.595200-07:00"
+  },
+  {
+    "item": {
+      "company": "With $25M in funding",
+      "amount": "$25.0M",
+      "stage": "Series A",
+      "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/bizay-raises-48-75m-series-d/",
-      "priority": 5
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/08/25m-funding-alta-ai-aims-accelerate-go-market-automation/",
+      "priority": 8
     },
-    "remind_at": "2026-07-08T03:51:34.680612-07:00"
+    "remind_at": "2026-07-08T05:33:43.570673-07:00"
   },
   {
     "item": {
-      "company": "Mercury",
-      "amount": "$200.0M",
-      "stage": "Series D",
+      "company": "KOR Protocol",
+      "amount": "$7.5M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/mercury-raises-200m-series-d/",
-      "priority": 5
+      "url": "https://www.thesaasnews.com/news/kor-protocol-raises-7-5m-series-a/",
+      "priority": 8
     },
-    "remind_at": "2026-07-08T03:51:37.177597-07:00"
+    "remind_at": "2026-07-08T05:33:46.551819-07:00"
   },
   {
     "item": {
-      "company": "Despite ending his tennis career",
-      "amount": "$220.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/07/220-million-net-worth-rafael-nadal-no-plans-to-retire-hotel-chain-career-retirement/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-08T03:51:40.575051-07:00"
-  },
-  {
-    "item": {
-      "company": "Republicans juice spending",
-      "amount": "$28.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/08/gop-senate-campaign-spending-ohio-iowa",
-      "priority": 3
-    },
-    "remind_at": "2026-07-08T03:51:43.852591-07:00"
-  },
-  {
-    "item": {
-      "company": "Lovable in talks",
-      "amount": "$12.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/lovable-raises-12b-valuation-talks-vibe-coding/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-08T03:51:47.075923-07:00"
-  },
-  {
-    "item": {
-      "company": "Flutterwave",
+      "company": "Thought Machine",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/flutterwave-secures-circle-ventures-investment-launches-usdc-settlement-nairametrics/",
+      "url": "https://www.thesaasnews.com/news/thought-machine-raises-30m-other/",
       "priority": 3
     },
-    "remind_at": "2026-07-08T03:51:49.410501-07:00"
-  },
-  {
-    "item": {
-      "company": "YC-backed Fleek",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTGFfcEU2UjZITmhCRTRSLTY3bEllY0FuX2J4a2pxX09PaC1oVGkzal92SEQ0RklZbU9iS0JTckZIRURzMUlKOXNDeW9UZGpfV1NNcFl1ZklMLW1IYWxpVUk0SjV5LTBtZWJ0b3RhTUdQUGUyOFQycXhlR3l5TVl1ZnVQd2dUcXc1TGsxeS1zcWNWdURyc3pvQ0dsblhPTjFFRHJjTmhPQW5raVhiXy1sN2puZ3FwWEswWWRSdnFJMzc2ZFN3MnJpOGw3WHJJUVpSZ3dxdFZ1ams?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-08T03:51:52.699144-07:00"
+    "remind_at": "2026-07-08T05:33:49.644187-07:00"
   }
 ]
