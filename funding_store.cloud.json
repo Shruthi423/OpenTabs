@@ -18546,5 +18546,36 @@
     "roles": [],
     "first_seen": "2026-07-08T12:26:49.905523-07:00",
     "status": "active"
+  },
+  "a8336893c5c9c2cc362f5f1b1c244c1e": {
+    "id": "a8336893c5c9c2cc362f5f1b1c244c1e",
+    "company": "Pinterest",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFI3Q1BMY0hwczc1NUtSaVBKVXVqRjNnMXE1LUVTNUd0bUx6M3RESHd5Tm5tYkF4cVdNZEQ1WlZ4ckJwQkgyMzdVZ3hBOGQwN3dBaElxZVZUc0czZnVtZXphVHdNaF9FYWJ4b25nd1AzTGJUSjdSWEZuWDh6ckxqWVZlaWxoNURXRmxxR2pVbWhyQjBVanc5OE5lM2J3Yi1GUElmQzlXT3NqZ21p?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco, CA, US; Remote, US",
+    "roles": [
+      {
+        "title": "Apprentice Product Designer",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8016473",
+        "location": "San Francisco, CA, US; Remote, US"
+      },
+      {
+        "title": "Product Designer II, Pinner Actionability",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7698212",
+        "location": "San Francisco, CA, US; Remote, US"
+      },
+      {
+        "title": "Sr. Product Designer, Advertiser Experience",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770902",
+        "location": "San Francisco, CA, US; Remote, US"
+      }
+    ],
+    "first_seen": "2026-07-08T13:43:46.306672-07:00",
+    "status": "active"
   }
 }
