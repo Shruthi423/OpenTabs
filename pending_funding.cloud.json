@@ -1,88 +1,184 @@
 [
   {
     "item": {
-      "company": "Display.dev",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": "Tallinn",
+      "company": "Agave",
+      "amount": "$15.0M",
+      "stage": "Series A",
+      "investors": "Accel to expand its AI platform that automates financial workflows for construction contractors",
+      "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/display-dev-raises-470000-pre-seed/",
-      "priority": 10
+      "url": "https://www.thesaasnews.com/news/agave-raises-15m-series-a/",
+      "priority": 11
     },
-    "remind_at": "2026-07-07T23:01:58.765773-07:00"
+    "remind_at": "2026-07-08T01:29:09.629510-07:00"
   },
   {
     "item": {
-      "company": "Neothera",
+      "company": "Paraito",
+      "amount": "$2.65M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/paraito-raises-c2-65m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-07-08T01:29:11.924511-07:00"
+  },
+  {
+    "item": {
+      "company": "Auxilius",
       "amount": null,
       "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/auxilius-raises-1-3m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-07-08T01:29:14.173791-07:00"
+  },
+  {
+    "item": {
+      "company": "Savi Security",
+      "amount": "$7.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/savi-security-raises-7m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-08T01:29:17.185442-07:00"
+  },
+  {
+    "item": {
+      "company": "Besty AI",
+      "amount": "$3.75M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/besty-ai-raises-3-75m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-08T01:29:19.471647-07:00"
+  },
+  {
+    "item": {
+      "company": "Luffy AI",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/luffy-ai-raises-9-4m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-08T01:29:21.724207-07:00"
+  },
+  {
+    "item": {
+      "company": "Kord",
+      "amount": null,
+      "stage": "Series A",
+      "investors": "Guinness Ventures to scale its integrated identity verification and payment platform for law firms",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/kord-raises-6-4m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-08T01:29:24.045513-07:00"
+  },
+  {
+    "item": {
+      "company": "Econovus Packaging",
+      "amount": null,
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZkdoanRiRUdVV2RuLTdYeVNhb3pxLVh6WUVSbmE0bjIxQ0hkR0lSVVNaalowc0ItMkg5Z2ZONnJuNVV1S1JxZ3JBYllFLTA3MjNiS3htczdjVHJXTzkzeFFSbzhkd2Jzcm96MGgwMlFHWUp0clg4OGdhRXR4X3B5MGY2bEZsa3Z2OENQSklBU1cwMXFZMk5nZmRsbDg5eklOSTdvS2RGY1dZc3lza1dkUUJDYXJ3Y1R1WnVocjd3?oc=5",
-      "priority": 10
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPN2RYdGdoOU1VWDlHVl9EX19qU0JsVDB4Zi0wR0hrdXlQbE1qZXJZMExWZDFyMGJFdzliNzVlVHplRnZjeEI4V0Z6RFBPdE1xOFUwQXJZMmVaMEYzd2ptcXE1dW03SWtWZkkwY1UyNVFtNWhmOU50WUZYTjhUY0FYWHpmVnlQcU1IRVVSdUdLcXI1OXNjSGVQU3A5bFdhaXRYd2pPWmJpcEZNbVdHT05OZUVvaU5ieHdES2VTRVJSZ2otQWpJN0dFZWlHV2ZIcUdpVVZUemNvbFpuWjR0WmtSblY2dnFrUUpCdFluR29kQ2ZsODl2Z2hPTXBOemcwUE1YdUE?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-07-07T23:02:01.103781-07:00"
+    "remind_at": "2026-07-08T01:29:27.006024-07:00"
   },
   {
     "item": {
-      "company": "Point Nine breaks from software",
+      "company": "Stylework",
+      "amount": "$1.0M",
+      "stage": "Series B",
+      "investors": "Auxano Capital to expand its flexible workspace platform and software offerings across India",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/stylework-raises-1m-pre-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-07-08T01:29:29.142844-07:00"
+  },
+  {
+    "item": {
+      "company": "AI chip maker SambaNova",
+      "amount": "$1.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Funding",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-08T01:29:32.267377-07:00"
+  },
+  {
+    "item": {
+      "company": "Fleek",
+      "amount": "$25.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/08/fleek-an-online-marketplace-connecting-vintage-clothing-wholesalers-and-retailers-raises-25-million-in-new-funding/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-08T01:29:34.477362-07:00"
+  },
+  {
+    "item": {
+      "company": "Here",
       "amount": null,
-      "stage": "Seed",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/aardaia-raises-5m-seed-point-nine-protein-tuber/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-07T23:02:04.142633-07:00"
-  },
-  {
-    "item": {
-      "company": "Tangos",
-      "amount": "$20.0M",
-      "stage": "Seed",
-      "investors": "Red Dot Capital Partners to scale its autonomous AI platform for financial crime investigations",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/tangos-raises-20m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-07T23:02:06.366004-07:00"
-  },
-  {
-    "item": {
-      "company": "Microsoft dashes game developer dreams",
-      "amount": "$7.5B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [
-        "Asha Sharma"
-      ],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/07/microsofts-gaming-xbox-deals",
+      "url": "https://techfundingnews.com/16-unicorns-in-one-month-here-is-what-june-2026-says-about-where-ai-money-is-actually-going/",
       "priority": 3
     },
-    "remind_at": "2026-07-07T23:02:09.417909-07:00"
+    "remind_at": "2026-07-08T01:29:36.650009-07:00"
   },
   {
     "item": {
-      "company": "Pearl Health",
-      "amount": "$110.0M",
+      "company": "Fuchs & Eule",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ2FmU3Q0bE00OWdwbk1Jc2lhUzQ0WmlINEE0R2E2QXlSWEhCS1prUWM5aUNjQldRUVoyeElmaTZRWGk0LTRiZzQwMUNKQTN4b29pcDlXZEJNd1VkZHhFc2Riel8yRjhlZ0lxSERfVXh4SzJxSHNKRVgxMjhYZmpHaV9sMFhSVDZ2VlJ6VGxQTU4?oc=5",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/fuchs-eule-raises-10m-commercial-landlords-esg/",
       "priority": 3
     },
-    "remind_at": "2026-07-07T23:02:12.400682-07:00"
+    "remind_at": "2026-07-08T01:29:39.508025-07:00"
   }
 ]
