@@ -1,90 +1,128 @@
 [
   {
     "item": {
-      "company": "Whering",
-      "amount": "$7.0M",
-      "stage": "Seed",
+      "company": "SA AI coding HyperDev platform",
+      "amount": "$1.0M",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/whering-raises-7m-seed/",
-      "priority": 9
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTklyWElpdmR4RVVJeG5FN1lucDV4NEh5eGFFTV9GSFRUamNXbkYtVFdiLUx6T0w5X2QxRjl6Z0ExcHRZR3pkamhBN3FqNW1FTFpWaEVnYWxiVjlVbHJXcDBKdG9jT2lINC1IZkFCTGNJT0VWZ2hBRW1KZnpZNmRtMUR5QzJyaE9RV0pwUXg2WDFJSkNnWHZ5SUVTYw?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-07-08T05:33:35.140769-07:00"
+    "remind_at": "2026-07-08T08:10:20.033694-07:00"
   },
   {
     "item": {
-      "company": "Stilta",
+      "company": "eNLife Research",
       "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2pQYUNhbURMdElTbWRfMTdCUTNuaTUxRXZuVjRoY2lpcmY0Y0kyeVZ0V0k2S19oYWJKZjFNazdmb1llQWV3RWRpbjhiOTBqVnNselNRTlZpaHpXZ2pqVXJ0S1ZHVjFjT1NmS2JlQzVJZEIxYmlvc0ZRdWFtbG4zTHc2NEl6UXZHQTdRTTNWei1XREl0MmY0QkxwMnR4X3pMdkRkcg?oc=5",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOakozd3NpcjVPMFctRHJLbGcxZC1LNWEtVUEwdklBQVBMalZkdUNraVZnTWdVN3lmaWkwem8weHo4d0hfSk9wc1M1RC1fX0paUnc5bGI4dnBETWU1VXFXMG1GOFF2U2dSUGdNLW1icVhyclVqaHg5b1VROEU2S1MwY3N4SVV2WEhuVHFaUGZqcndNbnpXeExxc1UwSUY4d2dPQjhOYkRPUGfSAagBQVVfeXFMTmpKM3dzaXI1TzBXLURyS2xnMWQtSzVhLVVBMHZJQUFQTGpWZHVDa2lWZ01nVTd5ZmlpMHpvMHh6OHdIX0pPcHNTNUQtX19KWlJ3OWxiOHZwRE1lNVVxVzBtRjhRdlNnUlBnTS1tYnFYcnJVamh4OW9VUThFNktTMGNzeElVdlhIblRxWlBmanJ3TW56V3hMcXNVMElGOHdnT0I4TmJET1Bn?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-08T05:33:37.626242-07:00"
+    "remind_at": "2026-07-08T08:10:22.991075-07:00"
   },
   {
     "item": {
-      "company": "Slack\u2019s Slackbot can now",
-      "amount": "$27.7B",
-      "stage": "Series A",
-      "investors": null,
-      "location": "Atlanta",
-      "founders": [
-        "Stewart Butterfield",
-        "Cal Henderson",
-        "Elia Wallen"
-      ],
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message",
-      "priority": 8
-    },
-    "remind_at": "2026-07-08T05:33:40.595200-07:00"
-  },
-  {
-    "item": {
-      "company": "With $25M in funding",
-      "amount": "$25.0M",
-      "stage": "Series A",
+      "company": "Apple promises",
+      "amount": "$30.0B",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/08/25m-funding-alta-ai-aims-accelerate-go-market-automation/",
-      "priority": 8
+      "url": "https://siliconangle.com/2026/07/08/apple-promises-buy-30b-worth-u-s-made-chips-broadcom/",
+      "priority": 3
     },
-    "remind_at": "2026-07-08T05:33:43.570673-07:00"
+    "remind_at": "2026-07-08T08:10:26.121206-07:00"
   },
   {
     "item": {
-      "company": "KOR Protocol",
-      "amount": "$7.5M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kor-protocol-raises-7-5m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-08T05:33:46.551819-07:00"
-  },
-  {
-    "item": {
-      "company": "Thought Machine",
+      "company": "Refiant goes where rivals only promised",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/thought-machine-raises-30m-other/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/08/refiant-goes-rivals-promised-10-million-token-ai-model/",
       "priority": 3
     },
-    "remind_at": "2026-07-08T05:33:49.644187-07:00"
+    "remind_at": "2026-07-08T08:10:29.084825-07:00"
+  },
+  {
+    "item": {
+      "company": "Kaon AI",
+      "amount": "$60.0M",
+      "stage": null,
+      "investors": "numerous technology sector venture capital investors, including B Capital, Redpoint Ace, Goodwater Capital and DCM",
+      "location": "San Mateo",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/08/kaon-ai-raises-60m-build-next-generation-ai-driven-interactive-entertainment/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-08T08:10:31.274828-07:00"
+  },
+  {
+    "item": {
+      "company": "Oil jumps",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/08/oil-jumps-trump-iran-ceasefire-over",
+      "priority": 3
+    },
+    "remind_at": "2026-07-08T08:10:34.485766-07:00"
+  },
+  {
+    "item": {
+      "company": "Jeff Bezos\u2019 Blue Origin",
+      "amount": "$130.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/08/jeff-bezos-blue-origin-valued-at-130-billion-valuation-in-historic-first-public-funding-round/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-08T08:10:37.406440-07:00"
+  },
+  {
+    "item": {
+      "company": "Velocity",
+      "amount": "$27.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTdkVjFnYUQtejh1NGQzdlRDWE5HNm1xbXdDcmJESHpWNVFxenpOODNUeFBkWGoteGp1bnFTU3VmZUtxeTdLR2o1NzFScnVuVWxUbmNiNzFQdTdiZHVpWXQ3aGZuVlpXc21US0RUWXRBY2ZNOF9aa3pxR2ZLU3pBcnRKdmU0R2RsRDhFQk1yTzl6amp2MnJtaXBQaW56LVVu?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-08T08:10:39.567960-07:00"
+  },
+  {
+    "item": {
+      "company": "Aardaia",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQmVHMnQzZjZnb0p3SlhIMlJpQUo3RjM5MVBUYlQtcjJuQU1tOHlFaURuRV9pbkhBRWRSc1diUW9kWHlIYnZwUWVtRGRmeTk1OTFRN3EtbDB1WGptcGlYekowOUZtOWl4U29IRjhsbWpCZS05SWFKaHQ5YmFkamVXNkIwY0stUnVmM2RSbkJLS3FLYzFXWUdCTWRHNktYVGhibGEzbmtCR0lkUERQeW5seFVXREstTThONzJNRHNYRlgwM1ppWFJ2dUhlV0tDcG52?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-08T08:10:41.777074-07:00"
   }
 ]
