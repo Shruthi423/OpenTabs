@@ -1,142 +1,142 @@
 [
   {
     "item": {
-      "company": "Macrodata Labs",
-      "amount": "$4.0M",
-      "stage": "Pre-Seed",
-      "investors": "Air Street Capital to develop infrastructure for physical AI data processing",
+      "company": "Modelence",
+      "amount": "$3.0M",
+      "stage": "Seed",
+      "investors": "Y Combinator to build a unified infrastructure toolkit for streamlining software development and app deployment",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/macrodata-labs-raises-4m-pre-seed/",
-      "priority": 10
+      "url": "https://www.thesaasnews.com/news/modelence-raises-3m-seed/",
+      "priority": 12
     },
-    "remind_at": "2026-07-08T21:51:10.092043-07:00"
+    "remind_at": "2026-07-09T01:25:46.024057-07:00"
   },
   {
     "item": {
-      "company": "Wonderdog",
+      "company": "Panora",
       "amount": "$5.0M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/wonderdog-raises-5m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-08T21:51:12.486640-07:00"
-  },
-  {
-    "item": {
-      "company": "Entire",
-      "amount": "$60.0M",
       "stage": "Seed",
-      "investors": null,
+      "investors": "Isai to expand its AI platform that automates administrative workflows for insurance brokers",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/entire-raises-60m-seed/",
+      "url": "https://www.thesaasnews.com/news/panora-raises-5m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-07-08T21:51:14.828387-07:00"
+    "remind_at": "2026-07-09T01:25:50.918472-07:00"
   },
   {
     "item": {
-      "company": "Chiron",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/chiron-raises-900k-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-08T21:51:17.056634-07:00"
-  },
-  {
-    "item": {
-      "company": "Cableteque",
-      "amount": "$6.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/cableteque-raises-6m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-08T21:51:19.409536-07:00"
-  },
-  {
-    "item": {
-      "company": "Oxipital AI",
-      "amount": null,
-      "stage": "Series A",
-      "investors": "SAS Private Equities and Scale Venture Partners to scale its AI vision platform for manufacturing",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/oxipital-ai-closes-series-a-following-major-commercial-expansion-and-rapid-adoption-of/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-08T21:51:21.795044-07:00"
-  },
-  {
-    "item": {
-      "company": "Hostie",
-      "amount": "$12.0M",
+      "company": "Klinic",
+      "amount": "$24.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hostie-raises-12m-series-a/",
+      "url": "https://www.thesaasnews.com/news/klinic-raises-24m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-07-08T21:51:24.187775-07:00"
+    "remind_at": "2026-07-09T01:25:53.410665-07:00"
   },
   {
     "item": {
-      "company": "US venture funding",
-      "amount": "$412.7B",
+      "company": "Keyper",
+      "amount": "$11.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnZLaUVOWGtSQUpGeDR2bVZfREVYeWNfQ3BWY1ZqaTNCWWUwYnVnd0FhYjZQQzEwcXNFaU5Eek9MNmNQS3lhOVgtbGNvenN5ODJPUFZlbnJvMHVuTDRSYW9YQUxXOUxjZXY0UVUxMF92VE42Ujhnb2h3X1dBZDRjRmNYTlZkdlpTTm9iTzRMaDBNdkdHTmNF?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-09T01:25:56.044717-07:00"
+  },
+  {
+    "item": {
+      "company": "Super.com",
+      "amount": "$65.0M",
+      "stage": "Series D",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/super-com-raises-65m-series-d/",
+      "priority": 5
+    },
+    "remind_at": "2026-07-09T01:25:58.440976-07:00"
+  },
+  {
+    "item": {
+      "company": "$5 billion CEO",
+      "amount": "$5.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/09/pitchbook-us-venture-funding-hits-412-7b-first-half-ai-deals-dominate/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/09/netskope-5-billion-ceo-secretly-calls-references-candidates-didnt-list-personality-interview-test/",
       "priority": 3
     },
-    "remind_at": "2026-07-08T21:51:27.347771-07:00"
+    "remind_at": "2026-07-09T01:26:01.662070-07:00"
   },
   {
     "item": {
-      "company": "Blue Origin",
-      "amount": "$10.0B",
-      "stage": null,
-      "investors": "for the first time in more than two decades",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/08/blue-origin-seeks-raise-10b-external-investors-first-vc-led-funding-round/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-08T21:51:30.364517-07:00"
-  },
-  {
-    "item": {
-      "company": "approved",
+      "company": "Sheffield spinout just",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/quantumdiamonds-raises-91m-eu-chips-act-manufacturing/",
+      "url": "https://techfundingnews.com/pixel-flo-raises-5-25m-microled-mass-transfer/",
       "priority": 3
     },
-    "remind_at": "2026-07-08T21:51:32.611818-07:00"
+    "remind_at": "2026-07-09T01:26:04.841352-07:00"
+  },
+  {
+    "item": {
+      "company": "Hakimo",
+      "amount": "$12.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hakimo-raises-12m-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-09T01:26:07.238270-07:00"
+  },
+  {
+    "item": {
+      "company": "Corestream",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/corestream-secures-strategic-investment/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-09T01:26:09.704803-07:00"
+  },
+  {
+    "item": {
+      "company": "Industrial Robotics",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnlMeWstT0pUN3I2X2dSS3NzamJGTF9ISWhWU3JNZjQ5NzlVZEZURnpiREhxQXFpZW5IN0w3NW52Q3NsNS1ZLXpWZ2pUY1lucEViSGFpT1JsS2V1VC1tOE1pUmZ0bHNFZ21UbEVOSDVWTmd0d3R2VHpZZ1hWQ2IwMDFBNmRrbXBHWTBFcE1PM1IzQWphd1pIUWpn?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-09T01:26:13.008996-07:00"
   }
 ]
