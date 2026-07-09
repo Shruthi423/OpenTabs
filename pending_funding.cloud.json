@@ -1,144 +1,16 @@
 [
   {
     "item": {
-      "company": "AVELIN AI",
-      "amount": "$3.7M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBueF9aZ01mRnB0Q1pJd1pPTmN3NFNmNml1M2pXUEVRUGdVSFhDU25pRDZQUVR2dFJpNkFnQklhUQ?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-07-09T09:48:36.614524-07:00"
-  },
-  {
-    "item": {
-      "company": "Better Auth Acquired by Vercel",
-      "amount": null,
+      "company": "Unlocking Evolutionary",
+      "amount": "$11.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2VfYWNMQkUxNlFweno4NVoxaDBHWkw0V1VBVUk2Y3lsUm5OdUhTczJJRE94YUtRZzMtRlNNS2FhcnphTEFMdy1YX0pSclFKdlBnNC1EUTBJRmRWeUY1YjNZbmx4S0s3aW9OOVcwZGstOU5xNXQ4cGh3blFVOU5NLUtxT3o0RG8?oc=5",
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDNDBrUmtja0pacFB6YUVhb05nOVpORmdMeHFDZkwwX0N6aXpyam5ncVByTXdJVzFUYjU3dUZqMFpaVWNKdjBVdHFoSnZySTBuTk40?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-09T09:48:39.705098-07:00"
-  },
-  {
-    "item": {
-      "company": "Uvera",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaEI0N3c2aWFRbGkwNmRQcG9FQnZETW9obGV4cTlBZUpHYVE3dHAyR0tCRnhQSzZ6bm90UER0WDljb2MxUFNVUGxEVHpXdXNkZlhzVkNkN0ZHa1BGOThGUXE4NGRZTEoxVUVYWjdOMG1BSDJpZWRUV0s5dXFQQ3J6LVJXbHptWjgz?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-07-09T09:48:42.036691-07:00"
-  },
-  {
-    "item": {
-      "company": "Open-source AI developer tool Ollama",
-      "amount": "$65.0M",
-      "stage": "Series B",
-      "investors": "Theory Ventures",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/09/open-source-ai-developer-tool-ollama-raises-65m-grow-platform/",
-      "priority": 7
-    },
-    "remind_at": "2026-07-09T09:48:45.088641-07:00"
-  },
-  {
-    "item": {
-      "company": "Self-made multimillionaire",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [
-        "Bill Holl"
-      ],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/09/self-made-multimillionaire-bill-holand-former-finance-ceo-canadian-philantrophy-lacks-compared-to-american-giving/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-09T09:48:48.094317-07:00"
-  },
-  {
-    "item": {
-      "company": "Microsoft's AI boom collides",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/09/microsoft-ai-data-centers-climate-goals",
-      "priority": 3
-    },
-    "remind_at": "2026-07-09T09:48:51.116878-07:00"
-  },
-  {
-    "item": {
-      "company": "Latino voters' political divide",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/09/latino-vote-divide-identity-democrats-gop",
-      "priority": 3
-    },
-    "remind_at": "2026-07-09T09:48:54.179947-07:00"
-  },
-  {
-    "item": {
-      "company": "Kresus",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/09/kresus-launches-crypto-inheritance-service-to-help-bitcoin-owners-pass-digital-assets-to-heirs/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-09T09:48:56.448062-07:00"
-  },
-  {
-    "item": {
-      "company": "Top tech stories shaping AI",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/09/todays-biggest-technology-news-top-tech-stories-shaping-ai-big-tech-cybersecurity-and-startups/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-09T09:48:59.451272-07:00"
-  },
-  {
-    "item": {
-      "company": "just",
-      "amount": "$7.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUU1KTTlGWHFZb3ZUR3l2bTZjS3RGVDJucGJwU0R6UEhEUVdrcmJia19JYnJXRUZnR2FPXzgzVXJvallyRHRCTXdkLTJPazJwZzV0RUoyeXBVMGczR0FFcmk1bGRMWDFaeDFwUmo3Yy10N1ptZ29pN0gxTkFscm9WYXB4UnNaNW45VkJGZWtxc3dBaV9IelpSTkw3bFZvVnBqNDVPMkJBRkJaZERCTldnYXQxM0R1WnBnRHF5MWNCY2I2VmNsVUpuUW5ObDlvMkl5UkFLNkIzOVBMdXdnTWE4WlMzSFVDY0Y2NGhpYXVQRXVnT1AwY2RlZA?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-09T09:49:01.720061-07:00"
+    "remind_at": "2026-07-09T11:47:35.841094-07:00"
   }
 ]
