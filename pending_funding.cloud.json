@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "item": {
+      "company": "Macrodata Labs",
+      "amount": "$4.0M",
+      "stage": "Pre-Seed",
+      "investors": "Air Street Capital to develop infrastructure for physical AI data processing",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/macrodata-labs-raises-4m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-07-08T21:51:10.092043-07:00"
+  },
+  {
+    "item": {
+      "company": "Wonderdog",
+      "amount": "$5.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/wonderdog-raises-5m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-07-08T21:51:12.486640-07:00"
+  },
+  {
+    "item": {
+      "company": "Entire",
+      "amount": "$60.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/entire-raises-60m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-08T21:51:14.828387-07:00"
+  },
+  {
+    "item": {
+      "company": "Chiron",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/chiron-raises-900k-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-08T21:51:17.056634-07:00"
+  },
+  {
+    "item": {
+      "company": "Cableteque",
+      "amount": "$6.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/cableteque-raises-6m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-08T21:51:19.409536-07:00"
+  },
+  {
+    "item": {
+      "company": "Oxipital AI",
+      "amount": null,
+      "stage": "Series A",
+      "investors": "SAS Private Equities and Scale Venture Partners to scale its AI vision platform for manufacturing",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/oxipital-ai-closes-series-a-following-major-commercial-expansion-and-rapid-adoption-of/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-08T21:51:21.795044-07:00"
+  },
+  {
+    "item": {
+      "company": "Hostie",
+      "amount": "$12.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hostie-raises-12m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-08T21:51:24.187775-07:00"
+  },
+  {
+    "item": {
+      "company": "US venture funding",
+      "amount": "$412.7B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/09/pitchbook-us-venture-funding-hits-412-7b-first-half-ai-deals-dominate/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-08T21:51:27.347771-07:00"
+  },
+  {
+    "item": {
+      "company": "Blue Origin",
+      "amount": "$10.0B",
+      "stage": null,
+      "investors": "for the first time in more than two decades",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/08/blue-origin-seeks-raise-10b-external-investors-first-vc-led-funding-round/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-08T21:51:30.364517-07:00"
+  },
+  {
+    "item": {
+      "company": "approved",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/quantumdiamonds-raises-91m-eu-chips-act-manufacturing/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-08T21:51:32.611818-07:00"
+  }
+]
