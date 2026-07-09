@@ -1,44 +1,18 @@
 [
   {
     "item": {
-      "company": "Mercor",
-      "amount": "$20.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-09T13:47:26.341715-07:00"
-  },
-  {
-    "item": {
-      "company": "DDN targets GPU efficiency",
+      "company": "AI unicorn Mercor acquires Deeptune",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/09/ai-data-infrastructure-gpu-efficiency-ddn-raisesummit/",
+      "founders": [
+        "Brendan Foody"
+      ],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1ZzV2VBS0RKZWtvLVJtUnNLSlBxMFltQkQ4NmtVM3dyVWgydmk0ZTVhREk1Z19PSG85cVJyVXRzLUcyZWdkaW5ja2UwczF4V1ZpV2ZVcm9WNVVWMDNhTlFRTy0ya05uRl83VmpYZDVneEJrWnF2MW5rZkw0QzJWOG5zYm9sUlRBT3phanBjUURZN0doMWlvNl9HeUtUX3NRNEJHaXJfbTZ3VG1rWjU2eDhR?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-09T13:47:29.660334-07:00"
-  },
-  {
-    "item": {
-      "company": "Telepat\u00eda AI",
-      "amount": "$42.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16bGM3Nm80OC0wSmphX1dCMFlXU3lrY21vbWRCd1ZOY3Brcm1NbkVrZGxvSUVJYVd1QlZ4VVVKeVNFVU1MeGJlSTVzNU5IVDdLWWZxVEdMenNhVUY0U0RmdnBDam1mckFVaklTN2NBbWVfS0NnOFE?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-09T13:47:32.129894-07:00"
+    "remind_at": "2026-07-09T15:26:04.005420-07:00"
   }
 ]
