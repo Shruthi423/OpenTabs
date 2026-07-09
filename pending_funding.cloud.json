@@ -1,18 +1,44 @@
 [
   {
     "item": {
-      "company": "AI unicorn Mercor acquires Deeptune",
-      "amount": null,
+      "company": "QIZ Security",
+      "amount": "$17.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/09/qiz-security-raises-17m-seed-round-post-quantum-readiness-platform/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-09T16:37:14.704282-07:00"
+  },
+  {
+    "item": {
+      "company": "Databento",
+      "amount": "$97.0M",
+      "stage": null,
+      "investors": "demand Market data platform startup Databento Inc",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/09/market-data-platform-startup-databento-closes-97m-round-drawing-300m-investor-demand/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-09T16:37:18.431609-07:00"
+  },
+  {
+    "item": {
+      "company": "Gauntlet",
+      "amount": "$125.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "founders": [
-        "Brendan Foody"
-      ],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1ZzV2VBS0RKZWtvLVJtUnNLSlBxMFltQkQ4NmtVM3dyVWgydmk0ZTVhREk1Z19PSG85cVJyVXRzLUcyZWdkaW5ja2UwczF4V1ZpV2ZVcm9WNVVWMDNhTlFRTy0ya05uRl83VmpYZDVneEJrWnF2MW5rZkw0QzJWOG5zYm9sUlRBT3phanBjUURZN0doMWlvNl9HeUtUX3NRNEJHaXJfbTZ3VG1rWjU2eDhR?oc=5",
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aTFVVZnoxc202WFI5dng0VExKR3BLOS1qdEdRbnBCOWxCeVZuaXBORExCXzM0NzdmNFc0RG9valEta015V0tlNGxWaUU1ZEx2ellLVU1Gbks?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-09T15:26:04.005420-07:00"
+    "remind_at": "2026-07-09T16:37:20.618208-07:00"
   }
 ]

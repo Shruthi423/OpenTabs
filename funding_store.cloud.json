@@ -19531,5 +19531,56 @@
     "roles": [],
     "first_seen": "2026-07-09T14:56:05.005584-07:00",
     "status": "active"
+  },
+  "5f30939603e414aa4aea993baf3cc094": {
+    "id": "5f30939603e414aa4aea993baf3cc094",
+    "company": "QIZ Security",
+    "amount": "$17.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/09/qiz-security-raises-17m-seed-round-post-quantum-readiness-platform/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-09T16:07:15.704483-07:00",
+    "status": "active"
+  },
+  "d69dc8fc75f292de2d2e0deac993edf2": {
+    "id": "d69dc8fc75f292de2d2e0deac993edf2",
+    "company": "Databento",
+    "amount": "$97.0M",
+    "stage": "?",
+    "investors": "demand Market data platform startup Databento Inc",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/09/market-data-platform-startup-databento-closes-97m-round-drawing-300m-investor-demand/",
+    "priority": 3,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "UX Writer",
+        "url": "https://job-boards.greenhouse.io/databento/jobs/3218532",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-07-09T16:07:19.431780-07:00",
+    "status": "active"
+  },
+  "99c2b8cb6c47be7309b95f88b9cbd91b": {
+    "id": "99c2b8cb6c47be7309b95f88b9cbd91b",
+    "company": "Gauntlet",
+    "amount": "$125.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aTFVVZnoxc202WFI5dng0VExKR3BLOS1qdEdRbnBCOWxCeVZuaXBORExCXzM0NzdmNFc0RG9valEta015V0tlNGxWaUU1ZEx2ellLVU1Gbks?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-09T16:07:21.618389-07:00",
+    "status": "active"
   }
 }
