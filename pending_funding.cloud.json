@@ -1,326 +1,144 @@
 [
   {
     "item": {
-      "company": "Bohr Energie",
-      "amount": null,
-      "stage": "Series A",
-      "investors": "Suma Capital to accelerate its energy management platform expansion across Europe",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/bohr-energie-raises-10m-series-a/",
-      "priority": 11
-    },
-    "remind_at": "2026-07-09T07:16:21.662234-07:00"
-  },
-  {
-    "item": {
-      "company": "Sherpa",
-      "amount": "$2.2M",
-      "stage": "Pre-Seed",
-      "investors": "Seedcamp, DN Capital, Activant Capital, and Brighteye to scale its AI workforce management platform",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sherpa-raises-2-2m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-09T07:16:24.161884-07:00"
-  },
-  {
-    "item": {
-      "company": "reverse.fashion",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": "Extension Berlin",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/reverse-fashion-raises-seven-figure-pre-seed-extension/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-09T07:16:27.541793-07:00"
-  },
-  {
-    "item": {
-      "company": "Exhibitly",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/exhibitly-raises-1-4m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-09T07:16:29.906265-07:00"
-  },
-  {
-    "item": {
-      "company": "BAAS Technologies",
-      "amount": null,
+      "company": "AVELIN AI",
+      "amount": "$3.7M",
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUFFqcjVGcVBPaE9JUDZmSHpBUHpwM3duNUt5STYyOWtKYkZkeVJmbktpM0xEenVPUnFaaG55R1NXQ3ZZMEZCVnowS3JrU294SDc3S0YtQThKRERGLUVRNk4ycEtqRzdOZXllTDVWeGRzaV9DVG1NNHRSb252VDk3WmFpeEQ5akxFV0k3Ml9aaWUwQzNvWWVZRnhyRnR0N3h5OGZERDV2N2QwNHhDYmxtQ1ViNm1NalhWWWF6NGpqekRldzJPSGphSW55cm9pZmhudG52OWg4UDB4cW5sSnZ3Yg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBueF9aZ01mRnB0Q1pJd1pPTmN3NFNmNml1M2pXUEVRUGdVSFhDU25pRDZQUVR2dFJpNkFnQklhUQ?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-07-09T07:16:32.217288-07:00"
+    "remind_at": "2026-07-09T09:48:36.614524-07:00"
   },
   {
     "item": {
-      "company": "Moment",
-      "amount": "$78.0M",
-      "stage": "Series C",
-      "investors": "Index Ventures to expand its AI operating system for wealth management and investment firms",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/moment-raises-78m-series-c/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-09T07:16:34.378501-07:00"
-  },
-  {
-    "item": {
-      "company": "Birdsview",
+      "company": "Better Auth Acquired by Vercel",
       "amount": null,
       "stage": "Seed",
-      "investors": "Fortino Ventures and Newion to scale its AI email marketing agent for online shops",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/birdsview-raises-2-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-09T07:16:36.668247-07:00"
-  },
-  {
-    "item": {
-      "company": "Market",
-      "amount": "$392.0B",
-      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNGV0ZldXamVHUnpOalJiZncwbF82NlQ0b1I3MXgwTUhkeWxubzhRejJ6ai1qeGJURHhQUnk2WFk0MzZPbUJOU1ZhM09BOThTUTc0N2RTb3dtLUNKbmJqSS1sbzRENzJ6RW56YlkxVE5ZNDFYT2oyeG5XZ01wUWRDNDZTNXZjMjZqTjBTQUMxamh0TWNheHVGcXV3bF8yRG1XM0s2cDFOYnRTUkJWUlF4NFNjZ2pUOUFhQUtzMw?oc=5",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2VfYWNMQkUxNlFweno4NVoxaDBHWkw0V1VBVUk2Y3lsUm5OdUhTczJJRE94YUtRZzMtRlNNS2FhcnphTEFMdy1YX0pSclFKdlBnNC1EUTBJRmRWeUY1YjNZbmx4S0s3aW9OOVcwZGstOU5xNXQ4cGh3blFVOU5NLUtxT3o0RG8?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-09T07:16:39.170253-07:00"
+    "remind_at": "2026-07-09T09:48:39.705098-07:00"
   },
   {
     "item": {
-      "company": "co-founded by DeepMind creative lead",
-      "amount": "$13.0M",
+      "company": "Uvera",
+      "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNempnQ1daZVlzMUdLaE1CeC1TZnE3cW82QTBYaDdQb2hPcVE3aHBrcldpNUUzVmQ3V1VfVnpSQzNlb3Bqek91cHNSZTQ4V2tEamtIckVoWFFpV1NzRi1IQm0zdUJwSGJUNXFtZkxRRHJ3SnluQVJOQTkwdHFwemhUZkR6SWZFT3BSbGdBRGxMMkk4MGZ4TFJ0ZUZUOEJtVzlJaFFsSE04bXQycEgtQkhr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaEI0N3c2aWFRbGkwNmRQcG9FQnZETW9obGV4cTlBZUpHYVE3dHAyR0tCRnhQSzZ6bm90UER0WDljb2MxUFNVUGxEVHpXdXNkZlhzVkNkN0ZHa1BGOThGUXE4NGRZTEoxVUVYWjdOMG1BSDJpZWRUV0s5dXFQQ3J6LVJXbHptWjgz?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-09T07:16:42.062777-07:00"
+    "remind_at": "2026-07-09T09:48:42.036691-07:00"
   },
   {
     "item": {
-      "company": "Axle Energy",
-      "amount": "$25.0M",
-      "stage": "Series A",
-      "investors": "Energize Capital to scale its virtual power plant software platform across the UK and international markets",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/axle-energy-raises-25m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-09T07:16:46.546111-07:00"
-  },
-  {
-    "item": {
-      "company": "UAE-based Keyper",
-      "amount": "$11.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": "UAE",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9vQ0lrQzJoOWFPTHRvM2ZhR1ZJZHdfUFpERWhXMS1xNTJBanlYQlpfYjdScWJXZGNfdjB4UTNqNA?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-07-09T07:16:49.589403-07:00"
-  },
-  {
-    "item": {
-      "company": "wert Intelligence",
-      "amount": "$10.88M",
+      "company": "Open-source AI developer tool Ollama",
+      "amount": "$65.0M",
       "stage": "Series B",
-      "investors": "Altos Ventures to scale its patent AI platform and expand into the Japanese market",
+      "investors": "Theory Ventures",
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/wert-intelligence-raises-10-88m-series-b/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/09/open-source-ai-developer-tool-ollama-raises-65m-grow-platform/",
       "priority": 7
     },
-    "remind_at": "2026-07-09T07:16:52.481704-07:00"
+    "remind_at": "2026-07-09T09:48:45.088641-07:00"
   },
   {
     "item": {
-      "company": "Kaon AI",
+      "company": "Self-made multimillionaire",
       "amount": null,
-      "stage": "Series B",
-      "investors": null,
-      "location": "San Mateo",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/where-deep-computer-science-meets-mainstream-culture-kaon-ai-closes-series-b-to/",
-      "priority": 7
-    },
-    "remind_at": "2026-07-09T07:16:54.776837-07:00"
-  },
-  {
-    "item": {
-      "company": "AI unicorn Mercor acquires Deeptune",
-      "amount": "$2.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [
-        "Brendan Foody"
+        "Bill Holl"
       ],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/09/ai-unicorn-mercor-acquires-deeptune-brendan-foody-investor-a16z-openai-anthropic/",
+      "url": "https://fortune.com/2026/07/09/self-made-multimillionaire-bill-holand-former-finance-ceo-canadian-philantrophy-lacks-compared-to-american-giving/",
       "priority": 3
     },
-    "remind_at": "2026-07-09T07:16:57.840206-07:00"
+    "remind_at": "2026-07-09T09:48:48.094317-07:00"
   },
   {
     "item": {
-      "company": "DeFi veteran Gauntlet",
-      "amount": "$125.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/09/gauntlet-defi-vault-risk-curation-tarun-chitra-sbi-holdings-fundraise/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-09T07:17:00.729706-07:00"
-  },
-  {
-    "item": {
-      "company": "Corvic AI",
+      "company": "Microsoft's AI boom collides",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/09/exclusive-corvic-ai-launches-v5-turn-one-off-prompts-repeatable-workflows/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-09T07:17:02.891676-07:00"
-  },
-  {
-    "item": {
-      "company": "The hidden costs of low-tax states",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "New York",
       "founders": [],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/07/09/taxes-america-income-sales-taxes",
+      "url": "https://www.axios.com/2026/07/09/microsoft-ai-data-centers-climate-goals",
       "priority": 3
     },
-    "remind_at": "2026-07-09T07:17:05.790690-07:00"
+    "remind_at": "2026-07-09T09:48:51.116878-07:00"
   },
   {
     "item": {
-      "company": "Rubrik",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "US",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/rubrik-lands-375m-why-ai-cybersecurity-giant-picked-london-for-emea-hq/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-09T07:17:07.981433-07:00"
-  },
-  {
-    "item": {
-      "company": "Fanvue doubles ARR",
-      "amount": "$200.0M",
-      "stage": null,
-      "investors": null,
-      "location": "London",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/fanvue-doubles-arr-200m-creator-economy-ai/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-09T07:17:10.894756-07:00"
-  },
-  {
-    "item": {
-      "company": "Primo Capital targets \u20ac120M",
+      "company": "Latino voters' political divide",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/primo-capital-120m-space-fund-2-8x-return/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/09/latino-vote-divide-identity-democrats-gop",
       "priority": 3
     },
-    "remind_at": "2026-07-09T07:17:13.779298-07:00"
+    "remind_at": "2026-07-09T09:48:54.179947-07:00"
   },
   {
     "item": {
-      "company": "Crypto VC Paradigm just",
-      "amount": "$1.2B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/crypto-vc-paradigm-just-closeds-1-2b-fourth-fund-to-chase-ai-and-robotics/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-09T07:17:21.817609-07:00"
-  },
-  {
-    "item": {
-      "company": "Exclusive",
-      "amount": "$500.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNFhwV2tpeTVRVGtoRVV4Q2lWa0JEQ2hZQnlGNXhtYURySmQyM0l5S0pJZ09XYUEwV1R4UXVvSnduNTRoS3IzQmd6QXlqUkxBRFhpUFlZNDBUSEVzVW1rcjZPMHZrbEdsaEVkWVhkaDV6TWM2aGRpazRRZ180TnVwR0ZqbFczN3J3Zzk4akwwcUd4NG1OR3FCRmpEM0ROUXlxcDdmdnRDMzZ1OGJ5RDAybnVaaWR2d1BkcTFWbm56WQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-09T07:17:24.134829-07:00"
-  },
-  {
-    "item": {
-      "company": "used",
+      "company": "Kresus",
       "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/09/kresus-launches-crypto-inheritance-service-to-help-bitcoin-owners-pass-digital-assets-to-heirs/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-09T09:48:56.448062-07:00"
+  },
+  {
+    "item": {
+      "company": "Top tech stories shaping AI",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/09/todays-biggest-technology-news-top-tech-stories-shaping-ai-big-tech-cybersecurity-and-startups/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-09T09:48:59.451272-07:00"
+  },
+  {
+    "item": {
+      "company": "just",
+      "amount": "$7.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR1lzUnJ4cmJpeXNGR0M5UXRkSDlYbE53RTJvQ3RobVBtSEVyUXJ5bmFYMm5GSGwwaVc3VUZGTmZZYkNCT0JCRGl1MjRldXlxUEJndXNhbVdVWDY4d2pmeGYtOEdJeC1OWmxOSnVGOHIzNWJ1ZlJIeUpNTGdnRjVmazVZdzhYQ29pVE9BTw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUU1KTTlGWHFZb3ZUR3l2bTZjS3RGVDJucGJwU0R6UEhEUVdrcmJia19JYnJXRUZnR2FPXzgzVXJvallyRHRCTXdkLTJPazJwZzV0RUoyeXBVMGczR0FFcmk1bGRMWDFaeDFwUmo3Yy10N1ptZ29pN0gxTkFscm9WYXB4UnNaNW45VkJGZWtxc3dBaV9IelpSTkw3bFZvVnBqNDVPMkJBRkJaZERCTldnYXQxM0R1WnBnRHF5MWNCY2I2VmNsVUpuUW5ObDlvMkl5UkFLNkIzOVBMdXdnTWE4WlMzSFVDY0Y2NGhpYXVQRXVnT1AwY2RlZA?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-09T07:17:26.303422-07:00"
+    "remind_at": "2026-07-09T09:49:01.720061-07:00"
   }
 ]
