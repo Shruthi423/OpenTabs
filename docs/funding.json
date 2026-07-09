@@ -1,5 +1,56 @@
 [
   {
+    "id": "cf51727d0dbaf2b0e54f56e89d8b38f8",
+    "company": "Telepat\u00eda AI",
+    "amount": "$42.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16bGM3Nm80OC0wSmphX1dCMFlXU3lrY21vbWRCd1ZOY3Brcm1NbkVrZGxvSUVJYVd1QlZ4VVVKeVNFVU1MeGJlSTVzNU5IVDdLWWZxVEdMenNhVUY0U0RmdnBDam1mckFVaklTN2NBbWVfS0NnOFE?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-09T13:17:33.130052-07:00",
+    "status": "active"
+  },
+  {
+    "id": "a5fd3d50bd7115f53cb2525e72c0ec77",
+    "company": "DDN targets GPU efficiency",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/09/ai-data-infrastructure-gpu-efficiency-ddn-raisesummit/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-09T13:17:30.660511-07:00",
+    "status": "active"
+  },
+  {
+    "id": "815ff8f4cff76db4db05821a7d84ae22",
+    "company": "Mercor",
+    "amount": "$20.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco",
+    "roles": [
+      {
+        "title": "Web/Brand/Visual Designer",
+        "url": "https://jobs.ashbyhq.com/mercor/79fc13c6-5c2a-4b08-bd31-24c091524354",
+        "location": "San Francisco"
+      }
+    ],
+    "first_seen": "2026-07-09T13:17:27.341884-07:00",
+    "status": "active"
+  },
+  {
     "id": "1a615cecf00fd83789e62a26f6dd4457",
     "company": "Unlocking Evolutionary",
     "amount": "$11.0M",
