@@ -1,5 +1,66 @@
 [
   {
+    "id": "888f9162776013116df9f1b08f5216fc",
+    "company": "D2C Jewellery Brands",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUm5EazdHLTY2XzZDdDBEZWtRZllrYjBlWWdZSjZTbzFlTmFKeWZMZ0tRbGRZUVV4OWQyemJKNFZFeUtQZGItMXpmdU1mQjhEdlA2c0d0MFhKWlNZdWhEb3NjdlRQMFdTUXdDWDd5VU03dDRpR2dBSTVxLXh4Mk4xM1laMUt5SnVoekptRkNLdVliYkM3SHFfV2hSVktRQVF4c18wOWdSVHVITkF1a3V4WUs5SkI0WldmSVZlMkZ3Qzg0UQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-10T13:42:45.439379-07:00",
+    "status": "active"
+  },
+  {
+    "id": "4162b121d182ca1d9882509ae4d371f4",
+    "company": "Open-source AI model developer MiniMax",
+    "amount": "$2.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/10/open-source-ai-model-developer-minimax-raises-2b-funding/",
+    "priority": 3,
+    "founders": [],
+    "location": "Shanghai",
+    "roles": [],
+    "first_seen": "2026-07-10T13:42:42.439032-07:00",
+    "status": "active"
+  },
+  {
+    "id": "f114475df595a22c563ab76f7a3335a6",
+    "company": "OpenAI introduces ChatGPT Work",
+    "amount": "$730.0B",
+    "stage": "Extension",
+    "investors": "will depend in large part on whether products like ChatGPT Work and Claude Cowork deliver measurable productivity gains to paying enterprise customers",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars",
+    "priority": 5,
+    "founders": [],
+    "location": "MCP",
+    "roles": [
+      {
+        "title": "Product Designer, ChatGPT",
+        "url": "https://jobs.ashbyhq.com/openai/09d97355-0437-4054-8604-73920c0beb1a",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Product Designer, People Innovation Labs",
+        "url": "https://jobs.ashbyhq.com/openai/3874db80-f3ec-4dd1-8d56-6441e8f7299d",
+        "location": "San Francisco"
+      },
+      {
+        "title": "TLM, Embedded Experiences",
+        "url": "https://jobs.ashbyhq.com/openai/967d3ad7-bd2c-40e3-ba1f-f1140a116999",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-07-10T13:42:38.691685-07:00",
+    "status": "active"
+  },
+  {
     "id": "f736caf412e8cdaacd285262b1e805fe",
     "company": "Outsiders",
     "amount": "Undisclosed",
