@@ -1,44 +1,16 @@
 [
   {
     "item": {
-      "company": "OpenAI introduces ChatGPT Work",
-      "amount": "$730.0B",
-      "stage": "Extension",
-      "investors": "will depend in large part on whether products like ChatGPT Work and Claude Cowork deliver measurable productivity gains to paying enterprise customers",
-      "location": "MCP",
-      "founders": [],
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars",
-      "priority": 5
-    },
-    "remind_at": "2026-07-10T14:12:37.691509-07:00"
-  },
-  {
-    "item": {
-      "company": "Open-source AI model developer MiniMax",
-      "amount": "$2.0B",
-      "stage": null,
-      "investors": null,
-      "location": "Shanghai",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/10/open-source-ai-model-developer-minimax-raises-2b-funding/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-10T14:12:41.438886-07:00"
-  },
-  {
-    "item": {
-      "company": "D2C Jewellery Brands",
+      "company": "U.S. gives Iran Saturday deadline",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUm5EazdHLTY2XzZDdDBEZWtRZllrYjBlWWdZSjZTbzFlTmFKeWZMZ0tRbGRZUVV4OWQyemJKNFZFeUtQZGItMXpmdU1mQjhEdlA2c0d0MFhKWlNZdWhEb3NjdlRQMFdTUXdDWDd5VU03dDRpR2dBSTVxLXh4Mk4xM1laMUt5SnVoekptRkNLdVliYkM3SHFfV2hSVktRQVF4c18wOWdSVHVITkF1a3V4WUs5SkI0WldmSVZlMkZ3Qzg0UQ?oc=5",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/10/iran-strait-hormuz-attacks-mou-deal",
       "priority": 3
     },
-    "remind_at": "2026-07-10T14:12:44.439263-07:00"
+    "remind_at": "2026-07-10T15:12:31.232866-07:00"
   }
 ]

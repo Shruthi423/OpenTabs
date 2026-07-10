@@ -20303,5 +20303,20 @@
     "roles": [],
     "first_seen": "2026-07-10T13:42:45.439379-07:00",
     "status": "active"
+  },
+  "11f4081eb808dd934ec1dc9c8a4a5e1f": {
+    "id": "11f4081eb808dd934ec1dc9c8a4a5e1f",
+    "company": "U.S. gives Iran Saturday deadline",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/10/iran-strait-hormuz-attacks-mou-deal",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-10T14:42:32.233008-07:00",
+    "status": "active"
   }
 }
