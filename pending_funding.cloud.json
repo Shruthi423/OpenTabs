@@ -1,198 +1,44 @@
 [
   {
     "item": {
-      "company": "Spike Studio",
+      "company": "Why companies",
       "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/spike-studio-co-ltd-raises-370m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-10T04:48:57.276535-07:00"
-  },
-  {
-    "item": {
-      "company": "Piq Energy",
-      "amount": "$5.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/piq-energy-raises-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-10T04:49:00.769912-07:00"
-  },
-  {
-    "item": {
-      "company": "LendUs",
-      "amount": "$5.0M",
-      "stage": "Seed",
-      "investors": "Carthona Capital to scale its embedded home loan comparison platform for consumer brands",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/lendus-raises-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-10T04:49:03.369427-07:00"
-  },
-  {
-    "item": {
-      "company": "Infinia",
-      "amount": "$13.5M",
-      "stage": "Series A",
-      "investors": "Bain Capital and Variant Fund to expand its fintech infrastructure connecting traditional banks with digital assets",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/infinia-raises-13-5m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-10T04:49:05.934108-07:00"
-  },
-  {
-    "item": {
-      "company": "Vendelux",
-      "amount": "$50.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/vendelux-raises-50m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-07-10T04:49:08.391959-07:00"
-  },
-  {
-    "item": {
-      "company": "Kraken Technology",
-      "amount": "$175.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUnY2TEduTkhsTVB2bE8zbElzN1hnR0kzM0lNcXdnNFRQdzhBYlZhbUUxWVp1T3ZuZURwbkVoeXk4aHV5bVRnMV83X0pvWDhTQS1YVjhzbk4tbXNZZ1B3MmM2Skc0M0RZa3N4LV9QVWQzcDJ4VXZ1NlRzV1VMd01nLXdxRUFzYVJHNzAtMndPSDExNUZlU0pwOXkwTnVvRUg3Z2ozZWRlNmZURWxmbFE?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-07-10T04:49:10.974379-07:00"
-  },
-  {
-    "item": {
-      "company": "Inside AI's new class divide",
-      "amount": "$500.0M",
-      "stage": "Bridge",
-      "investors": "former Commerce Secretary Gina Raimondo and former Indiana Gov",
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos",
-      "priority": 6
-    },
-    "remind_at": "2026-07-10T04:49:14.261113-07:00"
-  },
-  {
-    "item": {
-      "company": "Mercado Bitcoin",
-      "amount": "$20.0M",
-      "stage": "Series C",
-      "investors": "Tether to expand its payment infrastructure and scale tokenized investment products for its user base",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/mercado-bitcoin-raises-20m-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-07-10T04:49:17.786320-07:00"
-  },
-  {
-    "item": {
-      "company": "AI That Dispatches The Plumber",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-defense-tech-healthcare/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-10T04:49:21.049307-07:00"
-  },
-  {
-    "item": {
-      "company": "In 2026 so far",
-      "amount": "$412.7B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/10/2026-us-vcs-deployed-record-shattering-412-7-billion-almost-none-trickling-down/",
+      "url": "https://fortune.com/2026/07/10/companies-pay-premium-battle-tested-cfo-nike-turnaround-david-denton/",
       "priority": 3
     },
-    "remind_at": "2026-07-10T04:49:24.358309-07:00"
+    "remind_at": "2026-07-10T06:55:19.064738-07:00"
   },
   {
     "item": {
-      "company": "AI boom puts Big Tech's transparency",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "California",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/10/ai-big-tech-transparency-electricity-water-use",
-      "priority": 3
-    },
-    "remind_at": "2026-07-10T04:49:28.203025-07:00"
-  },
-  {
-    "item": {
-      "company": "BrightAnalytics",
-      "amount": null,
+      "company": "SK Hynix\u2019s $26.5B Nasdaq",
+      "amount": "$26.5B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/brightanalytics-secures-strategic-investment/",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/sk-hynixs-26-5b-nasdaq-debut-is-a-reminder-that-ai-startups-are-paying-a-memory-tax-they-cant-avoid/",
       "priority": 3
     },
-    "remind_at": "2026-07-10T04:49:30.646587-07:00"
+    "remind_at": "2026-07-10T06:55:22.326985-07:00"
   },
   {
     "item": {
-      "company": "Instacart",
-      "amount": null,
+      "company": "Big Tech\u2019s debt tied",
+      "amount": "$350.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3YxOFZJUmpMQ0swQWhRZmdReG9FU0xLSDBtVjduMVEwTjZaWnlSSld3Wnd5bjluQWo2U1NkTHd6eXh2aU1MRjJMQ1FDY01zbkNSanE0UGtiOWpEanJvMS1vb3JiRjJnNDdjUVFOZE9Fa094WnA0ZDFyZl9wN1JYZEtrYVFQR1ZvNHpQMDR5Q0xQTEpGYWJ6YVFCYTQyaVhTNEdjemxCVzFDeWUw?oc=5",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/big-tech-ai-debt-350b-hyperscalers-europe-bonds/",
       "priority": 3
     },
-    "remind_at": "2026-07-10T04:49:33.191528-07:00"
-  },
-  {
-    "item": {
-      "company": "ServiceTitan",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNWJ5cEFPcWVWUTFnQ2duOVBZVThTbXJISzRCWTE1enFWT0stekRRU2djejd4LUx3WVE1VHhqUGd4OG1yRVRmUVNuRHJWNkZKUFZNcW0wMnBqcWh4YU5pbTBCN0VEaS1jWEJDWnRNczhmdHROSm43WnR2bGVFeHg0QnVYY3dzRWVDZEFRRE4wVjRINm5LYnlnWHBnTG9kZ3hjNzZiUmZuNWpnX3BOZDBOMw?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-10T04:49:36.132905-07:00"
+    "remind_at": "2026-07-10T06:55:25.602172-07:00"
   }
 ]

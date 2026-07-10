@@ -20137,5 +20137,50 @@
     "roles": [],
     "first_seen": "2026-07-10T04:19:37.133047-07:00",
     "status": "active"
+  },
+  "3e634855891026d6b2dcbb964239eb78": {
+    "id": "3e634855891026d6b2dcbb964239eb78",
+    "company": "Why companies",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/10/companies-pay-premium-battle-tested-cfo-nike-turnaround-david-denton/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-10T06:25:20.064900-07:00",
+    "status": "active"
+  },
+  "cf1d362820c732d14e4c41d76ed63244": {
+    "id": "cf1d362820c732d14e4c41d76ed63244",
+    "company": "SK Hynix\u2019s $26.5B Nasdaq",
+    "amount": "$26.5B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/sk-hynixs-26-5b-nasdaq-debut-is-a-reminder-that-ai-startups-are-paying-a-memory-tax-they-cant-avoid/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-10T06:25:23.327145-07:00",
+    "status": "active"
+  },
+  "55fb50c64d63c52d514ff51b0f7e4333": {
+    "id": "55fb50c64d63c52d514ff51b0f7e4333",
+    "company": "Big Tech\u2019s debt tied",
+    "amount": "$350.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/big-tech-ai-debt-350b-hyperscalers-europe-bonds/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-10T06:25:26.602322-07:00",
+    "status": "active"
   }
 }
