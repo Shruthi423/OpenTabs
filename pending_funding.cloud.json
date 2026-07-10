@@ -1,30 +1,30 @@
 [
   {
     "item": {
-      "company": "Axtria",
-      "amount": null,
-      "stage": null,
+      "company": "UAE\u2019s AVELIN AI",
+      "amount": "$3.7M",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWU9aQXZ1Y01iVFh6TEhnWmJkNlNlMUlsOHpWajZLRWQ1ekItblNUUnZjRTNEbFF1YXY0bmF3Z3R0TU1OZ2xRYVZUNmh3U1Z0NHNSWHBnWGdJVWpKT19oUy1IQlh6ck16MzJEclVwVFhLbUNMX1B3MU1nX2dRaVp0X0x0LXpybExHTlR3clNsd1FsQXdSODB5anpld1FPTzdydjRuUUhVeUk?oc=5",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMU1Lc0hXWHVxOUlBNlRIMC1rTHRuYS1NUWM5dVlWNXFsZHluejY3aXg4UXNZYXRIM0wxR1l0eEw0YkVGNDZVcHV1V05IbXVHX3RZVGx4elU1d29oenBSWGNISHVJeU5hYlJhUFpReVJQM2ExSjkwWEE5b0YwQkxiYjk5bV9Qc3BEemhmWXNIdnpqRmZ3STFRLTh4alZfWnRFT2ljbnEyLUxWZXBvc2JNR0RnQUdUeE5Td2c?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-07-10T09:15:28.065511-07:00"
+    "remind_at": "2026-07-10T11:00:25.893151-07:00"
   },
   {
     "item": {
-      "company": "Docker",
+      "company": "Outsiders",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "New York",
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObE5jZ3BMbzNsU1lYYTZSR2c3eUxMRFZrV2dkX2tlNklCWUhFY2U2WjNxNzRHVnpBa1NMbkFBcnE3RzQ1eDR2dmRzN05TSlUwcHg1dU5oc0JUUkwtU0k2cENkcmVORWF5aVd6V2prV0R0eDdvS05JaDJNTjlRYlEzWFNEUThDMEthZWlHSUswUWZSYzlQU0hKeEsxVkhKeW04X1UxcmRNekE?oc=5",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/10/fed-task-forces-fomc",
       "priority": 3
     },
-    "remind_at": "2026-07-10T09:15:30.341399-07:00"
+    "remind_at": "2026-07-10T11:00:28.179055-07:00"
   }
 ]
