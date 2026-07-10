@@ -1,5 +1,58 @@
 [
   {
+    "id": "0693265fd1b4f1689e24da6b707c1d91",
+    "company": "Mercury",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX0lSdDZzd1M2QjJ6dk9SR1BZVXpsLWZrNVBKblppRS1wSkJEcTlJU1dXTG1RZm5vaUhJV1ZnZnIzdFh4MTBiWjl4eTBxS3NUQVk3cDNFcWpBbVVIWjdrSUNXSXN3Mml4VkJCTXMxdVFVYXVZV0FtNWY1azdrR3JTVC1DMVZlc2NoT3ZWdlhwZ1A5cmtWRlI1a1NDSzFraWNsLXVnSDd3dHBIUQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-09T17:19:21.591086-07:00",
+    "status": "active"
+  },
+  {
+    "id": "3bc2093c812d42295b124ff720d1114a",
+    "company": "Deeptune",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOUp3RER2TkhZUUU0Y0h3c0Q1Ykh2NlZXOGstNjN4bExVSlJzQWVMbDlIbTVPcXNvT2NuQTRTRndJRDBFaGNUbVBXQXJUSmxIbUd2NlZDUXBpRG9PMEg0dXBQcnQxT1VEcWRJeXNXMjhuRW9uckFRejlXU1lRTTZnTVktTElsZ1NPdDNvdG1SNVdFLVN0TkhDbnFJQi0?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-09T17:19:19.454314-07:00",
+    "status": "active"
+  },
+  {
+    "id": "9dbe191dfe46bdc3aeb5d14aa5ef9b5d",
+    "company": "Mercor buys Deeptune",
+    "amount": "$43.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/09/mercor-buys-deeptune-build-training-environments-ai-agents/",
+    "priority": 8,
+    "founders": [
+      "Brendan Foody"
+    ],
+    "location": "San Francisco",
+    "roles": [
+      {
+        "title": "Web/Brand/Visual Designer",
+        "url": "https://jobs.ashbyhq.com/mercor/79fc13c6-5c2a-4b08-bd31-24c091524354",
+        "location": "San Francisco"
+      }
+    ],
+    "first_seen": "2026-07-09T17:19:17.236893-07:00",
+    "status": "active"
+  },
+  {
     "id": "99c2b8cb6c47be7309b95f88b9cbd91b",
     "company": "Gauntlet",
     "amount": "$125.0M",

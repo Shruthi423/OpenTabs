@@ -1,44 +1,46 @@
 [
   {
     "item": {
-      "company": "QIZ Security",
-      "amount": "$17.0M",
-      "stage": "Seed",
+      "company": "Mercor buys Deeptune",
+      "amount": "$43.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
-      "founders": [],
+      "founders": [
+        "Brendan Foody"
+      ],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/09/qiz-security-raises-17m-seed-round-post-quantum-readiness-platform/",
-      "priority": 9
+      "url": "https://siliconangle.com/2026/07/09/mercor-buys-deeptune-build-training-environments-ai-agents/",
+      "priority": 8
     },
-    "remind_at": "2026-07-09T16:37:14.704282-07:00"
+    "remind_at": "2026-07-09T17:49:16.236722-07:00"
   },
   {
     "item": {
-      "company": "Databento",
-      "amount": "$97.0M",
-      "stage": null,
-      "investors": "demand Market data platform startup Databento Inc",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/09/market-data-platform-startup-databento-closes-97m-round-drawing-300m-investor-demand/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-09T16:37:18.431609-07:00"
-  },
-  {
-    "item": {
-      "company": "Gauntlet",
-      "amount": "$125.0M",
+      "company": "Deeptune",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aTFVVZnoxc202WFI5dng0VExKR3BLOS1qdEdRbnBCOWxCeVZuaXBORExCXzM0NzdmNFc0RG9valEta015V0tlNGxWaUU1ZEx2ellLVU1Gbks?oc=5",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOUp3RER2TkhZUUU0Y0h3c0Q1Ykh2NlZXOGstNjN4bExVSlJzQWVMbDlIbTVPcXNvT2NuQTRTRndJRDBFaGNUbVBXQXJUSmxIbUd2NlZDUXBpRG9PMEg0dXBQcnQxT1VEcWRJeXNXMjhuRW9uckFRejlXU1lRTTZnTVktTElsZ1NPdDNvdG1SNVdFLVN0TkhDbnFJQi0?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-09T16:37:20.618208-07:00"
+    "remind_at": "2026-07-09T17:49:18.454157-07:00"
+  },
+  {
+    "item": {
+      "company": "Mercury",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX0lSdDZzd1M2QjJ6dk9SR1BZVXpsLWZrNVBKblppRS1wSkJEcTlJU1dXTG1RZm5vaUhJV1ZnZnIzdFh4MTBiWjl4eTBxS3NUQVk3cDNFcWpBbVVIWjdrSUNXSXN3Mml4VkJCTXMxdVFVYXVZV0FtNWY1azdrR3JTVC1DMVZlc2NoT3ZWdlhwZ1A5cmtWRlI1a1NDSzFraWNsLXVnSDd3dHBIUQ?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-09T17:49:20.590887-07:00"
   }
 ]
