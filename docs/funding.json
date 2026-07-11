@@ -1,5 +1,35 @@
 [
   {
+    "id": "dd50facf873ca6c0dc391d3e061a80b5",
+    "company": "Ulta",
+    "amount": "$400.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/11/ulta-nyc-flagship-store-times-square-retail-model/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-11T01:28:30.681453-07:00",
+    "status": "active"
+  },
+  {
+    "id": "05509502b8b2bf675e2d264b1c7bfc94",
+    "company": "eNLife",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYW1KTVVHZmZsaUlWanl6Y3JCQzNta0wtUjlMRTRZVzRMWlRsUEl4YUZ2b1V6WVpLZ3A2Zy0yeUlYU0Jsb3dVcDRNT0pzTVVXdXBfd2NBdVZ3N0hHbVN6LVVkU1E4NGZSaU9vYVhScFZLenJRVW5XdW1kTWFaUTlLYmdjb0dLcGtrOVFPZ2dNcWZWVzhaSmNDSDZULTNmU2owWTdmMm9WOW5NM3FsaEJMN1FHdkswSHBMM1BzQ0swbDd2WXNrLUhzNEVR0gHKAUFVX3lxTFBhbUpNVUdmZmxpSVZqeXpjckJDM21rTC1SOUxFNFlXNExaVGxQSXhhRnZvVXpZWktncDZnLTJ5SVhTQmxvd1VwNE1PSnNNVVd1cF93Y0F1Vnc3SEdtU3otVWRTUTg0ZlJpT29hWFJwVkt6clFVbld1bWRNYVpROUtiZ2NvR0twa2s5UU9nZ01xZlZXOFpKY0NINlQtM2ZTajBZN2Yyb1Y5bk0zcWxoQkw3UUd2SzBIcEwzUHNDSzBsN3ZZc2stSHM0RVE?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-11T01:28:27.944549-07:00",
+    "status": "active"
+  },
+  {
     "id": "11f4081eb808dd934ec1dc9c8a4a5e1f",
     "company": "U.S. gives Iran Saturday deadline",
     "amount": "Undisclosed",
