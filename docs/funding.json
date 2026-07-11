@@ -1,5 +1,36 @@
 [
   {
+    "id": "0d834a9da46ba333879ea2cb24846587",
+    "company": "OpenAI engineer\u2019s \u2018LOL\u2019 moment set stage",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/11/openai-engineers-legal-fight-apple-ai-product-poaching/",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco",
+    "roles": [
+      {
+        "title": "Product Designer, ChatGPT",
+        "url": "https://jobs.ashbyhq.com/openai/09d97355-0437-4054-8604-73920c0beb1a",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Product Designer, People Innovation Labs",
+        "url": "https://jobs.ashbyhq.com/openai/3874db80-f3ec-4dd1-8d56-6441e8f7299d",
+        "location": "San Francisco"
+      },
+      {
+        "title": "TLM, Embedded Experiences",
+        "url": "https://jobs.ashbyhq.com/openai/967d3ad7-bd2c-40e3-ba1f-f1140a116999",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-07-11T08:50:51.061484-07:00",
+    "status": "active"
+  },
+  {
     "id": "85489b1799468568af24e279ca36ca9c",
     "company": "Planet",
     "amount": "Undisclosed",
