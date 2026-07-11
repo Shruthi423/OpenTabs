@@ -20378,5 +20378,20 @@
     "roles": [],
     "first_seen": "2026-07-11T05:05:05.733496-07:00",
     "status": "active"
+  },
+  "15e9b61271207a683e4c13c7ab3b3eab": {
+    "id": "15e9b61271207a683e4c13c7ab3b3eab",
+    "company": "Phia",
+    "amount": "$185.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/phoebe-gates-startup-phia-succeed-without-parents-help-bill-gates-melinda-french-gates/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-11T06:52:44.198874-07:00",
+    "status": "active"
   }
 }

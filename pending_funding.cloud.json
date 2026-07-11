@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "Edysor.ai",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSlhaMUcwM0NLZ1VTd2JDSmJIVGZLWmkyLTc3TzcyNm9ING1LNmRVTm5PY1JHdUFQZmxGcnhIQy12WTRjWjhPT3ZjbnpqNFRQaVNFekI2cE1jRExYS2FRSUJqemJTTjVDOGtyOVdrU3FJNkx4VllqMFVxa1dOc1NjakdSaHh3ZW5fZjRwQjlVd1A3WWE1STJmbmZrTkUzWm9LVXd6aGJhTGlmVmZTUUpVdUxQc2g5UVNuN2dQMkREUjJlck1LclJZNA?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-07-11T05:35:02.216688-07:00"
-  },
-  {
-    "item": {
-      "company": "thumpN",
-      "amount": "$3.7M",
+      "company": "Phia",
+      "amount": "$185.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NdzEzSzIyVi1fNWF1dXRON0txaUlwNTJEMHZtMVRMb2FuYV9ES2F3REhDVE5MT0pTNGdoUHBSZGdYLWhRcHo0UWpnOXpfaU9uaHNhMHNWSkxMd2VQQk9RVGRuLUR6TnlhUzczU1MwME5zdzUz?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/phoebe-gates-startup-phia-succeed-without-parents-help-bill-gates-melinda-french-gates/",
       "priority": 3
     },
-    "remind_at": "2026-07-11T05:35:04.733321-07:00"
+    "remind_at": "2026-07-11T07:22:43.198705-07:00"
   }
 ]
