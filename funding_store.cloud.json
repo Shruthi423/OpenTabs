@@ -20595,5 +20595,41 @@
     "roles": [],
     "first_seen": "2026-07-12T07:14:12.274897-07:00",
     "status": "active"
+  },
+  "b2d4ae11946ccdf6faacf085823a3f4b": {
+    "id": "b2d4ae11946ccdf6faacf085823a3f4b",
+    "company": "World Cup bets",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/12/world-cup-bets-prediction-markets-tax-advantage-sports-gambling/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-12T09:27:14.227677-07:00",
+    "status": "active"
+  },
+  "66df1e9bb6be7f753983d71ae7074495": {
+    "id": "66df1e9bb6be7f753983d71ae7074495",
+    "company": "Ramp",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcUszeXBTdU1mV0Q1anZkR0dNS0tqbS1hYVU1Q1VIZEpHWU5rNmotLThtRU1VRDBiWUE4SXhIMXdwaFZxbTVmSzVXWVhfY1pucVVsOHFYX2ZsdmQ4dUlXYlBlcW1uZGd0Q19zUFZucERQTE9Rcm5wZFMwSEh6eVA5UEduaGY5azM3b0M1bmNMLXBZRzZGSVNuTXFIal9RajNVcm94c0t3?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/ramp/eca54d0e-232a-4c3e-bfcc-d6c6add393f5",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-07-12T09:27:16.687868-07:00",
+    "status": "active"
   }
 }

@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "World Cup bets",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/12/world-cup-bets-prediction-markets-tax-advantage-sports-gambling/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-12T09:57:13.227550-07:00"
+  },
+  {
+    "item": {
+      "company": "Ramp",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcUszeXBTdU1mV0Q1anZkR0dNS0tqbS1hYVU1Q1VIZEpHWU5rNmotLThtRU1VRDBiWUE4SXhIMXdwaFZxbTVmSzVXWVhfY1pucVVsOHFYX2ZsdmQ4dUlXYlBlcW1uZGd0Q19zUFZucERQTE9Rcm5wZFMwSEh6eVA5UEduaGY5azM3b0M1bmNMLXBZRzZGSVNuTXFIal9RajNVcm94c0t3?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-12T09:57:15.687708-07:00"
+  }
+]
