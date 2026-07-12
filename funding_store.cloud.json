@@ -20469,5 +20469,41 @@
     "roles": [],
     "first_seen": "2026-07-11T14:04:34.360098-07:00",
     "status": "active"
+  },
+  "cdfbedf01dfd4451ebe27d97e0007b90": {
+    "id": "cdfbedf01dfd4451ebe27d97e0007b90",
+    "company": "Kalshi",
+    "amount": "$1.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGpfQ0pOVGZTcFFzMF9sRC1yY0dsbUJCQ2dIamVSS1U4UE5fWS1UdTdKUGZCNXlsdWx2UERuLWJuNUxQQVVHcENUUW1vekxuU2tmOFIxY3dfV3VWb2NyV0NHWlVvRmNGRzNKb29zeVZOZHF6ZFNuT29NVndTeTdrR0JjMkwydTQ0SndzSlRxZlFGWHhDS0E?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "New York, New York, United States",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://job-boards.greenhouse.io/kalshi/jobs/6334301003",
+        "location": "New York, New York, United States"
+      },
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/kalshi/25718664-54b7-454b-9a2c-bde0b1deb76c",
+        "location": "New York Office"
+      },
+      {
+        "title": "Motion Designer",
+        "url": "https://jobs.ashbyhq.com/kalshi/5f980066-258e-41cd-8735-475e987d00cb",
+        "location": "New York Office"
+      },
+      {
+        "title": "UX Researcher",
+        "url": "https://jobs.ashbyhq.com/kalshi/9a802eca-14bc-4577-b5f4-8e49e61bd7f5",
+        "location": "New York Office"
+      }
+    ],
+    "first_seen": "2026-07-11T17:10:30.444736-07:00",
+    "status": "active"
   }
 }
