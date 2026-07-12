@@ -20550,5 +20550,35 @@
     "roles": [],
     "first_seen": "2026-07-12T04:33:42.942294-07:00",
     "status": "active"
+  },
+  "448abf879f35d560e6ef1b9959ae8a2d": {
+    "id": "448abf879f35d560e6ef1b9959ae8a2d",
+    "company": "The result",
+    "amount": "$30.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/how-did-us-spending-30-billion-dollars-on-laptops-result-in-first-generation-less-cognitively-capable-than-parents/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-12T05:37:18.685297-07:00",
+    "status": "active"
+  },
+  "1023923490e5c4a4fa9914aadf530a3f": {
+    "id": "1023923490e5c4a4fa9914aadf530a3f",
+    "company": "Peter Thiel and other tech billionaires",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/peter-thiel-tech-billionaires-limit-kids-screen-time-social-media-smartphones-short-form-video-risks/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-12T05:37:21.938253-07:00",
+    "status": "active"
   }
 }

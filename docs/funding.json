@@ -1,5 +1,35 @@
 [
   {
+    "id": "1023923490e5c4a4fa9914aadf530a3f",
+    "company": "Peter Thiel and other tech billionaires",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/peter-thiel-tech-billionaires-limit-kids-screen-time-social-media-smartphones-short-form-video-risks/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-12T05:37:21.938253-07:00",
+    "status": "active"
+  },
+  {
+    "id": "448abf879f35d560e6ef1b9959ae8a2d",
+    "company": "The result",
+    "amount": "$30.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/how-did-us-spending-30-billion-dollars-on-laptops-result-in-first-generation-less-cognitively-capable-than-parents/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-12T05:37:18.685297-07:00",
+    "status": "active"
+  },
+  {
     "id": "7373d8926558aebd71b5cc180ad5ac80",
     "company": "InfraCo Africa",
     "amount": "$12.0M",
