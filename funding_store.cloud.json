@@ -20706,5 +20706,20 @@
     "roles": [],
     "first_seen": "2026-07-12T18:08:18.062040-07:00",
     "status": "active"
+  },
+  "b5e8e51d5f464bcc87659e8473e98b1d": {
+    "id": "b5e8e51d5f464bcc87659e8473e98b1d",
+    "company": "LICENSEWARE",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "BCR Seed Starter to accelerate its international expansion and grow its SaaS license management platform",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/licenseware-raises-800000-seed/",
+    "priority": 12,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-12T21:46:39.016122-07:00",
+    "status": "active"
   }
 }

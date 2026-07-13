@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "ESGAgent.ai",
+      "company": "LICENSEWARE",
       "amount": null,
       "stage": "Seed",
-      "investors": null,
+      "investors": "BCR Seed Starter to accelerate its international expansion and grow its SaaS license management platform",
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMlZkZFhDaWdDTDUwUm9MNVJiZ2wwOHp1TlBpYTRTdENZMF9NbEl1OFljdHBySkpqMEJvbGxmc2ZybGtZdTRYOE4tR0lUTFRHLUo3LWhJc0FqemFLRkE2TDVua2VGZFlMeEZUY2h3azJPbjNQVTNkTHhDbml0R2Fza05KN3kwejFDUFBJ?oc=5",
-      "priority": 9
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/licenseware-raises-800000-seed/",
+      "priority": 12
     },
-    "remind_at": "2026-07-12T18:38:14.630078-07:00"
-  },
-  {
-    "item": {
-      "company": "SOUS",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUkNvWlR0MVQ5ZU5wZWw3N01aeURSVEtWRTBIZVZVSWF5Q1BPSzlNYVhjclI4UzQ3SDh6XzlNbWtKS0xjMkdVcXFCUmZuWXFueWNrLVJCQ0tsN2lic05uMWV3NE9RbVVxeVBLX0hyaGM1RFA1cTB1b2ZtQzdDakZNRTd4QldxeFl0R0E?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-12T18:38:17.061873-07:00"
+    "remind_at": "2026-07-12T22:16:38.015937-07:00"
   }
 ]
