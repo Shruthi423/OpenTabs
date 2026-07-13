@@ -1,114 +1,58 @@
 [
   {
     "item": {
-      "company": "SatLeo Labs",
+      "company": "BITS Pilani-backed sortmyprep",
       "amount": null,
-      "stage": "Seed",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOazE3MkpQNzJCNUYxYS02MVhfN25XN1VTRy13MHUtcm5iOWI0Y2kteF8xb01ueTdYWHp6LUJLbGhqbDd5V1FZWUJxVGNsempid0ZzQWtrbHhPRHB6enJKRGJ2aHlrUTZheUswcWVSYzNqZ2c5Y0phd0VyclEzazVLODV3U1praFEwM2VZM0lESkxmdzB4dTJvM0NOUzEwaUQwcFhiaUg1NzdlZHJENS1YZGxNaUdUckJpQUlXbWZxSnVPbkFZMml3RHFGSGxkS3F3dEhzSlVhR3l1ZlZ2ejhMTVRTUkstWkFnbTNLLVN0c19IaTl5bjQwWkhiZzZKdlJGZnYtY0pYclhTQ1dielJR?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYWVzM1B1ZUpZQjQ3S2Ffa29SaDk1aXBiWE5aZlBCaTA2VlQydW5DWE1vbkllVFFEWkprSVdGczF5aXZOdENTQlR2MVE5d2F2T3VxSF9LOEhHdXNSMXZNdFQ3SWs2VnVwZFZDRjU1Z295WXdKQkFzUDhTWEl4NzJGeXNUaG9HWTRuRWhodzBoMHdheHRoc3I3bDZ4RzdMZE9FV1Q5VzNPWmVOQzg5SG4wSWxLcWw0Q0JCNjZ0c0dhakdDaWh2Um9CQjNVSmsxZm1hWVlXOHdMYUFfWkJmNUc2eFBfWE95RHNFcWtGbmxR0gHzAUFVX3lxTFBuNC15SnZDVW0xMDg0b1hrZjVhUHFtZ0JFZ1ZNSWhRUGxySDBXNExFWC1yYVAwOV9naVV3OW5HLUtMTUVYZTY3dllYeTZ3S1FXZ2F5ZFV3cVlhZ2dUbXE3SkRTQzl0UWZkQ0xUQnJPcTRFSjU4QkxxVzZqejdUbDVGTUtBNjNoU2RtMnp1YTY2R3RwamhfZml4c2hkNHItWlE3NEppZDBOUVRwcFZqMHJBRWVyYWl4a0JLYURlTmVja3AwSm5SVjlsSUFwdUFsZUlvLXk1M0t3LWF3WFZLeVRXOUdTYkxoZS1nR1ZlMWVLSTBRcw?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-07-13T06:50:58.350317-07:00"
+    "remind_at": "2026-07-13T09:34:14.609221-07:00"
   },
   {
     "item": {
-      "company": "From The Rest",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/ai-ma-ipo-valuations-b2b-ranum-sapphire-ventures/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-13T06:51:01.588169-07:00"
-  },
-  {
-    "item": {
-      "company": "Augmodo",
-      "amount": "$21.0M",
-      "stage": null,
-      "investors": null,
-      "location": "Seattle",
-      "founders": [],
-      "source": "GeekWire Funding",
-      "url": "https://www.geekwire.com/2026/augmodo-raises-21m-to-push-its-spatial-ai-beyond-just-retail-toward-the-broader-physical-workforce/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-13T06:51:03.973682-07:00"
-  },
-  {
-    "item": {
-      "company": "Robinhood built a blockchain",
-      "amount": "$500.0M",
+      "company": "Chipotle\u2019s COO takes employees",
+      "amount": "$46.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/crypto/2026/07/13/robinhood-chain-memecoin-trading-cash-cat-vlad-tenev-crypto/",
+      "url": "https://fortune.com/2026/07/13/chipotle-coo-jason-kidd-takes-employees-dinner-every-week-spot-next-leaders-4-traits-hes-seeking/",
       "priority": 3
     },
-    "remind_at": "2026-07-13T06:51:07.268317-07:00"
+    "remind_at": "2026-07-13T09:34:17.929369-07:00"
   },
   {
     "item": {
-      "company": "Millionaires\u2019 playground Marbella wants",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Silicon Valley",
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/13/millionaires-playground-marbella-tech-hub/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-13T06:51:10.666192-07:00"
-  },
-  {
-    "item": {
-      "company": "Why American VCs",
+      "company": "Don\u2019t Put AI",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/why-american-vcs-are-writing-europes-biggest-ai-cheques/",
+      "source": "SaaStr",
+      "url": "https://www.saastr.com/dont-put-ai-on-your-hot-leads-put-it-on-the-ones-your-reps-will-never-call-theres-millions-in-revenue-there/",
       "priority": 3
     },
-    "remind_at": "2026-07-13T06:51:14.046118-07:00"
+    "remind_at": "2026-07-13T09:34:21.283081-07:00"
   },
   {
     "item": {
-      "company": "Sortmyprep",
+      "company": "Animoca Brands",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaVI3cldCcXBOZkF6LVByYWVIXzRYS3FzX2VoWUxkekdJZ2d1QVY3OXd2NDJiT0MxTU9yUWs3YWI5OGE5OFhVZVZDOUhzcHhZVUJPSG5tVDVBNFVoaDZnUG5sYklwQXRaVXRLWXp2cGl5a3JNajE3WlVPbkU2Z1d0ODRTaldCRk9WVEhPX3hoMUY3SHNkZ1pOV3M1eFdZNy11ZldzdENZZGNKdjVjUkRSWld6Y3kybENYOVozSXZmZTRNMk1EU3FPQWZvb21Gb0FLT0tqddIB2gFBVV95cUxONXI5MVhEbTJ3aEdVaUN1YXMwRkkzaEp6UUU4Q1lqVTU3dHBqYVY1LTlCR2JJUWdkOGJwaXY5U1FqZmduV3VVUGd1bFI5ZmcycXFxcWZNU2RrNGMwYjdNblY2UWo1T1ZFSnVzZEowb1RqNzVKRG00NUJFN3hUY0ZLRTZCUWYtcFJzODZORTROQ3lOWEIxTGZyejJZYWRyc0pDeHUzUDlXNUotTmYyNEZ5S29YYTU5bDE4cjl4UjctSFlCb045bTVHcUJwZGZDYk1BZ3ZtRmU5Q1Zodw?oc=5",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFRTd1V4STdWMF8xeFJLVTZ3Rk1GZUt2ZlpIeFdLdnhhXzRtQVl3UzBKb1VRQmdOVkpfY0VNM3R2VEJwdG9mQjRyd3dWQkcyNWRoYVVKUzV4aktFc01mYUZtb3lGWXRSWExGc0VnWERMOFZUNkItMjNEMk1Ra0pLUE9tUk5rRk9uU3pzZlg3LVd3THZSalJIc01WUEVjT1l2WGV2VDI4Tjgxa08wLVZpR2dWTQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-13T06:51:16.429511-07:00"
-  },
-  {
-    "item": {
-      "company": "Amazon",
-      "amount": "$50.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUFJLWDFkYlBRVzRiZnRKb3NMdEZZaWhfOGtZWUM1SzMycVIzLTZwMXptLWlDbmJ5eko3a3IzR0ZrRWJnbTFLb1ltVDJoclpKUUZSM3duZTh5Nk5MZVN0NEIwV211SWlLbklPM0EtbC00aXRuRHNNVWI4VXhUek1ZclVCd2FxRmVSTkdycFNJWGdSU0NkUmV1a2JtNzFZcVNnRVBmLURhQjVQZy1qNC1pTUJ6ZjBlRHFoUGVmWGxqOXFNQ1BnN1drMFdB?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-13T06:51:18.789370-07:00"
+    "remind_at": "2026-07-13T09:34:24.618669-07:00"
   }
 ]
