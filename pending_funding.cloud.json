@@ -1,16 +1,254 @@
 [
   {
     "item": {
-      "company": "LICENSEWARE",
-      "amount": null,
+      "company": "Monogram",
+      "amount": "$40.0M",
       "stage": "Seed",
-      "investors": "BCR Seed Starter to accelerate its international expansion and grow its SaaS license management platform",
+      "investors": "DST and Lux Capital to develop a visual AI interface platform that replaces text chat with interactive UIs",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/licenseware-raises-800000-seed/",
+      "url": "https://www.thesaasnews.com/news/monogram-raises-40m-seed/",
       "priority": 12
     },
-    "remind_at": "2026-07-12T22:16:38.015937-07:00"
+    "remind_at": "2026-07-13T01:27:12.974000-07:00"
+  },
+  {
+    "item": {
+      "company": "Hyades",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": "AI",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hyades-raises-a990k-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-07-13T01:27:15.230973-07:00"
+  },
+  {
+    "item": {
+      "company": "MagicPort",
+      "amount": "$3.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/magicport-raises-3m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-07-13T01:27:17.618281-07:00"
+  },
+  {
+    "item": {
+      "company": "Hyades plants $910",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUhwOWR5bUdqVWYzRXNCNEc3Qm1XVDNQSzMtZVAzdWx2WUtIVVBkanp6OUUwbF9TWXVnUlZFNy0tUFVhQm1kSGdoNnZGbVZ5QTYzRXlyS25yUEtPLXpSaGxLQmF6MGVBZTlTZ1RKdy1ZTEdfR1FnYWxLNzlKZTkyUFZDZXR4cHZmcDduUnNmdExqbmp4N3pOWE9RQkcxbW90RkVIdw?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-07-13T01:27:20.679216-07:00"
+  },
+  {
+    "item": {
+      "company": "Sphinx",
+      "amount": "$7.1M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/sphinx-raises-7-1m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-13T01:27:22.912072-07:00"
+  },
+  {
+    "item": {
+      "company": "ESGAgent.ai",
+      "amount": "$1.7M",
+      "stage": "Seed",
+      "investors": null,
+      "location": "Seed Brisbane",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/esgagent-ai-raises-1-7m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-13T01:27:25.320767-07:00"
+  },
+  {
+    "item": {
+      "company": "Reformed",
+      "amount": "$22.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": "UK",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/reformed-22m-series-a-70m-arr-iris-ventures/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-13T01:27:27.689047-07:00"
+  },
+  {
+    "item": {
+      "company": "WEAID",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/weaid-raises-undisclosed-pre-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-13T01:27:29.920505-07:00"
+  },
+  {
+    "item": {
+      "company": "Bidbus",
+      "amount": "$15.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": "Los Angeles",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/bidbus-raises-15m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-13T01:27:32.473184-07:00"
+  },
+  {
+    "item": {
+      "company": "Holiday Robotics",
+      "amount": "$103.4M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UYkQzZGdlRVJrM2pXMmJGMVZPMlNHenZMaTdSUzU2YzViT3A4MmotLUZuaHFqcU5oWDVGbEN6UU9UXzhVMl91NUsxN1FXWV9qYzFv?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-13T01:27:35.769426-07:00"
+  },
+  {
+    "item": {
+      "company": "SpaceX and Amazon",
+      "amount": "$4.9B",
+      "stage": null,
+      "investors": "need a lot to go right",
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/13/spacex-amazon-valuation-musk-bezos-ai-rmarket-stock-invest/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-13T01:27:38.999671-07:00"
+  },
+  {
+    "item": {
+      "company": "Acurio",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/acurio-115m-europe-vc-secondaries-fund/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-13T01:27:41.230841-07:00"
+  },
+  {
+    "item": {
+      "company": "KOWRO",
+      "amount": null,
+      "stage": null,
+      "investors": "DMM",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/kowro-raises-3-billion-in-funding/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-13T01:27:43.455949-07:00"
+  },
+  {
+    "item": {
+      "company": "Legible",
+      "amount": "$3.4M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/legible-raises-3-4m-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-13T01:27:45.697998-07:00"
+  },
+  {
+    "item": {
+      "company": "Pennylane",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3BySVFXRmN1RjhmSHFOTHE2b2xRV25DZnR4ZHlYbTMybnFjbkRjME5WS2tMQTV1MlVjZ3c5Z3FiRFRwYWg0eGJrQ2poeDY2M0dXNUdYNTZaTGdNNDdkYU9QWWYwaEYwVFg1ZTFiWUNPV2VTM3VyQTB5eUs1Z0l3ZUc4aEpMUTN3aDBCcm9ZeWc3TFEwYVFWNWFxTDlEcXFaWnA3YjF1M0R2Z1FE?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-13T01:27:51.480510-07:00"
+  },
+  {
+    "item": {
+      "company": "Klarna",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdHhMeEJ5ZU80ZE9RLTV5Tmkzd2dEWHFRcDR6RTluWFF6RmFPOVZsWk9RNW1Peno2QmhSX2Y5VlR2YWRNeW1yR21qNjdfdDd4MTNLczVYQXV1S0Rxc0NyN1ZiWHlVQ1gtQkJxNzNZd0VkYm85VkdMQmRKeThMX09WZF9wWFhHM0NGcHdfUVY3eUpTWmxiTkJUVk1RNEZJakIzWnptTnJtTnU?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-13T01:27:53.729191-07:00"
+  },
+  {
+    "item": {
+      "company": "Outlier AI",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS09RVmdZekkxNFJSQlNBbUMyUlI2bUNqV1lxbzEtdkhlRHE2QmpfOGNXY3NIU1dQMmstYmxNVFR3VUhNem1jbm5FU1hMY2ZURC1NdWNyVmp0SkVval9JZFEydTRDbUhUN3FONjRCa2lZZlMtVnVZQmQ3b21XNTBTOXpLRUVZTldha09WRFNkamNCX0pOSXBSM3dLMGl1VU1WTDVKSXoxb2EzN0NM?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-13T01:27:55.967203-07:00"
+  },
+  {
+    "item": {
+      "company": "Oratomic",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGVHSzlaay01OGM5SGxiYzRodVVoeTR4c1pHXy11Vy15M2pYQkF5TTluM0FtNjdjOEtKQUdwUmRGNjhvc2JmaUM0TGxiY3pYWlpMVTFtWERfTjhNYWlGMkFOb0FEMVVMbDNtMFNTM2NfRTZ6YjZCS3BtQkJDNmNXeDdSQ2dNcDZtTjNLR1J3dlhkWE5sZGQ2MUszcV9MWmRO?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-13T01:27:58.487175-07:00"
   }
 ]
