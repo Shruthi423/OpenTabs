@@ -1,58 +1,30 @@
 [
   {
     "item": {
-      "company": "Guthrie AI",
-      "amount": "$4.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": "Chicago",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/13/guthrie-ai-raises-4-million-to-automate-construction-bidding-and-help-glass-contractors-bid-70-more-with-virtual-bid-assistants/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-13T11:36:14.167583-07:00"
-  },
-  {
-    "item": {
-      "company": "Bold Games",
-      "amount": "$6.0M",
+      "company": "Corner Health",
+      "amount": "$32.5M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1nb1hHVHdsUHdWdmswZXpCeGZFc3JSa2lZc0FzTFN5OXNUUGNObS1UdzlSNGRfaEkwVzNVNGtaTQ?oc=5",
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdktIOGw0UV8zV044UjlZcnZtVjBYNXVGTWZveHNVQmJDX2NWMnBsZkg5emNscXJNcWdxZnR2dlVwMmxjTURLVGtoclhBRmlHWWw2NXNqWTdZdkI0TnpHejF1X2d1bFJqWUh4dVl1RHktRFpINW1CaUctcDE2S1ZZLWU4bmlCUDdzdDQtRVpOYktmdy14YlNtcWdTMTduTFBCVjk2eUVCR0p5UHRycHlxZ0FtQ2pDLWJGcGxvYmR6bGtZNmZpRVAzUGcweGpwbC16Mm8xU1BrVTE0akE2aWFzcFB0OVNxTWRybkRXalVfRXdraTQ2V0ZrNnJZN3NvUXAxX29YdWJVaFNlSTQ?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-13T11:36:19.382377-07:00"
+    "remind_at": "2026-07-13T13:18:27.234804-07:00"
   },
   {
     "item": {
-      "company": "Al-Mukhtar Syrian platform",
+      "company": "Productboard",
       "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9hSUhheWlnZERpLU4wdmQxU3lPN1Y2c0xFZGdiOHVVaFNXSEhIMFhFX1NMMlhGNk9TeWZLellBNA?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-07-13T11:36:22.734129-07:00"
-  },
-  {
-    "item": {
-      "company": "Judge sanctions Trump's lawyers",
-      "amount": "$1.776B",
       "stage": null,
       "investors": null,
-      "location": "New York",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/13/judge-trump-irs-settlement-anti-weaponization-fund",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2xILXlFUU1EcHhDV2cyeERUV0JqOUQtWG9POXJSdFJ2eGp5YUZ4Uy1TYUt6dF96TDZrQ3RjSWJLbEY0UTEyM2hCU2pLWlA4WFJhazVtMlVKTVliVGF0cDdwNEhUdjF3c0VHYlhWa2xZZEVaVENWNTdMTDQ2X1lvdmFGRFV1TTRyd3RxNXlIZGV5M1IyV2w2bjZTWGozTVRzUF92STRSZXNwVnNLall2dQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-13T11:36:26.111402-07:00"
+    "remind_at": "2026-07-13T13:18:29.817042-07:00"
   }
 ]
