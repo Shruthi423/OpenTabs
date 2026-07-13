@@ -21535,5 +21535,35 @@
     ],
     "first_seen": "2026-07-13T13:54:02.384676-07:00",
     "status": "active"
+  },
+  "2b31a58ff0fe72983320d7d138ab7ae0": {
+    "id": "2b31a58ff0fe72983320d7d138ab7ae0",
+    "company": "Senate looks",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/13/lindsey-graham-russia-sanctions-senate-trump",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-13T16:49:39.160165-07:00",
+    "status": "active"
+  },
+  "c5933622c852a719dfa159442ff7d979": {
+    "id": "c5933622c852a719dfa159442ff7d979",
+    "company": "A dozen states file lawsuit",
+    "amount": "$110.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/13/paramount-warner-bros-discovery-state-antitrust",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-07-13T16:49:42.359782-07:00",
+    "status": "active"
   }
 }
