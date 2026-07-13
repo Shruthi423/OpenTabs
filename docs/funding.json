@@ -1,5 +1,71 @@
 [
   {
+    "id": "4b763d2a32a3d197ec63107a509ccd08",
+    "company": "Judge sanctions Trump's lawyers",
+    "amount": "$1.776B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/13/judge-trump-irs-settlement-anti-weaponization-fund",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-07-13T11:06:27.111559-07:00",
+    "status": "active"
+  },
+  {
+    "id": "4d62030c913722f1947d78b1aa9432a3",
+    "company": "Al-Mukhtar Syrian platform",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9hSUhheWlnZERpLU4wdmQxU3lPN1Y2c0xFZGdiOHVVaFNXSEhIMFhFX1NMMlhGNk9TeWZLellBNA?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-13T11:06:23.734285-07:00",
+    "status": "active"
+  },
+  {
+    "id": "ae3fe095a096ecd812bf656282f9b743",
+    "company": "Bold Games",
+    "amount": "$6.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1nb1hHVHdsUHdWdmswZXpCeGZFc3JSa2lZc0FzTFN5OXNUUGNObS1UdzlSNGRfaEkwVzNVNGtaTQ?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": "San Francisco",
+    "roles": [
+      {
+        "title": "User Interface Developer",
+        "url": "https://job-boards.greenhouse.io/bold/jobs/47396",
+        "location": "San Francisco"
+      }
+    ],
+    "first_seen": "2026-07-13T11:06:20.382567-07:00",
+    "status": "active"
+  },
+  {
+    "id": "b0e0bdc5356d0d846f49ec65a811ae14",
+    "company": "Guthrie AI",
+    "amount": "$4.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/07/13/guthrie-ai-raises-4-million-to-automate-construction-bidding-and-help-glass-contractors-bid-70-more-with-virtual-bid-assistants/",
+    "priority": 9,
+    "founders": [],
+    "location": "Chicago",
+    "roles": [],
+    "first_seen": "2026-07-13T11:06:15.167741-07:00",
+    "status": "active"
+  },
+  {
     "id": "4c86603b3681ba596f6cc4331c5eff1b",
     "company": "Animoca Brands",
     "amount": "Undisclosed",
