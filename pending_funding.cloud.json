@@ -1,198 +1,114 @@
 [
   {
     "item": {
-      "company": "Neothera",
-      "amount": "$1.1M",
-      "stage": "Pre-Seed",
+      "company": "SatLeo Labs",
+      "amount": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaDh4ZlBZcmpQdDI3ZTRUbzkzc3R5RXhYcUpkdjNfN3pVQ1R6UzluRzM5VGlzUTFVOHJSTV9zOWx5U0FQbEFaR0MtdW5tSnlxb3c3MXZfMHhSb3NQY0FESnp4eFRhMl8wNnhPQ3dyWk9vLUFZMGt4cjNDZkE4MDhYZ0VfT0g5a1pCUEkzaXpLT1U?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-07-13T04:27:17.817879-07:00"
-  },
-  {
-    "item": {
-      "company": "Multifactor",
-      "amount": "$15.0M",
-      "stage": "Seed",
-      "investors": "Nexus Venture Partners to provide secure, shareable account access for humans and AI agents",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/multifactor-raises-15m-seed/",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOazE3MkpQNzJCNUYxYS02MVhfN25XN1VTRy13MHUtcm5iOWI0Y2kteF8xb01ueTdYWHp6LUJLbGhqbDd5V1FZWUJxVGNsempid0ZzQWtrbHhPRHB6enJKRGJ2aHlrUTZheUswcWVSYzNqZ2c5Y0phd0VyclEzazVLODV3U1praFEwM2VZM0lESkxmdzB4dTJvM0NOUzEwaUQwcFhiaUg1NzdlZHJENS1YZGxNaUdUckJpQUlXbWZxSnVPbkFZMml3RHFGSGxkS3F3dEhzSlVhR3l1ZlZ2ejhMTVRTUkstWkFnbTNLLVN0c19IaTl5bjQwWkhiZzZKdlJGZnYtY0pYclhTQ1dielJR?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-13T04:27:20.343934-07:00"
+    "remind_at": "2026-07-13T06:50:58.350317-07:00"
   },
   {
     "item": {
-      "company": "Blanco",
-      "amount": "$5.2M",
-      "stage": "Seed",
+      "company": "From The Rest",
+      "amount": null,
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/blanco-raises-5-2m-seed/",
-      "priority": 9
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/ai-ma-ipo-valuations-b2b-ranum-sapphire-ventures/",
+      "priority": 3
     },
-    "remind_at": "2026-07-13T04:27:22.888024-07:00"
+    "remind_at": "2026-07-13T06:51:01.588169-07:00"
   },
   {
     "item": {
-      "company": "Lissi",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "Ventech to expand its EUDI wallet integration software for the European financial sector",
-      "location": null,
+      "company": "Augmodo",
+      "amount": "$21.0M",
+      "stage": null,
+      "investors": null,
+      "location": "Seattle",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/lissi-secures-3-5-million-in-funding/",
-      "priority": 9
+      "source": "GeekWire Funding",
+      "url": "https://www.geekwire.com/2026/augmodo-raises-21m-to-push-its-spatial-ai-beyond-just-retail-toward-the-broader-physical-workforce/",
+      "priority": 3
     },
-    "remind_at": "2026-07-13T04:27:25.416647-07:00"
+    "remind_at": "2026-07-13T06:51:03.973682-07:00"
   },
   {
     "item": {
-      "company": "Finto",
-      "amount": "$3.4M",
-      "stage": "Seed",
+      "company": "Robinhood built a blockchain",
+      "amount": "$500.0M",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/finto-raises-3-4m-seed/",
-      "priority": 9
+      "source": "Fortune",
+      "url": "https://fortune.com/crypto/2026/07/13/robinhood-chain-memecoin-trading-cash-cat-vlad-tenev-crypto/",
+      "priority": 3
     },
-    "remind_at": "2026-07-13T04:27:27.971706-07:00"
+    "remind_at": "2026-07-13T06:51:07.268317-07:00"
   },
   {
     "item": {
-      "company": "AIsa",
-      "amount": "$6.5M",
-      "stage": "Seed",
-      "investors": "Alibaba and Tribe Capital to build a transaction and payment network for autonomous AI agents",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/aisa-raises-6-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-13T04:27:30.404732-07:00"
-  },
-  {
-    "item": {
-      "company": "ZeamiCyberSecurity",
+      "company": "Millionaires\u2019 playground Marbella wants",
       "amount": null,
-      "stage": "Series A",
+      "stage": null,
+      "investors": null,
+      "location": "Silicon Valley",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/13/millionaires-playground-marbella-tech-hub/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-13T06:51:10.666192-07:00"
+  },
+  {
+    "item": {
+      "company": "Why American VCs",
+      "amount": null,
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/zeamicybersecurity-raises-50000000-pre-series-a/",
-      "priority": 8
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/why-american-vcs-are-writing-europes-biggest-ai-cheques/",
+      "priority": 3
     },
-    "remind_at": "2026-07-13T04:27:32.893981-07:00"
+    "remind_at": "2026-07-13T06:51:14.046118-07:00"
   },
   {
     "item": {
-      "company": "Praun",
+      "company": "Sortmyprep",
       "amount": null,
-      "stage": "Series A",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yQXNTVmJXMEp2dUxtNkpCSWNmU3RiYk1IRWVMMURlRXlXS0lwVXZJazRjbk9qMUl1a3JSTkFhaDBPZzA3T1F2Qlo0NW00cEVNZXhj?oc=5",
-      "priority": 8
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaVI3cldCcXBOZkF6LVByYWVIXzRYS3FzX2VoWUxkekdJZ2d1QVY3OXd2NDJiT0MxTU9yUWs3YWI5OGE5OFhVZVZDOUhzcHhZVUJPSG5tVDVBNFVoaDZnUG5sYklwQXRaVXRLWXp2cGl5a3JNajE3WlVPbkU2Z1d0ODRTaldCRk9WVEhPX3hoMUY3SHNkZ1pOV3M1eFdZNy11ZldzdENZZGNKdjVjUkRSWld6Y3kybENYOVozSXZmZTRNMk1EU3FPQWZvb21Gb0FLT0tqddIB2gFBVV95cUxONXI5MVhEbTJ3aEdVaUN1YXMwRkkzaEp6UUU4Q1lqVTU3dHBqYVY1LTlCR2JJUWdkOGJwaXY5U1FqZmduV3VVUGd1bFI5ZmcycXFxcWZNU2RrNGMwYjdNblY2UWo1T1ZFSnVzZEowb1RqNzVKRG00NUJFN3hUY0ZLRTZCUWYtcFJzODZORTROQ3lOWEIxTGZyejJZYWRyc0pDeHUzUDlXNUotTmYyNEZ5S29YYTU5bDE4cjl4UjctSFlCb045bTVHcUJwZGZDYk1BZ3ZtRmU5Q1Zodw?oc=5",
+      "priority": 3
     },
-    "remind_at": "2026-07-13T04:27:35.851146-07:00"
+    "remind_at": "2026-07-13T06:51:16.429511-07:00"
   },
   {
     "item": {
-      "company": "Valarian",
+      "company": "Amazon",
       "amount": "$50.0M",
       "stage": null,
       "investors": null,
-      "location": "London",
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/13/ai-sovereignty-cloud-valarian-50-million-nea-palantir-europe-microsoft-aws-google-defense/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-13T04:27:39.338685-07:00"
-  },
-  {
-    "item": {
-      "company": "From KKK halls",
-      "amount": null,
-      "stage": null,
-      "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/13/transform-america-racist-landmarks",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUFJLWDFkYlBRVzRiZnRKb3NMdEZZaWhfOGtZWUM1SzMycVIzLTZwMXptLWlDbmJ5eko3a3IzR0ZrRWJnbTFLb1ltVDJoclpKUUZSM3duZTh5Nk5MZVN0NEIwV211SWlLbklPM0EtbC00aXRuRHNNVWI4VXhUek1ZclVCd2FxRmVSTkdycFNJWGdSU0NkUmV1a2JtNzFZcVNnRVBmLURhQjVQZy1qNC1pTUJ6ZjBlRHFoUGVmWGxqOXFNQ1BnN1drMFdB?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-13T04:27:42.630800-07:00"
-  },
-  {
-    "item": {
-      "company": "Visibuilt",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/visibuilt-raises-e3-3m-from-eifo-and-unconventional-ventures-to-grow-roads-from-fungi-instead-of-paving-them-with-oil/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-13T04:27:45.097258-07:00"
-  },
-  {
-    "item": {
-      "company": "Helsing",
-      "amount": "$1.8B",
-      "stage": "Series E",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/helsing-1-8b-series-e-18b-valuation/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-13T04:27:47.573851-07:00"
-  },
-  {
-    "item": {
-      "company": "Jizaie",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/jizaiye-raises-400m-other/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-13T04:27:50.044088-07:00"
-  },
-  {
-    "item": {
-      "company": "They left McKinsey",
-      "amount": "$10.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTjQ2SGJQUFljRjB2d3gzYkdYV3R1T29ac2dpQmxya1F3V1Z3YzhJWWFaNVZUQWdQMjB3VmY4R2tjejRGSFZPRVdCMEZ2Y1N2UzM2eE4tV2w2VjV5QlRfYXpyakF2Q2g0V0hQbVhPOWZSajhvc2wyM0NFWjBCYXZMLWxJbEtSX3FUalhGdmJkeEN6LU5Z?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-13T04:27:53.442106-07:00"
+    "remind_at": "2026-07-13T06:51:18.789370-07:00"
   }
 ]
