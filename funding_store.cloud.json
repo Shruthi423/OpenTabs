@@ -21499,5 +21499,41 @@
     "roles": [],
     "first_seen": "2026-07-13T12:48:30.817200-07:00",
     "status": "active"
+  },
+  "51dfb756ad04aeb3fd2ea4ff28bf7277": {
+    "id": "51dfb756ad04aeb3fd2ea4ff28bf7277",
+    "company": "Kalshi",
+    "amount": "$22.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/03/20/kalshi-locks-in-22-billion-valuation-gaining-slight-edge-over-its-rival-polymarket/",
+    "priority": 3,
+    "founders": [],
+    "location": "New York, New York, United States",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://job-boards.greenhouse.io/kalshi/jobs/6334301003",
+        "location": "New York, New York, United States"
+      },
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/kalshi/25718664-54b7-454b-9a2c-bde0b1deb76c",
+        "location": "New York Office"
+      },
+      {
+        "title": "Motion Designer",
+        "url": "https://jobs.ashbyhq.com/kalshi/5f980066-258e-41cd-8735-475e987d00cb",
+        "location": "New York Office"
+      },
+      {
+        "title": "UX Researcher",
+        "url": "https://jobs.ashbyhq.com/kalshi/9a802eca-14bc-4577-b5f4-8e49e61bd7f5",
+        "location": "New York Office"
+      }
+    ],
+    "first_seen": "2026-07-13T13:54:02.384676-07:00",
+    "status": "active"
   }
 }
