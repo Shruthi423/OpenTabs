@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "job": {
+      "title": "Founding Product Designer",
+      "company": "Clarion (W24)",
+      "location": "NYC Office",
+      "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D80061&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29339",
+      "salary": "$120K - $160K",
+      "description": "The AI communication layer for healthcare",
+      "posted_at": "Recently",
+      "source": "Y Combinator",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-07-14T10:43:01.634665-07:00"
+  }
+]

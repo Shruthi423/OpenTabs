@@ -7715,5 +7715,23 @@
     "first_seen": "2026-07-14T07:28:42.935828-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "3c4019ee2b92b9547989317e531eea28": {
+    "id": "3c4019ee2b92b9547989317e531eea28",
+    "title": "Founding Product Designer",
+    "company": "Clarion (W24)",
+    "location": "NYC Office",
+    "salary": "$120K - $160K",
+    "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D80061&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29339",
+    "source": "Y Combinator",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-07-14T10:13:00.997916-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
