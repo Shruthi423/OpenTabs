@@ -1,44 +1,128 @@
 [
   {
     "item": {
-      "company": "Connectionary",
-      "amount": null,
-      "stage": "Pre-Seed",
+      "company": "Reken",
+      "amount": "$10.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50S1ZJeUtHWG1XbHAxVm5pdXdYQWF4MVlLVzJrR0FuaVI2MlliZzF6am40a1c1cEtEanVOOWdkZkZ5XzdnMktVdUFLcWIxRGRlVGkw?oc=5",
-      "priority": 10
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/reken-raises-10m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-07-13T22:18:01.898809-07:00"
+    "remind_at": "2026-07-14T00:38:43.857963-07:00"
   },
   {
     "item": {
-      "company": "ORA Technologies",
-      "amount": "$2.0M",
+      "company": "SimpleAI",
+      "amount": "$15.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": "Funding Singapore",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/simpleai-raises-15m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-14T00:38:46.397927-07:00"
+  },
+  {
+    "item": {
+      "company": "SKAI Intelligence",
+      "amount": null,
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRE5fVFJvc0RzdXVJd3AyOEt1ZXc3Sk15OFc3TVp3V3NzODBKWjdjTFlCQ2J0OGphV3FCQWlPbGtkVTJNMlEtUlhFREd5MDc2OXJhT05qdUNIek52RXNOT0JaVnFmNDF6cFFEOGJJUzg5NE9fZUlYcWE5c2pWSF81VnFnOGlSc0lwU2I5VFdSTnRxU3pTUTk0?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/skai-intelligence-valued-at-krw-100-billion-in-series-a-extension-for-physical-ai-data-infrastructur/",
       "priority": 8
     },
-    "remind_at": "2026-07-13T22:18:04.178059-07:00"
+    "remind_at": "2026-07-14T00:38:49.623844-07:00"
   },
   {
     "item": {
-      "company": "PixVerse",
-      "amount": "$439.0M",
+      "company": "ORA Technologies",
+      "amount": "$10.0M",
+      "stage": "Series A",
+      "investors": "Azur Innovation Fund to expand its fintech and food delivery super app in Morocco",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ora-technologies-raises-10m-series-a-extension/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-14T00:38:52.278238-07:00"
+  },
+  {
+    "item": {
+      "company": "Spare",
+      "amount": "$5.0M",
+      "stage": "Series A",
+      "investors": "anb Seed Fund to scale its open banking infrastructure and expand operations across the GCC region",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/spare-raises-5m-pre-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-14T00:38:55.125899-07:00"
+  },
+  {
+    "item": {
+      "company": "PolicyStreet",
+      "amount": "$5.0M",
       "stage": "Series C",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pixverse-raises-439m-series-c-extension/",
+      "url": "https://www.thesaasnews.com/news/policystreet-raises-5m-series-c/",
       "priority": 6
     },
-    "remind_at": "2026-07-13T22:18:06.421084-07:00"
+    "remind_at": "2026-07-14T00:38:57.650722-07:00"
+  },
+  {
+    "item": {
+      "company": "Prolo",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/prolo-secures-4-2m-triple-point-ventures-construction-procurement/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-14T00:39:00.203379-07:00"
+  },
+  {
+    "item": {
+      "company": "SEIIM",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/seiim-secures-investment-from-cnt-tech-to-expand-ai-driven-industrial-safety-platform/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-14T00:39:02.638719-07:00"
+  },
+  {
+    "item": {
+      "company": "Lendistry",
+      "amount": "$100.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/lendistry-raises-100m-debt-financing/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-14T00:39:05.181620-07:00"
   }
 ]
