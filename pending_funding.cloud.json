@@ -1,128 +1,72 @@
 [
   {
     "item": {
-      "company": "Reken",
-      "amount": "$10.0M",
-      "stage": "Seed",
+      "company": "British founder Max Buchan",
+      "amount": "$50.0M",
+      "stage": "Series A",
       "investors": null,
-      "location": null,
+      "location": "London",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/reken-raises-10m-seed/",
-      "priority": 9
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/every-ai-startup-in-europe-is-selling-sovereignty-valarian-just-raised-50m-to-prove-infrastructure-governance-is-different/",
+      "priority": 8
     },
-    "remind_at": "2026-07-14T00:38:43.857963-07:00"
+    "remind_at": "2026-07-14T02:47:14.479986-07:00"
   },
   {
     "item": {
-      "company": "SimpleAI",
-      "amount": "$15.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": "Funding Singapore",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/simpleai-raises-15m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-14T00:38:46.397927-07:00"
-  },
-  {
-    "item": {
-      "company": "SKAI Intelligence",
+      "company": "Project Q",
       "amount": null,
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/skai-intelligence-valued-at-krw-100-billion-in-series-a-extension-for-physical-ai-data-infrastructur/",
+      "url": "https://www.thesaasnews.com/news/project-q-raises-15m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-07-14T00:38:49.623844-07:00"
+    "remind_at": "2026-07-14T02:47:17.650298-07:00"
   },
   {
     "item": {
-      "company": "ORA Technologies",
-      "amount": "$10.0M",
+      "company": "Corner Health",
+      "amount": null,
       "stage": "Series A",
-      "investors": "Azur Innovation Fund to expand its fintech and food delivery super app in Morocco",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ora-technologies-raises-10m-series-a-extension/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-14T00:38:52.278238-07:00"
-  },
-  {
-    "item": {
-      "company": "Spare",
-      "amount": "$5.0M",
-      "stage": "Series A",
-      "investors": "anb Seed Fund to scale its open banking infrastructure and expand operations across the GCC region",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/spare-raises-5m-pre-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-14T00:38:55.125899-07:00"
-  },
-  {
-    "item": {
-      "company": "PolicyStreet",
-      "amount": "$5.0M",
-      "stage": "Series C",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/policystreet-raises-5m-series-c/",
-      "priority": 6
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZkRpVURUQ2VfenBqTjNIZ2FJOUZLNG9YdU1aZ2wtS3pVbDB0NnliX1Y3TWMyQl9IMEJfUEtoR2NITnpmSzhHZW0xN2d6WFlGUkE5NC1TVFJxbGVYN19odWdCVW1oYTJDZ0JBa19mQjJXRTBVWDBmM3h5WWVjU0hrX1RB?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-07-14T00:38:57.650722-07:00"
+    "remind_at": "2026-07-14T02:47:20.950077-07:00"
   },
   {
     "item": {
-      "company": "Prolo",
+      "company": "Gen Z\u2019s analog obsession",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/14/gen-z-film-camera-market-revival/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-14T02:47:24.070517-07:00"
+  },
+  {
+    "item": {
+      "company": "Skalar snaps \u20ac12M from Headline",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/prolo-secures-4-2m-triple-point-ventures-construction-procurement/",
+      "url": "https://techfundingnews.com/skalar-raises-12m-headline-ai-accounting-firm/",
       "priority": 3
     },
-    "remind_at": "2026-07-14T00:39:00.203379-07:00"
-  },
-  {
-    "item": {
-      "company": "SEIIM",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/seiim-secures-investment-from-cnt-tech-to-expand-ai-driven-industrial-safety-platform/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-14T00:39:02.638719-07:00"
-  },
-  {
-    "item": {
-      "company": "Lendistry",
-      "amount": "$100.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/lendistry-raises-100m-debt-financing/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-14T00:39:05.181620-07:00"
+    "remind_at": "2026-07-14T02:47:27.268122-07:00"
   }
 ]
