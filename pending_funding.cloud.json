@@ -1,86 +1,72 @@
 [
   {
     "item": {
-      "company": "Algorix",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/algorix-raises-pre-seed-funding-from-kakao-ventures-to-build-unified-data-layer-for-enterprise-ai/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-14T04:35:26.121466-07:00"
-  },
-  {
-    "item": {
-      "company": "BUILT",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTBNR3FIckhLM3FDZGNEV0QxdjZadUhvcW1rZXJfUWh5VWhZS3RhTjVOMWJLdmlDOVNlbk1EQUFUOTRHejRlQmZlcGdHZUZLeFEzdWdsVkVNY21zU0t4M0FseFZZU1IzTGt6NmtlOGxvWUlSajFOVlozd2s1QXlJbTNTSXRCTkMyU0NCZG1LdlItbHplWGFuN1FuVGJYUGNEUF9JRmhnZG8?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-07-14T04:35:28.410533-07:00"
-  },
-  {
-    "item": {
-      "company": "Funding",
-      "amount": "$4.4B",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/cybersecurity/solid-startup-venture-funding-growth-h1-2026/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-14T04:35:30.572555-07:00"
-  },
-  {
-    "item": {
-      "company": "Bahrain EDB bids",
-      "amount": null,
-      "stage": null,
+      "company": "Velocity",
+      "amount": "$38.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/14/bahrain-edb-bids-win-investors-mounting-headwinds/",
-      "priority": 3
+      "url": "https://fortune.com/2026/07/14/exclusive-payments-startup-velocity-38-million-businesses-stablecoin-growth/",
+      "priority": 8
     },
-    "remind_at": "2026-07-14T04:35:33.614643-07:00"
+    "remind_at": "2026-07-14T06:09:55.764609-07:00"
   },
   {
     "item": {
-      "company": "Bahrain EDB\u2019s CEO H.E. Noor",
-      "amount": null,
+      "company": "ABB",
+      "amount": "$10.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": "London",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/gridcog-raises-10m-series-a-abb-energy-modelling/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-14T06:09:58.296358-07:00"
+  },
+  {
+    "item": {
+      "company": "TYLsemi",
+      "amount": "$43.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/14/bahrain-edbs-ceo-he-noor-doubling-down-growth-mounting-regional-headwinds/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/14/custom-ai-chip-design-startup-tylsemi-launches-43m-early-stage-funding/",
       "priority": 3
     },
-    "remind_at": "2026-07-14T04:35:36.502894-07:00"
+    "remind_at": "2026-07-14T06:10:00.746788-07:00"
   },
   {
     "item": {
-      "company": "Planno",
-      "amount": null,
+      "company": "Flex doubles valuation",
+      "amount": "$1.2B",
       "stage": null,
       "investors": null,
-      "location": "Dubai",
+      "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/planno-raises-strategic-investment/",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/flex-raises-70m-series-b1-1-2b-valuation/",
       "priority": 3
     },
-    "remind_at": "2026-07-14T04:35:38.711918-07:00"
+    "remind_at": "2026-07-14T06:10:04.061650-07:00"
+  },
+  {
+    "item": {
+      "company": "Flex",
+      "amount": "$70.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/14/ai-fintech-startup-flex-raises-70-million-at-1-2-billion-valuation-launches-global-stablecoin-payments/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-14T06:10:06.434043-07:00"
   }
 ]
