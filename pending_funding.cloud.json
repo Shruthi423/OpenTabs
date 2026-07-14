@@ -1,72 +1,86 @@
 [
   {
     "item": {
-      "company": "British founder Max Buchan",
-      "amount": "$50.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": "London",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/every-ai-startup-in-europe-is-selling-sovereignty-valarian-just-raised-50m-to-prove-infrastructure-governance-is-different/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-14T02:47:14.479986-07:00"
-  },
-  {
-    "item": {
-      "company": "Project Q",
+      "company": "Algorix",
       "amount": null,
-      "stage": "Series A",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/project-q-raises-15m-series-a/",
-      "priority": 8
+      "url": "https://www.thesaasnews.com/news/algorix-raises-pre-seed-funding-from-kakao-ventures-to-build-unified-data-layer-for-enterprise-ai/",
+      "priority": 10
     },
-    "remind_at": "2026-07-14T02:47:17.650298-07:00"
+    "remind_at": "2026-07-14T04:35:26.121466-07:00"
   },
   {
     "item": {
-      "company": "Corner Health",
+      "company": "BUILT",
       "amount": null,
-      "stage": "Series A",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZkRpVURUQ2VfenBqTjNIZ2FJOUZLNG9YdU1aZ2wtS3pVbDB0NnliX1Y3TWMyQl9IMEJfUEtoR2NITnpmSzhHZW0xN2d6WFlGUkE5NC1TVFJxbGVYN19odWdCVW1oYTJDZ0JBa19mQjJXRTBVWDBmM3h5WWVjU0hrX1RB?oc=5",
-      "priority": 8
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTBNR3FIckhLM3FDZGNEV0QxdjZadUhvcW1rZXJfUWh5VWhZS3RhTjVOMWJLdmlDOVNlbk1EQUFUOTRHejRlQmZlcGdHZUZLeFEzdWdsVkVNY21zU0t4M0FseFZZU1IzTGt6NmtlOGxvWUlSajFOVlozd2s1QXlJbTNTSXRCTkMyU0NCZG1LdlItbHplWGFuN1FuVGJYUGNEUF9JRmhnZG8?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-07-14T02:47:20.950077-07:00"
+    "remind_at": "2026-07-14T04:35:28.410533-07:00"
   },
   {
     "item": {
-      "company": "Gen Z\u2019s analog obsession",
+      "company": "Funding",
+      "amount": "$4.4B",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/cybersecurity/solid-startup-venture-funding-growth-h1-2026/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-14T04:35:30.572555-07:00"
+  },
+  {
+    "item": {
+      "company": "Bahrain EDB bids",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/14/gen-z-film-camera-market-revival/",
+      "url": "https://fortune.com/2026/07/14/bahrain-edb-bids-win-investors-mounting-headwinds/",
       "priority": 3
     },
-    "remind_at": "2026-07-14T02:47:24.070517-07:00"
+    "remind_at": "2026-07-14T04:35:33.614643-07:00"
   },
   {
     "item": {
-      "company": "Skalar snaps \u20ac12M from Headline",
+      "company": "Bahrain EDB\u2019s CEO H.E. Noor",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/skalar-raises-12m-headline-ai-accounting-firm/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/14/bahrain-edbs-ceo-he-noor-doubling-down-growth-mounting-regional-headwinds/",
       "priority": 3
     },
-    "remind_at": "2026-07-14T02:47:27.268122-07:00"
+    "remind_at": "2026-07-14T04:35:36.502894-07:00"
+  },
+  {
+    "item": {
+      "company": "Planno",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Dubai",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/planno-raises-strategic-investment/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-14T04:35:38.711918-07:00"
   }
 ]
