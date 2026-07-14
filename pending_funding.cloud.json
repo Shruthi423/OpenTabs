@@ -1,100 +1,30 @@
 [
   {
     "item": {
-      "company": "Cognify Health",
+      "company": "Justices ask Congress",
       "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeG1aYU9tZXpRRHVxYml0VndaUWIyaWhmMzRpeTJiNk1MV3dnME1RamFPMmp4VzF0RHdTcU56cHhpM0NCOWdpTmNOQVhNbUJwWW91aUtjMGRrZXJsdmxELVFRLVNyTVlqb01xOHJLOXNFLXZUYlIyZ1RsT0E2VTlrRW5qV1d4VS1WRk0zLXZqSHRITVFqRmNiUmtGTmFJNEw1dXQ0bGQwNGVWNmJHbnF5YVgwcGFaekVQZ2diTHM4NUJmMC02b2JUc3NCcXBhNnFQQjNyNA?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-07-14T10:43:22.697318-07:00"
-  },
-  {
-    "item": {
-      "company": "Peec rival Promptwatch",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ydDczSW9Ybnc0akNONVZFTGUtbnhpSW0tYjVmaC1BdGh6MkxqdzdTRjZXNGx3Yk52RVVWVnE5RWVYOHJyR0lkWVpFeExuMkpaSFZkY3pkakhBaXRmV2s1Z0R6LUhZck0?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-07-14T10:43:25.871824-07:00"
-  },
-  {
-    "item": {
-      "company": "DeepSeek reportedly in talks",
-      "amount": "$1.5B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-14T10:43:29.439166-07:00"
-  },
-  {
-    "item": {
-      "company": "Warren Buffett stunned by Epstein",
-      "amount": "$6.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/14/buffett-gates-friendship-epstein-fallout/",
+      "url": "https://fortune.com/2026/07/14/supreme-court-judges-security-funding-threats/",
       "priority": 3
     },
-    "remind_at": "2026-07-14T10:43:32.705283-07:00"
+    "remind_at": "2026-07-14T11:47:35.829712-07:00"
   },
   {
     "item": {
-      "company": "Trump backtracks",
+      "company": "New York Just Declared War",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "New York",
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/14/trump-hormuz-toll-demand-trade-fee",
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/07/new-york-just-declared-war-on-the-future/",
       "priority": 3
     },
-    "remind_at": "2026-07-14T10:43:35.984821-07:00"
-  },
-  {
-    "item": {
-      "company": "The push",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Dubai",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/14/oil-hormuz-pipelines-trump",
-      "priority": 3
-    },
-    "remind_at": "2026-07-14T10:43:39.214192-07:00"
-  },
-  {
-    "item": {
-      "company": "Hadrius",
-      "amount": "$27.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/14/hadrius-raises-27-million-to-build-ai-powered-compliance-infrastructure-for-financial-services/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-14T10:43:41.641831-07:00"
+    "remind_at": "2026-07-14T11:47:38.775672-07:00"
   }
 ]

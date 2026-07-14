@@ -1,5 +1,35 @@
 [
   {
+    "id": "f7dfd4667b311199ed0927b80522a806",
+    "company": "New York Just Declared War",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "AlleyWatch",
+    "url": "https://www.alleywatch.com/2026/07/new-york-just-declared-war-on-the-future/",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-07-14T11:17:39.775849-07:00",
+    "status": "active"
+  },
+  {
+    "id": "b8c5d4a250a3bd6115e2ecd90fb96845",
+    "company": "Justices ask Congress",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/14/supreme-court-judges-security-funding-threats/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-14T11:17:36.829908-07:00",
+    "status": "active"
+  },
+  {
     "id": "d9d3a3cb6a0d8b3c8074421a714d27de",
     "company": "Hadrius",
     "amount": "$27.0M",
