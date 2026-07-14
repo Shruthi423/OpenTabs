@@ -1,5 +1,58 @@
 [
   {
+    "id": "f118f94ed6befa4d01147ee5dc497000",
+    "company": "TerraFirma",
+    "amount": "$115.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/07/14/ex-spacex-engineers-raise-115-million-for-construction-startup-terrafirma-to-build-infrastructure-on-mars/",
+    "priority": 3,
+    "founders": [],
+    "location": "Robot Ranch (Austin, TX)",
+    "roles": [
+      {
+        "title": "UI/UX Designer - Robot Interfaces",
+        "url": "https://jobs.ashbyhq.com/terrafirma/0239a13c-d00c-4294-af2b-67ce3e93a443",
+        "location": "Robot Ranch (Austin, TX)"
+      }
+    ],
+    "first_seen": "2026-07-14T07:28:45.994839-07:00",
+    "status": "active"
+  },
+  {
+    "id": "7dfaaa6f0b5a077bc98f274eb76f37a3",
+    "company": "Fed's Warsh stays mum",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/14/fed-warsh-congress-rates",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-07-14T07:28:42.200318-07:00",
+    "status": "active"
+  },
+  {
+    "id": "19984b98a96c317cb3c29abe4f8abc20",
+    "company": "Canva",
+    "amount": "$4.7B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
+    "priority": 3,
+    "founders": [
+      "Cameron Adams"
+    ],
+    "location": "Silicon Valley",
+    "roles": [],
+    "first_seen": "2026-07-14T07:28:39.042907-07:00",
+    "status": "active"
+  },
+  {
     "id": "b0e069f3d9f26f985fd5344c52390487",
     "company": "Flex",
     "amount": "$70.0M",

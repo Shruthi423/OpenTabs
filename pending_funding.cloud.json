@@ -1,72 +1,46 @@
 [
   {
     "item": {
-      "company": "Velocity",
-      "amount": "$38.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/14/exclusive-payments-startup-velocity-38-million-businesses-stablecoin-growth/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-14T06:09:55.764609-07:00"
-  },
-  {
-    "item": {
-      "company": "ABB",
-      "amount": "$10.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": "London",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/gridcog-raises-10m-series-a-abb-energy-modelling/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-14T06:09:58.296358-07:00"
-  },
-  {
-    "item": {
-      "company": "TYLsemi",
-      "amount": "$43.0M",
+      "company": "Canva",
+      "amount": "$4.7B",
       "stage": null,
       "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/14/custom-ai-chip-design-startup-tylsemi-launches-43m-early-stage-funding/",
+      "location": "Silicon Valley",
+      "founders": [
+        "Cameron Adams"
+      ],
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
       "priority": 3
     },
-    "remind_at": "2026-07-14T06:10:00.746788-07:00"
+    "remind_at": "2026-07-14T07:58:38.042752-07:00"
   },
   {
     "item": {
-      "company": "Flex doubles valuation",
-      "amount": "$1.2B",
+      "company": "Fed's Warsh stays mum",
+      "amount": null,
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "New York",
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/flex-raises-70m-series-b1-1-2b-valuation/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/14/fed-warsh-congress-rates",
       "priority": 3
     },
-    "remind_at": "2026-07-14T06:10:04.061650-07:00"
+    "remind_at": "2026-07-14T07:58:41.200144-07:00"
   },
   {
     "item": {
-      "company": "Flex",
-      "amount": "$70.0M",
+      "company": "TerraFirma",
+      "amount": "$115.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/14/ai-fintech-startup-flex-raises-70-million-at-1-2-billion-valuation-launches-global-stablecoin-payments/",
+      "url": "https://techstartups.com/2026/07/14/ex-spacex-engineers-raise-115-million-for-construction-startup-terrafirma-to-build-infrastructure-on-mars/",
       "priority": 3
     },
-    "remind_at": "2026-07-14T06:10:06.434043-07:00"
+    "remind_at": "2026-07-14T07:58:44.994675-07:00"
   }
 ]

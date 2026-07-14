@@ -7696,5 +7696,24 @@
     "first_seen": "2026-07-14T04:05:04.901247-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "a7389867d68e59bd9e13e13ef36c7bca": {
+    "id": "a7389867d68e59bd9e13e13ef36c7bca",
+    "title": "UI/UX Designer - Robot Interfaces",
+    "company": "Terrafirma",
+    "location": "Robot Ranch (Austin, TX)",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/terrafirma/0239a13c-d00c-4294-af2b-67ce3e93a443",
+    "source": "\ud83d\udcb0 TerraFirma (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "TerraFirma raised $115.0M",
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-07-14T07:28:42.935828-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
