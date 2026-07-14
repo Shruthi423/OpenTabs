@@ -1,46 +1,30 @@
 [
   {
     "item": {
-      "company": "Canva",
-      "amount": "$4.7B",
-      "stage": null,
+      "company": "Chai Discovery",
+      "amount": "$400.0M",
+      "stage": "Series C",
       "investors": null,
-      "location": "Silicon Valley",
-      "founders": [
-        "Cameron Adams"
-      ],
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
-      "priority": 3
-    },
-    "remind_at": "2026-07-14T07:58:38.042752-07:00"
-  },
-  {
-    "item": {
-      "company": "Fed's Warsh stays mum",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "New York",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/14/fed-warsh-congress-rates",
-      "priority": 3
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDh4dmxwU3Bnc0lTVElwQ2xmTjdBVkxQMXpPR1pMWkUtOG85M1ZXX1pnZE0xOC1FMVRlTVMwd090YnVyUy11a0dpVG9ubXBGT0pzTkhSRmd0d3Uzai1pdVlwSko5dUtZOVk1LTZYQzVBQ18teUNCR1VxNUoxRzR2Smp3OGt2czJVdXIzR2I5TmpURWRmeDYtalpLZjJDT3BmS1F6bVo5VUNTMXpzOEJ6UmN2RWZVM2s?oc=5",
+      "priority": 6
     },
-    "remind_at": "2026-07-14T07:58:41.200144-07:00"
+    "remind_at": "2026-07-14T09:27:45.482911-07:00"
   },
   {
     "item": {
-      "company": "TerraFirma",
-      "amount": "$115.0M",
+      "company": "Meta used AI",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/14/ex-spacex-engineers-raise-115-million-for-construction-startup-terrafirma-to-build-infrastructure-on-mars/",
+      "url": "https://techstartups.com/2026/07/14/meta-used-ai-to-target-disabled-workers-for-layoffs-lawsuit-claims/",
       "priority": 3
     },
-    "remind_at": "2026-07-14T07:58:44.994675-07:00"
+    "remind_at": "2026-07-14T09:27:48.492157-07:00"
   }
 ]

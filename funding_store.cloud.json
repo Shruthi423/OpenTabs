@@ -22083,5 +22083,35 @@
     ],
     "first_seen": "2026-07-14T07:28:45.994839-07:00",
     "status": "active"
+  },
+  "4f240b1492faf5ce1ed0f340891513a1": {
+    "id": "4f240b1492faf5ce1ed0f340891513a1",
+    "company": "Chai Discovery",
+    "amount": "$400.0M",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDh4dmxwU3Bnc0lTVElwQ2xmTjdBVkxQMXpPR1pMWkUtOG85M1ZXX1pnZE0xOC1FMVRlTVMwd090YnVyUy11a0dpVG9ubXBGT0pzTkhSRmd0d3Uzai1pdVlwSko5dUtZOVk1LTZYQzVBQ18teUNCR1VxNUoxRzR2Smp3OGt2czJVdXIzR2I5TmpURWRmeDYtalpLZjJDT3BmS1F6bVo5VUNTMXpzOEJ6UmN2RWZVM2s?oc=5",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-14T08:57:46.483087-07:00",
+    "status": "active"
+  },
+  "5585ce05621ee2b8c07e6ba5291722c2": {
+    "id": "5585ce05621ee2b8c07e6ba5291722c2",
+    "company": "Meta used AI",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/07/14/meta-used-ai-to-target-disabled-workers-for-layoffs-lawsuit-claims/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-14T08:57:49.492323-07:00",
+    "status": "active"
   }
 }
