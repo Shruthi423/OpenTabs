@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "job": {
+      "title": "Founding Product Designer",
+      "company": "SyntheticFi (S23)",
+      "location": "US / Remote (US)",
+      "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D99378&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29026",
+      "salary": "$120K - $175K",
+      "description": "Low cost securities-backed lending for financial advisors and HNWI",
+      "posted_at": "Recently",
+      "source": "Y Combinator",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-07-13T22:17:33.381947-07:00"
+  }
+]

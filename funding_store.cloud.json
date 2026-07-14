@@ -21610,5 +21610,50 @@
     "roles": [],
     "first_seen": "2026-07-13T18:55:51.181202-07:00",
     "status": "active"
+  },
+  "b5f92d94b0d65fd6b7986c5e463817ee": {
+    "id": "b5f92d94b0d65fd6b7986c5e463817ee",
+    "company": "Connectionary",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50S1ZJeUtHWG1XbHAxVm5pdXdYQWF4MVlLVzJrR0FuaVI2MlliZzF6am40a1c1cEtEanVOOWdkZkZ5XzdnMktVdUFLcWIxRGRlVGkw?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-13T21:48:02.898992-07:00",
+    "status": "active"
+  },
+  "839a5684c759dabf5c9dc063f6500aa6": {
+    "id": "839a5684c759dabf5c9dc063f6500aa6",
+    "company": "ORA Technologies",
+    "amount": "$2.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRE5fVFJvc0RzdXVJd3AyOEt1ZXc3Sk15OFc3TVp3V3NzODBKWjdjTFlCQ2J0OGphV3FCQWlPbGtkVTJNMlEtUlhFREd5MDc2OXJhT05qdUNIek52RXNOT0JaVnFmNDF6cFFEOGJJUzg5NE9fZUlYcWE5c2pWSF81VnFnOGlSc0lwU2I5VFdSTnRxU3pTUTk0?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-13T21:48:05.178254-07:00",
+    "status": "active"
+  },
+  "9f3e8c681ed44ba6b0a7a3317b88746e": {
+    "id": "9f3e8c681ed44ba6b0a7a3317b88746e",
+    "company": "PixVerse",
+    "amount": "$439.0M",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/pixverse-raises-439m-series-c-extension/",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-13T21:48:07.421261-07:00",
+    "status": "active"
   }
 }

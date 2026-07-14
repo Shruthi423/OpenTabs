@@ -1,44 +1,44 @@
 [
   {
     "item": {
-      "company": "Whatnot",
+      "company": "Connectionary",
       "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObmk5MFRTVi01Q0dvNGw4Um1MSDY3WDhoSEI2aW1LNUhFektXTjZvTXduY19GemxNa2VPQ3l0d3RMSnVITWpHblYxaElrUnhxNWpxZWtaWl82TFI3U0hhRjd5Vm9fcERlbXhWTkJIdHQ0dUZ5UEo2dXRRVHBJblNKc2FsMVF5bEl2WGhyWmxOTGZ6WWRDeW5aUXItb0Nhdy1KRHZsU1BYUU9sZw?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-13T19:25:44.238369-07:00"
-  },
-  {
-    "item": {
-      "company": "Snowflake",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUpmX2J1WDhwWUQ3bWFNeUIzZjhNSnppcGh6SGctSWRha19QQlB2TDBnbDMzMlcteDFKMlQydlFHUVQ4OWNxXzVWRXJEcU1wWDYtZHNjdWxUREFJQkZRYTNkSWI0THFnSURHTkZuYzZNRmFqcEFPVEZXTjA2dVMtTTZJa2NMX1I2MHZUNE1JMDBUeVJZMW9JYUJQaDA4WEI3RTEtUFZodjV5dnJo?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-13T19:25:46.834414-07:00"
-  },
-  {
-    "item": {
-      "company": "Doodhvale Farms",
-      "amount": "$1.0M",
-      "stage": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcnZCS09wLVRkaUNCQmtKYUxuSm42SVdTank0Zm9kMlR6NnFSdzN6TWNlOEdIcGJCd3VOQUY3eklRQkVCOVh4emJqN1M5THdnUENGYlNYalBRWWlYWXUyTkV3U1MyM1pJZE5vNnE2UmVBYkJkU2EtbXRmRm56ZmlzTEJVa0pzSHRrcDRzY1E4aGg?oc=5",
-      "priority": 3
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50S1ZJeUtHWG1XbHAxVm5pdXdYQWF4MVlLVzJrR0FuaVI2MlliZzF6am40a1c1cEtEanVOOWdkZkZ5XzdnMktVdUFLcWIxRGRlVGkw?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-07-13T19:25:50.181078-07:00"
+    "remind_at": "2026-07-13T22:18:01.898809-07:00"
+  },
+  {
+    "item": {
+      "company": "ORA Technologies",
+      "amount": "$2.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRE5fVFJvc0RzdXVJd3AyOEt1ZXc3Sk15OFc3TVp3V3NzODBKWjdjTFlCQ2J0OGphV3FCQWlPbGtkVTJNMlEtUlhFREd5MDc2OXJhT05qdUNIek52RXNOT0JaVnFmNDF6cFFEOGJJUzg5NE9fZUlYcWE5c2pWSF81VnFnOGlSc0lwU2I5VFdSTnRxU3pTUTk0?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-13T22:18:04.178059-07:00"
+  },
+  {
+    "item": {
+      "company": "PixVerse",
+      "amount": "$439.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/pixverse-raises-439m-series-c-extension/",
+      "priority": 6
+    },
+    "remind_at": "2026-07-13T22:18:06.421084-07:00"
   }
 ]
