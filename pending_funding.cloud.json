@@ -1,30 +1,44 @@
 [
   {
     "item": {
-      "company": "Senate looks",
+      "company": "Whatnot",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/13/lindsey-graham-russia-sanctions-senate-trump",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObmk5MFRTVi01Q0dvNGw4Um1MSDY3WDhoSEI2aW1LNUhFektXTjZvTXduY19GemxNa2VPQ3l0d3RMSnVITWpHblYxaElrUnhxNWpxZWtaWl82TFI3U0hhRjd5Vm9fcERlbXhWTkJIdHQ0dUZ5UEo2dXRRVHBJblNKc2FsMVF5bEl2WGhyWmxOTGZ6WWRDeW5aUXItb0Nhdy1KRHZsU1BYUU9sZw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-13T17:19:38.160004-07:00"
+    "remind_at": "2026-07-13T19:25:44.238369-07:00"
   },
   {
     "item": {
-      "company": "A dozen states file lawsuit",
-      "amount": "$110.0B",
+      "company": "Snowflake",
+      "amount": null,
       "stage": null,
       "investors": null,
-      "location": "New York",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/13/paramount-warner-bros-discovery-state-antitrust",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUpmX2J1WDhwWUQ3bWFNeUIzZjhNSnppcGh6SGctSWRha19QQlB2TDBnbDMzMlcteDFKMlQydlFHUVQ4OWNxXzVWRXJEcU1wWDYtZHNjdWxUREFJQkZRYTNkSWI0THFnSURHTkZuYzZNRmFqcEFPVEZXTjA2dVMtTTZJa2NMX1I2MHZUNE1JMDBUeVJZMW9JYUJQaDA4WEI3RTEtUFZodjV5dnJo?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-13T17:19:41.359637-07:00"
+    "remind_at": "2026-07-13T19:25:46.834414-07:00"
+  },
+  {
+    "item": {
+      "company": "Doodhvale Farms",
+      "amount": "$1.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcnZCS09wLVRkaUNCQmtKYUxuSm42SVdTank0Zm9kMlR6NnFSdzN6TWNlOEdIcGJCd3VOQUY3eklRQkVCOVh4emJqN1M5THdnUENGYlNYalBRWWlYWXUyTkV3U1MyM1pJZE5vNnE2UmVBYkJkU2EtbXRmRm56ZmlzTEJVa0pzSHRrcDRzY1E4aGg?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-13T19:25:50.181078-07:00"
   }
 ]
