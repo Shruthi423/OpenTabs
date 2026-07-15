@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "TripWip",
-      "amount": "$4.2M",
-      "stage": "Seed",
+      "company": "New Mexico AG",
+      "amount": null,
+      "stage": null,
       "investors": null,
-      "location": null,
+      "location": "New York",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wdzBxQTJsMGlLcms2MkJISnZOWHhqY1pmY1FjUXhuVlFoSi16MDRaTXpiVzVCaldDSTMwY21idF9KUWN4UXZFT2pqRFNPRGthaTI1WFdWeGVQaXcyam1QaXVXWDBXUGZZ0gFoQVVfeXFMTTB3MHFBMmwwaUtyazYyQkhKdk5YeGpjWmZjUWNReG5WUWhKLXowNFpNemJXNUJqV0NJMzBjbWJ0X0pRY3hRdkVPampEU09Ea2FpMjVYV1Z4ZVBpdzJqbVBpdVdYMFdQZlk?oc=5",
-      "priority": 9
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/15/epstein-investigation-new-mexico-justice-department-us-doj",
+      "priority": 3
     },
-    "remind_at": "2026-07-14T17:18:21.006485-07:00"
-  },
-  {
-    "item": {
-      "company": "InstaLILY",
-      "amount": "$60.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/14/instalily-developer-ai-teammates-can-automate-complex-business-specific-work-raises-60m/",
-      "priority": 7
-    },
-    "remind_at": "2026-07-14T17:18:26.466201-07:00"
+    "remind_at": "2026-07-14T19:22:21.875226-07:00"
   }
 ]

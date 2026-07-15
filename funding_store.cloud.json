@@ -22299,5 +22299,20 @@
     "roles": [],
     "first_seen": "2026-07-14T16:48:27.466385-07:00",
     "status": "active"
+  },
+  "4f80dd19d107fa40aa57a212eba23f32": {
+    "id": "4f80dd19d107fa40aa57a212eba23f32",
+    "company": "New Mexico AG",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/15/epstein-investigation-new-mexico-justice-department-us-doj",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-07-14T18:52:22.875384-07:00",
+    "status": "active"
   }
 }
