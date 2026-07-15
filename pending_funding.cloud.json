@@ -1,114 +1,100 @@
 [
   {
     "item": {
-      "company": "Stockholm-born Float",
-      "amount": null,
-      "stage": "Series A",
+      "company": "Walden Robotics",
+      "amount": "$300.0M",
+      "stage": "Seed",
       "investors": null,
-      "location": "Stockholm",
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/15/walden-robotics-emerges-from-stealth-with-300m-in-funding-at-1-1b-valuation-deploys-general-purpose-ai-robots-at-toyota-factory/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-15T07:56:50.827226-07:00"
+  },
+  {
+    "item": {
+      "company": "Cytronic",
+      "amount": "$13.5M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY0pVV280Y2Ixa1cybHJXTjlPaE84Z0FMRVN6M3JFRFo3YnYyRzczdDhGLTRIb2c3UUxEZ0h6d1MxVktBT0owa3paTzIwZDJJQmszLUdLcDZCT2Y4MU42YkY0b3Vvc3htVFZLa2JtM3FGRk93SG1qLW54QXh4SzVHUE5IbVNtSDdLREdGU1dRWGtKUC0yOHZ1MFVVb01TYlJJRDdnTWk1N3IxSDdNUHlqVXhiU2pTUHlUQm1TNlRMUEZYTU84aVIzZEY5MA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaHVRQnF4M2hISDhDWXhVUzUzTE5pcmhldk5BT3pCemZHYmJ5cFZTSTk5Qm1iM2lOUC1uWF9MWF9CeVJwVHpydUpVMzlXNWFWaldGWUhVZzRIRW9GYkRvWHRmajJyZHNhMXd6TzRnVWNuM05ZT2hTWUtkSUp5dGt5ek1EcDd5b1hyZkIxUUt5RVZ1dw?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-15T07:56:53.042627-07:00"
+  },
+  {
+    "item": {
+      "company": "Cyclops",
+      "amount": "$20.0M",
+      "stage": "Series A",
+      "investors": "Nava Ventures",
+      "location": "The Miami",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/15/exclusive-cyclops-20-million-payment-companies-settlement-stablecoins/",
       "priority": 8
     },
-    "remind_at": "2026-07-15T06:12:14.597374-07:00"
+    "remind_at": "2026-07-15T07:56:55.379697-07:00"
   },
   {
     "item": {
-      "company": "Emergent becomes a unicorn",
-      "amount": "$130.0M",
+      "company": "Senra Systems",
+      "amount": "$65.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaWt3WmdTdzdMSk92QzRJUEtrYWNwWjZZU3FqSm9DT3ZBTURnSkxOV3NXTFB4dHFyZ1VVUllrd3pzUlRlQkJHVmJ3VHM2MEdnM3RCZnAteDFlRVZ3N1J2RWxnYWhiSEJmSi1PWWxOTURWbTA4RVg2d1h0cGRsYzZYak1rUDJDMV90?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-07-15T07:56:58.311931-07:00"
+  },
+  {
+    "item": {
+      "company": "Pearl Health",
+      "amount": "$50.0M",
       "stage": "Series C",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/07/pearl-health-value-based-care-platform-medicare-ai-technology-care-orchestration-steven-duque/",
       "priority": 6
     },
-    "remind_at": "2026-07-15T06:12:17.592637-07:00"
+    "remind_at": "2026-07-15T07:57:01.179889-07:00"
   },
   {
     "item": {
-      "company": "Emergent",
-      "amount": "$130.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/15/emergent-emerges-latest-ai-unicorn-raising-130m-funding/",
-      "priority": 6
-    },
-    "remind_at": "2026-07-15T06:12:19.781359-07:00"
-  },
-  {
-    "item": {
-      "company": "AGI",
-      "amount": "$70.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/15/agi-raises-70m-buy-transform-insurance-firms-ai-native-operations/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-15T06:12:22.018832-07:00"
-  },
-  {
-    "item": {
-      "company": "MyDecisive",
-      "amount": "$12.0M",
-      "stage": null,
-      "investors": null,
-      "location": "San Francisco",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/15/ai-devops-startup-mydecisive-launches-12m-open-source-smarthub/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-15T06:12:24.252195-07:00"
-  },
-  {
-    "item": {
-      "company": "UK\u2019s",
-      "amount": null,
+      "company": "Monumental",
+      "amount": "$32.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/uks-invest-in-women-taskforce-secured-2-5x-its-250m-target-why-has-only-18-been-deployed-after-two-years/",
+      "url": "https://techfundingnews.com/monumental-raises-32m-khosla-ventures-bricklaying-robots/",
       "priority": 3
     },
-    "remind_at": "2026-07-15T06:12:26.459958-07:00"
+    "remind_at": "2026-07-15T07:57:03.634691-07:00"
   },
   {
     "item": {
-      "company": "DeepSeek",
-      "amount": "$74.0B",
+      "company": "Norrsken Evolve",
+      "amount": null,
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "Amsterdam",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/15/deepseek-eyes-74-billion-valuation-in-new-funding-round-ahead-of-planned-ipo/",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/norrsken-evolve-the-e62m-fund-backed-by-klarnas-co-founder-opens-amsterdam-base-to-back-dutch-founders-at-the-stage-most-investors-still-skip/",
       "priority": 3
     },
-    "remind_at": "2026-07-15T06:12:28.696626-07:00"
-  },
-  {
-    "item": {
-      "company": "Former SentinelOne leaders",
-      "amount": "$50.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91ZW1vM2Z3Y3VDMVp2MzhodXNxclV2dE1zUUxXLWpaNkhPSXh1QVdWd3VyZ3JQaTltX21PcE41ckFIR2hlZ0RUSkFMZm9wUFFVZ0EySXZxVmZoMFRjaFIteHdkTDBmTk1R?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-15T06:12:31.785328-07:00"
+    "remind_at": "2026-07-15T07:57:06.799934-07:00"
   }
 ]
