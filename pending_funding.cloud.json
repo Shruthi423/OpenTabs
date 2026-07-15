@@ -1,72 +1,142 @@
 [
   {
     "item": {
-      "company": "Linker Finance",
-      "amount": "$5.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/linker-finance-raises-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-15T00:41:21.052383-07:00"
-  },
-  {
-    "item": {
-      "company": "Synthreo",
-      "amount": "$2.5M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/synthreo-raises-2-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-15T00:41:23.367838-07:00"
-  },
-  {
-    "item": {
-      "company": "Gridcog",
-      "amount": "$10.0M",
-      "stage": "Series A",
-      "investors": "ABB to scale its energy system modeling and optimization software for renewable energy projects",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/gridcog-raises-10m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-15T00:41:25.666035-07:00"
-  },
-  {
-    "item": {
-      "company": "ORION Security",
-      "amount": "$32.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/orion-security-raises-32m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-15T00:41:28.772536-07:00"
-  },
-  {
-    "item": {
-      "company": "E3 Electric.Ai",
+      "company": "Promptwatch",
       "amount": null,
-      "stage": "Series A",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/promptwatch-raises-6m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-15T02:51:47.165786-07:00"
+  },
+  {
+    "item": {
+      "company": "Thira",
+      "amount": "$21.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/thira-raises-21m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-15T02:51:49.745283-07:00"
+  },
+  {
+    "item": {
+      "company": "Anmasa",
+      "amount": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDNsWTVXcHRVTF9LRzFUbDRGZ002bFZqUEhrdFV4R3RiOXBXS2lMM05jbmpVWG9qOW5ZWG9LdklKZGpTcW04RGxvejZoUnE0X1hxUjhWM1k4aEVMUmxZV0F1Y1lDbkpVUnMwLVQ4dVJRY0tsUDllQWhwd0JSX1ZIelIxWWk0VHdXb0F4ekM2bw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaEV2aTVqUXNZRU1EUkw3WEhjLUxlTFhXd3BPY0VRS2JGcWxBU3hCUnV6VWQ0b2VQVm9NV1hlWnVaUWExR1R1SGdVTy1GQmdQdnlHbzR3WUVOaUZqaDN6NXAxZXdWXzhCWjVGQXZHdUROVlFPUzF4UnkyV3BKbG1JSlVRR0hEUlVGZXVNeXZfUjQ5dG1RNEtVTndvb19mTVVVWW1Fa2l30gGmAUFVX3lxTE9oRXZpNWpRc1lFTURSTDdYSGMtTGVMWFd3cE9jRVFLYkZxbEFTeEJSdXpVZDRvZVBWb01XWGVadVpRYTFHVHVIZ1VPLUZCZ1B2eUdvNHdZRU5pRmpoM3o1cDFld1ZfOEJaNUZBdkd1RE5WUU9TMXhSeTJXcEpsbUlKVVFHSERSVUZldU15dl9SNDl0bVE0S1VOd29vX2ZNVVVZbUVraXc?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-15T02:51:52.330426-07:00"
+  },
+  {
+    "item": {
+      "company": "Pact Labs",
+      "amount": "$7.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/pact-labs-raises-7m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-07-15T00:41:31.821732-07:00"
+    "remind_at": "2026-07-15T02:51:54.793336-07:00"
+  },
+  {
+    "item": {
+      "company": "Feathery",
+      "amount": "$30.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/feathery-raises-30m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-15T02:51:57.274567-07:00"
+  },
+  {
+    "item": {
+      "company": "The UK\u2019s \u00a311B payment crisis",
+      "amount": null,
+      "stage": "Extension",
+      "investors": null,
+      "location": "Birmingham",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/the-uks-11b-construction-payment-crisis-is-creating-fintech-winners-birminghams-fintech-saible-just-raised-2-9m/",
+      "priority": 5
+    },
+    "remind_at": "2026-07-15T02:52:01.122290-07:00"
+  },
+  {
+    "item": {
+      "company": "Billionaire Richard Branson",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/15/billionaire-richard-branson-morning-routine-success-secret/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-15T02:52:04.487767-07:00"
+  },
+  {
+    "item": {
+      "company": "New York offers Democrats a roadmap",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "New York",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/15/new-york-democrats-roadmap-data-center-fight",
+      "priority": 3
+    },
+    "remind_at": "2026-07-15T02:52:07.769563-07:00"
+  },
+  {
+    "item": {
+      "company": "Nopan",
+      "amount": null,
+      "stage": null,
+      "investors": "Newion to expand its account and wallet payment optimization platform across Europe",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/nopan-raises-7-2m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-15T02:52:10.192304-07:00"
+  },
+  {
+    "item": {
+      "company": "Think",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUWRzNjlyRWRqYnFMTUdMYnZ1SGtlNjFyT1F5bUJILS1iMXZDbTZpbmNUWXdoMWo1dUZKWmxaWXRCQ2RnWFB0RWdjcHUtbnlqNWU3U3hvNHBSWklSVm1mRDFsd1c2Tm1hamJZZWU4NjRrSE83YkdqYWRaWDlVVnZXYUpUZGNTX0VCRGdBUkN5dGRubzhQQkhXaHRBNncydk5MVThMbVdHM3hQdWM5dHRXM21NSGExVnh4U0dxb3B1QXhaT2U4WGl2X0hlVmxqUnI0WEFUajRn?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-15T02:52:12.866042-07:00"
   }
 ]
