@@ -1,30 +1,72 @@
 [
   {
     "item": {
-      "company": "Hisabkitab",
-      "amount": null,
+      "company": "Linker Finance",
+      "amount": "$5.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLUFOclJ3RXNXV3ZxUHpySG1Za2JEZ1Iwamh6WjNUVFNlTTU5V1FxSVBRMEhHZDNqZ2haR3NVd2JZYXJrcEJiTG1MVng0U3JWQTU5al81dVQzRm1RRGNnN1BRLUwyNEFzX3VNYmx2UFFIdE1FRURWbnVDRlRQZVRsdUZ0dmZjX3RwdE9HdFotNzljQi1WYVJwckVmQlVjWGR5eXZNTTZpMGRubGNOWENF0gGvAUFVX3lxTE0tQU5yUndFc1dXdnFQenJIbVlrYkRnUjBqaHpaM1RUU2VNNTlXUXFJUFEwSEdkM2pnaFpHc1V3YllhcmtwQmJMbUxWeDRTclZBNTlqXzV1VDNGbVFEY2c3UFEtTDI0QXNfdU1ibHZQUUh0TUVFRFZudUNGVFBlVGx1RnR2ZmNfdHB0T0d0Wi03OWNCLVZhUnByRWZCVWNYZHl5dk1NNmkwZG5sY05YQ0U?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/linker-finance-raises-5m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-07-14T22:17:44.192261-07:00"
+    "remind_at": "2026-07-15T00:41:21.052383-07:00"
   },
   {
     "item": {
-      "company": "UAE's big bet",
-      "amount": "$320.0B",
-      "stage": null,
+      "company": "Synthreo",
+      "amount": "$2.5M",
+      "stage": "Seed",
       "investors": null,
-      "location": "New York",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/15/uae-ai-government-app-tamm",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/synthreo-raises-2-5m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-07-14T22:17:47.480675-07:00"
+    "remind_at": "2026-07-15T00:41:23.367838-07:00"
+  },
+  {
+    "item": {
+      "company": "Gridcog",
+      "amount": "$10.0M",
+      "stage": "Series A",
+      "investors": "ABB to scale its energy system modeling and optimization software for renewable energy projects",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/gridcog-raises-10m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-15T00:41:25.666035-07:00"
+  },
+  {
+    "item": {
+      "company": "ORION Security",
+      "amount": "$32.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/orion-security-raises-32m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-15T00:41:28.772536-07:00"
+  },
+  {
+    "item": {
+      "company": "E3 Electric.Ai",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDNsWTVXcHRVTF9LRzFUbDRGZ002bFZqUEhrdFV4R3RiOXBXS2lMM05jbmpVWG9qOW5ZWG9LdklKZGpTcW04RGxvejZoUnE0X1hxUjhWM1k4aEVMUmxZV0F1Y1lDbkpVUnMwLVQ4dVJRY0tsUDllQWhwd0JSX1ZIelIxWWk0VHdXb0F4ekM2bw?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-15T00:41:31.821732-07:00"
   }
 ]
