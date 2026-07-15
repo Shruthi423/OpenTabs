@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "New Mexico AG",
+      "company": "Hisabkitab",
       "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLUFOclJ3RXNXV3ZxUHpySG1Za2JEZ1Iwamh6WjNUVFNlTTU5V1FxSVBRMEhHZDNqZ2haR3NVd2JZYXJrcEJiTG1MVng0U3JWQTU5al81dVQzRm1RRGNnN1BRLUwyNEFzX3VNYmx2UFFIdE1FRURWbnVDRlRQZVRsdUZ0dmZjX3RwdE9HdFotNzljQi1WYVJwckVmQlVjWGR5eXZNTTZpMGRubGNOWENF0gGvAUFVX3lxTE0tQU5yUndFc1dXdnFQenJIbVlrYkRnUjBqaHpaM1RUU2VNNTlXUXFJUFEwSEdkM2pnaFpHc1V3YllhcmtwQmJMbUxWeDRTclZBNTlqXzV1VDNGbVFEY2c3UFEtTDI0QXNfdU1ibHZQUUh0TUVFRFZudUNGVFBlVGx1RnR2ZmNfdHB0T0d0Wi03OWNCLVZhUnByRWZCVWNYZHl5dk1NNmkwZG5sY05YQ0U?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-14T22:17:44.192261-07:00"
+  },
+  {
+    "item": {
+      "company": "UAE's big bet",
+      "amount": "$320.0B",
       "stage": null,
       "investors": null,
       "location": "New York",
       "founders": [],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/07/15/epstein-investigation-new-mexico-justice-department-us-doj",
+      "url": "https://www.axios.com/2026/07/15/uae-ai-government-app-tamm",
       "priority": 3
     },
-    "remind_at": "2026-07-14T19:22:21.875226-07:00"
+    "remind_at": "2026-07-14T22:17:47.480675-07:00"
   }
 ]
