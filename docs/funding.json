@@ -1,5 +1,71 @@
 [
   {
+    "id": "cf51f87340a37165a029017131fcfde1",
+    "company": "Senra",
+    "amount": "$65.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5NWV9mX1lGQWc5ZVlpc1BfVGRwZ2Y4eS1lUUE4azNUc19yYUVHUlQxV0dsakdIWE1rTDAxR1pUMA?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-15T15:55:00.507210-07:00",
+    "status": "active"
+  },
+  {
+    "id": "1e5e3ec560321863a38f73c1eeb10082",
+    "company": "Stripe and Advent make $53B bid",
+    "amount": "$53.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/15/stripe-advent-make-53b-bid-take-paypal-private/",
+    "priority": 3,
+    "founders": [],
+    "location": "US",
+    "roles": [
+      {
+        "title": "Motion Designer, Experiential",
+        "url": "https://stripe.com/jobs/search?gh_jid=8047129",
+        "location": "US"
+      }
+    ],
+    "first_seen": "2026-07-15T15:54:58.061733-07:00",
+    "status": "active"
+  },
+  {
+    "id": "1468e03c6c32042e721eb49c3c654617",
+    "company": "FAVE",
+    "amount": "$1.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVk9zbWIyS2kzdkNNWTBuYzlGLTdoNXNVeVA5SGVtMlR3RHhqVGNBN3JvODhINlZ6bVNGQTNZNW5GOWVyQ1RpS3dBRWtieGZCU2Y5cU41eUhNMnUwZURXenQ1M21ON3BVSVdnWkdkeXJySVFQWWpIcjlaaWhnNGFldmdHcEs2SF9Fc293TG5FMFc2bFBnVXhndGdBY25Gc0VrWkNveGFmaHdmVjh5NkgyVER0Q2NNOENv?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-15T15:54:54.629075-07:00",
+    "status": "active"
+  },
+  {
+    "id": "7c30aa5d57edba94e3cbe201a5abac26",
+    "company": "Think",
+    "amount": "$8.0M",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS011clkzclQ2MHNQQy1VRW9ISkZ3YzdIeUthTjFCT2pWTy1tQTk2Q2lhTlQwMFZyWFYyek1IbENOaGRabTQ1UVQwUWNnNTh0d0pLRC1PRGNkT0o0c2l4MVZ5MUpKS3JSQTJRb2RyYmw2bVZCUzlORmFfcW5VUzhxSDJUTDBPTVhtdEFINHFTMA?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-15T15:54:50.392334-07:00",
+    "status": "active"
+  },
+  {
     "id": "90af8cdf6f36f429d3d620948dce8304",
     "company": "Blanche sidesteps questions",
     "amount": "Undisclosed",
