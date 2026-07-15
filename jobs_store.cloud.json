@@ -7877,5 +7877,23 @@
     "first_seen": "2026-07-15T09:01:13.074854-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "9648ae6813d9eb69b0073f37c62480fc": {
+    "id": "9648ae6813d9eb69b0073f37c62480fc",
+    "title": "Visual Designer, Web",
+    "company": "Vercel",
+    "location": "Remote - United States",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6115991004",
+    "source": "Vercel",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-07-15T10:25:13.343255-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
