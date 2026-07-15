@@ -1,100 +1,114 @@
 [
   {
     "item": {
-      "company": "Backed by $60M in funding",
-      "amount": "$60.0M",
-      "stage": "Seed",
+      "company": "Stockholm-born Float",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": "Stockholm",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY0pVV280Y2Ixa1cybHJXTjlPaE84Z0FMRVN6M3JFRFo3YnYyRzczdDhGLTRIb2c3UUxEZ0h6d1MxVktBT0owa3paTzIwZDJJQmszLUdLcDZCT2Y4MU42YkY0b3Vvc3htVFZLa2JtM3FGRk93SG1qLW54QXh4SzVHUE5IbVNtSDdLREdGU1dRWGtKUC0yOHZ1MFVVb01TYlJJRDdnTWk1N3IxSDdNUHlqVXhiU2pTUHlUQm1TNlRMUEZYTU84aVIzZEY5MA?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-15T06:12:14.597374-07:00"
+  },
+  {
+    "item": {
+      "company": "Emergent becomes a unicorn",
+      "amount": "$130.0M",
+      "stage": "Series C",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
-      "priority": 9
+      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "priority": 6
     },
-    "remind_at": "2026-07-15T04:38:25.809723-07:00"
+    "remind_at": "2026-07-15T06:12:17.592637-07:00"
   },
   {
     "item": {
-      "company": "Skalar",
-      "amount": null,
-      "stage": "Seed",
+      "company": "Emergent",
+      "amount": "$130.0M",
+      "stage": "Series C",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/skalar-raises-12m-seed/",
-      "priority": 9
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/15/emergent-emerges-latest-ai-unicorn-raising-130m-funding/",
+      "priority": 6
     },
-    "remind_at": "2026-07-15T04:38:28.080544-07:00"
+    "remind_at": "2026-07-15T06:12:19.781359-07:00"
   },
   {
     "item": {
-      "company": "NTT Docomo spinout Robots",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlAwaTN6bmx0MjhiakhfU2J3MDVUSEJJSXhEUnZjaXJObzFJUW14UXVJVEwxMkFpNXVMZC1kNHZqaEhyRVF0TzVvQU53VllaYmVGYXY3THVlUmhtcWNrUHMtajR6ZE1fZTB4ejZYeFRlR3FidVcxYzJyTkZaMDFBZW1oYw?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-07-15T04:38:31.243479-07:00"
-  },
-  {
-    "item": {
-      "company": "Float",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/float-raises-4-5m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-15T04:38:33.401938-07:00"
-  },
-  {
-    "item": {
-      "company": "Kevin Ryan\u2019s AlleyCorp",
-      "amount": "$335.0M",
+      "company": "AGI",
+      "amount": "$70.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/15/kevin-ryan-alleycorp-raises-new-335-million-fund-early-stage-bets/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/15/agi-raises-70m-buy-transform-insurance-firms-ai-native-operations/",
       "priority": 3
     },
-    "remind_at": "2026-07-15T04:38:36.460658-07:00"
+    "remind_at": "2026-07-15T06:12:22.018832-07:00"
   },
   {
     "item": {
-      "company": "DeepSeek reportedly",
-      "amount": "$1.5B",
+      "company": "MyDecisive",
+      "amount": "$12.0M",
+      "stage": null,
+      "investors": null,
+      "location": "San Francisco",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/15/ai-devops-startup-mydecisive-launches-12m-open-source-smarthub/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-15T06:12:24.252195-07:00"
+  },
+  {
+    "item": {
+      "company": "UK\u2019s",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/deepseek-reportedly-seeks-1-5b-ahead-of-ipo-at-71b-valuation/",
+      "url": "https://techfundingnews.com/uks-invest-in-women-taskforce-secured-2-5x-its-250m-target-why-has-only-18-been-deployed-after-two-years/",
       "priority": 3
     },
-    "remind_at": "2026-07-15T04:38:39.862319-07:00"
+    "remind_at": "2026-07-15T06:12:26.459958-07:00"
   },
   {
     "item": {
-      "company": "Cover Genius",
-      "amount": "$100.0M",
+      "company": "DeepSeek",
+      "amount": "$74.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/cover-genius-raises-100m-other/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/15/deepseek-eyes-74-billion-valuation-in-new-funding-round-ahead-of-planned-ipo/",
       "priority": 3
     },
-    "remind_at": "2026-07-15T04:38:42.995853-07:00"
+    "remind_at": "2026-07-15T06:12:28.696626-07:00"
+  },
+  {
+    "item": {
+      "company": "Former SentinelOne leaders",
+      "amount": "$50.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91ZW1vM2Z3Y3VDMVp2MzhodXNxclV2dE1zUUxXLWpaNkhPSXh1QVdWd3VyZ3JQaTltX21PcE41ckFIR2hlZ0RUSkFMZm9wUFFVZ0EySXZxVmZoMFRjaFIteHdkTDBmTk1R?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-15T06:12:31.785328-07:00"
   }
 ]
