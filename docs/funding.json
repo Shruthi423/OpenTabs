@@ -1,5 +1,41 @@
 [
   {
+    "id": "7106026b003e967a6a527c7392faadbd",
+    "company": "Rime",
+    "amount": "$24.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZERqNlNiZno5RWtlU3FCVjl5bWpFS2FoYmRyaUxreVdscmxWckxIRjNNNVdLaFRtUjBTTjBKMFh0dkppeHRGN1ZwSWc5Z05ZZnFiSTlFa010LThoOGotZzZodnJJZFdwVkpQT1p5RXk0clNVbk55VTMzR3J5WFlmc28wM3hialctSUVud2NsMVBEN0xHMU05dElJc0E?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-15T09:01:38.652874-07:00",
+    "status": "active"
+  },
+  {
+    "id": "c18e6a600e36252200189097f26dde31",
+    "company": "Stripe and Advent offer $53 billion",
+    "amount": "$53.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/07/15/stripe-and-advent-offer-53-billion-to-acquire-paypal-in-landmark-payments-deal/",
+    "priority": 3,
+    "founders": [],
+    "location": "US",
+    "roles": [
+      {
+        "title": "Motion Designer, Experiential",
+        "url": "https://stripe.com/jobs/search?gh_jid=8047129",
+        "location": "US"
+      }
+    ],
+    "first_seen": "2026-07-15T09:01:36.475099-07:00",
+    "status": "active"
+  },
+  {
     "id": "2c249d486095840a539d952a1deeb42f",
     "company": "Norrsken Evolve",
     "amount": "Undisclosed",
