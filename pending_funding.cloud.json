@@ -1,142 +1,100 @@
 [
   {
     "item": {
-      "company": "Promptwatch",
+      "company": "Backed by $60M in funding",
+      "amount": "$60.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-15T04:38:25.809723-07:00"
+  },
+  {
+    "item": {
+      "company": "Skalar",
       "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/promptwatch-raises-6m-seed/",
+      "url": "https://www.thesaasnews.com/news/skalar-raises-12m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-07-15T02:51:47.165786-07:00"
+    "remind_at": "2026-07-15T04:38:28.080544-07:00"
   },
   {
     "item": {
-      "company": "Thira",
-      "amount": "$21.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/thira-raises-21m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-15T02:51:49.745283-07:00"
-  },
-  {
-    "item": {
-      "company": "Anmasa",
+      "company": "NTT Docomo spinout Robots",
       "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaEV2aTVqUXNZRU1EUkw3WEhjLUxlTFhXd3BPY0VRS2JGcWxBU3hCUnV6VWQ0b2VQVm9NV1hlWnVaUWExR1R1SGdVTy1GQmdQdnlHbzR3WUVOaUZqaDN6NXAxZXdWXzhCWjVGQXZHdUROVlFPUzF4UnkyV3BKbG1JSlVRR0hEUlVGZXVNeXZfUjQ5dG1RNEtVTndvb19mTVVVWW1Fa2l30gGmAUFVX3lxTE9oRXZpNWpRc1lFTURSTDdYSGMtTGVMWFd3cE9jRVFLYkZxbEFTeEJSdXpVZDRvZVBWb01XWGVadVpRYTFHVHVIZ1VPLUZCZ1B2eUdvNHdZRU5pRmpoM3o1cDFld1ZfOEJaNUZBdkd1RE5WUU9TMXhSeTJXcEpsbUlKVVFHSERSVUZldU15dl9SNDl0bVE0S1VOd29vX2ZNVVVZbUVraXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlAwaTN6bmx0MjhiakhfU2J3MDVUSEJJSXhEUnZjaXJObzFJUW14UXVJVEwxMkFpNXVMZC1kNHZqaEhyRVF0TzVvQU53VllaYmVGYXY3THVlUmhtcWNrUHMtajR6ZE1fZTB4ejZYeFRlR3FidVcxYzJyTkZaMDFBZW1oYw?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-15T02:51:52.330426-07:00"
+    "remind_at": "2026-07-15T04:38:31.243479-07:00"
   },
   {
     "item": {
-      "company": "Pact Labs",
-      "amount": "$7.0M",
+      "company": "Float",
+      "amount": null,
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pact-labs-raises-7m-series-a/",
+      "url": "https://www.thesaasnews.com/news/float-raises-4-5m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-07-15T02:51:54.793336-07:00"
+    "remind_at": "2026-07-15T04:38:33.401938-07:00"
   },
   {
     "item": {
-      "company": "Feathery",
-      "amount": "$30.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/feathery-raises-30m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-15T02:51:57.274567-07:00"
-  },
-  {
-    "item": {
-      "company": "The UK\u2019s \u00a311B payment crisis",
-      "amount": null,
-      "stage": "Extension",
-      "investors": null,
-      "location": "Birmingham",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/the-uks-11b-construction-payment-crisis-is-creating-fintech-winners-birminghams-fintech-saible-just-raised-2-9m/",
-      "priority": 5
-    },
-    "remind_at": "2026-07-15T02:52:01.122290-07:00"
-  },
-  {
-    "item": {
-      "company": "Billionaire Richard Branson",
-      "amount": null,
+      "company": "Kevin Ryan\u2019s AlleyCorp",
+      "amount": "$335.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/15/billionaire-richard-branson-morning-routine-success-secret/",
+      "url": "https://fortune.com/2026/07/15/kevin-ryan-alleycorp-raises-new-335-million-fund-early-stage-bets/",
       "priority": 3
     },
-    "remind_at": "2026-07-15T02:52:04.487767-07:00"
+    "remind_at": "2026-07-15T04:38:36.460658-07:00"
   },
   {
     "item": {
-      "company": "New York offers Democrats a roadmap",
-      "amount": null,
+      "company": "DeepSeek reportedly",
+      "amount": "$1.5B",
       "stage": null,
       "investors": null,
-      "location": "New York",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/15/new-york-democrats-roadmap-data-center-fight",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/deepseek-reportedly-seeks-1-5b-ahead-of-ipo-at-71b-valuation/",
       "priority": 3
     },
-    "remind_at": "2026-07-15T02:52:07.769563-07:00"
+    "remind_at": "2026-07-15T04:38:39.862319-07:00"
   },
   {
     "item": {
-      "company": "Nopan",
-      "amount": null,
+      "company": "Cover Genius",
+      "amount": "$100.0M",
       "stage": null,
-      "investors": "Newion to expand its account and wallet payment optimization platform across Europe",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/nopan-raises-7-2m-other/",
+      "url": "https://www.thesaasnews.com/news/cover-genius-raises-100m-other/",
       "priority": 3
     },
-    "remind_at": "2026-07-15T02:52:10.192304-07:00"
-  },
-  {
-    "item": {
-      "company": "Think",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUWRzNjlyRWRqYnFMTUdMYnZ1SGtlNjFyT1F5bUJILS1iMXZDbTZpbmNUWXdoMWo1dUZKWmxaWXRCQ2RnWFB0RWdjcHUtbnlqNWU3U3hvNHBSWklSVm1mRDFsd1c2Tm1hamJZZWU4NjRrSE83YkdqYWRaWDlVVnZXYUpUZGNTX0VCRGdBUkN5dGRubzhQQkhXaHRBNncydk5MVThMbVdHM3hQdWM5dHRXM21NSGExVnh4U0dxb3B1QXhaT2U4WGl2X0hlVmxqUnI0WEFUajRn?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-15T02:52:12.866042-07:00"
+    "remind_at": "2026-07-15T04:38:42.995853-07:00"
   }
 ]
