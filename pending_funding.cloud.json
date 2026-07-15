@@ -1,58 +1,18 @@
 [
   {
     "item": {
-      "company": "Think",
-      "amount": "$8.0M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS011clkzclQ2MHNQQy1VRW9ISkZ3YzdIeUthTjFCT2pWTy1tQTk2Q2lhTlQwMFZyWFYyek1IbENOaGRabTQ1UVQwUWNnNTh0d0pLRC1PRGNkT0o0c2l4MVZ5MUpKS3JSQTJRb2RyYmw2bVZCUzlORmFfcW5VUzhxSDJUTDBPTVhtdEFINHFTMA?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-07-15T16:24:49.392131-07:00"
-  },
-  {
-    "item": {
-      "company": "FAVE",
-      "amount": "$1.0M",
+      "company": "Oak",
+      "amount": "$60.0M",
       "stage": "Seed",
       "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVk9zbWIyS2kzdkNNWTBuYzlGLTdoNXNVeVA5SGVtMlR3RHhqVGNBN3JvODhINlZ6bVNGQTNZNW5GOWVyQ1RpS3dBRWtieGZCU2Y5cU41eUhNMnUwZURXenQ1M21ON3BVSVdnWkdkeXJySVFQWWpIcjlaaWhnNGFldmdHcEs2SF9Fc293TG5FMFc2bFBnVXhndGdBY25Gc0VrWkNveGFmaHdmVjh5NkgyVER0Q2NNOENv?oc=5",
+      "location": "Tel Aviv",
+      "founders": [
+        "Shai Morag"
+      ],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/15/identity-management-startup-oak-launches-60m-funding/",
       "priority": 9
     },
-    "remind_at": "2026-07-15T16:24:53.628858-07:00"
-  },
-  {
-    "item": {
-      "company": "Stripe and Advent make $53B bid",
-      "amount": "$53.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/15/stripe-advent-make-53b-bid-take-paypal-private/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-15T16:24:57.061561-07:00"
-  },
-  {
-    "item": {
-      "company": "Senra",
-      "amount": "$65.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5NWV9mX1lGQWc5ZVlpc1BfVGRwZ2Y4eS1lUUE4azNUc19yYUVHUlQxV0dsakdIWE1rTDAxR1pUMA?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-15T16:24:59.507031-07:00"
+    "remind_at": "2026-07-15T17:25:13.679948-07:00"
   }
 ]

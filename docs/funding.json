@@ -1,5 +1,22 @@
 [
   {
+    "id": "2683e3668e3ba3b727d0eb1db3993489",
+    "company": "Oak",
+    "amount": "$60.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/15/identity-management-startup-oak-launches-60m-funding/",
+    "priority": 9,
+    "founders": [
+      "Shai Morag"
+    ],
+    "location": "Tel Aviv",
+    "roles": [],
+    "first_seen": "2026-07-15T16:55:14.680136-07:00",
+    "status": "active"
+  },
+  {
     "id": "cf51f87340a37165a029017131fcfde1",
     "company": "Senra",
     "amount": "$65.0M",
