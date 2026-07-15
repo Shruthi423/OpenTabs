@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "Crypto clearinghouse Glacis Labs",
+      "amount": "$6.8M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWTNnNzNCb3VUR3pwcEhSOXd5NlNVS1BWVnN4TFR4WHM4V2RLM01PU1gzUlE1QWY4b3h2QkR2SFRheU9VRHR1Uy1vM0ZyYnRQb3NfZDB0V1VTbFRTTklmdEtTNWJfMjZ2d2I3NTgtVVQtTlhaMkJHNElxT0ZYeUgtaGFJRkJKVEFDaEF0dlB5RWRjMmEt?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-15T12:08:04.040036-07:00"
+  },
+  {
+    "item": {
+      "company": "betting AI services",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-15T12:08:07.004295-07:00"
+  }
+]
