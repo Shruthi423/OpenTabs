@@ -1,18 +1,30 @@
 [
   {
     "item": {
-      "company": "Oak",
-      "amount": "$60.0M",
-      "stage": "Seed",
+      "company": "Spectro Cloud wants",
+      "amount": "$100.0M",
+      "stage": null,
       "investors": null,
-      "location": "Tel Aviv",
-      "founders": [
-        "Shai Morag"
-      ],
+      "location": null,
+      "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/15/identity-management-startup-oak-launches-60m-funding/",
-      "priority": 9
+      "url": "https://siliconangle.com/2026/07/15/spectro-cloud-wants-ease-ai-infrastructure-management-raising-100m-funding/",
+      "priority": 3
     },
-    "remind_at": "2026-07-15T17:25:13.679948-07:00"
+    "remind_at": "2026-07-15T19:32:54.212612-07:00"
+  },
+  {
+    "item": {
+      "company": "Accelerating the neocloud",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/15/qumulusais-direct-listing-accelerating-neocloud-enterprise-ai/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-15T19:32:58.074793-07:00"
   }
 ]
