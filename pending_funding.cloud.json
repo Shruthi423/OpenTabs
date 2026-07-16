@@ -1,30 +1,74 @@
 [
   {
     "item": {
-      "company": "Microagi",
-      "amount": null,
-      "stage": "Seed",
+      "company": "China\u2019s Moonshot AI releases Kimi K3",
+      "amount": "$1.5B",
+      "stage": null,
       "investors": null,
-      "location": null,
+      "location": "Beijing",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUlFWZll5ekQzQ2NLeWVRd1hKcnJsalBfS0xrWXpYVDRqYkd2V1BQa1RGX3lDSi1wY0ZBNGVVTWNCZVhpSHpjNF83SXgtLVNhVjN2N3lYRThCNnVZNkIzaWxnQ0owbXJCOUhOUlVoUGtqdEx1cUxGbW5xcnNaLWoxVk5qMUtkdjNTQnJyWXJnZm8xanRFTEtfZ0hyV3RvSUFDa2NpeFFPV1htYmhCTU5yVlhR?oc=5",
-      "priority": 9
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "priority": 3
     },
-    "remind_at": "2026-07-16T12:32:22.894936-07:00"
+    "remind_at": "2026-07-16T13:41:33.297950-07:00"
   },
   {
     "item": {
-      "company": "ICE",
-      "amount": "$20.0M",
+      "company": "Over 120 million car trips",
+      "amount": "$26.0M",
       "stage": null,
       "investors": null,
-      "location": "Houston",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/16/ice-agents-body-cameras",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/16/over-120-speeding-saves-54-seconds-gas-costs-car-trips-study-finds-speeding-only-saved-drivers-54-seconds-on-average/",
       "priority": 3
     },
-    "remind_at": "2026-07-16T12:32:25.377629-07:00"
+    "remind_at": "2026-07-16T13:41:36.265506-07:00"
+  },
+  {
+    "item": {
+      "company": "Buffett",
+      "amount": "$31.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [
+        "Larry Page"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/16/warren-buffett-google-berkshire-ai-race/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-16T13:41:38.454116-07:00"
+  },
+  {
+    "item": {
+      "company": "Meet a 43-year-old who lost $90",
+      "amount": "$1.3B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/16/romance-scam-victim-knew-still-paid/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-16T13:41:41.333837-07:00"
+  },
+  {
+    "item": {
+      "company": "Closing the Diffusion Gap",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaTFZOWNRejRsb3BPZkJZX24wUXpaMEhpR2ExblVWOHlDMUs0X1Z3dnhyVjZiblFBNEZGc1g4SGhYMzhvRS1GaXZLXzVqbUZYMFRTYVU1M2pIRURLOGhqbVhoYnNJVVlfeGc5ZVFKRTAtcFkxVHZXY08xdzAzbkgxZ3JMRVZoQQ?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-16T13:41:44.250777-07:00"
   }
 ]
