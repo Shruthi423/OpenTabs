@@ -1,16 +1,16 @@
 [
   {
     "item": {
-      "company": "Runta",
-      "amount": null,
-      "stage": "Seed",
+      "company": "Inside Bibi's mystery Trump meeting",
+      "amount": "$3.0B",
+      "stage": null,
       "investors": null,
-      "location": null,
+      "location": "Washington",
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2tWcHl3WjZwdmNzWGRFZ0tiRUo3bDdJQUtzSTF1eldjMGpMSDY3akZBMGVSek1CWndnVHN1azFwWW5mMWEwSFFqcnI2VFF4VUtWOXdRWGU2b0pET1BrY1dMNFFyd1I5eF9JZkhFUjRiNjhxbzY4UkdKbkNNZGV3bjhXRVJQSWhTNHExLVVCYWR2ekVLWTRN?oc=5",
-      "priority": 9
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/16/netanyahu-mystery-trump-meeting",
+      "priority": 3
     },
-    "remind_at": "2026-07-16T15:47:37.527130-07:00"
+    "remind_at": "2026-07-16T16:54:20.957243-07:00"
   }
 ]

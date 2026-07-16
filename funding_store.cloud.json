@@ -24557,5 +24557,20 @@
     "roles": [],
     "first_seen": "2026-07-16T15:17:38.527280-07:00",
     "status": "active"
+  },
+  "3c6d0740586548eb360dbae20a09bb02": {
+    "id": "3c6d0740586548eb360dbae20a09bb02",
+    "company": "Inside Bibi's mystery Trump meeting",
+    "amount": "$3.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/16/netanyahu-mystery-trump-meeting",
+    "priority": 3,
+    "founders": [],
+    "location": "Washington",
+    "roles": [],
+    "first_seen": "2026-07-16T16:24:21.957401-07:00",
+    "status": "active"
   }
 }
