@@ -8060,5 +8060,24 @@
     "first_seen": "2026-07-16T04:29:27.574678-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "9157b6302b1208d260cdf2e7ea25cb9a": {
+    "id": "9157b6302b1208d260cdf2e7ea25cb9a",
+    "title": "Founding Designer",
+    "company": "Sable",
+    "location": "San Francisco",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/sable/89c85cb1-2fc1-422e-9130-66af57fd8274",
+    "source": "\ud83d\udcb0 Sable (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Sable raised $45.0M",
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-07-16T08:14:16.747415-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }

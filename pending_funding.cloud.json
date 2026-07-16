@@ -1,128 +1,186 @@
 [
   {
     "item": {
-      "company": "Beacon Security",
-      "amount": "$13.0M",
-      "stage": "Seed",
+      "company": "logcat.ai",
+      "amount": "$2.55M",
+      "stage": "Pre-Seed",
       "investors": null,
-      "location": null,
+      "location": "Seattle",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93WE9JUzJWMmhFWWhTaXVTRVdvS2NlSDNXemNnVVZWVVRmNkNKMGVCREpGOVlVVXZwbWlxQUtTeURvS2w3bFpmTjJJWU1pS25vcURPSjdWeW8ydzVVeFRTSi1SY3UwNFhS?oc=5",
-      "priority": 9
+      "source": "GeekWire Funding",
+      "url": "https://www.geekwire.com/2026/the-code-ai-forgot-logcat-ai-raises-2-55m-to-put-agents-to-work-on-device-operating-systems/",
+      "priority": 10
     },
-    "remind_at": "2026-07-16T06:32:11.891023-07:00"
+    "remind_at": "2026-07-16T08:43:51.124493-07:00"
   },
   {
     "item": {
-      "company": "NapTapGo",
-      "amount": null,
+      "company": "Microagi",
+      "amount": "$55.0M",
+      "stage": "Seed",
+      "investors": "Hummingbird to change how industrial robotics works with artificial intelligence models",
+      "location": "Munich",
+      "founders": [
+        "Formula One"
+      ],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/16/microagi-nabs-55m-teach-factory-robots-work/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-16T08:43:53.303131-07:00"
+  },
+  {
+    "item": {
+      "company": "Aina",
+      "amount": "$5.5M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc28zd2M0Q1RGVi02a2xUMXlNa2JKTDV2N1gyMTVxN3NlMUFoUXcwaEVkV1ZQLWl3djJQeU02aWM3R3pRRW5kZWgwSW4zZHpwRzI4NkFYdEx4Yjh2blBaN0FiMVJXTUY3NndGcWJwTHlYa1Ywd2tmZkc0Q203b2xDNXc1NWNUOFF5QVNvOXl1M2htRVJLVnRZbE5vTXlkZWx0dG12NUx2TFA1ckI3Y0pEX3c3eDBBdGJCMFJENWJTNUYzVHpKaHF3YjUyWjZKZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY080T0NocEE2azdzbVJNdGxucVZRQ0E2aGRaNkM2cUxwWHNOWDctNFA5UUNtMHd3ZGhhb2hJdU92MTVsNkxYcUprRDhYaGowb3BYM2VCMkJPRXU2dVdQTEs2ZXd0REdMdzJjUXMzVWtrQ2g0eWpIY1pLVVByYjBTQ0lxUGNfWWpZeHRaZ1NrZWx3U3V5c2FwUFIxWQ?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-16T06:32:14.317637-07:00"
+    "remind_at": "2026-07-16T08:43:55.648956-07:00"
   },
   {
     "item": {
       "company": "KuhlTherm",
-      "amount": null,
+      "amount": "$1.1M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSXFfcHZmYUVvdXBDN0s1cURGMWt6cXhXUUd6Q0dPcEhFZjZyNEtEU1lWaUV3STFSLUdkQ0tBdmREYUY3ak1ZWTN4cmVLaTNXMnZLdTdWeHBuY19fQ0ZUU1Z3UHBCbnJCQV9lZUJXZFU3UzZLVEFBSWpqOXVHQnNGbHNyU0hSc3dWZmJPU01XSzhHbUY5eGw1OUFDcUVMd9IBngFBVV95cUxPSXFfcHZmYUVvdXBDN0s1cURGMWt6cXhXUUd6Q0dPcEhFZjZyNEtEU1lWaUV3STFSLUdkQ0tBdmREYUY3ak1ZWTN4cmVLaTNXMnZLdTdWeHBuY19fQ0ZUU1Z3UHBCbnJCQV9lZUJXZFU3UzZLVEFBSWpqOXVHQnNGbHNyU0hSc3dWZmJPU01XSzhHbUY5eGw1OUFDcUVMdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWZaOE1WeHBLLVcxQmF1T0lqdWtUU3gxU3RKS0hpNXl4SnNIa3MzYkNsc0gxSEdpbmxmYmYwbVNCZ1FyZU5jVGg1cW40b1hKQkt4eGZ6UXI3dU4wR2lRRENPZndCbTBZRlpvSG95X3pNZ1JvM25VNjVvTGxIQmE1RnFjcDk3ZGRzcnV6Y0J1XzZWbHhENFBmUldDRmozTGJja1ZDMHQ4WV9rWXJuQ01SU3F2cWlEanlHZDBBT04wR2YxZ9IBwgFBVV95cUxNLWZaOE1WeHBLLVcxQmF1T0lqdWtUU3gxU3RKS0hpNXl4SnNIa3MzYkNsc0gxSEdpbmxmYmYwbVNCZ1FyZU5jVGg1cW40b1hKQkt4eGZ6UXI3dU4wR2lRRENPZndCbTBZRlpvSG95X3pNZ1JvM25VNjVvTGxIQmE1RnFjcDk3ZGRzcnV6Y0J1XzZWbHhENFBmUldDRmozTGJja1ZDMHQ4WV9rWXJuQ01SU3F2cWlEanlHZDBBT04wR2YxZw?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-16T06:32:16.680563-07:00"
+    "remind_at": "2026-07-16T08:43:57.828982-07:00"
   },
   {
     "item": {
-      "company": "Ultrahuman\u2019s former hardware VP",
-      "amount": "$5.5M",
-      "stage": null,
+      "company": "Holiday Robotics Just",
+      "amount": null,
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUDA1SkZsZTI4WmF0RDhqUFZpYkc4dDNiY0Z4VGlIc25hcVd1c3Z3OU5Ud0x0MXQ4XzZ5MkZPM0tFSHV5SUxfVEtnM2tuX3plNWpIOV9Id3lraDE4dmMtU1VnM2I1VHFzLVp2X0g4MUhYY29pVmhxWDM3M3NRZVI0VzdYY1NPQzNJSzV1YWtlY3BFcjZTVWpnMl9YdW1zV2xvTzdteDhaYkN0V3hYa3ZUNVRmVTRvSmdObHU5SGRHd3ZxYmx6ZjFLUlBB?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-07-16T06:32:19.874405-07:00"
+    "remind_at": "2026-07-16T08:44:00.940655-07:00"
   },
   {
     "item": {
-      "company": "Jensen Huang wants robots",
+      "company": "Europe\u00a0optimized\u00a0its supply chains",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/16/nvidia-fujitsu-physical-ai-japan-robots/",
+      "url": "https://fortune.com/2026/07/16/europe-optimized-supply-chains-cost-resilience-sandoz-medicines/",
       "priority": 3
     },
-    "remind_at": "2026-07-16T06:32:23.065645-07:00"
+    "remind_at": "2026-07-16T08:44:03.995187-07:00"
   },
   {
     "item": {
-      "company": "Washington still voted",
-      "amount": "$3.3B",
-      "stage": null,
-      "investors": null,
-      "location": "Washington",
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/16/israel-aid-survives-house-democrats-revolt/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-16T06:32:26.208410-07:00"
-  },
-  {
-    "item": {
-      "company": "Congress wants",
+      "company": "Visa",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/16/pitch-black-permanent-daylight-time-1974/",
+      "url": "https://fortune.com/2026/07/16/exclusive-visa-new-platform-stablecoin-services-200-million-merchants/",
       "priority": 3
     },
-    "remind_at": "2026-07-16T06:32:29.605682-07:00"
+    "remind_at": "2026-07-16T08:44:06.143796-07:00"
   },
   {
     "item": {
-      "company": "China booted from national champion",
-      "amount": "$1.6B",
+      "company": "Marc Lore",
+      "amount": "$650.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/16/china-british-steel-uk-nationalized/",
+      "url": "https://fortune.com/2026/07/16/exclusive-marc-lore-says-wonder-is-gearing-up-for-an-ipo-650-million-9-billion-valuation-cathie-wood-grubhub-food-delivery/",
       "priority": 3
     },
-    "remind_at": "2026-07-16T06:32:32.896024-07:00"
+    "remind_at": "2026-07-16T08:44:09.726278-07:00"
   },
   {
     "item": {
-      "company": "Trump's deportation push",
-      "amount": "$240.0B",
+      "company": "Data",
+      "amount": "$3.0B",
       "stage": null,
       "investors": null,
-      "location": "Houston",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/16/aclu-immigration-local-policing-deportations",
+      "source": "SaaStr",
+      "url": "https://www.saastr.com/three-3b-b2b-acquisitions-in-30-days-intercom-fin-cognite-and-maintainx-they-all-bought-the-same-thing-data-for-ai/",
       "priority": 3
     },
-    "remind_at": "2026-07-16T06:32:38.185801-07:00"
+    "remind_at": "2026-07-16T08:44:11.886656-07:00"
+  },
+  {
+    "item": {
+      "company": "That Calls Its Product an Employee",
+      "amount": "$45.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0U0Z1JrWFBjRUZrd3RRRFhXc0haUEtsNnJRZFhGMnNuaFVYU21VM2dsd2tmS1RndFkwT3hJLUsxWWNScXR4RDQ1bVBjZ0xmWWp6Y2VPOE1qQ3AtZ3V3MmVkQ1hYa0xwSjFrX0NnQlZ2SVc0SjBDcnlySHFTWFUyNUdGTTZ6aS0zNnpNNGZKMFB0VnFxWmRsblJUUlVZUk1ITHU3UUk0djAyNk1Kc2xDUE5ZRGo?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-16T08:44:15.045786-07:00"
+  },
+  {
+    "item": {
+      "company": "Sable",
+      "amount": "$45.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDLUR3d0FzT2I3S2dLQjZlRnhXTTNUb3JUWGQ3RVBYeEx1MmhTUS1IdEtxakpJM2p4d29fSklpNUVSaXd0cVVSYzk2MHBRRFRONk5MbXE1NUFRUzFhT0FPZTBlWURvM2hIaDY3b0M5enMxZw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-16T08:44:18.793710-07:00"
+  },
+  {
+    "item": {
+      "company": "Pascal",
+      "amount": "$9.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUHhjYnVkUGllN1Bod1dfUGx3NEZCX1lWbVFnbW55QkM1YjZvMEVkQ2dQU1lsZTQ0ZVJEeGpBd2JxekJVRGYyT091V3FmTFlHaEZ6MEVpeWNQdkZGOVc1WGtOalE4RG55MEdPMlpJdk1leXNTSjNVQndyTExaT2p1THV1XzJDQkFwVnFYcVJyeFlfTWFITllZVC12MnZGdnpmejEwTEhBREZpRkN5QmJCdVZtNkVxUVpBU0xV?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-16T08:44:20.970703-07:00"
+  },
+  {
+    "item": {
+      "company": "just",
+      "amount": "$55.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1RIXy02WkpZYVpfbHVWcFR5SV9YbGdUemxvdmtIYjVCbjdpX09rVUpuZ0hXVlR0Tm5DV3BDZ0hoQmEwZDRpdVllZF90ZGhsMkRlamZJemdfU0U1endzYUVDdjNhVVlzUUs0S3VBNExzMzdGajVHUXp0cHN1dmNuaW9WNzlpdGtmd3FOQlBmM3ZZWExWR0N3bEdxYw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-16T08:44:23.269528-07:00"
   }
 ]
