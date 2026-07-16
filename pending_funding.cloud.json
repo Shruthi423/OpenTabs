@@ -1,30 +1,226 @@
 [
   {
     "item": {
-      "company": "Spectro Cloud wants",
-      "amount": "$100.0M",
-      "stage": null,
+      "company": "Overtone",
+      "amount": "$18.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/15/spectro-cloud-wants-ease-ai-infrastructure-management-raising-100m-funding/",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/overtone-raises-18m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-07-15T19:32:54.212612-07:00"
+    "remind_at": "2026-07-15T22:50:20.705404-07:00"
   },
   {
     "item": {
-      "company": "Accelerating the neocloud",
+      "company": "Saible",
       "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/saible-raises-2-9m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-15T22:50:27.779320-07:00"
+  },
+  {
+    "item": {
+      "company": "Neuble AI",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKSjV2SjY0WkJXQS1Gck8ycEJ4V1YwYlBNQ3B3Mll2YjRDQ3Rjb2tjd0RNYkpjTzdCcHdHQ2JUVTh4SnNSNG1EZ2VaVzJkNGJEdlQw?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-15T22:50:30.358390-07:00"
+  },
+  {
+    "item": {
+      "company": "Applied Computing wants",
+      "amount": "$20.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-15T22:50:37.229693-07:00"
+  },
+  {
+    "item": {
+      "company": "Syntetica in $30M Series A",
+      "amount": "$30.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-15T22:50:41.311023-07:00"
+  },
+  {
+    "item": {
+      "company": "Meticulous",
+      "amount": "$15.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/meticulous-raises-15m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-15T22:50:43.670455-07:00"
+  },
+  {
+    "item": {
+      "company": "Syntetica",
+      "amount": "$30.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQTFoM3EyTkxqTTRTMGQ5S3AtV2pqaHlxU2t5X0FVMThPd0p4cXZSb2k2TVRKWFdaN3JRekxPdlNoSEZoZG9ZVU5RUXpwZFBXWXNyX3JyVFhDU1NESTAyUVY1X19TRTlBRWJjM2dlbnFLYXp0MUF3bS1lUmlmY0dNZ3lfOEdnVUdJQVM1SmtGaXdOM3ZGQ3J2SGpIUEFPRlg0Y3Bva1VreGF1cVJRRDFXSERiOFBlWXpva3NaQkxFWUJKbU44NmFjNmtQczZpY2syelA0?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-15T22:50:46.172585-07:00"
+  },
+  {
+    "item": {
+      "company": "Risk Ledger",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/risk-ledger-raises-24m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-07-15T22:50:49.507610-07:00"
+  },
+  {
+    "item": {
+      "company": "WeLab",
+      "amount": "$220.0M",
+      "stage": "Series D",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/welab-raises-220m-series-d/",
+      "priority": 5
+    },
+    "remind_at": "2026-07-15T22:50:52.076612-07:00"
+  },
+  {
+    "item": {
+      "company": "Spectro Cloud",
+      "amount": "$100.0M",
+      "stage": "Series D",
+      "investors": "Goldman Sachs to scale its AI infrastructure management platform for enterprise and public sector use",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/spectro-cloud-raises-100m-series-d/",
+      "priority": 5
+    },
+    "remind_at": "2026-07-15T22:50:55.331470-07:00"
+  },
+  {
+    "item": {
+      "company": "Whale",
+      "amount": "$40.0M",
+      "stage": "Extension",
+      "investors": "CMB International and SMBC Asia Rising Fund to scale its global enterprise AI operations",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/whale-raises-40m-series-c3-extension/",
+      "priority": 5
+    },
+    "remind_at": "2026-07-15T22:50:57.863460-07:00"
+  },
+  {
+    "item": {
+      "company": "Vance pitch does little",
+      "amount": "$95.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/15/qumulusais-direct-listing-accelerating-neocloud-enterprise-ai/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/15/house-republicans-budget-save-act-iran-war-jd-vance",
       "priority": 3
     },
-    "remind_at": "2026-07-15T19:32:58.074793-07:00"
+    "remind_at": "2026-07-15T22:51:01.222128-07:00"
+  },
+  {
+    "item": {
+      "company": "Motorola and Index Ventures back BRINC",
+      "amount": "$125.0M",
+      "stage": null,
+      "investors": null,
+      "location": "Seattle",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/motorola-and-index-ventures-back-brinc-with-125m-to-put-a-911-drone-on-every-us-police-and-fire-station-roof/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-15T22:51:04.477022-07:00"
+  },
+  {
+    "item": {
+      "company": "Ex-SpaceX duo",
+      "amount": "$65.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/ex-spacex-duo-raises-65m-to-drag-wire-harness-manufacturing-out-of-the-cold-war/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-15T22:51:07.729164-07:00"
+  },
+  {
+    "item": {
+      "company": "Cue",
+      "amount": "$5.0M",
+      "stage": null,
+      "investors": "Knife Capital and FAM Investments to expand its AI customer service software agents in new markets",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/cue-raises-5m-series-a/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-15T22:51:10.152212-07:00"
+  },
+  {
+    "item": {
+      "company": "Walden",
+      "amount": "$300.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSFE2R1NpRl93bE03UElGcHJCbmFua2RVQ0tBR24xWHBVMTliYnctTng2VWNzNnBJQlJYbDZIc1M0Znk1YTVVcjBwME4xMGRlN3FxSHhLRzdNUk03TDFpdE8tZTNaSDlkU2ktY3NwcHJvNHJpSEhxYUgyYkVVdGpqbGNGaTNJbm1iZDRlTUYxb0gzb09GX295MzlQMzA?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-15T22:51:12.719462-07:00"
   }
 ]
