@@ -7951,5 +7951,24 @@
     "first_seen": "2026-07-15T22:20:34.605131-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "ad59a7b9897aa4bbb696246805bdd6ca": {
+    "id": "ad59a7b9897aa4bbb696246805bdd6ca",
+    "title": "UX Engineer",
+    "company": "Clover Health",
+    "location": "Remote - USA",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/cloverhealth/jobs/7904472",
+    "source": "\ud83d\udcb0 Clover Health (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Clover Health raised a round",
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-07-16T00:35:59.410326-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
