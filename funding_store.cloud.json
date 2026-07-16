@@ -24329,5 +24329,96 @@
     "roles": [],
     "first_seen": "2026-07-16T09:42:54.945604-07:00",
     "status": "active"
+  },
+  "57d125a8842a86a38a35a304384540c3": {
+    "id": "57d125a8842a86a38a35a304384540c3",
+    "company": "Lululemon",
+    "amount": "$30.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWhtTmwtM3U4dmdTODVrSU42UXZuaWMtcUZoUmIyeFYtb29DYzR1UEZNeDZQTVpEU1N3bURRSkFkMnZMNHQzNG1LS0JzVXpfY1lUTlI2Z3VWUGE2LWxTdjliYndEQmF4VnhPLUJKUnVFaXBEZlVtdjU1d1U4UkM3SGhTSC1YY0J3?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-16T10:52:29.123382-07:00",
+    "status": "active"
+  },
+  "3ae208828e049cbb6e81dcf22eef14bc": {
+    "id": "3ae208828e049cbb6e81dcf22eef14bc",
+    "company": "The global rich like Peter Thiel",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/16/the-global-rich-peter-thiel-safe-haven-argentina/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-16T10:52:32.289602-07:00",
+    "status": "active"
+  },
+  "cd59a60a2539583778edeaa29ca75e50": {
+    "id": "cd59a60a2539583778edeaa29ca75e50",
+    "company": "Fetterman threatens",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/16/fetterman-leave-democrats-israel",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-16T10:52:35.501851-07:00",
+    "status": "active"
+  },
+  "0614e30d6627deed20d464972a6fc689": {
+    "id": "0614e30d6627deed20d464972a6fc689",
+    "company": "Sequoia leads $45 million bet",
+    "amount": "$45.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GVXZTcGt5djRlanhoZ2tVcjBFVGt5TG1FTGRydWloX093TDBUTzcyRGJxbUYyREg0SWdHd2l6Zm1ET2piX3dkOVNzZ01mN2hyb3M3NHN2b2hJT0VsRlFkekhaSHhRbUpo?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-16T10:52:38.668566-07:00",
+    "status": "active"
+  },
+  "d02e7f9be980d2deffec507241b9757a": {
+    "id": "d02e7f9be980d2deffec507241b9757a",
+    "company": "Notion",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0Y5M094Qk5vOVZCOXZQWHJQckRieWdPbF80bmxsUnpjUi16TGxOQU9IaFkzWWhrVWx4T0hLdmJfbUJuanpIN0xFbGNkd1RTX3JveGduZWUycmdFQ1RZcEZRNVFkU2kxQ3BEZXhrcE41QThEd0xzZFpJQkU4NVk1NFNPRzRTaXd2MmRxVXVWVW1IQ1BsTnoyVzR1ODE1TTgtYXB5UDFBcmk?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/notion/d177d052-ef57-4900-acf2-d58e9eded620",
+        "location": "Remote"
+      },
+      {
+        "title": "User Researcher, AI Evaluations",
+        "url": "https://jobs.ashbyhq.com/notion/0e9114bd-4603-4bdf-a86f-a7a4f390fae8",
+        "location": "Remote"
+      },
+      {
+        "title": "Rapid User Researcher",
+        "url": "https://jobs.ashbyhq.com/notion/f3faba46-776a-4938-8c9b-5aebb495aa39",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-07-16T10:52:41.099984-07:00",
+    "status": "active"
   }
 }

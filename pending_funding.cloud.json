@@ -1,128 +1,72 @@
 [
   {
     "item": {
-      "company": "How a former DeepMind researcher",
-      "amount": "$300.0M",
-      "stage": "Pre-Seed",
+      "company": "Lululemon",
+      "amount": "$30.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaXd0SGFYOVYyLTZlYXZBMWVBc2lxNmRWazlOTk5tb3dqdFpfOTB1cnBfWmVjQWFPWlNkUnNmenBlcnF6WkcyVVo0MGI3OTR5OWJGczRTNU1MNkotNHBLQnRJRGtaOGpQZGRpSzFOQ3JhWDhleW96QW80cmtMQ3diWU9HQ2c4cUctaTZWLUk1QWhWMkwwVmxucThXclE4NVZya2dLS0xHVDVXQUkwTG8wcThfYjd0bTd1cnZZLW1FMUhMdkV0cHM2TUZn?oc=5",
-      "priority": 10
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWhtTmwtM3U4dmdTODVrSU42UXZuaWMtcUZoUmIyeFYtb29DYzR1UEZNeDZQTVpEU1N3bURRSkFkMnZMNHQzNG1LS0JzVXpfY1lUTlI2Z3VWUGE2LWxTdjliYndEQmF4VnhPLUJKUnVFaXBEZlVtdjU1d1U4UkM3SGhTSC1YY0J3?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-07-16T10:12:29.169588-07:00"
+    "remind_at": "2026-07-16T11:22:28.123200-07:00"
   },
   {
     "item": {
-      "company": "AI-powered travel agency Fora",
-      "amount": "$60.0M",
-      "stage": "Series D",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
-      "priority": 5
-    },
-    "remind_at": "2026-07-16T10:12:32.411438-07:00"
-  },
-  {
-    "item": {
-      "company": "Trump has tried",
+      "company": "The global rich like Peter Thiel",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/16/us-europe-decoupling-china-cost-14-trillion-ey-parthenon-trump-tariffs/",
+      "url": "https://fortune.com/2026/07/16/the-global-rich-peter-thiel-safe-haven-argentina/",
       "priority": 3
     },
-    "remind_at": "2026-07-16T10:12:36.862574-07:00"
+    "remind_at": "2026-07-16T11:22:31.289433-07:00"
   },
   {
     "item": {
-      "company": "Lamine Yamal",
-      "amount": "$21.5M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/16/lamine-yamal-third-youngest-world-cup-finalist-scouted-from-working-class-neighborhood-6-years-old/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-16T10:12:40.079360-07:00"
-  },
-  {
-    "item": {
-      "company": "JD Vance blames Pam Bondi",
+      "company": "Fetterman threatens",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/16/jd-vance-pam-bond-epstein-files/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/16/fetterman-leave-democrats-israel",
       "priority": 3
     },
-    "remind_at": "2026-07-16T10:12:43.390162-07:00"
+    "remind_at": "2026-07-16T11:22:34.501701-07:00"
   },
   {
     "item": {
-      "company": "JPMorgan CEO Jamie Dimon",
-      "amount": "$24.0M",
-      "stage": null,
-      "investors": null,
-      "location": "Philadelphia",
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/16/jpmorgan-chase-ceo-jamie-dimon-skilled-trade-shortage-shipbuilding-six-figure-gen-z-ai-proof-job-opportunity-philadelphia-investment/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-16T10:12:46.635023-07:00"
-  },
-  {
-    "item": {
-      "company": "Uber",
-      "amount": "$14.8B",
+      "company": "Sequoia leads $45 million bet",
+      "amount": "$45.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/16/uber-to-acquire-delivery-hero-in-14-8-billion-deal-to-create-global-food-delivery-giant/",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GVXZTcGt5djRlanhoZ2tVcjBFVGt5TG1FTGRydWloX093TDBUTzcyRGJxbUYyREg0SWdHd2l6Zm1ET2piX3dkOVNzZ01mN2hyb3M3NHN2b2hJT0VsRlFkekhaSHhRbUpo?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-16T10:12:49.067256-07:00"
+    "remind_at": "2026-07-16T11:22:37.668407-07:00"
   },
   {
     "item": {
-      "company": "Runta",
-      "amount": "$20.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hTEJTMWZ2Z2dSQjNnR3pSeEZsSnQ2OV9oMGRZQ3RPbEk0Z2dRNnBHWUhqeklfd2FtdTdxN05XVEFwMnI1bF9JZDNvbTV5TGVTSGQ2VzN5U1JhLTlfTEplOVJSVWY5dlo5RjdyV3RJVjZQNkxEa1pBZUVVdGE1Z0k?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-16T10:12:51.529993-07:00"
-  },
-  {
-    "item": {
-      "company": "Hephae",
+      "company": "Notion",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": "Houston",
+      "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS2NlX3g2SzB6b0pUVzZNQWUxc3dZcThYTUlQTi1jYTBGeWdaLU4tbjQxWE9mSjlZd2FtYkQ1NjJMVWt2MVZJSkVLQWgxQ3pGU3JZZlIybm5PWlp0ZGRacXQ3cnowTkZQVExTQ2hpX2dmdW9qbUw3RmtIZFZ5TGFoOW9feElSamJkYkNGU2lUOVlaZGRJdHhraC1VeU1JUndFTTRjUlFR?oc=5",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0Y5M094Qk5vOVZCOXZQWHJQckRieWdPbF80bmxsUnpjUi16TGxOQU9IaFkzWWhrVWx4T0hLdmJfbUJuanpIN0xFbGNkd1RTX3JveGduZWUycmdFQ1RZcEZRNVFkU2kxQ3BEZXhrcE41QThEd0xzZFpJQkU4NVk1NFNPRzRTaXd2MmRxVXVWVW1IQ1BsTnoyVzR1ODE1TTgtYXB5UDFBcmk?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-16T10:12:53.945430-07:00"
+    "remind_at": "2026-07-16T11:22:40.099809-07:00"
   }
 ]
