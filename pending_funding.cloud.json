@@ -1,44 +1,128 @@
 [
   {
     "item": {
-      "company": "Funding",
-      "amount": "$42.8B",
+      "company": "Beacon Security",
+      "amount": "$13.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93WE9JUzJWMmhFWWhTaXVTRVdvS2NlSDNXemNnVVZWVVRmNkNKMGVCREpGOVlVVXZwbWlxQUtTeURvS2w3bFpmTjJJWU1pS25vcURPSjdWeW8ydzVVeFRTSi1SY3UwNFhS?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-16T06:32:11.891023-07:00"
+  },
+  {
+    "item": {
+      "company": "NapTapGo",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc28zd2M0Q1RGVi02a2xUMXlNa2JKTDV2N1gyMTVxN3NlMUFoUXcwaEVkV1ZQLWl3djJQeU02aWM3R3pRRW5kZWgwSW4zZHpwRzI4NkFYdEx4Yjh2blBaN0FiMVJXTUY3NndGcWJwTHlYa1Ywd2tmZkc0Q203b2xDNXc1NWNUOFF5QVNvOXl1M2htRVJLVnRZbE5vTXlkZWx0dG12NUx2TFA1ckI3Y0pEX3c3eDBBdGJCMFJENWJTNUYzVHpKaHF3YjUyWjZKZw?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-16T06:32:14.317637-07:00"
+  },
+  {
+    "item": {
+      "company": "KuhlTherm",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSXFfcHZmYUVvdXBDN0s1cURGMWt6cXhXUUd6Q0dPcEhFZjZyNEtEU1lWaUV3STFSLUdkQ0tBdmREYUY3ak1ZWTN4cmVLaTNXMnZLdTdWeHBuY19fQ0ZUU1Z3UHBCbnJCQV9lZUJXZFU3UzZLVEFBSWpqOXVHQnNGbHNyU0hSc3dWZmJPU01XSzhHbUY5eGw1OUFDcUVMd9IBngFBVV95cUxPSXFfcHZmYUVvdXBDN0s1cURGMWt6cXhXUUd6Q0dPcEhFZjZyNEtEU1lWaUV3STFSLUdkQ0tBdmREYUY3ak1ZWTN4cmVLaTNXMnZLdTdWeHBuY19fQ0ZUU1Z3UHBCbnJCQV9lZUJXZFU3UzZLVEFBSWpqOXVHQnNGbHNyU0hSc3dWZmJPU01XSzhHbUY5eGw1OUFDcUVMdw?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-16T06:32:16.680563-07:00"
+  },
+  {
+    "item": {
+      "company": "Ultrahuman\u2019s former hardware VP",
+      "amount": "$5.5M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/data-china-ai-lead-asia-startup-funding-peak-q2-2026/",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
       "priority": 3
     },
-    "remind_at": "2026-07-16T04:59:51.790380-07:00"
+    "remind_at": "2026-07-16T06:32:19.874405-07:00"
   },
   {
     "item": {
-      "company": "Bunkerhill Health",
-      "amount": "$55.0M",
+      "company": "Jensen Huang wants robots",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/16/bunkerhill-health-raises-55-million-ai-agents-work-inside-hospitals/",
+      "url": "https://fortune.com/2026/07/16/nvidia-fujitsu-physical-ai-japan-robots/",
       "priority": 3
     },
-    "remind_at": "2026-07-16T04:59:55.094505-07:00"
+    "remind_at": "2026-07-16T06:32:23.065645-07:00"
   },
   {
     "item": {
-      "company": "Applied Computing",
-      "amount": null,
+      "company": "Washington still voted",
+      "amount": "$3.3B",
       "stage": null,
-      "investors": "KBR to expand its industrial AI operations and energy foundation model research into the US market",
-      "location": null,
+      "investors": null,
+      "location": "Washington",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/applied-computing-raises-15m-series-a/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/16/israel-aid-survives-house-democrats-revolt/",
       "priority": 3
     },
-    "remind_at": "2026-07-16T04:59:58.578084-07:00"
+    "remind_at": "2026-07-16T06:32:26.208410-07:00"
+  },
+  {
+    "item": {
+      "company": "Congress wants",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/16/pitch-black-permanent-daylight-time-1974/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-16T06:32:29.605682-07:00"
+  },
+  {
+    "item": {
+      "company": "China booted from national champion",
+      "amount": "$1.6B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/16/china-british-steel-uk-nationalized/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-16T06:32:32.896024-07:00"
+  },
+  {
+    "item": {
+      "company": "Trump's deportation push",
+      "amount": "$240.0B",
+      "stage": null,
+      "investors": null,
+      "location": "Houston",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/16/aclu-immigration-local-policing-deportations",
+      "priority": 3
+    },
+    "remind_at": "2026-07-16T06:32:38.185801-07:00"
   }
 ]
