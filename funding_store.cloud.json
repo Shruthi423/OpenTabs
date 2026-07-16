@@ -23800,5 +23800,61 @@
     "roles": [],
     "first_seen": "2026-07-16T02:49:58.027926-07:00",
     "status": "active"
+  },
+  "ffce3f300f8ef207388a44c71a63db2b": {
+    "id": "ffce3f300f8ef207388a44c71a63db2b",
+    "company": "Funding",
+    "amount": "$42.8B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/data-china-ai-lead-asia-startup-funding-peak-q2-2026/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-16T04:29:52.790511-07:00",
+    "status": "active"
+  },
+  "a3afaf049ec8fb343a45062f4355ea5f": {
+    "id": "a3afaf049ec8fb343a45062f4355ea5f",
+    "company": "Bunkerhill Health",
+    "amount": "$55.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/16/bunkerhill-health-raises-55-million-ai-agents-work-inside-hospitals/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-16T04:29:56.094638-07:00",
+    "status": "active"
+  },
+  "6b24c6729ee1e919cb2353ac195ff6c8": {
+    "id": "6b24c6729ee1e919cb2353ac195ff6c8",
+    "company": "Applied Computing",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "KBR to expand its industrial AI operations and energy foundation model research into the US market",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/applied-computing-raises-15m-series-a/",
+    "priority": 3,
+    "founders": [],
+    "location": "Sunnyvale",
+    "roles": [
+      {
+        "title": "Product Designer, HMI",
+        "url": "https://jobs.ashbyhq.com/applied/4e7b038e-6c5d-4735-8bef-d8425b6985e3",
+        "location": "Sunnyvale"
+      },
+      {
+        "title": "Brand Designer",
+        "url": "https://jobs.ashbyhq.com/applied/e0c23485-f535-4086-8b1e-41c5a0cd6de4",
+        "location": "Sunnyvale"
+      }
+    ],
+    "first_seen": "2026-07-16T04:29:59.578284-07:00",
+    "status": "active"
   }
 }

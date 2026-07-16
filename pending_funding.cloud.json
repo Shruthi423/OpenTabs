@@ -1,156 +1,44 @@
 [
   {
     "item": {
-      "company": "Mandrake Bio",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNclRiSXllZWdhcVlUZmMwT19IM3JpWTNKakxQbFhZOGozRUt0SUZkeDBtaE1PdHR5c2RHSXhNa3VXbUQyQ0JqUm82QjBOelJRdnA3UnJWSVpiZ190d2lCTFQ1bHR4VmZZZGlRODVfd1hJQ2dqbE8tMlBNMHk4ZUVHMzdFQ3Q2SjZQa3V1TGN2Ni1iOGo4elRydS13SlhJMzIxdE9ZemxuenV2RHhFd0ZVZHZZbU9Zd9IBtgFBVV95cUxNclRiSXllZWdhcVlUZmMwT19IM3JpWTNKakxQbFhZOGozRUt0SUZkeDBtaE1PdHR5c2RHSXhNa3VXbUQyQ0JqUm82QjBOelJRdnA3UnJWSVpiZ190d2lCTFQ1bHR4VmZZZGlRODVfd1hJQ2dqbE8tMlBNMHk4ZUVHMzdFQ3Q2SjZQa3V1TGN2Ni1iOGo4elRydS13SlhJMzIxdE9ZemxuenV2RHhFd0ZVZHZZbU9Zdw?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-07-16T03:19:32.200688-07:00"
-  },
-  {
-    "item": {
-      "company": "Reo.Dev",
-      "amount": "$11.3M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1NiSVdTTkpxYkhwZVgweF95enQ4Q19zZWo0LWlFSzV1bHhHT010bkEwRnpESE1PZDFwZDlYZXhOczZ4U2tqN2pXVWpEU1VaSHdzenBxVzU1ejlEcjAxZ0ltNEhkRFhLc2tyUTFYd0ZJS1lqZWZHbEhKTGFjRVNQTXgyTG1mbHJLa0ZwNVI0ZXBVZw?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-07-16T03:19:34.393928-07:00"
-  },
-  {
-    "item": {
-      "company": "Vietnamese coffee start-up",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaFhDc3VqYXNiTDFuZDN3NXFkdncySHY2SXdaVVRqVjFPUktnWkgwbVlJcFNMU001ZGtLc0JkLVRqN0M3QjVIcXQ2Y3Q0akJXUHVrZ0VKQ09MQUR4SnVfUlF6QUNBbklUQUlTYUJDSTVSU1FrQm4yMkJWRDlsX2Q3NjZyMkxiMm9iV0dQQms4UkZNTUgtbjB0ZUZPanUxOG1faVEzNDl5NA?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-07-16T03:19:37.258066-07:00"
-  },
-  {
-    "item": {
-      "company": "SwitchOn",
-      "amount": "$8.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2lNSVZRWkhTRVlDMDJWTTRmdHpaXzI4aFVkdEtOT3hEaDJMVnZuankxcTlFb1pZUEY4cUpjZi1ld1k0UWw4S0l5MC1ndUc2ZlpJSjRaNWZoZjJQUGVNOVVLZmZpUDkwS01wdE5fbGtUdDMteWZtVmE3bEUxMUg2cnNmdTY2TG56eFhZTG9pbDQ0ZDZmVFpndmZCT0JlRUE5ZHNNbw?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-07-16T03:19:39.404826-07:00"
-  },
-  {
-    "item": {
-      "company": "Swiss satellite maker SWISSto12",
-      "amount": "$70.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/swissto12-raises-70m-series-c-profitable-satellite-startup/",
-      "priority": 6
-    },
-    "remind_at": "2026-07-16T03:19:42.285447-07:00"
-  },
-  {
-    "item": {
-      "company": "Pipe",
-      "amount": "$16.0M",
+      "company": "Funding",
+      "amount": "$42.8B",
       "stage": null,
-      "investors": "Fin Capital and MaC Venture Capital to accelerate its embedded financial platform for small businesses",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/data-china-ai-lead-asia-startup-funding-peak-q2-2026/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-16T04:59:51.790380-07:00"
+  },
+  {
+    "item": {
+      "company": "Bunkerhill Health",
+      "amount": "$55.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/16/bunkerhill-health-raises-55-million-ai-agents-work-inside-hospitals/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-16T04:59:55.094505-07:00"
+  },
+  {
+    "item": {
+      "company": "Applied Computing",
+      "amount": null,
+      "stage": null,
+      "investors": "KBR to expand its industrial AI operations and energy foundation model research into the US market",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pipe-raises-16m-other/",
-      "priority": 6
-    },
-    "remind_at": "2026-07-16T03:19:44.481556-07:00"
-  },
-  {
-    "item": {
-      "company": "Vance enters the media lion's den",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/16/vance-media-trump-rogan-kelly-carlson",
+      "url": "https://www.thesaasnews.com/news/applied-computing-raises-15m-series-a/",
       "priority": 3
     },
-    "remind_at": "2026-07-16T03:19:47.314482-07:00"
-  },
-  {
-    "item": {
-      "company": "DNC officers asked",
-      "amount": "$15.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/16/dnc-finances-nda-midterms-2026",
-      "priority": 3
-    },
-    "remind_at": "2026-07-16T03:19:50.197686-07:00"
-  },
-  {
-    "item": {
-      "company": "Tyred",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Other London",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/tyred-raises-2-5m-other/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-16T03:19:52.463621-07:00"
-  },
-  {
-    "item": {
-      "company": "InsideDesk",
-      "amount": "$12.6M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/insidedesk-raises-12-6m-growth-capital/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-16T03:19:54.747728-07:00"
-  },
-  {
-    "item": {
-      "company": "Proaction",
-      "amount": "$4.2M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/proaction-raises-4-2m-seed/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-16T03:19:57.027774-07:00"
+    "remind_at": "2026-07-16T04:59:58.578084-07:00"
   }
 ]
