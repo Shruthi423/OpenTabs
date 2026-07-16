@@ -1,72 +1,30 @@
 [
   {
     "item": {
-      "company": "Lululemon",
-      "amount": "$30.0M",
-      "stage": "Series A",
+      "company": "Microagi",
+      "amount": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWhtTmwtM3U4dmdTODVrSU42UXZuaWMtcUZoUmIyeFYtb29DYzR1UEZNeDZQTVpEU1N3bURRSkFkMnZMNHQzNG1LS0JzVXpfY1lUTlI2Z3VWUGE2LWxTdjliYndEQmF4VnhPLUJKUnVFaXBEZlVtdjU1d1U4UkM3SGhTSC1YY0J3?oc=5",
-      "priority": 8
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUlFWZll5ekQzQ2NLeWVRd1hKcnJsalBfS0xrWXpYVDRqYkd2V1BQa1RGX3lDSi1wY0ZBNGVVTWNCZVhpSHpjNF83SXgtLVNhVjN2N3lYRThCNnVZNkIzaWxnQ0owbXJCOUhOUlVoUGtqdEx1cUxGbW5xcnNaLWoxVk5qMUtkdjNTQnJyWXJnZm8xanRFTEtfZ0hyV3RvSUFDa2NpeFFPV1htYmhCTU5yVlhR?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-07-16T11:22:28.123200-07:00"
+    "remind_at": "2026-07-16T12:32:22.894936-07:00"
   },
   {
     "item": {
-      "company": "The global rich like Peter Thiel",
-      "amount": null,
+      "company": "ICE",
+      "amount": "$20.0M",
       "stage": null,
       "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/16/the-global-rich-peter-thiel-safe-haven-argentina/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-16T11:22:31.289433-07:00"
-  },
-  {
-    "item": {
-      "company": "Fetterman threatens",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
+      "location": "Houston",
       "founders": [],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/07/16/fetterman-leave-democrats-israel",
+      "url": "https://www.axios.com/2026/07/16/ice-agents-body-cameras",
       "priority": 3
     },
-    "remind_at": "2026-07-16T11:22:34.501701-07:00"
-  },
-  {
-    "item": {
-      "company": "Sequoia leads $45 million bet",
-      "amount": "$45.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GVXZTcGt5djRlanhoZ2tVcjBFVGt5TG1FTGRydWloX093TDBUTzcyRGJxbUYyREg0SWdHd2l6Zm1ET2piX3dkOVNzZ01mN2hyb3M3NHN2b2hJT0VsRlFkekhaSHhRbUpo?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-16T11:22:37.668407-07:00"
-  },
-  {
-    "item": {
-      "company": "Notion",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0Y5M094Qk5vOVZCOXZQWHJQckRieWdPbF80bmxsUnpjUi16TGxOQU9IaFkzWWhrVWx4T0hLdmJfbUJuanpIN0xFbGNkd1RTX3JveGduZWUycmdFQ1RZcEZRNVFkU2kxQ3BEZXhrcE41QThEd0xzZFpJQkU4NVk1NFNPRzRTaXd2MmRxVXVWVW1IQ1BsTnoyVzR1ODE1TTgtYXB5UDFBcmk?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-16T11:22:40.099809-07:00"
+    "remind_at": "2026-07-16T12:32:25.377629-07:00"
   }
 ]

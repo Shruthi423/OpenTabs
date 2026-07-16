@@ -1,5 +1,35 @@
 [
   {
+    "id": "3f5bee78816d43ab72e795c7cf78c953",
+    "company": "ICE",
+    "amount": "$20.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/16/ice-agents-body-cameras",
+    "priority": 3,
+    "founders": [],
+    "location": "Houston",
+    "roles": [],
+    "first_seen": "2026-07-16T12:02:26.377766-07:00",
+    "status": "active"
+  },
+  {
+    "id": "b580643305eb0f10e5345b9ef0a2f915",
+    "company": "Microagi",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUlFWZll5ekQzQ2NLeWVRd1hKcnJsalBfS0xrWXpYVDRqYkd2V1BQa1RGX3lDSi1wY0ZBNGVVTWNCZVhpSHpjNF83SXgtLVNhVjN2N3lYRThCNnVZNkIzaWxnQ0owbXJCOUhOUlVoUGtqdEx1cUxGbW5xcnNaLWoxVk5qMUtkdjNTQnJyWXJnZm8xanRFTEtfZ0hyV3RvSUFDa2NpeFFPV1htYmhCTU5yVlhR?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-16T12:02:23.895071-07:00",
+    "status": "active"
+  },
+  {
     "id": "d02e7f9be980d2deffec507241b9757a",
     "company": "Notion",
     "amount": "Undisclosed",
