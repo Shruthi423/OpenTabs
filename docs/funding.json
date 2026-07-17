@@ -1,5 +1,35 @@
 [
   {
+    "id": "83e59c06536a63ded4a311d8103e40e2",
+    "company": "Valar Atomics in talks",
+    "amount": "$6.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-17T12:47:33.262674-07:00",
+    "status": "active"
+  },
+  {
+    "id": "609d5b237d1332bc498b4aae380906a3",
+    "company": "The Week\u2019s 10 Biggest Funding Rounds",
+    "amount": "$1.5B",
+    "stage": "Series D",
+    "investors": "Undisclosed",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/",
+    "priority": 5,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-17T12:47:29.768758-07:00",
+    "status": "active"
+  },
+  {
     "id": "9a3ad820b9469a1213cbc607269afe8c",
     "company": "Speakeasy",
     "amount": "$8.8M",
