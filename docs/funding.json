@@ -1,5 +1,20 @@
 [
   {
+    "id": "345a3b31560cd88f61cf8ae32979c4c8",
+    "company": "The Senate braces",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/17/house-senate-pipeline-midterms-wave-congress",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-17T15:34:29.799746-07:00",
+    "status": "active"
+  },
+  {
     "id": "7dcbb9dc16a71fa0f66e3e7505fee278",
     "company": "Valar Atomics",
     "amount": "$6.0B",
