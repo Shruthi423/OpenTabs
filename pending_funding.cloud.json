@@ -1,86 +1,128 @@
 [
   {
     "item": {
-      "company": "founded by two F1 engineers",
-      "amount": "$55.0M",
-      "stage": "Seed",
+      "company": "Horizon Trade",
+      "amount": "$2.0M",
+      "stage": "Pre-Seed",
       "investors": null,
-      "location": "Munich",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/this-munich-startup-founded-by-two-f1-engineers-a-whatsapp-entrepreneur-and-an-alan-turing-researcher-just-raised-55m-in-germanys-largest-ever-seed-round/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-16T23:57:21.134233-07:00"
-  },
-  {
-    "item": {
-      "company": "Elorian AI",
-      "amount": "$55.0M",
-      "stage": "Seed",
-      "investors": "former Google DeepMind leaders",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/elorian-ai-raises-55m-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/horizon-trade-raises-2m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-07-16T23:57:23.519521-07:00"
+    "remind_at": "2026-07-17T02:04:41.751039-07:00"
   },
   {
     "item": {
-      "company": "Apaluma",
-      "amount": "$5.55M",
-      "stage": "Seed",
-      "investors": "Crosslink Capital and Kickstart to scale its unified government data platform for regulatory records",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/apaluma-raises-5-55m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-16T23:57:25.915922-07:00"
-  },
-  {
-    "item": {
-      "company": "Mango",
+      "company": "Intrinsic Power",
       "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXdHRGhoQzhXTkVfdk4wX1JyaUFMcE9FYnppUXpKblpNbzdNQ3BZRUtqLVRtbzIzaHlIclVzcTVTMmlRaG0xQnNjSG1vUWdDOC0weWo4NGdDeDY1UGNDZ2pRbmJJYmdWQV91WllUUUU3Y1Vhak5Ua1RiUVp1TExLa3hsUGZVY05xSll4eHpzS1NfeXBpTWpaaEZVSTdHYWvSAaQBQVVfeXFMT3RlV1QwLW52c29JT2VSUUxwWHMzXy1teXZRcWRVVWNyQ2QwR0FNUHVHR0FpNFpKMVlkN1h0X1ZpZ0g3TUZDNVgxbjVCU05BM0RkSzFPM0VKNnNwYlB4b01fYWozUm9BYUdHYnRpSkxZb3l4RXR1b1N2Sy1YWkpLVUFSeUJLME1iWFlnanljc2tBWUpKemNFdUFjbURVc0UwYTZkbVU?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/intrinsic-power-raises-seed-funding/",
       "priority": 9
     },
-    "remind_at": "2026-07-16T23:57:28.303185-07:00"
+    "remind_at": "2026-07-17T02:04:45.143416-07:00"
   },
   {
     "item": {
-      "company": "Rize",
-      "amount": "$31.0M",
-      "stage": "Series B",
-      "investors": "to expand its sustainable rice cultivation platform in Southeast Asia",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/rize-raises-31m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-07-16T23:57:31.003085-07:00"
-  },
-  {
-    "item": {
-      "company": "Fora",
-      "amount": "$60.0M",
-      "stage": "Series D",
+      "company": "EverSettled",
+      "amount": "$5.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/fora-raises-60m-series-d/",
-      "priority": 5
+      "url": "https://www.thesaasnews.com/news/eversettled-raises-5m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-07-16T23:57:33.452247-07:00"
+    "remind_at": "2026-07-17T02:04:47.717684-07:00"
+  },
+  {
+    "item": {
+      "company": "DeweyLearn",
+      "amount": "$5.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/deweylearn-raises-5m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-17T02:04:50.388177-07:00"
+  },
+  {
+    "item": {
+      "company": "Rime picks up $24M Series A",
+      "amount": "$24.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWx2RlZBVkFXclZCTWp1NWVnWTI4c0pDeHJKRUtxWVc4blZWV0NJOHk4MlNueThvVnRGU1pUZmpjekVJdUpZV2g0TEN5WEp6VlVTQjU5cDRoN2padnlaaWpCeTY5SF92bk5IY2NEanNOZldFXzFOSDFSTUN3dlpxSkRnc1laSXJucFNRRDQyc2dLNEZKYlRBa2lIS1FFUFc2djNkTA?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-17T02:04:53.708325-07:00"
+  },
+  {
+    "item": {
+      "company": "Summer",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "New York",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/17/summer-smoke-season-wildfires",
+      "priority": 3
+    },
+    "remind_at": "2026-07-17T02:04:56.113864-07:00"
+  },
+  {
+    "item": {
+      "company": "The meetings",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Berlin",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/inside-htgf-family-day-new-wirtschaftswunder/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-17T02:04:59.429344-07:00"
+  },
+  {
+    "item": {
+      "company": "scooped \u20ac5.1M",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Grenoble",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/engo-5-1m-funding-ultra-light-ar-sports-glasses/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-17T02:05:02.740681-07:00"
+  },
+  {
+    "item": {
+      "company": "Mathesis Analytics",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/mathesis-analytics-raises-undisclosed-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-17T02:05:05.979677-07:00"
   }
 ]
