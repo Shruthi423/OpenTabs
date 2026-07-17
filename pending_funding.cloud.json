@@ -1,16 +1,16 @@
 [
   {
     "item": {
-      "company": "Inside Bibi's mystery Trump meeting",
-      "amount": "$3.0B",
+      "company": "Netflix used AI",
+      "amount": "$20.0B",
       "stage": null,
       "investors": null,
-      "location": "Washington",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/16/netanyahu-mystery-trump-meeting",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/16/netflix-made-17-minutes-of-a-documentary-twice-as-fast-and-at-half-the-cost-amid-a-20-billion-projected-cost-for-content/",
       "priority": 3
     },
-    "remind_at": "2026-07-16T16:54:20.957243-07:00"
+    "remind_at": "2026-07-16T18:29:11.690924-07:00"
   }
 ]

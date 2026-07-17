@@ -24572,5 +24572,20 @@
     "roles": [],
     "first_seen": "2026-07-16T16:24:21.957401-07:00",
     "status": "active"
+  },
+  "70f7ab7eaf6f948f807747894c44d991": {
+    "id": "70f7ab7eaf6f948f807747894c44d991",
+    "company": "Netflix used AI",
+    "amount": "$20.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/16/netflix-made-17-minutes-of-a-documentary-twice-as-fast-and-at-half-the-cost-amid-a-20-billion-projected-cost-for-content/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-16T17:59:12.691076-07:00",
+    "status": "active"
   }
 }
