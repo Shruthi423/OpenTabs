@@ -1,16 +1,58 @@
 [
   {
     "item": {
-      "company": "Elorian",
-      "amount": "$55.0M",
+      "company": "Beyond Reach Labs",
+      "amount": "$10.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRmQtOFpUU2hNYTdsaW1aQnVIRHlDWndYSkpLdFZ5V1VidzMtMWo3QzFuRHE3SUR0LWxzbTF1enZRWGp3ZVpFWmVIU0g0WC1FMUo2RFBRM3pWQ0Z5MGk1ejQtQWNCRWlUUl9pR29RMnNFeWNXSTJEMDQwVWJjUy1lWVd1TEJEMVh5bVNWb1h2VkI5MG53dndXVVpibEpTaWpDV0hfTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YOHpyMzg1V2wzQnVQM19Sb05IcDh5c2dydWZZMHVNaDdzend4bWlwel9kSUtnc05xVl92aDNDV3VkalRSTkJNWU1Rb1BpdWxfV1EyOFNhTWpYRWJhNFp3ZlhpY1ZfcDN3Z2V1c3FuXzBqMGN0c0xvZHdEeTc?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-17T08:25:01.755046-07:00"
+    "remind_at": "2026-07-17T09:40:58.348527-07:00"
+  },
+  {
+    "item": {
+      "company": "Meet the Texas monk",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Washington",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/17/who-is-bhikku-pannakara-monk-texas-rescure-dog-social-media/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-17T09:41:01.293095-07:00"
+  },
+  {
+    "item": {
+      "company": "The Agents #010",
+      "amount": "$200.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SaaStr",
+      "url": "https://www.saastr.com/claude-became-our-ai-vp-of-product-we-moved-10-years-off-marketo-for-14-our-agent-killed-a-10k-app-in-an-hour-the-agents-010/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-17T09:41:04.211351-07:00"
+  },
+  {
+    "item": {
+      "company": "Drift funding history",
+      "amount": "$159.8M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNLXk4TnZuM3NCZVM1bURNZDAtSmtxZnRWOG00MFlWVE80SUVNS3dWYl9pNlhGNlNpQXpkQnE5Z2JlckF1Tmg1cVEwTkxpa3FSaWZCNFZwLTUzYUMyQ1F0ZG1xUHEzZ3I3WFNVZUlfdGFkSWxZclNZNUtNSDBwSzRva2IwUmkxSEVFQWVHQWRiYzRUd1ZDZXJUaEgyVDB3VUpreDIxNU0zcDRnck1LSVpSVGE1SFVQVmJBVEZLUEtORExLWVNXMVBobHE1NmFuQlNVdlVzOWtwaEFmM3NLanFDazRTNW41dzBERmpWRlNPLUpOYjB4U3JjaUNmWWFXTmJwTXdUR0dn?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-17T09:41:07.161266-07:00"
   }
 ]
