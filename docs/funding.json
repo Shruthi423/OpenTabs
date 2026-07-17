@@ -1,5 +1,35 @@
 [
   {
+    "id": "9a3ad820b9469a1213cbc607269afe8c",
+    "company": "Speakeasy",
+    "amount": "$8.8M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "AlleyWatch",
+    "url": "https://www.alleywatch.com/2026/07/speakeasy-live-experience-event-ticketing-reservations-operations-software-platform-alex-manavi/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-17T10:31:17.662761-07:00",
+    "status": "active"
+  },
+  {
+    "id": "d0deea791af88295ee136b385194ff67",
+    "company": "World Cup final",
+    "amount": "$1.27B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/17/world-cup-final-biggest-ever-prediction-market-kalshi-bets-top-spain-argentina/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-17T10:31:15.156989-07:00",
+    "status": "active"
+  },
+  {
     "id": "e7de7240bf0e8f2542b14072a4ebf1ac",
     "company": "Drift funding history",
     "amount": "$159.8M",

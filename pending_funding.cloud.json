@@ -1,58 +1,30 @@
 [
   {
     "item": {
-      "company": "Beyond Reach Labs",
-      "amount": "$10.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YOHpyMzg1V2wzQnVQM19Sb05IcDh5c2dydWZZMHVNaDdzend4bWlwel9kSUtnc05xVl92aDNDV3VkalRSTkJNWU1Rb1BpdWxfV1EyOFNhTWpYRWJhNFp3ZlhpY1ZfcDN3Z2V1c3FuXzBqMGN0c0xvZHdEeTc?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-07-17T09:40:58.348527-07:00"
-  },
-  {
-    "item": {
-      "company": "Meet the Texas monk",
-      "amount": null,
+      "company": "World Cup final",
+      "amount": "$1.27B",
       "stage": null,
       "investors": null,
-      "location": "Washington",
+      "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/17/who-is-bhikku-pannakara-monk-texas-rescure-dog-social-media/",
+      "url": "https://fortune.com/2026/07/17/world-cup-final-biggest-ever-prediction-market-kalshi-bets-top-spain-argentina/",
       "priority": 3
     },
-    "remind_at": "2026-07-17T09:41:01.293095-07:00"
+    "remind_at": "2026-07-17T11:01:14.156773-07:00"
   },
   {
     "item": {
-      "company": "The Agents #010",
-      "amount": "$200.0M",
+      "company": "Speakeasy",
+      "amount": "$8.8M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SaaStr",
-      "url": "https://www.saastr.com/claude-became-our-ai-vp-of-product-we-moved-10-years-off-marketo-for-14-our-agent-killed-a-10k-app-in-an-hour-the-agents-010/",
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/07/speakeasy-live-experience-event-ticketing-reservations-operations-software-platform-alex-manavi/",
       "priority": 3
     },
-    "remind_at": "2026-07-17T09:41:04.211351-07:00"
-  },
-  {
-    "item": {
-      "company": "Drift funding history",
-      "amount": "$159.8M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNLXk4TnZuM3NCZVM1bURNZDAtSmtxZnRWOG00MFlWVE80SUVNS3dWYl9pNlhGNlNpQXpkQnE5Z2JlckF1Tmg1cVEwTkxpa3FSaWZCNFZwLTUzYUMyQ1F0ZG1xUHEzZ3I3WFNVZUlfdGFkSWxZclNZNUtNSDBwSzRva2IwUmkxSEVFQWVHQWRiYzRUd1ZDZXJUaEgyVDB3VUpreDIxNU0zcDRnck1LSVpSVGE1SFVQVmJBVEZLUEtORExLWVNXMVBobHE1NmFuQlNVdlVzOWtwaEFmM3NLanFDazRTNW41dzBERmpWRlNPLUpOYjB4U3JjaUNmWWFXTmJwTXdUR0dn?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-17T09:41:07.161266-07:00"
+    "remind_at": "2026-07-17T11:01:16.662579-07:00"
   }
 ]
