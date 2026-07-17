@@ -1,128 +1,116 @@
 [
   {
     "item": {
-      "company": "Horizon Trade",
-      "amount": "$2.0M",
+      "company": "Edvisor",
+      "amount": "$1.3M",
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/horizon-trade-raises-2m-pre-seed/",
+      "url": "https://www.thesaasnews.com/news/edvisor-raises-1-3m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-07-17T02:04:41.751039-07:00"
+    "remind_at": "2026-07-17T03:56:34.041719-07:00"
   },
   {
     "item": {
-      "company": "Intrinsic Power",
-      "amount": null,
+      "company": "pQCee",
+      "amount": "$3.9M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/intrinsic-power-raises-seed-funding/",
+      "url": "https://www.thesaasnews.com/news/pqcee-raises-3-9m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-07-17T02:04:45.143416-07:00"
+    "remind_at": "2026-07-17T03:56:36.320169-07:00"
   },
   {
     "item": {
-      "company": "EverSettled",
-      "amount": "$5.0M",
-      "stage": "Seed",
-      "investors": null,
+      "company": "Fireworks",
+      "amount": "$1.505B",
+      "stage": "Series D",
+      "investors": "Atreides Management, Index Ventures, and TCV to scale its specialized AI intelligence platform",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/eversettled-raises-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-17T02:04:47.717684-07:00"
-  },
-  {
-    "item": {
-      "company": "DeweyLearn",
-      "amount": "$5.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/deweylearn-raises-5m-series-a/",
+      "url": "https://www.thesaasnews.com/news/fireworks-raises-1-505b-series-d/",
       "priority": 8
     },
-    "remind_at": "2026-07-17T02:04:50.388177-07:00"
+    "remind_at": "2026-07-17T03:56:38.613336-07:00"
   },
   {
     "item": {
-      "company": "Rime picks up $24M Series A",
-      "amount": "$24.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWx2RlZBVkFXclZCTWp1NWVnWTI4c0pDeHJKRUtxWVc4blZWV0NJOHk4MlNueThvVnRGU1pUZmpjekVJdUpZV2g0TEN5WEp6VlVTQjU5cDRoN2padnlaaWpCeTY5SF92bk5IY2NEanNOZldFXzFOSDFSTUN3dlpxSkRnc1laSXJucFNRRDQyc2dLNEZKYlRBa2lIS1FFUFc2djNkTA?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-07-17T02:04:53.708325-07:00"
-  },
-  {
-    "item": {
-      "company": "Summer",
+      "company": "China just erased America's AI lead",
       "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Beijing",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus",
+      "priority": 3
+    },
+    "remind_at": "2026-07-17T03:56:42.158400-07:00"
+  },
+  {
+    "item": {
+      "company": "Pro-AI super PAC keeps $31M ready",
+      "amount": "$31.0M",
       "stage": null,
       "investors": null,
       "location": "New York",
-      "founders": [],
+      "founders": [
+        "Dario Amodei"
+      ],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/07/17/summer-smoke-season-wildfires",
+      "url": "https://www.axios.com/2026/07/17/pro-ai-super-pac-ready-midterms",
       "priority": 3
     },
-    "remind_at": "2026-07-17T02:04:56.113864-07:00"
+    "remind_at": "2026-07-17T03:56:45.072313-07:00"
   },
   {
     "item": {
-      "company": "The meetings",
-      "amount": null,
+      "company": "How Henley Vazquez",
+      "amount": "$1.0B",
       "stage": null,
       "investors": null,
-      "location": "Berlin",
+      "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/inside-htgf-family-day-new-wirtschaftswunder/",
+      "url": "https://techfundingnews.com/from-virginia-farm-to-1b-unicorn-how-henley-vazquez-raised-60m-by-rebuilding-travel-for-everyone-the-industry-wouldnt-let-in/",
       "priority": 3
     },
-    "remind_at": "2026-07-17T02:04:59.429344-07:00"
+    "remind_at": "2026-07-17T03:56:47.932625-07:00"
   },
   {
     "item": {
-      "company": "scooped \u20ac5.1M",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Grenoble",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/engo-5-1m-funding-ultra-light-ar-sports-glasses/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-17T02:05:02.740681-07:00"
-  },
-  {
-    "item": {
-      "company": "Mathesis Analytics",
-      "amount": null,
+      "company": "Ual\u00e1",
+      "amount": "$197.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/mathesis-analytics-raises-undisclosed-other/",
+      "url": "https://www.thesaasnews.com/news/uala-raises-197m-equity-financing/",
       "priority": 3
     },
-    "remind_at": "2026-07-17T02:05:05.979677-07:00"
+    "remind_at": "2026-07-17T03:56:50.091331-07:00"
+  },
+  {
+    "item": {
+      "company": "Lumin Digital",
+      "amount": "$115.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/lumin-digital-raises-115m-other-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-17T03:56:56.564105-07:00"
   }
 ]
