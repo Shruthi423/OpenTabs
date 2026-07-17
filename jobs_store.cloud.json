@@ -8259,5 +8259,41 @@
     "first_seen": "2026-07-17T11:36:19.008370-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "cd4ee8b317a4937d3d87462bfbf24d5a": {
+    "id": "cd4ee8b317a4937d3d87462bfbf24d5a",
+    "title": "Product Designer, Experience",
+    "company": "Numeric",
+    "location": "New York",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/numeric/70c9ec5a-7393-4be1-8d47-27e407485e32",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-07-17T13:47:15.106154-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "e051c311f3a798ed05b4a0d2b37e5159": {
+    "id": "e051c311f3a798ed05b4a0d2b37e5159",
+    "title": "Product Designer",
+    "company": "Arq",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/ARQ/10db429f-9eae-4631-850c-b7017e0ee9af",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-07-17T13:47:16.815491-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }

@@ -1,30 +1,58 @@
 [
   {
     "item": {
-      "company": "The Week\u2019s 10 Biggest Funding Rounds",
-      "amount": "$1.5B",
-      "stage": "Series D",
+      "company": "Inference cloud operator General Compute",
+      "amount": "$400.0M",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/",
-      "priority": 5
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/17/inference-cloud-operator-general-compute-raises-400m-debt-financing/",
+      "priority": 3
     },
-    "remind_at": "2026-07-17T13:17:28.768599-07:00"
+    "remind_at": "2026-07-17T14:17:39.201713-07:00"
   },
   {
     "item": {
-      "company": "Valar Atomics in talks",
+      "company": "SpaceX stock falls below IPO price",
+      "amount": "$8.7B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/17/spacex-stock-falls-below-ipo-price-to-123-wiping-out-1-trillion-as-short-sellers-pocket-8-7-billion/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-17T14:17:42.675475-07:00"
+  },
+  {
+    "item": {
+      "company": "Sequoia poised",
+      "amount": "$1.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EQ2NILVBfelpEZ1BXcHhnNF9ORzFMVkJKOGtqbXFJREJhTEo5ZlhDLWpBdER1Ymw5S3JwcGdzREFYQll4eWhxV2V1SUo3dFJzd0N3MlVyUVdMZURuakhpRHNZdXdyZw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-17T14:17:45.906421-07:00"
+  },
+  {
+    "item": {
+      "company": "Valar Atomics",
       "amount": "$6.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSG5BY2RHRW1IMXpZbUd4TVBQV1pTTkRzTkhNaGFWbnplNGhwQU1pckxwVXZMSERzOGtETXJOajhWajRUUHRYZl8wTElxMmo4Z29Ld002WFVwZUhVaGZVN2hDQjIzbGpCUHBwY3htNjZ4RDBLdGJYVUdMZFNsR2pBZ2RJYzJJOUczY010Z041WQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-17T13:17:32.262505-07:00"
+    "remind_at": "2026-07-17T14:17:49.164392-07:00"
   }
 ]

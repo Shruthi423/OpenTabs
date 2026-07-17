@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "job": {
+      "title": "Product Designer, Experience",
+      "company": "Numeric",
+      "location": "New York",
+      "url": "https://jobs.ashbyhq.com/numeric/70c9ec5a-7393-4be1-8d47-27e407485e32",
+      "salary": "Not listed",
+      "description": "WHY NUMERIC?\n\nEvery business relies on accounting. Yet most software in the space was built in the early 2000s: clunky, slow, and poorly suited to the complexity finance teams deal with today. Accountants are facing a growing data problem https://numeric.substack.com/p/accountings-data-problem cause",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-07-17T14:17:15.799795-07:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Arq",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/ARQ/10db429f-9eae-4631-850c-b7017e0ee9af",
+      "salary": "Not listed",
+      "description": "ABOUT ARQ\n\nARQ is one of the fastest-growing fintechs in the world. Our mission is to redefine how people interact with money across borders, building the infrastructure to move value seamlessly. We\u2019re still early in our journey, which means every person who joins shapes the future of our product, c",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-07-17T14:17:17.680254-07:00"
+  }
+]
