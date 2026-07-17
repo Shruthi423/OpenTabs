@@ -1,5 +1,35 @@
 [
   {
+    "id": "4d24ae88ee86877872998eca89f7b322",
+    "company": "Goals",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/world-cup-finalists-argentina-spain-startup-funding-data/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-17T04:51:19.591572-07:00",
+    "status": "active"
+  },
+  {
+    "id": "bd54dfc11371f6d2310e87aa9fc3cfa5",
+    "company": "Trasia Labs",
+    "amount": "$1.75M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QTm5LN1hZTWE5WFNzT2U2T3RSS3VCLU1EMmtUZGtESW5KbFRaTjZ1ZGhJendUaTJEV3JkaEgwNzZxR0FCLUFhaGJuTXZHZE5wVWZzXzlsN0Z6QWVZZXRYQmNMVTQ?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-17T04:51:17.195824-07:00",
+    "status": "active"
+  },
+  {
     "id": "2fc06b6499fe695a8563f1a1a0e89517",
     "company": "Lumin Digital",
     "amount": "$115.0M",

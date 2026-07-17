@@ -1,116 +1,30 @@
 [
   {
     "item": {
-      "company": "Edvisor",
-      "amount": "$1.3M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/edvisor-raises-1-3m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-17T03:56:34.041719-07:00"
-  },
-  {
-    "item": {
-      "company": "pQCee",
-      "amount": "$3.9M",
+      "company": "Trasia Labs",
+      "amount": "$1.75M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pqcee-raises-3-9m-seed/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QTm5LN1hZTWE5WFNzT2U2T3RSS3VCLU1EMmtUZGtESW5KbFRaTjZ1ZGhJendUaTJEV3JkaEgwNzZxR0FCLUFhaGJuTXZHZE5wVWZzXzlsN0Z6QWVZZXRYQmNMVTQ?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-17T03:56:36.320169-07:00"
+    "remind_at": "2026-07-17T05:21:16.195689-07:00"
   },
   {
     "item": {
-      "company": "Fireworks",
-      "amount": "$1.505B",
-      "stage": "Series D",
-      "investors": "Atreides Management, Index Ventures, and TCV to scale its specialized AI intelligence platform",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/fireworks-raises-1-505b-series-d/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-17T03:56:38.613336-07:00"
-  },
-  {
-    "item": {
-      "company": "China just erased America's AI lead",
+      "company": "Goals",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": "Beijing",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus",
-      "priority": 3
-    },
-    "remind_at": "2026-07-17T03:56:42.158400-07:00"
-  },
-  {
-    "item": {
-      "company": "Pro-AI super PAC keeps $31M ready",
-      "amount": "$31.0M",
-      "stage": null,
-      "investors": null,
-      "location": "New York",
-      "founders": [
-        "Dario Amodei"
-      ],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/17/pro-ai-super-pac-ready-midterms",
-      "priority": 3
-    },
-    "remind_at": "2026-07-17T03:56:45.072313-07:00"
-  },
-  {
-    "item": {
-      "company": "How Henley Vazquez",
-      "amount": "$1.0B",
-      "stage": null,
-      "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/from-virginia-farm-to-1b-unicorn-how-henley-vazquez-raised-60m-by-rebuilding-travel-for-everyone-the-industry-wouldnt-let-in/",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/world-cup-finalists-argentina-spain-startup-funding-data/",
       "priority": 3
     },
-    "remind_at": "2026-07-17T03:56:47.932625-07:00"
-  },
-  {
-    "item": {
-      "company": "Ual\u00e1",
-      "amount": "$197.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/uala-raises-197m-equity-financing/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-17T03:56:50.091331-07:00"
-  },
-  {
-    "item": {
-      "company": "Lumin Digital",
-      "amount": "$115.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/lumin-digital-raises-115m-other-growth-capital/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-17T03:56:56.564105-07:00"
+    "remind_at": "2026-07-17T05:21:18.591434-07:00"
   }
 ]
