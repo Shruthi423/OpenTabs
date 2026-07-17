@@ -8097,5 +8097,41 @@
     "first_seen": "2026-07-16T21:07:31.270173-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "df5fa56da384111c85c054c7565cdaa3": {
+    "id": "df5fa56da384111c85c054c7565cdaa3",
+    "title": "Visual Designer Graduate (Remote - Work from Anywhere) at Xapo Bank",
+    "company": "Xapo Bank",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://www.realworkfromanywhere.com/jobs/visual-designer-graduate-remote-work-from-anywhere-xapo-bank-6461",
+    "source": "RealWFA",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-07-16T23:26:53.978608-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "173af69b881c1bf61f3a33c531fb0cdd": {
+    "id": "173af69b881c1bf61f3a33c531fb0cdd",
+    "title": "Founding Product Designer OR Design Engineer",
+    "company": "Trata (W25)",
+    "location": "New York, NY, US",
+    "salary": "$125K - $200K",
+    "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D83902&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30274",
+    "source": "Y Combinator",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-07-16T23:26:55.557346-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }

@@ -1,58 +1,86 @@
 [
   {
     "item": {
-      "company": "Mike Johnson's government funding gambit",
-      "amount": "$67.0B",
-      "stage": "Extension",
+      "company": "founded by two F1 engineers",
+      "amount": "$55.0M",
+      "stage": "Seed",
       "investors": null,
-      "location": null,
+      "location": "Munich",
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/16/reconciliation-government-funding-republicans-mike-johnson",
-      "priority": 5
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/this-munich-startup-founded-by-two-f1-engineers-a-whatsapp-entrepreneur-and-an-alan-turing-researcher-just-raised-55m-in-germanys-largest-ever-seed-round/",
+      "priority": 9
     },
-    "remind_at": "2026-07-16T21:37:53.155414-07:00"
+    "remind_at": "2026-07-16T23:57:21.134233-07:00"
   },
   {
     "item": {
-      "company": "Trump threatens TV broadcast licenses",
-      "amount": "$787.0M",
-      "stage": null,
-      "investors": "chairman Brendan Carr, a Trump ally",
+      "company": "Elorian AI",
+      "amount": "$55.0M",
+      "stage": "Seed",
+      "investors": "former Google DeepMind leaders",
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/17/trump-speech-tv-broadcast-licenses",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/elorian-ai-raises-55m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-07-16T21:37:56.171873-07:00"
+    "remind_at": "2026-07-16T23:57:23.519521-07:00"
   },
   {
     "item": {
-      "company": "Trump alleges vast conspiracy",
+      "company": "Apaluma",
+      "amount": "$5.55M",
+      "stage": "Seed",
+      "investors": "Crosslink Capital and Kickstart to scale its unified government data platform for regulatory records",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/apaluma-raises-5-55m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-16T23:57:25.915922-07:00"
+  },
+  {
+    "item": {
+      "company": "Mango",
       "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/17/trump-china-election-interference-us-intelligence-claim",
-      "priority": 3
-    },
-    "remind_at": "2026-07-16T21:37:59.205072-07:00"
-  },
-  {
-    "item": {
-      "company": "that",
-      "amount": "$3.6M",
-      "stage": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNm1PRXVKNXNVU1dsNG1iTmtFR2dOSDQxa19hTlU2bVhtZk81LU16SFhBUVV2aGMzWTdWcGN6bDVsaDdWMHFjcHNCODkwWHBBMW5VRGZyU0YzellSeUdtSmttdXp4RHZYZ1U2S0ozV2tiaW1ZdlZQVlNRVTBKTnNGOTQzaVFmd01KY1FMQi1acUQ4NElVanpDLXZyWVZwOUhHdGQ2SV8takFmdHND?oc=5",
-      "priority": 3
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXdHRGhoQzhXTkVfdk4wX1JyaUFMcE9FYnppUXpKblpNbzdNQ3BZRUtqLVRtbzIzaHlIclVzcTVTMmlRaG0xQnNjSG1vUWdDOC0weWo4NGdDeDY1UGNDZ2pRbmJJYmdWQV91WllUUUU3Y1Vhak5Ua1RiUVp1TExLa3hsUGZVY05xSll4eHpzS1NfeXBpTWpaaEZVSTdHYWvSAaQBQVVfeXFMT3RlV1QwLW52c29JT2VSUUxwWHMzXy1teXZRcWRVVWNyQ2QwR0FNUHVHR0FpNFpKMVlkN1h0X1ZpZ0g3TUZDNVgxbjVCU05BM0RkSzFPM0VKNnNwYlB4b01fYWozUm9BYUdHYnRpSkxZb3l4RXR1b1N2Sy1YWkpLVUFSeUJLME1iWFlnanljc2tBWUpKemNFdUFjbURVc0UwYTZkbVU?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-07-16T21:38:01.566942-07:00"
+    "remind_at": "2026-07-16T23:57:28.303185-07:00"
+  },
+  {
+    "item": {
+      "company": "Rize",
+      "amount": "$31.0M",
+      "stage": "Series B",
+      "investors": "to expand its sustainable rice cultivation platform in Southeast Asia",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/rize-raises-31m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-07-16T23:57:31.003085-07:00"
+  },
+  {
+    "item": {
+      "company": "Fora",
+      "amount": "$60.0M",
+      "stage": "Series D",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/fora-raises-60m-series-d/",
+      "priority": 5
+    },
+    "remind_at": "2026-07-16T23:57:33.452247-07:00"
   }
 ]
