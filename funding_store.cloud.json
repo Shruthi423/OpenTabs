@@ -25249,5 +25249,35 @@
     "roles": [],
     "first_seen": "2026-07-17T15:34:29.799746-07:00",
     "status": "active"
+  },
+  "8fda20d0d8fa280e6cf5a8a84580646b": {
+    "id": "8fda20d0d8fa280e6cf5a8a84580646b",
+    "company": "Anthropic",
+    "amount": "$10.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/17/anthropic-meta-reportedly-discussing-10b-data-center-leasing-deal/",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-07-17T21:14:37.475048-07:00",
+    "status": "active"
+  },
+  "ce5045801d78ca52cf9e6468832a3398": {
+    "id": "ce5045801d78ca52cf9e6468832a3398",
+    "company": "Exclusive",
+    "amount": "$20.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVg2TzUxNl9pbW91dTA4UThIMmNkVHYxclhhQ3BmaDRCYk5EZnNqSXhkRGlxNFVoekZTSHJ4YUJRNUJreHZDOHZhYWhuZ2V5VzFYUzJycmJ5QXJDd2tWV25HR01JcHhNZWVnUndxWko0a3ZFOGlCOVY5RHlITGpyT1RoMi1BRmF3aWdJRC1YTmJJSUhHWF9wTVVMaks?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-17T21:14:39.926730-07:00",
+    "status": "active"
   }
 }
