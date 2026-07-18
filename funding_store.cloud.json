@@ -25354,5 +25354,35 @@
     "roles": [],
     "first_seen": "2026-07-18T06:03:34.592434-07:00",
     "status": "active"
+  },
+  "7173d6ca9de54e1a6446908920d3ee89": {
+    "id": "7173d6ca9de54e1a6446908920d3ee89",
+    "company": "Goldman Sachs CEO",
+    "amount": "$337.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/goldman-sachs-ceo-david-solomon-hire-someone-smart-enough-over-smartest-person-in-the-world-experience-over-brains/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-18T07:32:20.512455-07:00",
+    "status": "active"
+  },
+  "b43644e9878ebd4fe92cf8b5143d551f": {
+    "id": "b43644e9878ebd4fe92cf8b5143d551f",
+    "company": "Luma AI",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczFOdTh4TXNib2lTNlRfa0o1Y2RqSDMxNFJUekdIMWlSWDJlRzk5dV9QNDlzR19lMnQzblc4czB0NnNVaGhFWFpIMkl3U0YxSDRxdXV6WXI2c1lEUHdRb1k5dlo1RUoyejFNM2Y3bUZFLW5MM0RzemUzaDV4QzZNeTN2cDZjc2NtMGl3NW8wdi1wMEZaOHlZRDZjenh5UUJNV0NHdVpaSnplQQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-18T07:32:22.952078-07:00",
+    "status": "active"
   }
 }

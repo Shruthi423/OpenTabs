@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "U.S. soccer star Landon Donovan",
-      "amount": null,
+      "company": "Goldman Sachs CEO",
+      "amount": "$337.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/18/us-soccer-star-landon-donovan-single-mom-couldnt-afford-club-sports-fifa-world-cup/",
+      "url": "https://fortune.com/article/goldman-sachs-ceo-david-solomon-hire-someone-smart-enough-over-smartest-person-in-the-world-experience-over-brains/",
       "priority": 3
     },
-    "remind_at": "2026-07-18T06:33:33.592232-07:00"
+    "remind_at": "2026-07-18T08:02:19.512278-07:00"
+  },
+  {
+    "item": {
+      "company": "Luma AI",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczFOdTh4TXNib2lTNlRfa0o1Y2RqSDMxNFJUekdIMWlSWDJlRzk5dV9QNDlzR19lMnQzblc4czB0NnNVaGhFWFpIMkl3U0YxSDRxdXV6WXI2c1lEUHdRb1k5dlo1RUoyejFNM2Y3bUZFLW5MM0RzemUzaDV4QzZNeTN2cDZjc2NtMGl3NW8wdi1wMEZaOHlZRDZjenh5UUJNV0NHdVpaSnplQQ?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-18T08:02:21.951873-07:00"
   }
 ]
