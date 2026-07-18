@@ -8367,5 +8367,23 @@
     "first_seen": "2026-07-18T06:03:09.732712-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "4b25c52a2f0eb5deca92f7ece09d9742": {
+    "id": "4b25c52a2f0eb5deca92f7ece09d9742",
+    "title": "Founding Product Designer",
+    "company": "Pluto (W25)",
+    "location": "New York, NY, US",
+    "salary": "$100K - $140K",
+    "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D98852&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30269",
+    "source": "Y Combinator",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-07-18T10:40:01.893330-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
