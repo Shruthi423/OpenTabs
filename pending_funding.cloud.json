@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "Anthropic",
-      "amount": "$10.0B",
+      "company": "Neil Rimer thinks the AI money",
+      "amount": null,
       "stage": null,
       "investors": null,
-      "location": "New York",
+      "location": "Silicon Valley",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/17/anthropic-meta-reportedly-discussing-10b-data-center-leasing-deal/",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
       "priority": 3
     },
-    "remind_at": "2026-07-17T21:44:36.474885-07:00"
-  },
-  {
-    "item": {
-      "company": "Exclusive",
-      "amount": "$20.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVg2TzUxNl9pbW91dTA4UThIMmNkVHYxclhhQ3BmaDRCYk5EZnNqSXhkRGlxNFVoekZTSHJ4YUJRNUJreHZDOHZhYWhuZ2V5VzFYUzJycmJ5QXJDd2tWV25HR01JcHhNZWVnUndxWko0a3ZFOGlCOVY5RHlITGpyT1RoMi1BRmF3aWdJRC1YTmJJSUhHWF9wTVVMaks?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-17T21:44:38.926576-07:00"
+    "remind_at": "2026-07-17T23:50:15.563030-07:00"
   }
 ]
