@@ -25294,5 +25294,20 @@
     "roles": [],
     "first_seen": "2026-07-17T23:20:16.563197-07:00",
     "status": "active"
+  },
+  "7573cd65c63fdf4c96b538b3ef5f9a0a": {
+    "id": "7573cd65c63fdf4c96b538b3ef5f9a0a",
+    "company": "Cybercriminals",
+    "amount": "$220.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/18/world-cup-stolen-streaming-accounts/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-18T01:17:28.265810-07:00",
+    "status": "active"
   }
 }
