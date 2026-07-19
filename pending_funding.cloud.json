@@ -1,16 +1,44 @@
 [
   {
     "item": {
-      "company": "Beyond rockets and satellites",
-      "amount": "$26.0B",
+      "company": "Make it a \"hate election\"",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Washington",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/19/republicans-midterms-hate-election",
+      "priority": 3
+    },
+    "remind_at": "2026-07-19T06:33:54.522503-07:00"
+  },
+  {
+    "item": {
+      "company": "Wonder",
+      "amount": "$650.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/19/spacex-ai-compute-renting-business-google-anthropic-pentagon-deals-revenue-valuation-elon-musk-colossus-data-centers/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdmtaMnQyaVJuM1hfNVhpT2tyYkF5d3MtRGIzZ18xaUVsZ0Vjd0RaeDJVRnF3aWw0a0RjS3ZINDdyWUxScHdTcXdUTEk1enJzcEFNcWNTUTZHQmp5U08zWkdkMlU2SENjM28ySGdpQlJQa2x3T1RsZ1VIUHliOXNYRzNqQXhuTmUxN1JhM2hOTTR5S01UOXJ5NTZwTjZ2cElGczlCQnlGdTZjT3M?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-19T05:22:45.845101-07:00"
+    "remind_at": "2026-07-19T06:33:56.744443-07:00"
+  },
+  {
+    "item": {
+      "company": "Groyyo",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORF9OZkRyeWo5bE5RWDFHTU5RMjlWbGM2NGRVbW5mTEdXM09YdWs3YW90QWVZNG5Yd3pNVXNWYmxKVjNFVXA0dUxpWV9WOGR6U3VTWnhwTi1VTXk2dkxLclpBTVJVSTNhcGI1aG9ZMHNGbDhvNE5YLTJORTFsR0RTejYtWTI2ZlNVekVMRV92RHNlWnliNDdocXZPcllLdXhJRE9SWDNLUFlvcHFZNFBGdzllYjV5VG56aS1vTEZTQjdoUWtMV3VCak9YeWoyOGhkWjI3U2h1YUYtNGpMb3h1UtIB4AFBVV95cUxORF9OZkRyeWo5bE5RWDFHTU5RMjlWbGM2NGRVbW5mTEdXM09YdWs3YW90QWVZNG5Yd3pNVXNWYmxKVjNFVXA0dUxpWV9WOGR6U3VTWnhwTi1VTXk2dkxLclpBTVJVSTNhcGI1aG9ZMHNGbDhvNE5YLTJORTFsR0RTejYtWTI2ZlNVekVMRV92RHNlWnliNDdocXZPcllLdXhJRE9SWDNLUFlvcHFZNFBGdzllYjV5VG56aS1vTEZTQjdoUWtMV3VCak9YeWoyOGhkWjI3U2h1YUYtNGpMb3h1Ug?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-19T06:33:58.994197-07:00"
   }
 ]
