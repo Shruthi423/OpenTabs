@@ -25690,5 +25690,20 @@
     "roles": [],
     "first_seen": "2026-07-19T14:33:49.850888-07:00",
     "status": "active"
+  },
+  "9f456236a54649c257d8ed18f940e193": {
+    "id": "9f456236a54649c257d8ed18f940e193",
+    "company": "Spain earns $51 million",
+    "amount": "$51.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/19/spain-world-cup-prize-51-million-second-place-argentina-34-million-total-payout-tournament-871-million/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-19T16:39:34.165223-07:00",
+    "status": "active"
   }
 }
