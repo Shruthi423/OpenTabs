@@ -25564,5 +25564,56 @@
     "roles": [],
     "first_seen": "2026-07-19T07:34:52.684036-07:00",
     "status": "active"
+  },
+  "f6ec531a84429fb398703769185014ef": {
+    "id": "f6ec531a84429fb398703769185014ef",
+    "company": "Trump officials",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/19/judge-blocks-trump-grant-termination-clause/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-19T08:37:11.251002-07:00",
+    "status": "active"
+  },
+  "790322f7e53fd22f9faf090a4acb2bc8": {
+    "id": "790322f7e53fd22f9faf090a4acb2bc8",
+    "company": "Someone will pay $2.3 million",
+    "amount": "$2.3M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/18/cheapest-resale-ticket-price-world-cup-final-argentina-spain-messi-yamal/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-19T08:37:14.185741-07:00",
+    "status": "active"
+  },
+  "bb84e26d36f5c1036e7a5c30f8ffb392": {
+    "id": "bb84e26d36f5c1036e7a5c30f8ffb392",
+    "company": "Parallel",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTlxeEZwUVdaQldMZmFsM29lRlU4OVlUbVZfNHdwVGk2MHYtT1kxQkViOGNHUkNZZDhnNjJXVy1OeFhLOHBWVzI2OFZHSlpud2EyX01iNzdCSl9IN1pDTlR3ck51Y3NXd3FsNHdRQnlHTmhocEdtUUFWSUJjelZUT0hmOWVrM2V1dnpzTUtJM1E2T1JtM2Z6M0FrR2dhbE4yeFBGWUZBM2Vyaktrd0hQa3FSMG82Wl93WnRR0gHIAUFVX3lxTE9YMVdwWV9ma1YteUM5eGN6eEhFSUdqSVZPWi1lUFBoSkZ1VzJmaTRHTXVVWTdBUExiYVEwYmRlLU1DdF9vZ04zUzl6T2M5c0Z1WDQtTHNuR1BWRFM5VjNFdzFZakhXVU40SWpCdXZaV2hLSVpzeHF5c2I3WFlwWTF3Njh6dkhKby1Sc2hveFJWdGtCaHYyMy1LREk5c3oyRTctWjB0SXJjZWdZcXB6U2MtemhtakFNOG93TTRvakxQQ1RRNWJrcDRK?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco or Palo Alto",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/parallel/0231ced2-2ca8-4fb4-a105-8f81c6feab6d",
+        "location": "San Francisco or Palo Alto"
+      }
+    ],
+    "first_seen": "2026-07-19T08:37:17.938399-07:00",
+    "status": "active"
   }
 }

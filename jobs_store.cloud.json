@@ -8403,5 +8403,24 @@
     "first_seen": "2026-07-19T03:51:27.842107-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "055c5929071119e655ad648e9ede7d9c": {
+    "id": "055c5929071119e655ad648e9ede7d9c",
+    "title": "Product Designer",
+    "company": "Parallel",
+    "location": "San Francisco or Palo Alto",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/parallel/0231ced2-2ca8-4fb4-a105-8f81c6feab6d",
+    "source": "\ud83d\udcb0 Parallel (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Parallel raised a round",
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-07-19T08:37:14.919835-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
