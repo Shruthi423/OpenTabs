@@ -1,5 +1,35 @@
 [
   {
+    "id": "11900090ca2f9329e8826d2b9830767e",
+    "company": "Etched",
+    "amount": "$20.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQ2lPSkJpOG9rVDNhdWhyUFlCOVp0eGI3SDVHejR3V0tuaG5Fb0hjOHpJcVVXVllVUWVlbDA4VUtGVlJLb1k2QnpFUDE0SDYzajBXX0h0cmhNQ2hKWWJpXzE3aXU5YVFnU1dIbW4xMlVLRWJvZERFOFFjSEN3QzBzTi1vMmlleWFqZjdDM1daU2wxWTNOMWNOTGpnRjdJYWRMcXZJRHJLRC1WS0VQVEJTUTJkTkVFNi1VVVhQVzg1YWxvekExQlZnRWhfemtlQUtEQjBab05KcUFyZUdQaHZmS0ppRXAtT3hCWGl2ZG1QNElJLTR2?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-19T14:33:49.850888-07:00",
+    "status": "active"
+  },
+  {
+    "id": "365b193ef430642d0401ad7bde828cab",
+    "company": "Box office",
+    "amount": "$124.5M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/19/box-office-debut-odyssey-oppenheimer-christopher-nolan-dark-knight-rises/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-19T14:33:47.397380-07:00",
+    "status": "active"
+  },
+  {
     "id": "23345e24dd927f42b31ef8bd6a7422db",
     "company": "Quick Clean",
     "amount": "$14.0M",
