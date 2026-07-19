@@ -25615,5 +25615,35 @@
     ],
     "first_seen": "2026-07-19T08:37:17.938399-07:00",
     "status": "active"
+  },
+  "754654d44646acbd5e4c0f4407196b18": {
+    "id": "754654d44646acbd5e4c0f4407196b18",
+    "company": "FIFTH SENSE",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSXVTOWllRnpSOXRyZE5jTEF3a0h3TmMzZk9ud3Fiam5HTnZ0WklpLXYtSklSRmxZTENYaWZQbEtsc1FQSVk0UmhiM0NLSGoyNzFUdFJTdkpNNDEwX090dmJWd3dmV1lKVE9ZbW1HSE9kWXQxMjdpUjVVQ3N5eUJja2JsYmhXajdZQWFLeTBrQ3FwbHZsc19SclBLdzJXUQ?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-19T11:38:15.866926-07:00",
+    "status": "active"
+  },
+  "945afb6f531de3ce0b3b2a3cf9aa79eb": {
+    "id": "945afb6f531de3ce0b3b2a3cf9aa79eb",
+    "company": "The world",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/19/global-oil-market-post-iran-export-offsets-hormuz-new-pipline-capacity/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-19T11:38:18.958697-07:00",
+    "status": "active"
   }
 }
