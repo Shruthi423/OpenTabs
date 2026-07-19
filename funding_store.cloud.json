@@ -25474,5 +25474,20 @@
     "roles": [],
     "first_seen": "2026-07-19T03:51:52.736179-07:00",
     "status": "active"
+  },
+  "58ba222d9272c0fecdd717f53fd556b4": {
+    "id": "58ba222d9272c0fecdd717f53fd556b4",
+    "company": "Beyond rockets and satellites",
+    "amount": "$26.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/19/spacex-ai-compute-renting-business-google-anthropic-pentagon-deals-revenue-valuation-elon-musk-colossus-data-centers/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-19T04:52:46.845223-07:00",
+    "status": "active"
   }
 }
