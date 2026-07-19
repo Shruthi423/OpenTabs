@@ -1,5 +1,35 @@
 [
   {
+    "id": "9233467b576dc7242f3cd245ab1d87f0",
+    "company": "News Archives",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PTGtIVkJvX21FbFBybVNrV3hsMzdvWXBBa2cwZ09FOWNxdlVEXzNmdU04TThYSkh0a1VUY2J5Tm5iNXV3NXdDVnlxMU03YmxHLVg2MmZn?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-19T07:34:52.684036-07:00",
+    "status": "active"
+  },
+  {
+    "id": "bf15e797127dd07000e7542f6b6a613f",
+    "company": "Roam",
+    "amount": "Undisclosed",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5idWRpOFpvc2hMdjlrZ2p4SlBaU0JaRUJTSnVPVm53S25ob1lHZ2ZaSk9iMGhJcmRXb01tNmR4S0JTQW1tbGxtVDNZRG5UTUZRSjdCZldMVWdUcnNGbEtOOS1FQncycXFGVUpSZmRJTTFvZVE?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-19T07:34:49.481472-07:00",
+    "status": "active"
+  },
+  {
     "id": "38daa067228a33dda61e3bfc4b95232d",
     "company": "Groyyo",
     "amount": "Undisclosed",
