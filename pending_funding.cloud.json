@@ -1,44 +1,58 @@
 [
   {
     "item": {
-      "company": "Redefining how long\u2013and how well\u2013we live",
+      "company": "Natural",
+      "amount": "$30.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-20T13:43:24.627071-07:00"
+  },
+  {
+    "item": {
+      "company": "Over $10 million",
+      "amount": "$10.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/20/oystercatcher-conservation-national-wildlife-refuge-biologist/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-20T13:43:27.897441-07:00"
+  },
+  {
+    "item": {
+      "company": "U.S. bombs Iran",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/02/03/oracle-billionaire-larry-ellison-next-big-bet-redefining-how-long-how-well-we-live/",
+      "url": "https://fortune.com/2026/07/20/iran-us-bombing-ninth-night-kuwait-jordan-bahrain/",
       "priority": 3
     },
-    "remind_at": "2026-07-20T12:04:09.061159-07:00"
+    "remind_at": "2026-07-20T13:43:31.218935-07:00"
   },
   {
     "item": {
-      "company": "Alation",
+      "company": "The psychological traps CEOs",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcnJzX2piMkZiVF9tSHJEbWFyTG9BODVKUTVjMWZCMVhhTlRzYnR5akZ0c3VpdlpxVVdJalVDSFJBRzdPWWpXSkVnSzBEd0lUZlZQSEJUOGdrNHNyc21GNUtGLVByQ1BHSFJJN01YZG1UQUxDN1pDTVpIb3p3RHFoZUZBNUtMdmpHRk9yUEVYLVdGWnpFMWZXbUFDNHpxMUNqWldXNWktQWRsZw?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/05/28/ceos-ai-messaging-mistakes-bill-winters-low-value/",
       "priority": 3
     },
-    "remind_at": "2026-07-20T12:04:11.240517-07:00"
-  },
-  {
-    "item": {
-      "company": "Empirical Security",
-      "amount": "$25.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1FkMXA1azAtdlV5Z2RkRmNqaUZGMmtubXctRXJqWHZFdm8tc040QWxYV1NRZ3YxVEN6a0l0WVh5VkQwOE0zcjNpUW43eWpRTVIwS0VtMS1DMENKYm5ZRTNMWVM0eFpvNUFmbHBlTVZVVmR2SFEwbmJ1blNmcGZtMTM5NXFqWDcyWDhjZC0xX0x6aVQzWmhIZHZRbW1BeVFRRGx4dTBlQmdzUVZKNUE?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-20T12:04:14.157392-07:00"
+    "remind_at": "2026-07-20T13:43:34.429445-07:00"
   }
 ]
