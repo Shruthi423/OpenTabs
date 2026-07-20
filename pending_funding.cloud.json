@@ -1,30 +1,58 @@
 [
   {
     "item": {
-      "company": "LNGVTY",
-      "amount": null,
+      "company": "Infinity",
+      "amount": "$15.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSWtTOGdEdGdQcUpPcVdEYlRIV080Ni04LVc2cFgxTWtNRDlEYUxhcFNnRVZYNEcxWnVUb0pUUFkxZ0NkYXRMX1R5WG43c2x1ak1CcmNsR25pRVhlVWYzRFBScXVwdGpONkdXRjM1ZTQxVEpYaEJUdUZwWWpkSV9zWnk1M2pjOTFQYVhNQ3lFZWNrblRFYVNKZGZ5RkRKdmFEa2NLd0d6Sm50RWJ4X2pSX0ZlRWY1VHRKa3VXa2NsbC1ER3Z2ckZncmFHRmJCRU5NbFRZanFCNDR5X1M4SW9fVkVn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhS0FyRld0MGM0S0Y4cUpnRy1HbzQtNWlEM3NWc3ZtWFQxbzRmU2tudWhjcjhSdW5SM1BYUGxtb3pGVUdUSWMzQ2VGQ3hUTUlMZmVRVDlnYzFPdmV0dWVQNDJXS0RSZk8wNG04YjRXbEhlQWs?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-20T08:41:31.661578-07:00"
+    "remind_at": "2026-07-20T10:14:43.818944-07:00"
   },
   {
     "item": {
-      "company": "AI agents",
-      "amount": "$335.0M",
+      "company": "Neo Security",
+      "amount": "$100.0M",
+      "stage": null,
+      "investors": "top tier venture capitalists in Andreessen Horowitz and Bessemer Venture Partners, and saw participation from Craft Ventures and Merlin Ventures",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/20/neo-security-bags-100m-build-secure-control-layer-enterprise-ai-agents/",
+      "priority": 6
+    },
+    "remind_at": "2026-07-20T10:14:47.173732-07:00"
+  },
+  {
+    "item": {
+      "company": "Neo",
+      "amount": "$100.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aMzZJZ1ZyM01sR0g5ZmJsQmF6YUo3bThqYmgyUWVwU1JSbmtMS0xWb2Y3VWRaekxHVkxJMUFUUm9jNHlONHJmOEFSV0FTUXc5S0JmZEE1X010alVhR3ZYYWcyNGQwTUVoUzJFcGtKVHo?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-20T10:14:49.582704-07:00"
+  },
+  {
+    "item": {
+      "company": "Augury",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTG1JcnFKbnV1OWJISTNHUXRraTNlbGdGVVlzQnBTOXNoeThZWmdQam1CMTlaZzRaZ2dfOGhBUTNidTE4YVFnT3dvdHNrQ1hGUkJ4dkx6ckxiN2xlNE5uZXoxckhyYUgyNVlYcDAzNVdBUUxLU243Ry12ZUpIWm02c2swTVA1ZzRUcWZ4ZHEtMllqNG9qX3FJR2FLdUo1UzF2MVhiUFJrak5jb0g4RmhrOHpmS3BLYTVyeHc3TTdkaFVGZWtKcU1mQnpuWUxvTWJGOHQ4VWN6OXFmLVBvV1dQdHFMOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMWJWaVY0MVRyUHFRa2c2dlg3WDRObzlXVE5kanZIUDlSMjdWMDNEVWxUaURXcTdRVlEwdnp3S1U2QWpTWHEwWGxPR0RiNDBtRWk3STA1Mk1DbllRdlpwbE9MVHlmODhDdDVhejdscy1HRGFGZkxXTkxlQmU3X0ZJOURZd002RHQ2R1hhSkJyU0Y3WGppVEtpTDN3VFJsczdrTEIyUlJ0TjY?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-20T08:41:33.820330-07:00"
+    "remind_at": "2026-07-20T10:14:52.009606-07:00"
   }
 ]
