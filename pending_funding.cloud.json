@@ -1,142 +1,184 @@
 [
   {
     "item": {
-      "company": "Floaty Studio",
-      "amount": "$1.0M",
-      "stage": "Seed",
-      "investors": "Merak Capital to accelerate the development of its mobile game pipeline",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/floaty-studio-raises-1m-seed/",
-      "priority": 12
-    },
-    "remind_at": "2026-07-20T01:25:08.602033-07:00"
-  },
-  {
-    "item": {
-      "company": "Nums AI",
-      "amount": "$2.69M",
-      "stage": "Seed",
-      "investors": "Stonebridge Ventures to accelerate the development of its tabular foundation model for structured data",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/nums-ai-raises-2-69m-in-funding/",
-      "priority": 12
-    },
-    "remind_at": "2026-07-20T01:25:10.877591-07:00"
-  },
-  {
-    "item": {
-      "company": "Trasia",
-      "amount": "$1.75M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/trasia-raises-1-75m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-20T01:25:13.161729-07:00"
-  },
-  {
-    "item": {
-      "company": "DGrid AI",
-      "amount": "$5.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/dgrid-ai-raises-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-20T01:25:15.425047-07:00"
-  },
-  {
-    "item": {
-      "company": "Vorflux",
-      "amount": "$15.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/vorflux-raises-15m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-20T01:25:17.723421-07:00"
-  },
-  {
-    "item": {
-      "company": "Othor AI",
+      "company": "BeCertain",
       "amount": null,
-      "stage": "Bridge",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/othor-ai-raises-60l-other/",
-      "priority": 6
+      "url": "https://www.thesaasnews.com/news/becertain-raises-1-7m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-07-20T01:25:20.014853-07:00"
+    "remind_at": "2026-07-20T04:16:44.150482-07:00"
   },
   {
     "item": {
-      "company": "From research project",
+      "company": "Striga",
       "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/striga-raises-1m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-20T04:16:46.701598-07:00"
+  },
+  {
+    "item": {
+      "company": "Golden Host",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "Al Arab REIT for Investment to expand its services and technology",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/golden-host-raises-seven-figure-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-20T04:16:50.067310-07:00"
+  },
+  {
+    "item": {
+      "company": "Lamp",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/lamp-raises-350m-series-a-extension/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-20T04:16:52.588045-07:00"
+  },
+  {
+    "item": {
+      "company": "RedBear AI",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/redbear-ai-raises-hundreds-of-millions-series-a-extension/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-20T04:16:55.158778-07:00"
+  },
+  {
+    "item": {
+      "company": "Kuzen Co.",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/kuzen-co-ltd-raises-1-63-billion-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-07-20T04:16:57.720692-07:00"
+  },
+  {
+    "item": {
+      "company": "Meshy",
+      "amount": "$400.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/meshy-raises-400m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-07-20T04:17:00.197235-07:00"
+  },
+  {
+    "item": {
+      "company": "The VC who backed Spotify",
+      "amount": "$300.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/prior-labs-sap-acquisition-1b-ai-tabular-models/",
+      "url": "https://techfundingnews.com/the-vc-who-backed-spotify-revolut-and-airbnb-just-closed-a-300m-defence-fund/",
       "priority": 3
     },
-    "remind_at": "2026-07-20T01:25:22.995252-07:00"
+    "remind_at": "2026-07-20T04:17:03.528364-07:00"
   },
   {
     "item": {
-      "company": "Crypto.com",
-      "amount": "$400.0M",
+      "company": "Databricks",
+      "amount": "$188.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/databricks-raises-at-188b-as-coatues-enterprise-ai-governance-play-outpaces-the-models-underneath-it/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-20T04:17:05.976645-07:00"
+  },
+  {
+    "item": {
+      "company": "Nebius",
+      "amount": "$775.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/crypto-com-raises-400m-other/",
+      "url": "https://www.thesaasnews.com/news/nebius-raises-775m-debt-financing/",
       "priority": 3
     },
-    "remind_at": "2026-07-20T01:25:25.153171-07:00"
+    "remind_at": "2026-07-20T04:17:10.264257-07:00"
   },
   {
     "item": {
-      "company": "SiftMed",
-      "amount": null,
+      "company": "Self Inspection",
+      "amount": "$10.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/siftmed-raises-undisclosed-unknown/",
+      "url": "https://www.thesaasnews.com/news/self-inspection-raises-10m-strategic/",
       "priority": 3
     },
-    "remind_at": "2026-07-20T01:25:27.416707-07:00"
+    "remind_at": "2026-07-20T04:17:13.698058-07:00"
   },
   {
     "item": {
-      "company": "Slack",
+      "company": "Bezos",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlpXY0Y1dXRGeWdkZE1DMDdYTmhPek1uTFJOaGljQlE1Vzk4NUFRME11T0RPYXZVX2M4SFVMS1NRVmxjSlFGUENjYXdUcV9BblA5ekNfaHRybW55RTl1Uld4bDZNVHY1TXhTZEdrV1hPdkdJMmRMQzl1ZmI2bEdpR01aZUpmUFlSMldxZnpOVDBsRFl0YXpSUDJwaGxPbnA3Qm9aZ21yNA?oc=5",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU0VtLUhlUGpqNi1ER2pjVHZqcmpFR21vdm1tTDRwY2xPUWJjMWROMkxXeEFwOTVBZTNyQkFDUG1veHFwMVpOSTl4aWJYMUNyM09nSWJiSldvWmVCT3E4UVlFNnZpbG9ZenZZZTByR2NnWjhxcnZQVmh2TFg4TTd3azFidTVuZ185Y280RkM4QmN5SlVqVWNMWUw0RThyNnd0TG5PcngyV0xnUWRmSHBRS1J0RWdpS0QtVnQ1cTFSdDZneVpKc3ROV3hwWUNmY0hOS19B?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-20T01:25:29.690310-07:00"
+    "remind_at": "2026-07-20T04:17:16.247704-07:00"
+  },
+  {
+    "item": {
+      "company": "Plazzar",
+      "amount": "$15.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMVVRQVdRX1hfbGhtNFNpUjVaSlM4U0gwNV9VdkdOd2p1Q1lpbENod3MwemR1Z1BiOWRLZkdpaThoWUg3bG1kOER5UUFCd01HUEszR2UwOHpwRE9ZM2NQV19jSWRaTVhicGRfM2F1eWhPZnhaRDAzQzNKQmN6cWc4aVc4U0phQ3MtVnVtNVBjb0dkbEEwREQ4bk1FcncwZUNGbkkzQjZJaXVJNXdSaUl4MjlKM3p3cXJ6YnZuSG9XX3paaUI0SjR4dUkzUWw5WjBqTnVEd09R0gHWAUFVX3lxTE4xVVFBV1FfWF9saG00U2lSNVpKUzhTSDA1X1V2R053anVDWWlsQ2h3czB6ZHVnUGI5ZEtmR2lpOGhZSDdsbWQ4RHlRQUJ3TUdQSzNHZTA4enBET1kzY1BXX2NJZFpNWGJwZF8zYXV5aE9meFpEMDNDM0pCY3pxZzhpVzhTSmFDcy1WdW01UGNvR2RsQTBERDhuTUVydzBlQ0ZuSTNCNklpdUk1d1JpSXgyOUozendxcnpidm5Ib1dfelppQjRKNHh1STNRbDlaMGpOdUR3T1E?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-20T04:17:18.675396-07:00"
   }
 ]
