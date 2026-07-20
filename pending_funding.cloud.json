@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "CuspAI",
-      "amount": "$450.0M",
-      "stage": "Series B",
+      "company": "LNGVTY",
+      "amount": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR3hrT0Y0a0hKdG9rVlBHeTNDZDdPTHppUFRuQUlFa2U3aElzSllGYlc1dnJmdUxRZkdrRkROUF9hbF9Sa05EQ01uVEJUalc3Q01YMnpXNktNY2N1TFFhN05zVDc0SW9WdU9HNkFsUlY1ckNfTlROajZDSnV6R3N3bzExZw?oc=5",
-      "priority": 7
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSWtTOGdEdGdQcUpPcVdEYlRIV080Ni04LVc2cFgxTWtNRDlEYUxhcFNnRVZYNEcxWnVUb0pUUFkxZ0NkYXRMX1R5WG43c2x1ak1CcmNsR25pRVhlVWYzRFBScXVwdGpONkdXRjM1ZTQxVEpYaEJUdUZwWWpkSV9zWnk1M2pjOTFQYVhNQ3lFZWNrblRFYVNKZGZ5RkRKdmFEa2NLd0d6Sm50RWJ4X2pSX0ZlRWY1VHRKa3VXa2NsbC1ER3Z2ckZncmFHRmJCRU5NbFRZanFCNDR5X1M4SW9fVkVn?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-07-20T06:28:16.731172-07:00"
+    "remind_at": "2026-07-20T08:41:31.661578-07:00"
   },
   {
     "item": {
-      "company": "The American Dream according",
-      "amount": null,
+      "company": "AI agents",
+      "amount": "$335.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/20/american-dream-bill-ackman-investing-pershing-square-new-york-city/",
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTG1JcnFKbnV1OWJISTNHUXRraTNlbGdGVVlzQnBTOXNoeThZWmdQam1CMTlaZzRaZ2dfOGhBUTNidTE4YVFnT3dvdHNrQ1hGUkJ4dkx6ckxiN2xlNE5uZXoxckhyYUgyNVlYcDAzNVdBUUxLU243Ry12ZUpIWm02c2swTVA1ZzRUcWZ4ZHEtMllqNG9qX3FJR2FLdUo1UzF2MVhiUFJrak5jb0g4RmhrOHpmS3BLYTVyeHc3TTdkaFVGZWtKcU1mQnpuWUxvTWJGOHQ4VWN6OXFmLVBvV1dQdHFMOA?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-20T06:28:19.814444-07:00"
-  },
-  {
-    "item": {
-      "company": "SentinelOne veterans",
-      "amount": "$100.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ESGxJN0tYUUh3RnN0d2trMGcweTFTYTBXRXltck9mc29KSHRRRkhUcElNS0dwclMtOXBvUkZGaUFBcFRKOGVURlc2MXdJNElJTzVGSEI0cTdrN29kR19SQ0tCTTh5bjRV?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-20T06:28:22.661946-07:00"
+    "remind_at": "2026-07-20T08:41:33.820330-07:00"
   }
 ]
