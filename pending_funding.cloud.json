@@ -1,184 +1,44 @@
 [
   {
     "item": {
-      "company": "BeCertain",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/becertain-raises-1-7m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-20T04:16:44.150482-07:00"
-  },
-  {
-    "item": {
-      "company": "Striga",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/striga-raises-1m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-20T04:16:46.701598-07:00"
-  },
-  {
-    "item": {
-      "company": "Golden Host",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "Al Arab REIT for Investment to expand its services and technology",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/golden-host-raises-seven-figure-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-20T04:16:50.067310-07:00"
-  },
-  {
-    "item": {
-      "company": "Lamp",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/lamp-raises-350m-series-a-extension/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-20T04:16:52.588045-07:00"
-  },
-  {
-    "item": {
-      "company": "RedBear AI",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/redbear-ai-raises-hundreds-of-millions-series-a-extension/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-20T04:16:55.158778-07:00"
-  },
-  {
-    "item": {
-      "company": "Kuzen Co.",
-      "amount": null,
+      "company": "CuspAI",
+      "amount": "$450.0M",
       "stage": "Series B",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kuzen-co-ltd-raises-1-63-billion-series-b/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR3hrT0Y0a0hKdG9rVlBHeTNDZDdPTHppUFRuQUlFa2U3aElzSllGYlc1dnJmdUxRZkdrRkROUF9hbF9Sa05EQ01uVEJUalc3Q01YMnpXNktNY2N1TFFhN05zVDc0SW9WdU9HNkFsUlY1ckNfTlROajZDSnV6R3N3bzExZw?oc=5",
       "priority": 7
     },
-    "remind_at": "2026-07-20T04:16:57.720692-07:00"
+    "remind_at": "2026-07-20T06:28:16.731172-07:00"
   },
   {
     "item": {
-      "company": "Meshy",
-      "amount": "$400.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/meshy-raises-400m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-07-20T04:17:00.197235-07:00"
-  },
-  {
-    "item": {
-      "company": "The VC who backed Spotify",
-      "amount": "$300.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/the-vc-who-backed-spotify-revolut-and-airbnb-just-closed-a-300m-defence-fund/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-20T04:17:03.528364-07:00"
-  },
-  {
-    "item": {
-      "company": "Databricks",
-      "amount": "$188.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/databricks-raises-at-188b-as-coatues-enterprise-ai-governance-play-outpaces-the-models-underneath-it/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-20T04:17:05.976645-07:00"
-  },
-  {
-    "item": {
-      "company": "Nebius",
-      "amount": "$775.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/nebius-raises-775m-debt-financing/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-20T04:17:10.264257-07:00"
-  },
-  {
-    "item": {
-      "company": "Self Inspection",
-      "amount": "$10.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/self-inspection-raises-10m-strategic/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-20T04:17:13.698058-07:00"
-  },
-  {
-    "item": {
-      "company": "Bezos",
+      "company": "The American Dream according",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU0VtLUhlUGpqNi1ER2pjVHZqcmpFR21vdm1tTDRwY2xPUWJjMWROMkxXeEFwOTVBZTNyQkFDUG1veHFwMVpOSTl4aWJYMUNyM09nSWJiSldvWmVCT3E4UVlFNnZpbG9ZenZZZTByR2NnWjhxcnZQVmh2TFg4TTd3azFidTVuZ185Y280RkM4QmN5SlVqVWNMWUw0RThyNnd0TG5PcngyV0xnUWRmSHBRS1J0RWdpS0QtVnQ1cTFSdDZneVpKc3ROV3hwWUNmY0hOS19B?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/20/american-dream-bill-ackman-investing-pershing-square-new-york-city/",
       "priority": 3
     },
-    "remind_at": "2026-07-20T04:17:16.247704-07:00"
+    "remind_at": "2026-07-20T06:28:19.814444-07:00"
   },
   {
     "item": {
-      "company": "Plazzar",
-      "amount": "$15.0M",
+      "company": "SentinelOne veterans",
+      "amount": "$100.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMVVRQVdRX1hfbGhtNFNpUjVaSlM4U0gwNV9VdkdOd2p1Q1lpbENod3MwemR1Z1BiOWRLZkdpaThoWUg3bG1kOER5UUFCd01HUEszR2UwOHpwRE9ZM2NQV19jSWRaTVhicGRfM2F1eWhPZnhaRDAzQzNKQmN6cWc4aVc4U0phQ3MtVnVtNVBjb0dkbEEwREQ4bk1FcncwZUNGbkkzQjZJaXVJNXdSaUl4MjlKM3p3cXJ6YnZuSG9XX3paaUI0SjR4dUkzUWw5WjBqTnVEd09R0gHWAUFVX3lxTE4xVVFBV1FfWF9saG00U2lSNVpKUzhTSDA1X1V2R053anVDWWlsQ2h3czB6ZHVnUGI5ZEtmR2lpOGhZSDdsbWQ4RHlRQUJ3TUdQSzNHZTA4enBET1kzY1BXX2NJZFpNWGJwZF8zYXV5aE9meFpEMDNDM0pCY3pxZzhpVzhTSmFDcy1WdW01UGNvR2RsQTBERDhuTUVydzBlQ0ZuSTNCNklpdUk1d1JpSXgyOUozendxcnpidm5Ib1dfelppQjRKNHh1STNRbDlaMGpOdUR3T1E?oc=5",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ESGxJN0tYUUh3RnN0d2trMGcweTFTYTBXRXltck9mc29KSHRRRkhUcElNS0dwclMtOXBvUkZGaUFBcFRKOGVURlc2MXdJNElJTzVGSEI0cTdrN29kR19SQ0tCTTh5bjRV?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-20T04:17:18.675396-07:00"
+    "remind_at": "2026-07-20T06:28:22.661946-07:00"
   }
 ]
