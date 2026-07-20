@@ -1,16 +1,142 @@
 [
   {
     "item": {
-      "company": "Plazza",
+      "company": "Floaty Studio",
+      "amount": "$1.0M",
+      "stage": "Seed",
+      "investors": "Merak Capital to accelerate the development of its mobile game pipeline",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/floaty-studio-raises-1m-seed/",
+      "priority": 12
+    },
+    "remind_at": "2026-07-20T01:25:08.602033-07:00"
+  },
+  {
+    "item": {
+      "company": "Nums AI",
+      "amount": "$2.69M",
+      "stage": "Seed",
+      "investors": "Stonebridge Ventures to accelerate the development of its tabular foundation model for structured data",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/nums-ai-raises-2-69m-in-funding/",
+      "priority": 12
+    },
+    "remind_at": "2026-07-20T01:25:10.877591-07:00"
+  },
+  {
+    "item": {
+      "company": "Trasia",
+      "amount": "$1.75M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/trasia-raises-1-75m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-20T01:25:13.161729-07:00"
+  },
+  {
+    "item": {
+      "company": "DGrid AI",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/dgrid-ai-raises-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-20T01:25:15.425047-07:00"
+  },
+  {
+    "item": {
+      "company": "Vorflux",
+      "amount": "$15.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/vorflux-raises-15m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-20T01:25:17.723421-07:00"
+  },
+  {
+    "item": {
+      "company": "Othor AI",
+      "amount": null,
+      "stage": "Bridge",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/othor-ai-raises-60l-other/",
+      "priority": 6
+    },
+    "remind_at": "2026-07-20T01:25:20.014853-07:00"
+  },
+  {
+    "item": {
+      "company": "From research project",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU3VfSkVSMjVzSFFTcEkwMWZrWVBFRmJYc3hTUl9iYnZqNFNpSVQzZ3hKTzZmaXluVzBXZUpKRE1hMkhTdmFyNi1TRVRhLXlnY2ZHZlVVM0tNd3ZXd3I3Tlh1MGFZYml5TGxrQlJfM1VLVVhRczA2WkJNRGV6T3ptWTItYkxlLU9MR0Rhd3prRUIydkJacGFKMjBBdExWLUlYeHVxeHNwT05RYnNTTmJLQVh2TDdNUWVhNkZnUHZB0gG-AUFVX3lxTE5TdV9KRVIyNXNIUVNwSTAxZmtZUEVGYlhzeFNSX2Jidmo0U2lJVDNneEpPNmZpeW5XMFdlSkpETWEySFN2YXI2LVNFVGEteWdjZkdmVVUzS013dld3cjdOWHUwYVliaXlMbGtCUl8zVUtVWFFzMDZaQk1EZXpPem1ZMi1iTGUtT0xHRGF3emtFQjJ2QlpwYUoyMEF0TFYtSVh4dXF4c3BPTlFic1NOYktBWHZMN01RZWE2RmdQdkE?oc=5",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/prior-labs-sap-acquisition-1b-ai-tabular-models/",
       "priority": 3
     },
-    "remind_at": "2026-07-19T22:23:40.346413-07:00"
+    "remind_at": "2026-07-20T01:25:22.995252-07:00"
+  },
+  {
+    "item": {
+      "company": "Crypto.com",
+      "amount": "$400.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/crypto-com-raises-400m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-20T01:25:25.153171-07:00"
+  },
+  {
+    "item": {
+      "company": "SiftMed",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/siftmed-raises-undisclosed-unknown/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-20T01:25:27.416707-07:00"
+  },
+  {
+    "item": {
+      "company": "Slack",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlpXY0Y1dXRGeWdkZE1DMDdYTmhPek1uTFJOaGljQlE1Vzk4NUFRME11T0RPYXZVX2M4SFVMS1NRVmxjSlFGUENjYXdUcV9BblA5ekNfaHRybW55RTl1Uld4bDZNVHY1TXhTZEdrV1hPdkdJMmRMQzl1ZmI2bEdpR01aZUpmUFlSMldxZnpOVDBsRFl0YXpSUDJwaGxPbnA3Qm9aZ21yNA?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-20T01:25:29.690310-07:00"
   }
 ]
