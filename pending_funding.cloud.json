@@ -1,44 +1,142 @@
 [
   {
     "item": {
-      "company": "Trump-backed hopeful",
-      "amount": null,
+      "company": "Bluecore Energy",
+      "amount": "$10.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
+      "priority": 10
+    },
+    "remind_at": "2026-07-21T08:31:47.024308-07:00"
+  },
+  {
+    "item": {
+      "company": "Photon Queue",
+      "amount": "$4.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/21/photon-queue-raises-4m-seed-round-to-advance-quantum-memory-for-next-generation-quantum-computing/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-21T08:31:49.928699-07:00"
+  },
+  {
+    "item": {
+      "company": "Gritt",
+      "amount": "$26.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wcG5LU01zYWJSVUhUM3FjVFRUZWlPZDB2YUc1cVB0em5HT0d6TTczUU9iVFRRQll2VGYwYmV6VUM4eklleHQwX3pQeVg1ei1zTWNTVUt6cXA5RGpHdXVoVUlXeGRNclZwRHQzQWl6YlF5RGdOMUQ0d0VSc3VDZw?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-21T08:31:52.089906-07:00"
+  },
+  {
+    "item": {
+      "company": "Humanoid",
+      "amount": "$152.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ21na2dsUExBNUd4MFFkZ1hJYlI3dHdhLWpiOFVxdm5kd0xYd0pBLWtUNzV4X1pqVklZMmhlbm5aREdyelFXSWFJdnZ3WkMxdFB2ZURtbnAyYldObVVudnc4T28xVlp1Q2F5Q2tRZmVZb2tUc0c5cVhoQm1hOW5rcFZxSDZxZzBiNjgyZmxuOHhXc1Bzc18xSGI5UU5WNVZvbWZNTmJqeG8yZFE2MlhSdXNwVlI3Y04waXZIVzhaTlpLOWFzUVRtRGl6TWlfUFA4NjdLYnVrWnBZNXJ1WnlQZEQwUlVoUTdIYUlwd0Q2a3hOd2p2U0kweEdkSFbSAYICQVVfeXFMTjZmS3Jkdm1sc2FxMm1NekRDRE9uMV9mNjVxMFlEcTBiOUt6aGdFQzBvRTR3MWxRV09kSFFRRE9SMFAtS2Z5Nl84V1FDRmFSN19nd1ctcWxjZkRQbVhrV2lmU3lsNWRhQlhNWlJwZGV1dzR6ME5yNUgyOW9CTktoOHUwVWQwUllYdVJaMkQtQ1Z2WHY1ZkxLSmVjS1pQMVFOQTVvUk9RRENjRnhEUldPbkY1RDM3R1RUNFhtRlZLbkpqX0NFU2pxdldXcWFqWjRsOEZUay03VzNmOHlVOENEZkZDTDkyNUFlcjhHZEozdXV5R0dQRXBUREU1R2hOaHhzeXZB?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-21T08:31:54.311748-07:00"
+  },
+  {
+    "item": {
+      "company": "Hilo",
+      "amount": "$19.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/hilo-raises-19m-series-b-extension-for-fitbit-style-blood-pressure-health-system-can-it-replace-145-year-old-cuff-technology/",
+      "priority": 7
+    },
+    "remind_at": "2026-07-21T08:31:56.855812-07:00"
+  },
+  {
+    "item": {
+      "company": "HUD suspends disaster funding",
+      "amount": "$1.3B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/21/byron-donalds-ai-data-centers-florida-desantis/",
+      "url": "https://fortune.com/2026/07/21/hud-suspends-us-virgin-islands-housing-disaster-funding/",
       "priority": 3
     },
-    "remind_at": "2026-07-21T06:26:48.906208-07:00"
+    "remind_at": "2026-07-21T08:32:00.086334-07:00"
   },
   {
     "item": {
-      "company": "Anthropic",
-      "amount": "$1.5B",
+      "company": "Vikk AI",
+      "amount": "$4.2M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/21/anthropic-reaches-landmark-1-5-billion-settlement-over-claude-ai-training-on-copyrighted-books/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/21/legal-ai-startup-vikk-ai-raises-4-2m-build-lawyer-ads-inside-ai-search/",
       "priority": 3
     },
-    "remind_at": "2026-07-21T06:26:51.218203-07:00"
+    "remind_at": "2026-07-21T08:32:02.248089-07:00"
   },
   {
     "item": {
-      "company": "Cascade",
-      "amount": "$3.5M",
+      "company": "Gritt",
+      "amount": "$32.4M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOXBoaGZMOTMzenlZek9DMmNzUU5pOEFCZi0teWlWeTZYR3FHSXRwMWpabXdWR3ZTZ0Z2ZDZzTVFjTnRSdzN0OTd1YnQzdXBWM2ZPZlc4WWtVTGk5eEpjMFZXdGcxcElzVDcwQjdIeXNQMFFlSEU2eHdvM0FmN3Vob2pIT3dPWktITHl5dWhwdHk?oc=5",
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWpQZXVVZDAyWWpTN05INVZ0Ukw2RTRxX1dRbUItQV9ScGFWVnZiSEItWVR1cWU0U3haOWFIT3ZOVW5pOTZWcDB3OUJvNGdsdFBid0UxR3JkaWFPSkQ4aE44M1lnMFc5TEhnQmdlVU5FaHVMR0o1VnJlWDIyb0JKVXl6SmRhSDBZeDJpdldFX3hWQk1QSW1keU52NNIBmwFBVV95cUxPWWpQZXVVZDAyWWpTN05INVZ0Ukw2RTRxX1dRbUItQV9ScGFWVnZiSEItWVR1cWU0U3haOWFIT3ZOVW5pOTZWcDB3OUJvNGdsdFBid0UxR3JkaWFPSkQ4aE44M1lnMFc5TEhnQmdlVU5FaHVMR0o1VnJlWDIyb0JKVXl6SmRhSDBZeDJpdldFX3hWQk1QSW1keU52NA?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-21T06:26:53.514568-07:00"
+    "remind_at": "2026-07-21T08:32:04.399327-07:00"
+  },
+  {
+    "item": {
+      "company": "Gritt Robotics",
+      "amount": "$34.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmJ2ZmVoV1QwcXNRLXNBc0ZxN2JrVzlTYmMxTFJQQ2dyQWlCankwSUh5Qm5DNFV1dGh1U0lkS3hQSHA0UjJ5MzgwWFFfN2xWT2hia3g0RFdrTTk4T3dKcFRUSmp3WktYNEZncEhLTFdXZTJrVXBpQmZNRVo5Y1M5UkhhY2Q0OUIyOWt0U3RaYzBueW5zUUxzUGtxdWE?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-21T08:32:07.319429-07:00"
+  },
+  {
+    "item": {
+      "company": "Berlin's Deutsche Sanierungsberatung",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Berlin",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYjFQYzBMWFFYNk8zcWo2SDBsZGNBV1VSYU5PVy1PT3VWYTM0OE56VVJ2SEtPTVlBQ3hGUENLdDJBbm5nSVd0aVdhbHRpSDhfOUlWSDQ3NGh2aWd0dHFCSUpDdFBaZ0dQaDRPSVlLWlZ0aVlZcnZBN3VYRlE2aFlJRU45ZnhkVngtMmFXWFVYbHFUU3NfT2E3SE9qQUVXVUhkcmZpTzhqMkhvWEhrZ2l2MkppdlZVcUxiSGlxelJtNzZHNzN3UkRfRTNfQUNab0lzaDUxaEIyYTNXQVVnSWRROVR3?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-21T08:32:10.213703-07:00"
   }
 ]
