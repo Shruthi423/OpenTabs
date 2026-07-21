@@ -1,58 +1,130 @@
 [
   {
     "item": {
-      "company": "Stonemason",
+      "company": "Exmore",
       "amount": null,
-      "stage": "Pre-Seed",
+      "stage": "Seed",
+      "investors": "Oikaze Ventures to expand its SuguDesk AI chat platform for streamlining administrative operations in medical clinics",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/exmore-secures-seed-funding-round/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-21T05:00:04.486853-07:00"
+  },
+  {
+    "item": {
+      "company": "Infinity.inc",
+      "amount": "$15.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/stonemason-raises-pre-seed-funding-to-build-a-portfolio-of-software-companies/",
-      "priority": 10
+      "url": "https://www.thesaasnews.com/news/infinity-inc-raises-15m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-07-21T03:11:02.764678-07:00"
+    "remind_at": "2026-07-21T05:00:07.599163-07:00"
   },
   {
     "item": {
-      "company": "RealAI",
-      "amount": null,
-      "stage": "Series B",
+      "company": "GreenVibe",
+      "amount": "$12.0M",
+      "stage": "Seed",
       "investors": null,
-      "location": "Funding Beijing",
+      "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/realai-raises-hundreds-of-millions-of-yuan-series-b/",
-      "priority": 7
+      "url": "https://www.thesaasnews.com/news/greenvibe-raises-12m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-07-21T03:11:05.165187-07:00"
+    "remind_at": "2026-07-21T05:00:11.356278-07:00"
   },
   {
     "item": {
-      "company": "\u2018Sometimes those jobs you want",
-      "amount": "$5.0B",
+      "company": "Closing The Series A Gap",
+      "amount": "$643.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [
+        "In The"
+      ],
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-21T05:00:14.729425-07:00"
+  },
+  {
+    "item": {
+      "company": "SkyPilot",
+      "amount": "$20.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/21/netskope-ceo-sanjay-beri-5-billion-gen-z-networking-jobs-never-published/",
+      "url": "https://fortune.com/2026/07/21/skypilot-from-databricks-cofounder-raises-20m-to-be-the-switzerland-of-ai-compute/",
       "priority": 3
     },
-    "remind_at": "2026-07-21T03:11:08.343918-07:00"
+    "remind_at": "2026-07-21T05:00:17.130357-07:00"
   },
   {
     "item": {
-      "company": "Prodlane",
+      "company": "Shipping transits slow",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/prodlane-raises-4m-other/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/21/shipping-transits-slow-trickle-strait-of-hormuz-faces-worst-case-scenario/",
       "priority": 3
     },
-    "remind_at": "2026-07-21T03:11:10.576997-07:00"
+    "remind_at": "2026-07-21T05:00:21.697356-07:00"
+  },
+  {
+    "item": {
+      "company": "Money talks\u2014as the\u00a0Iran\u00a0war continues",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/21/money-talks-as-iran-war-continues-options-for-strait-of-hormuz-are-coalescing-around-one-solution-tolls/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-21T05:00:25.660283-07:00"
+  },
+  {
+    "item": {
+      "company": "Born in India",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/uk-cabinet-ai-minister-kanishka-narayan/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-21T05:00:30.234395-07:00"
+  },
+  {
+    "item": {
+      "company": "Stripe rival Natural",
+      "amount": "$30.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/stripe-rival-natural-raises-30m-just-193-days-after-launch-to-build-the-payments-stack-for-ai-agents/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-21T05:00:35.351151-07:00"
   }
 ]
