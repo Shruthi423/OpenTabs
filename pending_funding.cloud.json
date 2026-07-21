@@ -1,72 +1,58 @@
 [
   {
     "item": {
-      "company": "Beatsquares",
-      "amount": "$2.0M",
-      "stage": "Seed",
-      "investors": "IBB Ventures and XTR Capital to scale its AI platform for automated editorial content repurposing",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/beatsquares-raises-2m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-21T00:43:57.380104-07:00"
-  },
-  {
-    "item": {
-      "company": "Sonata",
-      "amount": "$7.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sonata-raises-7m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-21T00:43:59.800644-07:00"
-  },
-  {
-    "item": {
-      "company": "BetHog",
-      "amount": "$10.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/bethog-raises-10m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-21T00:44:11.875846-07:00"
-  },
-  {
-    "item": {
-      "company": "Travel Tech Firm 30 Sundays",
+      "company": "Stonemason",
       "amount": null,
-      "stage": "Series A",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2REQ090aEhDOC02aUJ6Qk1kWHJ3dFp2Wl9TM2pMY3NVYXNDcXU5R0p1R2dVOEY1NmNwTTF5U2VBbWxzU1JfTnNpY2xMTHRNTzU5bEdYWWNvMHdYSWt1R2lpUjB6R3Y3NFM2YzBCTFAtMDdaLXl6em1aRTZiVGJ6RGJrWXlPR25ieXRENV9CYjZVWHZwYnJhMzBuV2x5dkN5ejR5TA?oc=5",
-      "priority": 8
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/stonemason-raises-pre-seed-funding-to-build-a-portfolio-of-software-companies/",
+      "priority": 10
     },
-    "remind_at": "2026-07-21T00:44:15.103218-07:00"
+    "remind_at": "2026-07-21T03:11:02.764678-07:00"
   },
   {
     "item": {
-      "company": "Ant International",
-      "amount": "$1.2B",
-      "stage": null,
-      "investors": "including Ant Group and Alibaba to expand its global fintech payment services",
-      "location": null,
+      "company": "RealAI",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": "Funding Beijing",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ant-international-raises-1-2b-growth-capital/",
+      "url": "https://www.thesaasnews.com/news/realai-raises-hundreds-of-millions-of-yuan-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-07-21T03:11:05.165187-07:00"
+  },
+  {
+    "item": {
+      "company": "\u2018Sometimes those jobs you want",
+      "amount": "$5.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/21/netskope-ceo-sanjay-beri-5-billion-gen-z-networking-jobs-never-published/",
       "priority": 3
     },
-    "remind_at": "2026-07-21T00:44:18.069732-07:00"
+    "remind_at": "2026-07-21T03:11:08.343918-07:00"
+  },
+  {
+    "item": {
+      "company": "Prodlane",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/prodlane-raises-4m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-21T03:11:10.576997-07:00"
   }
 ]
