@@ -27060,5 +27060,22 @@
     "roles": [],
     "first_seen": "2026-07-21T14:46:46.773447-07:00",
     "status": "active"
+  },
+  "cf93e41cdf435b6c07880442bc49bb3e": {
+    "id": "cf93e41cdf435b6c07880442bc49bb3e",
+    "company": "Lawmaker asks SEC",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "protection concerns",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/21/trump-truth-social-api-posts",
+    "priority": 3,
+    "founders": [
+      "Kevin Mc"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-21T15:49:50.971309-07:00",
+    "status": "active"
   }
 }
