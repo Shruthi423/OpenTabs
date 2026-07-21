@@ -1,30 +1,44 @@
 [
   {
     "item": {
-      "company": "Colossal Biosciences reportedly in talks",
+      "company": "Nums AI",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45eXhtazZXU2xwMHdIZFU5SjhkU3hubEt1NVB5eWVUdFV1TkU3aTRmQ2J3d1ZJMDFsc3M1Z2RReGlfX1ljSzJ0TFBTRnhUV1dTZU55YkpIQkI3c3A1S21vbDIyczdxTnk4dzlLWTdET21MTDhyRlE?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-20T22:01:26.041810-07:00"
+  },
+  {
+    "item": {
+      "company": "Anthropic settles",
+      "amount": "$1.5B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/20/anthropic-settles-authors-publishers-1-5-billion-landmark-copyright-case/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-20T22:01:28.945707-07:00"
+  },
+  {
+    "item": {
+      "company": "U.S.",
       "amount": "$20.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/20/trump-tariffs-canada-trade-war",
       "priority": 3
     },
-    "remind_at": "2026-07-20T18:38:18.341251-07:00"
-  },
-  {
-    "item": {
-      "company": "Sensesbit",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbmFzWFRZd2NnWDJWQ2tjWkg5SmYyWVRhMno0OWt4OTZzaE5UMVZqaW1NZ01WbEtGWEpmdzdiWkFVeXp4MlNGeTR5dERaZlRyWkZna05Qb29FM3dORUw2dEtSN2NSSzFacGRpMm1KYlZQQWM2RGNjMzNQQzBhWHZsVUcwTXgwbld3Q3h2RXpIY0NrOTVfUE9rT2MzRnZreFVycDNZdU5wWEMtZ21YdWlsLS01M0Rjc3IzMW9TbVA2TXZhZFhkSVMwelkyVjRFaTN4cEY4MzRlcWRmdnJRbDBCWlQ1QkRzbm5V?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-20T18:38:20.511302-07:00"
+    "remind_at": "2026-07-20T22:01:31.168477-07:00"
   }
 ]
