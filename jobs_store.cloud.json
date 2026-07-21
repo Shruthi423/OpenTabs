@@ -8839,5 +8839,41 @@
     "first_seen": "2026-07-21T10:53:52.416341-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "b4a0594d5b4b0e9a4974393df696a88b": {
+    "id": "b4a0594d5b4b0e9a4974393df696a88b",
+    "title": "Product Designer",
+    "company": "Wordware (S24)",
+    "location": "San Francisco",
+    "salary": "$140K - $220K",
+    "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D100384&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29649",
+    "source": "Y Combinator",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-07-21T12:10:52.514274-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "31d8d00845e13df23dc33823ba826ff3": {
+    "id": "31d8d00845e13df23dc33823ba826ff3",
+    "title": "UI/UX Designer - Dallas, TX",
+    "company": "See posting",
+    "location": "San Francisco Bay Area, CA",
+    "salary": "Not listed",
+    "url": "https://www.builtinsf.com/job/ui-ux-designer-dallas-tx/9914448",
+    "source": "BuiltIn SF",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-07-21T12:10:54.390703-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
