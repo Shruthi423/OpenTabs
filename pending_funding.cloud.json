@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "item": {
+      "company": "A family crisis inspired Bill Ackman",
+      "amount": "$260.0M",
+      "stage": null,
+      "investors": null,
+      "location": "Manhattan",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/21/pershing-square-billionaire-buys-manhattan-site-for-700000-square-foot-ackman-oxman-institute-for-brain-research/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-21T14:07:02.130886-07:00"
+  },
+  {
+    "item": {
+      "company": "Trump's top MAGA advisers gather",
+      "amount": "$530.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/21/trump-maga-advisers-midterms",
+      "priority": 3
+    },
+    "remind_at": "2026-07-21T14:07:05.365262-07:00"
+  },
+  {
+    "item": {
+      "company": "Trump's Cabinet members",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/21/trump-tiktok-app-accounts-doj-cabinet",
+      "priority": 3
+    },
+    "remind_at": "2026-07-21T14:07:08.569380-07:00"
+  }
+]
