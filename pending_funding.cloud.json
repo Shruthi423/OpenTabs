@@ -1,44 +1,44 @@
 [
   {
     "item": {
-      "company": "A family crisis inspired Bill Ackman",
-      "amount": "$260.0M",
-      "stage": null,
-      "investors": null,
-      "location": "Manhattan",
+      "company": "AI data center builder Fluidstack",
+      "amount": "$830.0M",
+      "stage": "Series A",
+      "investors": "Stripe Inc",
+      "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/21/pershing-square-billionaire-buys-manhattan-site-for-700000-square-foot-ackman-oxman-institute-for-brain-research/",
-      "priority": 3
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/21/ai-data-center-builder-fluidstack-raises-830m-7-5b-valuation/",
+      "priority": 8
     },
-    "remind_at": "2026-07-21T14:07:02.130886-07:00"
+    "remind_at": "2026-07-21T15:16:39.325795-07:00"
   },
   {
     "item": {
-      "company": "Trump's top MAGA advisers gather",
-      "amount": "$530.0M",
+      "company": "Christopher Nolan",
+      "amount": "$250.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/21/trump-maga-advisers-midterms",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/20/christopher-nolan-oscar-winning-director-oppenheimer-the-odyssey-once-rejected-from-film-school-now-hollywood-legend-250-million-net-worth/",
       "priority": 3
     },
-    "remind_at": "2026-07-21T14:07:05.365262-07:00"
+    "remind_at": "2026-07-21T15:16:42.547841-07:00"
   },
   {
     "item": {
-      "company": "Trump's Cabinet members",
+      "company": "AMD capitalizes",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/21/trump-tiktok-app-accounts-doj-cabinet",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/21/server-processor-amd-ai-momentum-amdadvancingai/",
       "priority": 3
     },
-    "remind_at": "2026-07-21T14:07:08.569380-07:00"
+    "remind_at": "2026-07-21T15:16:45.773241-07:00"
   }
 ]

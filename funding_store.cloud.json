@@ -27015,5 +27015,50 @@
     "roles": [],
     "first_seen": "2026-07-21T13:37:09.569570-07:00",
     "status": "active"
+  },
+  "1a574d3ffa7bb17b1a1af974c6718c1d": {
+    "id": "1a574d3ffa7bb17b1a1af974c6718c1d",
+    "company": "AI data center builder Fluidstack",
+    "amount": "$830.0M",
+    "stage": "Series A",
+    "investors": "Stripe Inc",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/21/ai-data-center-builder-fluidstack-raises-830m-7-5b-valuation/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-21T14:46:40.325965-07:00",
+    "status": "active"
+  },
+  "1bc4ac65fbf9ef5fe3cd228eff429b33": {
+    "id": "1bc4ac65fbf9ef5fe3cd228eff429b33",
+    "company": "Christopher Nolan",
+    "amount": "$250.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/20/christopher-nolan-oscar-winning-director-oppenheimer-the-odyssey-once-rejected-from-film-school-now-hollywood-legend-250-million-net-worth/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-21T14:46:43.548020-07:00",
+    "status": "active"
+  },
+  "e3b76c303cc7113f3c5290f64644a8b1": {
+    "id": "e3b76c303cc7113f3c5290f64644a8b1",
+    "company": "AMD capitalizes",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/21/server-processor-amd-ai-momentum-amdadvancingai/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-21T14:46:46.773447-07:00",
+    "status": "active"
   }
 }
