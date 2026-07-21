@@ -1,58 +1,30 @@
 [
   {
     "item": {
-      "company": "Jamie Dimon",
+      "company": "Iceland\u2019s Sowilo",
       "amount": null,
-      "stage": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/21/maritime-shipbuilding-jobs-six-figure-opportunities-no-degree-according-to-jamie-dimon-but-jobs-are-not-easy/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYVhuZkRzRnBVVEtpb3FMVVBMSTR5RWpfeml6V3RIbjYzMDFac01mUjFNbmdRVWJIVnAzeTRvNTZTZEI3WG84TmZoUjVnd1BaUHc2a1BSTVh5THZrTzdwbkRIZmZHdVlPdUtJWjBVWVdNNWswc282TWx3b1VDbzAwd2lEOHdTM0NDaXBqc1lLM01MSk9yejNDU0NJMWV2NG81TEY1NkFlRk1vek9YY2NlWndOY1BiQUx6OGc?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-07-21T09:58:42.500735-07:00"
+    "remind_at": "2026-07-21T11:24:13.478889-07:00"
   },
   {
     "item": {
-      "company": "Despite a $156 million contract",
-      "amount": "$156.0M",
-      "stage": null,
+      "company": "Augustus",
+      "amount": "$180.0M",
+      "stage": "Series B",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/21/despite-156b-contract-knicks-star-jalen-brunson-calls-parents-financial-advice-big-purchases/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVU1Fna1JDRTFoei1PZ0ZuU25MWElsOE53RktlSUdDdkYtamI3d2R6cDctZURBNjhaOEhsaVJ1SjI0UV9LTmdBUk5ON0g4eXQ0YW1ycFZiUi1YaXhqMFJfLTlNQUtaZDlBRGhxMQ?oc=5",
+      "priority": 7
     },
-    "remind_at": "2026-07-21T09:58:45.541318-07:00"
-  },
-  {
-    "item": {
-      "company": "Democrats probe Epstein's ties",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "New York",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/21/epsteins-foreign-ties-democrats-raskin-investigate",
-      "priority": 3
-    },
-    "remind_at": "2026-07-21T09:58:48.534184-07:00"
-  },
-  {
-    "item": {
-      "company": "Mike Johnson backs ban",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "New York",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/21/mike-johnson-ban-lawmaker-staff-sexual-relations",
-      "priority": 3
-    },
-    "remind_at": "2026-07-21T09:58:51.622039-07:00"
+    "remind_at": "2026-07-21T11:24:15.692604-07:00"
   }
 ]
