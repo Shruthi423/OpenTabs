@@ -26332,5 +26332,35 @@
     "roles": [],
     "first_seen": "2026-07-20T13:13:35.429601-07:00",
     "status": "active"
+  },
+  "b45dffc2d88626944777f2178707b606": {
+    "id": "b45dffc2d88626944777f2178707b606",
+    "company": "Colossal Biosciences reportedly in talks",
+    "amount": "$20.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-20T18:08:19.341394-07:00",
+    "status": "active"
+  },
+  "cd20499a9baea2c9fd2e357093461946": {
+    "id": "cd20499a9baea2c9fd2e357093461946",
+    "company": "Sensesbit",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbmFzWFRZd2NnWDJWQ2tjWkg5SmYyWVRhMno0OWt4OTZzaE5UMVZqaW1NZ01WbEtGWEpmdzdiWkFVeXp4MlNGeTR5dERaZlRyWkZna05Qb29FM3dORUw2dEtSN2NSSzFacGRpMm1KYlZQQWM2RGNjMzNQQzBhWHZsVUcwTXgwbld3Q3h2RXpIY0NrOTVfUE9rT2MzRnZreFVycDNZdU5wWEMtZ21YdWlsLS01M0Rjc3IzMW9TbVA2TXZhZFhkSVMwelkyVjRFaTN4cEY4MzRlcWRmdnJRbDBCWlQ1QkRzbm5V?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-20T18:08:21.511444-07:00",
+    "status": "active"
   }
 }
