@@ -1,44 +1,72 @@
 [
   {
     "item": {
-      "company": "Nums AI",
-      "amount": null,
+      "company": "Beatsquares",
+      "amount": "$2.0M",
+      "stage": "Seed",
+      "investors": "IBB Ventures and XTR Capital to scale its AI platform for automated editorial content repurposing",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/beatsquares-raises-2m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-21T00:43:57.380104-07:00"
+  },
+  {
+    "item": {
+      "company": "Sonata",
+      "amount": "$7.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45eXhtazZXU2xwMHdIZFU5SjhkU3hubEt1NVB5eWVUdFV1TkU3aTRmQ2J3d1ZJMDFsc3M1Z2RReGlfX1ljSzJ0TFBTRnhUV1dTZU55YkpIQkI3c3A1S21vbDIyczdxTnk4dzlLWTdET21MTDhyRlE?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/sonata-raises-7m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-07-20T22:01:26.041810-07:00"
+    "remind_at": "2026-07-21T00:43:59.800644-07:00"
   },
   {
     "item": {
-      "company": "Anthropic settles",
-      "amount": "$1.5B",
-      "stage": null,
+      "company": "BetHog",
+      "amount": "$10.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/20/anthropic-settles-authors-publishers-1-5-billion-landmark-copyright-case/",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/bethog-raises-10m-series-a/",
+      "priority": 8
     },
-    "remind_at": "2026-07-20T22:01:28.945707-07:00"
+    "remind_at": "2026-07-21T00:44:11.875846-07:00"
   },
   {
     "item": {
-      "company": "U.S.",
-      "amount": "$20.0B",
-      "stage": null,
+      "company": "Travel Tech Firm 30 Sundays",
+      "amount": null,
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/20/trump-tariffs-canada-trade-war",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2REQ090aEhDOC02aUJ6Qk1kWHJ3dFp2Wl9TM2pMY3NVYXNDcXU5R0p1R2dVOEY1NmNwTTF5U2VBbWxzU1JfTnNpY2xMTHRNTzU5bEdYWWNvMHdYSWt1R2lpUjB6R3Y3NFM2YzBCTFAtMDdaLXl6em1aRTZiVGJ6RGJrWXlPR25ieXRENV9CYjZVWHZwYnJhMzBuV2x5dkN5ejR5TA?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-21T00:44:15.103218-07:00"
+  },
+  {
+    "item": {
+      "company": "Ant International",
+      "amount": "$1.2B",
+      "stage": null,
+      "investors": "including Ant Group and Alibaba to expand its global fintech payment services",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ant-international-raises-1-2b-growth-capital/",
       "priority": 3
     },
-    "remind_at": "2026-07-20T22:01:31.168477-07:00"
+    "remind_at": "2026-07-21T00:44:18.069732-07:00"
   }
 ]
