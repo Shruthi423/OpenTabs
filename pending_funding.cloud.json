@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "item": {
+      "company": "Voxshell",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "DSW Ventures to scale its proprietary ChopMesh engineering simulation platform",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/voxshell-raises-800000-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-22T01:26:01.956060-07:00"
+  },
+  {
+    "item": {
+      "company": "Bioscan Research",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTkNaOGdXLVJaNVFEOV90TG9jRjhEQkozVDFYWjhzSGZVNEFVcmhuY1VNYm9lMzB6T3lIdGpaeVh0WlExQXRKMzBRN3oyQlNVb09TQWFIQnN6Y19KZzBvZFJNUnpKQ2FzOUx6OFhiMGRBM252M1lPcFpROGZaMmJIOFdzeXpJSDFNVTFxYXFMS3dyZEl3eGVQNThMTGUzZlFsS2NPTHB3a3lsR2g0RE9RS1ZfSzhpeFJnSURSNjVRd1RHOHhHWGfSAcYBQVVfeXFMUE5DWjhnVy1SWjVRRDlfdExvY0Y4REJKM1QxWFo4c0hmVTRBVXJobmNVTWJvZTMwek95SHRqWnlYdFpRMUF0SjMwUTd6MkJTVW9PU0FhSEJzemNfSmcwb2RSTVJ6SkNhczlMejhYYjBkQTNudjNZT3BaUThmWjJiSDhXc3l6SUgxTVUxcWFxTEt3cmRJd3hlUDU4TExlM2ZRbEtjT0xwd2t5bEdoNERPUUtWX0s4aXhSZ0lEUjY1UXdURzh4R1hn?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-22T01:26:05.314660-07:00"
+  },
+  {
+    "item": {
+      "company": "Bioscan Research",
+      "amount": "$1.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVUw4ZVR6ZzEzU213YU5fajV6eENOa2M1TFE0Sk02WnRUZWNMaFNrZEl3SDdocXJzWWpfcDhiQ28xYmdKN0hiSm14ZVRSNkVqVnJQSWxGSTkwa0VUVEVpWE5IS0NVanJYMHVhTG1ic3RzNTBUa1ptYTB4dHpZRmJxbHBHcUNxS1Q1cnliR2tJUEYwUVhjazlMS2prM2ZzbUFlNXphNk5sR3hNUDdCV2hXdjFiRXNPUGZ0ejQtYXJFajRoYnFRMDVlbEpzalhmWTU2YWxkNFJQbV9PdUNtWFF3SkV0Y1VCWDVUdG82d01rNkhSQkFzTlAyVEV4NE4?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-22T01:26:08.288683-07:00"
+  },
+  {
+    "item": {
+      "company": "Karoo Health",
+      "amount": "$16.2M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/karoo-health-raises-16-2m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-22T01:26:11.396788-07:00"
+  },
+  {
+    "item": {
+      "company": "Reserv",
+      "amount": "$125.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/reserv-raises-125m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-07-22T01:26:13.816767-07:00"
+  }
+]
