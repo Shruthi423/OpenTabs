@@ -1,16 +1,44 @@
 [
   {
     "item": {
-      "company": "House GOP passes blueprint",
-      "amount": "$95.0B",
+      "company": "ServiceNow beats estimates and",
+      "amount": "$1.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/22/house-republicans-reconciliation-iran-funding-save-act",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/22/servicenow-beats-estimates-raises-outlook-ai-passes-1b-bookings/",
       "priority": 3
     },
-    "remind_at": "2026-07-22T15:46:40.495783-07:00"
+    "remind_at": "2026-07-22T16:59:30.739664-07:00"
+  },
+  {
+    "item": {
+      "company": "Uber founder Travis Kalanick",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmpNS2pVTFN5dEpwa0hRYS1VSnZNd0U3ZHRpcVYwWDN3b01KV3NaancyMnhETGxDeHJIS2w5MU1BRkVQS1ExeW8yQlJQQVBUMFQtLTNRWi1obnE3RzIwdVItTU5mUWtuS2NsZGUtR3lYZ0J6MHBoWWNNNE8wTmtLT0theHk?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-22T16:59:33.982217-07:00"
+  },
+  {
+    "item": {
+      "company": "Kalanick's Atoms",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFNBYXFHNFAzYVVTQXFGcnpORElkS0hudERhaDd2a0Fza1dOTmE5UXZHYjVvVGw5NnBkOFV6WXpGSUp6TVJ3bXVvZURXWGQ5YVBCSGpvMWlOcWVDckdSVDFMVlJ0aFV6SnZURlB2YWlxUkNtLVJPS3JMUHFwb1NEQUVMTEtHZHll?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-22T16:59:37.231168-07:00"
   }
 ]
