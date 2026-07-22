@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "item": {
+      "company": "AI server maker Supermicro\u2019s stock",
+      "amount": "$60.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/21/ai-server-maker-supermicros-stock-gains-60b-order-backlog-stronger-margins/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-21T19:33:58.629043-07:00"
+  },
+  {
+    "item": {
+      "company": "OpenAI claims its models",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [
+        "Clem Delangue"
+      ],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models",
+      "priority": 3
+    },
+    "remind_at": "2026-07-21T19:34:02.298464-07:00"
+  },
+  {
+    "item": {
+      "company": "Sift",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNm94UHdFOHVIMkVUUVJHc0RtaV9qay1fbmxNR3NqUEFqWHl3b1pjeTFnekk1eFJGMHd4R0lhd1B2eUUxR0Q5b0N5VmlwM3ViODQ3akU0VUhqY29wVWdkVFZrT2RzZWxIMWtyMEtzUm9Nc0VhV1ZvWTdkV1lQcExPUVRzQ0swbnJPb2p3TTNFLWc0a0E4VnRHSllFams2OGVNRVNXR1FR?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-21T19:34:04.882236-07:00"
+  }
+]

@@ -27077,5 +27077,63 @@
     "roles": [],
     "first_seen": "2026-07-21T15:49:50.971309-07:00",
     "status": "active"
+  },
+  "38b716d0dd579ef2ea937bdce8caec3e": {
+    "id": "38b716d0dd579ef2ea937bdce8caec3e",
+    "company": "AI server maker Supermicro\u2019s stock",
+    "amount": "$60.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/21/ai-server-maker-supermicros-stock-gains-60b-order-backlog-stronger-margins/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-21T19:03:59.629214-07:00",
+    "status": "active"
+  },
+  "aedeac8b6f8ab2000b5467d8cbb7f3c4": {
+    "id": "aedeac8b6f8ab2000b5467d8cbb7f3c4",
+    "company": "OpenAI claims its models",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models",
+    "priority": 3,
+    "founders": [
+      "Clem Delangue"
+    ],
+    "location": "San Francisco",
+    "roles": [
+      {
+        "title": "Product Designer, People Innovation Labs",
+        "url": "https://jobs.ashbyhq.com/openai/3874db80-f3ec-4dd1-8d56-6441e8f7299d",
+        "location": "San Francisco"
+      },
+      {
+        "title": "TLM, Embedded Experiences",
+        "url": "https://jobs.ashbyhq.com/openai/967d3ad7-bd2c-40e3-ba1f-f1140a116999",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-07-21T19:04:03.298635-07:00",
+    "status": "active"
+  },
+  "0e177cc0ec1bd0a0bb16398fdff1f495": {
+    "id": "0e177cc0ec1bd0a0bb16398fdff1f495",
+    "company": "Sift",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNm94UHdFOHVIMkVUUVJHc0RtaV9qay1fbmxNR3NqUEFqWHl3b1pjeTFnekk1eFJGMHd4R0lhd1B2eUUxR0Q5b0N5VmlwM3ViODQ3akU0VUhqY29wVWdkVFZrT2RzZWxIMWtyMEtzUm9Nc0VhV1ZvWTdkV1lQcExPUVRzQ0swbnJPb2p3TTNFLWc0a0E4VnRHSllFams2OGVNRVNXR1FR?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-21T19:04:05.882400-07:00",
+    "status": "active"
   }
 }
