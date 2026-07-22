@@ -1,72 +1,30 @@
 [
   {
     "item": {
-      "company": "Inner Logic",
-      "amount": "$11.5M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQajdwZzktYkNIWWdOdlFCLXJSTTkxVHFNQ1YwTDlmbE5rdl9wU2d4Nm1SdUNoOGZVTkM3eTdyNVVtY01hemkzb0xPQmpobmVkM084cmFtSmJFNGZyTElBWUVPZ1F2QUlzZXVIaFRGQnU4U1RyS2RaN09rM1V0ZmRKcVBHdw?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-07-22T07:51:55.315028-07:00"
-  },
-  {
-    "item": {
-      "company": "StrongestLayer",
-      "amount": "$4.1M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/22/exclusive-strongestlayer-raises-4-1m-reasoning-based-email-security/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-22T07:51:57.760517-07:00"
-  },
-  {
-    "item": {
-      "company": "Passionfroot",
-      "amount": "$15.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WYVVlTVc4UXhSNXVlQzBOTDBoWjFxMldrb1IwcmdRWjMyNzI5RXk0TS1PV29YR0JTdVNISHB1TDZSdjdFS1luc3g4ODdQNi1FVERHTVdQNldhRFJRRVN5STVlX3dIOW1vMVltejIzRQ?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-07-22T07:52:00.202428-07:00"
-  },
-  {
-    "item": {
-      "company": "Arrakis",
-      "amount": "$38.0M",
+      "company": "PathFinder",
+      "amount": null,
       "stage": null,
-      "investors": null,
-      "location": "London",
+      "investors": "appear to agree",
+      "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/arrakis-raises-38m-blossom-accel-ai-agents/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/22/pathfinder-lands-multimillion-dollar-angel-investment-to-build-ai-golf-coach-birdiesense/",
       "priority": 3
     },
-    "remind_at": "2026-07-22T07:52:02.541406-07:00"
+    "remind_at": "2026-07-22T09:28:26.934394-07:00"
   },
   {
     "item": {
-      "company": "Apple",
-      "amount": null,
+      "company": "Samsung in talks",
+      "amount": "$22.8B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/22/top-tech-news-today-july-22-2026-apple-anthropic-google-nvidia/",
+      "url": "https://techstartups.com/2026/07/22/samsung-in-talks-to-invest-up-to-e1b-in-mistral-at-e20-billion-valuation/",
       "priority": 3
     },
-    "remind_at": "2026-07-22T07:52:05.001809-07:00"
+    "remind_at": "2026-07-22T09:28:29.871508-07:00"
   }
 ]

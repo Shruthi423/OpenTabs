@@ -27525,5 +27525,35 @@
     "roles": [],
     "first_seen": "2026-07-22T07:22:06.001985-07:00",
     "status": "active"
+  },
+  "6941ee846a657426282a4648eda002e1": {
+    "id": "6941ee846a657426282a4648eda002e1",
+    "company": "PathFinder",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "appear to agree",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/07/22/pathfinder-lands-multimillion-dollar-angel-investment-to-build-ai-golf-coach-birdiesense/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-22T08:58:27.934621-07:00",
+    "status": "active"
+  },
+  "26b5faac806e3b7d9dc457ca6fd378a5": {
+    "id": "26b5faac806e3b7d9dc457ca6fd378a5",
+    "company": "Samsung in talks",
+    "amount": "$22.8B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/07/22/samsung-in-talks-to-invest-up-to-e1b-in-mistral-at-e20-billion-valuation/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-22T08:58:30.871685-07:00",
+    "status": "active"
   }
 }
