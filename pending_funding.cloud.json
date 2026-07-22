@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "Travis Kalanick\u2019s robotics company",
-      "amount": "$1.7B",
+      "company": "Anthropic",
+      "amount": "$5.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/22/anthropic-buy-two-gigawatts-gpu-capacity-amd/",
       "priority": 3
     },
-    "remind_at": "2026-07-22T13:27:51.116160-07:00"
+    "remind_at": "2026-07-22T14:34:14.274909-07:00"
   },
   {
     "item": {
-      "company": "Scott Bessent casually",
-      "amount": "$600.0B",
+      "company": "Assured",
+      "amount": "$19.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/22/scott-bessent-fort-knox-1-trillion-gold-present-accounted-for/",
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGF3OF9KTFByOHZwSTdRc1VmYjFxMzJncE9RdVJRc08tVUktOS1laVVfVlRBendnTE94WmQ2YWhBUWxKUGNza3hDN0ZQamJfWGptVm16S2dLN3FaYW5kMUg2Y1JTM2lzM2QyLU00NzFsRm9DQmF0Rkd1cEY2SE1YNlVualVraS1KbGNsVVVjWQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-22T13:27:54.376306-07:00"
-  },
-  {
-    "item": {
-      "company": "Atoms",
-      "amount": "$1.7B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxNnBJUVJjVGJfQk5obmVWZmgxMkdmV3Z4VTJsaUdvTDl5U3A0Y184M2RpRFlLR1pvMFpVYUpwYXlXR3JyQ2tlSVhtRkZkT1JHWk9mZmluYU9DVlQ2VFo5Z1ZNSHVpZw?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-22T13:27:56.893826-07:00"
+    "remind_at": "2026-07-22T14:34:16.435422-07:00"
   }
 ]

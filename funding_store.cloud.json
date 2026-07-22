@@ -27630,5 +27630,35 @@
     "roles": [],
     "first_seen": "2026-07-22T12:57:57.893991-07:00",
     "status": "active"
+  },
+  "95dd9ce0e115a907a5e8dbebf4c0bc19": {
+    "id": "95dd9ce0e115a907a5e8dbebf4c0bc19",
+    "company": "Anthropic",
+    "amount": "$5.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/22/anthropic-buy-two-gigawatts-gpu-capacity-amd/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-22T14:04:15.275066-07:00",
+    "status": "active"
+  },
+  "9cb35ca007e91d1f0dcc8d5128934d22": {
+    "id": "9cb35ca007e91d1f0dcc8d5128934d22",
+    "company": "Assured",
+    "amount": "$19.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGF3OF9KTFByOHZwSTdRc1VmYjFxMzJncE9RdVJRc08tVUktOS1laVVfVlRBendnTE94WmQ2YWhBUWxKUGNza3hDN0ZQamJfWGptVm16S2dLN3FaYW5kMUg2Y1JTM2lzM2QyLU00NzFsRm9DQmF0Rkd1cEY2SE1YNlVualVraS1KbGNsVVVjWQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-22T14:04:17.435588-07:00",
+    "status": "active"
   }
 }
