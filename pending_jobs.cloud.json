@@ -1,104 +1,53 @@
 [
   {
     "job": {
-      "title": "Digital Product Designer",
-      "company": "Away",
-      "location": "New York",
-      "url": "https://uiuxjobsboard.com/job/1534926-digital-product-designer-new-york-united-states",
-      "salary": "$115,000 - $120,000",
-      "description": "",
-      "posted_at": "3h",
-      "source": "UIUXJobsBoard",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": false,
-      "visa": null
-    },
-    "remind_at": "2026-07-22T05:41:52.695546-07:00"
-  },
-  {
-    "job": {
-      "title": "UI/UX Designer",
-      "company": "Nous Research",
+      "title": "UI Designer - AI Neobank App (Spain)",
+      "company": "Unknown",
       "location": "Remote",
-      "url": "https://uiuxjobsboard.com/job/1535526-remote-latin-america-ui-ux-designer",
-      "salary": "Not listed",
-      "description": "",
-      "posted_at": "4h",
-      "source": "UIUXJobsBoard",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": false,
-      "visa": null
-    },
-    "remind_at": "2026-07-22T05:41:54.411418-07:00"
-  },
-  {
-    "job": {
-      "title": "UX/UI Designer",
-      "company": "FinAgra",
-      "location": "Remote",
-      "url": "https://uiuxjobsboard.com/job/1535426-remote-anywhere-ux-ui-designer",
-      "salary": "Not listed",
-      "description": "",
-      "posted_at": "5h",
-      "source": "UIUXJobsBoard",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": false,
-      "visa": null
-    },
-    "remind_at": "2026-07-22T05:41:56.125012-07:00"
-  },
-  {
-    "job": {
-      "title": "UX/UI Designer",
-      "company": "Remilia Corporation",
-      "location": "Irvine, CA",
-      "url": "https://uiuxjobsboard.com/job/1535226-ux-ui-designer-irvine-ca-united-states",
-      "salary": "$45,000 - $165,000",
-      "description": "",
-      "posted_at": "5h",
-      "source": "UIUXJobsBoard",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": false,
-      "visa": null
-    },
-    "remind_at": "2026-07-22T05:41:57.910730-07:00"
-  },
-  {
-    "job": {
-      "title": "Product Designer",
-      "company": "Vapi",
-      "location": "San Francisco, CA",
-      "url": "https://uiuxjobsboard.com/job/1535026-product-designer-san-francisco-ca-united-states",
-      "salary": "$180,000 - $280,000",
-      "description": "",
-      "posted_at": "5h",
-      "source": "UIUXJobsBoard",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": false,
-      "visa": null
-    },
-    "remind_at": "2026-07-22T05:41:59.632435-07:00"
-  },
-  {
-    "job": {
-      "title": "Brand Designer",
-      "company": "Profound",
-      "location": "New York, New York",
-      "url": "https://jobs.ashbyhq.com/Profound/b87295ec-7d64-4ab5-8a57-052f349099fc",
-      "salary": "Not listed",
-      "description": "Profound is the marketing platform for the AI era. As people increasingly turn to ChatGPT, Perplexity, and Gemini to decide what to buy, we give brands the intelligence to see how AI represents them and the Agents to act on it. Today, ~13% of the Fortune 500, plus companies like Ramp, Figma, Chime, ",
+      "url": "https://himalayas.app/companies/bjak/jobs/ui-designer-ai-neobank-app-spain",
+      "salary": "See posting",
+      "description": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money.",
       "posted_at": "Recently",
-      "source": "Startups.Gallery",
+      "source": "Himalayas",
       "relevant": true,
       "is_new_grad": false,
       "is_big_tech": false,
       "visa": null
     },
-    "remind_at": "2026-07-22T05:42:01.355529-07:00"
+    "remind_at": "2026-07-22T07:51:30.862207-07:00"
+  },
+  {
+    "job": {
+      "title": "Visual Designer",
+      "company": "Unknown",
+      "location": "Remote",
+      "url": "https://himalayas.app/companies/bjak/jobs/visual-designer-9253402489",
+      "salary": "See posting",
+      "description": "About A1There are over 5 billion users using basic applications today such email, notes, tasks that are not AI-native.",
+      "posted_at": "Recently",
+      "source": "Himalayas",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-07-22T07:51:32.702517-07:00"
+  },
+  {
+    "job": {
+      "title": "UI Designer - AI Neobank App (Netherlands)",
+      "company": "Unknown",
+      "location": "Remote",
+      "url": "https://himalayas.app/companies/bjak/jobs/ui-designer-ai-neobank-app-netherlands",
+      "salary": "See posting",
+      "description": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money.",
+      "posted_at": "Recently",
+      "source": "Himalayas",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-07-22T07:51:34.485519-07:00"
   }
 ]

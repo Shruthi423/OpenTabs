@@ -1,100 +1,72 @@
 [
   {
     "item": {
-      "company": "Hey Seven",
-      "amount": null,
+      "company": "Inner Logic",
+      "amount": "$11.5M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hey-seven-reveals-bettor-capital-as-seed-investor-in-ai-native-gaming-platform/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQajdwZzktYkNIWWdOdlFCLXJSTTkxVHFNQ1YwTDlmbE5rdl9wU2d4Nm1SdUNoOGZVTkM3eTdyNVVtY01hemkzb0xPQmpobmVkM084cmFtSmJFNGZyTElBWUVPZ1F2QUlzZXVIaFRGQnU4U1RyS2RaN09rM1V0ZmRKcVBHdw?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-22T05:42:23.085309-07:00"
+    "remind_at": "2026-07-22T07:51:55.315028-07:00"
   },
   {
     "item": {
-      "company": "Mach42",
-      "amount": null,
+      "company": "StrongestLayer",
+      "amount": "$4.1M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/mach42-raises-7m-pre-series-a/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/22/exclusive-strongestlayer-raises-4-1m-reasoning-based-email-security/",
       "priority": 8
     },
-    "remind_at": "2026-07-22T05:42:25.474097-07:00"
+    "remind_at": "2026-07-22T07:51:57.760517-07:00"
   },
   {
     "item": {
-      "company": "Glow",
-      "amount": "$100.0M",
-      "stage": "Series B",
+      "company": "Passionfroot",
+      "amount": "$15.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/glow-raises-100m-series-b/",
-      "priority": 7
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WYVVlTVc4UXhSNXVlQzBOTDBoWjFxMldrb1IwcmdRWjMyNzI5RXk0TS1PV29YR0JTdVNISHB1TDZSdjdFS1luc3g4ODdQNi1FVERHTVdQNldhRFJRRVN5STVlX3dIOW1vMVltejIzRQ?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-07-22T05:42:27.961159-07:00"
+    "remind_at": "2026-07-22T07:52:00.202428-07:00"
   },
   {
     "item": {
-      "company": "Genius AI",
-      "amount": "$44.0M",
-      "stage": "Series D",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/genius-ai-raises-44m-series-d/",
-      "priority": 5
-    },
-    "remind_at": "2026-07-22T05:42:30.403957-07:00"
-  },
-  {
-    "item": {
-      "company": "Led By DeepSeek",
-      "amount": "$110.0B",
+      "company": "Arrakis",
+      "amount": "$38.0M",
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "London",
       "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/new-unicorn-board-startups-exits-ai-semiconductors-june-2026/",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/arrakis-raises-38m-blossom-accel-ai-agents/",
       "priority": 3
     },
-    "remind_at": "2026-07-22T05:42:33.542754-07:00"
+    "remind_at": "2026-07-22T07:52:02.541406-07:00"
   },
   {
     "item": {
-      "company": "Why AI",
+      "company": "Apple",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/fintech/ai-wave-banking-innovation-morris-qed/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/22/top-tech-news-today-july-22-2026-apple-anthropic-google-nvidia/",
       "priority": 3
     },
-    "remind_at": "2026-07-22T05:42:35.795141-07:00"
-  },
-  {
-    "item": {
-      "company": "At 25",
-      "amount": "$180.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/at-25-this-german-thiel-fellow-raised-180m-hit-1b-valuation-and-is-about-to-make-us-banking-history/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-22T05:42:40.618084-07:00"
+    "remind_at": "2026-07-22T07:52:05.001809-07:00"
   }
 ]
