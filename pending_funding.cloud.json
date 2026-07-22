@@ -1,72 +1,128 @@
 [
   {
     "item": {
-      "company": "Voxshell",
+      "company": "Sowilo",
       "amount": null,
-      "stage": "Seed",
-      "investors": "DSW Ventures to scale its proprietary ChopMesh engineering simulation platform",
+      "stage": "Pre-Seed",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/voxshell-raises-800000-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/iceland-s-sowilo-secures-pre-seed-backing-to-expand-ai-fashion-product-platform-catecut/",
+      "priority": 10
     },
-    "remind_at": "2026-07-22T01:26:01.956060-07:00"
+    "remind_at": "2026-07-22T03:51:11.455181-07:00"
   },
   {
     "item": {
-      "company": "Bioscan Research",
+      "company": "Ossprey",
+      "amount": "$2.65M",
+      "stage": "Pre-Seed",
+      "investors": "Episode 1 Ventures to scale its software supply chain security platform",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ossprey-raises-2-65m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-07-22T03:51:13.712474-07:00"
+  },
+  {
+    "item": {
+      "company": "Cordant",
+      "amount": "$8.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/cordant-raises-8m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-22T03:51:15.984960-07:00"
+  },
+  {
+    "item": {
+      "company": "Sofab Inks has",
       "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTkNaOGdXLVJaNVFEOV90TG9jRjhEQkozVDFYWjhzSGZVNEFVcmhuY1VNYm9lMzB6T3lIdGpaeVh0WlExQXRKMzBRN3oyQlNVb09TQWFIQnN6Y19KZzBvZFJNUnpKQ2FzOUx6OFhiMGRBM252M1lPcFpROGZaMmJIOFdzeXpJSDFNVTFxYXFMS3dyZEl3eGVQNThMTGUzZlFsS2NPTHB3a3lsR2g0RE9RS1ZfSzhpeFJnSURSNjVRd1RHOHhHWGfSAcYBQVVfeXFMUE5DWjhnVy1SWjVRRDlfdExvY0Y4REJKM1QxWFo4c0hmVTRBVXJobmNVTWJvZTMwek95SHRqWnlYdFpRMUF0SjMwUTd6MkJTVW9PU0FhSEJzemNfSmcwb2RSTVJ6SkNhczlMejhYYjBkQTNudjNZT3BaUThmWjJiSDhXc3l6SUgxTVUxcWFxTEt3cmRJd3hlUDU4TExlM2ZRbEtjT0xwd2t5bEdoNERPUUtWX0s4aXhSZ0lEUjY1UXdURzh4R1hn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHFBZEtQaU5IMTR1enJCRHdfRW9tR3F2X1RaZFVvaHhSam0zLWdXLUY5M1pWWDBlM1hKRTJCbVJlSXpNNFllblA5aW5SRWNjZXBuLUFJY1ppcGExZTJoLV9rRE8yYWNRZVpNeWY4TkFCQm5FNkJRZGZNZ0lPb0dwSEVwQ1pBSG9iYU0tZmpXbEJQeml5WU45S0U5UTNxZ0NFTUV2NFdn?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-22T01:26:05.314660-07:00"
+    "remind_at": "2026-07-22T03:51:18.829265-07:00"
   },
   {
     "item": {
-      "company": "Bioscan Research",
-      "amount": "$1.0M",
-      "stage": "Seed",
+      "company": "Glow",
+      "amount": "$180.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVUw4ZVR6ZzEzU213YU5fajV6eENOa2M1TFE0Sk02WnRUZWNMaFNrZEl3SDdocXJzWWpfcDhiQ28xYmdKN0hiSm14ZVRSNkVqVnJQSWxGSTkwa0VUVEVpWE5IS0NVanJYMHVhTG1ic3RzNTBUa1ptYTB4dHpZRmJxbHBHcUNxS1Q1cnliR2tJUEYwUVhjazlMS2prM2ZzbUFlNXphNk5sR3hNUDdCV2hXdjFiRXNPUGZ0ejQtYXJFajRoYnFRMDVlbEpzalhmWTU2YWxkNFJQbV9PdUNtWFF3SkV0Y1VCWDVUdG82d01rNkhSQkFzTlAyVEV4NE4?oc=5",
-      "priority": 9
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/22/ai-native-endpoint-security-startup-glow-born-unicorn-raising-180m/",
+      "priority": 8
     },
-    "remind_at": "2026-07-22T01:26:08.288683-07:00"
+    "remind_at": "2026-07-22T03:51:20.997849-07:00"
   },
   {
     "item": {
-      "company": "Karoo Health",
-      "amount": "$16.2M",
+      "company": "Uniti",
+      "amount": "$12.0M",
+      "stage": "Series A",
+      "investors": "Pathlight to scale its agentic AI orchestration layer for global real estate operators",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/uniti-raises-12m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-22T03:51:23.145551-07:00"
+  },
+  {
+    "item": {
+      "company": "Cashea",
+      "amount": "$100.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/karoo-health-raises-16-2m-series-a/",
+      "url": "https://www.thesaasnews.com/news/cashea-raises-100m-series-a-series-b/",
       "priority": 8
     },
-    "remind_at": "2026-07-22T01:26:11.396788-07:00"
+    "remind_at": "2026-07-22T03:51:25.408587-07:00"
   },
   {
     "item": {
-      "company": "Reserv",
-      "amount": "$125.0M",
-      "stage": "Series C",
+      "company": "Candid Health",
+      "amount": "$120.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/22/candid-health-raises-120-million-to-take-on-americas-280-billion-medical-billing-mess/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-22T03:51:28.428154-07:00"
+  },
+  {
+    "item": {
+      "company": "Alpaca",
+      "amount": "$135.0M",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/reserv-raises-125m-series-c/",
-      "priority": 6
+      "url": "https://www.thesaasnews.com/news/alpacadb-inc-raises-135m-growth-capital/",
+      "priority": 3
     },
-    "remind_at": "2026-07-22T01:26:13.816767-07:00"
+    "remind_at": "2026-07-22T03:51:30.632911-07:00"
   }
 ]
