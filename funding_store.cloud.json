@@ -27585,5 +27585,50 @@
     "roles": [],
     "first_seen": "2026-07-22T11:40:34.055060-07:00",
     "status": "active"
+  },
+  "a88e9455eaaead3a29411597e2aebeb8": {
+    "id": "a88e9455eaaead3a29411597e2aebeb8",
+    "company": "Travis Kalanick\u2019s robotics company",
+    "amount": "$1.7B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-22T12:57:52.116334-07:00",
+    "status": "active"
+  },
+  "a3e05ebeda44ece9b4f55e1a2b1fd0ec": {
+    "id": "a3e05ebeda44ece9b4f55e1a2b1fd0ec",
+    "company": "Scott Bessent casually",
+    "amount": "$600.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/22/scott-bessent-fort-knox-1-trillion-gold-present-accounted-for/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-22T12:57:55.376475-07:00",
+    "status": "active"
+  },
+  "38dc1ce2eb0a3e7f9e70bf18a9163267": {
+    "id": "38dc1ce2eb0a3e7f9e70bf18a9163267",
+    "company": "Atoms",
+    "amount": "$1.7B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxNnBJUVJjVGJfQk5obmVWZmgxMkdmV3Z4VTJsaUdvTDl5U3A0Y184M2RpRFlLR1pvMFpVYUpwYXlXR3JyQ2tlSVhtRkZkT1JHWk9mZmluYU9DVlQ2VFo5Z1ZNSHVpZw?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-22T12:57:57.893991-07:00",
+    "status": "active"
   }
 }
