@@ -9109,5 +9109,41 @@
     "first_seen": "2026-07-22T07:21:33.703338-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "b442720e6463d8da69eeb50874dc1138": {
+    "id": "b442720e6463d8da69eeb50874dc1138",
+    "title": "Visual/Brand Designer",
+    "company": "Mercor",
+    "location": "San Francisco",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/mercor/9a012d72-f296-48fa-a9b9-f77ea3ea14b0",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-07-22T11:40:06.924809-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "dc8997c5f617ddf41f37346b8f955452": {
+    "id": "dc8997c5f617ddf41f37346b8f955452",
+    "title": "Product Designer",
+    "company": "Rillet",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/rillet/a157ef05-3218-4b42-ae79-a3d6d95c4bde",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-07-22T11:40:08.625281-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }

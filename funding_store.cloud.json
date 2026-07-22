@@ -27555,5 +27555,35 @@
     "roles": [],
     "first_seen": "2026-07-22T08:58:30.871685-07:00",
     "status": "active"
+  },
+  "5f132003e7d85a74954b85fd02dcf960": {
+    "id": "5f132003e7d85a74954b85fd02dcf960",
+    "company": "Trump Accounts draw 6.5 million sign-ups",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/22/trump-accounts-1000-delay-kids-promised-signups/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-22T11:40:30.860117-07:00",
+    "status": "active"
+  },
+  "f484e5b89b68b14e23bf8db59771c959": {
+    "id": "f484e5b89b68b14e23bf8db59771c959",
+    "company": "Tiny Texas town sues",
+    "amount": "$46.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/22/presidio-texas-border-wall/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-22T11:40:34.055060-07:00",
+    "status": "active"
   }
 }

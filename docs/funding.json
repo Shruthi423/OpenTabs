@@ -1,5 +1,35 @@
 [
   {
+    "id": "f484e5b89b68b14e23bf8db59771c959",
+    "company": "Tiny Texas town sues",
+    "amount": "$46.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/22/presidio-texas-border-wall/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-22T11:40:34.055060-07:00",
+    "status": "active"
+  },
+  {
+    "id": "5f132003e7d85a74954b85fd02dcf960",
+    "company": "Trump Accounts draw 6.5 million sign-ups",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/22/trump-accounts-1000-delay-kids-promised-signups/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-22T11:40:30.860117-07:00",
+    "status": "active"
+  },
+  {
     "id": "26b5faac806e3b7d9dc457ca6fd378a5",
     "company": "Samsung in talks",
     "amount": "$22.8B",
