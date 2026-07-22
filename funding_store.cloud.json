@@ -27660,5 +27660,20 @@
     "roles": [],
     "first_seen": "2026-07-22T14:04:17.435588-07:00",
     "status": "active"
+  },
+  "8aeb5e705545b30c503e37a72affec32": {
+    "id": "8aeb5e705545b30c503e37a72affec32",
+    "company": "House GOP passes blueprint",
+    "amount": "$95.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/22/house-republicans-reconciliation-iran-funding-save-act",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-22T15:16:41.495925-07:00",
+    "status": "active"
   }
 }

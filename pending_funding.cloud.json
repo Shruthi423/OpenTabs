@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "Anthropic",
-      "amount": "$5.0B",
+      "company": "House GOP passes blueprint",
+      "amount": "$95.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/22/anthropic-buy-two-gigawatts-gpu-capacity-amd/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/22/house-republicans-reconciliation-iran-funding-save-act",
       "priority": 3
     },
-    "remind_at": "2026-07-22T14:34:14.274909-07:00"
-  },
-  {
-    "item": {
-      "company": "Assured",
-      "amount": "$19.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGF3OF9KTFByOHZwSTdRc1VmYjFxMzJncE9RdVJRc08tVUktOS1laVVfVlRBendnTE94WmQ2YWhBUWxKUGNza3hDN0ZQamJfWGptVm16S2dLN3FaYW5kMUg2Y1JTM2lzM2QyLU00NzFsRm9DQmF0Rkd1cEY2SE1YNlVualVraS1KbGNsVVVjWQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-22T14:34:16.435422-07:00"
+    "remind_at": "2026-07-22T15:46:40.495783-07:00"
   }
 ]
