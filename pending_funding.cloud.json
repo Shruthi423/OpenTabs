@@ -1,128 +1,100 @@
 [
   {
     "item": {
-      "company": "Sowilo",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/iceland-s-sowilo-secures-pre-seed-backing-to-expand-ai-fashion-product-platform-catecut/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-22T03:51:11.455181-07:00"
-  },
-  {
-    "item": {
-      "company": "Ossprey",
-      "amount": "$2.65M",
-      "stage": "Pre-Seed",
-      "investors": "Episode 1 Ventures to scale its software supply chain security platform",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ossprey-raises-2-65m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-22T03:51:13.712474-07:00"
-  },
-  {
-    "item": {
-      "company": "Cordant",
-      "amount": "$8.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/cordant-raises-8m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-22T03:51:15.984960-07:00"
-  },
-  {
-    "item": {
-      "company": "Sofab Inks has",
+      "company": "Hey Seven",
       "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHFBZEtQaU5IMTR1enJCRHdfRW9tR3F2X1RaZFVvaHhSam0zLWdXLUY5M1pWWDBlM1hKRTJCbVJlSXpNNFllblA5aW5SRWNjZXBuLUFJY1ppcGExZTJoLV9rRE8yYWNRZVpNeWY4TkFCQm5FNkJRZGZNZ0lPb0dwSEVwQ1pBSG9iYU0tZmpXbEJQeml5WU45S0U5UTNxZ0NFTUV2NFdn?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hey-seven-reveals-bettor-capital-as-seed-investor-in-ai-native-gaming-platform/",
       "priority": 9
     },
-    "remind_at": "2026-07-22T03:51:18.829265-07:00"
+    "remind_at": "2026-07-22T05:42:23.085309-07:00"
+  },
+  {
+    "item": {
+      "company": "Mach42",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/mach42-raises-7m-pre-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-22T05:42:25.474097-07:00"
   },
   {
     "item": {
       "company": "Glow",
-      "amount": "$180.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/22/ai-native-endpoint-security-startup-glow-born-unicorn-raising-180m/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-22T03:51:20.997849-07:00"
-  },
-  {
-    "item": {
-      "company": "Uniti",
-      "amount": "$12.0M",
-      "stage": "Series A",
-      "investors": "Pathlight to scale its agentic AI orchestration layer for global real estate operators",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/uniti-raises-12m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-22T03:51:23.145551-07:00"
-  },
-  {
-    "item": {
-      "company": "Cashea",
       "amount": "$100.0M",
-      "stage": "Series A",
+      "stage": "Series B",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/cashea-raises-100m-series-a-series-b/",
-      "priority": 8
+      "url": "https://www.thesaasnews.com/news/glow-raises-100m-series-b/",
+      "priority": 7
     },
-    "remind_at": "2026-07-22T03:51:25.408587-07:00"
+    "remind_at": "2026-07-22T05:42:27.961159-07:00"
   },
   {
     "item": {
-      "company": "Candid Health",
-      "amount": "$120.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/22/candid-health-raises-120-million-to-take-on-americas-280-billion-medical-billing-mess/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-22T03:51:28.428154-07:00"
-  },
-  {
-    "item": {
-      "company": "Alpaca",
-      "amount": "$135.0M",
-      "stage": null,
+      "company": "Genius AI",
+      "amount": "$44.0M",
+      "stage": "Series D",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/alpacadb-inc-raises-135m-growth-capital/",
+      "url": "https://www.thesaasnews.com/news/genius-ai-raises-44m-series-d/",
+      "priority": 5
+    },
+    "remind_at": "2026-07-22T05:42:30.403957-07:00"
+  },
+  {
+    "item": {
+      "company": "Led By DeepSeek",
+      "amount": "$110.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/new-unicorn-board-startups-exits-ai-semiconductors-june-2026/",
       "priority": 3
     },
-    "remind_at": "2026-07-22T03:51:30.632911-07:00"
+    "remind_at": "2026-07-22T05:42:33.542754-07:00"
+  },
+  {
+    "item": {
+      "company": "Why AI",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/fintech/ai-wave-banking-innovation-morris-qed/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-22T05:42:35.795141-07:00"
+  },
+  {
+    "item": {
+      "company": "At 25",
+      "amount": "$180.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/at-25-this-german-thiel-fellow-raised-180m-hit-1b-valuation-and-is-about-to-make-us-banking-history/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-22T05:42:40.618084-07:00"
   }
 ]
