@@ -1,128 +1,144 @@
 [
   {
     "item": {
-      "company": "Lasken AI",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "GapMinder to expand its healthcare data intelligence platform across Europe",
-      "location": null,
+      "company": "Cast Insights",
+      "amount": "$4.5M",
+      "stage": "Pre-Seed",
+      "investors": "Abstract Ventures and saw participation from HF0, Village Global, Max Ventures, Embassy Ventures and Stratus Ventures",
+      "location": "The San Francisco",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/gapminder-leads-seed-funding-round-in-croatian-healthtech-startup-lasken-ai/",
-      "priority": 9
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/23/real-time-speech-intelligence-startup-cast-insights-raises-4-5m-track-worlds-tv-radio-podcasts/",
+      "priority": 10
     },
-    "remind_at": "2026-07-23T05:18:35.672607-07:00"
+    "remind_at": "2026-07-23T07:12:51.701017-07:00"
   },
   {
     "item": {
-      "company": "Cashboard",
-      "amount": "$5.0M",
+      "company": "Norway\u2019s EQON",
+      "amount": "$6.0M",
       "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/cashboard-raises-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-23T05:18:38.041886-07:00"
-  },
-  {
-    "item": {
-      "company": "CARPL.ai",
-      "amount": "$10.0M",
-      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFdWbndKWmUxSmg2TnNSLVU3RXMyYjNLU3dqRnRycWNzWm5vZ0ZMbEV2bWJpWnJqaHo2OWxWazVTOExnT2hteVlnVnRnZHp3ZHBYdEZwMlB4anc1eDNKR05MTUpVUWZjUVpYZFZIWFFfMEN5aktUempNYW16QkE0Ty01VXBrZXV1S2I0TElMeGx0ZkNRRjhJSQ?oc=5",
-      "priority": 8
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaXpqaHFjdDhfVVZINHZRaXQ4WGlzMmwxMjE3ZEp5am05RXRNblhkVlhoa0E4Y01pM2Q0RXNRNkVDX0FCSGo4SmJuZGQ2eUtOVjlMLXB2QTc5bTQ3WGlSZ1pRa2hONS1adkVmX1hxb1JJazZDd1J0emQwVHQxT1NEUHlvd0dFYlVZdUpEZ0ZSQjVIVlF3NG5VM1Z6bnFGU0hudm52MHl6VzA5V3pQWXRIZC1LLWkxUUJUNENN?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-07-23T05:18:40.329137-07:00"
+    "remind_at": "2026-07-23T07:12:54.605986-07:00"
   },
   {
     "item": {
-      "company": "CARPL.ai",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZnAwazBmX1Z1M3BmbVA4UjFObkx2WktOWm9uMVJJa2NHaWM4M2prLXdRYldmVUhrX3BZbXR2VF92SEtMZF9kQkZFMEw1WldlWVVJdmhqd1VZekpTS3g0RENPa09TMmtUNlZ5OUNRM0ZWWlpKZ0E4b3JGWnlzcno3c3h5bWxmd3BIbWEyTU4xWnN3LTNrNnh6NDlZOG1FNknSAZ8BQVVfeXFMTWZwMGswZl9WdTNwZm1QOFIxTm5MdlpLTlpvbjFSSWtjR2ljODNqay13UWJXZlVIa19wWW10dlRfdkhLTGRfZEJGRTBMNVpXZVlVSXZoandVWXpKU0t4NERDT2tPUzJrVDZWeTlDUTNGVlpaSmdBOG9yRlp5c3J6N3N4eW1sZndwSG1hMk1OMVpzdy0zazZ4ejQ5WThtRTZJ?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-07-23T05:18:42.527022-07:00"
-  },
-  {
-    "item": {
-      "company": "BusinessNext",
-      "amount": "$40.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/businessnext-raises-40m-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-07-23T05:18:44.717083-07:00"
-  },
-  {
-    "item": {
-      "company": "Why your town",
+      "company": "Abstract Security",
       "amount": "$25.0M",
-      "stage": null,
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/",
-      "priority": 3
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/23/abstract-security-raises-25m-series-extension-recurring-revenue-380/",
+      "priority": 8
     },
-    "remind_at": "2026-07-23T05:18:47.889568-07:00"
+    "remind_at": "2026-07-23T07:12:57.543338-07:00"
   },
   {
     "item": {
-      "company": "\u20ac4.2M",
+      "company": "Ropedia",
+      "amount": "$22.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": "AI Singapore",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/23/ropedia-raises-22m-scale-human-centric-data-collection-embodied-ai/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-23T07:12:59.682652-07:00"
+  },
+  {
+    "item": {
+      "company": "Wall Street",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/aampere-raises-4-2m-trind-ventures-used-ev-platform/",
+      "founders": [
+        "Bill Mc"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/23/servicenow-beats-q2-earnings-estimates-market-starts-to-buy-ceo-bill-mcdermott-ai-narrative/",
       "priority": 3
     },
-    "remind_at": "2026-07-23T05:18:50.050345-07:00"
+    "remind_at": "2026-07-23T07:13:02.605461-07:00"
   },
   {
     "item": {
-      "company": "Uber founder Travis Kalanick\u2019s Atoms",
+      "company": "Europe just fined Google $1 billion",
+      "amount": "$1.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/23/eu-google-billion-fine-search-play-store",
+      "priority": 3
+    },
+    "remind_at": "2026-07-23T07:13:05.596043-07:00"
+  },
+  {
+    "item": {
+      "company": "KelAI",
+      "amount": "$5.0M",
+      "stage": null,
+      "investors": null,
+      "location": "The NYC",
+      "founders": [],
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/07/kelai-ai-hedge-fund-research-autonomous-investment-intelligence-quant-platform-jeremie-cohen/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-23T07:13:07.897239-07:00"
+  },
+  {
+    "item": {
+      "company": "Travis Kalanick\u2019s Atoms",
       "amount": "$1.7B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXNOdXJONFRNak56T2M1bXF2SE4wVzRuNXE2bHM2MGVfLVE2M1lxTDhRXzBYcjlHc2VGUlVFQlNMS1c3UzdaOGhQak53QlRaVmFJTVdua3RNTktGVXZJNnZrdGhuWnk2NXQwTXIwZFBBQ1JnY1BrX245SkItVTBSRTBwTTdCNkRpRGlXbTR5TkhCTTB1aXU1Xw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORldZMjFFblNKcklOdEU4TzZPdE1KaVJTNmpUd0gyb0x6SnhnaWRmV3hWUnBxMW9iUU5LdHY5VkhFZHJVbDhJNXh0MExZVEdGOTZqM0hBcVFfUnBpYnFCZ0g1NS1DTl9JbjZmYUh4LUMwRmZXWVM0N1ZIZFlQdGE5OC1NTWF0Yk1QOURpM29GRlVNSDU2SVExd09CRjAxTjJFcnNxd25wWkFQQdIBrwFBVV95cUxOdzgwQnEtMnVYZmFGTkgzbDBZd3pXeFRRZTRyV1lSaHNsaVdkWWxxSnlaYlFxTEpyMzdxVFVoOXlXTjFETVVXRDAxME94Nks4RnhLZlllRTlHWFBZbTBzUGVycnROUFVveFltZGNaT3d0ZmE5aDFnNXB2amdUN09uVUNnSDdhdzJVYXRoSXJtNEVTYlVhZU9haFBITnZuM3pYSjBSQzNSemFHLUQtTXpn?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-23T05:18:52.906297-07:00"
+    "remind_at": "2026-07-23T07:13:10.960219-07:00"
   },
   {
     "item": {
-      "company": "Asana",
-      "amount": null,
+      "company": "Travis Kalanick's Atoms",
+      "amount": "$1.7B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQelBLbDFveFcwYU1TZ2RWekVrVFBuOTVNRk5IRWk3MkxmNmR0WTY0blk0MDFFdU9lTVJBNnF4d1NmWm8tMHVWNXUwc1d1eHRZQVdiRDBhTThKWTNjZDF2OWd0U2FCSjdyNTZNUW9hc05fM2FXNUNfMzhPVXBra3MxNWl2cG1jTkZ5OE9zbGRKNjJMZkFJcnlDTEJMV0YzRHRVUE1PWEFQbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSldZaGpBNXRVb2JreTBLUnFDQ3ZwZ3dCRU5xUGlaR2lKQllLSm9mSS0yN3V3RUctdVhvX1RUQWU5YVJGdGdGV2RoRnFNcjJQVk16Y0hSTVpLck9UYkszU1ZmWVB2U0J3a3g3bTRRYllfd1hmRGlWdFg1UG1GYTJJWTJ6MWRVUFhPWWVpU1F4clJKdw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-23T05:18:56.728148-07:00"
+    "remind_at": "2026-07-23T07:13:13.858626-07:00"
+  },
+  {
+    "item": {
+      "company": "Cyera",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ3E4S2w4eVpQV2FSRkxMTjNmNHRmUmxfSUJwZXZJYjhuLTd0QURCSXljeVZ5azVYbHA4Q2FxTTZNLVlPQnppTTRyNkxjVnliU0VXdHJtUVBBS3RPNnVsTnFWOE5jdnlEUkZKSEdXZURGMzU4VUltZXpmMkx2a2pRWGZKdTM2dnltcndBVWNqVXVodTNXdXBSUFpUMWJTMzBnZ2RBVXluWQ?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-23T07:13:16.135061-07:00"
   }
 ]
