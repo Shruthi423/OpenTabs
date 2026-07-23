@@ -1,142 +1,58 @@
 [
   {
     "item": {
-      "company": "UpKraft",
-      "amount": null,
-      "stage": "Pre-Seed",
+      "company": "Etched",
+      "amount": "$300.0M",
+      "stage": "Series C",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOczF1em1fTE5DcGRGUVo3YzNxdEMtdHBuY3BwdXozVE1pdC1rTy0wZXhlR1RZejRudml1V0t0MEt6bThyWFNwRGhDM2gxWGlPY1NJMGNnNkk5dE1pcWpfUC1aTGJqdGluSDVfd2ZYczZFLUdKQVJrOHNwSjRMMjExQ2tNeldMZ3Ewc3ZNaGdxZ18zMmk3UERja0s5elhiTW1obDY2WTRBcFhsclZ2SkVRX240U3I5MG5LdkYwdFhTU0xHZ0VtMEZnam52RmlfOUJrQXBIVDFKcGh4SlFjXzNFdGUyZ0doQ1c2THRxR1VrNHZMYWJLUENVZ0l6VHFyUHZyT0lj?oc=5",
-      "priority": 10
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN0gyY25YSTFMbV9MczdqM0d0UXA3MHRqdl9DUFlOazhJTXZqNVh6X1lrNWxwUWNrZjJSMjR3Z2pGN1p0ek56TlZpZnJOTlhPYkRXNWFfUFdnMVVWNTJ6RDU5MjlKc2xhNFV3VFdZVkVaLTF3R0RuTzJaNWdYUXlfSHRzQVAxWk5jV01nOWZXSnJ4cmpHVW1zaTBsUldOMGo0Nnc?oc=5",
+      "priority": 6
     },
-    "remind_at": "2026-07-23T09:06:44.483654-07:00"
+    "remind_at": "2026-07-23T10:34:51.265528-07:00"
   },
   {
     "item": {
-      "company": "Edtech platform",
-      "amount": "$4.5M",
-      "stage": "Seed",
-      "investors": "including Brighteye Ventures, Day One Capital, and artist Wil",
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-23T09:06:47.774082-07:00"
-  },
-  {
-    "item": {
-      "company": "Norway's EQON",
-      "amount": "$6.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qOGV6a1V2cmw1WTlobHJqQ0sxaUhkR1BYd0Z1eVUtXzl3T0FjeGVBMlVBTjVscUMyRHVqUi1hWTVqR3BNcWE5VHlURlkyMTUwcnlWdnVuZ0NWMmdEUkZ3MGVpWdIBY0FVX3lxTE5qOGV6a1V2cmw1WTlobHJqQ0sxaUhkR1BYd0Z1eVUtXzl3T0FjeGVBMlVBTjVscUMyRHVqUi1hWTVqR3BNcWE5VHlURlkyMTUwcnlWdnVuZ0NWMmdEUkZ3MGVpWQ?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-07-23T09:06:51.128864-07:00"
-  },
-  {
-    "item": {
-      "company": "Wiffy",
-      "amount": "$3.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOFpUM1dDWkRZbEZuVXYxZ1BzSDV6eUpxY05QUjluNEwybXB5WkVXVEZGeHlmWTI2b3BkZk5SLUFlMVN0VndCQWcyN3hGQ19WeXZONzRaaTFIZUxoLWY4SVZpaXhJVC10UE9QU3RZaEw3cFNKQlpUYndwbnZNcnQtcEl3OC11TGpIYTJKNkZtWGRielc4NV9oWi1RSXBSRGJSTmtwR2dPYzhCNW1BRVA0aXl0WGpEeGUzNmZNZjlaT204Qk5DRVp4WFFSWkZRTUt5bUkxLXBQeFhXbDY1bzlzQVN6REpSdw?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-07-23T09:06:53.609608-07:00"
-  },
-  {
-    "item": {
-      "company": "Ropedia",
+      "company": "Democrats decide 2026 midterm elections",
       "amount": "$30.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/23/ropedia-raises-30m-to-build-the-data-infrastructure-powering-physical-ai-and-robotics/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/23/midterms-2026-democratic-republican-infighting-socialism/",
       "priority": 3
     },
-    "remind_at": "2026-07-23T09:06:56.042542-07:00"
+    "remind_at": "2026-07-23T10:34:54.168840-07:00"
   },
   {
     "item": {
-      "company": "Bybit expands Dual Asset",
+      "company": "Battleground House district",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "New York",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/23/bybit-expands-dual-asset-with-xstocks-offering-yield-on-tokenized-stocks-like-spacex-nvidia-apple-and-amazon/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/23/amish-shah-jay-feely-jets-teammates-congress/",
       "priority": 3
     },
-    "remind_at": "2026-07-23T09:06:59.374263-07:00"
+    "remind_at": "2026-07-23T10:34:57.210964-07:00"
   },
   {
     "item": {
-      "company": "AMD",
-      "amount": "$1.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/23/top-tech-news-today-july-23-2026-amd-anthropic-google-samsung-spacex-more/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-23T09:07:01.909860-07:00"
-  },
-  {
-    "item": {
-      "company": "OfferUp",
+      "company": "Devoted Health",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1hsZFhqNWRrTmZnenF6U1hUaDlkNnJSb3dydUJyZFhaUllGX0JEMkw0VDM4eXBVUDJVcXc3YzJCdHRqYkc2MW9FRkswa3V1ay0wdDFXRWRoZHBGOS12M215WlVkdjlqSmdBMWtaeVZQSXpQNFBqV1M3SUUzXzRRUjVrYTRXS2VRdXgtRm9oU1Vpc0kwSTVKRWttZlg4dUhTVDQ2WDlUQlZ3dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUzZjdXR5RktuYVUwYUF2cFNMSGJtVEFJNnFHT05hcGRvN1BJTk56TFZuaFlrR2VkQU82SHdkOXFDOHl0X1R2NDgwNVE3aDNCcEJJaDlmVUZQQ1BSXy1YQlNJM2Jla0NrbmNMSUN4VGhOcF9KRmwzbUk3Zl9IbmNCN1pKRndPX0xBRFJZWTJXa3R0VWpPZ1JaNjdHc05OUjFYa1pLaGJkd0FpLXkyVHI0bHRjZw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-23T09:07:04.360857-07:00"
-  },
-  {
-    "item": {
-      "company": "Wiz",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcXZmOGtESnJRVWJDMTRoTDNaQk1NaUlLYVRLOHgxaU5SR3VFTUNxMnFLQ0FZZHY4Si0zQTlHbXZzZnNHUHBzLTM3RFBLVzB2c1FKTXU5RFlCS1h3MThEOENMZjJhaDJrMy1NQTl4MHh5Zmk3MmxCRHJwUk1QdzNqaFlfd3liaFJsRG1IR1FUR0loSTE4Sk9zOTVPaHhFTHl5VUJaWg?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-23T09:07:06.727282-07:00"
-  },
-  {
-    "item": {
-      "company": "Unity",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVThKMFZKTUJaQmx0WEs4M3kyczFsTlZQaVZOdXNDektlX1BpQUZWWHFEMU9lMkxNV21zcmo1T1dRMW1qZE12bEJ4dHE2UlJrTm1JSEIwaXZYQUwxcVI2MDV3UkIwZzhOTGlJN0JkWTMwNWt0elQwenBSV040QU5na05QdHpwX0RaZnlud0FyUDY3X2pEaVJVWDFaaFhQS3VHNnNYem8wMA?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-23T09:07:09.209188-07:00"
+    "remind_at": "2026-07-23T10:35:00.081971-07:00"
   }
 ]
