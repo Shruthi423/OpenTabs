@@ -28677,5 +28677,35 @@
     "roles": [],
     "first_seen": "2026-07-23T15:15:06.628657-07:00",
     "status": "active"
+  },
+  "6a98ee69e91204dac7ff584ef75fc8e3": {
+    "id": "6a98ee69e91204dac7ff584ef75fc8e3",
+    "company": "has crossed $200 million in ARR",
+    "amount": "$200.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/23/innovaccers-ceo-walked-away-from-disney-and-nasa-to-fix-healthcares-data-mess-now-the-startup-has-crossed-200-million-in-arr/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-23T16:13:13.156631-07:00",
+    "status": "active"
+  },
+  "d51b4903fcf4dd8fccc468e3db198fc2": {
+    "id": "d51b4903fcf4dd8fccc468e3db198fc2",
+    "company": "House GOP's parting message",
+    "amount": "$95.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/23/house-senate-republicans-reconciliation-save-act",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-23T16:13:16.330115-07:00",
+    "status": "active"
   }
 }
