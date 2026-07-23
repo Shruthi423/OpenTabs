@@ -1,88 +1,128 @@
 [
   {
     "item": {
-      "company": "Epic Markets",
-      "amount": "$10.0M",
-      "stage": "Pre-Seed",
+      "company": "Lasken AI",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "GapMinder to expand its healthcare data intelligence platform across Europe",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/gapminder-leads-seed-funding-round-in-croatian-healthtech-startup-lasken-ai/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-23T05:18:35.672607-07:00"
+  },
+  {
+    "item": {
+      "company": "Cashboard",
+      "amount": "$5.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/epic-markets-raises-10m-pre-seed/",
-      "priority": 10
+      "url": "https://www.thesaasnews.com/news/cashboard-raises-5m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-07-23T03:25:56.234775-07:00"
+    "remind_at": "2026-07-23T05:18:38.041886-07:00"
   },
   {
     "item": {
-      "company": "ChatFeatured",
-      "amount": "$2.0M",
-      "stage": "Pre-Seed",
-      "investors": "Storytime Capital to build an autonomous AI search optimization agent for marketing teams",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/chatfeatured-raises-2m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-23T03:25:58.499149-07:00"
-  },
-  {
-    "item": {
-      "company": "Neon Commerce",
-      "amount": "$13.0M",
+      "company": "CARPL.ai",
+      "amount": "$10.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/neon-commerce-raises-13m-series-a/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFdWbndKWmUxSmg2TnNSLVU3RXMyYjNLU3dqRnRycWNzWm5vZ0ZMbEV2bWJpWnJqaHo2OWxWazVTOExnT2hteVlnVnRnZHp3ZHBYdEZwMlB4anc1eDNKR05MTUpVUWZjUVpYZFZIWFFfMEN5aktUempNYW16QkE0Ty01VXBrZXV1S2I0TElMeGx0ZkNRRjhJSQ?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-07-23T03:26:01.526774-07:00"
+    "remind_at": "2026-07-23T05:18:40.329137-07:00"
   },
   {
     "item": {
-      "company": "Spain lifted the World Cup",
-      "amount": "$50.0M",
+      "company": "CARPL.ai",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZnAwazBmX1Z1M3BmbVA4UjFObkx2WktOWm9uMVJJa2NHaWM4M2prLXdRYldmVUhrX3BZbXR2VF92SEtMZF9kQkZFMEw1WldlWVVJdmhqd1VZekpTS3g0RENPa09TMmtUNlZ5OUNRM0ZWWlpKZ0E4b3JGWnlzcno3c3h5bWxmd3BIbWEyTU4xWnN3LTNrNnh6NDlZOG1FNknSAZ8BQVVfeXFMTWZwMGswZl9WdTNwZm1QOFIxTm5MdlpLTlpvbjFSSWtjR2ljODNqay13UWJXZlVIa19wWW10dlRfdkhLTGRfZEJGRTBMNVpXZVlVSXZoandVWXpKU0t4NERDT2tPUzJrVDZWeTlDUTNGVlpaSmdBOG9yRlp5c3J6N3N4eW1sZndwSG1hMk1OMVpzdy0zazZ4ejQ5WThtRTZJ?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-23T05:18:42.527022-07:00"
+  },
+  {
+    "item": {
+      "company": "BusinessNext",
+      "amount": "$40.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/businessnext-raises-40m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-07-23T05:18:44.717083-07:00"
+  },
+  {
+    "item": {
+      "company": "Why your town",
+      "amount": "$25.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/23/spain-fifa-world-cup-irs-50-million-jock-taxes/",
+      "url": "https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/",
       "priority": 3
     },
-    "remind_at": "2026-07-23T03:26:04.487603-07:00"
+    "remind_at": "2026-07-23T05:18:47.889568-07:00"
   },
   {
     "item": {
-      "company": "Don't fall",
+      "company": "\u20ac4.2M",
       "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Washington",
-      "founders": [
-        "Jensen Huang"
-      ],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/23/nvidia-ceo-kimi-ai-fears-trump-washington",
-      "priority": 3
-    },
-    "remind_at": "2026-07-23T03:26:08.826743-07:00"
-  },
-  {
-    "item": {
-      "company": "Yope",
-      "amount": "$12.3M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/yope-raises-12-3m-other/",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/aampere-raises-4-2m-trind-ventures-used-ev-platform/",
       "priority": 3
     },
-    "remind_at": "2026-07-23T03:26:10.983187-07:00"
+    "remind_at": "2026-07-23T05:18:50.050345-07:00"
+  },
+  {
+    "item": {
+      "company": "Uber founder Travis Kalanick\u2019s Atoms",
+      "amount": "$1.7B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXNOdXJONFRNak56T2M1bXF2SE4wVzRuNXE2bHM2MGVfLVE2M1lxTDhRXzBYcjlHc2VGUlVFQlNMS1c3UzdaOGhQak53QlRaVmFJTVdua3RNTktGVXZJNnZrdGhuWnk2NXQwTXIwZFBBQ1JnY1BrX245SkItVTBSRTBwTTdCNkRpRGlXbTR5TkhCTTB1aXU1Xw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-23T05:18:52.906297-07:00"
+  },
+  {
+    "item": {
+      "company": "Asana",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQelBLbDFveFcwYU1TZ2RWekVrVFBuOTVNRk5IRWk3MkxmNmR0WTY0blk0MDFFdU9lTVJBNnF4d1NmWm8tMHVWNXUwc1d1eHRZQVdiRDBhTThKWTNjZDF2OWd0U2FCSjdyNTZNUW9hc05fM2FXNUNfMzhPVXBra3MxNWl2cG1jTkZ5OE9zbGRKNjJMZkFJcnlDTEJMV0YzRHRVUE1PWEFQbw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-23T05:18:56.728148-07:00"
   }
 ]
