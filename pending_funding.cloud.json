@@ -1,30 +1,30 @@
 [
   {
     "item": {
-      "company": "The Trump administration",
-      "amount": "$200.0B",
+      "company": "Corgi reportedly",
+      "amount": "$4.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-23T14:42:32.540475-07:00"
+  },
+  {
+    "item": {
+      "company": "AI agents",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/23/trump-science-overhaul-gentleman-scientist/",
+      "url": "https://fortune.com/2026/07/23/dead-internet-theory-bots-agents-majority-web-traffic/",
       "priority": 3
     },
-    "remind_at": "2026-07-23T13:31:09.705817-07:00"
-  },
-  {
-    "item": {
-      "company": "Investors want a bigger reward",
-      "amount": "$15.0B",
-      "stage": null,
-      "investors": "to lend their money, especially for the longer run",
-      "location": "Washington",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/23/rates-treasury-yields-borrowing",
-      "priority": 3
-    },
-    "remind_at": "2026-07-23T13:31:12.651547-07:00"
+    "remind_at": "2026-07-23T14:42:34.702741-07:00"
   }
 ]

@@ -28632,5 +28632,35 @@
     "roles": [],
     "first_seen": "2026-07-23T13:01:13.651700-07:00",
     "status": "active"
+  },
+  "afecf470c7db8fa54e82021becb9cb4b": {
+    "id": "afecf470c7db8fa54e82021becb9cb4b",
+    "company": "Corgi reportedly",
+    "amount": "$4.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-23T14:12:33.540652-07:00",
+    "status": "active"
+  },
+  "2f2f99889cfebab2124cd28fbb49fcdb": {
+    "id": "2f2f99889cfebab2124cd28fbb49fcdb",
+    "company": "AI agents",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/23/dead-internet-theory-bots-agents-majority-web-traffic/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-23T14:12:35.702938-07:00",
+    "status": "active"
   }
 }
