@@ -1,58 +1,128 @@
 [
   {
     "item": {
-      "company": "Berlin\u2019s telli",
-      "amount": "$15.0M",
+      "company": "Petra Labs",
+      "amount": "$5.2M",
       "stage": "Seed",
-      "investors": "redalpine, Cherry, and YC The obvious pitch was sitting right there",
-      "location": "Berlin",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/telli-raises-15m-redalpine-ai-voice-agents/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-22T22:02:55.504395-07:00"
-  },
-  {
-    "item": {
-      "company": "New Mossad director met",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Washington",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/22/mossad-director-gofman-ratcliffe-iran",
-      "priority": 3
-    },
-    "remind_at": "2026-07-22T22:02:58.811061-07:00"
-  },
-  {
-    "item": {
-      "company": "\ufffcAssured",
-      "amount": "$19.0M",
-      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGxBRWNFd1A2R2pLZkN3U20xQmdmTW0ycmtkU040d1BHbzRGYnRqNERwRFpYUWhLendEbFVsTWtzcXRRa01oT21Lc1FDd1lGU3RnLXR0MndFc01jcFMtZGtpa0RKNkxRdTRZanNyTkN5VDF4LVlhVFF6RVQ5d1ZxU3l2cVpxa3VxeFV2dlR1V2ZHOWpjMjZ4MjZoQzh1UzZ0ZVFaZzhCVmtlV3hCdnh5blNmSklXV1hOOHZTN3k2eXk?oc=5",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/petra-labs-raises-5-2m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-07-22T22:03:01.628204-07:00"
+    "remind_at": "2026-07-23T00:48:28.231061-07:00"
   },
   {
     "item": {
-      "company": "Atoms",
-      "amount": "$1.2B",
-      "stage": null,
+      "company": "telli",
+      "amount": "$15.0M",
+      "stage": "Seed",
+      "investors": "redalpine to scale its AI agents for customer operations across B2C enterprises",
+      "location": "Seed Berlin",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/telli-raises-15m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-23T00:48:30.497265-07:00"
+  },
+  {
+    "item": {
+      "company": "Klaimee",
+      "amount": "$5.5M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/klaimee-raises-5-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-23T00:48:32.770772-07:00"
+  },
+  {
+    "item": {
+      "company": "NeuralKart",
+      "amount": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaaWtJRUlZdV9WTVRlbnR0YmtJTW55dnQ4c24zaXBXakpQVklXUkMzMlB4Skp3dV8wbldYQmpvRkxhWU41S1h0R0RZYzZuaF9RZTNZNVlMQ2I3SkYxWWNQRlJwQ0pxdUJ0aFNnX3Zkay1GNG5GanVoU3h0bHRqWU0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbE44eFRMYXNidWtDUlA4ejZ1Zmg4ZEpFTmZBNTBSYWVlcmFrUnBvZXJIS1phMkJlNm5TYnFCdnFYTXY2TmtPTjJUZ2Y1ODFQZnZ0WGZuVHFHa3I5UXUyWUFmLVEzcVVFOHd2b0FhOHM4VXE5VFJFMnpWM0w0S1l2Z25sdkRFcVk4eFRaYzZ3SUFacEVoMkZUUllwSU5Vc2ZIZm5mdkg0TDdkT0VfVXlrd05IX2xXVzhjUjJLOXA3SC3SAcABQVVfeXFMT2xOOHhUTGFzYnVrQ1JQOHo2dWZoOGRKRU5mQTUwUmFlZXJha1Jwb2VySEtaYTJCZTZuU2JxQnZxWE12Nk5rT04yVGdmNTgxUGZ2dFhmblRxR2tyOVF1MllBZi1RM3FVRTh3dm9BYThzOFVxOVRSRTJ6VjNMNEtZdmdubHZERXFZOHhUWmM2d0lBWnBFaDJGVFJZcElOVXNmSGZuZnZINEw3ZE9FX1V5a3dOSF9sV1c4Y1IySzlwN0gt?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-23T00:48:35.039196-07:00"
+  },
+  {
+    "item": {
+      "company": "Namdo Market",
+      "amount": "$4.05M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/namdo-market-raises-4-05m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-23T00:48:38.141683-07:00"
+  },
+  {
+    "item": {
+      "company": "Arrakis",
+      "amount": "$30.0M",
+      "stage": "Series A",
+      "investors": "Blossom Capital to expand its industrial AI agent deployment platform across the US, Europe, and the Middle East",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/arrakis-raises-30m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-23T00:48:40.440356-07:00"
+  },
+  {
+    "item": {
+      "company": "ServiceNow bets $40 million",
+      "amount": "$40.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
       "priority": 3
     },
-    "remind_at": "2026-07-22T22:03:03.998078-07:00"
+    "remind_at": "2026-07-23T00:48:43.456919-07:00"
+  },
+  {
+    "item": {
+      "company": "Ex-VC Jen Phan",
+      "amount": "$15.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/passionfroot-raises-15m-jen-phan-new-york-us-expansion/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-23T00:48:46.340104-07:00"
+  },
+  {
+    "item": {
+      "company": "Uber founder Travis Kalanick",
+      "amount": "$1.7B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXNOdXJONFRNak56T2M1bXF2SE4wVzRuNXE2bHM2MGVfLVE2M1lxTDhRXzBYcjlHc2VGUlVFQlNMS1c3UzdaOGhQak53QlRaVmFJTVdua3RNTktGVXZJNnZrdGhuWnk2NXQwTXIwZFBBQ1JnY1BrX245SkItVTBSRTBwTTdCNkRpRGlXbTR5TkhCTTB1aXU1Xw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-23T00:48:49.194144-07:00"
   }
 ]
