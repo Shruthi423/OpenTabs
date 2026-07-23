@@ -1,5 +1,52 @@
 [
   {
+    "id": "777e2600f0819b7edef6722727c3074e",
+    "company": "Tesla's push into AI and robotics",
+    "amount": "$25.0B",
+    "stage": "?",
+    "investors": "and analysts on a call late Wednesday",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending",
+    "priority": 3,
+    "founders": [
+      "Elon Musk"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-22T18:02:37.291348-07:00",
+    "status": "active"
+  },
+  {
+    "id": "00af5c3c7862fdc15440bcaffa52a2e6",
+    "company": "Physical AI",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/22/physical-ai-investments-power-amd-ecosystem-growth-amdadvancingai/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-22T18:02:34.412911-07:00",
+    "status": "active"
+  },
+  {
+    "id": "b8feb10c68398fa7c1c55ffd73a21ebc",
+    "company": "Alphabet\u2019s stock sinks",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/22/alphabets-stock-sinks-bumps-ai-infrastructure-spending-yet/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-22T18:02:32.187050-07:00",
+    "status": "active"
+  },
+  {
     "id": "cb3494400915f928308cd1e2e8f9d971",
     "company": "Kalanick's Atoms",
     "amount": "Undisclosed",

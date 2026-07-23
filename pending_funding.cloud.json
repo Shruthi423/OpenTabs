@@ -1,44 +1,46 @@
 [
   {
     "item": {
-      "company": "ServiceNow beats estimates and",
-      "amount": "$1.0B",
+      "company": "Alphabet\u2019s stock sinks",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/22/servicenow-beats-estimates-raises-outlook-ai-passes-1b-bookings/",
+      "url": "https://siliconangle.com/2026/07/22/alphabets-stock-sinks-bumps-ai-infrastructure-spending-yet/",
       "priority": 3
     },
-    "remind_at": "2026-07-22T16:59:30.739664-07:00"
+    "remind_at": "2026-07-22T18:32:31.186874-07:00"
   },
   {
     "item": {
-      "company": "Uber founder Travis Kalanick",
+      "company": "Physical AI",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmpNS2pVTFN5dEpwa0hRYS1VSnZNd0U3ZHRpcVYwWDN3b01KV3NaancyMnhETGxDeHJIS2w5MU1BRkVQS1ExeW8yQlJQQVBUMFQtLTNRWi1obnE3RzIwdVItTU5mUWtuS2NsZGUtR3lYZ0J6MHBoWWNNNE8wTmtLT0theHk?oc=5",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/22/physical-ai-investments-power-amd-ecosystem-growth-amdadvancingai/",
       "priority": 3
     },
-    "remind_at": "2026-07-22T16:59:33.982217-07:00"
+    "remind_at": "2026-07-22T18:32:33.412748-07:00"
   },
   {
     "item": {
-      "company": "Kalanick's Atoms",
-      "amount": null,
+      "company": "Tesla's push into AI and robotics",
+      "amount": "$25.0B",
       "stage": null,
-      "investors": null,
+      "investors": "and analysts on a call late Wednesday",
       "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFNBYXFHNFAzYVVTQXFGcnpORElkS0hudERhaDd2a0Fza1dOTmE5UXZHYjVvVGw5NnBkOFV6WXpGSUp6TVJ3bXVvZURXWGQ5YVBCSGpvMWlOcWVDckdSVDFMVlJ0aFV6SnZURlB2YWlxUkNtLVJPS3JMUHFwb1NEQUVMTEtHZHll?oc=5",
+      "founders": [
+        "Elon Musk"
+      ],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending",
       "priority": 3
     },
-    "remind_at": "2026-07-22T16:59:37.231168-07:00"
+    "remind_at": "2026-07-22T18:32:36.291152-07:00"
   }
 ]
