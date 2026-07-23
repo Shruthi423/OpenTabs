@@ -1,46 +1,58 @@
 [
   {
     "item": {
-      "company": "Alphabet\u2019s stock sinks",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
+      "company": "Berlin\u2019s telli",
+      "amount": "$15.0M",
+      "stage": "Seed",
+      "investors": "redalpine, Cherry, and YC The obvious pitch was sitting right there",
+      "location": "Berlin",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/22/alphabets-stock-sinks-bumps-ai-infrastructure-spending-yet/",
-      "priority": 3
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/telli-raises-15m-redalpine-ai-voice-agents/",
+      "priority": 9
     },
-    "remind_at": "2026-07-22T18:32:31.186874-07:00"
+    "remind_at": "2026-07-22T22:02:55.504395-07:00"
   },
   {
     "item": {
-      "company": "Physical AI",
+      "company": "New Mossad director met",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "Washington",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/22/physical-ai-investments-power-amd-ecosystem-growth-amdadvancingai/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-22T18:32:33.412748-07:00"
-  },
-  {
-    "item": {
-      "company": "Tesla's push into AI and robotics",
-      "amount": "$25.0B",
-      "stage": null,
-      "investors": "and analysts on a call late Wednesday",
-      "location": null,
-      "founders": [
-        "Elon Musk"
-      ],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending",
+      "url": "https://www.axios.com/2026/07/22/mossad-director-gofman-ratcliffe-iran",
       "priority": 3
     },
-    "remind_at": "2026-07-22T18:32:36.291152-07:00"
+    "remind_at": "2026-07-22T22:02:58.811061-07:00"
+  },
+  {
+    "item": {
+      "company": "\ufffcAssured",
+      "amount": "$19.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGxBRWNFd1A2R2pLZkN3U20xQmdmTW0ycmtkU040d1BHbzRGYnRqNERwRFpYUWhLendEbFVsTWtzcXRRa01oT21Lc1FDd1lGU3RnLXR0MndFc01jcFMtZGtpa0RKNkxRdTRZanNyTkN5VDF4LVlhVFF6RVQ5d1ZxU3l2cVpxa3VxeFV2dlR1V2ZHOWpjMjZ4MjZoQzh1UzZ0ZVFaZzhCVmtlV3hCdnh5blNmSklXV1hOOHZTN3k2eXk?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-22T22:03:01.628204-07:00"
+  },
+  {
+    "item": {
+      "company": "Atoms",
+      "amount": "$1.2B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaaWtJRUlZdV9WTVRlbnR0YmtJTW55dnQ4c24zaXBXakpQVklXUkMzMlB4Skp3dV8wbldYQmpvRkxhWU41S1h0R0RZYzZuaF9RZTNZNVlMQ2I3SkYxWWNQRlJwQ0pxdUJ0aFNnX3Zkay1GNG5GanVoU3h0bHRqWU0?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-22T22:03:03.998078-07:00"
   }
 ]
