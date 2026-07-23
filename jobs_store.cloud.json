@@ -9290,5 +9290,23 @@
     "first_seen": "2026-07-23T04:48:54.610607-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "2467f1650d6ce7cd4e110a3084e0b347": {
+    "id": "2467f1650d6ce7cd4e110a3084e0b347",
+    "title": "Product Designer",
+    "company": "Flint (S23)",
+    "location": "Remote (US)",
+    "salary": "$160K - $190K",
+    "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D100896&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28982",
+    "source": "Y Combinator",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-07-23T13:00:48.365699-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }

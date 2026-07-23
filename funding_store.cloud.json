@@ -28602,5 +28602,35 @@
     "roles": [],
     "first_seen": "2026-07-23T11:37:54.965396-07:00",
     "status": "active"
+  },
+  "2269933a4ea408281d1a202d173f374a": {
+    "id": "2269933a4ea408281d1a202d173f374a",
+    "company": "The Trump administration",
+    "amount": "$200.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/23/trump-science-overhaul-gentleman-scientist/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-23T13:01:10.705961-07:00",
+    "status": "active"
+  },
+  "f3d439d362aad8d5bcda3f85dcaca421": {
+    "id": "f3d439d362aad8d5bcda3f85dcaca421",
+    "company": "Investors want a bigger reward",
+    "amount": "$15.0B",
+    "stage": "?",
+    "investors": "to lend their money, especially for the longer run",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/23/rates-treasury-yields-borrowing",
+    "priority": 3,
+    "founders": [],
+    "location": "Washington",
+    "roles": [],
+    "first_seen": "2026-07-23T13:01:13.651700-07:00",
+    "status": "active"
   }
 }

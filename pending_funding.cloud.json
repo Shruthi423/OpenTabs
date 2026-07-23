@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "AMD",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "San Francisco",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/23/amd-debuts-next-generation-ai-infrastructure-frontier-models-agentic-workloads-autonomous-robots/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-23T12:07:47.806268-07:00"
-  },
-  {
-    "item": {
-      "company": "Uber Founder\u2019s Robotics Company Atoms",
-      "amount": "$1.7B",
+      "company": "The Trump administration",
+      "amount": "$200.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNXh6TTJYOG1icUUxbVdsbG01eEs2QVB4dFpiQTl5QUw1M3hpUmxPd0R0SDZuNnZQUzVEYTB1WUd4SC02UTlhOEVNUUdsYWJSN3RZSlFEcWFrVm5rQ1lWSjBfMXpmYlloRENTRnRYWWcxRXhrR2p6enh6UUFVX3Z0etIBgAFBVV95cUxQNXh6TTJYOG1icUUxbVdsbG01eEs2QVB4dFpiQTl5QUw1M3hpUmxPd0R0SDZuNnZQUzVEYTB1WUd4SC02UTlhOEVNUUdsYWJSN3RZSlFEcWFrVm5rQ1lWSjBfMXpmYlloRENTRnRYWWcxRXhrR2p6enh6UUFVX3Z0eg?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/23/trump-science-overhaul-gentleman-scientist/",
       "priority": 3
     },
-    "remind_at": "2026-07-23T12:07:51.269157-07:00"
+    "remind_at": "2026-07-23T13:31:09.705817-07:00"
   },
   {
     "item": {
-      "company": "kausable",
-      "amount": null,
+      "company": "Investors want a bigger reward",
+      "amount": "$15.0B",
       "stage": null,
-      "investors": null,
-      "location": null,
+      "investors": "to lend their money, especially for the longer run",
+      "location": "Washington",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWFlnSGxyV3VIb2RBbmZJY3c1RFQ2R3dpXy1iQzdsdXZJY2lOdGk0TzlTRWw1cktidThyb1RseUZ3ZzB4aE81MWhISlJ6eEdTM2xpZlZFVm9ZY1k3MVFuNzN1cXU0RVJrTWVvcVpOdXlyMjZ6b1ZJT3RRMDg5LXZhUnEySnFYUVExUVBwaGx3V0g4NElBUVVaTThvZkdSMGhfdWpfSDZEMmI5RmRGMVRkb2ZteUZVNm1Pay04c3VfUEduZm1BQjc3d3loMjBETS0xMXpjRVluLWxsRDR6NEdoMVQwYw?oc=5",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/23/rates-treasury-yields-borrowing",
       "priority": 3
     },
-    "remind_at": "2026-07-23T12:07:53.965234-07:00"
+    "remind_at": "2026-07-23T13:31:12.651547-07:00"
   }
 ]
