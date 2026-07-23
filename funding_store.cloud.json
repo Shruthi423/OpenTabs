@@ -28662,5 +28662,20 @@
     "roles": [],
     "first_seen": "2026-07-23T14:12:35.702938-07:00",
     "status": "active"
+  },
+  "261cfeed98c57fe37fbcd24f9414078f": {
+    "id": "261cfeed98c57fe37fbcd24f9414078f",
+    "company": "Trump rebuilds trade regime",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/23/trump-tariffs-trade-labor",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-23T15:15:06.628657-07:00",
+    "status": "active"
   }
 }
