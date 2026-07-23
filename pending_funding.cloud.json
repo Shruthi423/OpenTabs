@@ -1,128 +1,88 @@
 [
   {
     "item": {
-      "company": "Petra Labs",
-      "amount": "$5.2M",
-      "stage": "Seed",
+      "company": "Epic Markets",
+      "amount": "$10.0M",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/petra-labs-raises-5-2m-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/epic-markets-raises-10m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-07-23T00:48:28.231061-07:00"
+    "remind_at": "2026-07-23T03:25:56.234775-07:00"
   },
   {
     "item": {
-      "company": "telli",
-      "amount": "$15.0M",
-      "stage": "Seed",
-      "investors": "redalpine to scale its AI agents for customer operations across B2C enterprises",
-      "location": "Seed Berlin",
+      "company": "ChatFeatured",
+      "amount": "$2.0M",
+      "stage": "Pre-Seed",
+      "investors": "Storytime Capital to build an autonomous AI search optimization agent for marketing teams",
+      "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/telli-raises-15m-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/chatfeatured-raises-2m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-07-23T00:48:30.497265-07:00"
+    "remind_at": "2026-07-23T03:25:58.499149-07:00"
   },
   {
     "item": {
-      "company": "Klaimee",
-      "amount": "$5.5M",
-      "stage": "Seed",
+      "company": "Neon Commerce",
+      "amount": "$13.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/klaimee-raises-5-5m-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/neon-commerce-raises-13m-series-a/",
+      "priority": 8
     },
-    "remind_at": "2026-07-23T00:48:32.770772-07:00"
+    "remind_at": "2026-07-23T03:26:01.526774-07:00"
   },
   {
     "item": {
-      "company": "NeuralKart",
+      "company": "Spain lifted the World Cup",
+      "amount": "$50.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/23/spain-fifa-world-cup-irs-50-million-jock-taxes/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-23T03:26:04.487603-07:00"
+  },
+  {
+    "item": {
+      "company": "Don't fall",
       "amount": null,
-      "stage": "Seed",
+      "stage": null,
       "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbE44eFRMYXNidWtDUlA4ejZ1Zmg4ZEpFTmZBNTBSYWVlcmFrUnBvZXJIS1phMkJlNm5TYnFCdnFYTXY2TmtPTjJUZ2Y1ODFQZnZ0WGZuVHFHa3I5UXUyWUFmLVEzcVVFOHd2b0FhOHM4VXE5VFJFMnpWM0w0S1l2Z25sdkRFcVk4eFRaYzZ3SUFacEVoMkZUUllwSU5Vc2ZIZm5mdkg0TDdkT0VfVXlrd05IX2xXVzhjUjJLOXA3SC3SAcABQVVfeXFMT2xOOHhUTGFzYnVrQ1JQOHo2dWZoOGRKRU5mQTUwUmFlZXJha1Jwb2VySEtaYTJCZTZuU2JxQnZxWE12Nk5rT04yVGdmNTgxUGZ2dFhmblRxR2tyOVF1MllBZi1RM3FVRTh3dm9BYThzOFVxOVRSRTJ6VjNMNEtZdmdubHZERXFZOHhUWmM2d0lBWnBFaDJGVFJZcElOVXNmSGZuZnZINEw3ZE9FX1V5a3dOSF9sV1c4Y1IySzlwN0gt?oc=5",
-      "priority": 9
+      "location": "Washington",
+      "founders": [
+        "Jensen Huang"
+      ],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/23/nvidia-ceo-kimi-ai-fears-trump-washington",
+      "priority": 3
     },
-    "remind_at": "2026-07-23T00:48:35.039196-07:00"
+    "remind_at": "2026-07-23T03:26:08.826743-07:00"
   },
   {
     "item": {
-      "company": "Namdo Market",
-      "amount": "$4.05M",
-      "stage": "Series A",
+      "company": "Yope",
+      "amount": "$12.3M",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/namdo-market-raises-4-05m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-23T00:48:38.141683-07:00"
-  },
-  {
-    "item": {
-      "company": "Arrakis",
-      "amount": "$30.0M",
-      "stage": "Series A",
-      "investors": "Blossom Capital to expand its industrial AI agent deployment platform across the US, Europe, and the Middle East",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/arrakis-raises-30m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-23T00:48:40.440356-07:00"
-  },
-  {
-    "item": {
-      "company": "ServiceNow bets $40 million",
-      "amount": "$40.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "url": "https://www.thesaasnews.com/news/yope-raises-12-3m-other/",
       "priority": 3
     },
-    "remind_at": "2026-07-23T00:48:43.456919-07:00"
-  },
-  {
-    "item": {
-      "company": "Ex-VC Jen Phan",
-      "amount": "$15.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/passionfroot-raises-15m-jen-phan-new-york-us-expansion/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-23T00:48:46.340104-07:00"
-  },
-  {
-    "item": {
-      "company": "Uber founder Travis Kalanick",
-      "amount": "$1.7B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXNOdXJONFRNak56T2M1bXF2SE4wVzRuNXE2bHM2MGVfLVE2M1lxTDhRXzBYcjlHc2VGUlVFQlNMS1c3UzdaOGhQak53QlRaVmFJTVdua3RNTktGVXZJNnZrdGhuWnk2NXQwTXIwZFBBQ1JnY1BrX245SkItVTBSRTBwTTdCNkRpRGlXbTR5TkhCTTB1aXU1Xw?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-23T00:48:49.194144-07:00"
+    "remind_at": "2026-07-23T03:26:10.983187-07:00"
   }
 ]
