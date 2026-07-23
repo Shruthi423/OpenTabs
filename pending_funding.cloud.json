@@ -1,58 +1,44 @@
 [
   {
     "item": {
-      "company": "Etched",
-      "amount": "$300.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN0gyY25YSTFMbV9MczdqM0d0UXA3MHRqdl9DUFlOazhJTXZqNVh6X1lrNWxwUWNrZjJSMjR3Z2pGN1p0ek56TlZpZnJOTlhPYkRXNWFfUFdnMVVWNTJ6RDU5MjlKc2xhNFV3VFdZVkVaLTF3R0RuTzJaNWdYUXlfSHRzQVAxWk5jV01nOWZXSnJ4cmpHVW1zaTBsUldOMGo0Nnc?oc=5",
-      "priority": 6
-    },
-    "remind_at": "2026-07-23T10:34:51.265528-07:00"
-  },
-  {
-    "item": {
-      "company": "Democrats decide 2026 midterm elections",
-      "amount": "$30.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/23/midterms-2026-democratic-republican-infighting-socialism/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-23T10:34:54.168840-07:00"
-  },
-  {
-    "item": {
-      "company": "Battleground House district",
+      "company": "AMD",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": "New York",
+      "location": "San Francisco",
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/23/amish-shah-jay-feely-jets-teammates-congress/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/23/amd-debuts-next-generation-ai-infrastructure-frontier-models-agentic-workloads-autonomous-robots/",
       "priority": 3
     },
-    "remind_at": "2026-07-23T10:34:57.210964-07:00"
+    "remind_at": "2026-07-23T12:07:47.806268-07:00"
   },
   {
     "item": {
-      "company": "Devoted Health",
-      "amount": null,
+      "company": "Uber Founder\u2019s Robotics Company Atoms",
+      "amount": "$1.7B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUzZjdXR5RktuYVUwYUF2cFNMSGJtVEFJNnFHT05hcGRvN1BJTk56TFZuaFlrR2VkQU82SHdkOXFDOHl0X1R2NDgwNVE3aDNCcEJJaDlmVUZQQ1BSXy1YQlNJM2Jla0NrbmNMSUN4VGhOcF9KRmwzbUk3Zl9IbmNCN1pKRndPX0xBRFJZWTJXa3R0VWpPZ1JaNjdHc05OUjFYa1pLaGJkd0FpLXkyVHI0bHRjZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNXh6TTJYOG1icUUxbVdsbG01eEs2QVB4dFpiQTl5QUw1M3hpUmxPd0R0SDZuNnZQUzVEYTB1WUd4SC02UTlhOEVNUUdsYWJSN3RZSlFEcWFrVm5rQ1lWSjBfMXpmYlloRENTRnRYWWcxRXhrR2p6enh6UUFVX3Z0etIBgAFBVV95cUxQNXh6TTJYOG1icUUxbVdsbG01eEs2QVB4dFpiQTl5QUw1M3hpUmxPd0R0SDZuNnZQUzVEYTB1WUd4SC02UTlhOEVNUUdsYWJSN3RZSlFEcWFrVm5rQ1lWSjBfMXpmYlloRENTRnRYWWcxRXhrR2p6enh6UUFVX3Z0eg?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-23T10:35:00.081971-07:00"
+    "remind_at": "2026-07-23T12:07:51.269157-07:00"
+  },
+  {
+    "item": {
+      "company": "kausable",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWFlnSGxyV3VIb2RBbmZJY3c1RFQ2R3dpXy1iQzdsdXZJY2lOdGk0TzlTRWw1cktidThyb1RseUZ3ZzB4aE81MWhISlJ6eEdTM2xpZlZFVm9ZY1k3MVFuNzN1cXU0RVJrTWVvcVpOdXlyMjZ6b1ZJT3RRMDg5LXZhUnEySnFYUVExUVBwaGx3V0g4NElBUVVaTThvZkdSMGhfdWpfSDZEMmI5RmRGMVRkb2ZteUZVNm1Pay04c3VfUEduZm1BQjc3d3loMjBETS0xMXpjRVluLWxsRDR6NEdoMVQwYw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-23T12:07:53.965234-07:00"
   }
 ]
