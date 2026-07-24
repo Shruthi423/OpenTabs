@@ -1,142 +1,16 @@
 [
   {
     "item": {
-      "company": "bestat",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/bestat-raises-310m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-24T04:19:46.068716-07:00"
-  },
-  {
-    "item": {
-      "company": "Reme-D",
-      "amount": "$1.45M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdUo1NG5Eb2lYb2lXZElJdlh0UDdJMmZBd3FSX2ZSM0tLNmJPem1FYWo5c3lFalVOWDM0R3Mwa1FqRWVOc2dwenRaZWZTV1BiSHljd0NBZUh0clVDdzRCMHQwQ1BHa2FicHMzMzhEcnpwaHRQWHEzQmpkcGhwaFZwVHdYcXpRZlphLXd1WEt3cmNnMTAwb1RPRHJiZGJ4YlBNcGtwcjVtOA?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-07-24T04:19:48.360014-07:00"
-  },
-  {
-    "item": {
-      "company": "RevComm",
-      "amount": null,
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/revcomm-raises-3-35b-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-07-24T04:19:50.512307-07:00"
-  },
-  {
-    "item": {
-      "company": "Inside Larry Culp\u2019s turnaround of GE",
-      "amount": "$689.0B",
+      "company": "Kalanick's Atoms",
+      "amount": "$1.7B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/24/from-near-collapse-to-689-billion-inside-larry-culps-turnaround-of-ge/",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1lMN3JWRWlYVkVCZmdkMTNHdXNhT2FLb3dTbG9sSXNtNHppdE9XWDZqb1JjUFBKU0FIMzM5SXhnUjIzSWtyNEhqVFlLLTYzUGNlY09qd2ZDaHJJZ2dXWl9ySnZOSXRZaHpWN1BveTdaLW9Ka0t6OTQtZk9GOU1wem9MaU90enQxWEl5bkVmUFQ5UQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-24T04:19:53.496549-07:00"
-  },
-  {
-    "item": {
-      "company": "The AI titans' biggest private fear",
-      "amount": "$100.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/24/ai-risk-bioweapons",
-      "priority": 3
-    },
-    "remind_at": "2026-07-24T04:19:56.342784-07:00"
-  },
-  {
-    "item": {
-      "company": "It's one choke point",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/24/choke-point-oil-strait-economy",
-      "priority": 3
-    },
-    "remind_at": "2026-07-24T04:19:59.202410-07:00"
-  },
-  {
-    "item": {
-      "company": "Prosper Medical",
-      "amount": "$16.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/prosper-medical-raises-16m-other/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-24T04:20:03.594754-07:00"
-  },
-  {
-    "item": {
-      "company": "TidalSense",
-      "amount": "$19.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/tidalsense-raises-19m-unknown/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-24T04:20:05.884718-07:00"
-  },
-  {
-    "item": {
-      "company": "\u00c1baco",
-      "amount": "$53.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/abaco-raises-53m-other/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-24T04:20:08.167029-07:00"
-  },
-  {
-    "item": {
-      "company": "PageMind",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pagemind-raises-1-2m-other/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-24T04:20:10.313795-07:00"
+    "remind_at": "2026-07-24T05:46:39.282504-07:00"
   }
 ]
