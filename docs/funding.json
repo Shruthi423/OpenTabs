@@ -1,5 +1,35 @@
 [
   {
+    "id": "7751f135cf32921306377288acf07007",
+    "company": "LeBron James",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/24/lebron-james-philadelphia-76ers-billionaire-minimum-contract/",
+    "priority": 3,
+    "founders": [],
+    "location": "Philadelphia",
+    "roles": [],
+    "first_seen": "2026-07-24T10:25:11.345802-07:00",
+    "status": "active"
+  },
+  {
+    "id": "f72ed80eb23d05233c1b240700c62fb8",
+    "company": "SG's Ropedia",
+    "amount": "$22.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWJFdlV0VVh2SG5MMFdJUXMyYTVNSS1UZUJzMEFKLW5xUlVzNFdVd0RZZ0FvVGh6TURxc1R6clhHVVF6T1NBal9IdWQ2VGdCT1hWY0p2b3dfS2VwbHlUdmVYRE02VkhNRWpDOVBaVTNLcFdWSndJbjdKaHh5RzFJQnJXTVA?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-24T10:25:07.940405-07:00",
+    "status": "active"
+  },
+  {
     "id": "a7ad6fe91cd8d6491b9cbb8abe0d01fd",
     "company": "Synopsys targets physical AI complexity",
     "amount": "Undisclosed",
