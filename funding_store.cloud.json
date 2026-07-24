@@ -29307,5 +29307,20 @@
     "roles": [],
     "first_seen": "2026-07-24T10:25:11.345802-07:00",
     "status": "active"
+  },
+  "6df2a645c0dea5274f1924e581619748": {
+    "id": "6df2a645c0dea5274f1924e581619748",
+    "company": "EU strikes Google",
+    "amount": "$1.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/24/eu-google-1-billion-fine-major-crackdown-antitrust-regulations/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-24T14:31:27.339982-07:00",
+    "status": "active"
   }
 }
