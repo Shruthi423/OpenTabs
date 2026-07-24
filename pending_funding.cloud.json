@@ -1,86 +1,156 @@
 [
   {
     "item": {
-      "company": "Jusfy",
-      "amount": "$15.0M",
+      "company": "Paper",
+      "amount": "$34.0M",
       "stage": "Series A",
+      "investors": "Accel and ICONIQ to advance its design platform for the agentic era",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/paper-raises-34m-series-a/",
+      "priority": 11
+    },
+    "remind_at": "2026-07-24T02:14:10.420848-07:00"
+  },
+  {
+    "item": {
+      "company": "Coverwatch",
+      "amount": "$4.5M",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/jusfy-raises-15m-series-a/",
-      "priority": 8
+      "url": "https://www.thesaasnews.com/news/coverwatch-raises-4-5m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-07-23T23:44:28.018576-07:00"
+    "remind_at": "2026-07-24T02:14:13.008792-07:00"
   },
   {
     "item": {
-      "company": "AegisAI",
-      "amount": "$36.0M",
-      "stage": "Series A",
-      "investors": "Battery Ventures to scale its autonomous AI agents for defending against sophisticated spear phishing attacks",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/aegisai-raises-36m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-23T23:44:30.317363-07:00"
-  },
-  {
-    "item": {
-      "company": "Bunkerhill Health",
-      "amount": "$32.5M",
-      "stage": "Series B",
+      "company": "Female-founded edtech imagi",
+      "amount": "$4.5M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFJTdWtYZzBuMHVULWhJWFV3dVB3d0NfeEE1V0RMcV82Z2VFZ2ZtV2x2ZDBYTG1ZUnQ1RGFsZ0pFWmNFZW1rczNCOFRDUjFCTlFvUEplLVFuZmpHRVpfS2pZX3M1ZjZDaFUzZVV3QURjclpScmZlVndpaWlaN3hBNU11dWRpMkxmamp5ZXhR?oc=5",
-      "priority": 7
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/imagi-4-5m-seed-funding-openai-lovable-ai-education/",
+      "priority": 9
     },
-    "remind_at": "2026-07-23T23:44:33.707373-07:00"
+    "remind_at": "2026-07-24T02:14:16.403604-07:00"
   },
   {
     "item": {
-      "company": "advantage",
+      "company": "EQON",
+      "amount": "$6.0M",
+      "stage": "Seed",
+      "investors": "Azolla Ventures and Wilstar Innovate to scale its heating cable energy management platform internationally",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/eqon-raises-6m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-24T02:14:18.835068-07:00"
+  },
+  {
+    "item": {
+      "company": "Trooly",
+      "amount": "$20.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/trooly-raises-20m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-24T02:14:21.487826-07:00"
+  },
+  {
+    "item": {
+      "company": "Imagi",
+      "amount": "$4.5M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/imagi-raises-4-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-24T02:14:24.513333-07:00"
+  },
+  {
+    "item": {
+      "company": "Singapore start-up Ropedia",
       "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": "Singapore",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcEtyZ0xTWER5MUtGNFdZUWJkbjdWa2ZlWXNNb1F5NGhzdThXZWJURmFJQXRMdXB5b2lzTHBUSVRKcEVSWXppYktVcG42dXpZQTNyM3QzdHNNemFabWlDWlBTbXVtYW1lQl9VRnVVUk9EWVRiVWsxcXQ2Q0hXSTFfU0RtVmJxSWFGTVFTLXdIN2dVWEFlLTZJSmd3VjBBektteWRKbXdtM01CZ2RleVJzdm85Z254ZEdvSW5MRzlETWxOREpadUHSAcsBQVVfeXFMUGVhckxvSnJNeUtfSDhwaTMySXJ4MjdMeVhlLU1pVEtGS2NTZHJPZFlpQndPT0hic2dOQ0FQclJCd0U0MDQtc2pqRTFld3EyN2ZVWFpmZ1Z1SzVIOUxwczNVVUE3Mnl0cExDTXdSZzJfdkVGYWxkbnNPdmd5Y0Ztd1ZMZElGNnlTd1dmZktTbVluTzNNQ01TeVBVaWU3Mm40UjVzXzRzNjJNcXlNYnNFNjh2OUFnZHFnNnNjQXl3cVJuMURzbEhTd19acjA?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-24T02:14:27.888557-07:00"
+  },
+  {
+    "item": {
+      "company": "European travel platform Omio",
+      "amount": "$10.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/24/omio-japan-expansion-granite-integral-ceo-naren-shaam/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-24T02:14:31.373141-07:00"
+  },
+  {
+    "item": {
+      "company": "Ameera Patel couldn\u2019t",
+      "amount": "$19.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/lithuania-capital-efficiency-europe-startup-funding-gap/",
+      "url": "https://techfundingnews.com/ameera-patel-tidalsense-19m-copd-diagnosis-device/",
       "priority": 3
     },
-    "remind_at": "2026-07-23T23:44:35.892284-07:00"
+    "remind_at": "2026-07-24T02:14:34.802485-07:00"
   },
   {
     "item": {
-      "company": "Ethan Hu\u2019s Meshy",
-      "amount": "$1.5B",
+      "company": "InnoDtech",
+      "amount": "$3.38M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/from-mit-research-to-1-5b-unicorn-ethan-hus-meshy-raises-400m-for-ai-powered-3d-creation/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/innodtech-raises-3-38m-other/",
       "priority": 3
     },
-    "remind_at": "2026-07-23T23:44:39.056565-07:00"
+    "remind_at": "2026-07-24T02:14:37.203357-07:00"
   },
   {
     "item": {
-      "company": "Kalanick\u2019s Atoms",
-      "amount": "$1.7B",
+      "company": "Mylerz",
+      "amount": "$2.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTWQ2X1ZsUFlwZHkwTTB0RXY3ZkJRVm1ZZ0RTSGh6YWg5MnlqdUxDcmpvbmxBSE5BNlM1M3VXTGZ1dFhsYW9XelNVdUluRmJkTmUxU09paGhHSmxRazVCejRYam5ueGdBUUlYV3JTbnJPQXVHNVV3SUlhbWxIbGY1M2owWklTaVQtOEhVcC12VFhvUDdV?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/mylerz-raises-2m-debt-financing/",
       "priority": 3
     },
-    "remind_at": "2026-07-23T23:44:42.068053-07:00"
+    "remind_at": "2026-07-24T02:14:39.751673-07:00"
   }
 ]
