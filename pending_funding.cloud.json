@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "Etched more than doubles valuation",
+      "amount": "$10.3B",
+      "stage": "Series C",
+      "investors": "Sequoia",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/23/ai-chip-startup-etched-doubles-valuation-10-3b-new-300m-round/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-23T21:12:36.510153-07:00"
+  },
+  {
+    "item": {
+      "company": "FutureSports",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeFJINVRZdk4yRVhrdmtCRVk2N3lBOUYzR3BQSG9maWV6YU9kM045cEZXTnVpTFA2WU1EMHc1ZnZ3aGEydzVRc2hidUJHNGwwVnpaXzhmZFBRX2QzWm5MNkMwN0NvVURsSFczaldEUzdBNHB5M0lCemhwcmVLWEM5WTNNbnlsODJBeGZ1ME9KcXpVeWhIVDcyU28xTXZGMXBlOXJ4X3hXWno?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-23T21:12:38.945434-07:00"
+  }
+]

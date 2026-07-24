@@ -28707,5 +28707,35 @@
     "roles": [],
     "first_seen": "2026-07-23T16:13:16.330115-07:00",
     "status": "active"
+  },
+  "84b703f23abf91fd935eacb3dcc5d155": {
+    "id": "84b703f23abf91fd935eacb3dcc5d155",
+    "company": "Etched more than doubles valuation",
+    "amount": "$10.3B",
+    "stage": "Series C",
+    "investors": "Sequoia",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/23/ai-chip-startup-etched-doubles-valuation-10-3b-new-300m-round/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-23T20:42:37.510314-07:00",
+    "status": "active"
+  },
+  "bba4618612472feae9deb42c70737c59": {
+    "id": "bba4618612472feae9deb42c70737c59",
+    "company": "FutureSports",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeFJINVRZdk4yRVhrdmtCRVk2N3lBOUYzR3BQSG9maWV6YU9kM045cEZXTnVpTFA2WU1EMHc1ZnZ3aGEydzVRc2hidUJHNGwwVnpaXzhmZFBRX2QzWm5MNkMwN0NvVURsSFczaldEUzdBNHB5M0lCemhwcmVLWEM5WTNNbnlsODJBeGZ1ME9KcXpVeWhIVDcyU28xTXZGMXBlOXJ4X3hXWno?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-23T20:42:39.945626-07:00",
+    "status": "active"
   }
 }
