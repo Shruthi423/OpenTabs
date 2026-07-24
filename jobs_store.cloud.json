@@ -9308,5 +9308,41 @@
     "first_seen": "2026-07-23T13:00:48.365699-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "aa216881f81f281ae8c69f70106a5ff0": {
+    "id": "aa216881f81f281ae8c69f70106a5ff0",
+    "title": "Product Designer",
+    "company": "Numeral (W23)",
+    "location": "New York (hybrid) / Remote (US)",
+    "salary": "$150 - $400K",
+    "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D100510&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27735",
+    "source": "Y Combinator",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-07-24T03:49:16.982990-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "38f87d77c247ffaf313c679332e6adc0": {
+    "id": "38f87d77c247ffaf313c679332e6adc0",
+    "title": "UX Researcher",
+    "company": "Linda Werner & Associates",
+    "location": "Redmond, WA",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1536826-ux-researcher-redmond-wa-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "1h",
+    "priority": 4,
+    "first_seen": "2026-07-24T03:49:18.497318-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
