@@ -29489,5 +29489,35 @@
     "roles": [],
     "first_seen": "2026-07-25T09:34:10.153342-07:00",
     "status": "active"
+  },
+  "61a317c77534f39f12dcc4b953465516": {
+    "id": "61a317c77534f39f12dcc4b953465516",
+    "company": "Ironclad",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2wwRDRDRWRiOXNMaXVQUWhicnBsS2tJRFFVTXZqWjlmY0J3SHB6QjdxRVp1RzB2ZEl0dzUwREVXbHg2OGdXQXRUN09UNGsxVF9yUFItWkNfTThOLVNvUFU2QjRrQnU2UFYzMjZFVWt1ZXgtVnlfQ3hvUVFXY19TVEZZTi1mUV9JdllrclhmMkJXeFVua1E1RUVreHJpRVkwQ1ZBTlpyS21RU28?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-25T11:39:54.259115-07:00",
+    "status": "active"
+  },
+  "040a1d3161bd356d718c9d150fe1cc96": {
+    "id": "040a1d3161bd356d718c9d150fe1cc96",
+    "company": "Gritt exits stealth",
+    "amount": "$32.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMHc3NWpFUlBvMGRsM1NSQTlsMGJSRHM4M0I2MzJQZmw2OFhGYnMtWDZFZHBERnI4TUF1T2FKYzlJOVNITHFTenhPVUNYM2NaX2JnSjhjc0FsREMwMHhiZnY3djRmdElvOEN2dkQ3QU13UzB3cTFYZnhSQlotSlpyb2NfeV90WnhSSE9mS2F2U09fZ2dxQURra2R0LWJ2S2NXQjQzNTRfMVl2WU9lR0s5UUYyWlZqWlhIb3Q0MzAxTGx3UQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-25T11:39:57.251349-07:00",
+    "status": "active"
   }
 }
