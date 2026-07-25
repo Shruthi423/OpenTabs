@@ -29459,5 +29459,35 @@
     "roles": [],
     "first_seen": "2026-07-25T08:38:12.895575-07:00",
     "status": "active"
+  },
+  "6018a24234d49778041c73e710b1a0e1": {
+    "id": "6018a24234d49778041c73e710b1a0e1",
+    "company": "DeepSeek said",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "during his first financing deal",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/25/deepseek-liang-wenfeng-backers-fundraising-pause-viral-posts-investors/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-25T09:34:06.888178-07:00",
+    "status": "active"
+  },
+  "4945eca4b789d6da35349f7f75a82160": {
+    "id": "4945eca4b789d6da35349f7f75a82160",
+    "company": "Boring Company reportedly",
+    "amount": "$20.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YNno3UzM3MjdGN29VeVlKNFI0LU5CNVBPRHNfMDVMOFVOTklGZmN4UnFENnVXUWZCRWk5SExMdFpEQ0hzbmlQNkJ2SnVSbExoam9wWmc3N1BFdE5Sa3Y3Z3Jzbi1zQTJIcE1paGw1QVdjZw?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-25T09:34:10.153342-07:00",
+    "status": "active"
   }
 }
