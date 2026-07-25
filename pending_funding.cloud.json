@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "Schools across America",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/article/schools-abandoning-chromebooks-laptop-programs-as-screen-time-hurts-learning-test-scores-north-carolina-michigan-kansas-tech-education/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-25T07:50:15.330309-07:00"
+  },
+  {
+    "item": {
+      "company": "How AI",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/25/ai-family-parenting-productivity",
+      "priority": 3
+    },
+    "remind_at": "2026-07-25T07:50:17.822999-07:00"
+  }
+]

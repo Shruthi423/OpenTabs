@@ -29414,5 +29414,35 @@
     "roles": [],
     "first_seen": "2026-07-25T04:42:13.550013-07:00",
     "status": "active"
+  },
+  "e36472c910f191e31156dd8da36cba1f": {
+    "id": "e36472c910f191e31156dd8da36cba1f",
+    "company": "Schools across America",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/schools-abandoning-chromebooks-laptop-programs-as-screen-time-hurts-learning-test-scores-north-carolina-michigan-kansas-tech-education/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-25T07:20:16.330492-07:00",
+    "status": "active"
+  },
+  "99aeb6dcda21287df36eaf1b41ffcbca": {
+    "id": "99aeb6dcda21287df36eaf1b41ffcbca",
+    "company": "How AI",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/25/ai-family-parenting-productivity",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-25T07:20:18.823167-07:00",
+    "status": "active"
   }
 }
