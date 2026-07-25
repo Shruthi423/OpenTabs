@@ -1,5 +1,37 @@
 [
   {
+    "id": "abdac0b3ee800c91db2346b6c8ed3ca9",
+    "company": "Endpoint security firm Glow",
+    "amount": "$180.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90Tzhna1BQSkZDT05oSGEzLXVhZEJDNXpuNWdkT1J3RDVSZGI0SF9zRmNKaDEteE5KUUJMcGNqWmdrNFBlbEYxRXIzdHRQVE5WMmRKSkI0b0E2Q0VxVGFIbGwta294Zi1IRzNJ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-25T04:42:13.550013-07:00",
+    "status": "active"
+  },
+  {
+    "id": "abe52bcff1b6e46ac9920a097fbbb2e4",
+    "company": "Food banks confront growing SNAP gap",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/25/food-banks-snap-cuts-obbb",
+    "priority": 3,
+    "founders": [
+      "Denis Mc"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-25T04:42:10.591610-07:00",
+    "status": "active"
+  },
+  {
     "id": "e6d53e0fd49f11d8b8051819b8dc28e1",
     "company": "Capital One\u2019s big bet",
     "amount": "Undisclosed",
