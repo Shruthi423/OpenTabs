@@ -29609,5 +29609,35 @@
     "roles": [],
     "first_seen": "2026-07-26T04:09:15.957638-07:00",
     "status": "active"
+  },
+  "661175519de014e41a3ef7c083b2c6e4": {
+    "id": "661175519de014e41a3ef7c083b2c6e4",
+    "company": "Despite nearing their 60s",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/nearly-four-in-ten-americans-nearing-60s-dont-have-a-retirement-account/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-26T07:07:25.654131-07:00",
+    "status": "active"
+  },
+  "cf281c9df28ac6552f74c94f8457f168": {
+    "id": "cf281c9df28ac6552f74c94f8457f168",
+    "company": "A Gen Xer sold his company",
+    "amount": "$1.6B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/gen-xer-sold-company-for-1-6-billion-kept-less-than-100-million-gave-the-rest-away/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-26T07:07:28.863155-07:00",
+    "status": "active"
   }
 }
