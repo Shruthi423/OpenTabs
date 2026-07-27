@@ -9542,5 +9542,41 @@
     "first_seen": "2026-07-27T06:21:24.167860-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "b63cf842e5f86f37c3f65e6fc2941df3": {
+    "id": "b63cf842e5f86f37c3f65e6fc2941df3",
+    "title": "UX Designer",
+    "company": "Gartner, Inc.",
+    "location": "Irving, United States",
+    "salary": "Not listed",
+    "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/UX-Designer_111700-1",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-07-27T12:02:19.822636-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "7d4d58e5e2c864a5b30db3bb4c71d99e": {
+    "id": "7d4d58e5e2c864a5b30db3bb4c71d99e",
+    "title": "UX Designer, Global Operations UX",
+    "company": "Amazon.com Services",
+    "location": "Seattle, USA",
+    "salary": "Not listed",
+    "url": "https://www.amazon.jobs/en/jobs/10440139/ux-designer-global-operations-ux",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-07-27T12:02:21.474782-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
