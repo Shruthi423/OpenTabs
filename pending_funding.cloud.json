@@ -1,104 +1,16 @@
 [
   {
     "item": {
-      "company": "Syrian company Doctorbook",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE11ZkpKOEU5MHdSNTZFYUR0N25HRERyRUlNU0RreFM3M1IwaGlSX1ViR3JJQXFYUWNLaTl3V3FQdw?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-07-27T14:13:08.099614-07:00"
-  },
-  {
-    "item": {
-      "company": "Egyptian fintech Fincart",
-      "amount": "$2.8M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1xbHVBY1pKM2NfZThmcVQ0WkFQY3l4akIxWF9nODhHbU5zbUZNMnBsZWh1TV9obFA4MFJuRkxWVQ?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-07-27T14:13:11.525257-07:00"
-  },
-  {
-    "item": {
-      "company": "Egypt\u2019s Fincart",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZEg2bFNLVkFBV2JoVzJMeDQzRUlYZ3ZNVGtPYWZWTGczMDI1eUVNMERBQ2l6VnV6UWlKSGs1U0JYVHhTeG1USFZnMzQ5Snp5ZFJFdWV6Ny1NTjMyRURIWnpjNi1wd3JraG9nLW13bWRDRVptYXpsSE14Xy1FVHd6WDhtaXR5QQ?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-07-27T14:13:14.750530-07:00"
-  },
-  {
-    "item": {
-      "company": "A VC",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [
-        "Steve Witkoff"
-      ],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/27/vc-trump-familys-crypto-venture-cofounder-steve-witkoff-memecoin/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-27T14:13:17.975689-07:00"
-  },
-  {
-    "item": {
-      "company": "Small businesses",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [
-        "Asher Rapkin"
-      ],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/27/trump-tariff-court-small-business",
-      "priority": 3
-    },
-    "remind_at": "2026-07-27T14:13:21.185725-07:00"
-  },
-  {
-    "item": {
-      "company": "Funding Rounds of June 2026",
-      "amount": "$1.4B",
+      "company": "shifts from Google TPUs",
+      "amount": "$5.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "AlleyWatch",
-      "url": "https://www.alleywatch.com/2026/07/global-startup-funding-top-largest-june-2026-vc/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/27/nvidia-invests-5-billion-in-ilya-sutskevers-safe-superintelligence-as-ai-startup-shifts-from-google-tpus-to-gpus/",
       "priority": 3
     },
-    "remind_at": "2026-07-27T14:13:24.431892-07:00"
-  },
-  {
-    "item": {
-      "company": "Numerai",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXRocUtmYlBSZWJ2dFZIWHVmNUxZWVlnUzh6aVFINmVPMVpkVjhpQzZSejlYUDBVRkMxMmk2MENJSTdkWnhYZzN0dVQ1b0NEODhVM2dicmFiQVNFYzhFQ1FFck9YejBEb0xhaDB2eklpTlhxNGNLT0tiRmtEdUk1QkoxTDZLY1NJQmp2SEZmMmIweHE4eHg2WTcxV192MEJ3RzNpYjhiZ0FZQQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-27T14:13:27.025333-07:00"
+    "remind_at": "2026-07-27T15:18:45.970891-07:00"
   }
 ]
