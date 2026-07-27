@@ -1,30 +1,254 @@
 [
   {
     "item": {
-      "company": "Coral",
-      "amount": "$12.5M",
-      "stage": null,
-      "investors": "Lightspeed and Z47 to scale its healthcare automation platform that streamlines administrative workflows for specialty providers",
+      "company": "The exclusive pitch deck it used",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/coral-raises-12-5m-other/",
-      "priority": 6
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/beelzebub-3m-seed-ai-honeypot-pitch-deck/",
+      "priority": 9
     },
-    "remind_at": "2026-07-26T23:34:19.914385-07:00"
+    "remind_at": "2026-07-27T03:38:47.311621-07:00"
   },
   {
     "item": {
-      "company": "What\u2019s next",
+      "company": "Beelzebub",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/beelzebub-raises-3m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-27T03:38:49.719614-07:00"
+  },
+  {
+    "item": {
+      "company": "Scape",
+      "amount": "$3.2M",
+      "stage": "Seed",
+      "investors": null,
+      "location": "Seed Stockholm",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/scape-raises-3-2m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-27T03:38:52.378638-07:00"
+  },
+  {
+    "item": {
+      "company": "Aampere",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/aampere-raises-4-2m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-27T03:38:54.831369-07:00"
+  },
+  {
+    "item": {
+      "company": "Andrenam",
+      "amount": "$18.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON1cxRmhaaDNtdmNtLTJuVWg1VzdFVDA3cUxIVWRZWDExcV9ZQWVTWG5LMlZpSWxQVFR3ZXQ5cHBldDFjWFJpWVBSTldRTldRelR6ODBPX243SThjdnNtbUtrQzJaem5TNk92UWhPMTNDLUlQcEEzX3Z3cTYwcnNMQXdn?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-27T03:38:57.380771-07:00"
+  },
+  {
+    "item": {
+      "company": "abcoffee",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9saFlrc1prOC02bVlPWWpvN2RiVF9aUGh6VVJGRU9BNGFuTnljMGtSUlVaczlkSmNyQ0xkWm1pc0RjcU1kRDZFZWg2YnRxdDhWWWc3dW5yUVhEQlBWT3lfTENNcDlFWm9RYWF6RUtJLTI?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-07-27T03:38:59.778983-07:00"
+  },
+  {
+    "item": {
+      "company": "Multiverse",
+      "amount": "$570.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/multiverse-computing-570m-series-c-2-3b-valuation/",
+      "priority": 6
+    },
+    "remind_at": "2026-07-27T03:39:02.229517-07:00"
+  },
+  {
+    "item": {
+      "company": "Multiverse Computing",
+      "amount": "$570.0M",
+      "stage": "Series C",
+      "investors": "Forgepoint, BNPP SIVF, and Bullhound to scale its efficient AI model compression technology",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/multiverse-computing-raises-570m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-07-27T03:39:05.367395-07:00"
+  },
+  {
+    "item": {
+      "company": "Fly.io",
+      "amount": "$25.0M",
+      "stage": "Series D",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/fly-io-raises-25m-series-d/",
+      "priority": 5
+    },
+    "remind_at": "2026-07-27T03:39:07.911068-07:00"
+  },
+  {
+    "item": {
+      "company": "Amazon and Microsoft",
+      "amount": "$400.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/27/amazon-microsoft-alphabet-google-stock-cloud-ai-spending-billions/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-27T03:39:11.318337-07:00"
+  },
+  {
+    "item": {
+      "company": "China",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/magic-ai-founder-ceo-varun-bhanot-interview/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/27/what-is-dumping-china-steel-ai-billionaires/",
       "priority": 3
     },
-    "remind_at": "2026-07-26T23:34:22.951938-07:00"
+    "remind_at": "2026-07-27T03:39:13.760607-07:00"
+  },
+  {
+    "item": {
+      "company": "Democrats",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/27/2026-midterm-democrats-socialist-michigan",
+      "priority": 3
+    },
+    "remind_at": "2026-07-27T03:39:16.188818-07:00"
+  },
+  {
+    "item": {
+      "company": "Street Group",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Valuation Manchester",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/street-group-raises-undisclosed-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-27T03:39:19.454554-07:00"
+  },
+  {
+    "item": {
+      "company": "Adaptive Insurance",
+      "amount": "$5.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/adaptive-insurance-closes-additional-5m-financing/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-27T03:39:22.801178-07:00"
+  },
+  {
+    "item": {
+      "company": "goNEON Agentic Systems",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/goneon-agentic-systems-raises-160k-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-27T03:39:26.188407-07:00"
+  },
+  {
+    "item": {
+      "company": "Novum Studio",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/novum-studio-secures-new-funding/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-27T03:39:29.618745-07:00"
+  },
+  {
+    "item": {
+      "company": "Siigo",
+      "amount": "$103.5M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/siigo-raises-103-5m-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-27T03:39:32.156014-07:00"
+  },
+  {
+    "item": {
+      "company": "ninjaOne",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGJxSThYZVVETGxsWVYzeTJQRE1Ca0d2a1Q4VmxCM0ZJSVhVZWlPWTBLMzhoZkptN0ZCaXl6akNCdVZGZ2VlYlJBM0I4QjRoX1JweXhHZ0RqOVFVdjJ0c0FGN3BHZkU3Ym1vem1aRlBzQVczTVRsLXRJdW9jVHhUMW93Zy1RRnFBUE54S1pza05BMTRmQ25fRF9pU2V1dm5XR241VjdFYVdJbjZFYlBIYnlVVDgtMVJ0MlUxMDQ1Wm4xRnF0TkMzSmZ5cw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-27T03:39:34.748892-07:00"
   }
 ]
