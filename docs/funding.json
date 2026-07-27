@@ -1,5 +1,35 @@
 [
   {
+    "id": "bb9cc0cf9fd834be0e5bdf234b8cb9ad",
+    "company": "What\u2019s next",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/magic-ai-founder-ceo-varun-bhanot-interview/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-26T23:04:23.952109-07:00",
+    "status": "active"
+  },
+  {
+    "id": "df56cc6a5e7ef7354320828edaea0f22",
+    "company": "Coral",
+    "amount": "$12.5M",
+    "stage": "?",
+    "investors": "Lightspeed and Z47 to scale its healthcare automation platform that streamlines administrative workflows for specialty providers",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/coral-raises-12-5m-other/",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-26T23:04:20.914547-07:00",
+    "status": "active"
+  },
+  {
     "id": "0f6b6d9a1b4d9bc0c6a5e64051f160ce",
     "company": "Acai Theory",
     "amount": "Undisclosed",

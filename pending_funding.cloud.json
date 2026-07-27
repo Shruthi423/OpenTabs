@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "Coral",
+      "amount": "$12.5M",
+      "stage": null,
+      "investors": "Lightspeed and Z47 to scale its healthcare automation platform that streamlines administrative workflows for specialty providers",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/coral-raises-12-5m-other/",
+      "priority": 6
+    },
+    "remind_at": "2026-07-26T23:34:19.914385-07:00"
+  },
+  {
+    "item": {
+      "company": "What\u2019s next",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/magic-ai-founder-ceo-varun-bhanot-interview/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-26T23:34:22.951938-07:00"
+  }
+]
