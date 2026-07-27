@@ -2,169 +2,57 @@
   {
     "item": {
       "company": "Enigma",
-      "amount": "$70.0M",
+      "amount": "$71.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02elZVdk1Iczl5UzdTQldJWkxvTWxIejI0dll0ZFhoR0NPR0swUENTdW03b0hlR21sZHJRVUZ1M2xtSzdGQXkzc19VV1lBZWF3TlFKZHNNTEdBTi11d0lHT0txcmhUQmFw?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-27T06:51:59.692749-07:00"
+    "remind_at": "2026-07-27T09:28:48.807123-07:00"
   },
   {
     "item": {
-      "company": "Fincart",
+      "company": "Egypt's Fincart",
       "amount": "$2.8M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/fincart-raises-2-8m-seed/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEpHcU1tTHd2V1BYREU5S0tXQjkyNjlNaXVOTmZ4T2Z1b2k4b1Z6bFgzd3RtMHlybkpKbktHeXM3Mm9tbE5mR2xWcWFDZmhqLWJxQlNZWHdEQkkwMkhmZjR0czhnaTQ1RUtBUk13TEUyR3NnYTRSTnpBQ0VyUDRndHZEanFLd2FHUm5PenFwVnBfbUFpNHBlejJZZ3VBOTdHQWU5REg2SDE3WjVKOUVhOGQ0WnA1TDFIZXNGLTktTEhydw?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-27T06:52:01.940111-07:00"
+    "remind_at": "2026-07-27T09:28:52.064227-07:00"
   },
   {
     "item": {
-      "company": "Fluxco",
-      "amount": "$26.0M",
-      "stage": "Seed",
-      "investors": "Congruent Ventures and 8VC to expand its software platform for the electrical transformer supply chain",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/fluxco-raises-26m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-27T06:52:04.349022-07:00"
-  },
-  {
-    "item": {
-      "company": "Way Security",
-      "amount": "$20.0M",
-      "stage": "Seed",
+      "company": "Morphing Machines",
+      "amount": null,
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pNnp2a0E4cS1FTEYxNFhFRmxRX1NXb3ZjVnFvYzhFNktuNXlzLTFmajJub2RJa3VtN19kcHIxRUU5OGpfZGJrNmZtc3dTNzdhZkZBenJaREN6aWxDZ2RIcmI0NFV2R202?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbU0wQUQyaXJZZi1IM05POXFpekx4cUFYSlpScVZqdmJDNjlrRFZJY0YxczJEYmUxRDk4ZFVVVGRaRFh0dEtpZFRFam1pSEtmMzhZaUh6bjBwVW96Nm03R2t1cjd3S3JWUGVvRXVkY3N0SGx2VFdsN0pQWk5FUjdaMGtB?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-07-27T06:52:07.600792-07:00"
+    "remind_at": "2026-07-27T09:28:55.393699-07:00"
   },
   {
     "item": {
-      "company": "The AI Buildout",
-      "amount": null,
+      "company": "Anthropic",
+      "amount": "$250.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/schneider-ai-robotics-energy-qa-chaturvedy-se-ventures/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/27/top-tech-news-today-july-27-2026-anthropic-monday-com-moonshot-ai-nvidia-openai-more/",
       "priority": 3
     },
-    "remind_at": "2026-07-27T06:52:10.979554-07:00"
-  },
-  {
-    "item": {
-      "company": "Dopl",
-      "amount": "$6.3M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "GeekWire Funding",
-      "url": "https://www.geekwire.com/2026/dopl-raises-6-3m-to-bring-remote-robotic-ultrasounds-to-rural-patients-as-it-pursues-fda-clearance/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-27T06:52:13.181172-07:00"
-  },
-  {
-    "item": {
-      "company": "Capital One\u2019s MLB partnership",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/27/capital-one-mlb-partnership-turning-fan-experiences-into-long-term-customer-value/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-27T06:52:16.077234-07:00"
-  },
-  {
-    "item": {
-      "company": "In the Age of Big Players",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/27/trump-xi-modi-truth-social-age-of-big-players/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-27T06:52:19.047824-07:00"
-  },
-  {
-    "item": {
-      "company": "Serbian-Hungarian Ominimo",
-      "amount": "$1.6B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/serbian-hungarian-ominimo-hits-1-6b-valuation-becoming-the-balkans-newest-insurtech-unicorn/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-27T06:52:21.985414-07:00"
-  },
-  {
-    "item": {
-      "company": "Oraan",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pakistani-fintech-oraan-raises-fresh-funding-from-epic-angels-wavemaker/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-27T06:52:24.408756-07:00"
-  },
-  {
-    "item": {
-      "company": "Atoms Has",
-      "amount": "$1.7B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb2VxaVBUZzBJUkU4QWtQRkJ3di1RbVR4cko1c3hzSjZnLXo0R1RSSFNnSWJVZDhwUWRiRl8tLTEtanduNWVUNlZPOWFBSWQwYUdhSXh4c1l2RzlmUlVpUHRrNTMzVE5kZUJyNEkzT1YwT05rdGlWZXB4aFBCWWJ6WGduckVHMTRvaFlhUXhOOGQ3NmdsOTNfaEUyYzZ2cHFRMTFnaHpRQ2NPcHBJX3NJNGY3VmlyZThkWFhTUTIwVnhSalBIYXVZV2hpRQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-27T06:52:27.407268-07:00"
-  },
-  {
-    "item": {
-      "company": "European Media Network",
-      "amount": "$1.6M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRWRBSXh4Vm96aTlXd3NrQ2ZFUmtzeGJaRlUzNnZZMVBwOG02UG9pcDBpUG9JUlc2eWs2dFRYUTlDU3J0enFHc0N5Nlk3ZUpoQmdNZHlnQnNSR3VobXlDeFJoeEktNEJLWXJTazJyd2hEOXk5S3JndWFXbHFIWGNWcDlkS3I0cWJidDY3LWVnOVliUTdvalE?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-27T06:52:30.327131-07:00"
+    "remind_at": "2026-07-27T09:28:57.785358-07:00"
   }
 ]
