@@ -1,5 +1,23 @@
 [
   {
+    "id": "ae9a90eb497ba3bdb685ca681e7bd916",
+    "title": "Sr UX Designer",
+    "company": "Unisys",
+    "location": "Rockville, MD",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4442880428",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-07-27T17:05:18.122789-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  {
     "id": "926561fa74c2275c3fcbf5247eccc56d",
     "title": "Visual Designer (Keynote Design)",
     "company": "Bayside Solutions",
@@ -32,24 +50,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-07-27T16:43:37.777413-07:00",
-    "status": "active",
-    "applied_at": null
-  },
-  {
-    "id": "aa4494884accbfd4a569d39c795b534b",
-    "title": "Sr. Design System Designer -AutoZoner On Call",
-    "company": "AutoZone",
-    "location": "Memphis, TN, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=f9fdcfaa52dd419f",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "visa": null,
-    "founders": [],
-    "posted_at": "2026-07-26",
-    "priority": 4,
-    "first_seen": "2026-07-27T16:43:35.801316-07:00",
     "status": "active",
     "applied_at": null
   },
