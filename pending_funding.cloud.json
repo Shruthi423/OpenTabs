@@ -1,72 +1,142 @@
 [
   {
     "item": {
-      "company": "AI Seed Investors Flock",
-      "amount": "$855.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-28T05:57:12.382010-07:00"
-  },
-  {
-    "item": {
-      "company": "Act Security",
-      "amount": "$60.0M",
+      "company": "Fish Audio makes a splash",
+      "amount": "$52.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/28/act-security-raises-60m-take-action-agentic-access-sprawl-infrastructure-layer/",
+      "url": "https://siliconangle.com/2026/07/28/fish-audio-makes-splash-raising-52m-seed-funding-ai-voices/",
       "priority": 9
     },
-    "remind_at": "2026-07-28T05:57:15.461464-07:00"
+    "remind_at": "2026-07-28T08:29:18.849687-07:00"
   },
   {
     "item": {
-      "company": "AI Seed Investors Flock",
-      "amount": null,
+      "company": "Harmony",
+      "amount": "$34.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/28/harmony-raises-34m-seed-to-bring-ai-agents-to-slack-and-microsoft-teams-for-employee-support/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-28T08:29:21.079719-07:00"
+  },
+  {
+    "item": {
+      "company": "Fish Audio",
+      "amount": "$50.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHd3a2JnVHFuSFlLRmFSYU9BVFpXZkowa2FnZE1uak41di1tUFZVbUpSQ19kVlJyRXZ3bUcwUGh2YVhGbl95YmR3THdhUXBJREdxbVQzMzBmYlpOcGZlSVFpQ1dCWXFDM3dPQmdjNm1lcDF2MHJ5Vk5oNXZPd2NKUm5sT2JQS3lNeDJBMER0WEs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFV3aDlXcFpxejgwQ05ocWpObXd4VlJBTmlreWxuRW9jMm5mRVJsN1kwaXlJc19HWXdtVnM0WThiZ2NTYkUtSDE2TGliWkpzUzBDN05XWTExSWRscjdNNW95UFVra0lKX0hUVVNJUlBVeEtoUWhDQzlnQkp1c2dqREYwMy1MaGF5VGZYRFlDeXU5TmxQUHBiRVA2VHZFalhURm50TUE4VmxIQ3hOVDhsN0ROWS1fUQ?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-28T05:57:18.624080-07:00"
+    "remind_at": "2026-07-28T08:29:24.035778-07:00"
   },
   {
     "item": {
-      "company": "Your Agents",
-      "amount": null,
-      "stage": null,
-      "investors": null,
+      "company": "Co-Founded By Former Whoop CTO",
+      "amount": "$10.0M",
+      "stage": "Series A",
+      "investors": "Will Ventures, it told Crunchbase News exclusively",
       "location": null,
       "founders": [],
-      "source": "SaaStr",
-      "url": "https://www.saastr.com/your-agents-are-about-to-start-firing-your-vendors-ours-fired-marketo/",
-      "priority": 3
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/health-wellness-biotech/throne-science-microbiome-gut-health-toilet-camera-startup-john-capodilupo-whoop/",
+      "priority": 8
     },
-    "remind_at": "2026-07-28T05:57:21.666494-07:00"
+    "remind_at": "2026-07-28T08:29:27.038021-07:00"
   },
   {
     "item": {
-      "company": "Z\u00fcrich-based ZuriQ",
-      "amount": null,
-      "stage": null,
+      "company": "Throne",
+      "amount": "$10.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHNEc2EtUmo2VmgwanUwRE5SRGd3d2ozOG04OUdYMEo0SUU0WV9ackpneTFFX1ZZTUVPNl9QY0tCbDZsZ3ZQNHRFWmdva1EwWjVsOEM0TGNwb1U0QXd0cGEzek94N3hlekdvWmVWcFlJSUxHR2ZaQ2NGaDUwQUxYRXdqU1B6MGVCNnRsX0xudHN4ZFdaUWlDM1hOQmVCT0hhSWtJdWxnbE92cUUxamMyT2h6R2RCZEUtazE0enJmcVo?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2xCcUF0b3BmQ2l1UXZwNUgzY1NKN04wWjk3bmZhaGFueXk0LWpTcEp6djlmNVV6YU9pSFZhWGdXSXNudm55cVd3Y2VoUDhlMzhWQWUtUlR3c3pnRVZiWkMyMTcxdUQ3X2hDWml5ZU10Tmx4ck9GWVFzODdDbWdQRDhvLVBSUEIyVnd2UXdTVExwdjduVU5yTnZMUm5pX1hQcWlkWQ?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-28T08:29:29.256935-07:00"
+  },
+  {
+    "item": {
+      "company": "Bulgarian Tiger Technology",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbzBBTWpQN0NEWVUxd04tTGpVOUVoSTRHRW9PNkdoNDctNDVDcnhKMEhWSTVjX0s5a1VEaGNobWhuZXJrNDkzZ3NmVnlXVlpwSGk3NHZvV0d4UHFBVFR1RUdvZkIxWWVMMlVzLWdWREx1X2JXWXd3dkVValBnYnZVVnFjcmZyX0U?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-28T08:29:32.221196-07:00"
+  },
+  {
+    "item": {
+      "company": "Greyparrot",
+      "amount": "$27.0M",
+      "stage": "Series B",
+      "investors": "Om Elite Assets Investment to scale its infrastructure globally",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/28/greyparrot-raises-27m-bring-physical-ai-recycling-packaging-grows-complex/",
+      "priority": 7
+    },
+    "remind_at": "2026-07-28T08:29:34.439389-07:00"
+  },
+  {
+    "item": {
+      "company": "\u2018They burst out laughing \u2026 It",
+      "amount": "$142.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/28/bernard-arnault-children-succession-control-lv/",
       "priority": 3
     },
-    "remind_at": "2026-07-28T05:57:24.755729-07:00"
+    "remind_at": "2026-07-28T08:29:37.653519-07:00"
+  },
+  {
+    "item": {
+      "company": "Dwelly",
+      "amount": "$170.0M",
+      "stage": null,
+      "investors": null,
+      "location": "London",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/dwelly-170m-eqt-general-catalyst-ai-lettings/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-28T08:29:39.877491-07:00"
+  },
+  {
+    "item": {
+      "company": "GrubMarket confidentially files",
+      "amount": "$4.5B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/28/grubmarket-confidentially-files-for-u-s-ipo-after-reaching-4-5-billion-valuation/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-28T08:29:43.128655-07:00"
   }
 ]
