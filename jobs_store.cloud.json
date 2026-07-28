@@ -9758,5 +9758,23 @@
     "first_seen": "2026-07-28T03:45:17.395105-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "e35afdd209806041ea9bd47a15451fa9": {
+    "id": "e35afdd209806041ea9bd47a15451fa9",
+    "title": "Product Designer",
+    "company": "Eudia",
+    "location": "Palo Alto, CA",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/eudia/jobs/4323222009",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 2,
+    "first_seen": "2026-07-28T14:03:21.432462-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
