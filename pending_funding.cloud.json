@@ -1,16 +1,44 @@
 [
   {
     "item": {
-      "company": "Jeff Zucker",
-      "amount": "$8.0B",
+      "company": "Spur",
+      "amount": "$200.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-28T15:47:03.771499-07:00"
+  },
+  {
+    "item": {
+      "company": "eBay will pay nearly $50 million",
+      "amount": "$50.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/28/jeff-zucker-banking-uae-help-8-billion-entertainment-empire/",
+      "url": "https://fortune.com/2026/07/28/ebay-steiner-harassment-settlement-50-million-cyberstalking/",
       "priority": 3
     },
-    "remind_at": "2026-07-28T14:33:46.954612-07:00"
+    "remind_at": "2026-07-28T15:47:07.196297-07:00"
+  },
+  {
+    "item": {
+      "company": "Trump asks Supreme Court",
+      "amount": "$83.0M",
+      "stage": null,
+      "investors": null,
+      "location": "New York",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/28/trump-appeal-defamation-sexual-assault",
+      "priority": 3
+    },
+    "remind_at": "2026-07-28T15:47:10.615830-07:00"
   }
 ]
