@@ -1,156 +1,142 @@
 [
   {
     "item": {
-      "company": "Doctorbook",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/doctorbook-raises-16000-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-28T01:36:18.398448-07:00"
-  },
-  {
-    "item": {
-      "company": "Superstat",
-      "amount": "$3.5M",
-      "stage": "Pre-Seed",
-      "investors": "Blackbird Ventures to expand its sports AI talent scouting platform to the United States",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/superstat-raises-3-5m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-28T01:36:20.595299-07:00"
-  },
-  {
-    "item": {
-      "company": "ZuriQ",
-      "amount": "$25.5M",
-      "stage": "Seed",
-      "investors": "Quantonation and saw the participation of Forward",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/28/quantum-computing-startup-zuriq-gets-25-5m-scale-2d-trapped-ion-processor-design/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-28T01:36:23.046535-07:00"
-  },
-  {
-    "item": {
-      "company": "Pilot Protocol",
-      "amount": "$4.5M",
-      "stage": "Seed",
-      "investors": "Version One Ventures to expand its AI agent communication and commerce infrastructure network",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pilot-protocol-raises-4-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-28T01:36:26.180316-07:00"
-  },
-  {
-    "item": {
-      "company": "Freight Hero",
-      "amount": "$5.0M",
+      "company": "Mango",
+      "amount": "$6.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/freight-hero-raises-5m-seed/",
+      "url": "https://www.thesaasnews.com/news/mango-raises-6m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-07-28T01:36:29.128410-07:00"
+    "remind_at": "2026-07-28T04:15:39.293307-07:00"
   },
   {
     "item": {
-      "company": "Moniepoint",
-      "amount": "$200.0M",
-      "stage": "Series C",
-      "investors": "Development Partners International to scale its digital banking and payment platform across Africa and beyond",
+      "company": "Velpha",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/moniepoint-raises-200m-series-c/",
-      "priority": 6
+      "url": "https://www.thesaasnews.com/news/velpha-co-ltd-raises-60m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-07-28T01:36:31.438036-07:00"
+    "remind_at": "2026-07-28T04:15:41.859768-07:00"
   },
   {
     "item": {
-      "company": "This CEO",
+      "company": "House of Student",
       "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR19obEREUEtFdnhqbXRJZ0F6OVpST1gyck8xY0FQdUpJX2ZvVEk0a3JYcHlkSk9fazB4MDZlRm5zNm5DQ0hEa1BFUlBRTTBQc3ZZR1NmY21KNnhrX2tXRlpZQ1BVTVowQkZsSk85MWh1N3NGek5HOGhIVS1CcjFWNEljTDBscEVhN1hYVzBmR1pJUEN4V1dmelMyMUt6N0JCd1gyV1V5QmZ1Vk92NGx2bWd5cnR1bF9LM0VFeXlOTdIBvwFBVV95cUxPR19obEREUEtFdnhqbXRJZ0F6OVpST1gyck8xY0FQdUpJX2ZvVEk0a3JYcHlkSk9fazB4MDZlRm5zNm5DQ0hEa1BFUlBRTTBQc3ZZR1NmY21KNnhrX2tXRlpZQ1BVTVowQkZsSk85MWh1N3NGek5HOGhIVS1CcjFWNEljTDBscEVhN1hYVzBmR1pJUEN4V1dmelMyMUt6N0JCd1gyV1V5QmZ1Vk92NGx2bWd5cnR1bF9LM0VFeXlOTQ?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-28T04:15:45.255742-07:00"
+  },
+  {
+    "item": {
+      "company": "Ominimo",
+      "amount": "$1.6B",
+      "stage": "Series B",
+      "investors": "EBRD to fuel international expansion and enter the US insurance market",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ominimo-raises-undisclosed-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-07-28T04:15:47.735266-07:00"
+  },
+  {
+    "item": {
+      "company": "Trip.com struck",
+      "amount": "$765.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/28/this-ceo-was-bedridden-16-hours-a-day-she-turned-her-own-misdiagnosis-into-a-self-funded-multimillion-dollar-thyroid-clinic/",
+      "url": "https://fortune.com/2026/07/27/trip-com-struck-with-765-million-penalty-from-china-over-monopoly-allegations/",
       "priority": 3
     },
-    "remind_at": "2026-07-28T01:36:34.548630-07:00"
+    "remind_at": "2026-07-28T04:15:51.118874-07:00"
   },
   {
     "item": {
-      "company": "ETH Z\u00fcrich spin-out ZuriQ",
-      "amount": "$25.5M",
+      "company": "Six steps",
+      "amount": null,
+      "stage": null,
+      "investors": "House Minority Leader Hakeem Jeffries",
+      "location": "New York",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/28/trump-socialism-stages-of-political-surrender",
+      "priority": 3
+    },
+    "remind_at": "2026-07-28T04:15:54.419207-07:00"
+  },
+  {
+    "item": {
+      "company": "Anthropic",
+      "amount": "$120.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/28/anthropic-openai-revenue-mcdonalds-starbucks-yum",
+      "priority": 3
+    },
+    "remind_at": "2026-07-28T04:15:57.035358-07:00"
+  },
+  {
+    "item": {
+      "company": "Backed by ex-DHL and Maersk execs",
+      "amount": "$3.2M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/zuriq-25-5m-seed-2d-trapped-ion-quantum-chip/",
+      "url": "https://techfundingnews.com/5u-ai-3-2m-pre-seed-freight-forwarding-ai-workers/",
       "priority": 3
     },
-    "remind_at": "2026-07-28T01:36:37.458174-07:00"
+    "remind_at": "2026-07-28T04:16:00.364065-07:00"
   },
   {
     "item": {
-      "company": "SkipCash",
+      "company": "Xentra",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Investment Leeds",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/xentra-raises-3-18m-investment/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-28T04:16:02.852143-07:00"
+  },
+  {
+    "item": {
+      "company": "Omio",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/skipcash-attracts-strategic-investment/",
+      "url": "https://www.thesaasnews.com/news/omio-raises-8-7m-strategic-investment/",
       "priority": 3
     },
-    "remind_at": "2026-07-28T01:36:39.665845-07:00"
-  },
-  {
-    "item": {
-      "company": "Abstract",
-      "amount": "$25.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/abstract-raises-25m-growth-round/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-28T01:36:41.988068-07:00"
-  },
-  {
-    "item": {
-      "company": "Beezie",
-      "amount": "$4.0M",
-      "stage": null,
-      "investors": "Psalion to scale its gamified physical asset marketplace globally",
-      "location": "Funding Singapore",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/psalion-backs-beezie-in-4-million-round-to-reinvent-how-people-buy-and-collect/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-28T01:36:44.512069-07:00"
+    "remind_at": "2026-07-28T04:16:05.393120-07:00"
   }
 ]
