@@ -1,5 +1,35 @@
 [
   {
+    "id": "393c5be080b5c1f04759220841d29d31",
+    "company": "PayPal tops Q2 estimates and",
+    "amount": "$53.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/28/paypal-tops-q2-estimates-raises-full-year-forecast-amid-stripe-takeover-bid/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-28T16:30:13.166397-07:00",
+    "status": "active"
+  },
+  {
+    "id": "61bbd47a375fe41d75d7a0d63f1cec7e",
+    "company": "Oasis Security",
+    "amount": "$1.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/28/cyera-buy-nonhuman-identity-startup-oasis-security-reported-1b/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-28T16:30:09.550131-07:00",
+    "status": "active"
+  },
+  {
     "id": "5ba62de7c0fb02f5b99a0230c32890d5",
     "company": "Trump asks Supreme Court",
     "amount": "$83.0M",

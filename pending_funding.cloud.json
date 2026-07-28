@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "Spur",
-      "amount": "$200.0M",
+      "company": "Oasis Security",
+      "amount": "$1.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/28/cyera-buy-nonhuman-identity-startup-oasis-security-reported-1b/",
       "priority": 3
     },
-    "remind_at": "2026-07-28T15:47:03.771499-07:00"
+    "remind_at": "2026-07-28T17:00:08.549947-07:00"
   },
   {
     "item": {
-      "company": "eBay will pay nearly $50 million",
-      "amount": "$50.0M",
+      "company": "PayPal tops Q2 estimates and",
+      "amount": "$53.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/28/ebay-steiner-harassment-settlement-50-million-cyberstalking/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/28/paypal-tops-q2-estimates-raises-full-year-forecast-amid-stripe-takeover-bid/",
       "priority": 3
     },
-    "remind_at": "2026-07-28T15:47:07.196297-07:00"
-  },
-  {
-    "item": {
-      "company": "Trump asks Supreme Court",
-      "amount": "$83.0M",
-      "stage": null,
-      "investors": null,
-      "location": "New York",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/28/trump-appeal-defamation-sexual-assault",
-      "priority": 3
-    },
-    "remind_at": "2026-07-28T15:47:10.615830-07:00"
+    "remind_at": "2026-07-28T17:00:12.166213-07:00"
   }
 ]
