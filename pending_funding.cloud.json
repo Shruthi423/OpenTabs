@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "DITTO",
+      "amount": "$6.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/ditto-6m-seed-foodlabs-eka-ventures-menstrual-health/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-27T23:04:26.365655-07:00"
+  },
+  {
+    "item": {
+      "company": "Robai",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41WksycnJCRThoV1AtTlhLaGtURC1zYVhrQmNlakZyNmk5Zl9tU0k2R1k0N19oUzBqYl9RSFB1WmFGT0MxWTFUSnBkbV8talpZRkNZ?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-27T23:04:28.897608-07:00"
+  }
+]
