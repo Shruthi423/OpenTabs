@@ -1,36 +1,8 @@
 [
   {
     "item": {
-      "company": "Fish Audio makes a splash",
-      "amount": "$52.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/28/fish-audio-makes-splash-raising-52m-seed-funding-ai-voices/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-28T08:29:18.849687-07:00"
-  },
-  {
-    "item": {
-      "company": "Harmony",
-      "amount": "$34.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/28/harmony-raises-34m-seed-to-bring-ai-agents-to-slack-and-microsoft-teams-for-employee-support/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-28T08:29:21.079719-07:00"
-  },
-  {
-    "item": {
       "company": "Fish Audio",
-      "amount": "$50.0M",
+      "amount": "$52.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
@@ -39,104 +11,34 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFV3aDlXcFpxejgwQ05ocWpObXd4VlJBTmlreWxuRW9jMm5mRVJsN1kwaXlJc19HWXdtVnM0WThiZ2NTYkUtSDE2TGliWkpzUzBDN05XWTExSWRscjdNNW95UFVra0lKX0hUVVNJUlBVeEtoUWhDQzlnQkp1c2dqREYwMy1MaGF5VGZYRFlDeXU5TmxQUHBiRVA2VHZFalhURm50TUE4VmxIQ3hOVDhsN0ROWS1fUQ?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-07-28T08:29:24.035778-07:00"
+    "remind_at": "2026-07-28T10:11:59.132989-07:00"
   },
   {
     "item": {
-      "company": "Co-Founded By Former Whoop CTO",
-      "amount": "$10.0M",
-      "stage": "Series A",
-      "investors": "Will Ventures, it told Crunchbase News exclusively",
-      "location": null,
-      "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/health-wellness-biotech/throne-science-microbiome-gut-health-toilet-camera-startup-john-capodilupo-whoop/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-28T08:29:27.038021-07:00"
-  },
-  {
-    "item": {
-      "company": "Throne",
-      "amount": "$10.0M",
+      "company": "Former Wiz and Microsoft veterans",
+      "amount": "$35.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2xCcUF0b3BmQ2l1UXZwNUgzY1NKN04wWjk3bmZhaGFueXk0LWpTcEp6djlmNVV6YU9pSFZhWGdXSXNudm55cVd3Y2VoUDhlMzhWQWUtUlR3c3pnRVZiWkMyMTcxdUQ3X2hDWml5ZU10Tmx4ck9GWVFzODdDbWdQRDhvLVBSUEIyVnd2UXdTVExwdjduVU5yTnZMUm5pX1hQcWlkWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82emk0VTBjVS1MTUYxUC0wb2lEVWE3NVJ4QnVzclNNSGJSWlR0X2N3NU1GbU1QaWx6U3ZHeWx5QWRaR19YNmt0bElseFUwSzQ2NFdBNktxSUJDU3RweXJQNVhTVGFseHhr?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-07-28T08:29:29.256935-07:00"
+    "remind_at": "2026-07-28T10:12:02.768840-07:00"
   },
   {
     "item": {
-      "company": "Bulgarian Tiger Technology",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbzBBTWpQN0NEWVUxd04tTGpVOUVoSTRHRW9PNkdoNDctNDVDcnhKMEhWSTVjX0s5a1VEaGNobWhuZXJrNDkzZ3NmVnlXVlpwSGk3NHZvV0d4UHFBVFR1RUdvZkIxWWVMMlVzLWdWREx1X2JXWXd3dkVValBnYnZVVnFjcmZyX0U?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-07-28T08:29:32.221196-07:00"
-  },
-  {
-    "item": {
-      "company": "Greyparrot",
-      "amount": "$27.0M",
-      "stage": "Series B",
-      "investors": "Om Elite Assets Investment to scale its infrastructure globally",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/28/greyparrot-raises-27m-bring-physical-ai-recycling-packaging-grows-complex/",
-      "priority": 7
-    },
-    "remind_at": "2026-07-28T08:29:34.439389-07:00"
-  },
-  {
-    "item": {
-      "company": "\u2018They burst out laughing \u2026 It",
-      "amount": "$142.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/28/bernard-arnault-children-succession-control-lv/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-28T08:29:37.653519-07:00"
-  },
-  {
-    "item": {
-      "company": "Dwelly",
-      "amount": "$170.0M",
-      "stage": null,
-      "investors": null,
-      "location": "London",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/dwelly-170m-eqt-general-catalyst-ai-lettings/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-28T08:29:39.877491-07:00"
-  },
-  {
-    "item": {
-      "company": "GrubMarket confidentially files",
-      "amount": "$4.5B",
+      "company": "Weave",
+      "amount": "$13.5M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/28/grubmarket-confidentially-files-for-u-s-ipo-after-reaching-4-5-billion-valuation/",
+      "url": "https://techstartups.com/2026/07/28/ai-startup-weave-raises-13-5m-to-help-companies-measure-ai-coding-roi-and-end-tokenmaxxing/",
       "priority": 3
     },
-    "remind_at": "2026-07-28T08:29:43.128655-07:00"
+    "remind_at": "2026-07-28T10:12:05.295753-07:00"
   }
 ]
