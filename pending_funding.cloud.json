@@ -1,46 +1,44 @@
 [
   {
     "item": {
-      "company": "Rent the Runway cofounder Jenn Hyman",
-      "amount": "$1.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [
-        "Natalie Gordon"
-      ],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/29/babylist-new-ceo-jenn-hyman-rent-the-runway-natalie-gordon/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-29T16:09:19.050002-07:00"
-  },
-  {
-    "item": {
-      "company": "Southeast Asia",
-      "amount": null,
+      "company": "Microsoft\u2019s cloud just",
+      "amount": "$100.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/29/southeast-asia-is-hungry-for-innovation-and-eager-to-leapfrog-says-saps-new-apac-president-verena-siow/",
+      "url": "https://fortune.com/2026/07/29/microsoft-azure-100-billion-annual-revenue-earnings-revenue-cloud-ai/",
       "priority": 3
     },
-    "remind_at": "2026-07-29T16:09:22.453248-07:00"
+    "remind_at": "2026-07-29T17:11:51.543825-07:00"
   },
   {
     "item": {
-      "company": "Travis Kalanick\u2019s $1.7 Billion Return",
-      "amount": "$1.7B",
+      "company": "OpenAI opens new ChatGPT",
+      "amount": "$250.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhNjJ2dzgwS0UzME0yWERXYzVuU0FGX1ZIdnM2ZUI0MGJKMlZOSmpQRzlKS1Y2UlN2QU5JNkZUNG9FUG1pNEhJQnYxOXF5MEdSa3VmNnd4QkhvalJhcFhJcVYydlA1Y3dmSzVwdWdBeUF6ZGtC?oc=5",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/29/openai-opens-new-chatgpt-academic-researchers-program-100000-scientists/",
       "priority": 3
     },
-    "remind_at": "2026-07-29T16:09:25.777233-07:00"
+    "remind_at": "2026-07-29T17:11:55.463431-07:00"
+  },
+  {
+    "item": {
+      "company": "Musk plans massive push",
+      "amount": "$260.0M",
+      "stage": null,
+      "investors": "his top political adviser, Chris Young",
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/29/musk-pac-midterm-election",
+      "priority": 3
+    },
+    "remind_at": "2026-07-29T17:11:58.840935-07:00"
   }
 ]

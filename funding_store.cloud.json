@@ -31896,5 +31896,61 @@
     "roles": [],
     "first_seen": "2026-07-29T15:39:26.777373-07:00",
     "status": "active"
+  },
+  "8e5699744a5b4f05b764ec0a1c3a4aba": {
+    "id": "8e5699744a5b4f05b764ec0a1c3a4aba",
+    "company": "Microsoft\u2019s cloud just",
+    "amount": "$100.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/29/microsoft-azure-100-billion-annual-revenue-earnings-revenue-cloud-ai/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-29T16:41:52.543959-07:00",
+    "status": "active"
+  },
+  "609ae6080f234a79ff297b54779a61a5": {
+    "id": "609ae6080f234a79ff297b54779a61a5",
+    "company": "OpenAI opens new ChatGPT",
+    "amount": "$250.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/29/openai-opens-new-chatgpt-academic-researchers-program-100000-scientists/",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco",
+    "roles": [
+      {
+        "title": "Product Designer, People Innovation Labs",
+        "url": "https://jobs.ashbyhq.com/openai/3874db80-f3ec-4dd1-8d56-6441e8f7299d",
+        "location": "San Francisco"
+      },
+      {
+        "title": "TLM, Embedded Experiences",
+        "url": "https://jobs.ashbyhq.com/openai/967d3ad7-bd2c-40e3-ba1f-f1140a116999",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-07-29T16:41:56.463586-07:00",
+    "status": "active"
+  },
+  "a89bb25b81033d3bdb24064c5e3c2caf": {
+    "id": "a89bb25b81033d3bdb24064c5e3c2caf",
+    "company": "Musk plans massive push",
+    "amount": "$260.0M",
+    "stage": "?",
+    "investors": "his top political adviser, Chris Young",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/29/musk-pac-midterm-election",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-29T16:41:59.841056-07:00",
+    "status": "active"
   }
 }
