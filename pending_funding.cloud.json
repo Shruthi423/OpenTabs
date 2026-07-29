@@ -1,16 +1,128 @@
 [
   {
     "item": {
-      "company": "Meta",
-      "amount": "$14.0B",
-      "stage": null,
+      "company": "Valuemize",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": "Zurich",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/valuemize-raises-seven-figure-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-07-29T00:14:28.185764-07:00"
+  },
+  {
+    "item": {
+      "company": "GRO Solutions",
+      "amount": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/28/meta-build-14b-el-paso-data-center-campus-blackrock/",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/gro-solutions-raises-600000-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-07-28T21:41:48.086335-07:00"
+    "remind_at": "2026-07-29T00:14:31.328744-07:00"
+  },
+  {
+    "item": {
+      "company": "Curant.ai",
+      "amount": "$3.1M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/curant-ai-raises-3-1m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-29T00:14:33.680085-07:00"
+  },
+  {
+    "item": {
+      "company": "Talentware",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/talentware-raises-3-3m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-29T00:14:36.101578-07:00"
+  },
+  {
+    "item": {
+      "company": "Fixxly",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTJKbWItQXEzQWVpZzdGQ1hqdUJDWE5fZUFVUWdwSEpNVnpubEpOWmgySjhjZVk5MjdHZ2FLZl9jXzhpeFc4dHFCVmlEQkp2bTBabUxrdHQ1X28xYWdVMFhBTGxPTTdpNm9BWEtuelN4ancwT0tvUll4ZUM0bVlVOHNOeHNCV0EyM0hyZFBBTEg0bTF6WjEtV1pReVdmNzBLd3lLRE02MmtlMnNKeXdKQTRTMzHSAbQBQVVfeXFMTXkySm1iLUFxM0FlaWc3RkNYanVCQ1hOX2VBVVFncEhKTVZ6bmxKTlpoMko4Y2VZOTI3R2dhS2ZfY184aXhXOHRxQlZpREJKdm0wWm1Ma3R0NV9vMWFnVTBYQUxsT003aTZvQVhLbnpTeGp3ME9Lb1JZeGVDNG1ZVThzTnhzQldBMjNIcmRQQUxING0xeloxLVdaUXlXZjcwS3d5S0RNNjJrZTJzSnl3SkE0UzMx?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-29T00:14:38.488016-07:00"
+  },
+  {
+    "item": {
+      "company": "Fixxly",
+      "amount": "$5.5M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTEdYRWZWbE5PMFZmTmlPeDdZTE9KQklxV2FkMWtXRlVzMVFkSVl2dUxrbVY1dEwtVTFEX09GenBzMGpBZm5yQk1XMjRNamh5eHRqcWxwdVk4WWh0WFNPdndCZ09HOW5pWVpxYkZqVnNLc1M2Wm1YQU9qYjhMWG45WGxiREV1RWg0SlpicG05bE1DN28?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-29T00:14:40.689848-07:00"
+  },
+  {
+    "item": {
+      "company": "Buildforce",
+      "amount": "$10.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/buildforce-raises-10m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-29T00:14:43.007242-07:00"
+  },
+  {
+    "item": {
+      "company": "Mate Security",
+      "amount": "$35.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/mate-security-raises-35m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-29T00:14:46.186023-07:00"
+  },
+  {
+    "item": {
+      "company": "Healia",
+      "amount": "$14.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FSjRSbWpudDBZOXczNnFuU1lVUE52SUxNNXN5VWRyYjBzNGFFNmxYZDVqeW1JVFkxdDhwSHl3M3J3eGx4YlZUQzd6UFdycHhMYkpBbHNtTEZVUWpjeUpmb1EweVV0MFVtblI2MV9OcTEyNjM5SGt2NjJHS2RUaDg?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-29T00:14:48.567167-07:00"
   }
 ]
