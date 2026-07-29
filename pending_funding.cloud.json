@@ -1,58 +1,72 @@
 [
   {
     "item": {
-      "company": "Centralize",
-      "amount": "$15.0M",
-      "stage": "Series A",
+      "company": "Eliyan",
+      "amount": "$145.0M",
+      "stage": "Series C",
       "investors": null,
-      "location": null,
+      "location": "Silicon Valley",
       "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/sales-marketing/centralize-enterprise-sales-gtm-startup-funding-slack-meta-alums/",
-      "priority": 8
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/29/optical-interconnect-startup-eliyan-raises-145m-funding-solve-ai-chip-cluster-connectivity-crunch/",
+      "priority": 6
     },
-    "remind_at": "2026-07-29T06:53:19.202387-07:00"
+    "remind_at": "2026-07-29T08:58:27.942933-07:00"
   },
   {
     "item": {
-      "company": "extends series A",
-      "amount": "$134.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/micron-mediatek-back-chipagents-as-ai-startup-extends-series-a-to-134m-on-6x-arr-growth/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-29T06:53:22.310574-07:00"
-  },
-  {
-    "item": {
-      "company": "Revspot",
-      "amount": "$4.8M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTVmNW9hRXdSeHJzaHJGQnZ5OUZIV1NmU0pBSE1CT2kxRVYyMXMxZGEySHNmc2dZTnZ3QWx1cW40N3FLUzdIbEozX3pzSnJWNXlkVmtPaUhLVzQxcUthMXVaZDhtRHJpcFZjV3VrXzVTN0ZKeUdYbXJobF9ieEo2d2FjbXg?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-07-29T06:53:24.609193-07:00"
-  },
-  {
-    "item": {
-      "company": "UNIT AI",
-      "amount": "$12.0M",
+      "company": "Millionaires",
+      "amount": "$1.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/unit-ai-raises-12m-from-prologis-ventures-and-sennder-backer-dynamo-to-modularise-warehouse-automation/",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/millionaires-leaving-the-uk-tax-hikes-ceo-of-1-billion-tax-platform-says-its-social-responsibility-to-stay/",
       "priority": 3
     },
-    "remind_at": "2026-07-29T06:53:26.921115-07:00"
+    "remind_at": "2026-07-29T08:58:30.205589-07:00"
+  },
+  {
+    "item": {
+      "company": "Who qualifies",
+      "amount": "$14.0M",
+      "stage": null,
+      "investors": null,
+      "location": "Washington",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/29/costco-14-million-email-settlement-who-qualifies-how-to-claim/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-29T08:58:33.207077-07:00"
+  },
+  {
+    "item": {
+      "company": "Amazon",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/29/top-tech-news-today-july-29-2026-amazon-google-microsoft-mit-nvidia-softbank-xai-more/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-29T08:58:35.489124-07:00"
+  },
+  {
+    "item": {
+      "company": "Healia",
+      "amount": "$18.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZHlZOWZETXVjbGVaWHNfOThsaVZhZm4wZy0ycmtVV2h3WUVBOUdkaFJaVWFTTmFfWUEzanlQRVZnRDBtVlJmMWFhWHJjT3gxV3ZwUlBqMnVrZHhFRjVNa3QxNkRtVmFqRGdWbElPQ1g1Wk04dXpxTldRby1xbDdHVjdjaG9ibUV4TUFTamxYTEFTdGtrQjZqTGdJbWFMcG1Cd0NGa0hXclg5YmhGdV9XdDlqSjJ5UUJKc0xGWDh1SkZxTndUTTlITjlR?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-29T08:58:37.764063-07:00"
   }
 ]
