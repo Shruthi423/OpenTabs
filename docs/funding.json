@@ -1,5 +1,71 @@
 [
   {
+    "id": "2a9a87f77cafc39e35c1360cadeb02fc",
+    "company": "UNIT AI",
+    "amount": "$12.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/unit-ai-raises-12m-from-prologis-ventures-and-sennder-backer-dynamo-to-modularise-warehouse-automation/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-29T06:23:27.921264-07:00",
+    "status": "active"
+  },
+  {
+    "id": "8f0b360cd667c34838e04432479c4002",
+    "company": "Revspot",
+    "amount": "$4.8M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTVmNW9hRXdSeHJzaHJGQnZ5OUZIV1NmU0pBSE1CT2kxRVYyMXMxZGEySHNmc2dZTnZ3QWx1cW40N3FLUzdIbEozX3pzSnJWNXlkVmtPaUhLVzQxcUthMXVaZDhtRHJpcFZjV3VrXzVTN0ZKeUdYbXJobF9ieEo2d2FjbXg?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-29T06:23:25.609376-07:00",
+    "status": "active"
+  },
+  {
+    "id": "9f16d3f4764412b5ceefd76e36215ac0",
+    "company": "extends series A",
+    "amount": "$134.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/micron-mediatek-back-chipagents-as-ai-startup-extends-series-a-to-134m-on-6x-arr-growth/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-29T06:23:23.310752-07:00",
+    "status": "active"
+  },
+  {
+    "id": "5ae494c83db80cf39e48e2862400f52d",
+    "company": "Centralize",
+    "amount": "$15.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/sales-marketing/centralize-enterprise-sales-gtm-startup-funding-slack-meta-alums/",
+    "priority": 8,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Founding Designer",
+        "url": "https://jobs.ashbyhq.com/centralize/8debce91-6f36-482a-91be-e5c91ffe79e2",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-07-29T06:23:20.202581-07:00",
+    "status": "active"
+  },
+  {
     "id": "09c6027840c05aa718501e0f4e7b73b5",
     "company": "Harvard Dropouts' AI Chip Unicorn Etched",
     "amount": "$10.3B",

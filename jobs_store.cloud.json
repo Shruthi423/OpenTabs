@@ -9848,5 +9848,24 @@
     "first_seen": "2026-07-29T04:41:24.116193-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "8bfa2fad7fee817577e80a0521883d0b": {
+    "id": "8bfa2fad7fee817577e80a0521883d0b",
+    "title": "Founding Designer",
+    "company": "Centralize",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/centralize/8debce91-6f36-482a-91be-e5c91ffe79e2",
+    "source": "\ud83d\udcb0 Centralize (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Centralize raised $15.0M",
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-07-29T06:23:16.900364-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
