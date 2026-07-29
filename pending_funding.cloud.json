@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "item": {
+      "company": "Terminal",
+      "amount": "$20.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVDFMcEFGRlczbXQ4UFdwUjJmdjUzSGpOZ0pKZGNDTlE0YjhGMU01VTN3SGQ1R1YtNmM2djIyRkhJeFFodmNFMWs1VmczOE1OUXBtWk9sbHl0OXRuTjhGS0dkWDZrVXRmUVc0ZkU2YjBfNS1qTldhME9wblVKYnI5bEdNZ1FfYlVKLUJPRVBvV3JHNlFvS0htNC1tNXYweldLUkxZ?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-07-29T15:06:05.624728-07:00"
+  },
+  {
+    "item": {
+      "company": "Onyx",
+      "amount": "$113.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xdWlrUWpRYi1TT3I4aXZzelhCUzNpWVdmV2pvN2s3anhaa3ZNT2JMZlBqRTJMaXVadjBzTWRVT1RXYTE4dzdKbGJPcGl3ZjRHZ1oxWThaZTNOVmd1ZGlHQ1lVM2ZnbXBa?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-07-29T15:06:07.839411-07:00"
+  },
+  {
+    "item": {
+      "company": "GlobalFoundries",
+      "amount": "$300.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/29/globalfoundries-receive-300m-federal-funding-silicon-photonics-research/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-29T15:06:10.197458-07:00"
+  },
+  {
+    "item": {
+      "company": "Graphs move from niche database",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/29/enterprise-knowledge-layer-powers-modern-gen-ai-neo4jgraphtalk/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-29T15:06:20.139446-07:00"
+  },
+  {
+    "item": {
+      "company": "Why profanity",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "New York",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/29/trump-political-swearing-voter-perceptions",
+      "priority": 3
+    },
+    "remind_at": "2026-07-29T15:06:23.047544-07:00"
+  }
+]
