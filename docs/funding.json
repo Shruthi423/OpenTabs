@@ -1,5 +1,52 @@
 [
   {
+    "id": "4a7cf11c07e1d22fbab6393211e2d2d1",
+    "company": "Travis Kalanick\u2019s $1.7 Billion Return",
+    "amount": "$1.7B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhNjJ2dzgwS0UzME0yWERXYzVuU0FGX1ZIdnM2ZUI0MGJKMlZOSmpQRzlKS1Y2UlN2QU5JNkZUNG9FUG1pNEhJQnYxOXF5MEdSa3VmNnd4QkhvalJhcFhJcVYydlA1Y3dmSzVwdWdBeUF6ZGtC?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-29T15:39:26.777373-07:00",
+    "status": "active"
+  },
+  {
+    "id": "93a73de8f1506f29f22814c43d59f746",
+    "company": "Southeast Asia",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/29/southeast-asia-is-hungry-for-innovation-and-eager-to-leapfrog-says-saps-new-apac-president-verena-siow/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-29T15:39:23.453473-07:00",
+    "status": "active"
+  },
+  {
+    "id": "c0e7273be3efbbf9b22de20ecdbdc68c",
+    "company": "Rent the Runway cofounder Jenn Hyman",
+    "amount": "$1.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/29/babylist-new-ceo-jenn-hyman-rent-the-runway-natalie-gordon/",
+    "priority": 3,
+    "founders": [
+      "Natalie Gordon"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-29T15:39:20.050275-07:00",
+    "status": "active"
+  },
+  {
     "id": "86f88444b450759d186d8762ace9adf4",
     "company": "Why profanity",
     "amount": "Undisclosed",

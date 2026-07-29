@@ -1,72 +1,46 @@
 [
   {
     "item": {
-      "company": "Terminal",
-      "amount": "$20.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVDFMcEFGRlczbXQ4UFdwUjJmdjUzSGpOZ0pKZGNDTlE0YjhGMU01VTN3SGQ1R1YtNmM2djIyRkhJeFFodmNFMWs1VmczOE1OUXBtWk9sbHl0OXRuTjhGS0dkWDZrVXRmUVc0ZkU2YjBfNS1qTldhME9wblVKYnI5bEdNZ1FfYlVKLUJPRVBvV3JHNlFvS0htNC1tNXYweldLUkxZ?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-07-29T15:06:05.624728-07:00"
-  },
-  {
-    "item": {
-      "company": "Onyx",
-      "amount": "$113.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xdWlrUWpRYi1TT3I4aXZzelhCUzNpWVdmV2pvN2s3anhaa3ZNT2JMZlBqRTJMaXVadjBzTWRVT1RXYTE4dzdKbGJPcGl3ZjRHZ1oxWThaZTNOVmd1ZGlHQ1lVM2ZnbXBa?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-07-29T15:06:07.839411-07:00"
-  },
-  {
-    "item": {
-      "company": "GlobalFoundries",
-      "amount": "$300.0M",
+      "company": "Rent the Runway cofounder Jenn Hyman",
+      "amount": "$1.0B",
       "stage": null,
       "investors": null,
       "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/29/globalfoundries-receive-300m-federal-funding-silicon-photonics-research/",
+      "founders": [
+        "Natalie Gordon"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/29/babylist-new-ceo-jenn-hyman-rent-the-runway-natalie-gordon/",
       "priority": 3
     },
-    "remind_at": "2026-07-29T15:06:10.197458-07:00"
+    "remind_at": "2026-07-29T16:09:19.050002-07:00"
   },
   {
     "item": {
-      "company": "Graphs move from niche database",
+      "company": "Southeast Asia",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/29/enterprise-knowledge-layer-powers-modern-gen-ai-neo4jgraphtalk/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/29/southeast-asia-is-hungry-for-innovation-and-eager-to-leapfrog-says-saps-new-apac-president-verena-siow/",
       "priority": 3
     },
-    "remind_at": "2026-07-29T15:06:20.139446-07:00"
+    "remind_at": "2026-07-29T16:09:22.453248-07:00"
   },
   {
     "item": {
-      "company": "Why profanity",
-      "amount": null,
+      "company": "Travis Kalanick\u2019s $1.7 Billion Return",
+      "amount": "$1.7B",
       "stage": null,
       "investors": null,
-      "location": "New York",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/29/trump-political-swearing-voter-perceptions",
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhNjJ2dzgwS0UzME0yWERXYzVuU0FGX1ZIdnM2ZUI0MGJKMlZOSmpQRzlKS1Y2UlN2QU5JNkZUNG9FUG1pNEhJQnYxOXF5MEdSa3VmNnd4QkhvalJhcFhJcVYydlA1Y3dmSzVwdWdBeUF6ZGtC?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-29T15:06:23.047544-07:00"
+    "remind_at": "2026-07-29T16:09:25.777233-07:00"
   }
 ]
