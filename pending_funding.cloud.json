@@ -1,72 +1,46 @@
 [
   {
     "item": {
-      "company": "Eliyan",
-      "amount": "$145.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": "Silicon Valley",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/29/optical-interconnect-startup-eliyan-raises-145m-funding-solve-ai-chip-cluster-connectivity-crunch/",
-      "priority": 6
-    },
-    "remind_at": "2026-07-29T08:58:27.942933-07:00"
-  },
-  {
-    "item": {
-      "company": "Millionaires",
-      "amount": "$1.0B",
-      "stage": null,
+      "company": "Encore AI",
+      "amount": "$30.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/article/millionaires-leaving-the-uk-tax-hikes-ceo-of-1-billion-tax-platform-says-its-social-responsibility-to-stay/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16NUNYbFRhT2lSaVU1OVFqbGJiRlRHWEVOM1JnNklfT0V6ZzlXSm9ldm1DMGFSTkRTeUtoRTZuakhQRGtubk1SajhyVkZXR21RZ2J3S2hfZjdncUFtN0dHMDhvYWdDUFBr?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-07-29T08:58:30.205589-07:00"
+    "remind_at": "2026-07-29T10:20:59.834157-07:00"
   },
   {
     "item": {
-      "company": "Who qualifies",
-      "amount": "$14.0M",
+      "company": "He worked 100-hour weeks",
+      "amount": "$400.0M",
       "stage": null,
       "investors": null,
-      "location": "Washington",
-      "founders": [],
+      "location": null,
+      "founders": [
+        "Yvon Chouinard"
+      ],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/29/costco-14-million-email-settlement-who-qualifies-how-to-claim/",
+      "url": "https://fortune.com/2026/07/29/eddie-smith-jr-turned-down-400-million-offer-for-grady-white-boats-instead-giving-profits-away-to-charity-inspired-by-patagonia-founder-philanthropy/",
       "priority": 3
     },
-    "remind_at": "2026-07-29T08:58:33.207077-07:00"
+    "remind_at": "2026-07-29T10:21:03.397973-07:00"
   },
   {
     "item": {
-      "company": "Amazon",
+      "company": "Why AI makes central banking tougher",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "Switzerland",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/29/top-tech-news-today-july-29-2026-amazon-google-microsoft-mit-nvidia-softbank-xai-more/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/29/ai-central-banking-bis",
       "priority": 3
     },
-    "remind_at": "2026-07-29T08:58:35.489124-07:00"
-  },
-  {
-    "item": {
-      "company": "Healia",
-      "amount": "$18.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZHlZOWZETXVjbGVaWHNfOThsaVZhZm4wZy0ycmtVV2h3WUVBOUdkaFJaVWFTTmFfWUEzanlQRVZnRDBtVlJmMWFhWHJjT3gxV3ZwUlBqMnVrZHhFRjVNa3QxNkRtVmFqRGdWbElPQ1g1Wk04dXpxTldRby1xbDdHVjdjaG9ibUV4TUFTamxYTEFTdGtrQjZqTGdJbWFMcG1Cd0NGa0hXclg5YmhGdV9XdDlqSjJ5UUJKc0xGWDh1SkZxTndUTTlITjlR?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-29T08:58:37.764063-07:00"
+    "remind_at": "2026-07-29T10:21:06.658555-07:00"
   }
 ]

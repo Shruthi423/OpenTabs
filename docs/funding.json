@@ -1,5 +1,52 @@
 [
   {
+    "id": "b5c9edc36a88d9e1524558b05b60bad0",
+    "company": "Why AI makes central banking tougher",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/29/ai-central-banking-bis",
+    "priority": 3,
+    "founders": [],
+    "location": "Switzerland",
+    "roles": [],
+    "first_seen": "2026-07-29T09:51:07.658715-07:00",
+    "status": "active"
+  },
+  {
+    "id": "005593241a2429cd37a1c3d61b233145",
+    "company": "He worked 100-hour weeks",
+    "amount": "$400.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/29/eddie-smith-jr-turned-down-400-million-offer-for-grady-white-boats-instead-giving-profits-away-to-charity-inspired-by-patagonia-founder-philanthropy/",
+    "priority": 3,
+    "founders": [
+      "Yvon Chouinard"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-29T09:51:04.398134-07:00",
+    "status": "active"
+  },
+  {
+    "id": "736f7e27398ad025bf5259096a30c817",
+    "company": "Encore AI",
+    "amount": "$30.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16NUNYbFRhT2lSaVU1OVFqbGJiRlRHWEVOM1JnNklfT0V6ZzlXSm9ldm1DMGFSTkRTeUtoRTZuakhQRGtubk1SajhyVkZXR21RZ2J3S2hfZjdncUFtN0dHMDhvYWdDUFBr?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-29T09:51:00.834313-07:00",
+    "status": "active"
+  },
+  {
     "id": "a3827ddbb40997db68ade52f05bf6c03",
     "company": "Healia",
     "amount": "$18.0M",

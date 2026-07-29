@@ -9885,5 +9885,41 @@
     "first_seen": "2026-07-29T08:28:04.992887-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "e229eea23851683a3a506a61cf37fb68": {
+    "id": "e229eea23851683a3a506a61cf37fb68",
+    "title": "Product Engineer (UX/UI)",
+    "company": "Gradial",
+    "location": "Seattle, WA",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/gradial/jobs/4338059009",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-07-29T09:50:36.315428-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "351ee912e98831cfc4c7b97773d15f08": {
+    "id": "351ee912e98831cfc4c7b97773d15f08",
+    "title": "Product Designer, CMS",
+    "company": "Figma",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "salary": "Not listed",
+    "url": "https://boards.greenhouse.io/figma/jobs/6126976004?gh_jid=6126976004",
+    "source": "Figma",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-07-29T09:50:37.997113-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
