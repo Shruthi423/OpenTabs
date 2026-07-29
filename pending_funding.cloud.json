@@ -1,46 +1,30 @@
 [
   {
     "item": {
-      "company": "Encore AI",
-      "amount": "$30.0M",
-      "stage": "Series A",
+      "company": "Eliyan becomes unicorn",
+      "amount": "$145.0M",
+      "stage": "Series C",
       "investors": null,
-      "location": null,
+      "location": "Santa Clara",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16NUNYbFRhT2lSaVU1OVFqbGJiRlRHWEVOM1JnNklfT0V6ZzlXSm9ldm1DMGFSTkRTeUtoRTZuakhQRGtubk1SajhyVkZXR21RZ2J3S2hfZjdncUFtN0dHMDhvYWdDUFBr?oc=5",
-      "priority": 8
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/29/ai-infrastructure-startup-eliyan-becomes-unicorn-after-145m-series-c-to-solve-ai-data-center-bottlenecks/",
+      "priority": 6
     },
-    "remind_at": "2026-07-29T10:20:59.834157-07:00"
+    "remind_at": "2026-07-29T11:34:01.993041-07:00"
   },
   {
     "item": {
-      "company": "He worked 100-hour weeks",
-      "amount": "$400.0M",
+      "company": "Pangram Labs",
+      "amount": "$9.0M",
       "stage": null,
-      "investors": null,
+      "investors": "Menlo Ventures, to improve the accuracy of its core text detection and expand into other media, starting with images",
       "location": null,
-      "founders": [
-        "Yvon Chouinard"
-      ],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/29/eddie-smith-jr-turned-down-400-million-offer-for-grady-white-boats-instead-giving-profits-away-to-charity-inspired-by-patagonia-founder-philanthropy/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-29T10:21:03.397973-07:00"
-  },
-  {
-    "item": {
-      "company": "Why AI makes central banking tougher",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Switzerland",
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/29/ai-central-banking-bis",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/29/pangram-labs-raises-9m-launch-accurate-ai-detection-text-images/",
       "priority": 3
     },
-    "remind_at": "2026-07-29T10:21:06.658555-07:00"
+    "remind_at": "2026-07-29T11:34:06.137845-07:00"
   }
 ]
