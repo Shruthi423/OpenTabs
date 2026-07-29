@@ -1,30 +1,32 @@
 [
   {
     "item": {
-      "company": "Eliyan becomes unicorn",
-      "amount": "$145.0M",
-      "stage": "Series C",
+      "company": "Rent the Runway founder Jenn Hyman",
+      "amount": "$1.0B",
+      "stage": null,
       "investors": null,
-      "location": "Santa Clara",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/29/ai-infrastructure-startup-eliyan-becomes-unicorn-after-145m-series-c-to-solve-ai-data-center-bottlenecks/",
-      "priority": 6
+      "location": null,
+      "founders": [
+        "Natalie Gordon"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/29/babylist-new-ceo-jenn-hyman-rent-the-runway-natalie-gordon/",
+      "priority": 3
     },
-    "remind_at": "2026-07-29T11:34:01.993041-07:00"
+    "remind_at": "2026-07-29T13:12:04.827825-07:00"
   },
   {
     "item": {
-      "company": "Pangram Labs",
-      "amount": "$9.0M",
+      "company": "Fed leaves rates steady",
+      "amount": null,
       "stage": null,
-      "investors": "Menlo Ventures, to improve the accuracy of its core text detection and expand into other media, starting with images",
-      "location": null,
+      "investors": null,
+      "location": "Dallas",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/29/pangram-labs-raises-9m-launch-accurate-ai-detection-text-images/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/29/fed-warsh-rates-inflation",
       "priority": 3
     },
-    "remind_at": "2026-07-29T11:34:06.137845-07:00"
+    "remind_at": "2026-07-29T13:12:08.194749-07:00"
   }
 ]
