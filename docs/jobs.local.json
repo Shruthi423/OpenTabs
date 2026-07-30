@@ -1,5 +1,23 @@
 [
   {
+    "id": "2f70951cb11e936d387e803e92d5e44d",
+    "title": "Brand Designer",
+    "company": "Gensler",
+    "location": "Houston, TX",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4443495268",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-07-30T10:26:01.322171-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  {
     "id": "c3435d9e4a32b200aa295103b9475e67",
     "title": "UI/UX Engineer",
     "company": "Sparksoft Corporation",
@@ -68,24 +86,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-07-30T10:07:32.520187-07:00",
-    "status": "active",
-    "applied_at": null
-  },
-  {
-    "id": "2c1d2242e020c6bc220339d8a4e0f375",
-    "title": "Hardware\u2011in\u2011the\u2011Loop (HIL) Systems Engineer (Indefinite US Work Authorization Required)",
-    "company": "Crown Equipment",
-    "location": "New Bremen, OH, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=af95f5570bc26c0b",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "visa": null,
-    "founders": [],
-    "posted_at": "2026-07-29",
-    "priority": 4,
-    "first_seen": "2026-07-30T10:07:30.766469-07:00",
     "status": "active",
     "applied_at": null
   },
