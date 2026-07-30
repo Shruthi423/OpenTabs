@@ -1,58 +1,44 @@
 [
   {
     "item": {
-      "company": "Norwegian Mimir",
-      "amount": null,
-      "stage": "Pre-Seed",
+      "company": "Private credit AI platform Ellis",
+      "amount": "$10.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeGVodXlfRFppLWl3b2htV1JKRmNScUpuZ0FtdWdIVzVXNG12TWdWdUZyakg1UnZPbkpGWXN2OUxpMGxzNDRrMTh1Y1M5OFZ4OS1yaUYwRGtXcHctMjJjZUF2UWRmbXVPaE8xV2hZcWdLNGRuNzE0UUhJaDJicEdpbFZXNHhUVEpIa2Q3d2EtYnNVeFRRUmJBdUgwVW1Ha3p0SUpweHVweUVmeVpXeWp5Rm5jWQ?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-30T16:05:22.014984-07:00"
+  },
+  {
+    "item": {
+      "company": "Inspira",
+      "amount": "$2.8M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02Tm41RmhWRmtPaUR6TnBUZk9QX2ZuVTBjSTBOX25RMm9LcDk4dlNrM2FqRmMyeE0zYUU2cURYZGQ3RmZnOGd1SFItRmY0MGZzU0RQRzBlS29PU2lRWm9acDR1TdIBY0FVX3lxTE02Tm41RmhWRmtPaUR6TnBUZk9QX2ZuVTBjSTBOX25RMm9LcDk4dlNrM2FqRmMyeE0zYUU2cURYZGQ3RmZnOGd1SFItRmY0MGZzU0RQRzBlS29PU2lRWm9acDR1TQ?oc=5",
-      "priority": 10
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QTEtlUVpKQ0dqenpKNWFMWFFSWWtmNGZoaE9BM2JVejB2Q0tRS1YyQnB5RXJVTWM4eU16U182ZmhoZlIycEJRbEhTS2lWeGJoZHdZWjZNTUU3YTI2S3BDbUZma18zQTZ5ZWJfaXRBUE9rRnhvM0w4Rl95QXZrd9IBgwFBVV95cUxQeHBfWmJ2UzhBZkRnUGhiQmdtZEV5TElqMjI3aVJjQzhDU05OSzdLNE5IXzJtT1dJWE9sb0dhYV82OHBQOXJNQWRhRU9CaWF4djMwaXA2blhxaWp5MUJkeDFydmZpX1BmTFhxV0VSaVQtQTNzUVJ3QVJ0UUlkOTRGeUd3NA?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-07-30T14:47:35.842782-07:00"
+    "remind_at": "2026-07-30T16:05:24.280911-07:00"
   },
   {
     "item": {
-      "company": "A tech podcast inspired AI workers",
-      "amount": "$40.0M",
+      "company": "Ellis",
+      "amount": "$10.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/30/artifical-intelligence-workers-wealth-influx-rewriting-philanthropy-giving-to-save-factory-farm-animals-openai-anthropic-ipo-wealth/",
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPU3hWcTkxTTZYaDhSYlBZUWRad1RNaUx2c1g4QmpzZkVRM3RvMXdtZ0xtY04xUjZldjVhNWNjc1JWc2FXdFNZY09iUWJZTDN1NTVJZ0FzeWxMejA4N3dqZzRvZmptV2k4ZlNYOTU3RFBQcU5lOUhvSXd4ZGZvd0IxRVpKdV9pQW5UWHNqMGY4c1NleEVrT2RNaWVXUmQwVzRjd3NGVFVHdy16cV9ZTXdpeTNHOEljd0oxVGFmR0FMQ3dnYnlRTVlzc1BfYWF4bHpkQXY3aC0xbE9ubUxBOGEwUjNjdXFLREtPaVg2RENxTWxObWhxb1FNeW02Z0QtVDB3TzFOMkZn?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-30T14:47:39.056025-07:00"
-  },
-  {
-    "item": {
-      "company": "Microsoft\u2019s stock has biggest one-day",
-      "amount": "$480.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/30/microsoft-stock-biggest-one-day-gain-since-2008-480-billion-market-value-cloud-growth/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-30T14:47:42.314281-07:00"
-  },
-  {
-    "item": {
-      "company": "AI Funding Tracker",
-      "amount": "$100.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83cDZaRUhtSl9ocmxQLWNmVXI2Y3lxTVF0allHUGJRNWhpbEZ2N3VUMDRLcEF5VGdhcVdraVJQZi0ycG5WcFM4TnpjR0JqcDZYdS1JMHQtMA?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-30T14:47:45.656005-07:00"
+    "remind_at": "2026-07-30T16:05:26.464769-07:00"
   }
 ]
