@@ -32843,5 +32843,26 @@
     "roles": [],
     "first_seen": "2026-07-30T15:35:27.464937-07:00",
     "status": "active"
+  },
+  "02d9b98c1bc00e433a734510e457f9f5": {
+    "id": "02d9b98c1bc00e433a734510e457f9f5",
+    "company": "Okta",
+    "amount": "$200.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/30/okta-acquire-permiso-security-reported-200m-identity-security-deal/",
+    "priority": 3,
+    "founders": [],
+    "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC",
+    "roles": [
+      {
+        "title": "Product Design Architect",
+        "url": "https://www.okta.com/company/careers/opportunity/7839824?gh_jid=7839824",
+        "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC"
+      }
+    ],
+    "first_seen": "2026-07-30T16:41:56.061881-07:00",
+    "status": "active"
   }
 }
