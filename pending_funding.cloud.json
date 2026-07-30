@@ -1,30 +1,86 @@
 [
   {
     "item": {
-      "company": "Groundcover",
-      "amount": "$100.0M",
-      "stage": "Series C",
+      "company": "Suind",
+      "amount": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/29/cloud-observability-startup-groundcover-raises-100m-funding/",
-      "priority": 6
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXpLa1VSTld4ZmVtTVZ6VXZjczFzckJ4ZUJidThNQXFVZnRXdWRDQk5LWWpwX2ZsaUlNNHZmYzhuRUoySEROUGRmajZDb0FRWURVSjktdTFlQTJOY2VKRjlaLTJvcTdKWnd2aGF4V1J2YjNmZXBTSG1raTN1aVVvSnZpeWRidmMxSC1pOENvZGtDSGpqSDJTTTB0MTQ4VE1laDY2ZUw3TlVjVnlCdlByU3M0eHg2NzNxU0pKQXBB?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-07-29T21:49:37.896305-07:00"
+    "remind_at": "2026-07-30T00:39:51.719839-07:00"
   },
   {
     "item": {
-      "company": "Anduril In Talks",
-      "amount": "$100.0B",
+      "company": "EnFi",
+      "amount": "$15.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/enfi-raises-15m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-30T00:39:53.939161-07:00"
+  },
+  {
+    "item": {
+      "company": "ThreatLocker",
+      "amount": "$190.0M",
+      "stage": "Series F",
+      "investors": "Elephant to advance its Zero Trust cybersecurity platform and accelerate global expansion",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/threatlocker-raises-190m-series-f/",
+      "priority": 6
+    },
+    "remind_at": "2026-07-30T00:39:56.257095-07:00"
+  },
+  {
+    "item": {
+      "company": "Agon",
+      "amount": "$30.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTV5Zno4RzdNWWlBRFN1RjdOTWc2dlpmSmNuWllLckY5c3pIWHlqQm5qSkNDWXpVckh5Y0JMQ0lrVzFTZkRLWDVzU3BuRWN0YzJFMGhQdXA2X0FoVlZUWUNWaWhYbXk1SF9LVmRENm1yU1BkdEFjVUoxbUhzMVZTeHNLcWhDOGZ6dzdmUW9rMHdJM3kxbV9XdkNGdl91alnSAaQBQVVfeXFMUGpxeURkc1g0ckowX0pMS3BTODRRbENHTTI5bWJwdThBcTU3bEs1eHQ0V3FEYXFRQk83YXlsbkJnTTMyM04xLVVXa19HTjFuVFN2SHJrV2NPMTJ6a0syQ1R6UGhmdHJTSTlpVGR4YzNzNGxMajRFTDVPRFB1UkNlbWNQX0hzbjN6VHRaMTctT1hXdkJpZklzTUhlT1lkaFE2QVlvWXk?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/agon-raises-30m-seed/",
       "priority": 3
     },
-    "remind_at": "2026-07-29T21:49:41.107350-07:00"
+    "remind_at": "2026-07-30T00:39:58.536622-07:00"
+  },
+  {
+    "item": {
+      "company": "Spur Intelligence",
+      "amount": "$200.0M",
+      "stage": null,
+      "investors": "Insight Partners to scale its IP intelligence platform for fraud and security teams",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/spur-intelligence-raises-200m-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-30T00:40:01.531819-07:00"
+  },
+  {
+    "item": {
+      "company": "Upstart",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3g5cXdNT1VZelp0QWozeTFTQU82UHF3dElBa1Mxa0hDbWZYNGFtMlp4Zy1hWmpua182MndNdlZDZDBsOE9ERTRxcVRIQnpKWFBjU3ZOd3hJalZZN2NhQjBsSjdmcUd6V1FfWjY2LUtmYVR5a0RtT1FYNU1uZHYtM2NvWEI0X1ZvREJjYml0UEg5azYwa19xcmVmVUVEUnBUZjdfNjl1UHpKUQ?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-30T00:40:05.372235-07:00"
   }
 ]
