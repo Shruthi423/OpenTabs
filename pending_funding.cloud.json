@@ -1,58 +1,58 @@
 [
   {
     "item": {
-      "company": "Simile",
-      "amount": "$200.0M",
+      "company": "Bundle",
+      "amount": "$5.5M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnpOaUtEMi1KaklzNlBXWnlRd3VjaDJNQzRnZHh5RTVyRXJZMWlaeEctU2prZkdSckRXd3VockxiRGJRWW53VWVwMUdSZEgyTXBiejVSaFVnRkVSMHBBNWhTbmJMc3dzbmxnN3FSNmotNjJ0SkJTRUJsbVZBck5La3M2aXBzay0xVkR5RTVKRjlxM282S0tqdi1seVFTTV9XNlczYjJfcGt1VXpzeWFr?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-07-30T13:31:03.507766-07:00"
+  },
+  {
+    "item": {
+      "company": "Smallest.ai",
+      "amount": "$13.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/30/smallest-ai-raises-13m-accelerate-development-asynchronous-voice-ai-architecture/",
       "priority": 8
     },
-    "remind_at": "2026-07-30T11:47:50.393083-07:00"
+    "remind_at": "2026-07-30T13:31:05.717154-07:00"
   },
   {
     "item": {
-      "company": "Antora",
-      "amount": "$550.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-07-30T11:47:52.853079-07:00"
-  },
-  {
-    "item": {
-      "company": "Jeff Bezos could add",
+      "company": "Bessent sets stage",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/30/jeff-bezos-liverpool-minority-stake-investment-american-billionaires-premier-league-english-soccer/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/30/bessent-xi-china-visit-trade-greer",
       "priority": 3
     },
-    "remind_at": "2026-07-30T11:47:56.123424-07:00"
+    "remind_at": "2026-07-30T13:31:08.692954-07:00"
   },
   {
     "item": {
-      "company": "Goldman Sachs",
-      "amount": null,
+      "company": "Trump",
+      "amount": "$1.8B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/30/goldman-sachs-launches-alphaai-to-bring-ai-investing-across-public-and-private-markets/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/30/trump-blanche-nomination-tillis-cornyn",
       "priority": 3
     },
-    "remind_at": "2026-07-30T11:47:59.352123-07:00"
+    "remind_at": "2026-07-30T13:31:10.925249-07:00"
   }
 ]
