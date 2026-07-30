@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "Groundcover",
+      "amount": "$100.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/29/cloud-observability-startup-groundcover-raises-100m-funding/",
+      "priority": 6
+    },
+    "remind_at": "2026-07-29T21:49:37.896305-07:00"
+  },
+  {
+    "item": {
+      "company": "Anduril In Talks",
+      "amount": "$100.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTV5Zno4RzdNWWlBRFN1RjdOTWc2dlpmSmNuWllLckY5c3pIWHlqQm5qSkNDWXpVckh5Y0JMQ0lrVzFTZkRLWDVzU3BuRWN0YzJFMGhQdXA2X0FoVlZUWUNWaWhYbXk1SF9LVmRENm1yU1BkdEFjVUoxbUhzMVZTeHNLcWhDOGZ6dzdmUW9rMHdJM3kxbV9XdkNGdl91alnSAaQBQVVfeXFMUGpxeURkc1g0ckowX0pMS3BTODRRbENHTTI5bWJwdThBcTU3bEs1eHQ0V3FEYXFRQk83YXlsbkJnTTMyM04xLVVXa19HTjFuVFN2SHJrV2NPMTJ6a0syQ1R6UGhmdHJTSTlpVGR4YzNzNGxMajRFTDVPRFB1UkNlbWNQX0hzbjN6VHRaMTctT1hXdkJpZklzTUhlT1lkaFE2QVlvWXk?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-29T21:49:41.107350-07:00"
+  }
+]

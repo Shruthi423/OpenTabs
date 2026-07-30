@@ -1,5 +1,35 @@
 [
   {
+    "id": "e55af71fb53284f535d76505114eba38",
+    "company": "Anduril In Talks",
+    "amount": "$100.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTV5Zno4RzdNWWlBRFN1RjdOTWc2dlpmSmNuWllLckY5c3pIWHlqQm5qSkNDWXpVckh5Y0JMQ0lrVzFTZkRLWDVzU3BuRWN0YzJFMGhQdXA2X0FoVlZUWUNWaWhYbXk1SF9LVmRENm1yU1BkdEFjVUoxbUhzMVZTeHNLcWhDOGZ6dzdmUW9rMHdJM3kxbV9XdkNGdl91alnSAaQBQVVfeXFMUGpxeURkc1g0ckowX0pMS3BTODRRbENHTTI5bWJwdThBcTU3bEs1eHQ0V3FEYXFRQk83YXlsbkJnTTMyM04xLVVXa19HTjFuVFN2SHJrV2NPMTJ6a0syQ1R6UGhmdHJTSTlpVGR4YzNzNGxMajRFTDVPRFB1UkNlbWNQX0hzbjN6VHRaMTctT1hXdkJpZklzTUhlT1lkaFE2QVlvWXk?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-29T21:19:42.107529-07:00",
+    "status": "active"
+  },
+  {
+    "id": "abc948971dd2ee7cbb7f66efca1ce87e",
+    "company": "Groundcover",
+    "amount": "$100.0M",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/29/cloud-observability-startup-groundcover-raises-100m-funding/",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-29T21:19:38.896460-07:00",
+    "status": "active"
+  },
+  {
     "id": "a89bb25b81033d3bdb24064c5e3c2caf",
     "company": "Musk plans massive push",
     "amount": "$260.0M",
