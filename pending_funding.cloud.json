@@ -1,58 +1,58 @@
 [
   {
     "item": {
-      "company": "Bundle",
-      "amount": "$5.5M",
+      "company": "Norwegian Mimir",
+      "amount": null,
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnpOaUtEMi1KaklzNlBXWnlRd3VjaDJNQzRnZHh5RTVyRXJZMWlaeEctU2prZkdSckRXd3VockxiRGJRWW53VWVwMUdSZEgyTXBiejVSaFVnRkVSMHBBNWhTbmJMc3dzbmxnN3FSNmotNjJ0SkJTRUJsbVZBck5La3M2aXBzay0xVkR5RTVKRjlxM282S0tqdi1seVFTTV9XNlczYjJfcGt1VXpzeWFr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02Tm41RmhWRmtPaUR6TnBUZk9QX2ZuVTBjSTBOX25RMm9LcDk4dlNrM2FqRmMyeE0zYUU2cURYZGQ3RmZnOGd1SFItRmY0MGZzU0RQRzBlS29PU2lRWm9acDR1TdIBY0FVX3lxTE02Tm41RmhWRmtPaUR6TnBUZk9QX2ZuVTBjSTBOX25RMm9LcDk4dlNrM2FqRmMyeE0zYUU2cURYZGQ3RmZnOGd1SFItRmY0MGZzU0RQRzBlS29PU2lRWm9acDR1TQ?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-07-30T13:31:03.507766-07:00"
+    "remind_at": "2026-07-30T14:47:35.842782-07:00"
   },
   {
     "item": {
-      "company": "Smallest.ai",
-      "amount": "$13.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/30/smallest-ai-raises-13m-accelerate-development-asynchronous-voice-ai-architecture/",
-      "priority": 8
-    },
-    "remind_at": "2026-07-30T13:31:05.717154-07:00"
-  },
-  {
-    "item": {
-      "company": "Bessent sets stage",
-      "amount": null,
+      "company": "A tech podcast inspired AI workers",
+      "amount": "$40.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/30/bessent-xi-china-visit-trade-greer",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/30/artifical-intelligence-workers-wealth-influx-rewriting-philanthropy-giving-to-save-factory-farm-animals-openai-anthropic-ipo-wealth/",
       "priority": 3
     },
-    "remind_at": "2026-07-30T13:31:08.692954-07:00"
+    "remind_at": "2026-07-30T14:47:39.056025-07:00"
   },
   {
     "item": {
-      "company": "Trump",
-      "amount": "$1.8B",
+      "company": "Microsoft\u2019s stock has biggest one-day",
+      "amount": "$480.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/30/trump-blanche-nomination-tillis-cornyn",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/30/microsoft-stock-biggest-one-day-gain-since-2008-480-billion-market-value-cloud-growth/",
       "priority": 3
     },
-    "remind_at": "2026-07-30T13:31:10.925249-07:00"
+    "remind_at": "2026-07-30T14:47:42.314281-07:00"
+  },
+  {
+    "item": {
+      "company": "AI Funding Tracker",
+      "amount": "$100.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83cDZaRUhtSl9ocmxQLWNmVXI2Y3lxTVF0allHUGJRNWhpbEZ2N3VUMDRLcEF5VGdhcVdraVJQZi0ycG5WcFM4TnpjR0JqcDZYdS1JMHQtMA?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-30T14:47:45.656005-07:00"
   }
 ]
