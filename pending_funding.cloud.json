@@ -1,72 +1,58 @@
 [
   {
     "item": {
-      "company": "Dow\u2019s new CEO",
+      "company": "Simile",
+      "amount": "$200.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-30T11:47:50.393083-07:00"
+  },
+  {
+    "item": {
+      "company": "Antora",
+      "amount": "$550.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-07-30T11:47:52.853079-07:00"
+  },
+  {
+    "item": {
+      "company": "Jeff Bezos could add",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/30/new-ceo-dow-transformation-oil-upheaval/",
+      "url": "https://fortune.com/2026/07/30/jeff-bezos-liverpool-minority-stake-investment-american-billionaires-premier-league-english-soccer/",
       "priority": 3
     },
-    "remind_at": "2026-07-30T10:29:13.127219-07:00"
+    "remind_at": "2026-07-30T11:47:56.123424-07:00"
   },
   {
     "item": {
-      "company": "Samsung posts record $62 billion profit",
-      "amount": "$62.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/30/samsung-record-profit-shares-fall-china-competition/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-30T10:29:16.084111-07:00"
-  },
-  {
-    "item": {
-      "company": "Aliko Dangote",
-      "amount": "$35.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/30/why-is-aliko-dangote-leaving-one-third-of-35-billion-fortune-to-charity-philanthropy-africa/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-30T10:29:18.994502-07:00"
-  },
-  {
-    "item": {
-      "company": "How Meshy",
+      "company": "Goldman Sachs",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/from-consumer-app-to-enterprise-platform-how-meshy-is-scaling-ai-powered-3d-creation/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/30/goldman-sachs-launches-alphaai-to-bring-ai-investing-across-public-and-private-markets/",
       "priority": 3
     },
-    "remind_at": "2026-07-30T10:29:21.884949-07:00"
-  },
-  {
-    "item": {
-      "company": "Whatnot",
-      "amount": "$20.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXg1WEN4MFZSQ1pXcWEwc3ktSVltSkVHZlB5MkRiQUpIdDY3Znh2cUdBTGdMdEtjVmlPZWM2NTNSX3ZZdWItQW1ZNXl2STVxbG4tQXpaamlhbjA5WmsyNVc2TlhhOVFtOEJZVW9HYXNjM01xaV9Idm1lMkM1YzBwZXdrRS16T1FLU0hMeXBVczA1c0VYekV3bWRzQ0doZ192RzJhSA?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-30T10:29:24.115110-07:00"
+    "remind_at": "2026-07-30T11:47:59.352123-07:00"
   }
 ]
