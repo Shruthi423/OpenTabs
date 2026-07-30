@@ -10012,5 +10012,41 @@
     "first_seen": "2026-07-30T00:10:03.244240-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "cb48007e6230a0062a7b6af9c8138255": {
+    "id": "cb48007e6230a0062a7b6af9c8138255",
+    "title": "Brand Designer",
+    "company": "Reducto",
+    "location": "San Francisco Office",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/reducto/c12a5607-6e61-4606-81ad-9857dce381f0",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-07-30T04:33:00.947067-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "ee137da98bcb8cb284dadb86984fcf69": {
+    "id": "ee137da98bcb8cb284dadb86984fcf69",
+    "title": "Product Designer",
+    "company": "Reducto",
+    "location": "San Francisco Office",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/reducto/23f7c39f-1fe9-49dc-9da0-4fd2073d937a",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-07-30T04:33:02.503894-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
