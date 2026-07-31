@@ -1,30 +1,72 @@
 [
   {
     "item": {
-      "company": "Amazon\u2019s stock pops",
-      "amount": null,
+      "company": "Xsight Labs",
+      "amount": "$300.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/30/amazons-stock-pops-roaring-cloud-growth-soaring-ai-demand/",
+      "url": "https://siliconangle.com/2026/07/30/programmable-networking-chip-startup-xsight-labs-raises-300m/",
       "priority": 3
     },
-    "remind_at": "2026-07-30T18:43:44.804132-07:00"
+    "remind_at": "2026-07-30T22:10:37.734452-07:00"
   },
   {
     "item": {
-      "company": "Google DeepMind",
-      "amount": null,
+      "company": "Anyscale",
+      "amount": "$1.65B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/30/google-deepmind-debuts-gemini-robotics-2-model-series-humanoid-robots/",
+      "url": "https://siliconangle.com/2026/07/30/nscale-buys-ai-infrastructure-optimization-startup-anyscale-reported-1-65b/",
       "priority": 3
     },
-    "remind_at": "2026-07-30T18:43:48.754530-07:00"
+    "remind_at": "2026-07-30T22:10:40.103092-07:00"
+  },
+  {
+    "item": {
+      "company": "Function Health",
+      "amount": "$450.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/function-health-nets-450m-from-general-catalyst-to-prove-preventive-care-is-cheaper-than-waiting-to-get-sick/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-30T22:10:43.482325-07:00"
+  },
+  {
+    "item": {
+      "company": "Travis Kalanick",
+      "amount": "$1.7B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOEhoYVh3VDdGY1NLUkUxbDVjQlF3cVhUOXpDSzdlckhHWGVUU1VZOERKdEQ0LXVGNEhVV1FBTU5LWnlOcmZQaG9rZWgzQXlsRVhOZGdHdER2ZHA5NUU0N2lISnVEaG5FbzlPXzhzZVE4R3FTWDhXSXRfc2NncVM4UkxzOHhZazV1RDdxbm8wR0tpR2hTQmNCZG5SblBZOElSLUVxTDJ0clAyeGE1ZHQwUW9CN2YyWmIwUXRyamhvUW9LLVJTV0xsdldoSmU?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-30T22:10:46.701749-07:00"
+  },
+  {
+    "item": {
+      "company": "Oasis founders set",
+      "amount": "$200.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HWkx0bUEtTHp0VWJLOGNjYXRTYW9TcTZ2bW5qRjBQYWVYRzM3Y29JdkpDZHJlMWlLUElObUZON2ZNNkN6ZXlvQzBJMFBPck9oUmpYd2NKMEFxSHZKTUx6V0tQb09YMUFv?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-30T22:10:49.961024-07:00"
   }
 ]
