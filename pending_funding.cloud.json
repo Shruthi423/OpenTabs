@@ -1,72 +1,184 @@
 [
   {
     "item": {
-      "company": "Xsight Labs",
-      "amount": "$300.0M",
-      "stage": null,
-      "investors": null,
+      "company": "Liquid Interactive",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": "AXL to expand operations and develop its interactive visual AI platform",
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/30/programmable-networking-chip-startup-xsight-labs-raises-300m/",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/liquid-interactive-raises-700k-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-07-30T22:10:37.734452-07:00"
+    "remind_at": "2026-07-31T01:04:56.581435-07:00"
   },
   {
     "item": {
-      "company": "Anyscale",
-      "amount": "$1.65B",
-      "stage": null,
+      "company": "Intropy",
+      "amount": "$11.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/30/nscale-buys-ai-infrastructure-optimization-startup-anyscale-reported-1-65b/",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/intropy-raises-11m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-07-30T22:10:40.103092-07:00"
+    "remind_at": "2026-07-31T01:04:58.885807-07:00"
   },
   {
     "item": {
-      "company": "Function Health",
-      "amount": "$450.0M",
-      "stage": null,
+      "company": "Bloom Security",
+      "amount": "$20.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/bloom-security-raises-20m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-31T01:05:01.864313-07:00"
+  },
+  {
+    "item": {
+      "company": "Marquee",
+      "amount": "$4.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/marquee-raises-4m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-31T01:05:04.128616-07:00"
+  },
+  {
+    "item": {
+      "company": "Pstryk",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/pstryk-raises-7m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-31T01:05:06.474425-07:00"
+  },
+  {
+    "item": {
+      "company": "Procode Inc.",
+      "amount": "$10.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/procode-inc-raises-10m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-07-31T01:05:08.733319-07:00"
+  },
+  {
+    "item": {
+      "company": "Provable Markets",
+      "amount": "$120.0M",
+      "stage": "Series B",
+      "investors": "Charles Schwab to expand its securities finance platform and scale its engineering team",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/provable-markets-raises-120m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-07-31T01:05:11.700785-07:00"
+  },
+  {
+    "item": {
+      "company": "HiDream.ai",
+      "amount": null,
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hidream-ai-raises-rmb-1-5b-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-07-31T01:05:13.998422-07:00"
+  },
+  {
+    "item": {
+      "company": "ASUENE",
+      "amount": "$87.0M",
+      "stage": "Series D",
+      "investors": "Decarbonization Partners to expand its AI sustainability and supply chain management platforms globally",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/asuene-raises-87m-series-d/",
+      "priority": 5
+    },
+    "remind_at": "2026-07-31T01:05:16.286195-07:00"
+  },
+  {
+    "item": {
+      "company": "Schneider Electric agrees",
+      "amount": "$350.0M",
+      "stage": null,
+      "investors": null,
+      "location": "Paris",
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/function-health-nets-450m-from-general-catalyst-to-prove-preventive-care-is-cheaper-than-waiting-to-get-sick/",
+      "url": "https://techfundingnews.com/schneider-electric-acquires-aidash-350m-climate-adaptation/",
       "priority": 3
     },
-    "remind_at": "2026-07-30T22:10:43.482325-07:00"
+    "remind_at": "2026-07-31T01:05:19.279739-07:00"
   },
   {
     "item": {
-      "company": "Travis Kalanick",
-      "amount": "$1.7B",
+      "company": "PEX",
+      "amount": "$160.0M",
+      "stage": null,
+      "investors": null,
+      "location": "Capital New York",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/pex-raises-160m-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-31T01:05:21.428405-07:00"
+  },
+  {
+    "item": {
+      "company": "Rewind",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOEhoYVh3VDdGY1NLUkUxbDVjQlF3cVhUOXpDSzdlckhHWGVUU1VZOERKdEQ0LXVGNEhVV1FBTU5LWnlOcmZQaG9rZWgzQXlsRVhOZGdHdER2ZHA5NUU0N2lISnVEaG5FbzlPXzhzZVE4R3FTWDhXSXRfc2NncVM4UkxzOHhZazV1RDdxbm8wR0tpR2hTQmNCZG5SblBZOElSLUVxTDJ0clAyeGE1ZHQwUW9CN2YyWmIwUXRyamhvUW9LLVJTV0xsdldoSmU?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/rewind-secures-strategic-investment/",
       "priority": 3
     },
-    "remind_at": "2026-07-30T22:10:46.701749-07:00"
+    "remind_at": "2026-07-31T01:05:23.688359-07:00"
   },
   {
     "item": {
-      "company": "Oasis founders set",
-      "amount": "$200.0M",
+      "company": "Amgine",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HWkx0bUEtTHp0VWJLOGNjYXRTYW9TcTZ2bW5qRjBQYWVYRzM3Y29JdkpDZHJlMWlLUElObUZON2ZNNkN6ZXlvQzBJMFBPck9oUmpYd2NKMEFxSHZKTUx6V0tQb09YMUFv?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/amgine-raises-strategic-investment/",
       "priority": 3
     },
-    "remind_at": "2026-07-30T22:10:49.961024-07:00"
+    "remind_at": "2026-07-31T01:05:26.002129-07:00"
   }
 ]
