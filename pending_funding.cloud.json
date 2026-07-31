@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "\u2018We don\u2019t",
-      "amount": null,
+      "company": "Fresh off its Wiz payout",
+      "amount": "$2.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/31/mark-cuban-cofounder-leadership-style-feedback-ceo/",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
       "priority": 3
     },
-    "remind_at": "2026-07-31T11:41:09.707866-07:00"
+    "remind_at": "2026-07-31T13:21:56.773212-07:00"
   },
   {
     "item": {
-      "company": "Anysphere",
+      "company": "London-based Intropy",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "London",
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNS1pOTJKUmc1R1VKbmVRYmU1SEVzWE03dTZtb0R5YzFxay1paXg2d2hLVklnb2YydTJtcUFDMWxvY0l4VjdhLWpxcEtBMWtic3hXUDBsRGdpSXF5VTcwRGtJLUxmUG9TNFR5V1lOeWZRMm1nRDlDSE9kbk5aSnF6QzlxeUticE9YZXh2TzYydXdUNzczeFkxRzhyUVVpeTNiYVYzYmlDLTZDZWhI?oc=5",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUTRJMjQ0d0Z1X2Z0eWNVQTZneFBlYVdLaVAzQS1jNGxFM0pHd3RIQTJ1b2VVMG80Wkg2WXRmX3pzeGpoSHZyWFk2TkluRzY3TGFkR0VWYnRja3lfdVd0Njd5endPZWlnZlFVQWNldXhiWktZZW4yb1ZSZ0lSeG9ldkhGQ3diVzQ5c19kLTlmWkp2NWxYTGxVSHpoNF9JbFUyam5sclAtXzg0a003cy1hYnZMU3QyQjZRQUkzdVY5ams3cEhYeWg4TWRsUFlLR0lST3RENXZ4ei1GRW03djlN?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-31T11:41:11.880081-07:00"
-  },
-  {
-    "item": {
-      "company": "Elon Musk\u2019s Boring Company",
-      "amount": "$20.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQzdIcUFIeFliUXNIQVZKSWxxRjNJRGRldTdudTlzWWxzVndRZmFSdWphTjJuTVAzWG9DMmsxN2dlZm9INnhuSzBOVGhfSTNzZzZZSHUwNGRXbGNXWUNPMjlPUEpOSmdWQUdrbXZPWWRnSkp3MnhHYTZQRjlqa0E5dlNaSkh1UWFoZjFGLVR0aTEwU3RmbnpJSldjMnV1OHZPS1I5ZGZPTDhYazYtQnZ4d2NiZXV6eFdpUElGTXVYWTZ1ajlncUhHMDk4YWxTZjJIbGlkUFFJNTTSAd4BQVVfeXFMTWYyNzRzZjQ0YXNiWGpObG9sRkJHR0ZfU2pOVUVVSjZVMlV3U3A0alBBYWE3VzFqdXV1Wjhzd2V2VjZ2dTRDNDVMVWFmY2c0d0JqWWRIWjM1ZG9HX0JFTHc1X2dFVG5UQW1xeFFmUzZ6akE5RlBiSWJBUlM5RFhvcWppeUdIUGVIVmpvdmpkamg4RDMyWVRVME5uSnFLcnZYSzFuU0hpWmpvdjd1Y3JaVmVkZjRuRGhrZHFGekE2RG5BbFpCVFlVMzBpc005S2k0UUViLU9jbGUxV2xTTjBn?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-31T11:41:14.805083-07:00"
+    "remind_at": "2026-07-31T13:22:03.178478-07:00"
   }
 ]

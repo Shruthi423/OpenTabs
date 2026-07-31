@@ -1,5 +1,35 @@
 [
   {
+    "id": "e2b125381daaea71f2980bb9d3ea3f2f",
+    "company": "London-based Intropy",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUTRJMjQ0d0Z1X2Z0eWNVQTZneFBlYVdLaVAzQS1jNGxFM0pHd3RIQTJ1b2VVMG80Wkg2WXRmX3pzeGpoSHZyWFk2TkluRzY3TGFkR0VWYnRja3lfdVd0Njd5endPZWlnZlFVQWNldXhiWktZZW4yb1ZSZ0lSeG9ldkhGQ3diVzQ5c19kLTlmWkp2NWxYTGxVSHpoNF9JbFUyam5sclAtXzg0a003cy1hYnZMU3QyQjZRQUkzdVY5ams3cEhYeWg4TWRsUFlLR0lST3RENXZ4ei1GRW03djlN?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "London",
+    "roles": [],
+    "first_seen": "2026-07-31T12:52:04.178634-07:00",
+    "status": "active"
+  },
+  {
+    "id": "84599d961965bb430f2bc490becfc28b",
+    "company": "Fresh off its Wiz payout",
+    "amount": "$2.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-31T12:51:57.773410-07:00",
+    "status": "active"
+  },
+  {
     "id": "378cff7a259454867cd0042cc2b9f873",
     "company": "Elon Musk\u2019s Boring Company",
     "amount": "$20.0B",
