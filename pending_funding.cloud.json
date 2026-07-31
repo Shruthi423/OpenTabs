@@ -1,184 +1,128 @@
 [
   {
     "item": {
-      "company": "Liquid Interactive",
+      "company": "Vector Legal",
+      "amount": "$5.19M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/vector-legal-raises-5-19m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-31T03:46:14.576443-07:00"
+  },
+  {
+    "item": {
+      "company": "Antares Labs",
+      "amount": "$7.25M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/antares-labs-raises-7-25m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-31T03:46:16.868589-07:00"
+  },
+  {
+    "item": {
+      "company": "Axis Robotics",
+      "amount": "$12.0M",
+      "stage": "Seed",
+      "investors": "Hack VC to expand its data engine platform for training physical AI models",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/axis-robotics-raises-12m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-31T03:46:19.821734-07:00"
+  },
+  {
+    "item": {
+      "company": "Xylolabs",
       "amount": null,
-      "stage": "Pre-Seed",
-      "investors": "AXL to expand operations and develop its interactive visual AI platform",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/liquid-interactive-raises-700k-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-07-31T01:04:56.581435-07:00"
-  },
-  {
-    "item": {
-      "company": "Intropy",
-      "amount": "$11.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/intropy-raises-11m-seed/",
+      "url": "https://www.thesaasnews.com/news/xylo-labs-raises-133k-seed/",
       "priority": 9
     },
-    "remind_at": "2026-07-31T01:04:58.885807-07:00"
+    "remind_at": "2026-07-31T03:46:22.080468-07:00"
   },
   {
     "item": {
-      "company": "Bloom Security",
-      "amount": "$20.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/bloom-security-raises-20m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-31T01:05:01.864313-07:00"
-  },
-  {
-    "item": {
-      "company": "Marquee",
-      "amount": "$4.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/marquee-raises-4m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-07-31T01:05:04.128616-07:00"
-  },
-  {
-    "item": {
-      "company": "Pstryk",
-      "amount": null,
+      "company": "Discern Security",
+      "amount": "$13.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pstryk-raises-7m-series-a/",
+      "url": "https://www.thesaasnews.com/news/discern-security-raises-13m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-07-31T01:05:06.474425-07:00"
+    "remind_at": "2026-07-31T03:46:25.499044-07:00"
   },
   {
     "item": {
-      "company": "Procode Inc.",
-      "amount": "$10.0M",
+      "company": "Y Combinator grad Terminal",
+      "amount": null,
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/procode-inc-raises-10m-series-a/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdFZ3dWVmNkVhUXR6OThtSjhpelE4NzR1OExPZHFESE1MM0Z2LWk2MFhQX0Y3YnFLY2ZyU1h4R19KeWJrdktMVWM2R0pwZnBMZkdSeGNyQ0oyMGk5bGwzcHV3S0h5VEEtNVprLXI0SDkxb3JMY0YzZzNiUDUtelQ4WDMxRU10cUdwdGthZg?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-07-31T01:05:08.733319-07:00"
+    "remind_at": "2026-07-31T03:46:28.471990-07:00"
   },
   {
     "item": {
-      "company": "Provable Markets",
-      "amount": "$120.0M",
-      "stage": "Series B",
-      "investors": "Charles Schwab to expand its securities finance platform and scale its engineering team",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/provable-markets-raises-120m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-07-31T01:05:11.700785-07:00"
-  },
-  {
-    "item": {
-      "company": "HiDream.ai",
-      "amount": null,
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hidream-ai-raises-rmb-1-5b-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-07-31T01:05:13.998422-07:00"
-  },
-  {
-    "item": {
-      "company": "ASUENE",
-      "amount": "$87.0M",
-      "stage": "Series D",
-      "investors": "Decarbonization Partners to expand its AI sustainability and supply chain management platforms globally",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/asuene-raises-87m-series-d/",
-      "priority": 5
-    },
-    "remind_at": "2026-07-31T01:05:16.286195-07:00"
-  },
-  {
-    "item": {
-      "company": "Schneider Electric agrees",
-      "amount": "$350.0M",
-      "stage": null,
-      "investors": null,
-      "location": "Paris",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/schneider-electric-acquires-aidash-350m-climate-adaptation/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-31T01:05:19.279739-07:00"
-  },
-  {
-    "item": {
-      "company": "PEX",
-      "amount": "$160.0M",
-      "stage": null,
-      "investors": null,
-      "location": "Capital New York",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pex-raises-160m-growth-capital/",
-      "priority": 3
-    },
-    "remind_at": "2026-07-31T01:05:21.428405-07:00"
-  },
-  {
-    "item": {
-      "company": "Rewind",
+      "company": "How extreme weather",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/rewind-secures-strategic-investment/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/31/us-electric-grid-extreme-weather",
       "priority": 3
     },
-    "remind_at": "2026-07-31T01:05:23.688359-07:00"
+    "remind_at": "2026-07-31T03:46:31.408323-07:00"
   },
   {
     "item": {
-      "company": "Amgine",
+      "company": "Inside Europe's lessons",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/amgine-raises-strategic-investment/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/31/inside-europe-lessons-ai-safety-trump-rules-loom",
       "priority": 3
     },
-    "remind_at": "2026-07-31T01:05:26.002129-07:00"
+    "remind_at": "2026-07-31T03:46:34.267200-07:00"
+  },
+  {
+    "item": {
+      "company": "Elon Musk's xAI",
+      "amount": "$6.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeG5WbFVYNVB6VkNobnFGX3FlbDF4cU91aERjeUdhQ0l2MzRad3U4NHd5QkpOSDRLTHdidFN6clN3YXRrck16X0R6MVRIYVhTQkJrOGNSUmlQRDRsS2t2eVNjQnY4MEZIclVBVnIwRVVIMEx1ZlFmTXgwT1RLU2Z5R0NObjlIMzViSmgwLWthT0JBQmh3Q2REeg?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-31T03:46:37.114791-07:00"
   }
 ]
