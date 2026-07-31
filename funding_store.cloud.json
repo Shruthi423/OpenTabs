@@ -33404,5 +33404,50 @@
     "roles": [],
     "first_seen": "2026-07-31T07:57:43.393788-07:00",
     "status": "active"
+  },
+  "977489cd34ea2294aede8531b5723ad5": {
+    "id": "977489cd34ea2294aede8531b5723ad5",
+    "company": "\u2018How hard can it be?\u2019",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/31/nvidia-ceo-jensen-huang-greatest-time-to-start-business-advice-for-aspiring-gen-z-entrepreneurs/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-31T09:43:43.781220-07:00",
+    "status": "active"
+  },
+  "0cc55501042d2aa7c6461edf7084a040": {
+    "id": "0cc55501042d2aa7c6461edf7084a040",
+    "company": "Fed rates dissenters make their case",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "chairman Kevin Warsh to leave interest rates unchanged this week, preferring instead to raise them",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/07/31/fed-rates-dissenters-policy",
+    "priority": 3,
+    "founders": [],
+    "location": "Dallas",
+    "roles": [],
+    "first_seen": "2026-07-31T09:43:47.032296-07:00",
+    "status": "active"
+  },
+  "7e89c403828b0dbceb27ec11646559db": {
+    "id": "7e89c403828b0dbceb27ec11646559db",
+    "company": "Tesla weighs sale of China business",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/07/31/tesla-weighs-sale-of-china-business-to-pave-the-way-for-potential-spacex-merger-musk-calls-report-fake-news/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-31T09:43:50.287460-07:00",
+    "status": "active"
   }
 }

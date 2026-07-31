@@ -1,58 +1,44 @@
 [
   {
     "item": {
-      "company": "These",
-      "amount": "$5.0M",
-      "stage": "Seed",
+      "company": "\u2018How hard can it be?\u2019",
+      "amount": null,
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/seed/startup-funding-trends-2026-proptech-robotics-cancer-space-tech/",
-      "priority": 9
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/31/nvidia-ceo-jensen-huang-greatest-time-to-start-business-advice-for-aspiring-gen-z-entrepreneurs/",
+      "priority": 3
     },
-    "remind_at": "2026-07-31T08:27:32.904407-07:00"
+    "remind_at": "2026-07-31T10:13:42.781039-07:00"
   },
   {
     "item": {
-      "company": "in Q2 2026",
-      "amount": "$8.88B",
-      "stage": "Seed",
-      "investors": null,
-      "location": "New York",
+      "company": "Fed rates dissenters make their case",
+      "amount": null,
+      "stage": null,
+      "investors": "chairman Kevin Warsh to leave interest rates unchanged this week, preferring instead to raise them",
+      "location": "Dallas",
       "founders": [],
-      "source": "AlleyWatch",
-      "url": "https://www.alleywatch.com/2026/07/most-active-investors-nyc-startups-q2-2026/",
-      "priority": 9
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/31/fed-rates-dissenters-policy",
+      "priority": 3
     },
-    "remind_at": "2026-07-31T08:27:36.351439-07:00"
+    "remind_at": "2026-07-31T10:13:46.032147-07:00"
   },
   {
     "item": {
-      "company": "Amazon",
-      "amount": "$220.0B",
+      "company": "Tesla weighs sale of China business",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/31/top-tech-news-today-july-31-2026-amazon-anthropic-apple-google-microsoft-reddit-sony-suno-more/",
+      "url": "https://techstartups.com/2026/07/31/tesla-weighs-sale-of-china-business-to-pave-the-way-for-potential-spacex-merger-musk-calls-report-fake-news/",
       "priority": 3
     },
-    "remind_at": "2026-07-31T08:27:38.989077-07:00"
-  },
-  {
-    "item": {
-      "company": "Ryan Williams",
-      "amount": "$10.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR0xMTnp1ZUQ1bk9xa1haYWoxV003dnBkdW4wUkpmWjB6azgwTWxmdUJWOU81aElNVDlQdXF6TDRNRWZha1Q3Q1VSTk5uYVB2cHFXMzg2MFhtbnk5VzBNUHJwZC1YUEZEdklUZ0h4bFV0ZUV3YTFhb1BiSi1ZaHZLSU81bXM5THlKNUJTZnlmck9HMlAzQThucVUxRmI1SGRlbHlCeWd0VnliMm1hVlQ3Ujd2OWNUZEQzQmJIQQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-07-31T08:27:42.393669-07:00"
+    "remind_at": "2026-07-31T10:13:49.287294-07:00"
   }
 ]
