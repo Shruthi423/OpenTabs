@@ -1,44 +1,58 @@
 [
   {
     "item": {
-      "company": "Repeat founder Ryan Williams",
-      "amount": "$10.0M",
+      "company": "These",
+      "amount": "$5.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/seed/startup-funding-trends-2026-proptech-robotics-cancer-space-tech/",
       "priority": 9
     },
-    "remind_at": "2026-07-31T05:50:01.075456-07:00"
+    "remind_at": "2026-07-31T08:27:32.904407-07:00"
   },
   {
     "item": {
-      "company": "Sports teams have gone from trophies",
-      "amount": null,
+      "company": "in Q2 2026",
+      "amount": "$8.88B",
+      "stage": "Seed",
+      "investors": null,
+      "location": "New York",
+      "founders": [],
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/07/most-active-investors-nyc-startups-q2-2026/",
+      "priority": 9
+    },
+    "remind_at": "2026-07-31T08:27:36.351439-07:00"
+  },
+  {
+    "item": {
+      "company": "Amazon",
+      "amount": "$220.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/31/sports-teams-trophies-trillion-dollar-investment-targets/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/07/31/top-tech-news-today-july-31-2026-amazon-anthropic-apple-google-microsoft-reddit-sony-suno-more/",
       "priority": 3
     },
-    "remind_at": "2026-07-31T05:50:04.182755-07:00"
+    "remind_at": "2026-07-31T08:27:38.989077-07:00"
   },
   {
     "item": {
-      "company": "Musk's Boring Company",
-      "amount": "$4.0B",
+      "company": "Ryan Williams",
+      "amount": "$10.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBna09yTXc4dllLM0d4RUlTb0lVQllJbFRCazVybG04aHNoY3daT3NVWjhxTXRxeWNISXJ3NXFESzFCRFZqaWxoYVNHTnJUREYwdVlrNVBRNTRaR1YtZnU0UjhwNUJMZU1peF81MXhuWjJFd2c2cWc?oc=5",
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR0xMTnp1ZUQ1bk9xa1haYWoxV003dnBkdW4wUkpmWjB6azgwTWxmdUJWOU81aElNVDlQdXF6TDRNRWZha1Q3Q1VSTk5uYVB2cHFXMzg2MFhtbnk5VzBNUHJwZC1YUEZEdklUZ0h4bFV0ZUV3YTFhb1BiSi1ZaHZLSU81bXM5THlKNUJTZnlmck9HMlAzQThucVUxRmI1SGRlbHlCeWd0VnliMm1hVlQ3Ujd2OWNUZEQzQmJIQQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-31T05:50:07.107499-07:00"
+    "remind_at": "2026-07-31T08:27:42.393669-07:00"
   }
 ]
