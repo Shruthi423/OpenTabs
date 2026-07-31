@@ -1,5 +1,35 @@
 [
   {
+    "id": "563d2416f584f9b1b6dc002f2afba85a",
+    "company": "After a nearly 1",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-31T13:59:36.534155-07:00",
+    "status": "active"
+  },
+  {
+    "id": "8e64f17ff37b3a8bc37cf5e2df0e4dfb",
+    "company": "The Week\u2019s 10 Biggest Funding Rounds",
+    "amount": "$5.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-31T13:59:33.343251-07:00",
+    "status": "active"
+  },
+  {
     "id": "e2b125381daaea71f2980bb9d3ea3f2f",
     "company": "London-based Intropy",
     "amount": "Undisclosed",
