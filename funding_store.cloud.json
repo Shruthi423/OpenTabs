@@ -33299,5 +33299,50 @@
     "roles": [],
     "first_seen": "2026-07-31T03:16:38.114951-07:00",
     "status": "active"
+  },
+  "e404fad10be44d2cbae95d22f3b7221b": {
+    "id": "e404fad10be44d2cbae95d22f3b7221b",
+    "company": "Repeat founder Ryan Williams",
+    "amount": "$10.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-31T05:20:02.075620-07:00",
+    "status": "active"
+  },
+  "4d8dd009fd3cbc8152bf4c7b6a0e5db8": {
+    "id": "4d8dd009fd3cbc8152bf4c7b6a0e5db8",
+    "company": "Sports teams have gone from trophies",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/07/31/sports-teams-trophies-trillion-dollar-investment-targets/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-31T05:20:05.182919-07:00",
+    "status": "active"
+  },
+  "ec3ac252af754d20c599d9fc4fc7a25d": {
+    "id": "ec3ac252af754d20c599d9fc4fc7a25d",
+    "company": "Musk's Boring Company",
+    "amount": "$4.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBna09yTXc4dllLM0d4RUlTb0lVQllJbFRCazVybG04aHNoY3daT3NVWjhxTXRxeWNISXJ3NXFESzFCRFZqaWxoYVNHTnJUREYwdVlrNVBRNTRaR1YtZnU0UjhwNUJMZU1peF81MXhuWjJFd2c2cWc?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-31T05:20:08.107675-07:00",
+    "status": "active"
   }
 }
