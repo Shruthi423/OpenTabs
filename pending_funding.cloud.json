@@ -1,44 +1,44 @@
 [
   {
     "item": {
-      "company": "\u2018How hard can it be?\u2019",
+      "company": "\u2018We don\u2019t",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/07/31/nvidia-ceo-jensen-huang-greatest-time-to-start-business-advice-for-aspiring-gen-z-entrepreneurs/",
+      "url": "https://fortune.com/2026/07/31/mark-cuban-cofounder-leadership-style-feedback-ceo/",
       "priority": 3
     },
-    "remind_at": "2026-07-31T10:13:42.781039-07:00"
+    "remind_at": "2026-07-31T11:41:09.707866-07:00"
   },
   {
     "item": {
-      "company": "Fed rates dissenters make their case",
-      "amount": null,
-      "stage": null,
-      "investors": "chairman Kevin Warsh to leave interest rates unchanged this week, preferring instead to raise them",
-      "location": "Dallas",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/31/fed-rates-dissenters-policy",
-      "priority": 3
-    },
-    "remind_at": "2026-07-31T10:13:46.032147-07:00"
-  },
-  {
-    "item": {
-      "company": "Tesla weighs sale of China business",
+      "company": "Anysphere",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/07/31/tesla-weighs-sale-of-china-business-to-pave-the-way-for-potential-spacex-merger-musk-calls-report-fake-news/",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNS1pOTJKUmc1R1VKbmVRYmU1SEVzWE03dTZtb0R5YzFxay1paXg2d2hLVklnb2YydTJtcUFDMWxvY0l4VjdhLWpxcEtBMWtic3hXUDBsRGdpSXF5VTcwRGtJLUxmUG9TNFR5V1lOeWZRMm1nRDlDSE9kbk5aSnF6QzlxeUticE9YZXh2TzYydXdUNzczeFkxRzhyUVVpeTNiYVYzYmlDLTZDZWhI?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-31T10:13:49.287294-07:00"
+    "remind_at": "2026-07-31T11:41:11.880081-07:00"
+  },
+  {
+    "item": {
+      "company": "Elon Musk\u2019s Boring Company",
+      "amount": "$20.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQzdIcUFIeFliUXNIQVZKSWxxRjNJRGRldTdudTlzWWxzVndRZmFSdWphTjJuTVAzWG9DMmsxN2dlZm9INnhuSzBOVGhfSTNzZzZZSHUwNGRXbGNXWUNPMjlPUEpOSmdWQUdrbXZPWWRnSkp3MnhHYTZQRjlqa0E5dlNaSkh1UWFoZjFGLVR0aTEwU3RmbnpJSldjMnV1OHZPS1I5ZGZPTDhYazYtQnZ4d2NiZXV6eFdpUElGTXVYWTZ1ajlncUhHMDk4YWxTZjJIbGlkUFFJNTTSAd4BQVVfeXFMTWYyNzRzZjQ0YXNiWGpObG9sRkJHR0ZfU2pOVUVVSjZVMlV3U3A0alBBYWE3VzFqdXV1Wjhzd2V2VjZ2dTRDNDVMVWFmY2c0d0JqWWRIWjM1ZG9HX0JFTHc1X2dFVG5UQW1xeFFmUzZ6akE5RlBiSWJBUlM5RFhvcWppeUdIUGVIVmpvdmpkamg4RDMyWVRVME5uSnFLcnZYSzFuU0hpWmpvdjd1Y3JaVmVkZjRuRGhrZHFGekE2RG5BbFpCVFlVMzBpc005S2k0UUViLU9jbGUxV2xTTjBn?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-31T11:41:14.805083-07:00"
   }
 ]
