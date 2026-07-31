@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Okta",
-      "amount": "$200.0M",
+      "company": "Amazon\u2019s stock pops",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/30/okta-acquire-permiso-security-reported-200m-identity-security-deal/",
+      "url": "https://siliconangle.com/2026/07/30/amazons-stock-pops-roaring-cloud-growth-soaring-ai-demand/",
       "priority": 3
     },
-    "remind_at": "2026-07-30T17:11:55.061712-07:00"
+    "remind_at": "2026-07-30T18:43:44.804132-07:00"
+  },
+  {
+    "item": {
+      "company": "Google DeepMind",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/30/google-deepmind-debuts-gemini-robotics-2-model-series-humanoid-robots/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-30T18:43:48.754530-07:00"
   }
 ]

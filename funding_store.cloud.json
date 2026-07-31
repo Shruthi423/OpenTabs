@@ -32864,5 +32864,35 @@
     ],
     "first_seen": "2026-07-30T16:41:56.061881-07:00",
     "status": "active"
+  },
+  "2c390e4081aac5b66b275e68837a71df": {
+    "id": "2c390e4081aac5b66b275e68837a71df",
+    "company": "Amazon\u2019s stock pops",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/30/amazons-stock-pops-roaring-cloud-growth-soaring-ai-demand/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-30T18:13:45.804270-07:00",
+    "status": "active"
+  },
+  "97ad26309af567c62aa81660847788a5": {
+    "id": "97ad26309af567c62aa81660847788a5",
+    "company": "Google DeepMind",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/30/google-deepmind-debuts-gemini-robotics-2-model-series-humanoid-robots/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-07-30T18:13:49.754718-07:00",
+    "status": "active"
   }
 }
