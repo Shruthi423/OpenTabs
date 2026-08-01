@@ -1,58 +1,30 @@
 [
   {
     "item": {
-      "company": "Inside Miami\u2019s \u2018Billionaire Bunker",
-      "amount": "$150.0M",
-      "stage": "Bridge",
-      "investors": null,
-      "location": "Miami",
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/article/indian-creek-island-billionaire-bunker-miami-waterfront-homes-mark-zuckerberg-jeff-bezos-ultra-luxury-real-estate/",
-      "priority": 6
-    },
-    "remind_at": "2026-08-01T07:42:50.887243-07:00"
-  },
-  {
-    "item": {
-      "company": "You need $2 million",
-      "amount": "$2.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/article/how-much-money-do-you-need-to-retire-blackrock-ceo-gen-x-2-million/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-01T07:42:54.218043-07:00"
-  },
-  {
-    "item": {
-      "company": "Gavin Newsom has been earning up",
-      "amount": "$2.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/01/newsom-tax-returns-doj-investigation-2028/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-01T07:42:57.517481-07:00"
-  },
-  {
-    "item": {
-      "company": "From Freehand",
+      "company": "Tillis",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV3lJTm8ydVltdmtxMXVLcWkxLWlzTVNIY3c2TkNNVmNPblFhVDFoTHBoMm5MSFlKMGM3OXZiOTh0alhKOFVEdS12bVB3WURPNHFjbW53UG91MFZ2eWdwRkpvbEIzbEJxeFJpSDFabWhJb21DTTd5aXlWUklHSElRZV9ZNUxZcFY4NWJOb0hmenJndElfSHc?oc=5",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/01/blanche-tillis-trump-anti-weaponization-fund",
       "priority": 3
     },
-    "remind_at": "2026-08-01T07:43:00.914998-07:00"
+    "remind_at": "2026-08-01T08:49:47.507519-07:00"
+  },
+  {
+    "item": {
+      "company": "Stronger Together",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDZndwUTBEUk9ra1d1ZWxIQzIyb3NhYmFPbHpoUmpDWU9hUUIwSm1BVVFxVkJQZm8yVS1nWnpCRG5kWXp5RmxNMFpqOGZCbGFBV1o0eFk1c09pMzJjVVNuUWhKc2s3d19KRkhLRnlSaWF3NnM?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-01T08:49:50.549320-07:00"
   }
 ]
