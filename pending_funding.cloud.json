@@ -1,16 +1,58 @@
 [
   {
     "item": {
-      "company": "Sid's Farm",
+      "company": "Inside Miami\u2019s \u2018Billionaire Bunker",
+      "amount": "$150.0M",
+      "stage": "Bridge",
+      "investors": null,
+      "location": "Miami",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/article/indian-creek-island-billionaire-bunker-miami-waterfront-homes-mark-zuckerberg-jeff-bezos-ultra-luxury-real-estate/",
+      "priority": 6
+    },
+    "remind_at": "2026-08-01T07:42:50.887243-07:00"
+  },
+  {
+    "item": {
+      "company": "You need $2 million",
+      "amount": "$2.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/article/how-much-money-do-you-need-to-retire-blackrock-ceo-gen-x-2-million/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-01T07:42:54.218043-07:00"
+  },
+  {
+    "item": {
+      "company": "Gavin Newsom has been earning up",
+      "amount": "$2.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/01/newsom-tax-returns-doj-investigation-2028/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-01T07:42:57.517481-07:00"
+  },
+  {
+    "item": {
+      "company": "From Freehand",
       "amount": null,
-      "stage": "Series B",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXZqTVRUS0FjUkRyQTFHb3d3NDI4RVo2b3M0YmF4NDV3WXZMc01OdkRoU3ZRb2FsMU0tUGo1ZThSZUtKbUxwRlI5VnNLRFZlV1NuVkFYODVSa0hPNVhhQmhPTXNlX1pIdUtXZFZQLVJNLVlLdUk0Qjd3eFdPaG92M1dtYktjQXd0YVlvbEtIRdIBjwFBVV95cUxOeXZqTVRUS0FjUkRyQTFHb3d3NDI4RVo2b3M0YmF4NDV3WXZMc01OdkRoU3ZRb2FsMU0tUGo1ZThSZUtKbUxwRlI5VnNLRFZlV1NuVkFYODVSa0hPNVhhQmhPTXNlX1pIdUtXZFZQLVJNLVlLdUk0Qjd3eFdPaG92M1dtYktjQXd0YVlvbEtIRQ?oc=5",
-      "priority": 7
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV3lJTm8ydVltdmtxMXVLcWkxLWlzTVNIY3c2TkNNVmNPblFhVDFoTHBoMm5MSFlKMGM3OXZiOTh0alhKOFVEdS12bVB3WURPNHFjbW53UG91MFZ2eWdwRkpvbEIzbEJxeFJpSDFabWhJb21DTTd5aXlWUklHSElRZV9ZNUxZcFY4NWJOb0hmenJndElfSHc?oc=5",
+      "priority": 3
     },
-    "remind_at": "2026-08-01T06:09:56.586913-07:00"
+    "remind_at": "2026-08-01T07:43:00.914998-07:00"
   }
 ]
