@@ -33859,5 +33859,35 @@
     "roles": [],
     "first_seen": "2026-08-01T10:34:03.682142-07:00",
     "status": "active"
+  },
+  "2a6384b535cae83f66221f4f098232f3": {
+    "id": "2a6384b535cae83f66221f4f098232f3",
+    "company": "plans",
+    "amount": "$19.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMW0zU1pjN0NZRkFpS1B0cXN3UEREQjRPMWNMRlFiUVhDa0dtYVpMeE4yTy1ZQTk1SWMwdDFVcUhZck1pUTBkOUk0S2J2djF0bEMtS1R6a3U2Y2NJSXhQQmhxeGpRTVFfOEpHLTN5czRUbG5uc2NOOE15ajhrNEN5X19Rc0I2UmRRbDBXZmV1aEpjWU5kMkZrVVpfVHQzSDlKS05LTXhxRjFhMnVuMTM4YzlHYUszTlEzNXdaaQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-01T11:40:21.631043-07:00",
+    "status": "active"
+  },
+  "e80161bc416f96631b6ce7793064a6e4": {
+    "id": "e80161bc416f96631b6ce7793064a6e4",
+    "company": "Gritt has",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWG1LUk0xM2hRV05STlRTRDhyaFZoNkEzbzdreEZJa2dRejVoMEN5RUJLSU43MWJyaklxOHZOeW9Udm9vUUtCeWFKUWU4d09yV2VtWV9ESE9LS1ExaWZtcl96WjZKTXZ2amVzZXBsMi1PckhMdy1ITUc1NEREVDAxcDZIaUItbGlFelhFQkZYMUZPQnB2TGNMNlZLVXk0MGZhU19sd195TzVkNVRNTjFVUC1XcjN1UTRlRGV5OQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-01T11:40:24.936480-07:00",
+    "status": "active"
   }
 }
