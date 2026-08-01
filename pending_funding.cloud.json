@@ -1,30 +1,44 @@
 [
   {
     "item": {
-      "company": "Elon Musk\u2019s fortune slumps",
-      "amount": "$684.0B",
-      "stage": null,
+      "company": "UNX",
+      "amount": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/01/elon-musk-net-worth-spacex-stock-rout-spcx-tesla-shares/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54QVRubEpTVlJfeGtyN2t1R2tkZGRHU2pORXhCT29PUlkwOG1WUlVaVDBnQ3lYQ2NPWEw3MUcwWkVuSkNxTlV4aGxxaGJHUnU0OXBN?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-08-01T09:59:17.015419-07:00"
+    "remind_at": "2026-08-01T11:03:57.524533-07:00"
   },
   {
     "item": {
-      "company": "Bessent joins Japan",
+      "company": "Intropy",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/01/scott-bessent-treasury-japan-yen-dollar-exchange-rate/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGw5TUZSdnd2WWJBS283VExtVUZLRWNfLTFwQ2lveU1jUG9DdG1aVDgxV0xkaWpIdWgzdFhjNFJ3c1dKSm5DdzFLREoyUElBbHNkTVhBLWlxRjQ2OVc4TURDcXlkSmhCVE5kWjl5Y2stZlpabzJ4VzBwUkh2eklGUWZjamdDS2xIQjUtcUNjSXBNbzc3Q0xNUnFMem5tdWZ6QXR0dlNKbVg?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-01T09:59:19.948308-07:00"
+    "remind_at": "2026-08-01T11:03:59.727318-07:00"
+  },
+  {
+    "item": {
+      "company": "Paris-based Apolownia",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Paris",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0hkemtGZl9hZGhhWXpSdXRVcU0yOXVTS1I3MGY4VnN6cDJDQkRnNXQ1U1RfNkM5dEU3RUl2S3VDVElTQUlNcUZtdzhyMWlveEZtOHhHYmVnTjNGNVozWTFNN0NWTF95Q0JMVHo4ZXkwRE80ZjJxSnBiWURZYmozemdNaEZFZGlXMGdPTDJPQXB5NHlSd1NERDdSRE52akdNTlo1MUdzeDNOM1FjSVhZbmYyUEhscHpBMjh2R2ZLUnBXMFlXdkxXck5R?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-01T11:04:02.681925-07:00"
   }
 ]

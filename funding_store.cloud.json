@@ -33814,5 +33814,50 @@
     "roles": [],
     "first_seen": "2026-08-01T09:29:20.948481-07:00",
     "status": "active"
+  },
+  "2528f4372a07824be3d27693af862502": {
+    "id": "2528f4372a07824be3d27693af862502",
+    "company": "UNX",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54QVRubEpTVlJfeGtyN2t1R2tkZGRHU2pORXhCT29PUlkwOG1WUlVaVDBnQ3lYQ2NPWEw3MUcwWkVuSkNxTlV4aGxxaGJHUnU0OXBN?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-01T10:33:58.524728-07:00",
+    "status": "active"
+  },
+  "95384948b5352f3477201923c333060b": {
+    "id": "95384948b5352f3477201923c333060b",
+    "company": "Intropy",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGw5TUZSdnd2WWJBS283VExtVUZLRWNfLTFwQ2lveU1jUG9DdG1aVDgxV0xkaWpIdWgzdFhjNFJ3c1dKSm5DdzFLREoyUElBbHNkTVhBLWlxRjQ2OVc4TURDcXlkSmhCVE5kWjl5Y2stZlpabzJ4VzBwUkh2eklGUWZjamdDS2xIQjUtcUNjSXBNbzc3Q0xNUnFMem5tdWZ6QXR0dlNKbVg?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-01T10:34:00.727491-07:00",
+    "status": "active"
+  },
+  "fb35d29e3de2d3e12e525fcfc3225bd7": {
+    "id": "fb35d29e3de2d3e12e525fcfc3225bd7",
+    "company": "Paris-based Apolownia",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0hkemtGZl9hZGhhWXpSdXRVcU0yOXVTS1I3MGY4VnN6cDJDQkRnNXQ1U1RfNkM5dEU3RUl2S3VDVElTQUlNcUZtdzhyMWlveEZtOHhHYmVnTjNGNVozWTFNN0NWTF95Q0JMVHo4ZXkwRE80ZjJxSnBiWURZYmozemdNaEZFZGlXMGdPTDJPQXB5NHlSd1NERDdSRE52akdNTlo1MUdzeDNOM1FjSVhZbmYyUEhscHpBMjh2R2ZLUnBXMFlXdkxXck5R?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "Paris",
+    "roles": [],
+    "first_seen": "2026-08-01T10:34:03.682142-07:00",
+    "status": "active"
   }
 }
