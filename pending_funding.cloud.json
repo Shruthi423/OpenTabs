@@ -1,18 +1,16 @@
 [
   {
     "item": {
-      "company": "\u2018No one manages them\u2019",
-      "amount": "$60.0B",
-      "stage": null,
+      "company": "Sid's Farm",
+      "amount": null,
+      "stage": "Series B",
       "investors": null,
-      "location": "Silicon Valley",
-      "founders": [
-        "Liang Wenfeng"
-      ],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/01/deepseek-founder-liang-wenfeng-workers-dont-do-overtime-or-kpis-china-996-culture/",
-      "priority": 3
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXZqTVRUS0FjUkRyQTFHb3d3NDI4RVo2b3M0YmF4NDV3WXZMc01OdkRoU3ZRb2FsMU0tUGo1ZThSZUtKbUxwRlI5VnNLRFZlV1NuVkFYODVSa0hPNVhhQmhPTXNlX1pIdUtXZFZQLVJNLVlLdUk0Qjd3eFdPaG92M1dtYktjQXd0YVlvbEtIRdIBjwFBVV95cUxOeXZqTVRUS0FjUkRyQTFHb3d3NDI4RVo2b3M0YmF4NDV3WXZMc01OdkRoU3ZRb2FsMU0tUGo1ZThSZUtKbUxwRlI5VnNLRFZlV1NuVkFYODVSa0hPNVhhQmhPTXNlX1pIdUtXZFZQLVJNLVlLdUk0Qjd3eFdPaG92M1dtYktjQXd0YVlvbEtIRQ?oc=5",
+      "priority": 7
     },
-    "remind_at": "2026-08-01T05:11:30.339575-07:00"
+    "remind_at": "2026-08-01T06:09:56.586913-07:00"
   }
 ]
