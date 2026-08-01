@@ -1,5 +1,22 @@
 [
   {
+    "id": "57a5e7ca243b2ebe7057bb96e4019cff",
+    "company": "\u2018No one manages them\u2019",
+    "amount": "$60.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/01/deepseek-founder-liang-wenfeng-workers-dont-do-overtime-or-kpis-china-996-culture/",
+    "priority": 3,
+    "founders": [
+      "Liang Wenfeng"
+    ],
+    "location": "Silicon Valley",
+    "roles": [],
+    "first_seen": "2026-08-01T04:41:31.339775-07:00",
+    "status": "active"
+  },
+  {
     "id": "7dd9bd00d7311bab2960c9bb1e91a114",
     "company": "Wild Bio acquires F1 Seed",
     "amount": "$48.0M",
