@@ -1,16 +1,33 @@
 [
   {
     "item": {
-      "company": "The \u2018SaaSpocalypse\u2019",
+      "company": "How Gen Z",
+      "amount": "$50.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [
+        "Abhinavan Thanendran",
+        "Neil Shah"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/01/how-is-gen-z-making-260000-per-month-livestream-auction-app-tilt/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-01T02:09:54.560945-07:00"
+  },
+  {
+    "item": {
+      "company": "Gaming",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/saaspocalypse-software-risk-ai-moats/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtcGxRQmVGcjdnZXFhYmpfV1B0dDdWZk92M3o0Xy1HR2QzQzAzcmxoc2wycTBYcV9VYmlqSEg3ZUlqMTcxOEN0UGhzcGl4N2dWQVpJ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-07-31T23:54:10.026704-07:00"
+    "remind_at": "2026-08-01T02:09:56.728569-07:00"
   }
 ]

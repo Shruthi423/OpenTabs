@@ -33614,5 +33614,38 @@
     "roles": [],
     "first_seen": "2026-07-31T23:24:11.026891-07:00",
     "status": "active"
+  },
+  "f0373ccfa712f1cf2a31559f9b2b5442": {
+    "id": "f0373ccfa712f1cf2a31559f9b2b5442",
+    "company": "How Gen Z",
+    "amount": "$50.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/01/how-is-gen-z-making-260000-per-month-livestream-auction-app-tilt/",
+    "priority": 3,
+    "founders": [
+      "Abhinavan Thanendran",
+      "Neil Shah"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-01T01:39:55.561113-07:00",
+    "status": "active"
+  },
+  "ff9efc1a8736d5405c4b33513f2e59ee": {
+    "id": "ff9efc1a8736d5405c4b33513f2e59ee",
+    "company": "Gaming",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtcGxRQmVGcjdnZXFhYmpfV1B0dDdWZk92M3o0Xy1HR2QzQzAzcmxoc2wycTBYcV9VYmlqSEg3ZUlqMTcxOEN0UGhzcGl4N2dWQVpJ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-01T01:39:57.728744-07:00",
+    "status": "active"
   }
 }
