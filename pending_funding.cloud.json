@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "item": {
+      "company": "SnapScale",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42cjVYYzkwUW9HRzhCNTkxRmhrMTRtT2swQVBmc2RmU0c2S0tLNG1VR2h5U2ViTzJYNzVLemtRbnBBY2pfY0ZrNExZYm5VVDhCdUZ3?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-07-31T21:20:46.920051-07:00"
+  },
+  {
+    "item": {
+      "company": "NXP reportedly in talks",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/31/nxp-reportedly-talks-acquire-vehicle-chip-supplier-ambarella/",
+      "priority": 3
+    },
+    "remind_at": "2026-07-31T21:20:49.843407-07:00"
+  },
+  {
+    "item": {
+      "company": "Whatnot In Talks",
+      "amount": "$20.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHhtYWtOczFmNExoVkVxcWJmYnRBaktxREN4U19qVzFtcW1LZUhHeWtZOGdKV3lBTVJVR0E3ZlVLVEV5YzBFbkV3YjdnZkdmRmtRMEpiT0tkc2haVlA4RGd0b1Z4bG1PTHVvbjZxZW82UGZHdEJvdWRTX0I5T2Q5dzh6NVlRYnhCQzUwU2Fn?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-07-31T21:20:52.873008-07:00"
+  }
+]
