@@ -33784,5 +33784,35 @@
     "roles": [],
     "first_seen": "2026-08-01T08:19:51.549487-07:00",
     "status": "active"
+  },
+  "9a0189c46a9a80abef83de1ff819580d": {
+    "id": "9a0189c46a9a80abef83de1ff819580d",
+    "company": "Elon Musk\u2019s fortune slumps",
+    "amount": "$684.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/01/elon-musk-net-worth-spacex-stock-rout-spcx-tesla-shares/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-01T09:29:18.015571-07:00",
+    "status": "active"
+  },
+  "4816fe9cfb5c0beae99a2741286644ed": {
+    "id": "4816fe9cfb5c0beae99a2741286644ed",
+    "company": "Bessent joins Japan",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/01/scott-bessent-treasury-japan-yen-dollar-exchange-rate/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-01T09:29:20.948481-07:00",
+    "status": "active"
   }
 }

@@ -1,30 +1,30 @@
 [
   {
     "item": {
-      "company": "Tillis",
-      "amount": null,
+      "company": "Elon Musk\u2019s fortune slumps",
+      "amount": "$684.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/01/blanche-tillis-trump-anti-weaponization-fund",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/01/elon-musk-net-worth-spacex-stock-rout-spcx-tesla-shares/",
       "priority": 3
     },
-    "remind_at": "2026-08-01T08:49:47.507519-07:00"
+    "remind_at": "2026-08-01T09:59:17.015419-07:00"
   },
   {
     "item": {
-      "company": "Stronger Together",
+      "company": "Bessent joins Japan",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDZndwUTBEUk9ra1d1ZWxIQzIyb3NhYmFPbHpoUmpDWU9hUUIwSm1BVVFxVkJQZm8yVS1nWnpCRG5kWXp5RmxNMFpqOGZCbGFBV1o0eFk1c09pMzJjVVNuUWhKc2s3d19KRkhLRnlSaWF3NnM?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/01/scott-bessent-treasury-japan-yen-dollar-exchange-rate/",
       "priority": 3
     },
-    "remind_at": "2026-08-01T08:49:50.549320-07:00"
+    "remind_at": "2026-08-01T09:59:19.948308-07:00"
   }
 ]
