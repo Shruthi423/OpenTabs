@@ -1,5 +1,35 @@
 [
   {
+    "id": "691bb63416dfa1dd7ecfc6d6d1100fd0",
+    "company": "Most billionaires",
+    "amount": "$26.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/02/billionaires-slow-philanthropy-mackenzie-scott-stanford-essay/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-02T04:07:18.515657-07:00",
+    "status": "active"
+  },
+  {
+    "id": "b98e015ed6227e82eaae025d90aa4e5c",
+    "company": "Former Palantir and Torq veterans",
+    "amount": "$8.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52cjNJWXpQeWdfVEVtMVN1Mk1WblNhckhnWkpRWFJDZTVDS3hWYnd5ZXdqdmthXy1zV2xmOHdKUXM4N09jT0FFV0RpQXY0TEFiQWZsYV81TlVHbVJxWDVGaV9iM0VXQ2pm?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-02T04:07:15.394933-07:00",
+    "status": "active"
+  },
+  {
     "id": "22c54a95ad449c2cc5bbd624aa21d488",
     "company": "Life can\u2019t be \u2018just go",
     "amount": "$1.0B",
