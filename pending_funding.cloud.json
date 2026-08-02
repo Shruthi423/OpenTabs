@@ -1,16 +1,16 @@
 [
   {
     "item": {
-      "company": "The next thing",
-      "amount": "$8.8B",
-      "stage": "Bridge",
+      "company": "AstraZeneca said",
+      "amount": "$133.0B",
+      "stage": null,
       "investors": null,
-      "location": "Georgia",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/02/jon-ossoff-georgia-hype-2028-election",
-      "priority": 6
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/02/astrazeneca-bristol-myers-squibb-merger-patents-us-market/",
+      "priority": 3
     },
-    "remind_at": "2026-08-02T15:06:58.603915-07:00"
+    "remind_at": "2026-08-02T16:09:12.274538-07:00"
   }
 ]
