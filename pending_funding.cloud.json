@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "item": {
+      "company": "The next thing",
+      "amount": "$8.8B",
+      "stage": "Bridge",
+      "investors": null,
+      "location": "Georgia",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/02/jon-ossoff-georgia-hype-2028-election",
+      "priority": 6
+    },
+    "remind_at": "2026-08-02T15:06:58.603915-07:00"
+  }
+]
