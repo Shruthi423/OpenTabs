@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Smallest AI",
+      "company": "Brand New Day\u2019 makes history",
+      "amount": "$355.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/02/tom-holland-zendaya-box-office-spider-man-brand-new-day-opening-weekend-sales/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-02T09:42:18.235339-07:00"
+  },
+  {
+    "item": {
+      "company": "Unauthorized",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWhLVFk3M0dQNVR2dHBaOTBXbkpVM0NpeTY4bWJ5NmpWSDQ4TThablJGbDhqd1g0SzZ3NHpadTN6NUV0WXdCSjBKWEczRXQ2TGxic0ZlOExDYTFtZDBnUV81Y3lCWjJjYjJvTW5ZSFlrWVM3QlNaZXl1NHJYUUZpUEN3X3gxM0tGYVBmWmlmcFpqN2R5?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRU91VktYZjZXc2RZWUFWSGVCTVFEYVQybElZVzVITkZ5ZjRqSlhEc1ktdTJUcW12OGx2VDdwTDZOS00zV214RXB1cjQtRWtNOEU1d1ExWldMa21RTmNJSm1DcUN5OWlFOVlTemlFMjBJYl9WVmVuN0xINzU4eFMzaEVRTGlvV29sYWV2eGVQbVJ3a0xZa2pFenBFNzQxaExWZUF5YmtHb1kxQzlKSmFfQy1uZ0RFQQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-02T08:31:34.003314-07:00"
+    "remind_at": "2026-08-02T09:42:20.854837-07:00"
   }
 ]
