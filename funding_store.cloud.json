@@ -34026,5 +34026,20 @@
     "roles": [],
     "first_seen": "2026-08-02T09:12:21.855002-07:00",
     "status": "active"
+  },
+  "30d68f8ed474bc3153e340a6543834d2": {
+    "id": "30d68f8ed474bc3153e340a6543834d2",
+    "company": "Rep. Max Miller not dropping out",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/02/max-miller-moreno-abuse-allegations",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-02T10:15:13.432121-07:00",
+    "status": "active"
   }
 }
