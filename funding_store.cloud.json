@@ -34735,5 +34735,67 @@
     "roles": [],
     "first_seen": "2026-08-03T14:39:35.822872-07:00",
     "status": "active"
+  },
+  "1cce80a6ac6fcc2384943361c2f7ca29": {
+    "id": "1cce80a6ac6fcc2384943361c2f7ca29",
+    "company": "Netflix co-founder backs $312M round",
+    "amount": "$312.0M",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/03/netflix-co-founder-backs-312m-round-optical-inference-appliance-maker-olix/",
+    "priority": 6,
+    "founders": [
+      "Reed Hastings"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-03T15:40:23.991965-07:00",
+    "status": "active"
+  },
+  "8f50b58831226f584c462ebc3a61da34": {
+    "id": "8f50b58831226f584c462ebc3a61da34",
+    "company": "Design Arena creators",
+    "amount": "$7.9M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-03T15:40:27.047502-07:00",
+    "status": "active"
+  },
+  "13fb4d920265d45f6ca53a5857251105": {
+    "id": "13fb4d920265d45f6ca53a5857251105",
+    "company": "House Democrats mull whether",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/03/max-miller-expel-congress-democrats-allegations",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-03T15:40:30.461661-07:00",
+    "status": "active"
+  },
+  "eddb881dd57db567047a33882e8ae18c": {
+    "id": "eddb881dd57db567047a33882e8ae18c",
+    "company": "Sequoia leads $1B funding round",
+    "amount": "$1.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MSzNta1VvREloQWx0THVfVk50M2lzMU5qNHVXY3BzdW0zakdCQ0FmWWNxbGw0VHhNMlJ3dGFadVZZXy10QjU1YmJxVzA1N000bmNJekhrQXFjSlV4TXRPYkNvVzBNaDZpMDdvaUNnUEdOSV8yQVh6Mk0zaGNpQQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-03T15:40:33.507963-07:00",
+    "status": "active"
   }
 }
