@@ -34705,5 +34705,35 @@
     "roles": [],
     "first_seen": "2026-08-03T13:24:00.388794-07:00",
     "status": "active"
+  },
+  "1c03e5a58e6fff80177357f213eeae01": {
+    "id": "1c03e5a58e6fff80177357f213eeae01",
+    "company": "DesignArena creators",
+    "amount": "$7.9M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-03T14:39:32.593400-07:00",
+    "status": "active"
+  },
+  "83603254dca0d0b0eeec53cdf93df03c": {
+    "id": "83603254dca0d0b0eeec53cdf93df03c",
+    "company": "GOP holdouts back Blanche",
+    "amount": "$1.8B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/03/gop-holdouts-blanche-doj-scraps-proposed-18-billion-slush-fund/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-03T14:39:35.822872-07:00",
+    "status": "active"
   }
 }

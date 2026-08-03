@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "Mediqstar",
-      "amount": null,
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vRHZ3S29yUkFPWnVaVUhoN3I1dFVXTGxqcko4QUpCVjJrT3JqeTRGQzZFUDRkRFpTZHpwWFhfRDhLVDVjaHM2V0RLMHR0bEtZZ3JN?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-08-03T13:53:54.088422-07:00"
-  },
-  {
-    "item": {
-      "company": "Base Power",
-      "amount": "$1.0B",
+      "company": "DesignArena creators",
+      "amount": "$7.9M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
       "priority": 3
     },
-    "remind_at": "2026-08-03T13:53:57.119626-07:00"
+    "remind_at": "2026-08-03T15:09:31.593209-07:00"
   },
   {
     "item": {
-      "company": "Alibaba",
-      "amount": null,
+      "company": "GOP holdouts back Blanche",
+      "amount": "$1.8B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/03/alibaba-debuts-qwen3-8-max-model-2-4t-parameters/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/03/gop-holdouts-blanche-doj-scraps-proposed-18-billion-slush-fund/",
       "priority": 3
     },
-    "remind_at": "2026-08-03T13:53:59.388633-07:00"
+    "remind_at": "2026-08-03T15:09:34.822708-07:00"
   }
 ]
