@@ -1,130 +1,88 @@
 [
   {
     "item": {
-      "company": "Salesforce veterans",
-      "amount": "$20.0M",
-      "stage": "Pre-Seed",
+      "company": "Horizon3",
+      "amount": "$2.0B",
+      "stage": "Series E",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GenB1Vkx4NllfNmdUYmJObmtRQ1EyMTV5RzhCd3dDakUyUjZOeVpYUXRQRHUzSnQ1WGlKcUluc3RfX3dfM1hXcDFNZEtINEVEczNLWkdNVVQxR3F0VDQyNUhUQ2hIN215?oc=5",
-      "priority": 10
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "priority": 3
     },
-    "remind_at": "2026-08-03T05:26:24.693384-07:00"
+    "remind_at": "2026-08-03T07:56:10.389803-07:00"
   },
   {
     "item": {
-      "company": "Aflabox",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdG9RREprd2hPSEJxU1pRTFpNSHg5VjlxSVk2TUdiYkp2S1VXaFppU2FqdmFJaVJkNC1qZ0RkNEdhclhlZXBoWWl1VjhBaFhLSDBvTFNsNW82RzJvMTZtNlp0bEhJZmloMHJvcDFNcTNxMFlzNXg4cmdGeGNHSTBKSkRpcDhZY1pYMGx6TllyVmRsc01EZURvcl9IcmtJNjN6?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-08-03T05:26:26.905410-07:00"
-  },
-  {
-    "item": {
-      "company": "Alocity",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/alocity-raises-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-08-03T05:26:29.107205-07:00"
-  },
-  {
-    "item": {
-      "company": "\u2018A Rare",
-      "amount": "$3.0B",
+      "company": "America\u2019s $500 million bet",
+      "amount": "$500.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/menlo-ventures-matt-murphy-anthropic-ai-investment-thesis/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/03/phoenix-tailings-rare-earth-refinery-new-hampshire-pentagon/",
       "priority": 3
     },
-    "remind_at": "2026-08-03T05:26:32.223582-07:00"
+    "remind_at": "2026-08-03T07:56:13.253031-07:00"
   },
   {
     "item": {
-      "company": "As Amazon pours billions into AI",
-      "amount": null,
+      "company": "SoftBank",
+      "amount": "$125.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [
-        "Jeff Bezos"
+        "Ben Kliger"
       ],
       "source": "Fortune",
-      "url": "https://fortune.com/article/as-amazon-pours-billions-into-ai-jeff-bezos-says-the-real-edge-lies-in-what-wont-change/",
+      "url": "https://fortune.com/2026/08/03/softbank-hitachi-lg-back-zenitys-125-million-round-to-police-ai-agents/",
       "priority": 3
     },
-    "remind_at": "2026-08-03T05:26:35.249488-07:00"
+    "remind_at": "2026-08-03T07:56:15.651205-07:00"
   },
   {
     "item": {
-      "company": "How America",
+      "company": "Horizon3.ai",
+      "amount": "$250.0M",
+      "stage": "Series E",
+      "investors": null,
+      "location": "Singapore",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/03/horizon3-ai-raises-250m-2b-plus-valuation-autonomous-pentesting/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-03T07:56:17.814880-07:00"
+  },
+  {
+    "item": {
+      "company": "BioCatch",
+      "amount": "$2.4B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/08/03/visa-to-acquire-cybersecurity-startup-biocatch-for-2-4-billion-to-fight-rising-ai-powered-fraud/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-03T07:56:19.984834-07:00"
+  },
+  {
+    "item": {
+      "company": "Matel",
       "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Los Angeles",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/03/us-climate-change-adaptation-extreme-weather",
-      "priority": 3
-    },
-    "remind_at": "2026-08-03T05:26:38.567990-07:00"
-  },
-  {
-    "item": {
-      "company": "Energy Dept. draws fire",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Colorado",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/03/energy-department-venezuela-oil-deals",
-      "priority": 3
-    },
-    "remind_at": "2026-08-03T05:26:44.778959-07:00"
-  },
-  {
-    "item": {
-      "company": "Olix",
-      "amount": "$312.0M",
-      "stage": null,
-      "investors": null,
-      "location": "London",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/olix-raises-312m-3-3b-valuation-nvidia-rival/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-03T05:26:46.954190-07:00"
-  },
-  {
-    "item": {
-      "company": "June",
-      "amount": "$20.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DdDZtWEFER1VkQ2VqOER0cF9SajRvZG5LV3k2ai05ai1UdmRVZEFUVVpIV2F5Tnd5cGs0UkdRYmN1S2hMcDFVUFBwYzQtUjZqdFNuMmZiN1ZfMGZkb0RWaE9uaVlRc3JTM3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdDdZVlJ3NVBIR0tRdzNvMDJpRXlKdXNDSlh6TWJTMTVYZWlQTTEtcmhMaTJXRzdjOXFReW1lQS00REptUzY5RlhhanlfdFM3SlI2anRYU2NBbkxqb3dIcWNTdlhoSG9JMFAzdndfd2tubFNRQ1pGYnFJeG9zbV9OV2dZQWM5VndqdG42U2VSa1dUSEcxbVZQLS1CUnBpekhhTlJRVjVQM2h4NGdHM2JkMzBfS3VJWmY1Z0I3MFRQVU9HX0llZEphemo5RkI2d9IBzgFBVV95cUxQdDdZVlJ3NVBIR0tRdzNvMDJpRXlKdXNDSlh6TWJTMTVYZWlQTTEtcmhMaTJXRzdjOXFReW1lQS00REptUzY5RlhhanlfdFM3SlI2anRYU2NBbkxqb3dIcWNTdlhoSG9JMFAzdndfd2tubFNRQ1pGYnFJeG9zbV9OV2dZQWM5VndqdG42U2VSa1dUSEcxbVZQLS1CUnBpekhhTlJRVjVQM2h4NGdHM2JkMzBfS3VJWmY1Z0I3MFRQVU9HX0llZEphemo5RkI2dw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-03T05:26:49.279021-07:00"
+    "remind_at": "2026-08-03T07:56:22.218797-07:00"
   }
 ]
