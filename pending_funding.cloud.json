@@ -1,30 +1,44 @@
 [
   {
     "item": {
-      "company": "The message beneath the yen intervention",
+      "company": "Mediqstar",
       "amount": null,
-      "stage": null,
-      "investors": "demand higher rates to finance massive U",
-      "location": "New York",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/03/yen-japan-treasury-bessent",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vRHZ3S29yUkFPWnVaVUhoN3I1dFVXTGxqcko4QUpCVjJrT3JqeTRGQzZFUDRkRFpTZHpwWFhfRDhLVDVjaHM2V0RLMHR0bEtZZ3JN?oc=5",
+      "priority": 7
     },
-    "remind_at": "2026-08-03T12:16:59.014019-07:00"
+    "remind_at": "2026-08-03T13:53:54.088422-07:00"
   },
   {
     "item": {
-      "company": "Cresta",
+      "company": "Base Power",
+      "amount": "$1.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-03T13:53:57.119626-07:00"
+  },
+  {
+    "item": {
+      "company": "Alibaba",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbmMtdzVGUWNkWGZNNXRiN3hLRFFxU1lqM29GVUFxUXNiWU1jY3IyblZxV2dENmdPcEVXMlJ4MHp4TEU3M3BZaUdCNVNIS0J1ZkVIVzNMSGp0R2hWbVdkNGlVR1lOTTZPZVppTUtlcVdGSHEyNlBmdWdSamh1YjA2SmVCOU1wR2pwWi1PLXl4SVk4ZnRtRzFFZkpwSGR1WnI3a2duV3BTbXE?oc=5",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/03/alibaba-debuts-qwen3-8-max-model-2-4t-parameters/",
       "priority": 3
     },
-    "remind_at": "2026-08-03T12:17:01.442239-07:00"
+    "remind_at": "2026-08-03T13:53:59.388633-07:00"
   }
 ]
