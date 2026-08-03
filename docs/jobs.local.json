@@ -1,5 +1,23 @@
 [
   {
+    "id": "9295d374361ee45290e1fde7bdb9e3a7",
+    "title": "UX Engineer",
+    "company": "Cloud and Things",
+    "location": "Albany, NY",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4446232311",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-08-03T11:51:22.411586-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  {
     "id": "296dd24a99c2999663acaed9a16849b7",
     "title": "Interaction Designer - AI Trainer",
     "company": "DataAnnotation",
@@ -32,24 +50,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-03T11:26:44.845243-07:00",
-    "status": "active",
-    "applied_at": null
-  },
-  {
-    "id": "b4667296a05adac457619b2f28796fac",
-    "title": "Sr. Applications Engineer",
-    "company": "GEOTEK",
-    "location": "Stewartville, MN, US",
-    "salary": "$98,174 \u2013 $138,099 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=b62ed7cfd4c2a1b9",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "visa": null,
-    "founders": [],
-    "posted_at": "2026-08-02",
-    "priority": 4,
-    "first_seen": "2026-08-03T11:26:43.063383-07:00",
     "status": "active",
     "applied_at": null
   },
