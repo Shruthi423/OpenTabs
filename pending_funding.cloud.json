@@ -1,142 +1,130 @@
 [
   {
     "item": {
-      "company": "Marpai",
-      "amount": "$12.0M",
-      "stage": "Series A",
-      "investors": "Mitchell Companies to accelerate its healthcare technology growth",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/marpai-inc-raises-12-1m-series-a/",
-      "priority": 11
-    },
-    "remind_at": "2026-08-03T01:54:30.578523-07:00"
-  },
-  {
-    "item": {
-      "company": "Fusepay",
-      "amount": null,
+      "company": "Salesforce veterans",
+      "amount": "$20.0M",
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/fusepay-raises-350000-pre-seed/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GenB1Vkx4NllfNmdUYmJObmtRQ1EyMTV5RzhCd3dDakUyUjZOeVpYUXRQRHUzSnQ1WGlKcUluc3RfX3dfM1hXcDFNZEtINEVEczNLWkdNVVQxR3F0VDQyNUhUQ2hIN215?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-08-03T01:54:33.158504-07:00"
+    "remind_at": "2026-08-03T05:26:24.693384-07:00"
   },
   {
     "item": {
-      "company": "Unicity Labs",
-      "amount": "$3.0M",
-      "stage": "Seed",
-      "investors": "Blockchange Ventures to scale its autonomous agentic marketplace infrastructure",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/unicity-labs-raises-3m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-03T01:54:35.791989-07:00"
-  },
-  {
-    "item": {
-      "company": "Cloudsome",
-      "amount": "$3.6M",
+      "company": "Aflabox",
+      "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/cloudsome-raises-3-6m-seed/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdG9RREprd2hPSEJxU1pRTFpNSHg5VjlxSVk2TUdiYkp2S1VXaFppU2FqdmFJaVJkNC1qZ0RkNEdhclhlZXBoWWl1VjhBaFhLSDBvTFNsNW82RzJvMTZtNlp0bEhJZmloMHJvcDFNcTNxMFlzNXg4cmdGeGNHSTBKSkRpcDhZY1pYMGx6TllyVmRsc01EZURvcl9IcmtJNjN6?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-08-03T01:54:38.333059-07:00"
+    "remind_at": "2026-08-03T05:26:26.905410-07:00"
   },
   {
     "item": {
-      "company": "Ash Games",
-      "amount": "$1.5M",
-      "stage": "Seed",
-      "investors": "Merak Capital and Impact46 to scale game development and expand its presence in international markets",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ash-games-raises-1-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-03T01:54:41.726770-07:00"
-  },
-  {
-    "item": {
-      "company": "FormX",
-      "amount": "$12.5M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/formx-raises-12-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-03T01:54:44.385055-07:00"
-  },
-  {
-    "item": {
-      "company": "Hata",
-      "amount": "$8.0M",
-      "stage": "Series A",
-      "investors": "Bybit to expand its regulated digital asset exchange platform in Malaysia",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hata-raises-8m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-08-03T01:54:46.933655-07:00"
-  },
-  {
-    "item": {
-      "company": "Balance Theory",
-      "amount": "$19.0M",
+      "company": "Alocity",
+      "amount": null,
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/balance-theory-raises-19m-series-a/",
+      "url": "https://www.thesaasnews.com/news/alocity-raises-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-08-03T01:54:50.354938-07:00"
+    "remind_at": "2026-08-03T05:26:29.107205-07:00"
   },
   {
     "item": {
-      "company": "Superdisco",
+      "company": "\u2018A Rare",
+      "amount": "$3.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/menlo-ventures-matt-murphy-anthropic-ai-investment-thesis/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-03T05:26:32.223582-07:00"
+  },
+  {
+    "item": {
+      "company": "As Amazon pours billions into AI",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/superdisco-secures-investment-from-genaxis/",
+      "founders": [
+        "Jeff Bezos"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/article/as-amazon-pours-billions-into-ai-jeff-bezos-says-the-real-edge-lies-in-what-wont-change/",
       "priority": 3
     },
-    "remind_at": "2026-08-03T01:54:52.933511-07:00"
+    "remind_at": "2026-08-03T05:26:35.249488-07:00"
   },
   {
     "item": {
-      "company": "Perceptron",
-      "amount": "$6.5M",
+      "company": "How America",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Los Angeles",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/03/us-climate-change-adaptation-extreme-weather",
+      "priority": 3
+    },
+    "remind_at": "2026-08-03T05:26:38.567990-07:00"
+  },
+  {
+    "item": {
+      "company": "Energy Dept. draws fire",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Colorado",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/03/energy-department-venezuela-oil-deals",
+      "priority": 3
+    },
+    "remind_at": "2026-08-03T05:26:44.778959-07:00"
+  },
+  {
+    "item": {
+      "company": "Olix",
+      "amount": "$312.0M",
+      "stage": null,
+      "investors": null,
+      "location": "London",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/olix-raises-312m-3-3b-valuation-nvidia-rival/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-03T05:26:46.954190-07:00"
+  },
+  {
+    "item": {
+      "company": "June",
+      "amount": "$20.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/perceptron-raises-6-5m-strategic-funding/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DdDZtWEFER1VkQ2VqOER0cF9SajRvZG5LV3k2ai05ai1UdmRVZEFUVVpIV2F5Tnd5cGs0UkdRYmN1S2hMcDFVUFBwYzQtUjZqdFNuMmZiN1ZfMGZkb0RWaE9uaVlRc3JTM3c?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-03T01:54:55.495629-07:00"
+    "remind_at": "2026-08-03T05:26:49.279021-07:00"
   }
 ]
