@@ -34630,5 +34630,35 @@
     "roles": [],
     "first_seen": "2026-08-03T09:57:12.849572-07:00",
     "status": "active"
+  },
+  "45d5cac1515c400dd661956f2da9e952": {
+    "id": "45d5cac1515c400dd661956f2da9e952",
+    "company": "The message beneath the yen intervention",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "demand higher rates to finance massive U",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/03/yen-japan-treasury-bessent",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-08-03T11:47:00.014169-07:00",
+    "status": "active"
+  },
+  "cfe2e90c31d1bc3963dc5c4263d023e6": {
+    "id": "cfe2e90c31d1bc3963dc5c4263d023e6",
+    "company": "Cresta",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbmMtdzVGUWNkWGZNNXRiN3hLRFFxU1lqM29GVUFxUXNiWU1jY3IyblZxV2dENmdPcEVXMlJ4MHp4TEU3M3BZaUdCNVNIS0J1ZkVIVzNMSGp0R2hWbVdkNGlVR1lOTTZPZVppTUtlcVdGSHEyNlBmdWdSamh1YjA2SmVCOU1wR2pwWi1PLXl4SVk4ZnRtRzFFZkpwSGR1WnI3a2duV3BTbXE?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-03T11:47:02.442390-07:00",
+    "status": "active"
   }
 }
