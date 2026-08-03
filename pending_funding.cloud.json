@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "item": {
+      "company": "Marpai",
+      "amount": "$12.0M",
+      "stage": "Series A",
+      "investors": "Mitchell Companies to accelerate its healthcare technology growth",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/marpai-inc-raises-12-1m-series-a/",
+      "priority": 11
+    },
+    "remind_at": "2026-08-03T01:54:30.578523-07:00"
+  },
+  {
+    "item": {
+      "company": "Fusepay",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/fusepay-raises-350000-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-03T01:54:33.158504-07:00"
+  },
+  {
+    "item": {
+      "company": "Unicity Labs",
+      "amount": "$3.0M",
+      "stage": "Seed",
+      "investors": "Blockchange Ventures to scale its autonomous agentic marketplace infrastructure",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/unicity-labs-raises-3m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-03T01:54:35.791989-07:00"
+  },
+  {
+    "item": {
+      "company": "Cloudsome",
+      "amount": "$3.6M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/cloudsome-raises-3-6m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-03T01:54:38.333059-07:00"
+  },
+  {
+    "item": {
+      "company": "Ash Games",
+      "amount": "$1.5M",
+      "stage": "Seed",
+      "investors": "Merak Capital and Impact46 to scale game development and expand its presence in international markets",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ash-games-raises-1-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-03T01:54:41.726770-07:00"
+  },
+  {
+    "item": {
+      "company": "FormX",
+      "amount": "$12.5M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/formx-raises-12-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-03T01:54:44.385055-07:00"
+  },
+  {
+    "item": {
+      "company": "Hata",
+      "amount": "$8.0M",
+      "stage": "Series A",
+      "investors": "Bybit to expand its regulated digital asset exchange platform in Malaysia",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hata-raises-8m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-03T01:54:46.933655-07:00"
+  },
+  {
+    "item": {
+      "company": "Balance Theory",
+      "amount": "$19.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/balance-theory-raises-19m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-03T01:54:50.354938-07:00"
+  },
+  {
+    "item": {
+      "company": "Superdisco",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/superdisco-secures-investment-from-genaxis/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-03T01:54:52.933511-07:00"
+  },
+  {
+    "item": {
+      "company": "Perceptron",
+      "amount": "$6.5M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/perceptron-raises-6-5m-strategic-funding/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-03T01:54:55.495629-07:00"
+  }
+]
