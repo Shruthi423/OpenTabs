@@ -1,60 +1,30 @@
 [
   {
     "item": {
-      "company": "Meet Wrinkles",
-      "amount": null,
-      "stage": null,
+      "company": "Einship",
+      "amount": "$1.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdzYyaEtrbk10ak11VklUUEJReGZQZ3NKVWxSNW9UaXpidWQyQ0paNTRvUldlNkVBdTdjRXNkOThVUVpxNkE3SVg5TVEzWEJqdEpNSWRrOXI4SkRodzNMQkUwaTc0YnNWYmNmQnJsdm90WDBBVW1LSnRoWVYyMWtYZ2tB0gGHAUFVX3lxTFBYWmZWQVQ1WVR3S2NUUEdHbkdlWGpIQ3g5V3hQNXVNZkNUT3BCaHoxT2R4V2hRd3hCWFZyTXJJUlpuQkdYTkEtRzFXamlRcEo0czhRT190RUt6R253R2RrMW13R0Q4eEt3Z1dadVpqZENSd1ZVb2N0TjZXeDRGQXo2NEc3TzdsUQ?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-08-04T13:51:32.383947-07:00"
+    "remind_at": "2026-08-04T15:17:59.065893-07:00"
   },
   {
     "item": {
-      "company": "We \u2018contort\u2019 ourselves around computers",
-      "amount": null,
+      "company": "SpaceX revenue surges",
+      "amount": "$7.8B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/08/04/openai-president-greg-brockman-we-contort-ourselves-around-computers-clicking-and-typing-is-a-phase/",
+      "url": "https://fortune.com/2026/08/04/spacex-revenue-surges-92-to-7-8-billion-blowing-past-wall-street-expectations-by-nearly-1-billion/",
       "priority": 3
     },
-    "remind_at": "2026-08-04T13:51:35.648790-07:00"
-  },
-  {
-    "item": {
-      "company": "McDonald\u2019s CEO turns",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [
-        "Chris Kempczinski"
-      ],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/04/mcdonalds-ceo-skye-anderson-us-market-president/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-04T13:51:39.085289-07:00"
-  },
-  {
-    "item": {
-      "company": "HPE brings quantum computing",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/04/quantum-hybrid-computing-hpeworldquantumday/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-04T13:51:42.284372-07:00"
+    "remind_at": "2026-08-04T15:18:02.395016-07:00"
   }
 ]
