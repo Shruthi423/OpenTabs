@@ -1,114 +1,62 @@
 [
   {
     "item": {
-      "company": "Claryx",
-      "amount": "$3.5M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/04/claryx-emerges-from-stealth-with-3-5m-to-use-genomic-intelligence-to-stop-hospital-outbreaks-before-they-spread/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-04T08:33:45.574265-07:00"
-  },
-  {
-    "item": {
-      "company": "NYAI",
-      "amount": "$1.5M",
+      "company": "Decade",
+      "amount": "$85.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaXBHVEhVWm5tM1ZnRG9McXdmUHZ3OGJ4N1YwbHUtTHJ3QXBpaUdYNkVJNVFNS3FQRlUzVmJtQ1dxLVprT1I1V25KMzViY1l4QXMwc0V1WVRtdXpEbVJFaGlBRzYxYWJFQWFHYVJjbUdXNGl1QkNGMG5LTlNjUzhRYmVnZUJyUnFfTjdTeEJ4R3RCQlBHdjNUV1RwZU9zNldvVWppQ3RWbnZjMEFDNFBhc1FtOWdJY2ZpZjRIOTEtOUtwQlQxdTZGdkhMcEtDUdIBzgFBVV95cUxNaXBHVEhVWm5tM1ZnRG9McXdmUHZ3OGJ4N1YwbHUtTHJ3QXBpaUdYNkVJNVFNS3FQRlUzVmJtQ1dxLVprT1I1V25KMzViY1l4QXMwc0V1WVRtdXpEbVJFaGlBRzYxYWJFQWFHYVJjbUdXNGl1QkNGMG5LTlNjUzhRYmVnZUJyUnFfTjdTeEJ4R3RCQlBHdjNUV1RwZU9zNldvVWppQ3RWbnZjMEFDNFBhc1FtOWdJY2ZpZjRIOTEtOUtwQlQxdTZGdkhMcEtDUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNelJHSnJUWFloT2t5cFd0WlB5NEF1d0FjLTluU0VmSE5LN19QQ1Z1MF9oLUNjODZZOUdhbVppYVY1NHN3X2VIZDRfYnRWUHh3Z2dnWC04a1c3WmUtZmJZRlMyc096bXdZbExCbG1seEh5Q19kUldCZmVabHRzREpyY2xOVTNVWjVkZi1FbnNPM0pSZFJiTDV4cGNBbEQxZ1lrNk0yNDJRU1pKZ3NBT19jRTdXT2NuNkpwU0pETHFpNmE0V3NfOU53b3lRTGdWZWk3OGRwS0k1QlVsbm5iUFVNOXJSM3lMWVJiem9uUkJKQXJwT2ZzdU5Kbw?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-08-04T08:33:47.773117-07:00"
+    "remind_at": "2026-08-04T10:33:34.819208-07:00"
   },
   {
     "item": {
-      "company": "Vaaree",
-      "amount": null,
-      "stage": "Series A",
+      "company": "Obsidian Security",
+      "amount": "$85.0M",
+      "stage": "Series D",
       "investors": null,
       "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbjh0TGpFaHRsbDlqX3VrZmpvdDM3aXJMYV9SclBJWEI1eXlKNXZvd2NPZFBPR0hCd0VoUEhBbjBLNFFkUkhCMFhzV0QxbDJkSjEtb2lGY3JWZGh5YUJGZFI1TFJJSzc4VFNTNnE3eGZGME5HZ1RnTVNjRGJzQk9kaU1Sa1lyRVVJUERGUGlzMHdPUTlXTUhfZEdWbU9UU0xDMEVHbDlzTjRfdHgzcHg4d1ZnUkxBd0V0QVplSFJCUm9WakZBZUwzQURFOTlSZ0xoRVJUOEJTeFNQUQ?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-04T08:33:49.962347-07:00"
-  },
-  {
-    "item": {
-      "company": "Convex reels in $57M",
-      "amount": "$57.0M",
-      "stage": "Series B",
-      "investors": "Insight Partners",
-      "location": null,
-      "founders": [],
+      "founders": [
+        "Hasan Imam"
+      ],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/04/convex-reels-57m-ai-optimized-application-backend/",
-      "priority": 7
+      "url": "https://siliconangle.com/2026/08/04/obsidian-security-raises-85m-ai-agents-create-cybersecuritys-next-major-attack-surface/",
+      "priority": 5
     },
-    "remind_at": "2026-08-04T08:33:52.875317-07:00"
+    "remind_at": "2026-08-04T10:33:37.756203-07:00"
   },
   {
     "item": {
-      "company": "HappyRobot",
-      "amount": "$150.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXBPX096ZVdCSmhzZ3hmQU95Z3RFM0lXaWVDM1VydDN0OWVsQ3lPSndOUjBHcU1rM0Zibjk5a3ZuYTAwZ05IOVpBLTJIcFpoRWJZM0FkeFFQaTB5Q3RxcFZtZlBqUFpXTC1IT0ZVb1Y1ejliWFFZclpkSjNnSzZHRldPX29wR1d3SXJzTGlKTGRGSXNZdURENWdkNlEzMEE1WFAzbw?oc=5",
-      "priority": 6
-    },
-    "remind_at": "2026-08-04T08:33:55.074480-07:00"
-  },
-  {
-    "item": {
-      "company": "Oligo Security",
-      "amount": "$60.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/04/oligo-security-raises-60m-ai-speeds-exploit-development/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-04T08:33:57.955384-07:00"
-  },
-  {
-    "item": {
-      "company": "ServiceNow",
-      "amount": "$7.75B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/04/servicenow-debuts-six-autonomous-security-products-built-armis-veza/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-04T08:34:00.136585-07:00"
-  },
-  {
-    "item": {
-      "company": "Rappi",
+      "company": "Why a measly 100",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTHBJWmFKajVWQXYyQmxyLURpWTh1aU95bVRYTVN3RG1kd1JMM2pXLUV0SXE4RW9qZndNbmZKV0hZV1dtYV96d2NyQlppeFo2RDJuTVpYWDBIVVdOclYzVmhrNjF2cTFOSnI4WXVNaVV6X0hYcjBxZEJyVmhDMG1KUjFqdDFiZ3hXcHdBcnFXdTVPcEIyRnhTZlBYWUN5TmJKdUdDb1VXVQ?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/04/jolts-jobs-break-even-rate-trump-economy/",
       "priority": 3
     },
-    "remind_at": "2026-08-04T08:34:02.486594-07:00"
+    "remind_at": "2026-08-04T10:33:40.781990-07:00"
+  },
+  {
+    "item": {
+      "company": "\u2018That",
+      "amount": "$159.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [
+        "Patrick Collison"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/04/stripe-ceo-patrick-collison-double-ivy-league-dropout-now-billonaire-tells-gen-z-no-need-to-rush-school/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-04T10:33:43.046823-07:00"
   }
 ]

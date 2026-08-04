@@ -35514,5 +35514,69 @@
     "roles": [],
     "first_seen": "2026-08-04T08:04:03.486779-07:00",
     "status": "active"
+  },
+  "4f2433fcc413c55a5b340f8fc52a452f": {
+    "id": "4f2433fcc413c55a5b340f8fc52a452f",
+    "company": "Decade",
+    "amount": "$85.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNelJHSnJUWFloT2t5cFd0WlB5NEF1d0FjLTluU0VmSE5LN19QQ1Z1MF9oLUNjODZZOUdhbVppYVY1NHN3X2VIZDRfYnRWUHh3Z2dnWC04a1c3WmUtZmJZRlMyc096bXdZbExCbG1seEh5Q19kUldCZmVabHRzREpyY2xOVTNVWjVkZi1FbnNPM0pSZFJiTDV4cGNBbEQxZ1lrNk0yNDJRU1pKZ3NBT19jRTdXT2NuNkpwU0pETHFpNmE0V3NfOU53b3lRTGdWZWk3OGRwS0k1QlVsbm5iUFVNOXJSM3lMWVJiem9uUkJKQXJwT2ZzdU5Kbw?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-04T10:03:35.819370-07:00",
+    "status": "active"
+  },
+  "ef8c674b9815048fab793dfb96ff4d20": {
+    "id": "ef8c674b9815048fab793dfb96ff4d20",
+    "company": "Obsidian Security",
+    "amount": "$85.0M",
+    "stage": "Series D",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/04/obsidian-security-raises-85m-ai-agents-create-cybersecuritys-next-major-attack-surface/",
+    "priority": 5,
+    "founders": [
+      "Hasan Imam"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-04T10:03:38.756367-07:00",
+    "status": "active"
+  },
+  "9f6dfef25c7bb9a3d5f47117c87af225": {
+    "id": "9f6dfef25c7bb9a3d5f47117c87af225",
+    "company": "Why a measly 100",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/04/jolts-jobs-break-even-rate-trump-economy/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-04T10:03:41.782128-07:00",
+    "status": "active"
+  },
+  "ca9bbd20fc94a361fb3da7d4664bdb10": {
+    "id": "ca9bbd20fc94a361fb3da7d4664bdb10",
+    "company": "\u2018That",
+    "amount": "$159.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/04/stripe-ceo-patrick-collison-double-ivy-league-dropout-now-billonaire-tells-gen-z-no-need-to-rush-school/",
+    "priority": 3,
+    "founders": [
+      "Patrick Collison"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-04T10:03:44.046960-07:00",
+    "status": "active"
   }
 }
