@@ -1,62 +1,72 @@
 [
   {
     "item": {
-      "company": "Decade",
-      "amount": "$85.0M",
+      "company": "RIME",
+      "amount": "$2.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNelJHSnJUWFloT2t5cFd0WlB5NEF1d0FjLTluU0VmSE5LN19QQ1Z1MF9oLUNjODZZOUdhbVppYVY1NHN3X2VIZDRfYnRWUHh3Z2dnWC04a1c3WmUtZmJZRlMyc096bXdZbExCbG1seEh5Q19kUldCZmVabHRzREpyY2xOVTNVWjVkZi1FbnNPM0pSZFJiTDV4cGNBbEQxZ1lrNk0yNDJRU1pKZ3NBT19jRTdXT2NuNkpwU0pETHFpNmE0V3NfOU53b3lRTGdWZWk3OGRwS0k1QlVsbm5iUFVNOXJSM3lMWVJiem9uUkJKQXJwT2ZzdU5Kbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdk9DamhRN3VhV3RockQwbWdnWEs2bTZyb2RlMlRYbnZBTnRIcC1vTzBEMm1ETklMX21PR1RDaG1qeHZqdEcwOUhiSnNYOEhPWnJFX3JQdzFiVzlzYXFNSElwaEtFdEF6Y29nNWh1LXhvSzZ1UlpGelpaNklSaE1kTE9R?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-08-04T10:33:34.819208-07:00"
+    "remind_at": "2026-08-04T12:21:11.070790-07:00"
   },
   {
     "item": {
-      "company": "Obsidian Security",
-      "amount": "$85.0M",
-      "stage": "Series D",
-      "investors": null,
-      "location": null,
-      "founders": [
-        "Hasan Imam"
-      ],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/04/obsidian-security-raises-85m-ai-agents-create-cybersecuritys-next-major-attack-surface/",
-      "priority": 5
-    },
-    "remind_at": "2026-08-04T10:33:37.756203-07:00"
-  },
-  {
-    "item": {
-      "company": "Why a measly 100",
+      "company": "Bessent\u2019s Yen gamble",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/08/04/jolts-jobs-break-even-rate-trump-economy/",
+      "url": "https://fortune.com/2026/08/04/scott-bessent-yen-japan-intervention-big-player/",
       "priority": 3
     },
-    "remind_at": "2026-08-04T10:33:40.781990-07:00"
+    "remind_at": "2026-08-04T12:21:14.060446-07:00"
   },
   {
     "item": {
-      "company": "\u2018That",
-      "amount": "$159.0B",
+      "company": "OpenAI",
+      "amount": "$3.2M",
       "stage": null,
       "investors": null,
       "location": null,
-      "founders": [
-        "Patrick Collison"
-      ],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/04/stripe-ceo-patrick-collison-double-ivy-league-dropout-now-billonaire-tells-gen-z-no-need-to-rush-school/",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/04/trump-doj-openai-hiring-settlement",
       "priority": 3
     },
-    "remind_at": "2026-08-04T10:33:43.046823-07:00"
+    "remind_at": "2026-08-04T12:21:16.657698-07:00"
+  },
+  {
+    "item": {
+      "company": "Miller calls",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Washington",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/04/max-miller-ethics-probe-allegations",
+      "priority": 3
+    },
+    "remind_at": "2026-08-04T12:21:20.217206-07:00"
+  },
+  {
+    "item": {
+      "company": "Volta",
+      "amount": "$2.4B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORVNKc2JqcmZfVzBfczJuMDFnREpKUl9xME1jNlMyckt5TUJJdmstdmZtZ2VmZThsbl9RWDJZNE9qV0Vtang2bzFObk8xTUl1b2taUnBTd0hBc3BvdXNONlNlbkNIZUVpblhrR2FYSXMwWmt6MHphbUhLRUxmZGZGZHRlVmhxc3hKZERHWFpYbTYxd1JzVmxXdlkxNXZIYWxSNjNYdlNBNWNJdWNzNi1QY1NJR1ZhMExRTWFUQzRR?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-04T12:21:22.501213-07:00"
   }
 ]

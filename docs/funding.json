@@ -1,5 +1,102 @@
 [
   {
+    "id": "53b1fa0c5c5d23be7a13b64bba43f4a4",
+    "company": "Volta",
+    "amount": "$2.4B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORVNKc2JqcmZfVzBfczJuMDFnREpKUl9xME1jNlMyckt5TUJJdmstdmZtZ2VmZThsbl9RWDJZNE9qV0Vtang2bzFObk8xTUl1b2taUnBTd0hBc3BvdXNONlNlbkNIZUVpblhrR2FYSXMwWmt6MHphbUhLRUxmZGZGZHRlVmhxc3hKZERHWFpYbTYxd1JzVmxXdlkxNXZIYWxSNjNYdlNBNWNJdWNzNi1QY1NJR1ZhMExRTWFUQzRR?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "UX Designer",
+        "url": "https://jobs.ashbyhq.com/volta/b98857b1-a800-44a3-a6df-7b16f4456f06",
+        "location": "Remote"
+      },
+      {
+        "title": "UX Researcher",
+        "url": "https://jobs.ashbyhq.com/volta/1eb56494-2e2b-4969-a748-4e361f5fe5ca",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-08-04T11:51:23.501372-07:00",
+    "status": "active"
+  },
+  {
+    "id": "aa69df4a3dd7c0831f38a1669135ef74",
+    "company": "Miller calls",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/04/max-miller-ethics-probe-allegations",
+    "priority": 3,
+    "founders": [],
+    "location": "Washington",
+    "roles": [],
+    "first_seen": "2026-08-04T11:51:21.217384-07:00",
+    "status": "active"
+  },
+  {
+    "id": "6e9c61a3c4baf8141664d578284b4347",
+    "company": "OpenAI",
+    "amount": "$3.2M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/04/trump-doj-openai-hiring-settlement",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco",
+    "roles": [
+      {
+        "title": "Product Designer, People Innovation Labs",
+        "url": "https://jobs.ashbyhq.com/openai/3874db80-f3ec-4dd1-8d56-6441e8f7299d",
+        "location": "San Francisco"
+      },
+      {
+        "title": "TLM, Embedded Experiences",
+        "url": "https://jobs.ashbyhq.com/openai/967d3ad7-bd2c-40e3-ba1f-f1140a116999",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-08-04T11:51:17.657862-07:00",
+    "status": "active"
+  },
+  {
+    "id": "b67be4b389c2948c626bfd5d1a8b83b3",
+    "company": "Bessent\u2019s Yen gamble",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/04/scott-bessent-yen-japan-intervention-big-player/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-04T11:51:15.060628-07:00",
+    "status": "active"
+  },
+  {
+    "id": "11583c10b9b0fc7ca3652c7e7a410ec4",
+    "company": "RIME",
+    "amount": "$2.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdk9DamhRN3VhV3RockQwbWdnWEs2bTZyb2RlMlRYbnZBTnRIcC1vTzBEMm1ETklMX21PR1RDaG1qeHZqdEcwOUhiSnNYOEhPWnJFX3JQdzFiVzlzYXFNSElwaEtFdEF6Y29nNWh1LXhvSzZ1UlpGelpaNklSaE1kTE9R?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-04T11:51:12.070964-07:00",
+    "status": "active"
+  },
+  {
     "id": "ca9bbd20fc94a361fb3da7d4664bdb10",
     "company": "\u2018That",
     "amount": "$159.0B",
