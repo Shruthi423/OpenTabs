@@ -34812,5 +34812,96 @@
     "roles": [],
     "first_seen": "2026-08-03T16:48:19.347517-07:00",
     "status": "active"
+  },
+  "2f2ac8e6b1aa6e2bb0dc4f1c50dc2562": {
+    "id": "2f2ac8e6b1aa6e2bb0dc4f1c50dc2562",
+    "company": "Wayy.ai",
+    "amount": "$2.0M",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/wayy-ai-raises-2m-pre-seed/",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-03T22:13:43.461929-07:00",
+    "status": "active"
+  },
+  "71a7ef33edf8205f6384720f43ff1621": {
+    "id": "71a7ef33edf8205f6384720f43ff1621",
+    "company": "Addit&Arc",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTGpMMVQyczI5X25ia0ZEWVh0aHZlaWliTUlkOUdwRnNEUDFkd0hkTU13NkdwSzVqLWM1MTFyVWRJWUF5bGhrdmJoS0pGbHhGN2gyOFoxTXFVYW11ekZPVXJFX0dxQ2J5U0VkR3pnSlpJajdJa25pM2JpaUs2NUxtWTFmM3g3WUhJc05wYU1qUDVuRUdwcVRkajJTd3NFRUxnTFF6MHJn?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-03T22:13:45.759012-07:00",
+    "status": "active"
+  },
+  "fb26578a9eb00a2b378bd5b364ba7872": {
+    "id": "fb26578a9eb00a2b378bd5b364ba7872",
+    "company": "Profound",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONDV6YmhwbE1TZFc3bmJsekRqSHZMN0ZuYjlybHdjLUxxUk4wSzZqZ0o4bTc2RDQzc0Y5WDBrb3B5RlZGRVJLYlIxZGF5YzNaUk91ZWJsTktMV2x2RUZ6TllJSGNITmhUSlhKUmI4b09VV0RJQ1VjbVBhbDd1YlJZN1R1aGR5X291QUU5SXNRWFFjekRBVXRyZlJSWDBYNklNTkp2eXl0Q3F2cHBFZUdYN01UMmcyTEJtVXQ40gG7AUFVX3lxTE40NXpiaHBsTVNkVzduYmx6RGpIdkw3Rm5iOXJsd2MtTHFSTjBLNmpnSjhtNzZENDNzRjlYMGtvcHlGVkZFUktiUjFkYXljM1pST3VlYmxOS0xXbHZFRnpOWUlIY0hOaFRKWEpSYjhvT1VXRElDVWNtUGFsN3ViUlk3VHVoZHlfb3VBRTlJc1FYUWN6REFVdHJmUlJYMFg2SU1OSnZ5eXRDcXZwcEVlR1g3TVQyZzJMQm1VdDg?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": "New York, New York",
+    "roles": [
+      {
+        "title": "Brand Designer",
+        "url": "https://jobs.ashbyhq.com/profound/f9f00c5f-0269-4d7d-85b6-c7ac54df302d",
+        "location": "New York, New York"
+      },
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/profound/02707973-c9c1-4b36-8974-0334ebb35f15",
+        "location": "New York, New York"
+      },
+      {
+        "title": "Brand Designer",
+        "url": "https://jobs.ashbyhq.com/profound/b87295ec-7d64-4ab5-8a57-052f349099fc",
+        "location": "New York, New York"
+      }
+    ],
+    "first_seen": "2026-08-03T22:13:48.010639-07:00",
+    "status": "active"
+  },
+  "4c31f2021a8975ace5c266b3618e9a1d": {
+    "id": "4c31f2021a8975ace5c266b3618e9a1d",
+    "company": "After raising $1B in funding",
+    "amount": "$1.0B",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/03/raising-1b-funding-valar-atomics-plans-mass-produce-small-nuclear-reactors-ai-industry/",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-03T22:13:50.904318-07:00",
+    "status": "active"
+  },
+  "b306004df0f7c758f0dd2ad1caca18f9": {
+    "id": "b306004df0f7c758f0dd2ad1caca18f9",
+    "company": "just",
+    "amount": "$310.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN2I2QjlKNDZtYW90bE9NaE1RaUppZ0NsY0Y1VFoxVm40WEY4SkYzLUYtbWcteHYxT29WTVBXazFXOTJYTUhoYThWcFlCSUFMN08xc2R0QzF6RGRkakMxVmJXbW4xNVMySFVPakN5YnpxVWtLQVE4UU84Z2czVUFwQlVsa2Jvc2Zzd1RlOUZ2NjU?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-03T22:13:53.176312-07:00",
+    "status": "active"
   }
 }

@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "item": {
+      "company": "Wayy.ai",
+      "amount": "$2.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/wayy-ai-raises-2m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-03T22:43:42.461762-07:00"
+  },
+  {
+    "item": {
+      "company": "Addit&Arc",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTGpMMVQyczI5X25ia0ZEWVh0aHZlaWliTUlkOUdwRnNEUDFkd0hkTU13NkdwSzVqLWM1MTFyVWRJWUF5bGhrdmJoS0pGbHhGN2gyOFoxTXFVYW11ekZPVXJFX0dxQ2J5U0VkR3pnSlpJajdJa25pM2JpaUs2NUxtWTFmM3g3WUhJc05wYU1qUDVuRUdwcVRkajJTd3NFRUxnTFF6MHJn?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-03T22:43:44.758858-07:00"
+  },
+  {
+    "item": {
+      "company": "Profound",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONDV6YmhwbE1TZFc3bmJsekRqSHZMN0ZuYjlybHdjLUxxUk4wSzZqZ0o4bTc2RDQzc0Y5WDBrb3B5RlZGRVJLYlIxZGF5YzNaUk91ZWJsTktMV2x2RUZ6TllJSGNITmhUSlhKUmI4b09VV0RJQ1VjbVBhbDd1YlJZN1R1aGR5X291QUU5SXNRWFFjekRBVXRyZlJSWDBYNklNTkp2eXl0Q3F2cHBFZUdYN01UMmcyTEJtVXQ40gG7AUFVX3lxTE40NXpiaHBsTVNkVzduYmx6RGpIdkw3Rm5iOXJsd2MtTHFSTjBLNmpnSjhtNzZENDNzRjlYMGtvcHlGVkZFUktiUjFkYXljM1pST3VlYmxOS0xXbHZFRnpOWUlIY0hOaFRKWEpSYjhvT1VXRElDVWNtUGFsN3ViUlk3VHVoZHlfb3VBRTlJc1FYUWN6REFVdHJmUlJYMFg2SU1OSnZ5eXRDcXZwcEVlR1g3TVQyZzJMQm1VdDg?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-03T22:43:47.010476-07:00"
+  },
+  {
+    "item": {
+      "company": "After raising $1B in funding",
+      "amount": "$1.0B",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/03/raising-1b-funding-valar-atomics-plans-mass-produce-small-nuclear-reactors-ai-industry/",
+      "priority": 7
+    },
+    "remind_at": "2026-08-03T22:43:49.904154-07:00"
+  },
+  {
+    "item": {
+      "company": "just",
+      "amount": "$310.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN2I2QjlKNDZtYW90bE9NaE1RaUppZ0NsY0Y1VFoxVm40WEY4SkYzLUYtbWcteHYxT29WTVBXazFXOTJYTUhoYThWcFlCSUFMN08xc2R0QzF6RGRkakMxVmJXbW4xNVMySFVPakN5YnpxVWtLQVE4UU84Z2czVUFwQlVsa2Jvc2Zzd1RlOUZ2NjU?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-03T22:43:52.176153-07:00"
+  }
+]
