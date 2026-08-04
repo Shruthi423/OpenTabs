@@ -1,5 +1,67 @@
 [
   {
+    "id": "3a15beea16dfe757e40935555e1e2fd9",
+    "company": "HPE brings quantum computing",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/04/quantum-hybrid-computing-hpeworldquantumday/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-04T13:21:43.284530-07:00",
+    "status": "active"
+  },
+  {
+    "id": "db51211b5f8be6fbbfc1e127ef1af8e2",
+    "company": "McDonald\u2019s CEO turns",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/04/mcdonalds-ceo-skye-anderson-us-market-president/",
+    "priority": 3,
+    "founders": [
+      "Chris Kempczinski"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-04T13:21:40.085506-07:00",
+    "status": "active"
+  },
+  {
+    "id": "c6665ffba328e12e76e26323a120edd9",
+    "company": "We \u2018contort\u2019 ourselves around computers",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/04/openai-president-greg-brockman-we-contort-ourselves-around-computers-clicking-and-typing-is-a-phase/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-04T13:21:36.648994-07:00",
+    "status": "active"
+  },
+  {
+    "id": "3290101435f9cc39ff145700f4c4355d",
+    "company": "Meet Wrinkles",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-04T13:21:33.384184-07:00",
+    "status": "active"
+  },
+  {
     "id": "53b1fa0c5c5d23be7a13b64bba43f4a4",
     "company": "Volta",
     "amount": "$2.4B",

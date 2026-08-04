@@ -1,72 +1,60 @@
 [
   {
     "item": {
-      "company": "RIME",
-      "amount": "$2.0M",
-      "stage": "Seed",
+      "company": "Meet Wrinkles",
+      "amount": null,
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdk9DamhRN3VhV3RockQwbWdnWEs2bTZyb2RlMlRYbnZBTnRIcC1vTzBEMm1ETklMX21PR1RDaG1qeHZqdEcwOUhiSnNYOEhPWnJFX3JQdzFiVzlzYXFNSElwaEtFdEF6Y29nNWh1LXhvSzZ1UlpGelpaNklSaE1kTE9R?oc=5",
-      "priority": 9
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "priority": 3
     },
-    "remind_at": "2026-08-04T12:21:11.070790-07:00"
+    "remind_at": "2026-08-04T13:51:32.383947-07:00"
   },
   {
     "item": {
-      "company": "Bessent\u2019s Yen gamble",
+      "company": "We \u2018contort\u2019 ourselves around computers",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/08/04/scott-bessent-yen-japan-intervention-big-player/",
+      "url": "https://fortune.com/2026/08/04/openai-president-greg-brockman-we-contort-ourselves-around-computers-clicking-and-typing-is-a-phase/",
       "priority": 3
     },
-    "remind_at": "2026-08-04T12:21:14.060446-07:00"
+    "remind_at": "2026-08-04T13:51:35.648790-07:00"
   },
   {
     "item": {
-      "company": "OpenAI",
-      "amount": "$3.2M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/04/trump-doj-openai-hiring-settlement",
-      "priority": 3
-    },
-    "remind_at": "2026-08-04T12:21:16.657698-07:00"
-  },
-  {
-    "item": {
-      "company": "Miller calls",
+      "company": "McDonald\u2019s CEO turns",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": "Washington",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/04/max-miller-ethics-probe-allegations",
+      "location": null,
+      "founders": [
+        "Chris Kempczinski"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/04/mcdonalds-ceo-skye-anderson-us-market-president/",
       "priority": 3
     },
-    "remind_at": "2026-08-04T12:21:20.217206-07:00"
+    "remind_at": "2026-08-04T13:51:39.085289-07:00"
   },
   {
     "item": {
-      "company": "Volta",
-      "amount": "$2.4B",
+      "company": "HPE brings quantum computing",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORVNKc2JqcmZfVzBfczJuMDFnREpKUl9xME1jNlMyckt5TUJJdmstdmZtZ2VmZThsbl9RWDJZNE9qV0Vtang2bzFObk8xTUl1b2taUnBTd0hBc3BvdXNONlNlbkNIZUVpblhrR2FYSXMwWmt6MHphbUhLRUxmZGZGZHRlVmhxc3hKZERHWFpYbTYxd1JzVmxXdlkxNXZIYWxSNjNYdlNBNWNJdWNzNi1QY1NJR1ZhMExRTWFUQzRR?oc=5",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/04/quantum-hybrid-computing-hpeworldquantumday/",
       "priority": 3
     },
-    "remind_at": "2026-08-04T12:21:22.501213-07:00"
+    "remind_at": "2026-08-04T13:51:42.284372-07:00"
   }
 ]
