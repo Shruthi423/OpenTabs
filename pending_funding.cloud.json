@@ -1,72 +1,198 @@
 [
   {
     "item": {
-      "company": "Wayy.ai",
-      "amount": "$2.0M",
+      "company": "Shiplog",
+      "amount": "$1.0M",
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/wayy-ai-raises-2m-pre-seed/",
+      "url": "https://www.thesaasnews.com/news/shiplog-raises-1m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-08-03T22:43:42.461762-07:00"
+    "remind_at": "2026-08-04T01:19:17.557411-07:00"
   },
   {
     "item": {
-      "company": "Addit&Arc",
-      "amount": null,
+      "company": "Blaze.tech",
+      "amount": "$5.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/blaze-tech-raises-5m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-04T01:19:20.400984-07:00"
+  },
+  {
+    "item": {
+      "company": "TurnStay",
+      "amount": "$2.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTGpMMVQyczI5X25ia0ZEWVh0aHZlaWliTUlkOUdwRnNEUDFkd0hkTU13NkdwSzVqLWM1MTFyVWRJWUF5bGhrdmJoS0pGbHhGN2gyOFoxTXFVYW11ekZPVXJFX0dxQ2J5U0VkR3pnSlpJajdJa25pM2JpaUs2NUxtWTFmM3g3WUhJc05wYU1qUDVuRUdwcVRkajJTd3NFRUxnTFF6MHJn?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/turnstay-raises-2m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-08-03T22:43:44.758858-07:00"
+    "remind_at": "2026-08-04T01:19:22.655043-07:00"
   },
   {
     "item": {
-      "company": "Profound",
-      "amount": null,
+      "company": "Actualyze AI",
+      "amount": "$7.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONDV6YmhwbE1TZFc3bmJsekRqSHZMN0ZuYjlybHdjLUxxUk4wSzZqZ0o4bTc2RDQzc0Y5WDBrb3B5RlZGRVJLYlIxZGF5YzNaUk91ZWJsTktMV2x2RUZ6TllJSGNITmhUSlhKUmI4b09VV0RJQ1VjbVBhbDd1YlJZN1R1aGR5X291QUU5SXNRWFFjekRBVXRyZlJSWDBYNklNTkp2eXl0Q3F2cHBFZUdYN01UMmcyTEJtVXQ40gG7AUFVX3lxTE40NXpiaHBsTVNkVzduYmx6RGpIdkw3Rm5iOXJsd2MtTHFSTjBLNmpnSjhtNzZENDNzRjlYMGtvcHlGVkZFUktiUjFkYXljM1pST3VlYmxOS0xXbHZFRnpOWUlIY0hOaFRKWEpSYjhvT1VXRElDVWNtUGFsN3ViUlk3VHVoZHlfb3VBRTlJc1FYUWN6REFVdHJmUlJYMFg2SU1OSnZ5eXRDcXZwcEVlR1g3TVQyZzJMQm1VdDg?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/actualyze-ai-raises-7m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-08-03T22:43:47.010476-07:00"
+    "remind_at": "2026-08-04T01:19:25.013258-07:00"
   },
   {
     "item": {
-      "company": "After raising $1B in funding",
-      "amount": "$1.0B",
+      "company": "Maximum",
+      "amount": "$30.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/maximum-technologies-inc-raises-30m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-04T01:19:27.331884-07:00"
+  },
+  {
+    "item": {
+      "company": "Ore Energy",
+      "amount": "$43.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": "Amsterdam",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/ore-energy-43m-series-a-iron-air-battery-ai/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-04T01:19:30.548937-07:00"
+  },
+  {
+    "item": {
+      "company": "OpenFX",
+      "amount": "$94.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/openfx-raises-94m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-04T01:19:32.754245-07:00"
+  },
+  {
+    "item": {
+      "company": "Superleap",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmVMdmxKOUk4Z1pwZGJrcTVKT1U1Y2FHazRFSnl5Y0drX0VrTV9WS2VTUjR1RnV0NkVmTXVEU1VoNm9aT1ZGU2h1OGtSOXU5Qnc4Z3g0aTBkZXJ3MC0tTDdmZGFaNGgxbzVHNmdHWFc0Y082SGs3aHhTbXZsbGR6Y3pOeHNqTmc3dTFQTGM4d2pDTzgzM3JmY2dHemhFMDJTM0ZFU2cwRWx6N2lK0gGsAUFVX3lxTE1iZUx2bEo5SThnWnBkYmtxNUpPVTVjYUdrNEVKeXljR2tfRWtNX1ZLZVNSNHVGdXQ2RWZNdURTVWg2b1pPVkZTaHU4a1I5dTlCdzhneDRpMGRlcncwLS1MN2ZkYVo0aDFvNUc2Z0dYVzRjTzZIazdoeFNtdmxsZHpjek54c2pOZzd1MVBMYzh3akNPODMzcmZjZ0d6aEUwMlMzRkVTZzBFbHo3aUo?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-08-04T01:19:35.134908-07:00"
+  },
+  {
+    "item": {
+      "company": "Inocras",
+      "amount": "$31.0M",
       "stage": "Series B",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/03/raising-1b-funding-valar-atomics-plans-mass-produce-small-nuclear-reactors-ai-industry/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/inocras-inc-raises-31m-series-b-3/",
       "priority": 7
     },
-    "remind_at": "2026-08-03T22:43:49.904154-07:00"
+    "remind_at": "2026-08-04T01:19:37.352978-07:00"
   },
   {
     "item": {
-      "company": "just",
-      "amount": "$310.0M",
+      "company": "X Mile Co.",
+      "amount": null,
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/x-mile-co-ltd-raises-3-17b-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-08-04T01:19:40.417447-07:00"
+  },
+  {
+    "item": {
+      "company": "Plata",
+      "amount": "$405.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/plata-raises-405m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-08-04T01:19:42.738944-07:00"
+  },
+  {
+    "item": {
+      "company": "OpenAI\u2019s Greg Brockman gave $5.5 million",
+      "amount": "$5.5M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN2I2QjlKNDZtYW90bE9NaE1RaUppZ0NsY0Y1VFoxVm40WEY4SkYzLUYtbWcteHYxT29WTVBXazFXOTJYTUhoYThWcFlCSUFMN08xc2R0QzF6RGRkakMxVmJXbW4xNVMySFVPakN5YnpxVWtLQVE4UU84Z2czVUFwQlVsa2Jvc2Zzd1RlOUZ2NjU?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/04/jackie-bald-eagle-greg-brockman-openai-5-5-million-donation-fundraiser-philanthropy/",
       "priority": 3
     },
-    "remind_at": "2026-08-03T22:43:52.176153-07:00"
+    "remind_at": "2026-08-04T01:19:45.925427-07:00"
+  },
+  {
+    "item": {
+      "company": "teams",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "London",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/solo-founders-startup-data-capital-efficiency-unrest/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-04T01:19:48.134942-07:00"
+  },
+  {
+    "item": {
+      "company": "RevealDx",
+      "amount": "$3.4M",
+      "stage": null,
+      "investors": null,
+      "location": "Strategic Investment Seattle",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/revealdx-raises-3-4m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-04T01:19:50.333053-07:00"
   }
 ]
