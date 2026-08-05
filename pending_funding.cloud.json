@@ -1,16 +1,44 @@
 [
   {
     "item": {
-      "company": "Quitely Builds Big Business",
+      "company": "Elon Musk delivers \u2018totally nuts\u2019 plans",
       "amount": null,
+      "stage": null,
+      "investors": "choked on the rapidly rising capital expenditures",
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/04/elon-musk-spacex-earnings-trillion-revenue-target-capex-stock-reaction/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-04T20:27:33.979752-07:00"
+  },
+  {
+    "item": {
+      "company": "Airtable",
+      "amount": "$1.285B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPajdiV0FWWUQzc2h1VnlpYVp2U0I3WGpNeXNvRUxjdDBiSlRjVXZEUmxDbmpCZ1lYYk5wWFBHcVJ4THpiLTItTXAzQ2Npb0hYR3llcWRZbEppaFVJVUR1am1xdkFnOVVwYlpzallyMWFSa1VhSmpkSDdCQVc0NUxyeDItU1RFRHNzLVFMbDJGNDhteDhzNzFfM2dDb2VxdzNqc2RNdGhlbHQ0NkJoZWc?oc=5",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/04/bending-spoons-acquire-productivity-software-startup-airtable-1-285b/",
       "priority": 3
     },
-    "remind_at": "2026-08-04T17:30:44.281858-07:00"
+    "remind_at": "2026-08-04T20:27:39.969048-07:00"
+  },
+  {
+    "item": {
+      "company": "Man arrested near Trump golf course",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Los Angeles",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/05/trump-golf-course-arrest-la",
+      "priority": 3
+    },
+    "remind_at": "2026-08-04T20:27:43.157665-07:00"
   }
 ]

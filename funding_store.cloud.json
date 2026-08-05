@@ -35797,5 +35797,61 @@
     "roles": [],
     "first_seen": "2026-08-04T17:00:45.282026-07:00",
     "status": "active"
+  },
+  "5fe53919ec89749659fc1d407d550287": {
+    "id": "5fe53919ec89749659fc1d407d550287",
+    "company": "Elon Musk delivers \u2018totally nuts\u2019 plans",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "choked on the rapidly rising capital expenditures",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/04/elon-musk-spacex-earnings-trillion-revenue-target-capex-stock-reaction/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-04T19:57:34.979916-07:00",
+    "status": "active"
+  },
+  "1a1d364003aaacd4d73902218e7b9a2a": {
+    "id": "1a1d364003aaacd4d73902218e7b9a2a",
+    "company": "Airtable",
+    "amount": "$1.285B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/04/bending-spoons-acquire-productivity-software-startup-airtable-1-285b/",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco, CA; New York, NY",
+    "roles": [
+      {
+        "title": "Design Technologist",
+        "url": "https://job-boards.greenhouse.io/airtable/jobs/8455969002",
+        "location": "San Francisco, CA; New York, NY"
+      },
+      {
+        "title": "Product Designer (8+ YOE)",
+        "url": "https://job-boards.greenhouse.io/airtable/jobs/8400776002",
+        "location": "San Francisco, CA"
+      }
+    ],
+    "first_seen": "2026-08-04T19:57:40.969210-07:00",
+    "status": "active"
+  },
+  "990f2bb0167d1df723b42b8810a970b9": {
+    "id": "990f2bb0167d1df723b42b8810a970b9",
+    "company": "Man arrested near Trump golf course",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/05/trump-golf-course-arrest-la",
+    "priority": 3,
+    "founders": [],
+    "location": "Los Angeles",
+    "roles": [],
+    "first_seen": "2026-08-04T19:57:44.157817-07:00",
+    "status": "active"
   }
 }
