@@ -1,5 +1,76 @@
 [
   {
+    "id": "65ba2a6467661540d3f242718574491b",
+    "company": "Figma",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3U5SXdPTDM2SEtfd3FfVDJhWDVBT1RwS1hkaC1mRjQ1RDd1X2JVUWJHMEg3clhNUUh2Ym12TDB2OU5QUlN0cUFqY193aTVtWU01QmtDaVVvaGRWbDduV1RQUGVmTHBaSmhXUFZCQ0t6N2RZWS1mTEExYXN6ZGNHakNiUzBGLWZNUFZhZWp3Q2VBcWp3bVJiS0lNVWJWRE9YN0RaOUFudw?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "roles": [
+      {
+        "title": "Motion Designer",
+        "url": "https://boards.greenhouse.io/figma/jobs/6117563004?gh_jid=6117563004",
+        "location": "San Francisco, CA \u2022 New York, NY \u2022 United States"
+      },
+      {
+        "title": "Product Designer, AI Models",
+        "url": "https://boards.greenhouse.io/figma/jobs/5711913004?gh_jid=5711913004",
+        "location": "San Francisco, CA \u2022 New York, NY \u2022 United States"
+      },
+      {
+        "title": "Product Designer, CMS",
+        "url": "https://boards.greenhouse.io/figma/jobs/6126976004?gh_jid=6126976004",
+        "location": "San Francisco, CA \u2022 New York, NY \u2022 United States"
+      },
+      {
+        "title": "Product Designer, Design, Dev, & AI Tools",
+        "url": "https://boards.greenhouse.io/figma/jobs/5711468004?gh_jid=5711468004",
+        "location": "San Francisco, CA \u2022 New York, NY \u2022 United States"
+      },
+      {
+        "title": "Product Designer, Growth & Monetization",
+        "url": "https://boards.greenhouse.io/figma/jobs/5711595004?gh_jid=5711595004",
+        "location": "San Francisco, CA \u2022 New York, NY \u2022 United States"
+      }
+    ],
+    "first_seen": "2026-08-05T09:52:33.241735-07:00",
+    "status": "active"
+  },
+  {
+    "id": "6789b6a9aefc956478a6798ee5a29e62",
+    "company": "SkinBit",
+    "amount": "$6.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/08/05/skinbit-raises-6m-to-bring-20-minute-full-body-skin-cancer-screening-to-clinics-across-america/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-05T09:52:30.831007-07:00",
+    "status": "active"
+  },
+  {
+    "id": "ef91cdc8ea0a09a4a1e8ba679477bc5c",
+    "company": "Rep. Thanedar loses",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/local/detroit/2026/08/05/donavan-mckinney-defeats-shri-thanedar-in-michigans-13th-district-democratic-primary",
+    "priority": 3,
+    "founders": [],
+    "location": "Detroit",
+    "roles": [],
+    "first_seen": "2026-08-05T09:52:28.372704-07:00",
+    "status": "active"
+  },
+  {
     "id": "7dc92f58aa2afca896052a032a1c271b",
     "company": "Volta",
     "amount": "$5.4M",
