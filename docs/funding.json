@@ -1,5 +1,102 @@
 [
   {
+    "id": "7dc92f58aa2afca896052a032a1c271b",
+    "company": "Volta",
+    "amount": "$5.4M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0xHSG9kb1diTVpOTFFWWEJGM0tDc1F3RDZwTlpZUTgwXzRUZFlWT0pDV1V2SWV1SWwyT3dxbDBqd1NGWTZTdHhSMGFvSU9SRkE0dTdNNWVxajlyRVc1alA3c0ZvQWNuMFpoamZTTUNOOHZDRlU0NDdsN0dZWWo4N1VXb2lBeUpJQzVadV9USGlaUi1F?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "UX Designer",
+        "url": "https://jobs.ashbyhq.com/volta/b98857b1-a800-44a3-a6df-7b16f4456f06",
+        "location": "Remote"
+      },
+      {
+        "title": "UX Researcher",
+        "url": "https://jobs.ashbyhq.com/volta/1eb56494-2e2b-4969-a748-4e361f5fe5ca",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-08-05T08:11:24.822860-07:00",
+    "status": "active"
+  },
+  {
+    "id": "781817c34d021089b5ae061fa29fbcae",
+    "company": "Airtable Just Sold",
+    "amount": "$2.25B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SaaStr",
+    "url": "https://www.saastr.com/airtable-just-sold-for-2-25b-at-2-7x-arr-it-raised-1-4b-and-was-once-worth-11-7b/",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco, CA; New York, NY",
+    "roles": [
+      {
+        "title": "Design Technologist",
+        "url": "https://job-boards.greenhouse.io/airtable/jobs/8455969002",
+        "location": "San Francisco, CA; New York, NY"
+      },
+      {
+        "title": "Product Designer (8+ YOE)",
+        "url": "https://job-boards.greenhouse.io/airtable/jobs/8400776002",
+        "location": "San Francisco, CA"
+      }
+    ],
+    "first_seen": "2026-08-05T08:11:22.568769-07:00",
+    "status": "active"
+  },
+  {
+    "id": "fb5032e1e7511770656e3760381865a6",
+    "company": "Tuesday's primary takeaways",
+    "amount": "$65.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/05/democrats-senate-michigan-el-sayed-stevens",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-08-05T08:11:19.657198-07:00",
+    "status": "active"
+  },
+  {
+    "id": "389c1c5e8cf9bd0017a76c985c142501",
+    "company": "Noa Khamallah",
+    "amount": "$10.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/05/noa-khamallah-was-a-street-kid-and-convict-now-his-10-million-fund-is-taking-on-mega-vcs/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-05T08:11:16.725401-07:00",
+    "status": "active"
+  },
+  {
+    "id": "ec87a64a7ac68244bd1481493be93ea3",
+    "company": "Kairos",
+    "amount": "$2.5M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/02/03/kairos-which-is-building-a-cross-platform-tool-for-prediction-markets-traders-raises-2-5-million-from-a16z-crypto/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-05T08:11:13.729917-07:00",
+    "status": "active"
+  },
+  {
     "id": "ede8ac0a07d44d886688ae3cd727d755",
     "company": "Shelfmark",
     "amount": "$3.5M",
