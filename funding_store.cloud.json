@@ -36512,5 +36512,50 @@
     ],
     "first_seen": "2026-08-05T09:52:33.241735-07:00",
     "status": "active"
+  },
+  "d2f381864ac73630347cadb6733c5cf6": {
+    "id": "d2f381864ac73630347cadb6733c5cf6",
+    "company": "Apollo CEO has a $11.1 billion",
+    "amount": "$11.1B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/05/before-becoming-ceo-79-billion-wall-street-giant-apollo-marc-rowan-worked-at-party-store-valet-lot-kosher-caterer/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-05T11:17:19.220160-07:00",
+    "status": "active"
+  },
+  "a4dced272225bf6d40dc388a33b6e41e": {
+    "id": "a4dced272225bf6d40dc388a33b6e41e",
+    "company": "Elon Musk delivers \u2018totally nuts\u2019 plan",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "choked on the rapidly rising capital expenditures",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/04/elon-musk-spacex-earnings-trillion-revenue-target-capex-stock-reaction/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-05T11:17:22.077525-07:00",
+    "status": "active"
+  },
+  "7dc3aef48e30031e4e0d2116c341bc68": {
+    "id": "7dc3aef48e30031e4e0d2116c341bc68",
+    "company": "Finland\u2019s ICEYE",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/08/05/finlands-iceye-raises-e1-billion-at-over-e10-billion-valuation-to-expand-its-radar-satellite-network/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-05T11:17:24.949593-07:00",
+    "status": "active"
   }
 }

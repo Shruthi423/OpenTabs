@@ -1,44 +1,44 @@
 [
   {
     "item": {
-      "company": "Rep. Thanedar loses",
-      "amount": null,
+      "company": "Apollo CEO has a $11.1 billion",
+      "amount": "$11.1B",
       "stage": null,
       "investors": null,
-      "location": "Detroit",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/local/detroit/2026/08/05/donavan-mckinney-defeats-shri-thanedar-in-michigans-13th-district-democratic-primary",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/05/before-becoming-ceo-79-billion-wall-street-giant-apollo-marc-rowan-worked-at-party-store-valet-lot-kosher-caterer/",
       "priority": 3
     },
-    "remind_at": "2026-08-05T10:22:27.372526-07:00"
+    "remind_at": "2026-08-05T11:47:18.219967-07:00"
   },
   {
     "item": {
-      "company": "SkinBit",
-      "amount": "$6.0M",
+      "company": "Elon Musk delivers \u2018totally nuts\u2019 plan",
+      "amount": null,
+      "stage": null,
+      "investors": "choked on the rapidly rising capital expenditures",
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/04/elon-musk-spacex-earnings-trillion-revenue-target-capex-stock-reaction/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-05T11:47:21.077333-07:00"
+  },
+  {
+    "item": {
+      "company": "Finland\u2019s ICEYE",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/05/skinbit-raises-6m-to-bring-20-minute-full-body-skin-cancer-screening-to-clinics-across-america/",
+      "url": "https://techstartups.com/2026/08/05/finlands-iceye-raises-e1-billion-at-over-e10-billion-valuation-to-expand-its-radar-satellite-network/",
       "priority": 3
     },
-    "remind_at": "2026-08-05T10:22:29.830867-07:00"
-  },
-  {
-    "item": {
-      "company": "Figma",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3U5SXdPTDM2SEtfd3FfVDJhWDVBT1RwS1hkaC1mRjQ1RDd1X2JVUWJHMEg3clhNUUh2Ym12TDB2OU5QUlN0cUFqY193aTVtWU01QmtDaVVvaGRWbDduV1RQUGVmTHBaSmhXUFZCQ0t6N2RZWS1mTEExYXN6ZGNHakNiUzBGLWZNUFZhZWp3Q2VBcWp3bVJiS0lNVWJWRE9YN0RaOUFudw?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-05T10:22:32.241582-07:00"
+    "remind_at": "2026-08-05T11:47:23.949431-07:00"
   }
 ]
