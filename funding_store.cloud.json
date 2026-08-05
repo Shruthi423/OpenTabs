@@ -36647,5 +36647,35 @@
     "roles": [],
     "first_seen": "2026-08-05T14:32:48.620376-07:00",
     "status": "active"
+  },
+  "3c4dd91dd8ce189144516cbffebbb684": {
+    "id": "3c4dd91dd8ce189144516cbffebbb684",
+    "company": "\u2018You never bet against Elon\u2019",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/05/spacex-lockup-expiration-index-inclusion-bailout-luria/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-05T15:42:31.385399-07:00",
+    "status": "active"
+  },
+  "31405c960671a92fb798c4d3beae4f8a": {
+    "id": "31405c960671a92fb798c4d3beae4f8a",
+    "company": "Trump deportations cost taxpayers $2",
+    "amount": "$268.9B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/05/trump-deportation-costs-taxpayers",
+    "priority": 3,
+    "founders": [],
+    "location": "Washington",
+    "roles": [],
+    "first_seen": "2026-08-05T15:42:34.343328-07:00",
+    "status": "active"
   }
 }
