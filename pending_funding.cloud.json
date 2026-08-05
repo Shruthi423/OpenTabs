@@ -1,198 +1,156 @@
 [
   {
     "item": {
-      "company": "Italy\u2019s pre-seed market",
+      "company": "conmeet",
       "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
+      "stage": "Seed",
+      "investors": "Reimann Investors and Smedvig Ventures to expand its AI operating system",
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/italy-pre-seed-vc-funding-decline-2026/",
-      "priority": 10
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/conmeet-raises-6m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-08-05T01:39:34.813494-07:00"
+    "remind_at": "2026-08-05T04:17:01.074715-07:00"
   },
   {
     "item": {
-      "company": "Rivo",
-      "amount": "$2.7M",
+      "company": "Hulp",
+      "amount": "$2.6M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/rivo-raises-2-7m-seed/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVjMyV2lQSTB1bVh0akdZSWRtQmJiRzhoNDN3cFF6amVSZjFscld1Uk9MX1p1bUxyYWZ0VGExb04yekRhRDkzOXNUUWpDeFVOY3puWEctblZxTnE5Z1lON0hBQWl5RUJOQjBDbFFwUXFHZk5vb1JwaURpTnpxUkFmM3p2LVVfcEVYaGY3VVFLcWNSUURsNkRjcXZVUzl5NjktdTk5SVAwYWkzT0FTZGJ0bjV1czJXU3h2TXNpQnFLS2IxUkc0NmMtNk1HNDd2aU1PUTlaNXBhYVk4aTBHR3YzV3JnM25UZmd4ZmfSAe8BQVVfeXFMTndhZmFKVW5FODhHQmVOSU5RMVAzWFFBSVV0SFNRUlBEQ3ZNMGFiVFBUQ1RBMlUyQ01MNGtKbkV6N3k0RDBqcUR4T3dyWkJ3QkMyYXY1TEVJdkcweUVsVGZRb2hSanZVcms2aHd5eFdTQVg4aklRd09qYklkcnIxVVdLeUVpaW8yX3RqUnF3bHBMOGRtd0JTWlg4T3N5cVBPU2ZISEVSc2N1U1htUTlEYXRRaHo1aUF5NmZTYzEzMVlHa3I5SS03VHh3TzhKVkRScmt4RVVJQWRLOHRxV3k5cURJV2JpNTU3Vk5WVGVFZDQ?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-08-05T01:39:37.243404-07:00"
-  },
-  {
-    "item": {
-      "company": "RWX",
-      "amount": "$12.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/rwx-raises-12m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-08-05T01:39:39.885573-07:00"
-  },
-  {
-    "item": {
-      "company": "Vaaree",
-      "amount": "$6.8M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/vaaree-raises-6-8m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-08-05T01:39:42.664861-07:00"
-  },
-  {
-    "item": {
-      "company": "Buzz Solutions",
-      "amount": "$20.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/buzz-solutions-raises-20m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-08-05T01:39:46.081488-07:00"
+    "remind_at": "2026-08-05T04:17:03.699117-07:00"
   },
   {
     "item": {
       "company": "InRisk Labs",
-      "amount": "$27.0M",
+      "amount": null,
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFdfaUl6QkZuRXVhbUNDZFFyR2hqdEVEd2hSbGJQbDNYZU9OTWlDc3FkN3BScWQyNHhuMDlSREpYVXR0VFdnTW05VW1zY0pueVBLRU5ib0ZLcnJHdUFpVEJFTV9rNURmZEh2UVVhSDZqcFhjZGVFcXIzb19wZ1QzUXBjam1zT1gxWE9teE1nbjE5T2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaXRuaUtEWWNadXBEbG1QTUlwRlNGYldCTEVxeEdyRVZvSTlMN3FGOHI1cWFrUDMxc191QjVRUUVOTVlPYmlVdUc5OVROdnlZSERBZW9tQ2ZDaTEyMExJb09WeXlQc1VaYUt1di1qTkE2eThXcGpYcklWU0YzZUp6UHItc1dueGhrLXFZYkZFdVBDS2xGcGdMTHhsNWFUenBYUXdMYTJJUHVXR05ldUgtWkpLSEhaWXNSOUp6VkZza2VESVZMMHMxTHdPUXQ?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-08-05T01:39:48.679537-07:00"
+    "remind_at": "2026-08-05T04:17:06.137080-07:00"
   },
   {
     "item": {
-      "company": "Convex",
-      "amount": "$57.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/convex-raises-57m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-08-05T01:39:51.183306-07:00"
-  },
-  {
-    "item": {
-      "company": "Gen Z\u2019s anti-capitalist brand",
-      "amount": null,
+      "company": "Bill Ackman channels Warren Buffett",
+      "amount": "$64.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/08/05/gen-z-anticapitalism-consumer-spending-side-hustle/",
+      "url": "https://fortune.com/2026/04/08/bill-ackman-channels-warren-buffett-64-billion-bid-universal-music-group/",
       "priority": 3
     },
-    "remind_at": "2026-08-05T01:39:54.587767-07:00"
+    "remind_at": "2026-08-05T04:17:09.461291-07:00"
   },
   {
     "item": {
-      "company": "Volta",
-      "amount": "$300.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/volta-raises-300m-at-2-4b-valuation-with-nvidia-and-dell-backing/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-05T01:39:57.007513-07:00"
-  },
-  {
-    "item": {
-      "company": "Polymarket in talks",
-      "amount": "$1.0B",
-      "stage": null,
-      "investors": null,
-      "location": "US",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/polymarket-in-talks-to-raise-1b-at-20b-valuation-four-months-after-15b-valuation-round/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-05T01:40:00.319700-07:00"
-  },
-  {
-    "item": {
-      "company": "GetVantage",
+      "company": "Bill Ackman told spooked investors",
       "amount": null,
       "stage": null,
-      "investors": "Rajeev Ahuja and SanRaj Group to scale its B2B fintech lending platform for Indian MSMEs",
+      "investors": "to get over the Iran war and buy Fannie and Freddie",
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/getvantage-raises-63cr-series-a1/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/03/30/bill-ackman-says-ignore-iran-war-fannie-mae-freddie-mac-stock-surge/",
       "priority": 3
     },
-    "remind_at": "2026-08-05T01:40:02.757167-07:00"
+    "remind_at": "2026-08-05T04:17:12.640254-07:00"
   },
   {
     "item": {
-      "company": "Relu",
-      "amount": "$1.75M",
+      "company": "Billionaire Bill Ackman",
+      "amount": "$8.17B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/relu-raises-1-75m-strategic-investment/",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/frugal-billionaires-bill-ackman-warren-buffett-lucy-guo/",
       "priority": 3
     },
-    "remind_at": "2026-08-05T01:40:05.362897-07:00"
+    "remind_at": "2026-08-05T04:17:15.839886-07:00"
   },
   {
     "item": {
-      "company": "Yellow Card",
-      "amount": "$40.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/yellow-card-raises-40m-unknown/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-05T01:40:08.915265-07:00"
-  },
-  {
-    "item": {
-      "company": "MOZN",
+      "company": "Rep. Chuck Edwards drops re-election bid",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/mozn-raises-strategic-investment-from-humain/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/05/chuck-edwards-reelection-censure-harassment",
       "priority": 3
     },
-    "remind_at": "2026-08-05T01:40:11.461543-07:00"
+    "remind_at": "2026-08-05T04:17:19.080131-07:00"
+  },
+  {
+    "item": {
+      "company": "Investors can't stop believing",
+      "amount": "$800.0B",
+      "stage": null,
+      "investors": "massive gains from some of those same tech giants after Microsoft, Amazon and Alphabet each reported their quarterly results",
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/05/ai-stocks-sp-500-high",
+      "priority": 3
+    },
+    "remind_at": "2026-08-05T04:17:22.298997-07:00"
+  },
+  {
+    "item": {
+      "company": "Trump's golden age reality check",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Atlanta",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/05/gdp-growth-trump-golden-age-predictions",
+      "priority": 3
+    },
+    "remind_at": "2026-08-05T04:17:37.699265-07:00"
+  },
+  {
+    "item": {
+      "company": "Delightree",
+      "amount": "$25.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/delightree-raises-25m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-05T04:17:40.166930-07:00"
+  },
+  {
+    "item": {
+      "company": "JIJ",
+      "amount": "$5.2M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/jij-inc-raises-5-2m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-05T04:17:42.728299-07:00"
   }
 ]
