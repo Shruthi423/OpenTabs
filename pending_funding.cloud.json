@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "Elon Musk delivers \u2018totally nuts\u2019 plans",
-      "amount": null,
-      "stage": null,
-      "investors": "choked on the rapidly rising capital expenditures",
+      "company": "Strattum",
+      "amount": "$3.2M",
+      "stage": "Pre-Seed",
+      "investors": "Maya Capital and ONEVC to expand its AI infrastructure platform into international markets",
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/04/elon-musk-spacex-earnings-trillion-revenue-target-capex-stock-reaction/",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/strattum-raises-3-2m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-08-04T20:27:33.979752-07:00"
+    "remind_at": "2026-08-04T23:13:53.182025-07:00"
   },
   {
     "item": {
-      "company": "Airtable",
-      "amount": "$1.285B",
-      "stage": null,
+      "company": "Adiabatic Technologies",
+      "amount": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/04/bending-spoons-acquire-productivity-software-startup-airtable-1-285b/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaE1LMEN0c0tkcTE3dnptdFNLTXVLQl9YLWdvUklGUDFoUDh6M1RiZGxhc0h5bzJkekV1d09TSUJfWG8yYklWY2RzT3ZKLUt2T2VRNW5xZ215MWZ4bmNqT05EWkQ3dllfUDhjSGJTak1ZR0U5Q19PMFhrRGhMMC1iQUFSSTBsb25aYUJ5a0tuWmlrTlNpX2kwVHNRaTJSdjJwWFFpOHdiMjBrdXdSbzRUUzBtdHFrMmvSAbcBQVVfeXFMUGhNSzBDdHNLZHExN3Z6bXRTS011S0JfWC1nb1JJRlAxaFA4ejNUYmRsYXNIeW8yZHpFdXdPU0lCX1hvMmJJVmNkc092Si1Ldk9lUTVucWdteTFmeG5jak9ORFpEN3ZZX1A4Y0hiU2pNWUdFOUNfTzBYa0RoTDAtYkFBUkkwbG9uWmFCeWtLblppa05TaV9pMFRzUWkyUnYycFhRaTh3YjIwa3V3Um80VFMwbXRxazJr?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-08-04T20:27:39.969048-07:00"
-  },
-  {
-    "item": {
-      "company": "Man arrested near Trump golf course",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Los Angeles",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/05/trump-golf-course-arrest-la",
-      "priority": 3
-    },
-    "remind_at": "2026-08-04T20:27:43.157665-07:00"
+    "remind_at": "2026-08-04T23:13:55.479716-07:00"
   }
 ]
