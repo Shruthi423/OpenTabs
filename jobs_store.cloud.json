@@ -10899,5 +10899,41 @@
     "first_seen": "2026-08-05T15:42:09.670457-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "03c382a626d4b3cd8774492b6d9b3198": {
+    "id": "03c382a626d4b3cd8774492b6d9b3198",
+    "title": "Product Designer",
+    "company": "Figma",
+    "location": "Remote",
+    "salary": "$169,000 - $303,000",
+    "url": "https://uiuxjobsboard.com/job/1551126-remote-united-states-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "posted_at": "4h",
+    "priority": 5,
+    "first_seen": "2026-08-06T05:17:34.936197-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "ffba423d5d77485bc0b6b4208ee86716": {
+    "id": "ffba423d5d77485bc0b6b4208ee86716",
+    "title": "Product Designer",
+    "company": "Gismart",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1550326-remote-ukraine-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "5h",
+    "priority": 5,
+    "first_seen": "2026-08-06T05:17:36.473817-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
