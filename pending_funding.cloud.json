@@ -1,114 +1,186 @@
 [
   {
     "item": {
-      "company": "Worldscape",
-      "amount": "$10.0M",
+      "company": "megli Inc.",
+      "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/worldscape-raises-10m-seed-extension/",
+      "url": "https://www.thesaasnews.com/news/megli-inc-raises-100-million-seed/",
       "priority": 9
     },
-    "remind_at": "2026-08-06T00:48:11.928658-07:00"
+    "remind_at": "2026-08-06T03:37:09.096086-07:00"
   },
   {
     "item": {
-      "company": "Proxy Foods AI",
-      "amount": "$6.0M",
+      "company": "Comfo Labs",
+      "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/proxy-foods-ai-raises-6m-seed/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tRXZSaGZHQXkzN1VTSHlQRkhLX21OWmR1bEpCbVVJMF82ZE9qUk1ZX0JiWnJhMmhmUDNVc3FxTkFRX3RycW1WeU9YSUhWaTZjTFlN?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-08-06T00:48:15.416851-07:00"
+    "remind_at": "2026-08-06T03:37:11.671033-07:00"
   },
   {
     "item": {
-      "company": "Pinegap",
-      "amount": "$8.0M",
+      "company": "Mitti Labs",
+      "amount": null,
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pinegap-raises-8m-series-a/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZkt5M2g3TEllZ0tzVS1UODdPb01fSnpfS1MwV2JfdVg5NUF2ZDBMNWxWdk5mNXpCQUp2WEY0YnVhS1ljX2Y5a19VcUFJd0lhRTN4QmI2ZHR2YXFTTkJiVUdYYTFYUnQzUUl0RzdHMHk0SGZEdFpmeVNYUzgwdlp6cVFFWDZueTRNVEgxSkYyckR2VlVGUlZHdlFON1h5LWF6V2pSZ1VQZ0RYYmpzeVdnVnBzQU05Z2JzUjZ3Y053?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-08-06T00:48:17.990742-07:00"
+    "remind_at": "2026-08-06T03:37:14.229524-07:00"
   },
   {
     "item": {
-      "company": "Ambrook",
-      "amount": "$30.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ambrook-raises-30m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-08-06T00:48:20.568163-07:00"
-  },
-  {
-    "item": {
-      "company": "MagicSchool",
-      "amount": "$45.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/magicschool-raises-45m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-08-06T00:48:23.176979-07:00"
-  },
-  {
-    "item": {
-      "company": "WindBorne Systems",
-      "amount": "$37.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/windborne-systems-raises-37m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-08-06T00:48:26.545794-07:00"
-  },
-  {
-    "item": {
-      "company": "Faye",
-      "amount": "$50.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/faye-raises-50m-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-08-06T00:48:29.181326-07:00"
-  },
-  {
-    "item": {
-      "company": "Moss",
+      "company": "Consint.AI",
       "amount": null,
-      "stage": "Series C",
+      "stage": "Series A",
       "investors": null,
-      "location": "Berlin",
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ3lzemxWU0FhQ1RVRS1CT1EtTl95TzZ0REZUd3Q2aWFLbW51RHFaQUlsQzF5Mzd4Z2Myd3cxYkwybXFfSk1oTVV1ZHh2WXBMQnBkbkZGVXRIbTlRYjRNQmpuTThSUXB4V3NwWTZETE5TTnJhbWlkOGNwaU1ibklqcUg1dW5vWEgzaGFTU19Cal9rQlltaGNtd2lwOGZ4ZzNEeFlHZGhxONIBpwFBVV95cUxOZ3lzemxWU0FhQ1RVRS1CT1EtTl95TzZ0REZUd3Q2aWFLbW51RHFaQUlsQzF5Mzd4Z2Myd3cxYkwybXFfSk1oTVV1ZHh2WXBMQnBkbkZGVXRIbTlRYjRNQmpuTThSUXB4V3NwWTZETE5TTnJhbWlkOGNwaU1ibklqcUg1dW5vWEgzaGFTU19Cal9rQlltaGNtd2lwOGZ4ZzNEeFlHZGhxOA?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-08-06T03:37:16.631707-07:00"
+  },
+  {
+    "item": {
+      "company": "Acrab",
+      "amount": "$130.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/moss-raises-30m-series-c/",
+      "url": "https://www.thesaasnews.com/news/acrab-raises-130m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-08-06T03:37:19.062849-07:00"
+  },
+  {
+    "item": {
+      "company": "AI's architects",
+      "amount": null,
+      "stage": null,
+      "investors": "Khosla Ventures and Radical Ventures",
+      "location": "Washington",
+      "founders": [
+        "Demis Hassabis"
+      ],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/06/ai-singularity-intelligence-explosion",
       "priority": 6
     },
-    "remind_at": "2026-08-06T00:48:31.746237-07:00"
+    "remind_at": "2026-08-06T03:37:22.470932-07:00"
+  },
+  {
+    "item": {
+      "company": "Inside Ally Financial\u2019s strategy",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/article/the-machine-readable-brand-inside-ally-financials-strategy-to-win-ai-search-recommendations/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-06T03:37:25.734198-07:00"
+  },
+  {
+    "item": {
+      "company": "Climate change",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Seattle",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/06/climate-change-fueling-wildfire-risk-anxiety",
+      "priority": 3
+    },
+    "remind_at": "2026-08-06T03:37:28.987673-07:00"
+  },
+  {
+    "item": {
+      "company": "Sequoia doubles down",
+      "amount": "$10.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/sequoia-capital-10b-ai-fund/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-06T03:37:32.258391-07:00"
+  },
+  {
+    "item": {
+      "company": "European AI funding",
+      "amount": "$23.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/european-ai-funding-23b-us-gap-2026/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-06T03:37:35.623058-07:00"
+  },
+  {
+    "item": {
+      "company": "VisaDoc",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/visadoc-raises-six-figure-amount-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-06T03:37:38.095821-07:00"
+  },
+  {
+    "item": {
+      "company": "Ordway",
+      "amount": "$20.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ordway-raises-20m-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-06T03:37:40.715543-07:00"
+  },
+  {
+    "item": {
+      "company": "Armed",
+      "amount": "$10.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPekVpOV9WWE1ka1pXZUdwMFJ5dnZ3ZjNHcWlFdmo5b3VhckxZamZrQWkxODNGU0c5VnliZGQ5MjVzV2VnRU9HVmdXOTB2MW5uVFp6Yy1YVDdHa2JaM1NoNkt1TWZlakN1UUdsT0o0WnAzSlUwQlEzWV9jSlVZVjlQTXpyQVpiY1lCMUhGZWdSMk5CSW15Nlc3Wmc2Z0NjYjdaZWc?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-06T03:37:44.698798-07:00"
   }
 ]
