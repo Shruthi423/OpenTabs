@@ -1,16 +1,114 @@
 [
   {
     "item": {
-      "company": "Othello",
-      "amount": "$6.85M",
+      "company": "Worldscape",
+      "amount": "$10.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN0VsZTFQMUJTMGJ0U3ltaTBVWVhvVi0xZl9TU25OSDdvc0ZUT25KYWdJT093OWxVTlg5TzZpVFpkOW1WMHhWcjBwbFdZb200clJQblpxb3ItamJybjVSMDdJS3RYNkpaNnR2UldvT1dNcWRvQjJCR3BKLWhERGw0eVJoTkJ4Mjl1WEIxUWl3?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/worldscape-raises-10m-seed-extension/",
       "priority": 9
     },
-    "remind_at": "2026-08-05T22:00:10.396975-07:00"
+    "remind_at": "2026-08-06T00:48:11.928658-07:00"
+  },
+  {
+    "item": {
+      "company": "Proxy Foods AI",
+      "amount": "$6.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/proxy-foods-ai-raises-6m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-06T00:48:15.416851-07:00"
+  },
+  {
+    "item": {
+      "company": "Pinegap",
+      "amount": "$8.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/pinegap-raises-8m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-06T00:48:17.990742-07:00"
+  },
+  {
+    "item": {
+      "company": "Ambrook",
+      "amount": "$30.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ambrook-raises-30m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-08-06T00:48:20.568163-07:00"
+  },
+  {
+    "item": {
+      "company": "MagicSchool",
+      "amount": "$45.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/magicschool-raises-45m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-08-06T00:48:23.176979-07:00"
+  },
+  {
+    "item": {
+      "company": "WindBorne Systems",
+      "amount": "$37.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/windborne-systems-raises-37m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-08-06T00:48:26.545794-07:00"
+  },
+  {
+    "item": {
+      "company": "Faye",
+      "amount": "$50.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/faye-raises-50m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-08-06T00:48:29.181326-07:00"
+  },
+  {
+    "item": {
+      "company": "Moss",
+      "amount": null,
+      "stage": "Series C",
+      "investors": null,
+      "location": "Berlin",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/moss-raises-30m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-08-06T00:48:31.746237-07:00"
   }
 ]
