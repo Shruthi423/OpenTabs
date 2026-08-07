@@ -1,58 +1,58 @@
 [
   {
     "item": {
-      "company": "SA\u2019s Tennsa",
+      "company": "Investors In July",
       "amount": null,
-      "stage": "Pre-Seed",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdTVpUjdoSUZPUUZtLVVPX3M4MmJJbTU3QjlZVmtRQmdCaFcySm5MNUg2bWFoODh4MFNhLWIzOU12VndNM2hCRElWdmFBNDU3OGloZm1ZM0NTX3ZocXpHbDV1clY4dzlQQXVFY1hvRnZxbWVfUnRfRUFIeXhaZDNudEFoOFpwRnRuWWl2R3NwS0gtR2d6WmQxdXJQRVpUczFLZUxiaUxGcnp1ZEdi?oc=5",
-      "priority": 10
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/active-startup-investors-july-2026-khosla-yc-coatue-nvda/",
+      "priority": 9
     },
-    "remind_at": "2026-08-07T04:17:13.257699-07:00"
+    "remind_at": "2026-08-07T05:11:16.527139-07:00"
   },
   {
     "item": {
-      "company": "KnowledgeWork",
-      "amount": null,
-      "stage": "Series C",
+      "company": "In AI-obsessed Silicon Valley",
+      "amount": "$20.0B",
+      "stage": null,
       "investors": null,
-      "location": null,
+      "location": "Silicon Valley",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/knowledgework-raises-3-5b-series-c/",
-      "priority": 6
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/07/ai-obsessed-silicon-valley-live-commerce-platform-whatnot-new-funding-round-20-billion/",
+      "priority": 3
     },
-    "remind_at": "2026-08-07T04:17:15.519344-07:00"
+    "remind_at": "2026-08-07T05:11:19.458486-07:00"
   },
   {
     "item": {
-      "company": "Atomic One",
+      "company": "Murkowski will oppose Blanche",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/atomic-one-raises-5-6m-other/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/07/blanche-murkowski-ag-senate-confirmation",
       "priority": 3
     },
-    "remind_at": "2026-08-07T04:17:18.674535-07:00"
+    "remind_at": "2026-08-07T05:11:22.439125-07:00"
   },
   {
     "item": {
-      "company": "Syntasa",
-      "amount": null,
+      "company": "Lumilens",
+      "amount": "$700.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/syntasa-secures-strategic-investment/",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/lumilens-debuts-with-700m-war-chest-and-5-5b-valuation-after-emerging-from-stealth/",
       "priority": 3
     },
-    "remind_at": "2026-08-07T04:17:21.509208-07:00"
+    "remind_at": "2026-08-07T05:11:24.677143-07:00"
   }
 ]
