@@ -1,156 +1,30 @@
 [
   {
     "item": {
-      "company": "Lightspeed",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-06T17:45:00.196163-07:00"
-  },
-  {
-    "item": {
-      "company": "Meduloc",
-      "amount": "$4.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUTlaTVZZbllrNFIyWUNQaDFWTEJFbFBXYnllQXp0NUdCcFBYalVwVnM3YTZ6V2R0MzBMbnJkbVNSOXdpbmo2TG9rN0hIM3FZYWVuc2R5ZVAteXctbVNUaUUySnFaYi1FdWNoUVFxcEpOLWtHUUdmSGQ0MExwVTVBWk9nZm5IUkF3T0N3NkF0cnZwNkNLX1pOa0hwZ3NsWFVZN1RjT2lDM3dEQi1Ud0Fzc1REdGFTMmZNSEgzVw?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-08-06T17:45:02.376933-07:00"
-  },
-  {
-    "item": {
-      "company": "Na\u00efve",
-      "amount": "$28.5M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-06T17:45:04.646372-07:00"
-  },
-  {
-    "item": {
-      "company": "Cyber resilience",
-      "amount": "$19.0M",
-      "stage": null,
+      "company": "Lumilens",
+      "amount": "$900.0M",
+      "stage": "Series C",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/06/cyber-resilience-emerges-downtime-hits-dollar19m-per-hour-blackhat/",
-      "priority": 3
+      "url": "https://siliconangle.com/2026/08/06/optical-networking-startup-lumilens-launches-900m-funding/",
+      "priority": 6
     },
-    "remind_at": "2026-08-06T17:45:07.726536-07:00"
+    "remind_at": "2026-08-06T20:46:52.617564-07:00"
   },
   {
     "item": {
-      "company": "Inside the GOP's mad dash",
-      "amount": null,
+      "company": "FCC votes",
+      "amount": "$6.2B",
       "stage": null,
-      "investors": null,
+      "investors": "DirecTV and several state attorneys general",
       "location": null,
       "founders": [],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/08/06/senate-republicans-save-act-clarity-hemp-august-recess",
+      "url": "https://www.axios.com/2026/08/06/fcc-broadcast-ownership-cap-vote",
       "priority": 3
     },
-    "remind_at": "2026-08-06T17:45:11.758758-07:00"
-  },
-  {
-    "item": {
-      "company": "Author of DNC's 2024 \"autopsy\"",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "New York",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/06/dnc-2024-autopsy-author-gaza",
-      "priority": 3
-    },
-    "remind_at": "2026-08-06T17:45:14.954321-07:00"
-  },
-  {
-    "item": {
-      "company": "Jan. 6 prosecutions",
-      "amount": "$1.776B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/06/jan-6-cases-oath-keepers-proud-boys",
-      "priority": 3
-    },
-    "remind_at": "2026-08-06T17:45:18.068778-07:00"
-  },
-  {
-    "item": {
-      "company": "Trump may",
-      "amount": "$100.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/06/tariffs-congress-russia-trump",
-      "priority": 3
-    },
-    "remind_at": "2026-08-06T17:45:21.177201-07:00"
-  },
-  {
-    "item": {
-      "company": "Panthalassa",
-      "amount": "$225.0M",
-      "stage": null,
-      "investors": null,
-      "location": "Oregon",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/06/ocean-powered-ai-data-center-startup-panthalassa-is-reportedly-raising-225m-at-nearly-2-billion-valuation/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-06T17:45:23.386973-07:00"
-  },
-  {
-    "item": {
-      "company": "Iceye",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMlRSeG80aFd4bGZWLWlFWTlVb1FaWGU1VjM3aEtDYlVNTnZIYk5uRU5UZkoxLVQ5Q1RURk5sRmVUVHVMeHhYS3A0WUZwa2YtZkpKR0JEZVBnbkR4ZUVRWmtYUjlSOC16SkFZZnIzakhVclFMYVpnbWR3bkZJRnpVOFNOSFprU3dBUHRFelJJVDQ2NDJFeGRFUQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-06T17:45:25.650953-07:00"
-  },
-  {
-    "item": {
-      "company": "Digital health VC",
-      "amount": "$7.4B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbmVJTDR3WXYzb09nWXgwM1FnaDRFV3FRXzVJZmlxUGttLVRNeG9fbHNRTzdHUnVYYTVzeThqVDdxeU9WQjJlWml5UVJ3VW8yYmtuX19YdFpHa3pZaTRMeHNfLTVrd3N5WC1XRXAtVEtxWUswOGF0V2EyWUJ2QUFqVUF1Rzd5cXBRTW0wcXpfT0VCV3BEOS1tLU8zT3I5RHQ5Q1Q0Ulk4OUl2NGtqSmVkWkJ0c3drUklOQ3NwSjd2WDhqcTNIM25mQmFONnU4dkVvQUtSU3JQOG5iaWF5RjNxR25rX3N5UFFNOHQtYnRibTg?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-06T17:45:28.694429-07:00"
+    "remind_at": "2026-08-06T20:46:55.500659-07:00"
   }
 ]

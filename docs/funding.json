@@ -1,5 +1,35 @@
 [
   {
+    "id": "42526fc054b354b967c19fa6f8e5bcd8",
+    "company": "FCC votes",
+    "amount": "$6.2B",
+    "stage": "?",
+    "investors": "DirecTV and several state attorneys general",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/06/fcc-broadcast-ownership-cap-vote",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-06T20:16:56.500825-07:00",
+    "status": "active"
+  },
+  {
+    "id": "6d268e78ceda3391b0a01972bd11606e",
+    "company": "Lumilens",
+    "amount": "$900.0M",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/06/optical-networking-startup-lumilens-launches-900m-funding/",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-06T20:16:53.617725-07:00",
+    "status": "active"
+  },
+  {
     "id": "22ba71d0b4590f078c77f344725d4723",
     "company": "Digital health VC",
     "amount": "$7.4B",
