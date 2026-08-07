@@ -1,72 +1,16 @@
 [
   {
     "item": {
-      "company": "SoundHealth",
-      "amount": "$12.25M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQk9yLXN5ZUtmU2ZQcVBqSllVX2hOZTFSQzFqXzhCTndVUkxWS1FCZzhVWXgwWXBuX0FILTVFdUtnMmI5eU91Ul9oa29BMkZLNjJaa2tNVno3QmY5ZjdfSWY1WHhCazBlVUhBUHAtOG5TUm0wTGFvT0xhdmh1aXZMVjZLRnJVeU1DaVM2TmVfaGlGS0FTOENJWHFqbG1sNF9Q?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-07T07:20:50.075989-07:00"
-  },
-  {
-    "item": {
-      "company": "BlissClub",
-      "amount": "$19.2M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc2FYTDlvcDNhUENfQXA2N1J6REw1SU13ZjVzaXRWZjRuZjdBZDFrWm50NVFJS3B6ODVpN1ZYRXlHUWhLVG5jVWN4a29lRDFEV1gzN29vRUlhN0J3OVBRb2g4cHM4QmNNMi00U1MxeXZEZ1FtaThOdl9TNWYwWDBwOXUxdzJfcXRwS2FxZjZoM0Jta0lGS0gycEdPQ2dOUzdlQlE?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-08-07T07:20:52.423737-07:00"
-  },
-  {
-    "item": {
-      "company": "Everything you need",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-07T07:20:55.473905-07:00"
-  },
-  {
-    "item": {
-      "company": "AI\u2019s new millionaires want",
-      "amount": null,
+      "company": "Meta",
+      "amount": "$942.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/08/07/ai-wealth-philanthropy-nonprofits/",
+      "url": "https://fortune.com/2026/08/07/meta-new-mexico-penalty-567-million-child-safety/",
       "priority": 3
     },
-    "remind_at": "2026-08-07T07:20:58.486338-07:00"
-  },
-  {
-    "item": {
-      "company": "Nvidia-backed Firmus",
-      "amount": "$2.0B",
-      "stage": null,
-      "investors": "pour billions into the physical infrastructure behind the AI boom",
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/07/nvidia-backed-firmus-raises-2-billion-at-10-5-billion-valuation-to-build-ai-factories-across-asia-pacific/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-07T07:21:06.666009-07:00"
+    "remind_at": "2026-08-07T08:19:22.812060-07:00"
   }
 ]

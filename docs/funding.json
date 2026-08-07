@@ -1,5 +1,20 @@
 [
   {
+    "id": "51e6dcbea68263ace424720ab3003d7d",
+    "company": "Meta",
+    "amount": "$942.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/07/meta-new-mexico-penalty-567-million-child-safety/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-07T07:49:23.812230-07:00",
+    "status": "active"
+  },
+  {
     "id": "eabd4f3736002a0364aafd8480e3a012",
     "company": "Nvidia-backed Firmus",
     "amount": "$2.0B",
