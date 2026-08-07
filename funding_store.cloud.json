@@ -37637,5 +37637,35 @@
     "roles": [],
     "first_seen": "2026-08-07T04:41:25.677295-07:00",
     "status": "active"
+  },
+  "e4070f9dab31cb8812a0b21577f08415": {
+    "id": "e4070f9dab31cb8812a0b21577f08415",
+    "company": "Glasgow-based Mironid",
+    "amount": "Undisclosed",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaUVPYy14TlhmRXM5VXpoOTVmdldaZ0Q1MDJyclZaUWcweW42N1VGS3lJaGdyZnpORW5FTHJWLTVRYjMzM0VVRjU4b2FTTWlxU29YWjdxNTZDcGxwSzItVkVOQm0zdlo4M09abEhDWmdtbncwcTN6aFhVVE10SldVZU9aemFGR0tMa3pxN0NhbEktNFZXOVFRZ0M3bEtaa2lySU5TOHZwMFNnRzBkWjZIUWFqOVpNMEU2cUg3UGV0NG5jdC1MVU1pbkZOZkY?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": "Glasgow",
+    "roles": [],
+    "first_seen": "2026-08-07T05:28:16.932535-07:00",
+    "status": "active"
+  },
+  "4fee3eedb6b0d3397fa776c27ad27b72": {
+    "id": "4fee3eedb6b0d3397fa776c27ad27b72",
+    "company": "Murkowski will oppose Blanche",
+    "amount": "$1.8B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/07/blanche-murkowski-ag-senate-confirmation",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-07T05:28:19.807621-07:00",
+    "status": "active"
   }
 }

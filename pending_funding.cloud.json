@@ -1,36 +1,22 @@
 [
   {
     "item": {
-      "company": "Investors In July",
+      "company": "Glasgow-based Mironid",
       "amount": null,
-      "stage": "Seed",
+      "stage": "Series B",
       "investors": null,
-      "location": null,
+      "location": "Glasgow",
       "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/active-startup-investors-july-2026-khosla-yc-coatue-nvda/",
-      "priority": 9
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaUVPYy14TlhmRXM5VXpoOTVmdldaZ0Q1MDJyclZaUWcweW42N1VGS3lJaGdyZnpORW5FTHJWLTVRYjMzM0VVRjU4b2FTTWlxU29YWjdxNTZDcGxwSzItVkVOQm0zdlo4M09abEhDWmdtbncwcTN6aFhVVE10SldVZU9aemFGR0tMa3pxN0NhbEktNFZXOVFRZ0M3bEtaa2lySU5TOHZwMFNnRzBkWjZIUWFqOVpNMEU2cUg3UGV0NG5jdC1MVU1pbkZOZkY?oc=5",
+      "priority": 7
     },
-    "remind_at": "2026-08-07T05:11:16.527139-07:00"
-  },
-  {
-    "item": {
-      "company": "In AI-obsessed Silicon Valley",
-      "amount": "$20.0B",
-      "stage": null,
-      "investors": null,
-      "location": "Silicon Valley",
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/07/ai-obsessed-silicon-valley-live-commerce-platform-whatnot-new-funding-round-20-billion/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-07T05:11:19.458486-07:00"
+    "remind_at": "2026-08-07T05:58:15.932375-07:00"
   },
   {
     "item": {
       "company": "Murkowski will oppose Blanche",
-      "amount": null,
+      "amount": "$1.8B",
       "stage": null,
       "investors": null,
       "location": null,
@@ -39,20 +25,6 @@
       "url": "https://www.axios.com/2026/08/07/blanche-murkowski-ag-senate-confirmation",
       "priority": 3
     },
-    "remind_at": "2026-08-07T05:11:22.439125-07:00"
-  },
-  {
-    "item": {
-      "company": "Lumilens",
-      "amount": "$700.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/lumilens-debuts-with-700m-war-chest-and-5-5b-valuation-after-emerging-from-stealth/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-07T05:11:24.677143-07:00"
+    "remind_at": "2026-08-07T05:58:18.807464-07:00"
   }
 ]
