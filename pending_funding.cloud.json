@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "item": {
+      "company": "Malachyte",
+      "amount": "$10.0M",
+      "stage": "Seed",
+      "investors": "Bessemer Venture Partners to bring behavior intelligence technology to retail and eCommerce brands",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/malachyte-raises-10m-seed/",
+      "priority": 12
+    },
+    "remind_at": "2026-08-07T01:21:47.577322-07:00"
+  },
+  {
+    "item": {
+      "company": "Wild Zebra",
+      "amount": "$6.0M",
+      "stage": "Seed",
+      "investors": "Trilogy Equity Partners to expand its AI powered Socratic learning platform for students",
+      "location": "Seattle",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/wild-zebra-raises-6m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-07T01:21:50.915985-07:00"
+  },
+  {
+    "item": {
+      "company": "Safehire.ai",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/safehire-ai-raises-500k-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-07T01:21:53.447939-07:00"
+  },
+  {
+    "item": {
+      "company": "Enrola",
+      "amount": "$2.1M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/enrola-raises-2-1m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-07T01:21:56.048482-07:00"
+  },
+  {
+    "item": {
+      "company": "Wellinks",
+      "amount": "$10.0M",
+      "stage": "Series B",
+      "investors": "UMass Memorial Health to expand its cardiopulmonary remote patient monitoring platform",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/wellinks-raises-10m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-08-07T01:21:58.564119-07:00"
+  },
+  {
+    "item": {
+      "company": "JPYC Inc.",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/jpyc-inc-raises-1b-series-b-extension/",
+      "priority": 7
+    },
+    "remind_at": "2026-08-07T01:22:01.101284-07:00"
+  }
+]
