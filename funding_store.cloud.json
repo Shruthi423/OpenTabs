@@ -37772,5 +37772,20 @@
     "roles": [],
     "first_seen": "2026-08-07T08:51:18.192794-07:00",
     "status": "active"
+  },
+  "739ba7541f33b98ba6756a9847a8cb07": {
+    "id": "739ba7541f33b98ba6756a9847a8cb07",
+    "company": "The Hugging Face hack",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/07/the-hugging-face-hack-is-now-a-pr-crisis-thats-costing-openai-millions/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-07T09:47:27.914643-07:00",
+    "status": "active"
   }
 }
