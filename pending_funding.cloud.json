@@ -1,16 +1,44 @@
 [
   {
     "item": {
-      "company": "HomeRun",
-      "amount": "$12.0M",
-      "stage": "Series A",
+      "company": "PetrolPrice",
+      "amount": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQlhPcHBOQUkxM1lVVG15S08za2J6QUlDVFFzTHJGdGdhck41T2tCNmpQS1RKTDBBQi1SM0JiczlfWDNqVkRWRmxfbXljQjdMQzFKUi0zX1lxeXlNN29rcG9fbGZLZW1TTlNDUzgzaU1UbVJQMXI2VmFrd0JETFZWVVB4Z0JWU1ZiY2xIa2dIaDhETUcxZWszX0RMUnVyU241dHhLNVZSWdIBpwFBVV95cUxPQlhPcHBOQUkxM1lVVG15S08za2J6QUlDVFFzTHJGdGdhck41T2tCNmpQS1RKTDBBQi1SM0JiczlfWDNqVkRWRmxfbXljQjdMQzFKUi0zX1lxeXlNN29rcG9fbGZLZW1TTlNDUzgzaU1UbVJQMXI2VmFrd0JETFZWVVB4Z0JWU1ZiY2xIa2dIaDhETUcxZWszX0RMUnVyU241dHhLNVZSWQ?oc=5",
-      "priority": 8
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/m-sian-ai-startup-petrolprice-secures-silicon-valley-backing-sarawak-tribune/",
+      "priority": 10
     },
-    "remind_at": "2026-08-07T02:22:06.633226-07:00"
+    "remind_at": "2026-08-07T03:26:20.130497-07:00"
+  },
+  {
+    "item": {
+      "company": "Alfa AI",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/alfa-ai-raises-1m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-07T03:26:22.694701-07:00"
+  },
+  {
+    "item": {
+      "company": "Trump won't drop war",
+      "amount": "$400.0M",
+      "stage": null,
+      "investors": null,
+      "location": "New York",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/07/trump-iran-war-tariffs-monuments-unpopular",
+      "priority": 3
+    },
+    "remind_at": "2026-08-07T03:26:26.080301-07:00"
   }
 ]

@@ -37472,5 +37472,50 @@
     "roles": [],
     "first_seen": "2026-08-07T01:52:07.633416-07:00",
     "status": "active"
+  },
+  "851096406367990828e5c1b289ee8243": {
+    "id": "851096406367990828e5c1b289ee8243",
+    "company": "PetrolPrice",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/m-sian-ai-startup-petrolprice-secures-silicon-valley-backing-sarawak-tribune/",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-07T02:56:21.130660-07:00",
+    "status": "active"
+  },
+  "2a658290973c037c0b172c93e1fa8138": {
+    "id": "2a658290973c037c0b172c93e1fa8138",
+    "company": "Alfa AI",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/alfa-ai-raises-1m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-07T02:56:23.694876-07:00",
+    "status": "active"
+  },
+  "2737b0e1da3b71f956d742a50081ebb8": {
+    "id": "2737b0e1da3b71f956d742a50081ebb8",
+    "company": "Trump won't drop war",
+    "amount": "$400.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/07/trump-iran-war-tariffs-monuments-unpopular",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-08-07T02:56:27.080467-07:00",
+    "status": "active"
   }
 }
