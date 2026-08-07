@@ -1,44 +1,58 @@
 [
   {
     "item": {
-      "company": "PetrolPrice",
+      "company": "SA\u2019s Tennsa",
       "amount": null,
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/m-sian-ai-startup-petrolprice-secures-silicon-valley-backing-sarawak-tribune/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdTVpUjdoSUZPUUZtLVVPX3M4MmJJbTU3QjlZVmtRQmdCaFcySm5MNUg2bWFoODh4MFNhLWIzOU12VndNM2hCRElWdmFBNDU3OGloZm1ZM0NTX3ZocXpHbDV1clY4dzlQQXVFY1hvRnZxbWVfUnRfRUFIeXhaZDNudEFoOFpwRnRuWWl2R3NwS0gtR2d6WmQxdXJQRVpUczFLZUxiaUxGcnp1ZEdi?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-08-07T03:26:20.130497-07:00"
+    "remind_at": "2026-08-07T04:17:13.257699-07:00"
   },
   {
     "item": {
-      "company": "Alfa AI",
+      "company": "KnowledgeWork",
       "amount": null,
-      "stage": "Seed",
+      "stage": "Series C",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/alfa-ai-raises-1m-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/knowledgework-raises-3-5b-series-c/",
+      "priority": 6
     },
-    "remind_at": "2026-08-07T03:26:22.694701-07:00"
+    "remind_at": "2026-08-07T04:17:15.519344-07:00"
   },
   {
     "item": {
-      "company": "Trump won't drop war",
-      "amount": "$400.0M",
+      "company": "Atomic One",
+      "amount": null,
       "stage": null,
       "investors": null,
-      "location": "New York",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/07/trump-iran-war-tariffs-monuments-unpopular",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/atomic-one-raises-5-6m-other/",
       "priority": 3
     },
-    "remind_at": "2026-08-07T03:26:26.080301-07:00"
+    "remind_at": "2026-08-07T04:17:18.674535-07:00"
+  },
+  {
+    "item": {
+      "company": "Syntasa",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/syntasa-secures-strategic-investment/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-07T04:17:21.509208-07:00"
   }
 ]
