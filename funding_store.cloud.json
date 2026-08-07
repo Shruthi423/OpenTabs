@@ -37802,5 +37802,35 @@
     "roles": [],
     "first_seen": "2026-08-07T11:31:39.948093-07:00",
     "status": "active"
+  },
+  "f2f12a9926edf6efdcb87b3dde28e968": {
+    "id": "f2f12a9926edf6efdcb87b3dde28e968",
+    "company": "\u2018I don\u2019t need your money\u2019",
+    "amount": "$26.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/07/kentucky-grandma-turned-down-26-million-family-farm-data-center/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-07T14:55:11.090764-07:00",
+    "status": "active"
+  },
+  "5869686868f4e3399fbf1c3517db4425": {
+    "id": "5869686868f4e3399fbf1c3517db4425",
+    "company": "Harvey in talks",
+    "amount": "$500.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/08/07/legal-ai-startup-harvey-in-talks-to-raise-500-million-at-15-5-billion-valuation-after-revenue-surge/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-07T14:55:14.360422-07:00",
+    "status": "active"
   }
 }

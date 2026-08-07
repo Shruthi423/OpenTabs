@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "\u2018I don\u2019t need your money\u2019",
+      "amount": "$26.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/07/kentucky-grandma-turned-down-26-million-family-farm-data-center/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-07T15:25:10.090610-07:00"
+  },
+  {
+    "item": {
+      "company": "Harvey in talks",
+      "amount": "$500.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/08/07/legal-ai-startup-harvey-in-talks-to-raise-500-million-at-15-5-billion-valuation-after-revenue-surge/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-07T15:25:13.360251-07:00"
+  }
+]
