@@ -37757,5 +37757,20 @@
     "roles": [],
     "first_seen": "2026-08-07T07:49:23.812230-07:00",
     "status": "active"
+  },
+  "c35dd38cbee45632ec319ff5dbbbdc5f": {
+    "id": "c35dd38cbee45632ec319ff5dbbbdc5f",
+    "company": "DOGE seems",
+    "amount": "$1.7B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/07/doge-government-savings-wall-of-receipts-audit/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-07T08:51:18.192794-07:00",
+    "status": "active"
   }
 }
