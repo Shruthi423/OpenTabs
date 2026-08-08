@@ -1,5 +1,41 @@
 [
   {
+    "id": "47351b7098e3d64db1af30672c2fe9d9",
+    "company": "Moment",
+    "amount": "$22.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzFZNmIwSWJicUdkdHVONWxoVGxkVTdMRkpnZGlseWRERWdyOHZGUmxzUEI2dGFFUzFKYVJwRlpKZWxkajBybHBHckxHNUVUdUdCUGxKVkFjVVpVNVZqeE9ObVU2dndyWGJrWnhubjRUbzh3OHZFa0ZPUlBHOFlKY3hnTXNJZFlDalloaGIwX1JRUQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "New York, NY",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/moment/5fb2d42b-9542-4d54-999d-b8f4e0ee9490",
+        "location": "New York, NY"
+      }
+    ],
+    "first_seen": "2026-08-08T06:11:23.604534-07:00",
+    "status": "active"
+  },
+  {
+    "id": "c655b1a188ed02dca2e1895583328ded",
+    "company": "Senate passes stopgap",
+    "amount": "$1.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/08/senate-government-funding-shutdown-stopgap",
+    "priority": 3,
+    "founders": [],
+    "location": "Washington",
+    "roles": [],
+    "first_seen": "2026-08-08T06:11:21.341591-07:00",
+    "status": "active"
+  },
+  {
     "id": "e460d8eaaf8b394bed923d660c165635",
     "company": "Suspected AI use",
     "amount": "$2.0M",

@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "Senate passes stopgap",
+      "amount": "$1.0B",
+      "stage": null,
+      "investors": null,
+      "location": "Washington",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/08/senate-government-funding-shutdown-stopgap",
+      "priority": 3
+    },
+    "remind_at": "2026-08-08T06:41:20.341478-07:00"
+  },
+  {
+    "item": {
+      "company": "Moment",
+      "amount": "$22.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzFZNmIwSWJicUdkdHVONWxoVGxkVTdMRkpnZGlseWRERWdyOHZGUmxzUEI2dGFFUzFKYVJwRlpKZWxkajBybHBHckxHNUVUdUdCUGxKVkFjVVpVNVZqeE9ObVU2dndyWGJrWnhubjRUbzh3OHZFa0ZPUlBHOFlKY3hnTXNJZFlDalloaGIwX1JRUQ?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-08T06:41:22.604370-07:00"
+  }
+]
