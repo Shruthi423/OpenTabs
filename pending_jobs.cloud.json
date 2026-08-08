@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "job": {
+      "title": "Founding Product Designer",
+      "company": "Inferact",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/inferact/f73d3f45-cdea-41a8-8144-acf504aa4fda",
+      "salary": "Not listed",
+      "description": "Overview\n\nInferact's mission is to grow vLLM as the world's AI inference engine and accelerate AI progress by making inference cheaper and faster. Founded by the creators and core maintainers of vLLM, we sit at the intersection of models and hardware, a position that took years to build.\n\n\n\nAbout th",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-08-08T05:31:28.064620-07:00"
+  },
+  {
+    "job": {
+      "title": "Builder - Product Designer",
+      "company": "Reevo",
+      "location": "Santa Clara",
+      "url": "https://jobs.ashbyhq.com/reevo/903989a4-8f84-4cfb-99e7-4f15a7f01376",
+      "salary": "Not listed",
+      "description": "ROLE Senior Product Designer \n\nWe are looking for a Senior Product Designer with a passion for finding solutions that allow customers to intuitively use our products. The ideal candidate will be skilled at each stage of the design process but always focused on the needs of the customer.\n\nYou will wo",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-08-08T05:31:29.737210-07:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Browserbase",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/browserbase/b340041a-72ad-47f9-a419-b2c283548104",
+      "salary": "Not listed",
+      "description": "ABOUT BROWSERBASE\n\nBrowserbase is the complete platform to build and deploy agents that browse and interact with the web like humans. We provide one API key for agents to search and fetch information, fill out forms, and replicate user actions. We run 35M+ sessions/month for 10,000+ customers includ",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-08-08T05:31:31.475993-07:00"
+  }
+]
