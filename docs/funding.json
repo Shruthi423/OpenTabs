@@ -1,5 +1,20 @@
 [
   {
+    "id": "e460d8eaaf8b394bed923d660c165635",
+    "company": "Suspected AI use",
+    "amount": "$2.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-08T03:25:55.530815-07:00",
+    "status": "active"
+  },
+  {
     "id": "8939c585946a7be35255ff297614c845",
     "company": "Pinegap",
     "amount": "Undisclosed",

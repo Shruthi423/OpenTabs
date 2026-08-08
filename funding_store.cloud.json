@@ -37892,5 +37892,20 @@
     "roles": [],
     "first_seen": "2026-08-08T02:10:28.180940-07:00",
     "status": "active"
+  },
+  "e460d8eaaf8b394bed923d660c165635": {
+    "id": "e460d8eaaf8b394bed923d660c165635",
+    "company": "Suspected AI use",
+    "amount": "$2.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-08T03:25:55.530815-07:00",
+    "status": "active"
   }
 }
