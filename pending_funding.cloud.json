@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "item": {
+      "company": "What makes a good billionaire?",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/09/james-chen-what-makes-a-good-billionaire/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-09T01:03:31.494500-07:00"
+  }
+]
