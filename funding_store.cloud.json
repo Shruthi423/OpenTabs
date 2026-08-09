@@ -38108,5 +38108,35 @@
     "roles": [],
     "first_seen": "2026-08-09T01:23:46.222963-07:00",
     "status": "active"
+  },
+  "7e3818160b01a6a8f524fdc447f5c558": {
+    "id": "7e3818160b01a6a8f524fdc447f5c558",
+    "company": "Six weeks",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/09/post-processable-velocity-ai-capability-simplify",
+    "priority": 3,
+    "founders": [],
+    "location": "Silicon Valley",
+    "roles": [],
+    "first_seen": "2026-08-09T03:27:53.861075-07:00",
+    "status": "active"
+  },
+  "8228e4db60ab1cfac072768c7db61ef1": {
+    "id": "8228e4db60ab1cfac072768c7db61ef1",
+    "company": "Smallest.ai",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORkp6MXgxSF9tUmxRMXhySlhaR3ZzUXNxUm1pTXdBMHFXVHQzLUVBOEtnVTRDMzVrbTI4Wnh0c1FwQjEwa0h2T2xONmdLTkhUdnRMZWRLaWxGOXAyY2RSZkpxYWJUcWR2d2I3a2JKX0hxQnhWQ0hlWVdEa2tOOF90R2NXRFJzMzdJdGtGVVhzSGVjblB6Wi12SzhjaTFJZGVUZ0F1RlBQUG5lU2ZpQXQtNnFmdU9vMWNpOTd4ZEkzZXpvZTNzVDNTYS1R?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-09T03:27:56.026139-07:00",
+    "status": "active"
   }
 }
