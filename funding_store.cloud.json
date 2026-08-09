@@ -38276,5 +38276,35 @@
     "roles": [],
     "first_seen": "2026-08-09T14:47:38.387067-07:00",
     "status": "active"
+  },
+  "426c4c159c2d284abe5bf0682321d390": {
+    "id": "426c4c159c2d284abe5bf0682321d390",
+    "company": "Bernie's revolution",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Wisconsin Gov",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/09/democrats-populists-michigan-wisconsin-2028-test",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-08-09T15:24:02.359921-07:00",
+    "status": "active"
+  },
+  "01df3e7ebafbd1f0470e0c4c53ad8700": {
+    "id": "01df3e7ebafbd1f0470e0c4c53ad8700",
+    "company": "Pro-science group urges Mark Kelly",
+    "amount": "$100.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/09/group-promoting-science-urges-kelly-to-run-for-president",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-09T15:24:05.583869-07:00",
+    "status": "active"
   }
 }
