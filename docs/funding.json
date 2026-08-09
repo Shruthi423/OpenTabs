@@ -1,5 +1,38 @@
 [
   {
+    "id": "f411fd63e7db262184aac74ed1a2bca6",
+    "company": "CEO of $49 billion AI company",
+    "amount": "$49.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/ceo-of-49-billion-ai-company-says-its-mind-boggling-people-think-you-can-work-38-hours-a-week-have-work-life-balance-and-be-successful/",
+    "priority": 3,
+    "founders": [
+      "rew Feldman",
+      "Eric Yuan"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-09T07:00:35.097600-07:00",
+    "status": "active"
+  },
+  {
+    "id": "90d0763529b52e52498547c88fe2c52d",
+    "company": "This\u00a0former\u00a0notorious red-light district",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+    "priority": 3,
+    "founders": [],
+    "location": "London",
+    "roles": [],
+    "first_seen": "2026-08-09T07:00:32.221274-07:00",
+    "status": "active"
+  },
+  {
     "id": "ed344b7c297ec82a6654d3e6b552d704",
     "company": "The 25 biggest fintech funding rounds",
     "amount": "Undisclosed",
