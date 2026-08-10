@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Trump\u2019s $200 billion tariff",
-      "amount": "$200.0B",
+      "company": "Meta",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/08/10/how-big-deficit-national-debt-tariffs-cbo/",
+      "url": "https://fortune.com/2026/08/10/meta-brandishes-open-source-ai-models-again-as-zuckerberg-media-blitz-emphasizes-battle-against-chinese-rivals/",
       "priority": 3
     },
-    "remind_at": "2026-08-10T13:40:15.285296-07:00"
+    "remind_at": "2026-08-10T14:32:03.794113-07:00"
+  },
+  {
+    "item": {
+      "company": "Valar Atomics",
+      "amount": "$1.2B",
+      "stage": null,
+      "investors": null,
+      "location": "Los Angeles",
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaXZ5R2c2b3JoWEoyV3NrbHQwMkZNMC1iaU5DR1ZNdnUyTmtibVltQV82cDZqa0lNUzJvOVFJeGdxRHR0bzZ6d2d6NHpaU21md2o5dnV3MUtZbTFqS0FCeURpaDFGRk5vYjBsODZrcGxaUWxmUUhJRFNQeTMzeUpmX1pYZXRpaXVP?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-10T14:32:06.809104-07:00"
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2ada6fa4f33d006829d4df5aa8a0df79",
+    "company": "Valar Atomics",
+    "amount": "$1.2B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaXZ5R2c2b3JoWEoyV3NrbHQwMkZNMC1iaU5DR1ZNdnUyTmtibVltQV82cDZqa0lNUzJvOVFJeGdxRHR0bzZ6d2d6NHpaU21md2o5dnV3MUtZbTFqS0FCeURpaDFGRk5vYjBsODZrcGxaUWxmUUhJRFNQeTMzeUpmX1pYZXRpaXVP?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "Los Angeles",
+    "roles": [],
+    "first_seen": "2026-08-10T14:02:07.809264-07:00",
+    "status": "active"
+  },
+  {
+    "id": "01edc9c9a3e9ecae8dcbb606f7414f78",
+    "company": "Meta",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/10/meta-brandishes-open-source-ai-models-again-as-zuckerberg-media-blitz-emphasizes-battle-against-chinese-rivals/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-10T14:02:04.794264-07:00",
+    "status": "active"
+  },
+  {
     "id": "369975a6bf96e3ca435d697b51cee2a2",
     "company": "Trump\u2019s $200 billion tariff",
     "amount": "$200.0B",
