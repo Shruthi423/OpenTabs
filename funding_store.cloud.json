@@ -38846,5 +38846,35 @@
     "roles": [],
     "first_seen": "2026-08-10T14:02:07.809264-07:00",
     "status": "active"
+  },
+  "4e8e9ef7cb1e0fe7e85d0482db568a4b": {
+    "id": "4e8e9ef7cb1e0fe7e85d0482db568a4b",
+    "company": "Holiday Robotics",
+    "amount": "Undisclosed",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUlHTmhXZ0d3OFF2MExMWVVXWHBzbkJ6djF1TnZsZzV5Z29KeWIyclhUcTZLSmtFdURpd2hiWElfWEVDWkdRRnV0ZENrM2ZsNHo3V0lfUnRmd19lNWxaQ3N6SGJ0aktwa1pZOGh2VlRyWldacXhpbVFxRVNQTFRPZVVuZWpkRmRFN3J1cmYtRGhkaHJ0cHBvSnZaa2hyaC00MVFOUjJrdFdfTzdTUmFCc1NFWkFiSm1sclVOVQ?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-10T14:51:32.821015-07:00",
+    "status": "active"
+  },
+  "d3c9fb58575c1d7a45a60ef820626c97": {
+    "id": "d3c9fb58575c1d7a45a60ef820626c97",
+    "company": "Italy\u2019s $4.7 billion cheese economy",
+    "amount": "$4.7B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/10/italy-5-billion-cheese-economy-heat-wave-climate-change/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-10T14:51:36.068749-07:00",
+    "status": "active"
   }
 }
