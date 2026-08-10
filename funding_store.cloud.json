@@ -38891,5 +38891,35 @@
     "roles": [],
     "first_seen": "2026-08-10T15:31:31.762339-07:00",
     "status": "active"
+  },
+  "34a2acd5fa13709592e9b8b9b1d901c8": {
+    "id": "34a2acd5fa13709592e9b8b9b1d901c8",
+    "company": "Intel",
+    "amount": "$15.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/10/intel-launch-15b-stock-sale-amid-ai-boom-advanced-packaging-demand/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-10T16:17:57.896210-07:00",
+    "status": "active"
+  },
+  "42edde7fc3922eaaba23f071ce1baf0b": {
+    "id": "42edde7fc3922eaaba23f071ce1baf0b",
+    "company": "Rapid7 beats estimates",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/10/rapid7-beats-estimates-raises-profit-outlook-cuts-12-staff/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-10T16:18:01.169597-07:00",
+    "status": "active"
   }
 }

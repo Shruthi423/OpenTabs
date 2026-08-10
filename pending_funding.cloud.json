@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Food safety crisis deepens",
-      "amount": "$200.0M",
+      "company": "Intel",
+      "amount": "$15.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/10/salmonella-outbreak-food-safety-taylor-farms",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/10/intel-launch-15b-stock-sale-amid-ai-boom-advanced-packaging-demand/",
       "priority": 3
     },
-    "remind_at": "2026-08-10T16:01:30.762174-07:00"
+    "remind_at": "2026-08-10T16:47:56.896087-07:00"
+  },
+  {
+    "item": {
+      "company": "Rapid7 beats estimates",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/10/rapid7-beats-estimates-raises-profit-outlook-cuts-12-staff/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-10T16:48:00.169415-07:00"
   }
 ]
