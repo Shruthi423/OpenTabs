@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "item": {
+      "company": "Fitting",
+      "amount": "$1.1M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/fitting-raises-1-1m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-10T00:50:13.323465-07:00"
+  },
+  {
+    "item": {
+      "company": "After raising $170M",
+      "amount": "$170.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/dwelly-170m-funding-uk-lettings-ai/",
+      "priority": 7
+    },
+    "remind_at": "2026-08-10T00:50:16.380778-07:00"
+  },
+  {
+    "item": {
+      "company": "Edgify",
+      "amount": "$9.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/edgify-raises-9m-from-rank-ventures-and-mangrove-capital-to-bring-ai-to-supermarket-shelves-and-checkouts/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-10T00:50:18.576423-07:00"
+  },
+  {
+    "item": {
+      "company": "Oslo-based Visoid",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Oslo",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ244UXBWbEYwMVNjQVNfYUp6LURkajRZSG9yRzVoTVUtOGNLdll6TThwZVE4bE9CU3lIN1pQOG1POWRfNWYtS3pWSjg2VTlva2lwSm9ZOW16ejBua0R0dGtNcTN5dzA2OE9FYkRoNEtybGg4bWd2TFcwTHdJTWRxZmdxYmtOQzMtR2xxOXppSm1JMWUyNk4xSm5lSW1WTmFRajRSSEFtNlpBOFRNSWpvOUlVb1cwemNLb2ppcHVLVGZPMmhaNHF3?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-10T00:50:21.483087-07:00"
+  }
+]
