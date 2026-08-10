@@ -1,86 +1,72 @@
 [
   {
     "item": {
-      "company": "Tennsa",
+      "company": "NexusAdvisors",
       "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/tennsa-raises-61000-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-10T02:26:58.922191-07:00"
-  },
-  {
-    "item": {
-      "company": "Pally",
-      "amount": "$5.2M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pally-raises-5-2m-seed/",
+      "url": "https://www.thesaasnews.com/news/nexusadvisors-raises-50m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-08-10T02:27:01.307852-07:00"
+    "remind_at": "2026-08-10T03:43:55.347154-07:00"
   },
   {
     "item": {
-      "company": "ORCA AI Agent",
-      "amount": "$7.0M",
-      "stage": "Series A",
-      "investors": null,
+      "company": "Sanders calls",
+      "amount": null,
+      "stage": null,
+      "investors": "a progressive like Sanders, is unlikely to garner enough support in this Congress to become law",
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/orca-ai-agent-raises-7m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-08-10T02:27:04.428995-07:00"
-  },
-  {
-    "item": {
-      "company": "NavVis",
-      "amount": "$85.0M",
-      "stage": "Series D",
-      "investors": "The Jordan Company to scale its AI and digital twin technology",
-      "location": "Munich",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/navvis-raises-85m-series-d/",
-      "priority": 5
-    },
-    "remind_at": "2026-08-10T02:27:06.866004-07:00"
-  },
-  {
-    "item": {
-      "company": "Visoid",
-      "amount": "$2.5M",
-      "stage": null,
-      "investors": "Skyfall Ventures to expand its architectural visualisation software platform",
-      "location": "Oslo",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/visoid-raises-2-5m-in-funding/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/10/sanders-ai-development-pause",
       "priority": 3
     },
-    "remind_at": "2026-08-10T02:27:09.270115-07:00"
+    "remind_at": "2026-08-10T03:43:58.713813-07:00"
   },
   {
     "item": {
-      "company": "Valar",
+      "company": "How Kevin Warsh",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "New York",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/10/kevin-warsh-fed-economy-rates-ai",
+      "priority": 3
+    },
+    "remind_at": "2026-08-10T03:44:02.170659-07:00"
+  },
+  {
+    "item": {
+      "company": "Platter",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsT2pOMExtOW53TnEtOGR4aFJuTTlGazNvMlAxZ1B5UW14Rk45c3NWejQ4SS10Si1LVzZqWnNTVE5hdzJYZ1FZR1RZUEFJODFtdi1TQ2Q2T0J2NzNvWU04XzI5NUFYbXFSUzBkQnRqcE52R3BldUtn?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/platter-raises-undisclosed-other/",
       "priority": 3
     },
-    "remind_at": "2026-08-10T02:27:11.649239-07:00"
+    "remind_at": "2026-08-10T03:44:04.606090-07:00"
+  },
+  {
+    "item": {
+      "company": "Bakingo",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkwxc2VGc1VxeG1SaGxyc0dPY01DYmtwUDl6cU5XZnBWVDBEcWFDalRwNVZWM0loaUJJQzZPVDZFNUZHbUg0d0lqQ3lOVEFra2NIbHlOUVJUZVNESHc4M0VpWVRMdEZieEJ4eVhEUldIWWo3ZEJWZWw5dGNqSjY1WjE0YmJ3RVdxSGZGOUZWVVFqVzJIUUJPQ0V3Rm5VWFHSAZ8BQVVfeXFMT2JMMXNlRnNVcXhtUmhscnNHT2NNQ2JrcFA5enFOV2ZwVlQwRHFhQ2pUcDVWVjNJaGlCSUM2T1Q2RTVGR21INHdJakN5TlRBa2tjSGx5TlFSVGVTREh3ODNFaVlUTHRGYnhCeHlYRFJXSFlqN2RCVmVsOXRjako2NVoxNGJid0VXcUhmRjlGVlVRalcySFFCT0NFd0ZuVVhR?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-10T03:44:07.155150-07:00"
   }
 ]
