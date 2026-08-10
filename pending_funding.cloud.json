@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Baselayer",
-      "amount": "$20.0M",
-      "stage": "Series A",
+      "company": "Echovane",
+      "amount": "$1.0M",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3pJbWRuUmtkSGExLXI2YmtQMHlJQjhnb01hVGprZFlRY2owMjFEbnJOeHIxWVJjZ3NRNlZCQS1NTkY4bV94ZjN6UDUzVVdac1ZsWmxGTERZUXdsakpxQmRxOVpuQmsyN05IYkVOQnlPVmFkbzlvWWpJVHpSY2dSREw5WUt2Y2cwVHU1dlJuakh4ZDR3ZkxxN3RMR2hkd2w0YVB3SXRxT0JzcHhxWXZnRGF3?oc=5",
-      "priority": 8
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/10/ai-native-market-research-automation-startup-echovane-raises-1m/",
+      "priority": 10
     },
-    "remind_at": "2026-08-10T04:52:15.358242-07:00"
+    "remind_at": "2026-08-10T05:38:10.882379-07:00"
+  },
+  {
+    "item": {
+      "company": "Discovered Materials",
+      "amount": "$9.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-10T05:38:14.160593-07:00"
   }
 ]

@@ -38591,5 +38591,35 @@
     "roles": [],
     "first_seen": "2026-08-10T04:22:16.358398-07:00",
     "status": "active"
+  },
+  "16bb89c64a36740134db562e9dc3cfe6": {
+    "id": "16bb89c64a36740134db562e9dc3cfe6",
+    "company": "Echovane",
+    "amount": "$1.0M",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/10/ai-native-market-research-automation-startup-echovane-raises-1m/",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-10T05:08:11.882505-07:00",
+    "status": "active"
+  },
+  "522244d07bf736cc7cef10d3513d755d": {
+    "id": "522244d07bf736cc7cef10d3513d755d",
+    "company": "Discovered Materials",
+    "amount": "$9.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-10T05:08:15.160777-07:00",
+    "status": "active"
   }
 }
