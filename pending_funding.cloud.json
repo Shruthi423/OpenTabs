@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "item": {
+      "company": "Strategy dumps yet more Bitcoin",
+      "amount": "$109.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/10/strategy-bitcoin-109-million-sell-off-seven-week-buying-hiatus/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-10T10:01:19.743901-07:00"
+  },
+  {
+    "item": {
+      "company": "bank Erebor in talks",
+      "amount": "$1.5B",
+      "stage": null,
+      "investors": null,
+      "location": "Silicon Valley",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/08/10/palmer-luckeys-startup-bank-erebor-in-talks-to-raise-1-5-billion-at-8-billion-valuation/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-10T10:01:22.588653-07:00"
+  },
+  {
+    "item": {
+      "company": "Uber",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWlA4cldGVHJuQy01Y19aMkFuZ2E3b3gtZV9lRzNGT0FGaWY2dlc2QkhWM0hlRU1YaVhTQ0w2OUVPOTRPZ3NaY3hpXzZIZmprcFNNU19uUm9pN2ZOdzJ1clFyTXdSNG5HZm9qdHhlWGY5amRLQ3ZIT1RtOVZ2SHBVREVXaHFlal9ESFRTOGFRTlN4dXlvUng5UkJGV2VZX3k1dHB4VHJ3?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-10T10:01:24.745157-07:00"
+  }
+]
