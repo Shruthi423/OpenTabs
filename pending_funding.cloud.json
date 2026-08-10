@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "Holiday Robotics",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUlHTmhXZ0d3OFF2MExMWVVXWHBzbkJ6djF1TnZsZzV5Z29KeWIyclhUcTZLSmtFdURpd2hiWElfWEVDWkdRRnV0ZENrM2ZsNHo3V0lfUnRmd19lNWxaQ3N6SGJ0aktwa1pZOGh2VlRyWldacXhpbVFxRVNQTFRPZVVuZWpkRmRFN3J1cmYtRGhkaHJ0cHBvSnZaa2hyaC00MVFOUjJrdFdfTzdTUmFCc1NFWkFiSm1sclVOVQ?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-10T15:21:31.820808-07:00"
-  },
-  {
-    "item": {
-      "company": "Italy\u2019s $4.7 billion cheese economy",
-      "amount": "$4.7B",
+      "company": "Food safety crisis deepens",
+      "amount": "$200.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/10/italy-5-billion-cheese-economy-heat-wave-climate-change/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/10/salmonella-outbreak-food-safety-taylor-farms",
       "priority": 3
     },
-    "remind_at": "2026-08-10T15:21:35.068560-07:00"
+    "remind_at": "2026-08-10T16:01:30.762174-07:00"
   }
 ]
