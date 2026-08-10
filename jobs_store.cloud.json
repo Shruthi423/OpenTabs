@@ -11295,5 +11295,41 @@
     "first_seen": "2026-08-09T04:01:53.233107-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "8118966b570d092efd67e1f4a36fbc55": {
+    "id": "8118966b570d092efd67e1f4a36fbc55",
+    "title": "UI/UX Junior AI Application Developer",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://himalayas.app/companies/mantech/jobs/ui-ux-junior-ai-application-developer",
+    "source": "Himalayas",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-08-09T19:33:01.943678-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "603186a16748f6ec03ee4bd5369ff73e": {
+    "id": "603186a16748f6ec03ee4bd5369ff73e",
+    "title": "UI/UX Designer Internship",
+    "company": "See posting",
+    "location": "San Francisco Bay Area, CA",
+    "salary": "Not listed",
+    "url": "https://www.builtinsf.com/job/ui-ux-designer-internship/10594451",
+    "source": "BuiltIn SF",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-08-09T19:33:03.568777-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }

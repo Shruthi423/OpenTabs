@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "India Tech 4th Globally",
+      "company": "Veeam pushes cyber resilience as AI",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHNxN0F4SXFHR0paWkh0dTBLUk5IVEd3VVhUbk1MbVJWSVQzMUJrcFlEUUpydEc1VnhhaGQ1ZUVmcnVoM1dpd2hjaGhKbW84Ul9ONHZBYjVjRnZlb2Q2emRKOFFPMmM3N0tEMFh4R0xLUUNrQkxJNDNPa1Mtb3o5RkNNcjcwY3NjZ185aGRkUHc2VW1Wdl9ua0h0R0M?oc=5",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/09/ai-resilience-strategy-blackhat/",
       "priority": 3
     },
-    "remind_at": "2026-08-09T17:34:32.759252-07:00"
+    "remind_at": "2026-08-09T20:03:26.850093-07:00"
+  },
+  {
+    "item": {
+      "company": "Gong",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkxUTU5QLWRGUjhsdVVMRzZpaFA1V1VsenpqRWVjWllhenZ4RVBmem9pQWlLSHFZQUR1cnFGRW5pZEd1Q2dzTTdzZE0ybldYRkZ4RXkyeXg1WXp4MVBlR09STnpOek16aVNiYmRxQUVVaU1OTDZYWmhBVzdvelZFc3FoTVVvVlNrNEFyQ25lOWpHZUxEWXNZVE9MVmRRdmttQld1SGpn?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-09T20:03:29.201727-07:00"
   }
 ]
