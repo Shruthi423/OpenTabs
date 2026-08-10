@@ -1,58 +1,16 @@
 [
   {
     "item": {
-      "company": "Corma",
-      "amount": "$60.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4enFyS25RYXBVLXFPS2paSTZLY1BnMTNfSi14dDZGZno1M09Lc214ZmxkaGZ6RGFsVXRDa2JvY29qWmg1bnduOTBELWlkVnNwbkF6YWVrNHkteWVtaWd0REI3ZTBreWpu?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-08-10T07:12:22.689763-07:00"
-  },
-  {
-    "item": {
-      "company": "A fossil lost",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/10/silescelida-acristata-brazil-fossil-discovery-crocodiles-dinosaurs/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-10T07:12:25.601753-07:00"
-  },
-  {
-    "item": {
-      "company": "Trump amps up pressure",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/10/sargeant-venezuela-sanctions/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-10T07:12:28.704286-07:00"
-  },
-  {
-    "item": {
-      "company": "Apple",
-      "amount": "$15.0B",
+      "company": "WashWise",
+      "amount": "$1.2M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/10/top-tech-news-today-august-10-2026-apple-google-meta-openai-unitree-more/",
+      "url": "https://techstartups.com/2026/08/10/former-citadel-traders-startup-washwise-raises-1-2m-to-reinvent-laundry-with-dry-shampoo-for-clothes/",
       "priority": 3
     },
-    "remind_at": "2026-08-10T07:12:30.938600-07:00"
+    "remind_at": "2026-08-10T08:14:10.877391-07:00"
   }
 ]
