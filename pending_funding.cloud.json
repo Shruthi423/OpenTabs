@@ -1,16 +1,44 @@
 [
   {
     "item": {
-      "company": "ePARA",
+      "company": "The paradox of Gen Z",
       "amount": null,
-      "stage": "Seed",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWExvblR0M0FRTEVZSk4telloaERwWjUxTWRyd1BkaHItaUlWLXNTOWNuTjRvUFVUeGRqeWxWRG1FeDg4a0g3WWlNbWYyVkRtN2JWZENYd1QtMmU0U09hNDhpRGlPS3JUaFRsTUQ0VHNDNW9rQkdUWGItQlI4ZmtUb2pNdHVqWExtd3YzWjV2RHdsZGdJVk5zVUNTNHI1YTA2Vkh0VG1qQ291M01hRk9ZV3pRcy1xdw?oc=5",
-      "priority": 9
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/10/paradox-of-gen-z-capitalism-and-consumption/",
+      "priority": 3
     },
-    "remind_at": "2026-08-10T11:54:43.246560-07:00"
+    "remind_at": "2026-08-10T12:59:58.618207-07:00"
+  },
+  {
+    "item": {
+      "company": "With latest Wall Street downgrade",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/10/apple-stock-downgraded-jefferies-glass-iphone-canceled/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-10T13:00:01.901516-07:00"
+  },
+  {
+    "item": {
+      "company": "New bank targeting 'innovation economy'",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObEpIY2l5LTQ5cm85b3J6MTZVQlNNNklRY21xZ3J6QVNERmJIY0Z6SFc0YWRNMVJwTV9QUldXUE1RM3VwTXBTZFUyM1JMV0NuR29rOGdQYXhld2RmQUtvdWoxcjdUUF82d0FKNXZzcm95RTVkMlRRLW1tOFNKQUNQV1FiNno3ZEQtV1Vsd2tTSVZxOGVqMzlHRWNrSGk5UDVpSTMxcENWUERRV0FlbWZLTGRB?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-10T13:00:05.258892-07:00"
   }
 ]
