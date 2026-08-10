@@ -1,72 +1,16 @@
 [
   {
     "item": {
-      "company": "NexusAdvisors",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/nexusadvisors-raises-50m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-10T03:43:55.347154-07:00"
-  },
-  {
-    "item": {
-      "company": "Sanders calls",
-      "amount": null,
-      "stage": null,
-      "investors": "a progressive like Sanders, is unlikely to garner enough support in this Congress to become law",
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/10/sanders-ai-development-pause",
-      "priority": 3
-    },
-    "remind_at": "2026-08-10T03:43:58.713813-07:00"
-  },
-  {
-    "item": {
-      "company": "How Kevin Warsh",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "New York",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/10/kevin-warsh-fed-economy-rates-ai",
-      "priority": 3
-    },
-    "remind_at": "2026-08-10T03:44:02.170659-07:00"
-  },
-  {
-    "item": {
-      "company": "Platter",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/platter-raises-undisclosed-other/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-10T03:44:04.606090-07:00"
-  },
-  {
-    "item": {
-      "company": "Bakingo",
-      "amount": null,
-      "stage": null,
+      "company": "Baselayer",
+      "amount": "$20.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkwxc2VGc1VxeG1SaGxyc0dPY01DYmtwUDl6cU5XZnBWVDBEcWFDalRwNVZWM0loaUJJQzZPVDZFNUZHbUg0d0lqQ3lOVEFra2NIbHlOUVJUZVNESHc4M0VpWVRMdEZieEJ4eVhEUldIWWo3ZEJWZWw5dGNqSjY1WjE0YmJ3RVdxSGZGOUZWVVFqVzJIUUJPQ0V3Rm5VWFHSAZ8BQVVfeXFMT2JMMXNlRnNVcXhtUmhscnNHT2NNQ2JrcFA5enFOV2ZwVlQwRHFhQ2pUcDVWVjNJaGlCSUM2T1Q2RTVGR21INHdJakN5TlRBa2tjSGx5TlFSVGVTREh3ODNFaVlUTHRGYnhCeHlYRFJXSFlqN2RCVmVsOXRjako2NVoxNGJid0VXcUhmRjlGVlVRalcySFFCT0NFd0ZuVVhR?oc=5",
-      "priority": 3
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3pJbWRuUmtkSGExLXI2YmtQMHlJQjhnb01hVGprZFlRY2owMjFEbnJOeHIxWVJjZ3NRNlZCQS1NTkY4bV94ZjN6UDUzVVdac1ZsWmxGTERZUXdsakpxQmRxOVpuQmsyN05IYkVOQnlPVmFkbzlvWWpJVHpSY2dSREw5WUt2Y2cwVHU1dlJuakh4ZDR3ZkxxN3RMR2hkd2w0YVB3SXRxT0JzcHhxWXZnRGF3?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-10T03:44:07.155150-07:00"
+    "remind_at": "2026-08-10T04:52:15.358242-07:00"
   }
 ]
