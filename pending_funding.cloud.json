@@ -1,58 +1,86 @@
 [
   {
     "item": {
-      "company": "Fitting",
-      "amount": "$1.1M",
+      "company": "Tennsa",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/tennsa-raises-61000-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-10T02:26:58.922191-07:00"
+  },
+  {
+    "item": {
+      "company": "Pally",
+      "amount": "$5.2M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/fitting-raises-1-1m-seed/",
+      "url": "https://www.thesaasnews.com/news/pally-raises-5-2m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-08-10T00:50:13.323465-07:00"
+    "remind_at": "2026-08-10T02:27:01.307852-07:00"
   },
   {
     "item": {
-      "company": "After raising $170M",
-      "amount": "$170.0M",
-      "stage": "Series B",
+      "company": "ORCA AI Agent",
+      "amount": "$7.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/dwelly-170m-funding-uk-lettings-ai/",
-      "priority": 7
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/orca-ai-agent-raises-7m-series-a/",
+      "priority": 8
     },
-    "remind_at": "2026-08-10T00:50:16.380778-07:00"
+    "remind_at": "2026-08-10T02:27:04.428995-07:00"
   },
   {
     "item": {
-      "company": "Edgify",
-      "amount": "$9.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
+      "company": "NavVis",
+      "amount": "$85.0M",
+      "stage": "Series D",
+      "investors": "The Jordan Company to scale its AI and digital twin technology",
+      "location": "Munich",
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/edgify-raises-9m-from-rank-ventures-and-mangrove-capital-to-bring-ai-to-supermarket-shelves-and-checkouts/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/navvis-raises-85m-series-d/",
+      "priority": 5
+    },
+    "remind_at": "2026-08-10T02:27:06.866004-07:00"
+  },
+  {
+    "item": {
+      "company": "Visoid",
+      "amount": "$2.5M",
+      "stage": null,
+      "investors": "Skyfall Ventures to expand its architectural visualisation software platform",
+      "location": "Oslo",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/visoid-raises-2-5m-in-funding/",
       "priority": 3
     },
-    "remind_at": "2026-08-10T00:50:18.576423-07:00"
+    "remind_at": "2026-08-10T02:27:09.270115-07:00"
   },
   {
     "item": {
-      "company": "Oslo-based Visoid",
+      "company": "Valar",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": "Oslo",
+      "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ244UXBWbEYwMVNjQVNfYUp6LURkajRZSG9yRzVoTVUtOGNLdll6TThwZVE4bE9CU3lIN1pQOG1POWRfNWYtS3pWSjg2VTlva2lwSm9ZOW16ejBua0R0dGtNcTN5dzA2OE9FYkRoNEtybGg4bWd2TFcwTHdJTWRxZmdxYmtOQzMtR2xxOXppSm1JMWUyNk4xSm5lSW1WTmFRajRSSEFtNlpBOFRNSWpvOUlVb1cwemNLb2ppcHVLVGZPMmhaNHF3?oc=5",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsT2pOMExtOW53TnEtOGR4aFJuTTlGazNvMlAxZ1B5UW14Rk45c3NWejQ4SS10Si1LVzZqWnNTVE5hdzJYZ1FZR1RZUEFJODFtdi1TQ2Q2T0J2NzNvWU04XzI5NUFYbXFSUzBkQnRqcE52R3BldUtn?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-10T00:50:21.483087-07:00"
+    "remind_at": "2026-08-10T02:27:11.649239-07:00"
   }
 ]
