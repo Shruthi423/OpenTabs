@@ -1,16 +1,58 @@
 [
   {
     "item": {
-      "company": "Discovered Materials",
+      "company": "ElevTalk",
       "amount": null,
-      "stage": "Seed",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/elevtalk-secures-pre-seed-financing-pioneering-custom-voice-interaction-solutions-for/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-10T23:33:41.280893-07:00"
+  },
+  {
+    "item": {
+      "company": "Lucrative AI Inc.",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": "Mountainise Inc",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/lucrative-ai-inc-raises-500000-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-10T23:33:43.671386-07:00"
+  },
+  {
+    "item": {
+      "company": "Ayati Devices",
+      "amount": null,
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUl9HUG5rUnA0Qk1uY3lfVElhVEVxN2JNdUk3LW5CdXVmQ3M0Z3dfS1o4bTVkVjZ1c3dmRFZJanBIR2tBMTk1ZVpmTXR6S0Q2T2tVZ2YybzV2QU9qNFkwZDdPY0dnd09RQUJ1Nk9iQldzTlkxWUJaV1VWZlpaUXI1ZWZGVlpIbHpkTGtBaE1Fd1pGdFp1clRXSUFkMGgwVGIxYVlnZUh3QkJwWTJ1aDIwMHVEWVJCUdIBtgFBVV95cUxPUl9HUG5rUnA0Qk1uY3lfVElhVEVxN2JNdUk3LW5CdXVmQ3M0Z3dfS1o4bTVkVjZ1c3dmRFZJanBIR2tBMTk1ZVpmTXR6S0Q2T2tVZ2YybzV2QU9qNFkwZDdPY0dnd09RQUJ1Nk9iQldzTlkxWUJaV1VWZlpaUXI1ZWZGVlpIbHpkTGtBaE1Fd1pGdFp1clRXSUFkMGgwVGIxYVlnZUh3QkJwWTJ1aDIwMHVEWVJCUQ?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTVBBdy1Tc1VxbzhYSDZmR2RaNG5kam9FQXE1RVpQd0o5UGdnUlE2SW5WSnh1Q284OEpqYzI3eWNSb0RXSERiRDZya1VvTmdmR1NRN3plSjNiN00yTDNJakUzR19yQlYzTHJIclZPWVp1cF9BYlZSY044WFJXNkU2V0Nja1Z6bWF3Y2pGMTVmMkpSdTFPUlBJRE9TVjhCaWtJYlFUZkphUXRzSTdIN3fSAa4BQVVfeXFMT01QQXctU3NVcW84WEg2ZkdkWjRuZGpvRUFxNUVaUHdKOVBnZ1JRNkluVkp4dUNvODhKamMyN3ljUm9EV0hEYkQ2cmtVb05nZkdTUTd6ZUozYjdNMkwzSWpFM0dfckJWM0xySHJWT1ladXBfQWJWUmNOOFhSVzZFNldDY2tWem1hd2NqRjE1ZjJKUnUxT1JQSURPU1Y4QmlrSWJRVGZKYVF0c0k3SDd3?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-10T22:32:09.350054-07:00"
+    "remind_at": "2026-08-10T23:33:46.827310-07:00"
+  },
+  {
+    "item": {
+      "company": "VibeIQ",
+      "amount": "$22.5M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/vibeiq-raises-22-5m-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-10T23:33:49.091690-07:00"
   }
 ]
