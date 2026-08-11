@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "item": {
+      "company": "Accel",
+      "amount": "$550.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-11T15:35:39.993240-07:00"
+  },
+  {
+    "item": {
+      "company": "The House Democratic money machine",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Washington",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/11/max-miller-ohio-brian-poindexter-democrats-2026",
+      "priority": 3
+    },
+    "remind_at": "2026-08-11T15:35:42.899054-07:00"
+  },
+  {
+    "item": {
+      "company": "Trump admin cuts Medicaid funds",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/11/trump-medicaid-youth-transgender-health-care",
+      "priority": 3
+    },
+    "remind_at": "2026-08-11T15:35:45.821048-07:00"
+  }
+]
