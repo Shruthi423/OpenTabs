@@ -1,5 +1,35 @@
 [
   {
+    "id": "6a47d1505d34a603e15dc0b104c5f583",
+    "company": "Neros Reportedly",
+    "amount": "$250.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qalZtN0tGOHJnRWNab18zVWpIcnVyWHA0UG96MTJWWVRQR05wa094bU96dFE3bkdOSmRYSUM5MTFyNnItc2FySEUxMmo0dklOT2o3NjB6eGhEbWllZy15RmNwYUhXcUxILXZVVU1FMXZNRzdFQkpVctIBfkFVX3lxTE1TTmZLYkNEd1Y5S01hUXlmbHZ6dnJ3TTg4TTJVYzJlTGR0RHhJMjk2TWhTUHpuV0cxMjZuLXl6cGZfMnl4clhkX2hMY0puLUZjUzZKRHBfWjlyN0dmRl84eW9NSl81T21Md2FBOHU0Z0RYZVQzYnZWdVBFWE1mdw?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-11T08:40:22.971926-07:00",
+    "status": "active"
+  },
+  {
+    "id": "ac657df483fa77af6fb027e833117e37",
+    "company": "Flagler Health",
+    "amount": "$50.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/08/11/flagler-health-raises-50m-series-b-to-build-the-ai-operating-system-for-400-billion-musculoskeletal-care-market/",
+    "priority": 7,
+    "founders": [],
+    "location": "The New York",
+    "roles": [],
+    "first_seen": "2026-08-11T08:40:19.934551-07:00",
+    "status": "active"
+  },
+  {
     "id": "72cfbe45dec866ffb5b90f9f5928ce6b",
     "company": "TetraGen Robotics",
     "amount": "$1.8M",
