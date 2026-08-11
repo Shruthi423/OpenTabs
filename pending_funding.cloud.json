@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "ZeroDrift applies small language model",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/11/exclusive-zerodrift-applies-small-language-model-prevent-ai-generated-compliance-violations/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-11T07:11:23.775432-07:00"
+  },
+  {
+    "item": {
+      "company": "FriskAI",
+      "amount": "$3.6M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/friskai-raises-3-6m-from-mac-venture-capital-to-watch-what-ai-agents-do/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-11T07:11:26.169967-07:00"
+  }
+]
