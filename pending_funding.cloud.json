@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "Ruizhi",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPXzMwdHFCa0pQWWtqVzZ3bFRtQXFfR2ZtMHNMaXBvSEJGZTdhVVA1TkhoZVV3TjFQNmQ1OVNKSlNXZHZXbjFtQ3JZeGZYamRGeXpEdmVZN1MtWlcyMjd1bUtWREVIVW5TX3VEUnlFYVFzZmpNX1JaZmdRdmJIM0lSa0FTQ1oycElPQVBRR3lwZHlGb0RyX01fVnJaMUIzbk81WmRkTmRCd3UzZHpTRFRQQw?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-08-11T11:10:14.448188-07:00"
-  },
-  {
-    "item": {
-      "company": "The Padel City",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVduZkV6RFBQUXNkaWllUVpuRDdPM1ZfWTRUWmtCUUFhYkc5WmkwNkV0RHhPSVI0eTh2WVM5Wjl1c2NmVTJ3UFAyVFZUMjJFVE5rTmNlU0R5c0xMQ2llRkdwbkdsNHpNTElFd0p6a1QwVy1veDJwSkRnTWhjV1o3cEstX1V1NUp0eFRtLVU0bXlRMGM4N3Q4?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-11T11:10:18.859336-07:00"
-  },
-  {
-    "item": {
-      "company": "Trump's DOJ lays groundwork",
-      "amount": null,
+      "company": "What\u2019s Scaleup Europe",
+      "amount": "$5.7B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/11/trump-doj-executive-privilege-democratic-probes",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
       "priority": 3
     },
-    "remind_at": "2026-08-11T11:10:22.194240-07:00"
+    "remind_at": "2026-08-11T12:05:32.570723-07:00"
+  },
+  {
+    "item": {
+      "company": "Intel",
+      "amount": "$20.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/10/intel-launch-15b-stock-sale-amid-ai-boom-advanced-packaging-demand/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-11T12:05:34.823839-07:00"
   }
 ]
