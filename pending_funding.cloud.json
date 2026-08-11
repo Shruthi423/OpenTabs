@@ -1,30 +1,72 @@
 [
   {
     "item": {
-      "company": "ZeroDrift applies small language model",
+      "company": "River Markets",
+      "amount": "$8.5M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xV2pUWFNfZHgwSlZxa2FaVGo0eFVvWHhTU3JyNDM1UC12N1BhakZ2Umc3bHl6RFpzRXNoYmtmQUI5Nmh4UW9VWGxUa2V5OVdVUWZXRzlBbmNwcFNzSUt2Y1ljTjhQdDVtam5JRHJZSDdkbGJ1?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-11T08:13:59.006971-07:00"
+  },
+  {
+    "item": {
+      "company": "Nvidia taps Wall Street",
+      "amount": "$500.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/11/nvidia-500-billion-ai-financing/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-11T08:14:16.999127-07:00"
+  },
+  {
+    "item": {
+      "company": "Anthropic",
+      "amount": "$500.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/08/11/top-tech-news-today-august-11-2026-anthropic-intel-meta-openai-nvidia-unitree-more/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-11T08:14:19.373154-07:00"
+  },
+  {
+    "item": {
+      "company": "Trajectory",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/11/exclusive-zerodrift-applies-small-language-model-prevent-ai-generated-compliance-violations/",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTWY0NUMtYk5Wczl5T29sREJaSjM5Xy1LWjhkVzV3NXMwSndqRFJ6NENBUUpNNTg5RXlTMmkzRWZNbzFWZ2E1akE5bkhJbjctaU1FN01kbjVhM3FqbF85Zjd2bV9OazVXZENzRzdhV3Q1azJfZ2RsT29CdlNuUlVLV1JOV1lGNC1yWEdBRTVLcEJVNkQ3TVVwOWJlclJJak01OXE0dE1NX0prNGxocDF3X2o1TVhnenN6bGdZdzhCdlBTQXlwWE5wSi1wMGNsczZVQVZfaQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-11T07:11:23.775432-07:00"
+    "remind_at": "2026-08-11T08:14:22.220018-07:00"
   },
   {
     "item": {
-      "company": "FriskAI",
-      "amount": "$3.6M",
+      "company": "TetraGen Robotics",
+      "amount": "$1.8M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/friskai-raises-3-6m-from-mac-venture-capital-to-watch-what-ai-agents-do/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGJwdW5ta2xtUFNta1A4Wmw0M3ZlLVBMdFl3NWVxbklLUF9fYmtyWXRkUjJ4YXlncUI0SDg4WE1fSzMtMk5fZjVGMFp0UDM5Ml9RVnM4Sk0zbHhEdkE4OTN6M213Tk5oLXJtM2hZNVdmMHNpNUY2a1ZQWWlLWlJhVXBTVngxa1VJVFBWVA?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-11T07:11:26.169967-07:00"
+    "remind_at": "2026-08-11T08:14:25.359073-07:00"
   }
 ]
