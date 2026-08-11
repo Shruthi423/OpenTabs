@@ -39728,5 +39728,35 @@
     "roles": [],
     "first_seen": "2026-08-11T15:05:46.821207-07:00",
     "status": "active"
+  },
+  "3ef76080c4715b6c62ce96f73a2bef12": {
+    "id": "3ef76080c4715b6c62ce96f73a2bef12",
+    "company": "River AI",
+    "amount": "$1.1B",
+    "stage": "Series A",
+    "investors": "Nvidia, AMD River AI Inc",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/11/personalized-ai-startup-river-ai-raises-1-1b-consortium-backed-nvidia-amd/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-11T16:02:07.676500-07:00",
+    "status": "active"
+  },
+  "1309606058e96e7197f59c497d55c813": {
+    "id": "1309606058e96e7197f59c497d55c813",
+    "company": "Senate GOP super PAC doubles down",
+    "amount": "$6.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/11/michigan-senate-abdul-el-sayed-gop-super-pac",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-11T16:02:10.675499-07:00",
+    "status": "active"
   }
 }
