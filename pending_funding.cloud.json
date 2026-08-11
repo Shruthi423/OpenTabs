@@ -1,58 +1,158 @@
 [
   {
     "item": {
-      "company": "ElevTalk",
+      "company": "Innocens",
       "amount": null,
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/elevtalk-secures-pre-seed-financing-pioneering-custom-voice-interaction-solutions-for/",
+      "url": "https://www.thesaasnews.com/news/innocens-raises-1-5m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-08-10T23:33:41.280893-07:00"
+    "remind_at": "2026-08-11T01:05:37.536486-07:00"
   },
   {
     "item": {
-      "company": "Lucrative AI Inc.",
+      "company": "Cobi",
+      "amount": "$1.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOF85Q3hKR2IxbHVMemJENy1RR2N2UHJkeU1jQU1kODdkRms2blVPWG92UEM4cWgySnNKM1dHVmtrMlZIX0dwSGFsYzhxeGxzQUJ6cUVBOW0zX3dUTHpKN0tqVkVXZFRFZmNvMTJfLUZWbExCLTRsWWR5a3dCYWdad3F5V2ZIOHlvQXdwN1ZvcXYwa2lVX29LcjA5M0pnbjdxckc3WnduQXp0UQ?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-08-11T01:05:40.003254-07:00"
+  },
+  {
+    "item": {
+      "company": "Palette",
       "amount": null,
       "stage": "Pre-Seed",
-      "investors": "Mountainise Inc",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLW53SnU3NkhiQTJWXzNMdzN6dGhNTEpEWGxsRHU5RjhXQjdYN1llYzVlNzIxem1oeVc5SGRJVzFadFpsRUNmdEtrS0ZRa0E2Q0ppWUMyY0F1OEhtQmZtWUVHYlEzZ09MRmRWQUZETUdfYXhMczN6RkVYb2FINHRqckF6YkJ3V3RzNXNNYlhTWjd6MEtWaEVHTmFn?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-08-11T01:05:42.314445-07:00"
+  },
+  {
+    "item": {
+      "company": "Jack & Jill",
+      "amount": "$20.0M",
+      "stage": "Seed",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/lucrative-ai-inc-raises-500000-pre-seed/",
-      "priority": 10
+      "url": "https://www.thesaasnews.com/news/jack-jill-raises-20m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-08-10T23:33:43.671386-07:00"
+    "remind_at": "2026-08-11T01:05:45.532544-07:00"
   },
   {
     "item": {
-      "company": "Ayati Devices",
+      "company": "Stealcut",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yanNaZEZneFFsWnEtWElRa2NHMWJxUURibE95WkxETmJuRXdqeGxiTFVSVUNHNnpSbXpJVFV5RXJZZ3E3Z2ttRnFwb3NmdWt4YmdV?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-11T01:05:47.973737-07:00"
+  },
+  {
+    "item": {
+      "company": "Bunkerkids",
+      "amount": "$9.7M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MX2M0SDAta0NGbjRLS0h6a283Uktja1ZHaFdYcms0TWJMZ3ZfSXR2cTlDYW1rdEw4X3ZRMEcwZ3EtYVAwdUVQSHd2RUVha0pqaXRZ?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-08-11T01:05:50.361992-07:00"
+  },
+  {
+    "item": {
+      "company": "AllMade",
       "amount": null,
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTVBBdy1Tc1VxbzhYSDZmR2RaNG5kam9FQXE1RVpQd0o5UGdnUlE2SW5WSnh1Q284OEpqYzI3eWNSb0RXSERiRDZya1VvTmdmR1NRN3plSjNiN00yTDNJakUzR19yQlYzTHJIclZPWVp1cF9BYlZSY044WFJXNkU2V0Nja1Z6bWF3Y2pGMTVmMkpSdTFPUlBJRE9TVjhCaWtJYlFUZkphUXRzSTdIN3fSAa4BQVVfeXFMT01QQXctU3NVcW84WEg2ZkdkWjRuZGpvRUFxNUVaUHdKOVBnZ1JRNkluVkp4dUNvODhKamMyN3ljUm9EV0hEYkQ2cmtVb05nZkdTUTd6ZUozYjdNMkwzSWpFM0dfckJWM0xySHJWT1ladXBfQWJWUmNOOFhSVzZFNldDY2tWem1hd2NqRjE1ZjJKUnUxT1JQSURPU1Y4QmlrSWJRVGZKYVF0c0k3SDd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WUzd1ZGpZejNtZzJENi10SHJTM3BqZlpuWkRJZTAxbnNVeHBnR0ZNWURZYTN0eGQzZmVITFJmZkNCM1BLLXhVVWJVcGFxVDlKM2o0?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-08-10T23:33:46.827310-07:00"
+    "remind_at": "2026-08-11T01:05:52.689860-07:00"
   },
   {
     "item": {
-      "company": "VibeIQ",
-      "amount": "$22.5M",
+      "company": "\u200bFinster AI",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/finster-ai-secures-strategic-investment/",
+      "priority": 7
+    },
+    "remind_at": "2026-08-11T01:05:55.314457-07:00"
+  },
+  {
+    "item": {
+      "company": "\u2018It\u2019s a trap\u2019",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [
+        "Arianna Huffington"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/11/arianna-huffington-says-even-high-flying-ceos-are-unhappy-and-feel-stuck-in-their-multimillion-dollar-jobs-its-a-trap/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-11T01:05:58.554131-07:00"
+  },
+  {
+    "item": {
+      "company": "inKind",
+      "amount": "$414.0M",
+      "stage": null,
+      "investors": "Citi and Cross River to scale its restaurant commerce and capital platform for thousands of operators",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/inkind-raises-414m-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-11T01:06:00.900588-07:00"
+  },
+  {
+    "item": {
+      "company": "Diald",
+      "amount": "$1.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/vibeiq-raises-22-5m-growth-capital/",
+      "url": "https://www.thesaasnews.com/news/diald-raises-1m-seed/",
       "priority": 3
     },
-    "remind_at": "2026-08-10T23:33:49.091690-07:00"
+    "remind_at": "2026-08-11T01:06:03.379937-07:00"
   }
 ]
