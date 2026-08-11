@@ -1,5 +1,37 @@
 [
   {
+    "id": "18ed3be5010c3ae0c33414c6373e457f",
+    "company": "CORRECTING and REPLACING Ellis",
+    "amount": "$10.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNSVp3N3VFZ3ljeUsySnI0MEVMZW1yZGFqVkVpWF91eml4Y1N0TkpMOVNvZlV5NGhIb250QXJoU2VKUzlBaWxVNllydUthZllQcXJ5YzNBOFNjM3RNU3VOY001bjNKMHMwSDcyOWtUN1cyUVV5VzY0UW8tbXFmd1dJTEM4MWE5VS1EcnU4V2FNY2ljdk1BWUxKb3Q1TU5aSXNkczRyeEdJRUZBcGtyRTUzUXFZMXJOYVRtaUdIQ3YxVnVCWU4wT3dsT2ZILXJ1aTBuTlp1dHRxZ3JYbGtRTktWWGFwMXVEMVduVVZia3hRSE5UdkVKZEwxQlRzTnhpQjdkX1owM0xad012UVNxeGRfM1h6OVJ2aldnQU82MmZhX2ZQRjdhQVBr?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-11T13:26:14.728714-07:00",
+    "status": "active"
+  },
+  {
+    "id": "90429c0423a1e7d16dc4312f0b753cf1",
+    "company": "Founder Ryan Williams",
+    "amount": "$10.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3Zuc21KQl9zYi15RFR6aEl1Wl92aFNLUm1zTFNtRVJCM0VTalRjRmNnNzZVS1RueXlBcWtscm51bjNEa3pCUnp1dEI1U2s4ZmxTbzFieXVJN0hJWVR1UVROZWhnT1pSSVo4YW1ZeHpoa3lyTDJWOHFseW9IN3Juc1hVLXFpZmhU?oc=5",
+    "priority": 9,
+    "founders": [
+      "Ryan Williams Raises"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-11T13:26:11.746561-07:00",
+    "status": "active"
+  },
+  {
     "id": "5e5def495f811ebe59620f434550b100",
     "company": "Frontier AI",
     "amount": "Undisclosed",
