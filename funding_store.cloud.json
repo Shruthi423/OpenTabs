@@ -39758,5 +39758,35 @@
     "roles": [],
     "first_seen": "2026-08-11T16:02:10.675499-07:00",
     "status": "active"
+  },
+  "4e59d65543e47af0a214ff6228212a3a": {
+    "id": "4e59d65543e47af0a214ff6228212a3a",
+    "company": "Genera",
+    "amount": "$10.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUd2T3hQT01PcDdzbU5wcTQ2OUhRYTlPSGc4WTlNMXQ5WUJTZzR6SlBzM1JXLUZpOXN2UDdIQUMwc2tCaF9RdmRhNTd5bC1tYmN4RHFveFd3N3BMalYxYUttS24ybWNFaUwtOXN1UXMxTFIzWjlvNU40bV9QamFhN2pHTnpRcjhrS3hKaW5nWXFxLTNEclZyMHlR?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-11T16:59:20.079412-07:00",
+    "status": "active"
+  },
+  "3c0d8d16c339bda167704d9fc5ec18b1": {
+    "id": "3c0d8d16c339bda167704d9fc5ec18b1",
+    "company": "When OpenAI employees have a problem",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/11/openai-employees-email-friction-address-to-eliminate-bureaucratic-bottlenecks-sam-altman/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-11T16:59:23.427319-07:00",
+    "status": "active"
   }
 }
