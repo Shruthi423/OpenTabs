@@ -11961,5 +11961,23 @@
     "first_seen": "2026-08-11T07:43:36.375657-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "8fb85f5cf717bd5378c61155e91a848b": {
+    "id": "8fb85f5cf717bd5378c61155e91a848b",
+    "title": "Product Designer, People Products",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383660008",
+    "source": "Anthropic",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-08-11T10:39:38.039949-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
