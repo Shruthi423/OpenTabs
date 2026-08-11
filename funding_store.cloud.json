@@ -39208,5 +39208,35 @@
     "roles": [],
     "first_seen": "2026-08-11T00:36:04.380096-07:00",
     "status": "active"
+  },
+  "b531837fe04fc24ae0ce3c7c6f7108ee": {
+    "id": "b531837fe04fc24ae0ce3c7c6f7108ee",
+    "company": "Vecton AI",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeTYzVnpycTVLSEtaM0xGbXlqUS0tajE3SGJJYlBuY2RwSUpEWk1wMndfdl9neVVLQmFXNFVqRjk0M25ORWlMa1lVQU1sUHR1c0RaS2kxT2ltS29IRjJGUlVGd1JDSWRkLVE5cUMzVmJfS1d0VzBjWUY1c3pXcll3ZkQwZGV6c2ZJVmZIQUNiWktQR3NCSWtiV3Y2ck1ZQ3poQlpr0gGjAUFVX3lxTE95NjNWenJxNUtIS1ozTEZteWpRLS1qMTdIYkliUG5jZHBJSkRaTXAyd192X2d5VUtCYVc0VWpGOTQzbk5FaUxrWVVBTWxQdHVzRFpLaTFPaW1Lb0hGMkZSVUZ3UkNJZGQtUTlxQzNWYl9LV3RXMGNZRjVzeldyWXdmRDBkZXpzZklWZkhBQ2JaS1BHc0JJa2JXdjZyTVlDemhCWms?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-11T01:37:00.864804-07:00",
+    "status": "active"
+  },
+  "d373ace5af3efa29f67f12f70b735f84": {
+    "id": "d373ace5af3efa29f67f12f70b735f84",
+    "company": "Sola",
+    "amount": "$17.5M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/sola-raises-17-5m-series-a/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-11T01:37:03.300876-07:00",
+    "status": "active"
   }
 }
