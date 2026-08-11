@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "item": {
+      "company": "Built",
+      "amount": "$60.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZNXBnMExZN3R1V3ppdXR1Zm5oMGswZVVLZy02V1VVYXdkX2cwbkJqTV8tQ0RMU0cwU0l2djUtVW1XaUxNanZtRE1QenkxMzBmcUh1bkxNX1dsNnB2cEcxdjRrUU04X01zQ0ZFd3dhQlNhV2Q1eEE?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-10T19:31:52.543483-07:00"
+  },
+  {
+    "item": {
+      "company": "Nvidia taps Wall Street",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/10/nvidia-taps-wall-street-half-trillion-dollars-fuel-global-ai-infrastructure-buildout/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-10T19:31:55.750703-07:00"
+  },
+  {
+    "item": {
+      "company": "Millibeam",
+      "amount": "$4.6M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHdFODJRdHNnSXR1MG5rT080aUlpMUZMd3dMUVVldmlaZnlueTlUNDBpNHBGQXdWTTJaV1FJMG16MFM2OXlJUFZvc3k1dDRIRWZRcmprSUp2TE5pUnNsOEJRVFRhaHF3eDE5SmllaFZabFlDWl9xNEdReVFHb1lXUFdjRXVybk1uLUNsMk92cUZ3ak1NLWFDWDhQRGc3UFl2QjhZYVpTYnY0cEk4NzBuZGdqVEJLSFU3NmdXSUVIWW5ZeWVzZ1JBUS1B?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-10T19:31:58.106624-07:00"
+  }
+]
