@@ -1,30 +1,58 @@
 [
   {
     "item": {
-      "company": "Vecton AI",
-      "amount": null,
-      "stage": "Pre-Seed",
+      "company": "Contented",
+      "amount": "$4.1M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeTYzVnpycTVLSEtaM0xGbXlqUS0tajE3SGJJYlBuY2RwSUpEWk1wMndfdl9neVVLQmFXNFVqRjk0M25ORWlMa1lVQU1sUHR1c0RaS2kxT2ltS29IRjJGUlVGd1JDSWRkLVE5cUMzVmJfS1d0VzBjWUY1c3pXcll3ZkQwZGV6c2ZJVmZIQUNiWktQR3NCSWtiV3Y2ck1ZQ3poQlpr0gGjAUFVX3lxTE95NjNWenJxNUtIS1ozTEZteWpRLS1qMTdIYkliUG5jZHBJSkRaTXAyd192X2d5VUtCYVc0VWpGOTQzbk5FaUxrWVVBTWxQdHVzRFpLaTFPaW1Lb0hGMkZSVUZ3UkNJZGQtUTlxQzNWYl9LV3RXMGNZRjVzeldyWXdmRDBkZXpzZklWZkhBQ2JaS1BHc0JJa2JXdjZyTVlDemhCWms?oc=5",
-      "priority": 10
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVZCMXhMRVVPVXBiX2VSTzl6aXdDU0hod1hSVndwMmZ5eHMzYnhEMXRZTkRrdXpjN1BPZnJUdC1KMlVLM1FrdWo5bDVNV1VaN3g5cmhBc0JGdkUwYkItUGw5TkZONkdLai15WDYxRWVXRmx3YnVhSWNwNWIzNU1mU0NOZkJWZlVoSDV1azhKMXhOUUJTbGphdnRPV3lCNGNy?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-08-11T02:06:59.864650-07:00"
+    "remind_at": "2026-08-11T03:10:39.990568-07:00"
   },
   {
     "item": {
-      "company": "Sola",
-      "amount": "$17.5M",
+      "company": "Seeds",
+      "amount": "$10.0M",
+      "stage": "Series A",
+      "investors": "Portage to expand its fintech platform for registered investment advisors and support product innovation",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/seeds-raises-10m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-11T03:10:42.232648-07:00"
+  },
+  {
+    "item": {
+      "company": "Clerq",
+      "amount": "$21.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sola-raises-17-5m-series-a/",
+      "url": "https://www.thesaasnews.com/news/clerq-raises-21m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-08-11T02:07:02.300718-07:00"
+    "remind_at": "2026-08-11T03:10:44.584692-07:00"
+  },
+  {
+    "item": {
+      "company": "Why \"chipflation\"",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/11/chips-memory-inflation-ai",
+      "priority": 3
+    },
+    "remind_at": "2026-08-11T03:10:47.665154-07:00"
   }
 ]
