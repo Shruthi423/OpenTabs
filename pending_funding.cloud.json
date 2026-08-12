@@ -1,72 +1,16 @@
 [
   {
     "item": {
-      "company": "MarginEdge",
-      "amount": "$80.0M",
-      "stage": "Series D",
+      "company": "Cytix",
+      "amount": null,
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/marginedge-raises-80m-series-d/",
-      "priority": 5
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZTdub0p0WlNfVlJZWXpVakpsWU0wd19wXzVLNm4yaGNmQ2FMeUlFSllfUlFlNW40RW1FaVZ2XzFGOHBJSGFKWjZhSkVWc1ZmRFFPS0tBQTFtdnpyZnFVeVRjTExrbDItX2Vjdzg2UzJFSVByVl9TZFg5ZERxWmlxOHBWTzVxaUM1dmEzelFtRHhJUDZOaGlKbTktYTdRUWxXV1RWMW1iQVZrMW9FWjhUM19WLVBTSmloam84eXBwLVVYVndGTW1sRW9xVW41ZVRJY2c?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-12T03:09:54.140580-07:00"
-  },
-  {
-    "item": {
-      "company": "AOC",
-      "amount": "$15.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/12/aoc-democratic-socialists-2028",
-      "priority": 3
-    },
-    "remind_at": "2026-08-12T03:09:56.593507-07:00"
-  },
-  {
-    "item": {
-      "company": "Entravel",
-      "amount": "$7.5M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/entravel-raises-7-5m-to-take-crypto-travel-platform-mainstream/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-12T03:09:58.943360-07:00"
-  },
-  {
-    "item": {
-      "company": "TripleDart tops $7 million ARR",
-      "amount": "$7.0M",
-      "stage": null,
-      "investors": null,
-      "location": "Bengaluru",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/12/tripledart-tops-7-million-arr-with-ai-led-growth-reports-50-per-cent-ebit-margin/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-12T03:10:02.206658-07:00"
-  },
-  {
-    "item": {
-      "company": "Kesh",
-      "amount": "$110.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kesh-raises-110m-growth-capital/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-12T03:10:04.574644-07:00"
+    "remind_at": "2026-08-12T04:13:18.892352-07:00"
   }
 ]
