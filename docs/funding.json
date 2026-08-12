@@ -1,5 +1,103 @@
 [
   {
+    "id": "750c0fd1975252b8e4d1b326ff11387e",
+    "company": "After donating $8 billion",
+    "amount": "$8.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/11/steve-and-connie-ballmer-are-splitting-their-8-billion-philanthropy-into-three-so-the-people-closest-to-the-work-can-decide-how-the-money-is-spent/",
+    "priority": 3,
+    "founders": [
+      "Terri Ludwig"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-12T09:53:18.310785-07:00",
+    "status": "active"
+  },
+  {
+    "id": "60aa7187e9b8b26d8bf7433cb11040b5",
+    "company": "The majority of U.S. employers",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/12/majority-of-u-s-employers-say-they-plan-to-increase-hiring-top-roles-theyre-looking-for/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-12T09:53:14.970668-07:00",
+    "status": "active"
+  },
+  {
+    "id": "e05e439c9c332a69000dcf24ac1d3159",
+    "company": "Gates Foundation\u2019s $540 million gift",
+    "amount": "$540.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/12/gates-foundation-540-million-donation-university-of-washington/",
+    "priority": 3,
+    "founders": [],
+    "location": "Washington",
+    "roles": [],
+    "first_seen": "2026-08-12T09:53:11.496680-07:00",
+    "status": "active"
+  },
+  {
+    "id": "aeb1394bb0ceb99689c1ef1af7cc37a1",
+    "company": "Lovable confirms new $13.3B valuation",
+    "amount": "$13.3B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-12T09:53:08.043249-07:00",
+    "status": "active"
+  },
+  {
+    "id": "7eccac8674c407e6ce3d12ce157de3d0",
+    "company": "Yuno",
+    "amount": "$45.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSkRYMWNsZXgzVGdWSE1NTEFxWldzXzZORW9QR1JiVklxbzQ1VHlyV28xNHc4eHUzbzhETkNnV3ZwZ2V1V0JobWtWLTR1VTJTb1lJT2dTSGtpM3U5TlpqZmNJYWtId084SDNiREI5X0FZbklMNG5OOVBuRFdSc1BHejg4Z09VVXc?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-12T09:53:04.757182-07:00",
+    "status": "active"
+  },
+  {
+    "id": "7a736bf93ecca7032b7279d5860123e8",
+    "company": "Blacksmith",
+    "amount": "$45.0M",
+    "stage": "Series B",
+    "investors": "Y Combinator and GV also participating",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/12/blacksmith-raises-45m-aid-ai-code-validation-agentic-development-grows/",
+    "priority": 10,
+    "founders": [],
+    "location": "SF / NYC",
+    "roles": [
+      {
+        "title": "Brand Designer",
+        "url": "https://jobs.ashbyhq.com/blacksmith/9c14a5cf-2e94-4b04-90f3-cb0fae25f1ee",
+        "location": "SF / NYC"
+      }
+    ],
+    "first_seen": "2026-08-12T09:53:02.302210-07:00",
+    "status": "active"
+  },
+  {
     "id": "4efa44593df724df84a5dce4f2f05633",
     "company": "Norway oil fund CEO",
     "amount": "$150.0B",

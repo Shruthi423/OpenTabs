@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "job": {
+      "title": "Brand Designer",
+      "company": "Blacksmith",
+      "location": "SF / NYC",
+      "url": "https://jobs.ashbyhq.com/blacksmith/9c14a5cf-2e94-4b04-90f3-cb0fae25f1ee",
+      "salary": "Not listed",
+      "description": "About Blacksmith\n\n - We started by building infrastructure to run CI workloads really fast. Our first product helps companies run GitHub Actions substantially faster and cheaper by owning and operating our own global fleet of bare-metal machines rather than renting generic cloud VMs.\n\n - Today, we o",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery"
+    },
+    "remind_at": "2026-08-12T10:22:59.491875-07:00"
+  }
+]
