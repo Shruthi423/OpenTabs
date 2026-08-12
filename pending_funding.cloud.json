@@ -1,74 +1,72 @@
 [
   {
     "item": {
-      "company": "Wippi",
+      "company": "Zerolook",
       "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/zerolook-raises-1-6m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-12T00:30:03.894017-07:00"
+  },
+  {
+    "item": {
+      "company": "Simaia",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/simaia-raises-pre-seed-funding/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-12T00:30:06.506957-07:00"
+  },
+  {
+    "item": {
+      "company": "Attestable",
+      "amount": "$20.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2NPNjgwTUZvR3RRLW04SkQ1V0JpLXk3U0xrbi14REVaMHJGTThEd25RaXdrMV9sMjhCWm1CakRGbmlVbU53eXN1bXIwdDdjN0I0dVJaS3Y0MzNLVG1VRkVFRFZEc2NLY2FCOVZfNDZvQmwzVXpCeUlBMjVneGVvTjRYclEyWmlpMjFaWHprajTSAZABQVVfeXFMUE9jTzY4ME1Gb0d0US1tOEpENVdCaS15N1NMa24teERFWjByRk04RHduUWl3azFfbDI4QlptQmpERm5pVW1Od3lzdW1yMHQ3YzdCNHVSWkt2NDMzS1RtVUZFRURWRHNjS2NhQjlWXzQ2b0JsM1V6QnlJQTI1Z3hlb040WHJRMlppaTIxWlh6a2o0?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/attestable-raises-20m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-08-11T23:15:54.491965-07:00"
+    "remind_at": "2026-08-12T00:30:09.059028-07:00"
   },
   {
     "item": {
-      "company": "India\u2019s Yulu",
-      "amount": "$93.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-11T23:15:57.410955-07:00"
-  },
-  {
-    "item": {
-      "company": "\u2019No one sees you as competition\u2019",
-      "amount": "$2.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [
-        "Ronnen Harary"
-      ],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/11/cofounder-2-billion-toy-giant-spin-master-ronnen-harary-best-time-start-business-in-20s-no-one-sees-you-as-competition/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-11T23:16:00.366011-07:00"
-  },
-  {
-    "item": {
-      "company": "Entravel Group",
-      "amount": "$7.5M",
-      "stage": null,
-      "investors": null,
+      "company": "Legio",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": "Klass Capital to modernize campus public safety and security operations software for higher education",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/entravel-group-raises-7-5m-other/",
-      "priority": 3
+      "url": "https://www.thesaasnews.com/news/legio-raises-5m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-08-11T23:16:03.290406-07:00"
+    "remind_at": "2026-08-12T00:30:11.622700-07:00"
   },
   {
     "item": {
-      "company": "Fisent Technologies",
-      "amount": "$4.3M",
+      "company": "ApartmentIQ",
+      "amount": "$25.0M",
       "stage": null,
-      "investors": "FINTOP to scale its agentic AI process automation software for large regulated enterprises",
+      "investors": "Susquehanna Growth Equity to scale its multifamily AI revenue management and marketing automation platform",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/fisent-technologies-raises-4-3m-venture-round/",
+      "url": "https://www.thesaasnews.com/news/apartmentiq-raises-25m-growth-capital/",
       "priority": 3
     },
-    "remind_at": "2026-08-11T23:16:05.611513-07:00"
+    "remind_at": "2026-08-12T00:30:14.241415-07:00"
   }
 ]
