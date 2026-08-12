@@ -1,72 +1,100 @@
 [
   {
     "item": {
-      "company": "Zerolook",
+      "company": "Lane",
       "amount": null,
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/zerolook-raises-1-6m-pre-seed/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaGt6ZUlXUU5nYnNLLVV6SWpPYTB2S1kzZl91MzRJSjZTbEoxTnFFZ25sMmdONzR5X2VKNjN4UmxWaXNweGMzMWJYZ1k5WW1kQzFyblBONGtlWjFCMmViTDJveElSUHRNODNVbzl4cGJiZzkzc1VCTGo0eU1oQThmczFXQ256eDl5TkF1M3BOcVpfOXBjS1JQUjA1LVllRkhQVkQ1WUd6NG5DbWxobFlVMjI1WDlNMFhHajQzR012NEREMll4VzdlT2hqY3hNcmVMWTVXZDdUV00xQjFnUlQyX3BGUFJwaGJoZHc?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-08-12T00:30:03.894017-07:00"
+    "remind_at": "2026-08-12T01:51:15.432643-07:00"
   },
   {
     "item": {
-      "company": "Simaia",
+      "company": "MemoraX AI",
       "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/simaia-raises-pre-seed-funding/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-12T00:30:06.506957-07:00"
-  },
-  {
-    "item": {
-      "company": "Attestable",
-      "amount": "$20.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/attestable-raises-20m-seed/",
+      "url": "https://www.thesaasnews.com/news/memorax-ai-raises-hundreds-of-millions-seed/",
       "priority": 9
     },
-    "remind_at": "2026-08-12T00:30:09.059028-07:00"
+    "remind_at": "2026-08-12T01:51:17.831097-07:00"
   },
   {
     "item": {
-      "company": "Legio",
-      "amount": "$5.0M",
+      "company": "Wippi",
+      "amount": "$1.2M",
       "stage": "Seed",
-      "investors": "Klass Capital to modernize campus public safety and security operations software for higher education",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaS1qTkxNZ052VEd3eHpJaHJwWUdYSlc4MmdhUUlVWEZsOGJ2RnRYYVBna0o2WUJsVWFyMVl2V2dSTkFGazk1SnhjaVJCR1VCakplRHRrUi1sc2xoaVVKMGNUMGRtRGZCNWhXSDlRYlROOEVsVGd5aWdyR0dDUTVZNVdkN3hHX2RXMFk5VmJoMnlMXzY0V19ZNHJYdXJwa2Q2ZFdiTHlXSnN4QlFIcXdrXzlsUVFGWTZzOFJGR01Ua3N5b2YwRHJGU0pJWC10ZlFRaWZ4TzR1bDZBcFhORDNaUQ?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-12T01:51:20.389057-07:00"
+  },
+  {
+    "item": {
+      "company": "Cytix",
+      "amount": "$7.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/cytix-raises-7m-after-northern-gritstone-unsolicited-offer/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-12T01:51:22.838140-07:00"
+  },
+  {
+    "item": {
+      "company": "Arab Therapy",
+      "amount": "$2.0M",
+      "stage": "Series A",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/legio-raises-5m-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/arab-therapy-raises-2m-pre-series-a/",
+      "priority": 8
     },
-    "remind_at": "2026-08-12T00:30:11.622700-07:00"
+    "remind_at": "2026-08-12T01:51:26.233845-07:00"
   },
   {
     "item": {
-      "company": "ApartmentIQ",
-      "amount": "$25.0M",
+      "company": "Forget the gala",
+      "amount": null,
       "stage": null,
-      "investors": "Susquehanna Growth Equity to scale its multifamily AI revenue management and marketing automation platform",
-      "location": null,
+      "investors": null,
+      "location": "Bay Area",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/apartmentiq-raises-25m-growth-capital/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/12/forget-the-gala-these-silicon-valley-schools-run-their-own-venture-capital-funds/",
       "priority": 3
     },
-    "remind_at": "2026-08-12T00:30:14.241415-07:00"
+    "remind_at": "2026-08-12T01:51:29.646206-07:00"
+  },
+  {
+    "item": {
+      "company": "Universities",
+      "amount": "$1.2B",
+      "stage": null,
+      "investors": null,
+      "location": "Washington",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/12/george-washington-university-of-michigan-property-sale-ai-data-center-development/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-12T01:51:32.048318-07:00"
   }
 ]
