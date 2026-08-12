@@ -1,5 +1,67 @@
 [
   {
+    "id": "4efa44593df724df84a5dce4f2f05633",
+    "company": "Norway oil fund CEO",
+    "amount": "$150.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/12/norway-oil-fund-ceo-says-hes-more-nervous-after-record-returns/",
+    "priority": 3,
+    "founders": [
+      "Nicolai Tangen"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-12T08:55:39.656735-07:00",
+    "status": "active"
+  },
+  {
+    "id": "a8f9b2b15b1320b48af7cc06696b24e9",
+    "company": "\u2018Call Her Daddy\u2019 host Alex Cooper",
+    "amount": "$500.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/12/call-her-daddy-host-alex-cooper-raises-money-at-a-500-million-valuation/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-12T08:55:36.343426-07:00",
+    "status": "active"
+  },
+  {
+    "id": "396bd6f8a7eb756f703997e629883848",
+    "company": "BofA",
+    "amount": "$250.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/12/bofa-to-plow-250-billion-into-critical-infrastructure-projects/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-12T08:55:18.161415-07:00",
+    "status": "active"
+  },
+  {
+    "id": "bd1f86f5393e089fad7dfc6fd54d3158",
+    "company": "\u2018Everybody doesn\u2019t",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/12/elon-musk-predicts-money-becomes-irrelevant-billionaire-bitcoin-mogul-michael-saylor-disagrees-shifting-luxury-wealth-status/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-12T08:55:15.631888-07:00",
+    "status": "active"
+  },
+  {
     "id": "e5cb9b8d5e1862f65d772287fe472b66",
     "company": "Andreessen Horowitz",
     "amount": "$45.0M",

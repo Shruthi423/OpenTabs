@@ -1,30 +1,60 @@
 [
   {
     "item": {
-      "company": "Google",
+      "company": "\u2018Everybody doesn\u2019t",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/12/google-debuts-sl2t-ai-model-thats-designed-understand-sign-language/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/12/elon-musk-predicts-money-becomes-irrelevant-billionaire-bitcoin-mogul-michael-saylor-disagrees-shifting-luxury-wealth-status/",
       "priority": 3
     },
-    "remind_at": "2026-08-12T08:22:43.244356-07:00"
+    "remind_at": "2026-08-12T09:25:14.631715-07:00"
   },
   {
     "item": {
-      "company": "Andreessen Horowitz",
-      "amount": "$45.0M",
+      "company": "BofA",
+      "amount": "$250.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1JRTG1oeTBlUUY5VlU3eFliYjkzaFJJc0dEQkhzTHRXRkd5aUhocG56RFpkaHdNc1RrV0hIejR5RU81Q3FBUEpGQWsxZURPMlVEYnNiNFhMc0Fnd0ZvUXlhME53MzV6RTlNZXRGM2h1cWl6UHBVOEk1cnZwbHlMeldSVHpfQWY2YktKVGt5eUhOMVRMc0FSOUxkeHR2Tmh4VXNvZU00MzlMRkNYWUUwcEJB?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/12/bofa-to-plow-250-billion-into-critical-infrastructure-projects/",
       "priority": 3
     },
-    "remind_at": "2026-08-12T08:22:46.477490-07:00"
+    "remind_at": "2026-08-12T09:25:17.161253-07:00"
+  },
+  {
+    "item": {
+      "company": "\u2018Call Her Daddy\u2019 host Alex Cooper",
+      "amount": "$500.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/12/call-her-daddy-host-alex-cooper-raises-money-at-a-500-million-valuation/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-12T09:25:35.343219-07:00"
+  },
+  {
+    "item": {
+      "company": "Norway oil fund CEO",
+      "amount": "$150.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [
+        "Nicolai Tangen"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/12/norway-oil-fund-ceo-says-hes-more-nervous-after-record-returns/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-12T09:25:38.656564-07:00"
   }
 ]
