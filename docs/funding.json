@@ -1,5 +1,35 @@
 [
   {
+    "id": "e5cb9b8d5e1862f65d772287fe472b66",
+    "company": "Andreessen Horowitz",
+    "amount": "$45.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1JRTG1oeTBlUUY5VlU3eFliYjkzaFJJc0dEQkhzTHRXRkd5aUhocG56RFpkaHdNc1RrV0hIejR5RU81Q3FBUEpGQWsxZURPMlVEYnNiNFhMc0Fnd0ZvUXlhME53MzV6RTlNZXRGM2h1cWl6UHBVOEk1cnZwbHlMeldSVHpfQWY2YktKVGt5eUhOMVRMc0FSOUxkeHR2Tmh4VXNvZU00MzlMRkNYWUUwcEJB?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-12T07:52:47.477609-07:00",
+    "status": "active"
+  },
+  {
+    "id": "f90332544a4516de378cd9ef43045048",
+    "company": "Google",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/12/google-debuts-sl2t-ai-model-thats-designed-understand-sign-language/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-12T07:52:44.244481-07:00",
+    "status": "active"
+  },
+  {
     "id": "3082f0678f3104069608a86e50beee15",
     "company": "Goldman Sachs",
     "amount": "$2.3B",

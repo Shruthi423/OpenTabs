@@ -1,58 +1,30 @@
 [
   {
     "item": {
-      "company": "CodeRabbit",
-      "amount": "$143.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/12/coderabbit-bags-143m-help-companies-get-grip-explosion-ai-generated-code/",
-      "priority": 6
-    },
-    "remind_at": "2026-08-12T07:26:10.238189-07:00"
-  },
-  {
-    "item": {
-      "company": "Diesel desperation",
+      "company": "Google",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/12/diesel-prices-iran-russia-ukraine",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/12/google-debuts-sl2t-ai-model-thats-designed-understand-sign-language/",
       "priority": 3
     },
-    "remind_at": "2026-08-12T07:26:13.528356-07:00"
+    "remind_at": "2026-08-12T08:22:43.244356-07:00"
   },
   {
     "item": {
-      "company": "Accel",
-      "amount": "$3.5B",
+      "company": "Andreessen Horowitz",
+      "amount": "$45.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/accel-raises-3-5b-across-four-funds-as-ai-reshapes-early-stage-vc/",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1JRTG1oeTBlUUY5VlU3eFliYjkzaFJJc0dEQkhzTHRXRkd5aUhocG56RFpkaHdNc1RrV0hIejR5RU81Q3FBUEpGQWsxZURPMlVEYnNiNFhMc0Fnd0ZvUXlhME53MzV6RTlNZXRGM2h1cWl6UHBVOEk1cnZwbHlMeldSVHpfQWY2YktKVGt5eUhOMVRMc0FSOUxkeHR2Tmh4VXNvZU00MzlMRkNYWUUwcEJB?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-12T07:26:15.954816-07:00"
-  },
-  {
-    "item": {
-      "company": "Goldman Sachs",
-      "amount": "$2.3B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/12/goldman-sachs-to-acquire-etf-provider-neos-for-2-3-billion-in-asset-management-push/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-12T07:26:19.299127-07:00"
+    "remind_at": "2026-08-12T08:22:46.477490-07:00"
   }
 ]
