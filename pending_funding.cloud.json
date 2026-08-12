@@ -1,30 +1,58 @@
 [
   {
     "item": {
-      "company": "Funding",
-      "amount": "$3.6B",
-      "stage": null,
-      "investors": "Want AI And Data, Not Treadmills Venture investors seem to be more upbeat than they have been in years about the future of fitness and wellness",
+      "company": "Quarkitech",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
       "location": null,
       "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/health-wellness-biotech/fitness-startup-funding-rebounding-ai-data-h1-2026/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUllaTk13N1R6OXVrdFR2S3cwNnFMTlg4TGxoekwwLWJLanhXd3VyMWViUkxMWDJzZXdOdDhvN2hWTGJWaHpRcWktUEVEaWhjdXkzemFjcE5xVVZiNThIb1VsamVEY3VPNHpjWmlVWFp5OVB5a083WlB2SU1NTHp4cWNKLW0wVnBMbTlXYjdKRWdQQThGMHfSAZYBQVVfeXFMTlJZWk5NdzdUejl1a3RUdkt3MDZxTE5YOExsaHpMMC1iS2p4V3d1cjFlYlJMTFgyc2V3TnQ4bzdoVkxiVmh6UXFpLVBFRGloY3V5M3phY3BOcVVWYjU4SG9VbGplRGN1TzR6Y1ppVVhaeTlQeWtPN1pQdklNTUx6eHFjSi1tMFZwTG05V2I3SkVnUEE4RjB3?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-08-12T05:01:13.431739-07:00"
+    "remind_at": "2026-08-12T05:57:21.331902-07:00"
   },
   {
     "item": {
-      "company": "Lovable",
-      "amount": "$400.0M",
+      "company": "ClearJet",
+      "amount": "$25.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": "Austin",
+      "founders": [],
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/transportation/clearjet-raises-25m-logistics-ai-seriesb/",
+      "priority": 7
+    },
+    "remind_at": "2026-08-12T05:57:23.643957-07:00"
+  },
+  {
+    "item": {
+      "company": "Apexon targets stalled AI pilots",
+      "amount": null,
       "stage": null,
       "investors": null,
-      "location": "Stockholm",
+      "location": "Santa Clara",
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/lovable-raises-400m-at-13-3b-valuation-menlo-eqt/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/12/apexon-targets-stalled-ai-pilots-three-agentrise-additions/",
       "priority": 3
     },
-    "remind_at": "2026-08-12T05:01:15.651659-07:00"
+    "remind_at": "2026-08-12T05:57:26.866137-07:00"
+  },
+  {
+    "item": {
+      "company": "Takeaways from Crowley's win",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "New York",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/12/wisconsin-primary-crowley-hong-socialist-takeaways",
+      "priority": 3
+    },
+    "remind_at": "2026-08-12T05:57:30.177926-07:00"
   }
 ]
