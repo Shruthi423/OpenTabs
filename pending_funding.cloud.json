@@ -1,100 +1,72 @@
 [
   {
     "item": {
-      "company": "Lane",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaGt6ZUlXUU5nYnNLLVV6SWpPYTB2S1kzZl91MzRJSjZTbEoxTnFFZ25sMmdONzR5X2VKNjN4UmxWaXNweGMzMWJYZ1k5WW1kQzFyblBONGtlWjFCMmViTDJveElSUHRNODNVbzl4cGJiZzkzc1VCTGo0eU1oQThmczFXQ256eDl5TkF1M3BOcVpfOXBjS1JQUjA1LVllRkhQVkQ1WUd6NG5DbWxobFlVMjI1WDlNMFhHajQzR012NEREMll4VzdlT2hqY3hNcmVMWTVXZDdUV00xQjFnUlQyX3BGUFJwaGJoZHc?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-08-12T01:51:15.432643-07:00"
-  },
-  {
-    "item": {
-      "company": "MemoraX AI",
-      "amount": null,
-      "stage": "Seed",
+      "company": "MarginEdge",
+      "amount": "$80.0M",
+      "stage": "Series D",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/memorax-ai-raises-hundreds-of-millions-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/marginedge-raises-80m-series-d/",
+      "priority": 5
     },
-    "remind_at": "2026-08-12T01:51:17.831097-07:00"
+    "remind_at": "2026-08-12T03:09:54.140580-07:00"
   },
   {
     "item": {
-      "company": "Wippi",
-      "amount": "$1.2M",
-      "stage": "Seed",
+      "company": "AOC",
+      "amount": "$15.0M",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaS1qTkxNZ052VEd3eHpJaHJwWUdYSlc4MmdhUUlVWEZsOGJ2RnRYYVBna0o2WUJsVWFyMVl2V2dSTkFGazk1SnhjaVJCR1VCakplRHRrUi1sc2xoaVVKMGNUMGRtRGZCNWhXSDlRYlROOEVsVGd5aWdyR0dDUTVZNVdkN3hHX2RXMFk5VmJoMnlMXzY0V19ZNHJYdXJwa2Q2ZFdiTHlXSnN4QlFIcXdrXzlsUVFGWTZzOFJGR01Ua3N5b2YwRHJGU0pJWC10ZlFRaWZ4TzR1bDZBcFhORDNaUQ?oc=5",
-      "priority": 9
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/12/aoc-democratic-socialists-2028",
+      "priority": 3
     },
-    "remind_at": "2026-08-12T01:51:20.389057-07:00"
+    "remind_at": "2026-08-12T03:09:56.593507-07:00"
   },
   {
     "item": {
-      "company": "Cytix",
-      "amount": "$7.0M",
-      "stage": "Series A",
+      "company": "Entravel",
+      "amount": "$7.5M",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/cytix-raises-7m-after-northern-gritstone-unsolicited-offer/",
-      "priority": 8
+      "url": "https://techfundingnews.com/entravel-raises-7-5m-to-take-crypto-travel-platform-mainstream/",
+      "priority": 3
     },
-    "remind_at": "2026-08-12T01:51:22.838140-07:00"
+    "remind_at": "2026-08-12T03:09:58.943360-07:00"
   },
   {
     "item": {
-      "company": "Arab Therapy",
-      "amount": "$2.0M",
-      "stage": "Series A",
+      "company": "TripleDart tops $7 million ARR",
+      "amount": "$7.0M",
+      "stage": null,
+      "investors": null,
+      "location": "Bengaluru",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/08/12/tripledart-tops-7-million-arr-with-ai-led-growth-reports-50-per-cent-ebit-margin/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-12T03:10:02.206658-07:00"
+  },
+  {
+    "item": {
+      "company": "Kesh",
+      "amount": "$110.0M",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/arab-therapy-raises-2m-pre-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-08-12T01:51:26.233845-07:00"
-  },
-  {
-    "item": {
-      "company": "Forget the gala",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Bay Area",
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/12/forget-the-gala-these-silicon-valley-schools-run-their-own-venture-capital-funds/",
+      "url": "https://www.thesaasnews.com/news/kesh-raises-110m-growth-capital/",
       "priority": 3
     },
-    "remind_at": "2026-08-12T01:51:29.646206-07:00"
-  },
-  {
-    "item": {
-      "company": "Universities",
-      "amount": "$1.2B",
-      "stage": null,
-      "investors": null,
-      "location": "Washington",
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/12/george-washington-university-of-michigan-property-sale-ai-data-center-development/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-12T01:51:32.048318-07:00"
+    "remind_at": "2026-08-12T03:10:04.574644-07:00"
   }
 ]
