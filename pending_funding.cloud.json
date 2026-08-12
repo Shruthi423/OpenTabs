@@ -1,16 +1,44 @@
 [
   {
     "item": {
-      "company": "Why House Dems may go easy",
-      "amount": "$6.7M",
+      "company": "Skan AI",
+      "amount": "$63.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/12/skan-ai-raises-63m-give-ai-agents-map-enterprise-work/",
+      "priority": 6
+    },
+    "remind_at": "2026-08-12T16:39:46.163268-07:00"
+  },
+  {
+    "item": {
+      "company": "Lovable doubles valuation",
+      "amount": "$13.3B",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/12/vibe-coding-startup-lovable-doubles-valuation-13-3b-400m-raise/",
+      "priority": 6
+    },
+    "remind_at": "2026-08-12T16:39:49.396842-07:00"
+  },
+  {
+    "item": {
+      "company": "Form Energy",
+      "amount": "$750.0M",
       "stage": null,
       "investors": null,
-      "location": "New York",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/12/mike-lawler-2026-midterms-new-york-democrats",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUdRdTBpV2FmOVFnWHFCd2owTWdHTkdnczBZREx1S1N2YUtvRWtrSXNVd19OQXBaMjZ5bFhkQWlQQjBYY2d6Z2JmTURWOXR5eWRIS0xsT0VDdWtleXc3WmRHZWEyeURYLUIwZkJyOTZNUWg0MTNJalRHNkl0ZE5LRThCRDBkVlI3MFphN1QzMWpsRDczYVJBZ1M2Z0l0clNudmltcEZzdw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-12T15:54:42.601393-07:00"
+    "remind_at": "2026-08-12T16:39:52.823935-07:00"
   }
 ]
