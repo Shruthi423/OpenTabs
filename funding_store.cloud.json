@@ -40150,5 +40150,35 @@
     "roles": [],
     "first_seen": "2026-08-12T03:43:19.892501-07:00",
     "status": "active"
+  },
+  "c5358836d4dd9a573f6ca2434cc4239f": {
+    "id": "c5358836d4dd9a573f6ca2434cc4239f",
+    "company": "Funding",
+    "amount": "$3.6B",
+    "stage": "?",
+    "investors": "Want AI And Data, Not Treadmills Venture investors seem to be more upbeat than they have been in years about the future of fitness and wellness",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/health-wellness-biotech/fitness-startup-funding-rebounding-ai-data-h1-2026/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-12T04:31:14.431899-07:00",
+    "status": "active"
+  },
+  "60dde869a0ee8cf43b20ae1a0b8f147a": {
+    "id": "60dde869a0ee8cf43b20ae1a0b8f147a",
+    "company": "Lovable",
+    "amount": "$400.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/lovable-raises-400m-at-13-3b-valuation-menlo-eqt/",
+    "priority": 3,
+    "founders": [],
+    "location": "Stockholm",
+    "roles": [],
+    "first_seen": "2026-08-12T04:31:16.651825-07:00",
+    "status": "active"
   }
 }
