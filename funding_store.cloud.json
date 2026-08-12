@@ -40490,5 +40490,35 @@
     "roles": [],
     "first_seen": "2026-08-12T09:53:18.310785-07:00",
     "status": "active"
+  },
+  "8a8d3954616c15a97582abbbe9699f95": {
+    "id": "8a8d3954616c15a97582abbbe9699f95",
+    "company": "OpenAI-backed Thrive Holdings",
+    "amount": "$2.0B",
+    "stage": "?",
+    "investors": "like SoftBank, D1 Capital Partners, and Alitmeter Capital",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-12T10:55:02.221629-07:00",
+    "status": "active"
+  },
+  "6bcb18a4b52ed8c25c66075db0fa9483": {
+    "id": "6bcb18a4b52ed8c25c66075db0fa9483",
+    "company": "ICE plans",
+    "amount": "$20.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/12/ice-electric-shock-gloves-millions",
+    "priority": 3,
+    "founders": [],
+    "location": "Kentucky",
+    "roles": [],
+    "first_seen": "2026-08-12T10:55:05.163895-07:00",
+    "status": "active"
   }
 }
