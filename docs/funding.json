@@ -1,5 +1,20 @@
 [
   {
+    "id": "0ee0f34c11e5c6bc91f311ed2a2e7440",
+    "company": "Extreme wealth",
+    "amount": "$1.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/13/author-malcolm-gladwell-extreme-wealth-crippling-to-motivation-ambition-shaped-by-hardship-career-advice/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-13T12:54:23.968349-07:00",
+    "status": "active"
+  },
+  {
     "id": "36a6bb06d335a3a544c72e0fb213621c",
     "company": "Wilson Sonsini Advises Vals AI",
     "amount": "$40.0M",

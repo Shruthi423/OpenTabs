@@ -41305,5 +41305,20 @@
     ],
     "first_seen": "2026-08-13T11:55:40.811086-07:00",
     "status": "active"
+  },
+  "0ee0f34c11e5c6bc91f311ed2a2e7440": {
+    "id": "0ee0f34c11e5c6bc91f311ed2a2e7440",
+    "company": "Extreme wealth",
+    "amount": "$1.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/13/author-malcolm-gladwell-extreme-wealth-crippling-to-motivation-ambition-shaped-by-hardship-career-advice/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-13T12:54:23.968349-07:00",
+    "status": "active"
   }
 }

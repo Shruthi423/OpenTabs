@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "BioScout",
-      "amount": "$4.8M",
-      "stage": "Seed",
+      "company": "Extreme wealth",
+      "amount": "$1.0B",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYNG5kZmgwVlgxV0k1cWpkTUJ5aWV6aU9FMkI5QUFvNG9HeGJhQ3NEaHdmZ3VIVEhlM2drVjU4bG90S1lVbE1vX0hXam91TjRjRjA4SEprZWNPWUJKSUZGS2pGbmVSa3dQeVZYczMtZmhUbWluajZQaTlxRDBhZw?oc=5",
-      "priority": 9
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/13/author-malcolm-gladwell-extreme-wealth-crippling-to-motivation-ambition-shaped-by-hardship-career-advice/",
+      "priority": 3
     },
-    "remind_at": "2026-08-13T12:25:34.751276-07:00"
-  },
-  {
-    "item": {
-      "company": "Wilson Sonsini Advises Vals AI",
-      "amount": "$40.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUno3Y25mQkhxM0JZalpWQ0daeTM4VzluQ2g1cDFfLTdORWhBTHlfTGlEWFhyc01JbFlBYTNjUUVfaXJiZHdaeUNPdGhkNE14bmsyMXRGM1NvMDVIaFJRc3QyZF9VNDU0c3ZiaUJVRmE2LWdkSFFmUDRPZFZlWUJMN3FHbnVhNi05a19XQ1FqSnRjX2s2aldZTFc0UHVKY1plYVMxR1U1aUpqYVVQZnA1bE92M0ZfQm5UanlBWnhsSHlUdw?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-13T12:25:39.810893-07:00"
+    "remind_at": "2026-08-13T13:24:22.968080-07:00"
   }
 ]
