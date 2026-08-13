@@ -1,44 +1,58 @@
 [
   {
     "item": {
-      "company": "Scrubsy",
+      "company": "that",
       "amount": null,
-      "stage": "Seed",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlZWh1T0lJd2VuZC0xQzhHaU1maC1VLV9VRklDMDBhRnpmOXZkUHdOMGVNb2Rfc2kyeTZqZXlHckw1bTNDZjR2LUdHeFp3NlNaM1RoN0FGdzU4bFNrT0VqTldnc2hncDN2a3JsbjBuYnZNaHU2em1NYVhPZGo?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYzQxVWtDOWRVNUZUdUdGbVRER29WNzh5MlNqSk9LaHhNUk1iVnJZWDBNNVZFN2V3d1lCRlM0WDF2aUlXeHdfZ2sxZ3J6UVlNa2JfXzhPNGdHRkw5UE5TZFkwVFZHbjRJRlJ6SG1paF9hWjUxS0t1Um1vT1d5UFo3ZGtYTS1GLTdJU2xIdVU0QkZJd1gxT3U5akJpS3RsNUVmMElvSW9zSUUxRWxZVTRPOVRLVUpMTHhnSzNJ?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-13T07:16:25.734822-07:00"
+    "remind_at": "2026-08-13T08:17:19.963186-07:00"
   },
   {
     "item": {
-      "company": "DeepSeek",
+      "company": "Trump\u2019s tariff",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/13/deepseek-raises-v4-api-prices-by-up-to-1100-just-as-chinese-ai-startup-launches-deepseek-v4-pro/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/13/trump-tariff-refund-tax/",
       "priority": 3
     },
-    "remind_at": "2026-08-13T07:16:28.161460-07:00"
+    "remind_at": "2026-08-13T08:17:23.256522-07:00"
   },
   {
     "item": {
-      "company": "Centricity",
-      "amount": "$29.0M",
+      "company": "Decart",
+      "amount": "$6.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZOHlmd09uS2pTbkxvbXk0dlYwVHVpYk5ZdVY3Qlc5UzN4WkZUN1NvVF9tc1ZobDZRbWVkOEtPQlQ0MjFXcnE3OEZQR3dXY0hWTlhGbmZNTEE0SVFUMEJYNlZZZU1QVUlCUTM0OFFTMXh4bHNvRHc?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/",
       "priority": 3
     },
-    "remind_at": "2026-08-13T07:16:30.616057-07:00"
+    "remind_at": "2026-08-13T08:17:29.734089-07:00"
+  },
+  {
+    "item": {
+      "company": "Kalshi in talks",
+      "amount": "$750.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUFQenlER1d0MmREMGFicEdMbV9yRUUxQ2lLWXBBdnJvWC1ac2lrQ212OG1MMGN0Rzh1SThYWFYtZGNaekhIR1RmbFZVaFVhMU82TThMVTZ6N20tMHVxT2xqS1QwT09vTzA1YmVTMi1LMUJjMnJNYUxpRjEyVmMzZFZyZXMxcU4zTm5zMkJwbl9PTzRLcy1lNGdBelpnQ0d0VFJOY3N5NVBudjVWWTFhX0lyVnFWRjRkWUVYaVRFalZHaDZoaDItMjhKNGpnNlM0NlEwaDVTRVg?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-13T08:17:35.222455-07:00"
   }
 ]

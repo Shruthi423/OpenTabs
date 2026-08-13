@@ -12358,5 +12358,42 @@
     "first_seen": "2026-08-13T06:46:05.029269-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "e7f090b14ec4e41420c0185a9e964bd5": {
+    "id": "e7f090b14ec4e41420c0185a9e964bd5",
+    "title": "Video Editor & Motion Designer, Brand Studio",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://himalayas.app/companies/motive/jobs/video-editor-motion-designer-brand-studio",
+    "source": "Himalayas",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-08-13T07:46:58.452215-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "60542c197ec6613e09dd5e17fc421699": {
+    "id": "60542c197ec6613e09dd5e17fc421699",
+    "title": "Policy Brand Designer",
+    "company": "Kalshi",
+    "location": "New York Office",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/kalshi/5aae75a0-e408-43ec-b840-64b3f5f5309c",
+    "source": "\ud83d\udcb0 Kalshi in talks (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Kalshi in talks raised $750.0M",
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-08-13T07:47:32.890399-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }

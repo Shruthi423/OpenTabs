@@ -41077,5 +41077,86 @@
     "roles": [],
     "first_seen": "2026-08-13T06:46:31.616183-07:00",
     "status": "active"
+  },
+  "5db88cef7b891736358c548ac43e6941": {
+    "id": "5db88cef7b891736358c548ac43e6941",
+    "company": "that",
+    "amount": "Undisclosed",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYzQxVWtDOWRVNUZUdUdGbVRER29WNzh5MlNqSk9LaHhNUk1iVnJZWDBNNVZFN2V3d1lCRlM0WDF2aUlXeHdfZ2sxZ3J6UVlNa2JfXzhPNGdHRkw5UE5TZFkwVFZHbjRJRlJ6SG1paF9hWjUxS0t1Um1vT1d5UFo3ZGtYTS1GLTdJU2xIdVU0QkZJd1gxT3U5akJpS3RsNUVmMElvSW9zSUUxRWxZVTRPOVRLVUpMTHhnSzNJ?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-13T07:47:20.963357-07:00",
+    "status": "active"
+  },
+  "75c63bb194b832868be564fbc6478e59": {
+    "id": "75c63bb194b832868be564fbc6478e59",
+    "company": "Trump\u2019s tariff",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/13/trump-tariff-refund-tax/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-13T07:47:24.256672-07:00",
+    "status": "active"
+  },
+  "9a81d25145f5c27321a301bd639168da": {
+    "id": "9a81d25145f5c27321a301bd639168da",
+    "company": "Decart",
+    "amount": "$6.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-13T07:47:30.734220-07:00",
+    "status": "active"
+  },
+  "e147a88ca6ac3872559471b9b29e8aff": {
+    "id": "e147a88ca6ac3872559471b9b29e8aff",
+    "company": "Kalshi in talks",
+    "amount": "$750.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUFQenlER1d0MmREMGFicEdMbV9yRUUxQ2lLWXBBdnJvWC1ac2lrQ212OG1MMGN0Rzh1SThYWFYtZGNaekhIR1RmbFZVaFVhMU82TThMVTZ6N20tMHVxT2xqS1QwT09vTzA1YmVTMi1LMUJjMnJNYUxpRjEyVmMzZFZyZXMxcU4zTm5zMkJwbl9PTzRLcy1lNGdBelpnQ0d0VFJOY3N5NVBudjVWWTFhX0lyVnFWRjRkWUVYaVRFalZHaDZoaDItMjhKNGpnNlM0NlEwaDVTRVg?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "New York, New York, United States",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://job-boards.greenhouse.io/kalshi/jobs/6334301003",
+        "location": "New York, New York, United States"
+      },
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/kalshi/25718664-54b7-454b-9a2c-bde0b1deb76c",
+        "location": "New York Office"
+      },
+      {
+        "title": "UX Researcher",
+        "url": "https://jobs.ashbyhq.com/kalshi/9a802eca-14bc-4577-b5f4-8e49e61bd7f5",
+        "location": "New York Office"
+      },
+      {
+        "title": "Policy Brand Designer",
+        "url": "https://jobs.ashbyhq.com/kalshi/5aae75a0-e408-43ec-b840-64b3f5f5309c",
+        "location": "New York Office"
+      }
+    ],
+    "first_seen": "2026-08-13T07:47:36.222663-07:00",
+    "status": "active"
   }
 }
