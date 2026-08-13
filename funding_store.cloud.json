@@ -41248,5 +41248,26 @@
     "roles": [],
     "first_seen": "2026-08-13T09:51:37.223579-07:00",
     "status": "active"
+  },
+  "d0f43cd2d991174d16c67cd8ad4fa583": {
+    "id": "d0f43cd2d991174d16c67cd8ad4fa583",
+    "company": "Databricks",
+    "amount": "$5.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/08/13/databricks-raises-5-billion-at-190-billion-valuation-as-revenue-run-rate-tops-7-billion/",
+    "priority": 3,
+    "founders": [],
+    "location": "Mountain View, California; San Francisco, California; Seattle, Washington",
+    "roles": [
+      {
+        "title": "Sr. Product Designer, AI/BI",
+        "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8429978002",
+        "location": "Mountain View, California; San Francisco, California; Seattle, Washington"
+      }
+    ],
+    "first_seen": "2026-08-13T10:54:10.722301-07:00",
+    "status": "active"
   }
 }
