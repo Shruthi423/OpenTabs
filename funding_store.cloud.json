@@ -41032,5 +41032,50 @@
     "roles": [],
     "first_seen": "2026-08-13T05:12:09.388465-07:00",
     "status": "active"
+  },
+  "f5f1aa16716a15c845bc247b71ba390b": {
+    "id": "f5f1aa16716a15c845bc247b71ba390b",
+    "company": "Scrubsy",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlZWh1T0lJd2VuZC0xQzhHaU1maC1VLV9VRklDMDBhRnpmOXZkUHdOMGVNb2Rfc2kyeTZqZXlHckw1bTNDZjR2LUdHeFp3NlNaM1RoN0FGdzU4bFNrT0VqTldnc2hncDN2a3JsbjBuYnZNaHU2em1NYVhPZGo?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-13T06:46:26.734996-07:00",
+    "status": "active"
+  },
+  "6cda167521e3ecdb9a210393f94c8ce6": {
+    "id": "6cda167521e3ecdb9a210393f94c8ce6",
+    "company": "DeepSeek",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/08/13/deepseek-raises-v4-api-prices-by-up-to-1100-just-as-chinese-ai-startup-launches-deepseek-v4-pro/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-13T06:46:29.161634-07:00",
+    "status": "active"
+  },
+  "e6e5ca3f0d37a7b590e8c147857722f4": {
+    "id": "e6e5ca3f0d37a7b590e8c147857722f4",
+    "company": "Centricity",
+    "amount": "$29.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZOHlmd09uS2pTbkxvbXk0dlYwVHVpYk5ZdVY3Qlc5UzN4WkZUN1NvVF9tc1ZobDZRbWVkOEtPQlQ0MjFXcnE3OEZQR3dXY0hWTlhGbmZNTEE0SVFUMEJYNlZZZU1QVUlCUTM0OFFTMXh4bHNvRHc?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-13T06:46:31.616183-07:00",
+    "status": "active"
   }
 }
