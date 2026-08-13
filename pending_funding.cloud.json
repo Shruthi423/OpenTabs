@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "OddsBlaze",
-      "amount": null,
-      "stage": "Seed",
+      "company": "The electric shock gloves ICE",
+      "amount": "$20.0M",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUUs5MkgzTDBCQzloQkpCaTVsOVo1Vkx6emlWQi1yN1lKU0FZUE9iMFZjWHZsLTRGSzdFV2o3MktraGlmckdLNDN0cjhCN0NxZnkzdGJGdmlSb2t1dy1MVDF6cHl4NFNRZFV0eVpRZjFxMVk5RmJKY2JrdmF5dUlfRHlKbnZaMmlMTG5LZ0Q3OTZ1RHN0U2c?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-08-13T14:06:14.221841-07:00"
-  },
-  {
-    "item": {
-      "company": "Databricks wanted",
-      "amount": "$1.0B",
-      "stage": null,
-      "investors": "wanting into his latest round",
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/13/ice-electric-shock-gloves-omaha-nebraska-public-schools/",
       "priority": 3
     },
-    "remind_at": "2026-08-13T14:06:17.242101-07:00"
+    "remind_at": "2026-08-13T14:59:10.997662-07:00"
   }
 ]
