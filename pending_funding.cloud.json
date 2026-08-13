@@ -1,58 +1,58 @@
 [
   {
     "item": {
-      "company": "Molt AI",
-      "amount": "$1.0M",
+      "company": "FlairMakers",
+      "amount": null,
       "stage": "Pre-Seed",
-      "investors": null,
+      "investors": "SFC Capital to expand its digital hospitality talent platform and enhance technology infrastructure",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/molt-ai-raises-1m-pre-seed/",
+      "url": "https://www.thesaasnews.com/news/flairmakers-raises-500k-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-08-12T23:00:21.878080-07:00"
+    "remind_at": "2026-08-13T00:28:34.936726-07:00"
   },
   {
     "item": {
-      "company": "Trustana",
-      "amount": "$17.0M",
-      "stage": "Series B",
+      "company": "Bios Life",
+      "amount": "$25.0M",
+      "stage": "Seed",
       "investors": null,
-      "location": "Singapore",
+      "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGVGX01MUmQ0X1IwdEYtNnFvWVUxdE91ZDAxSW0wNG8tVzFtSjZ0NXJkTVR2eDdqSUJUeTlVYWl3cnFrQUJNbWotWlBJS2ViYXJ2aGk3U3BCMlJUc1R2MTRoalZ3WjZyT3EtalRIYk5hSkYwR18yUVJyUzB4anNPWVJ3QnhQcWIxMlVEWGFndHZhSzEwVy1yRjY1SThWZzhCQ0s0T0VBQUlDVUl1TUFYbExRUHlYUXhCUXdCMm5SOA?oc=5",
-      "priority": 7
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVBBSnhfdmVPUzZSWUljUmpmZ2ptWmNrX1pRV1RtOXVZb3RnWFB1bnpfcXBYN0ZIaVkzTl9YNTN4eHJwZFlFTGNZZWhFTnpob2JwckVNaHNMNnFpZUhBMHdaV19WOTRVRm9YalR5TWFCckVCRFJsUXZ2ck9DX25Tc3pmM3labVN0eVp6c29FUmlVM2lyMmllQWp3?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-08-12T23:00:24.255981-07:00"
+    "remind_at": "2026-08-13T00:28:38.309026-07:00"
   },
   {
     "item": {
-      "company": "Lightspeed",
-      "amount": "$600.0M",
+      "company": "Mindgard",
+      "amount": "$30.0M",
+      "stage": "Series A",
+      "investors": "Album VC to scale its enterprise AI security platform for discovering and mitigating AI system vulnerabilities",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/mindgard-raises-30m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-13T00:28:40.710286-07:00"
+  },
+  {
+    "item": {
+      "company": "Pathway",
+      "amount": "$500.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/lightspeed-seeks-600m-secondary-to-extend-its-openai-stake-and-grow-its-anthropic-position/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-12T23:00:26.644738-07:00"
-  },
-  {
-    "item": {
-      "company": "STRGY AI",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Angel Helsinki",
-      "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/strgy-ai-raises-1m-angel/",
+      "url": "https://www.thesaasnews.com/news/pathway-raises-funding-at-500m-valuation/",
       "priority": 3
     },
-    "remind_at": "2026-08-12T23:00:28.971304-07:00"
+    "remind_at": "2026-08-13T00:28:43.270708-07:00"
   }
 ]
