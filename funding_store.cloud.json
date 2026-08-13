@@ -40880,5 +40880,52 @@
     "roles": [],
     "first_seen": "2026-08-13T01:21:51.242346-07:00",
     "status": "active"
+  },
+  "a7e4df7148cea562c3eee1adc89a8a91": {
+    "id": "a7e4df7148cea562c3eee1adc89a8a91",
+    "company": "Thumbs down",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/13/youth-poll-thumbs-down-on-everything",
+    "priority": 3,
+    "founders": [
+      "Cyrus Beschloss"
+    ],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-08-13T02:40:16.197413-07:00",
+    "status": "active"
+  },
+  "ca6fffc489c9ef9d7a0152838d41a264": {
+    "id": "ca6fffc489c9ef9d7a0152838d41a264",
+    "company": "Pelicargo",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/pelicargo-raises-funding-in-a-seed-ii-round/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-13T02:40:18.660364-07:00",
+    "status": "active"
+  },
+  "cc27766d0e3a40b08c2307f257aba326": {
+    "id": "cc27766d0e3a40b08c2307f257aba326",
+    "company": "hiSofi",
+    "amount": "$1.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/hisofi-raises-1m-other/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-13T02:40:21.230868-07:00",
+    "status": "active"
   }
 }
