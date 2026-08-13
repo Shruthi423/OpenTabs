@@ -1,16 +1,44 @@
 [
   {
     "item": {
-      "company": "Congressional campaign stars",
+      "company": "Kshatra Labs",
+      "amount": "$1.5B",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmtIdV9xQVJHTFhCWGQ1UEJzeUdVMHhZRy0zWFBncm9BOHhQNURVel9GcU5TelJtOVpQLW5BSEgtODlUeFd6ZlJ1ekRyX21xWUdHLXJQNVp2S3Mya0htcVpRQXBhbUJueXR2WEl0aHVVYy1Zbl9wSE5reS11QUREblM2RTVTZzNGNUgzT1lRemg5UWQtbEM5Q0g1cGY?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-08-12T21:25:50.161138-07:00"
+  },
+  {
+    "item": {
+      "company": "Point2 Technology",
+      "amount": "$80.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fVkR5Rm1DYzI5S0paZFhzSDlfOFRqNVg1MzRIMlF2UVhvQVJNdXFYU3pxRmExRnlxWnd2SHpTclcwVFUtQThEckdEX1pfTGNzaHF3?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-08-12T21:25:52.682017-07:00"
+  },
+  {
+    "item": {
+      "company": "Lights",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": "New York",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/12/congress-august-recesss-campaign-trail-midterms-bernie-sanders",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTXVQRzFHUXlibXJKS1B5dTJjQy1lbEdHb0g0bExfczJCa0FjZGxHOGZ6Q2x3UzlZVDNVWEo1Y1BTdmxrS0ZwM05WeGRhOGY3dVliZXA3czVGQjNjSHhER0FaeHg1RzZrWDBsaXgtbmlrU0F3aFFmMnpmblAzRjd2ZVdUNXYyQQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-12T19:13:41.211447-07:00"
+    "remind_at": "2026-08-12T21:25:55.169708-07:00"
   }
 ]
