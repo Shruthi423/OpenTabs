@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "Alloy",
-      "amount": "$11.5M",
-      "stage": "Seed",
-      "investors": "Square Peg to expand its robotics intelligence platform and grow its global presence in the United States",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/alloy-raises-a11-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-13T04:14:31.301139-07:00"
-  },
-  {
-    "item": {
-      "company": "Maggie Haberman",
+      "company": "Trunk Tools",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": "New York",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/13/trump-haberman-legacy-projects-behind-the-curtain",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/",
       "priority": 3
     },
-    "remind_at": "2026-08-13T04:14:34.737625-07:00"
+    "remind_at": "2026-08-13T05:00:08.061556-07:00"
   },
   {
     "item": {
-      "company": "Millow",
-      "amount": null,
+      "company": "Josh Kushner\u2019s Thrive Holdings",
+      "amount": "$2.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/millow-raises-2m-oat-mycelium-protein/",
+      "url": "https://techfundingnews.com/josh-kushners-thrive-holdings-raises-2b-at-a-12b-valuation-to-turn-ai-into-a-private-equity-strategy/",
       "priority": 3
     },
-    "remind_at": "2026-08-13T04:14:37.172232-07:00"
+    "remind_at": "2026-08-13T05:00:10.995350-07:00"
   }
 ]

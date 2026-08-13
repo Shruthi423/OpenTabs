@@ -1,5 +1,35 @@
 [
   {
+    "id": "c692775450a72ad8cae30585841b2ee7",
+    "company": "Josh Kushner\u2019s Thrive Holdings",
+    "amount": "$2.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/josh-kushners-thrive-holdings-raises-2b-at-a-12b-valuation-to-turn-ai-into-a-private-equity-strategy/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-13T04:30:11.995505-07:00",
+    "status": "active"
+  },
+  {
+    "id": "c0ba7aa796c99d372faf4fda7db48eb8",
+    "company": "Trunk Tools",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-13T04:30:09.061719-07:00",
+    "status": "active"
+  },
+  {
     "id": "82ad902a4d314ea59643c86023e18ebe",
     "company": "Millow",
     "amount": "Undisclosed",
