@@ -1,58 +1,72 @@
 [
   {
     "item": {
-      "company": "FlairMakers",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": "SFC Capital to expand its digital hospitality talent platform and enhance technology infrastructure",
+      "company": "Silicon Data",
+      "amount": "$30.5M",
+      "stage": "Series A",
+      "investors": "Valor Atreides AI Fund to expand its benchmark pricing and performance platform for the AI compute economy",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/flairmakers-raises-500k-pre-seed/",
-      "priority": 10
+      "url": "https://www.thesaasnews.com/news/silicon-data-raises-30-5m-series-a/",
+      "priority": 11
     },
-    "remind_at": "2026-08-13T00:28:34.936726-07:00"
+    "remind_at": "2026-08-13T01:51:37.940573-07:00"
   },
   {
     "item": {
-      "company": "Bios Life",
-      "amount": "$25.0M",
-      "stage": "Seed",
+      "company": "Metal Morph",
+      "amount": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVBBSnhfdmVPUzZSWUljUmpmZ2ptWmNrX1pRV1RtOXVZb3RnWFB1bnpfcXBYN0ZIaVkzTl9YNTN4eHJwZFlFTGNZZWhFTnpob2JwckVNaHNMNnFpZUhBMHdaV19WOTRVRm9YalR5TWFCckVCRFJsUXZ2ck9DX25Tc3pmM3labVN0eVp6c29FUmlVM2lyMmllQWp3?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPakNSS1VmaGRuSWpjNk9XWWk3amxSSDZTTTAzYUVSNTdQWE5GbEpYY1dRRDVETWdfYmh0WmdYQ29Nc1AxanJQdFVTZVVqVl9SNHVEYmVoRXVyYTZPMEJIMmk3c3AxdjBIanNZZ3pZMnl0dXdzdWJpdmRJX24xemJzUlhUcDI1Smk3SFhpaXRIYU5RdldoS09pdVFHN2U1QW5CQlpyMDZaaw?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-08-13T00:28:38.309026-07:00"
+    "remind_at": "2026-08-13T01:51:41.388006-07:00"
   },
   {
     "item": {
-      "company": "Mindgard",
-      "amount": "$30.0M",
-      "stage": "Series A",
-      "investors": "Album VC to scale its enterprise AI security platform for discovering and mitigating AI system vulnerabilities",
+      "company": "House of Student",
+      "amount": "$2.0M",
+      "stage": "Seed",
+      "investors": "Saltwater Sutra and Nirmitsu Inspirational Ventures to enhance its global student housing platform",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/mindgard-raises-30m-series-a/",
-      "priority": 8
+      "url": "https://www.thesaasnews.com/news/house-of-student-raises-2m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-08-13T00:28:40.710286-07:00"
+    "remind_at": "2026-08-13T01:51:44.729325-07:00"
   },
   {
     "item": {
-      "company": "Pathway",
-      "amount": "$500.0M",
+      "company": "Juspay",
+      "amount": "$50.0M",
+      "stage": "Series D",
+      "investors": "WestBridge Capital to scale its payment orchestration infrastructure and grow its merchant platform",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/juspay-raises-50m-series-d/",
+      "priority": 5
+    },
+    "remind_at": "2026-08-13T01:51:47.644420-07:00"
+  },
+  {
+    "item": {
+      "company": "Heaviside",
+      "amount": "$60.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pathway-raises-funding-at-500m-valuation/",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/heaviside-raises-60m-at-a-600m-valuation-up-21x-in-three-months/",
       "priority": 3
     },
-    "remind_at": "2026-08-13T00:28:43.270708-07:00"
+    "remind_at": "2026-08-13T01:51:50.242186-07:00"
   }
 ]
