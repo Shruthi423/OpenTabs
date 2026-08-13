@@ -1,44 +1,58 @@
 [
   {
     "item": {
-      "company": "Kshatra Labs",
-      "amount": "$1.5B",
+      "company": "Molt AI",
+      "amount": "$1.0M",
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmtIdV9xQVJHTFhCWGQ1UEJzeUdVMHhZRy0zWFBncm9BOHhQNURVel9GcU5TelJtOVpQLW5BSEgtODlUeFd6ZlJ1ekRyX21xWUdHLXJQNVp2S3Mya0htcVpRQXBhbUJueXR2WEl0aHVVYy1Zbl9wSE5reS11QUREblM2RTVTZzNGNUgzT1lRemg5UWQtbEM5Q0g1cGY?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/molt-ai-raises-1m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-08-12T21:25:50.161138-07:00"
+    "remind_at": "2026-08-12T23:00:21.878080-07:00"
   },
   {
     "item": {
-      "company": "Point2 Technology",
-      "amount": "$80.0M",
+      "company": "Trustana",
+      "amount": "$17.0M",
       "stage": "Series B",
       "investors": null,
-      "location": null,
+      "location": "Singapore",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fVkR5Rm1DYzI5S0paZFhzSDlfOFRqNVg1MzRIMlF2UVhvQVJNdXFYU3pxRmExRnlxWnd2SHpTclcwVFUtQThEckdEX1pfTGNzaHF3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGVGX01MUmQ0X1IwdEYtNnFvWVUxdE91ZDAxSW0wNG8tVzFtSjZ0NXJkTVR2eDdqSUJUeTlVYWl3cnFrQUJNbWotWlBJS2ViYXJ2aGk3U3BCMlJUc1R2MTRoalZ3WjZyT3EtalRIYk5hSkYwR18yUVJyUzB4anNPWVJ3QnhQcWIxMlVEWGFndHZhSzEwVy1yRjY1SThWZzhCQ0s0T0VBQUlDVUl1TUFYbExRUHlYUXhCUXdCMm5SOA?oc=5",
       "priority": 7
     },
-    "remind_at": "2026-08-12T21:25:52.682017-07:00"
+    "remind_at": "2026-08-12T23:00:24.255981-07:00"
   },
   {
     "item": {
-      "company": "Lights",
-      "amount": null,
+      "company": "Lightspeed",
+      "amount": "$600.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTXVQRzFHUXlibXJKS1B5dTJjQy1lbEdHb0g0bExfczJCa0FjZGxHOGZ6Q2x3UzlZVDNVWEo1Y1BTdmxrS0ZwM05WeGRhOGY3dVliZXA3czVGQjNjSHhER0FaeHg1RzZrWDBsaXgtbmlrU0F3aFFmMnpmblAzRjd2ZVdUNXYyQQ?oc=5",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/lightspeed-seeks-600m-secondary-to-extend-its-openai-stake-and-grow-its-anthropic-position/",
       "priority": 3
     },
-    "remind_at": "2026-08-12T21:25:55.169708-07:00"
+    "remind_at": "2026-08-12T23:00:26.644738-07:00"
+  },
+  {
+    "item": {
+      "company": "STRGY AI",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Angel Helsinki",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/strgy-ai-raises-1m-angel/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-12T23:00:28.971304-07:00"
   }
 ]
