@@ -40927,5 +40927,50 @@
     "roles": [],
     "first_seen": "2026-08-13T02:40:21.230868-07:00",
     "status": "active"
+  },
+  "c5f35164b1f5f5921f2874a57aa0f04a": {
+    "id": "c5f35164b1f5f5921f2874a57aa0f04a",
+    "company": "Alloy",
+    "amount": "$11.5M",
+    "stage": "Seed",
+    "investors": "Square Peg to expand its robotics intelligence platform and grow its global presence in the United States",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/alloy-raises-a11-5m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-13T03:44:32.301311-07:00",
+    "status": "active"
+  },
+  "90d90c02c131042cd6172660cdcd8242": {
+    "id": "90d90c02c131042cd6172660cdcd8242",
+    "company": "Maggie Haberman",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/13/trump-haberman-legacy-projects-behind-the-curtain",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-08-13T03:44:35.737793-07:00",
+    "status": "active"
+  },
+  "82ad902a4d314ea59643c86023e18ebe": {
+    "id": "82ad902a4d314ea59643c86023e18ebe",
+    "company": "Millow",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/millow-raises-2m-oat-mycelium-protein/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-13T03:44:38.172400-07:00",
+    "status": "active"
   }
 }

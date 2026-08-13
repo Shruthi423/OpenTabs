@@ -1,46 +1,44 @@
 [
   {
     "item": {
-      "company": "Thumbs down",
+      "company": "Alloy",
+      "amount": "$11.5M",
+      "stage": "Seed",
+      "investors": "Square Peg to expand its robotics intelligence platform and grow its global presence in the United States",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/alloy-raises-a11-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-13T04:14:31.301139-07:00"
+  },
+  {
+    "item": {
+      "company": "Maggie Haberman",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": "New York",
-      "founders": [
-        "Cyrus Beschloss"
-      ],
+      "founders": [],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/08/13/youth-poll-thumbs-down-on-everything",
+      "url": "https://www.axios.com/2026/08/13/trump-haberman-legacy-projects-behind-the-curtain",
       "priority": 3
     },
-    "remind_at": "2026-08-13T03:10:15.197225-07:00"
+    "remind_at": "2026-08-13T04:14:34.737625-07:00"
   },
   {
     "item": {
-      "company": "Pelicargo",
+      "company": "Millow",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pelicargo-raises-funding-in-a-seed-ii-round/",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/millow-raises-2m-oat-mycelium-protein/",
       "priority": 3
     },
-    "remind_at": "2026-08-13T03:10:17.660190-07:00"
-  },
-  {
-    "item": {
-      "company": "hiSofi",
-      "amount": "$1.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hisofi-raises-1m-other/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-13T03:10:20.230676-07:00"
+    "remind_at": "2026-08-13T04:14:37.172232-07:00"
   }
 ]
