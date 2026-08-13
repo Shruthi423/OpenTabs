@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Databricks",
-      "amount": "$5.0B",
-      "stage": null,
+      "company": "BioScout",
+      "amount": "$4.8M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/13/databricks-raises-5-billion-at-190-billion-valuation-as-revenue-run-rate-tops-7-billion/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYNG5kZmgwVlgxV0k1cWpkTUJ5aWV6aU9FMkI5QUFvNG9HeGJhQ3NEaHdmZ3VIVEhlM2drVjU4bG90S1lVbE1vX0hXam91TjRjRjA4SEprZWNPWUJKSUZGS2pGbmVSa3dQeVZYczMtZmhUbWluajZQaTlxRDBhZw?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-08-13T11:24:09.722164-07:00"
+    "remind_at": "2026-08-13T12:25:34.751276-07:00"
+  },
+  {
+    "item": {
+      "company": "Wilson Sonsini Advises Vals AI",
+      "amount": "$40.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUno3Y25mQkhxM0JZalpWQ0daeTM4VzluQ2g1cDFfLTdORWhBTHlfTGlEWFhyc01JbFlBYTNjUUVfaXJiZHdaeUNPdGhkNE14bmsyMXRGM1NvMDVIaFJRc3QyZF9VNDU0c3ZiaUJVRmE2LWdkSFFmUDRPZFZlWUJMN3FHbnVhNi05a19XQ1FqSnRjX2s2aldZTFc0UHVKY1plYVMxR1U1aUpqYVVQZnA1bE92M0ZfQm5UanlBWnhsSHlUdw?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-08-13T12:25:39.810893-07:00"
   }
 ]

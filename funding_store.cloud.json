@@ -41269,5 +41269,41 @@
     ],
     "first_seen": "2026-08-13T10:54:10.722301-07:00",
     "status": "active"
+  },
+  "3d0a474a2a00255e99d5ef1ce43d9421": {
+    "id": "3d0a474a2a00255e99d5ef1ce43d9421",
+    "company": "BioScout",
+    "amount": "$4.8M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYNG5kZmgwVlgxV0k1cWpkTUJ5aWV6aU9FMkI5QUFvNG9HeGJhQ3NEaHdmZ3VIVEhlM2drVjU4bG90S1lVbE1vX0hXam91TjRjRjA4SEprZWNPWUJKSUZGS2pGbmVSa3dQeVZYczMtZmhUbWluajZQaTlxRDBhZw?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-13T11:55:35.751433-07:00",
+    "status": "active"
+  },
+  "36a6bb06d335a3a544c72e0fb213621c": {
+    "id": "36a6bb06d335a3a544c72e0fb213621c",
+    "company": "Wilson Sonsini Advises Vals AI",
+    "amount": "$40.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUno3Y25mQkhxM0JZalpWQ0daeTM4VzluQ2g1cDFfLTdORWhBTHlfTGlEWFhyc01JbFlBYTNjUUVfaXJiZHdaeUNPdGhkNE14bmsyMXRGM1NvMDVIaFJRc3QyZF9VNDU0c3ZiaUJVRmE2LWdkSFFmUDRPZFZlWUJMN3FHbnVhNi05a19XQ1FqSnRjX2s2aldZTFc0UHVKY1plYVMxR1U1aUpqYVVQZnA1bE92M0ZfQm5UanlBWnhsSHlUdw?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": "San Francisco",
+    "roles": [
+      {
+        "title": "Founding Designer",
+        "url": "https://jobs.ashbyhq.com/wilson/4e880709-64ff-45f4-b09d-74eaf8b0d9bd",
+        "location": "San Francisco"
+      }
+    ],
+    "first_seen": "2026-08-13T11:55:40.811086-07:00",
+    "status": "active"
   }
 }

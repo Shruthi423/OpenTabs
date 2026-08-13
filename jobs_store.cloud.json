@@ -12413,5 +12413,24 @@
     "first_seen": "2026-08-13T10:53:48.166560-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "99fe31ad906b582b1ca843613ecd4da3": {
+    "id": "99fe31ad906b582b1ca843613ecd4da3",
+    "title": "Founding Designer",
+    "company": "Wilson",
+    "location": "San Francisco",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/wilson/4e880709-64ff-45f4-b09d-74eaf8b0d9bd",
+    "source": "\ud83d\udcb0 Wilson Sonsini Advises Vals AI (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Wilson Sonsini Advises Vals AI raised $40.0M",
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-08-13T11:55:37.398288-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
