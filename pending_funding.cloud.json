@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "item": {
+      "company": "Congressional campaign stars",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "New York",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/12/congress-august-recesss-campaign-trail-midterms-bernie-sanders",
+      "priority": 3
+    },
+    "remind_at": "2026-08-12T19:13:41.211447-07:00"
+  }
+]
