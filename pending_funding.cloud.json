@@ -1,30 +1,30 @@
 [
   {
     "item": {
-      "company": "Trunk Tools",
+      "company": "Centricity",
       "amount": null,
-      "stage": null,
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTlBUndqa01rbzBmY3FyR1hCQ0pJUDk2YmVWb2FFY0QxejVudmN4VTg3amxOMUFmUzJZcjZBNm51dUZzSlZBd09SMzhialFnaVpNcWRlaE5NU19NbDB5NlVMclhGdVdHYnZqSlhXbl9jc19EZ3FwbV9aZHg3a2dOR1hsNTNIbnk1Zmh0bVk4RDZzT0J5QnVyUVFoSzdYYTNCQkxfOElYT2VJTFVNc0hkbVVUWm5YOUszRjdub2lsYWc?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-13T05:00:08.061556-07:00"
+    "remind_at": "2026-08-13T05:42:05.246671-07:00"
   },
   {
     "item": {
-      "company": "Josh Kushner\u2019s Thrive Holdings",
-      "amount": "$2.0B",
+      "company": "Heron Power plans $100 million factory",
+      "amount": "$100.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/josh-kushners-thrive-holdings-raises-2b-at-a-12b-valuation-to-turn-ai-into-a-private-equity-strategy/",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREJGWW1QTUt6aXM0U2FYWlF3cjU2a0RCWWxGV185a0ttSXdVZjdzX1pCSjNrX0xHX19wd2hIcG1xTVhSY01DY2R0dE5WcnptRjN0T0lJVkFjWDlKc2pQVmZYSkZvVlNBeDN1VXhmaHNCT2xSTy1fYjJkUkhSbW5CVEdDVkV3UWJyXzRwZ2ZFdjRJVE95N2ZBTHVETmVBcnVFdHhyWk9mODRtRjlfa2ViUTBmOWxrVzFHTDFqeEFHOA?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-13T05:00:10.995350-07:00"
+    "remind_at": "2026-08-13T05:42:08.388286-07:00"
   }
 ]
