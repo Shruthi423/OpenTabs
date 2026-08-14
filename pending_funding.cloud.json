@@ -1,30 +1,86 @@
 [
   {
     "item": {
-      "company": "Sterling",
-      "amount": "$3.8M",
+      "company": "Corma has",
+      "amount": "$60.0M",
+      "stage": "Seed",
+      "investors": "Sequoia Capital",
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hcUxCelkzbzEwRnJna3VUNXU3ZmdpSzBUSVNGUW5XblNpZHFKUENab255Q0x3WHE3Y3ZON1VCZmt4STlXRlFURW1yRFFZbHNsMEZxdzdiVmJFTnpscVpxUENiUlBVTDhDQllZ?oc=5",
+      "priority": 12
+    },
+    "remind_at": "2026-08-13T22:50:24.891040-07:00"
+  },
+  {
+    "item": {
+      "company": "Walaw",
+      "amount": "$1.5M",
+      "stage": "Pre-Seed",
+      "investors": "Telegraph Ventures to expand its AI receptionist software for health and wellness clinics across Canada",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/walaw-raises-1-5m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-13T22:50:27.306987-07:00"
+  },
+  {
+    "item": {
+      "company": "AGent Energy",
+      "amount": "$11.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTkxZlFqNmpMQThjMnRrMTBNSk5HYWJQSDJtd3g5RTNiX1NOWVgydEV3WFpfaFIyNW42RTJNblpYcDNxWGdYWWM2Qlp0ajRFY2xTVThJeDZTV19YY18tcmxaOVB2a2RYNDloZFA3TkhPbWMtTGFHaXV3czVnT3g2dFdXazV1WS1IQmhxZENjRE5sNS10eDF4MDNGcjFvRGVZQWprLWNn?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/agent-energy-raises-11m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-08-13T21:07:02.832956-07:00"
+    "remind_at": "2026-08-13T22:50:30.765820-07:00"
   },
   {
     "item": {
-      "company": "'Marshmallow",
+      "company": "Qodia",
       "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/qodia-raises-1-2m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-13T22:50:33.338357-07:00"
+  },
+  {
+    "item": {
+      "company": "Trump team tells GOP",
+      "amount": "$400.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQmxrR1dZVW9qeWZIUVIwR3l6dDVlckVWS2tzMEZHVEdFQUFPSmkwdFZxZVFTMmNKWnN0ZFNtVVJ1eUJxam1vekFIcG9Na0pnR3Z6VVh5WDJnWUJUb3R4WWZMWlJIc0VXZkhZWk5QbmpQbzFta1d6bk9qNHFYcjJlN2JHY2ZJNzJ3eDVSY2hoM1ViMkh5R013VU1lRjFKaWtZSGRMNEhpWlcwRUlZSW5vNDYwcTl1MjNId0VKOFdLZGdMaHAxSnF0S1h5SV9Ta2FiVnJETktjeUctVTVSb0wyZHFldEZhM2huZGpqMURyeERFbXNid2VvVDVWZ21SbTQ?oc=5",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/13/midterms-senate-health-care-republicans-trump",
       "priority": 3
     },
-    "remind_at": "2026-08-13T21:07:05.254088-07:00"
+    "remind_at": "2026-08-13T22:50:36.757179-07:00"
+  },
+  {
+    "item": {
+      "company": "Trump wins legal battle",
+      "amount": "$1.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+      "priority": 3
+    },
+    "remind_at": "2026-08-13T22:50:39.966397-07:00"
   }
 ]
