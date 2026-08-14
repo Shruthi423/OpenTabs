@@ -1,72 +1,114 @@
 [
   {
     "item": {
-      "company": "Preview",
-      "amount": "$10.0M",
+      "company": "Medicall",
+      "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/preview-raises-10m-seed/",
+      "url": "https://www.thesaasnews.com/news/medicall-secures-seed-investment/",
       "priority": 9
     },
-    "remind_at": "2026-08-14T00:23:26.614901-07:00"
+    "remind_at": "2026-08-14T01:40:25.424839-07:00"
   },
   {
     "item": {
-      "company": "Sterling",
-      "amount": "$3.15M",
+      "company": "Aisot Technologies",
+      "amount": null,
       "stage": "Seed",
-      "investors": "Blackbird to automate finance and accounting workflows for enterprise clients",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sterling-raises-a3-15m-seed/",
+      "url": "https://www.thesaasnews.com/news/aisot-technologies-raises-2-13m-seed-extension/",
       "priority": 9
     },
-    "remind_at": "2026-08-14T00:23:29.275447-07:00"
+    "remind_at": "2026-08-14T01:40:27.895671-07:00"
   },
   {
     "item": {
-      "company": "Vals AI",
-      "amount": "$40.0M",
+      "company": "GraphAI",
+      "amount": null,
       "stage": "Series A",
-      "investors": null,
+      "investors": "K2 Investment Partners to advance its enterprise AI data infrastructure and global expansion",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/vals-ai-raises-40m-series-a/",
+      "url": "https://www.thesaasnews.com/news/graphai-raises-17000000000-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-08-14T00:23:31.871039-07:00"
+    "remind_at": "2026-08-14T01:40:30.327941-07:00"
   },
   {
     "item": {
-      "company": "Graas",
-      "amount": "$17.0M",
-      "stage": "Series B",
-      "investors": "LemmaTree to expand its AI commerce agent platform and integrate the acquisition of Trustana",
+      "company": "Anthropic needs",
+      "amount": null,
+      "stage": null,
+      "investors": "one of the fastest revenue ramps anyone has ever seen on a company that has yet to report an annual profit",
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/graas-raises-us17m-series-b/",
-      "priority": 7
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/14/anthropic-valuation-ipo-amazon-trillion-openai/",
+      "priority": 3
     },
-    "remind_at": "2026-08-14T00:23:34.403588-07:00"
+    "remind_at": "2026-08-14T01:40:33.664885-07:00"
   },
   {
     "item": {
-      "company": "Crypto Player Takes Home $1.749M",
-      "amount": "$1.749M",
+      "company": "Airbnb CEO Brian Chesky",
+      "amount": "$110.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/14/crypto-player-takes-home-1-749m-after-a-million-psg-bet-on-1win/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/14/airbnb-ceo-brian-chesky-founder-mode-ai-writes-60-percent-of-code/",
       "priority": 3
     },
-    "remind_at": "2026-08-14T00:23:37.805442-07:00"
+    "remind_at": "2026-08-14T01:40:36.809120-07:00"
+  },
+  {
+    "item": {
+      "company": "Databricks jumps",
+      "amount": "$190.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/databricks-jumps-to-190b-valuation-with-5b-round-six-months-after-hitting-134b/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-14T01:40:39.988149-07:00"
+  },
+  {
+    "item": {
+      "company": "AMD",
+      "amount": "$5.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/amd-5b-bond-sale-ai-expansion/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-14T01:40:42.335007-07:00"
+  },
+  {
+    "item": {
+      "company": "Naran",
+      "amount": "$10.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/naran-raises-10m-debt-financing/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-14T01:40:44.663151-07:00"
   }
 ]
