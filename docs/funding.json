@@ -1,5 +1,67 @@
 [
   {
+    "id": "65261d5e3bfd8b201fa65e5b94607777",
+    "company": "Aligned Marketplace",
+    "amount": "$20.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVno1Y0t3QlNMdzdYd0VURnBwR0s3R3NkUDQzV0hFVGdKbFl2ZEZmNWdXQWVyVmlpSTBhNHNLX056eV9YYnViZmpFNjhsVmdtVXJjVFVYOTRVLUFLZ2N0VFl6R0l1LXpOZ2xUekVUWEM0MTBvaXJ4dm5jMWR3YVRuVTVBOUdINGFFcUFRbklESXExNlhobmc?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-14T09:32:27.687721-07:00",
+    "status": "active"
+  },
+  {
+    "id": "f7e24724bfdb12a5370126c3686305c0",
+    "company": "Luigi Mangione pleads guilty",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
+    "priority": 3,
+    "founders": [
+      "Brian Thompson"
+    ],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-08-14T09:32:24.336952-07:00",
+    "status": "active"
+  },
+  {
+    "id": "0ec422de004303d704991c0d3b0c42c6",
+    "company": "Elon Musk\u2019s $158 billion Tesla pay",
+    "amount": "$158.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/14/elon-musk-158-billion-tesla-pay-2-5-million-times-his-workers-salary-last-year-unlike-anything-we-have-seen-before-exec-pay-watch/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-14T09:32:20.874638-07:00",
+    "status": "active"
+  },
+  {
+    "id": "590e556e9cc12d3170fec89c0a2ab6d4",
+    "company": "Algorix",
+    "amount": "$11.5M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00WUdGamU0M2RRZDlyWUEwbXdZMWJRMTRFU095ZUR4OGNJT010SWswV29MZ1BnclZZMnpoSG1DM0tmeEgzSmdOaFdSMGVfLXR2eE5j?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-14T09:32:17.591481-07:00",
+    "status": "active"
+  },
+  {
     "id": "0e23dc1828e1100c04f79b7f9c45fec0",
     "company": "Why it won\u2019t end anytime soon",
     "amount": "Undisclosed",
