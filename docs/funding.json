@@ -1,5 +1,35 @@
 [
   {
+    "id": "9e2508ce1eb6bacb909d93dcd852ecbc",
+    "company": "Faces Challenges",
+    "amount": "$74.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVi10ODNwcnBPWXpSQVpuOE9HWllXdkR0akpISXdVSDVmNlk5QkN6eHdhOHZKSWpIVnYxc3F2QmRfTHFQaDM2dEFBN3JfNUlCNkpKUzB5TFkxaTgzYmJmQzVOZkVwVzhjcm9YU2hjckt2eURXUUZDcXV4clZ0TWVsYXdCeXRhREJC?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-14T13:15:08.921098-07:00",
+    "status": "active"
+  },
+  {
+    "id": "d418dad1b10f3cad6f7681d376083b25",
+    "company": "The White House",
+    "amount": "$112.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/14/white-house-tariff-dodgers-112-billion-dollar-problem-trump-made-worse/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-14T13:15:05.949943-07:00",
+    "status": "active"
+  },
+  {
     "id": "f8f59849e3bf7ce5978a9b1d321642f7",
     "company": "Viktor AI",
     "amount": "$75.0M",
