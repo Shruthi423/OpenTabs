@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Insurance software provider Accelerant",
-      "amount": "$4.4B",
+      "company": "Sterling",
+      "amount": "$3.8M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTkxZlFqNmpMQThjMnRrMTBNSk5HYWJQSDJtd3g5RTNiX1NOWVgydEV3WFpfaFIyNW42RTJNblpYcDNxWGdYWWM2Qlp0ajRFY2xTVThJeDZTV19YY18tcmxaOVB2a2RYNDloZFA3TkhPbWMtTGFHaXV3czVnT3g2dFdXazV1WS1IQmhxZENjRE5sNS10eDF4MDNGcjFvRGVZQWprLWNn?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-13T21:07:02.832956-07:00"
+  },
+  {
+    "item": {
+      "company": "'Marshmallow",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/13/insurance-software-provider-accelerant-taken-private-4-4b/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQmxrR1dZVW9qeWZIUVIwR3l6dDVlckVWS2tzMEZHVEdFQUFPSmkwdFZxZVFTMmNKWnN0ZFNtVVJ1eUJxam1vekFIcG9Na0pnR3Z6VVh5WDJnWUJUb3R4WWZMWlJIc0VXZkhZWk5QbmpQbzFta1d6bk9qNHFYcjJlN2JHY2ZJNzJ3eDVSY2hoM1ViMkh5R013VU1lRjFKaWtZSGRMNEhpWlcwRUlZSW5vNDYwcTl1MjNId0VKOFdLZGdMaHAxSnF0S1h5SV9Ta2FiVnJETktjeUctVTVSb0wyZHFldEZhM2huZGpqMURyeERFbXNid2VvVDVWZ21SbTQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-13T18:52:45.768628-07:00"
+    "remind_at": "2026-08-13T21:07:05.254088-07:00"
   }
 ]
