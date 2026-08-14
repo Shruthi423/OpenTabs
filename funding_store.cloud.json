@@ -42099,5 +42099,20 @@
     "roles": [],
     "first_seen": "2026-08-14T13:47:35.996005-07:00",
     "status": "active"
+  },
+  "a4dced38e673eeeac0bf3076e3a80d61": {
+    "id": "a4dced38e673eeeac0bf3076e3a80d61",
+    "company": "Goldman Sachs in talks",
+    "amount": "$500.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/08/14/goldman-sachs-in-talks-with-investors-on-nvidias-500-billion-ai-financing-deal-that-could-turn-compute-into-wall-streets-next-asset-class/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-14T14:49:25.252738-07:00",
+    "status": "active"
   }
 }
