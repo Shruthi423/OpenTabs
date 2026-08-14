@@ -1,114 +1,58 @@
 [
   {
     "item": {
-      "company": "Medicall",
+      "company": "Ocean Intelligence",
       "amount": null,
-      "stage": "Seed",
-      "investors": null,
+      "stage": "Pre-Seed",
+      "investors": "Quidnet Ventures to accelerate its marine SaaS platform development and expand into the Australian market",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/medicall-secures-seed-investment/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/ocean-intelligence-raises-pre-seed-round-to-take-nz-ocean-science-to-australia/",
+      "priority": 13
     },
-    "remind_at": "2026-08-14T01:40:25.424839-07:00"
+    "remind_at": "2026-08-14T02:50:26.233557-07:00"
   },
   {
     "item": {
-      "company": "Aisot Technologies",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/aisot-technologies-raises-2-13m-seed-extension/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-14T01:40:27.895671-07:00"
-  },
-  {
-    "item": {
-      "company": "GraphAI",
-      "amount": null,
-      "stage": "Series A",
-      "investors": "K2 Investment Partners to advance its enterprise AI data infrastructure and global expansion",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/graphai-raises-17000000000-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-08-14T01:40:30.327941-07:00"
-  },
-  {
-    "item": {
-      "company": "Anthropic needs",
+      "company": "AI scrambles the political map",
       "amount": null,
       "stage": null,
-      "investors": "one of the fastest revenue ramps anyone has ever seen on a company that has yet to report an annual profit",
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/14/anthropic-valuation-ipo-amazon-trillion-openai/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-14T01:40:33.664885-07:00"
-  },
-  {
-    "item": {
-      "company": "Airbnb CEO Brian Chesky",
-      "amount": "$110.0B",
-      "stage": null,
       "investors": null,
-      "location": null,
+      "location": "New York",
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/14/airbnb-ceo-brian-chesky-founder-mode-ai-writes-60-percent-of-code/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/14/ai-scrambles-political-map",
       "priority": 3
     },
-    "remind_at": "2026-08-14T01:40:36.809120-07:00"
+    "remind_at": "2026-08-14T02:50:29.206423-07:00"
   },
   {
     "item": {
-      "company": "Databricks jumps",
-      "amount": "$190.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/databricks-jumps-to-190b-valuation-with-5b-round-six-months-after-hitting-134b/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-14T01:40:39.988149-07:00"
-  },
-  {
-    "item": {
-      "company": "AMD",
-      "amount": "$5.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/amd-5b-bond-sale-ai-expansion/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-14T01:40:42.335007-07:00"
-  },
-  {
-    "item": {
-      "company": "Naran",
-      "amount": "$10.0M",
+      "company": "PMatch",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/naran-raises-10m-debt-financing/",
+      "url": "https://www.thesaasnews.com/news/pmatch-raises-undisclosed-other/",
       "priority": 3
     },
-    "remind_at": "2026-08-14T01:40:44.663151-07:00"
+    "remind_at": "2026-08-14T02:50:31.374440-07:00"
+  },
+  {
+    "item": {
+      "company": "Harvey Nichols",
+      "amount": "$45.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFVwRnJ5S1V6Vzhlb2NKVGtzMHFVVXlOaG9tQXJXMUR6Skl2SERzOW5UTUdJMmFXaWR4T19iS2V5R2w0VFBMTnJsQUVERENXYjhYMnZwd3hfSFdvS2UwRjdUaHRSaWk0LXkybUlQX29fTE9GTFUza3VvcnR0LVdJLU1HMEJxcnc4OXgwS21xU2dxVW5PWHlrag?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-14T02:50:37.922336-07:00"
   }
 ]
