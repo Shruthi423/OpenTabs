@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "item": {
+      "company": "A 30-Point Acceleration",
+      "amount": "$7.0B",
+      "stage": null,
+      "investors": "Coatue",
+      "location": null,
+      "founders": [],
+      "source": "SaaStr",
+      "url": "https://www.saastr.com/databricks-just-crossed-7b-arr-growing-80-a-30-point-acceleration-a-190b-valuation-and-the-margin-bill-for-agents/",
+      "priority": 6
+    },
+    "remind_at": "2026-08-14T07:10:57.185664-07:00"
+  },
+  {
+    "item": {
+      "company": "Hunt",
+      "amount": null,
+      "stage": null,
+      "investors": "pile into businesses built around everyday demand for fuel, food and staples",
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/14/hunt-for-ai-proof-trades-turns-convenience-shops-into-hot-stocks/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-14T07:10:59.629729-07:00"
+  },
+  {
+    "item": {
+      "company": "Trillions",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/14/servicenow-cfo-trillions-are-being-spent-on-ai-initiatives-are-companies-asking-these-3-key-questions/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-14T07:11:02.109412-07:00"
+  }
+]
