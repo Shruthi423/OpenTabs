@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "A 30-Point Acceleration",
-      "amount": "$7.0B",
-      "stage": null,
-      "investors": "Coatue",
-      "location": null,
-      "founders": [],
-      "source": "SaaStr",
-      "url": "https://www.saastr.com/databricks-just-crossed-7b-arr-growing-80-a-30-point-acceleration-a-190b-valuation-and-the-margin-bill-for-agents/",
-      "priority": 6
-    },
-    "remind_at": "2026-08-14T07:10:57.185664-07:00"
-  },
-  {
-    "item": {
-      "company": "Hunt",
-      "amount": null,
-      "stage": null,
-      "investors": "pile into businesses built around everyday demand for fuel, food and staples",
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/14/hunt-for-ai-proof-trades-turns-convenience-shops-into-hot-stocks/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-14T07:10:59.629729-07:00"
-  },
-  {
-    "item": {
-      "company": "Trillions",
-      "amount": null,
+      "company": "Powerball\u2019s drought ends in Illinois",
+      "amount": "$1.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/08/14/servicenow-cfo-trillions-are-being-spent-on-ai-initiatives-are-companies-asking-these-3-key-questions/",
+      "url": "https://fortune.com/2026/08/14/one-ticket-one-gas-station-1-billion-powerballs-drought-ends-in-illinois/",
       "priority": 3
     },
-    "remind_at": "2026-08-14T07:11:02.109412-07:00"
+    "remind_at": "2026-08-14T08:12:17.344304-07:00"
+  },
+  {
+    "item": {
+      "company": "Hippocratic AI",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmRHRHluS3YyNEZKMzhWSmtxY0F2N2xOQTJBbWNDeUdxVk9nb3NTcHZvVGhHZkdfbkRUeU1tN0xZTG1UR3U4aC1IWFh3cWtkZHdnM2RDVWswZDlFLW56eUJSMERGcThCZG1rRGxRMFZoNnRWdjlPWGpVY3lFYlJrU1VrbVJCWU9udHlhbHJUbE1TQ3lFVGZsSG5BWEJtQ1FncmRuRGg3a0pYakJIZ0dTTmstRQ?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-14T08:12:19.814796-07:00"
   }
 ]

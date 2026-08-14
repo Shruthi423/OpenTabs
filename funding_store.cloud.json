@@ -41855,5 +41855,35 @@
     "roles": [],
     "first_seen": "2026-08-14T06:41:03.109592-07:00",
     "status": "active"
+  },
+  "0b1bedcb605bef6ad6b24bff70dd1ee2": {
+    "id": "0b1bedcb605bef6ad6b24bff70dd1ee2",
+    "company": "Powerball\u2019s drought ends in Illinois",
+    "amount": "$1.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/14/one-ticket-one-gas-station-1-billion-powerballs-drought-ends-in-illinois/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-14T07:42:18.344432-07:00",
+    "status": "active"
+  },
+  "d6a4824839163d563342d7be2c3e2cdd": {
+    "id": "d6a4824839163d563342d7be2c3e2cdd",
+    "company": "Hippocratic AI",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmRHRHluS3YyNEZKMzhWSmtxY0F2N2xOQTJBbWNDeUdxVk9nb3NTcHZvVGhHZkdfbkRUeU1tN0xZTG1UR3U4aC1IWFh3cWtkZHdnM2RDVWswZDlFLW56eUJSMERGcThCZG1rRGxRMFZoNnRWdjlPWGpVY3lFYlJrU1VrbVJCWU9udHlhbHJUbE1TQ3lFVGZsSG5BWEJtQ1FncmRuRGg3a0pYakJIZ0dTTmstRQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-14T07:42:20.814944-07:00",
+    "status": "active"
   }
 }
