@@ -1,32 +1,30 @@
 [
   {
     "item": {
-      "company": "Americans' wanderlust",
-      "amount": null,
+      "company": "MiiHealth AI",
+      "amount": "$2.8M",
       "stage": null,
       "investors": null,
-      "location": "Washington",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/14/americans-overseas-european-travel-boom",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLTMyc2RieUp4aDM2TFRMRjZIOXEzajBBT1ltRmc0WEZaajNvMDBfVjAzVUlGYUxxMGxQY0UtTWIwZmtodnlSRjJ1Mzd4T1JRNHdiVTY0Q0pqdjBqWldlUmNlTzNTaGVySlRraTF0WUhLNTI3Z3UzVXZmdGc4U2F3NzV4QnkwOXp4MjE5Zw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-14T11:07:37.696846-07:00"
+    "remind_at": "2026-08-14T12:02:30.194652-07:00"
   },
   {
     "item": {
-      "company": "Dorm rooms",
+      "company": "Space",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": "Boston",
-      "founders": [
-        "Kelly Mahoney"
-      ],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/14/college-dorm-decor-economy",
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVVXVNQUlUNmoyRlNza284eGk5NUhrNEowS3RPR1FjQ0YxR0lwM2tnSlB0Mnh2Z25ITi12b1RUQmxNdnZweGlxbGFXRmFSM2Y2YUppcjRQRFdqNnpOODJPeXNfOXgtUQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-14T11:07:41.274513-07:00"
+    "remind_at": "2026-08-14T12:02:32.532652-07:00"
   }
 ]
