@@ -1,60 +1,32 @@
 [
   {
     "item": {
-      "company": "Algorix",
-      "amount": "$11.5M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00WUdGamU0M2RRZDlyWUEwbXdZMWJRMTRFU095ZUR4OGNJT010SWswV29MZ1BnclZZMnpoSG1DM0tmeEgzSmdOaFdSMGVfLXR2eE5j?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-14T10:02:16.591337-07:00"
-  },
-  {
-    "item": {
-      "company": "Elon Musk\u2019s $158 billion Tesla pay",
-      "amount": "$158.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/14/elon-musk-158-billion-tesla-pay-2-5-million-times-his-workers-salary-last-year-unlike-anything-we-have-seen-before-exec-pay-watch/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-14T10:02:19.874497-07:00"
-  },
-  {
-    "item": {
-      "company": "Luigi Mangione pleads guilty",
+      "company": "Americans' wanderlust",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": "New York",
-      "founders": [
-        "Brian Thompson"
-      ],
+      "location": "Washington",
+      "founders": [],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
+      "url": "https://www.axios.com/2026/08/14/americans-overseas-european-travel-boom",
       "priority": 3
     },
-    "remind_at": "2026-08-14T10:02:23.336804-07:00"
+    "remind_at": "2026-08-14T11:07:37.696846-07:00"
   },
   {
     "item": {
-      "company": "Aligned Marketplace",
-      "amount": "$20.0M",
+      "company": "Dorm rooms",
+      "amount": null,
       "stage": null,
       "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVno1Y0t3QlNMdzdYd0VURnBwR0s3R3NkUDQzV0hFVGdKbFl2ZEZmNWdXQWVyVmlpSTBhNHNLX056eV9YYnViZmpFNjhsVmdtVXJjVFVYOTRVLUFLZ2N0VFl6R0l1LXpOZ2xUekVUWEM0MTBvaXJ4dm5jMWR3YVRuVTVBOUdINGFFcUFRbklESXExNlhobmc?oc=5",
+      "location": "Boston",
+      "founders": [
+        "Kelly Mahoney"
+      ],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/14/college-dorm-decor-economy",
       "priority": 3
     },
-    "remind_at": "2026-08-14T10:02:26.687557-07:00"
+    "remind_at": "2026-08-14T11:07:41.274513-07:00"
   }
 ]

@@ -1,5 +1,37 @@
 [
   {
+    "id": "3c592258bc3cbbd2669ee851e386c197",
+    "company": "Dorm rooms",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/14/college-dorm-decor-economy",
+    "priority": 3,
+    "founders": [
+      "Kelly Mahoney"
+    ],
+    "location": "Boston",
+    "roles": [],
+    "first_seen": "2026-08-14T10:37:42.274688-07:00",
+    "status": "active"
+  },
+  {
+    "id": "ba3cea1cc948c5c5fcd3db1664855734",
+    "company": "Americans' wanderlust",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/14/americans-overseas-european-travel-boom",
+    "priority": 3,
+    "founders": [],
+    "location": "Washington",
+    "roles": [],
+    "first_seen": "2026-08-14T10:37:38.697017-07:00",
+    "status": "active"
+  },
+  {
     "id": "65261d5e3bfd8b201fa65e5b94607777",
     "company": "Aligned Marketplace",
     "amount": "$20.0M",
