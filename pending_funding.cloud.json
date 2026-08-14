@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "The White House",
-      "amount": "$112.0B",
+      "company": "Z.ai",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/14/white-house-tariff-dodgers-112-billion-dollar-problem-trump-made-worse/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/14/z-ai-debuts-glm-5-3-long-horizon-coding-cybersecurity-upgrades/",
       "priority": 3
     },
-    "remind_at": "2026-08-14T13:45:04.949734-07:00"
-  },
-  {
-    "item": {
-      "company": "Faces Challenges",
-      "amount": "$74.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVi10ODNwcnBPWXpSQVpuOE9HWllXdkR0akpISXdVSDVmNlk5QkN6eHdhOHZKSWpIVnYxc3F2QmRfTHFQaDM2dEFBN3JfNUlCNkpKUzB5TFkxaTgzYmJmQzVOZkVwVzhjcm9YU2hjckt2eURXUUZDcXV4clZ0TWVsYXdCeXRhREJC?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-14T13:45:07.920893-07:00"
+    "remind_at": "2026-08-14T14:17:34.995862-07:00"
   }
 ]
