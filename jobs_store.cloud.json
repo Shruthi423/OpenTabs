@@ -12794,5 +12794,41 @@
     "first_seen": "2026-08-15T01:00:08.222927-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "97965f4751eefef51f3a1efa95a28aca": {
+    "id": "97965f4751eefef51f3a1efa95a28aca",
+    "title": "UI/UX Designer at M&S Consulting",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://remotefirstjobs.com/companies/m-and-s-consulting/jobs/uiux-designer-848980",
+    "source": "JobsCollider",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-08-15T01:34:58.445190-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "18ff95a2334404c100606f6da4f1886d": {
+    "id": "18ff95a2334404c100606f6da4f1886d",
+    "title": "UX/UI Designer (software)",
+    "company": "See posting",
+    "location": "San Francisco Bay Area, CA",
+    "salary": "Not listed",
+    "url": "https://www.builtinsf.com/job/ux-ui-designer-software/9738825",
+    "source": "BuiltIn SF",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-08-15T01:35:00.172107-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
