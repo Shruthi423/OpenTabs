@@ -42249,5 +42249,50 @@
     "roles": [],
     "first_seen": "2026-08-15T06:43:05.504944-07:00",
     "status": "active"
+  },
+  "e1c108a6ef073a3be6e411f0f9296ac1": {
+    "id": "e1c108a6ef073a3be6e411f0f9296ac1",
+    "company": "Boiler room",
+    "amount": "$74.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/15/boiler-room-retirees-fraud-spacex-anduril-anthropic-perplexity/",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-08-15T07:48:05.283476-07:00",
+    "status": "active"
+  },
+  "c63f5afe9d68054ec1570c8ae939b26e": {
+    "id": "c63f5afe9d68054ec1570c8ae939b26e",
+    "company": "Why Getting",
+    "amount": "$100.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SaaStr",
+    "url": "https://www.saastr.com/gammas-ceo-why-getting-to-100m-arr-without-a-sales-team-worked-and-why-it-was-a-mistake/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-15T07:48:08.369425-07:00",
+    "status": "active"
+  },
+  "7b6038a537e7c9828ce1b55feaea207b": {
+    "id": "7b6038a537e7c9828ce1b55feaea207b",
+    "company": "Remepy",
+    "amount": "$136.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa2kwaVl3Zlp0Qk05Q3Rhem9oWHRNMkdIQm9femRwbW00VmxJVVBDVWRBLU5GY2NiLWp2Q0htQnpzR2FObGVhLXlrMjE5UUVfeUZwOHdaaVJ4T2NBRzh6SHVJSU51LWxBZ05xTm5jNGl1a2YxMWJIVHktem12c3NMMTMwdUNoRXpXZy15bkpLN09WTzhKanpMX1hycXJkRjNUdVE?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-15T07:48:10.552227-07:00",
+    "status": "active"
   }
 }

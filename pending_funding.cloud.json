@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "item": {
+      "company": "Boiler room",
+      "amount": "$74.0M",
+      "stage": null,
+      "investors": null,
+      "location": "New York",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/15/boiler-room-retirees-fraud-spacex-anduril-anthropic-perplexity/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-15T08:18:04.283311-07:00"
+  },
+  {
+    "item": {
+      "company": "Why Getting",
+      "amount": "$100.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SaaStr",
+      "url": "https://www.saastr.com/gammas-ceo-why-getting-to-100m-arr-without-a-sales-team-worked-and-why-it-was-a-mistake/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-15T08:18:07.369267-07:00"
+  },
+  {
+    "item": {
+      "company": "Remepy",
+      "amount": "$136.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa2kwaVl3Zlp0Qk05Q3Rhem9oWHRNMkdIQm9femRwbW00VmxJVVBDVWRBLU5GY2NiLWp2Q0htQnpzR2FObGVhLXlrMjE5UUVfeUZwOHdaaVJ4T2NBRzh6SHVJSU51LWxBZ05xTm5jNGl1a2YxMWJIVHktem12c3NMMTMwdUNoRXpXZy15bkpLN09WTzhKanpMX1hycXJkRjNUdVE?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-15T08:18:09.552073-07:00"
+  }
+]
