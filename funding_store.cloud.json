@@ -42345,5 +42345,20 @@
     "roles": [],
     "first_seen": "2026-08-15T08:36:30.077367-07:00",
     "status": "active"
+  },
+  "3f129a008dbd87c9245da6fe083ca775": {
+    "id": "3f129a008dbd87c9245da6fe083ca775",
+    "company": "Container security",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/15/container-security-attack-surface-reduction-appdevangle/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-15T10:57:25.990768-07:00",
+    "status": "active"
   }
 }
