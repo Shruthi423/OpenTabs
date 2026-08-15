@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Clariti Cloud",
+      "location": "Remote",
+      "url": "https://uiuxjobsboard.com/job/1562226-remote-canada-product-designer",
+      "salary": "$145,600 - $208,000",
+      "description": "",
+      "posted_at": "2h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-08-15T04:16:50.979419-07:00"
+  },
+  {
+    "job": {
+      "title": "UX Researcher",
+      "company": "Blueprint",
+      "location": "Remote",
+      "url": "https://uiuxjobsboard.com/job/1562326-remote-united-states-ux-researcher",
+      "salary": "$72,800 - $79,040",
+      "description": "",
+      "posted_at": "2h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-08-15T04:16:52.740337-07:00"
+  },
+  {
+    "job": {
+      "title": "Air Defense UX Researcher",
+      "company": "Anduril Industries",
+      "location": "Irvine, CA",
+      "url": "https://uiuxjobsboard.com/job/1562126-air-defense-ux-researcher-irvine-ca-united-states",
+      "salary": "$166,000 - $220,000",
+      "description": "",
+      "posted_at": "3h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-08-15T04:16:54.497023-07:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Thesis",
+      "location": "New York",
+      "url": "https://uiuxjobsboard.com/job/1562026-product-designer-new-york-united-states",
+      "salary": "$140,000 - $165,000",
+      "description": "",
+      "posted_at": "3h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-08-15T04:16:56.261919-07:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Anthropic",
+      "location": "San Francisco, CA",
+      "url": "https://uiuxjobsboard.com/job/1561926-product-designer-san-francisco-ca-united-states",
+      "salary": "$385,000 - $460,000",
+      "description": "",
+      "posted_at": "4h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": true,
+      "visa": null
+    },
+    "remind_at": "2026-08-15T04:16:58.022424-07:00"
+  }
+]
