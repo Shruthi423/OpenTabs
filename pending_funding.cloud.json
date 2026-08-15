@@ -1,44 +1,44 @@
 [
   {
     "item": {
-      "company": "Boiler room",
-      "amount": "$74.0M",
+      "company": "Nvidia has $21 billion SpaceX stake",
+      "amount": "$21.0B",
       "stage": null,
       "investors": null,
-      "location": "New York",
+      "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/08/15/boiler-room-retirees-fraud-spacex-anduril-anthropic-perplexity/",
+      "url": "https://fortune.com/2026/08/15/nvidia-21-billion-spacex-stake-30-billion-intel-shares/",
       "priority": 3
     },
-    "remind_at": "2026-08-15T08:18:04.283311-07:00"
+    "remind_at": "2026-08-15T09:06:23.047590-07:00"
   },
   {
     "item": {
-      "company": "Why Getting",
-      "amount": "$100.0M",
+      "company": "Anthropic revenue surges",
+      "amount": "$11.5B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SaaStr",
-      "url": "https://www.saastr.com/gammas-ceo-why-getting-to-100m-arr-without-a-sales-team-worked-and-why-it-was-a-mistake/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/15/anthropic-revenue-q2-11-5-billion-ipo-investors/",
       "priority": 3
     },
-    "remind_at": "2026-08-15T08:18:07.369267-07:00"
+    "remind_at": "2026-08-15T09:06:26.089240-07:00"
   },
   {
     "item": {
-      "company": "Remepy",
-      "amount": "$136.0M",
+      "company": "After the round",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa2kwaVl3Zlp0Qk05Q3Rhem9oWHRNMkdIQm9femRwbW00VmxJVVBDVWRBLU5GY2NiLWp2Q0htQnpzR2FObGVhLXlrMjE5UUVfeUZwOHdaaVJ4T2NBRzh6SHVJSU51LWxBZ05xTm5jNGl1a2YxMWJIVHktem12c3NMMTMwdUNoRXpXZy15bkpLN09WTzhKanpMX1hycXJkRjNUdVE?oc=5",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/after-the-round-the-real-question-is-whether-your-deals-are-real/",
       "priority": 3
     },
-    "remind_at": "2026-08-15T08:18:09.552073-07:00"
+    "remind_at": "2026-08-15T09:06:29.077224-07:00"
   }
 ]

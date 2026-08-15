@@ -1,5 +1,56 @@
 [
   {
+    "id": "ea2fc142fd52517c4fdac3ad3039f0a4",
+    "company": "After the round",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/after-the-round-the-real-question-is-whether-your-deals-are-real/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-15T08:36:30.077367-07:00",
+    "status": "active"
+  },
+  {
+    "id": "fa9141dfd4ff241c43df18c4dacf18db",
+    "company": "Anthropic revenue surges",
+    "amount": "$11.5B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/15/anthropic-revenue-q2-11-5-billion-ipo-investors/",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco, CA | New York City, NY",
+    "roles": [
+      {
+        "title": "Product Designer, People Products",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383660008",
+        "location": "San Francisco, CA | New York City, NY"
+      }
+    ],
+    "first_seen": "2026-08-15T08:36:27.089420-07:00",
+    "status": "active"
+  },
+  {
+    "id": "bc25eb73550d0a726c574015a09aff24",
+    "company": "Nvidia has $21 billion SpaceX stake",
+    "amount": "$21.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/15/nvidia-21-billion-spacex-stake-30-billion-intel-shares/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-15T08:36:24.047749-07:00",
+    "status": "active"
+  },
+  {
     "id": "7b6038a537e7c9828ce1b55feaea207b",
     "company": "Remepy",
     "amount": "$136.0M",
