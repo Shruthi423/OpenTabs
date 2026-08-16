@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "Blaze.tech",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmtQOUViaVVxNzNGTUY1b2xoSXBQWG0xUGRSSkZCNm54ZkotYjlWOWo1dTNBQndZM053WVN3NzNXZ1Fha202VHdvc3Y1dlhjcS1zbTNDRW1xSWJvZ3VpZVZndklEMGhFcWhSQ1oyaUQ1ZmtIQUNuVGxXVmNXUnBIckRSOWllNnpJTkRZdzkzem1JNjdlQ3hJbVNKeGtnRmdjSUw0OVNpbzZuc1Y4WlF3cHg5d3lVd21KeFVtMEM3dWRuU2ZPQkdv?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-08-16T12:24:49.168242-07:00"
+  },
+  {
+    "item": {
+      "company": "Inside Trump's secret backchannel",
+      "amount": null,
+      "stage": null,
+      "investors": "the IRGC",
+      "location": "Washington",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/16/iran-backchannel-trump-gabbard-barzani-war",
+      "priority": 3
+    },
+    "remind_at": "2026-08-16T12:24:52.427327-07:00"
+  }
+]

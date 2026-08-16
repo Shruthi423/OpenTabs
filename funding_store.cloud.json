@@ -42480,5 +42480,35 @@
     "roles": [],
     "first_seen": "2026-08-16T07:30:10.717212-07:00",
     "status": "active"
+  },
+  "bedac20fc235f838bc6ce7f4cb2b5bda": {
+    "id": "bedac20fc235f838bc6ce7f4cb2b5bda",
+    "company": "Blaze.tech",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmtQOUViaVVxNzNGTUY1b2xoSXBQWG0xUGRSSkZCNm54ZkotYjlWOWo1dTNBQndZM053WVN3NzNXZ1Fha202VHdvc3Y1dlhjcS1zbTNDRW1xSWJvZ3VpZVZndklEMGhFcWhSQ1oyaUQ1ZmtIQUNuVGxXVmNXUnBIckRSOWllNnpJTkRZdzkzem1JNjdlQ3hJbVNKeGtnRmdjSUw0OVNpbzZuc1Y4WlF3cHg5d3lVd21KeFVtMEM3dWRuU2ZPQkdv?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-16T11:54:50.168374-07:00",
+    "status": "active"
+  },
+  "ae10921d853d3336f08d4b104fa1c429": {
+    "id": "ae10921d853d3336f08d4b104fa1c429",
+    "company": "Inside Trump's secret backchannel",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "the IRGC",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/16/iran-backchannel-trump-gabbard-barzani-war",
+    "priority": 3,
+    "founders": [],
+    "location": "Washington",
+    "roles": [],
+    "first_seen": "2026-08-16T11:54:53.427457-07:00",
+    "status": "active"
   }
 }
