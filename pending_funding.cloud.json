@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "Finley",
-      "amount": "$1.85M",
-      "stage": "Pre-Seed",
+      "company": "kayIQ.ai",
+      "amount": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/finley-raises-1-85m-pre-seed/",
-      "priority": 10
+      "url": "https://www.thesaasnews.com/news/kayiq-ai-raises-500000-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-08-16T22:37:05.815767-07:00"
-  },
-  {
-    "item": {
-      "company": "Stripe Agrees",
-      "amount": "$7.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEhFS3ZuU1lkUWZVdHpBbWRYa1JuZnhjWjRtUU93cUNsV0J4LUYzQjhSS05UMDdsZ0V2QS1vbjc5M0p3QWFEaUxhZVd5dG5aQlVvSlprbnluZUJkclh4ZHB5RzhRWjdlTTI0UjFrUmtDZWctdEdtcW5mcS1IM3JlWlhMdmwtUDNka1JBSUNWQmtTaW1oVzBrLQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-16T22:37:08.892175-07:00"
+    "remind_at": "2026-08-16T23:19:29.176038-07:00"
   }
 ]
