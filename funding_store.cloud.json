@@ -42621,5 +42621,35 @@
     "roles": [],
     "first_seen": "2026-08-16T22:49:30.176200-07:00",
     "status": "active"
+  },
+  "bd9cc204e2741c3d1fd7d5ac6a6f11d2": {
+    "id": "bd9cc204e2741c3d1fd7d5ac6a6f11d2",
+    "company": "BLOX",
+    "amount": "$1.0M",
+    "stage": "Seed",
+    "investors": "Kivo Technology to expand the development of its MYRC stablecoin",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/blox-raises-1m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-16T23:41:44.833978-07:00",
+    "status": "active"
+  },
+  "fd58ce83eec6249198a39a6f9a4983a3": {
+    "id": "fd58ce83eec6249198a39a6f9a4983a3",
+    "company": "BlueFlag Security",
+    "amount": "$28.0M",
+    "stage": "Series A",
+    "investors": "Maverick Ventures and Ten Eleven Ventures to expand its AI agent governance platform",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/blueflag-security-raises-28m-series-a/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-16T23:41:48.219586-07:00",
+    "status": "active"
   }
 }

@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "kayIQ.ai",
-      "amount": null,
+      "company": "BLOX",
+      "amount": "$1.0M",
       "stage": "Seed",
-      "investors": null,
+      "investors": "Kivo Technology to expand the development of its MYRC stablecoin",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kayiq-ai-raises-500000-seed/",
+      "url": "https://www.thesaasnews.com/news/blox-raises-1m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-08-16T23:19:29.176038-07:00"
+    "remind_at": "2026-08-17T00:11:43.833812-07:00"
+  },
+  {
+    "item": {
+      "company": "BlueFlag Security",
+      "amount": "$28.0M",
+      "stage": "Series A",
+      "investors": "Maverick Ventures and Ten Eleven Ventures to expand its AI agent governance platform",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/blueflag-security-raises-28m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-17T00:11:47.219395-07:00"
   }
 ]
