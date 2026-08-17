@@ -43344,5 +43344,35 @@
     "roles": [],
     "first_seen": "2026-08-17T08:32:10.717651-07:00",
     "status": "active"
+  },
+  "674e7eeb9b6f702fd5cf1e077126ba52": {
+    "id": "674e7eeb9b6f702fd5cf1e077126ba52",
+    "company": "Astute",
+    "amount": "$1.2M",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/08/17/astute-raises-1-2m-to-connect-b2b-companies-with-newsletter-podcast-and-social-creators/",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T09:56:35.352659-07:00",
+    "status": "active"
+  },
+  "eaef16ff89d6cdb3fdb28086193ca3f2": {
+    "id": "eaef16ff89d6cdb3fdb28086193ca3f2",
+    "company": "Palona",
+    "amount": "$20.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/17/palona-raises-20m-in-funding-to-bring-ai-automation-to-brick-and-mortar-businesses/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T09:56:37.551513-07:00",
+    "status": "active"
   }
 }

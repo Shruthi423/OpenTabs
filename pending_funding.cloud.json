@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "Astute",
+      "amount": "$1.2M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/08/17/astute-raises-1-2m-to-connect-b2b-companies-with-newsletter-podcast-and-social-creators/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-17T10:26:34.352495-07:00"
+  },
+  {
+    "item": {
+      "company": "Palona",
+      "amount": "$20.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/17/palona-raises-20m-in-funding-to-bring-ai-automation-to-brick-and-mortar-businesses/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-17T10:26:36.551343-07:00"
+  }
+]
