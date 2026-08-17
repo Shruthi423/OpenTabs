@@ -12,5 +12,47 @@
       "priority": 3
     },
     "remind_at": "2026-08-17T08:04:35.027475-07:00"
+  },
+  {
+    "item": {
+      "company": "HubCart",
+      "amount": "$2.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaXB4anJnUkhtZjBPRkxjcnJ3Zm1XLVUwQmFlNFM2R05IT3NsbnJTU25DVTZvbmRpbDNhZ3JPenZkR0p3TkJGX2Z3MHJMazBOUWhaMnlRT3loREJTQ1gyQ1R4UldYcEVEeGZfZWVxSW16TGZ2ZnFyd0NKSTJwT0llSE4xMmVLZUVuTndOWktqbWdBQWM?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-17T08:31:37.204091-07:00"
+  },
+  {
+    "item": {
+      "company": "Bulgarian DiscreteStack",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVTFBR3pCTnpMZ19PNm9TMjNwNFpreWFNVUhYbXlmWHo5UlBpbkM5c0szMjN4WUx5SUZxd2hrU0FDT00xWklwUDRjRDV4WXdzc0ZFRlJaTWhRYVkzVkxla1VjdnV6R21uT2JDYjdGUzdGZDl2WG10WjFWQVZNVXlPVktfUU1wSlVoZy1xREl1c2l0V1ViZmRfTXVTYmxRQmFwaVJ3?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-17T08:31:40.515197-07:00"
+  },
+  {
+    "item": {
+      "company": "China",
+      "amount": "$303.0B",
+      "stage": null,
+      "investors": null,
+      "location": "Singapore",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/17/china-europe-singapore-us-white-house-report-great-transshipment-scam/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-17T08:31:42.942103-07:00"
   }
 ]

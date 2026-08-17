@@ -43269,5 +43269,50 @@
     "roles": [],
     "first_seen": "2026-08-17T07:34:36.027637-07:00",
     "status": "active"
+  },
+  "2b7a26e16a33bbe4f6d98f70f3caece1": {
+    "id": "2b7a26e16a33bbe4f6d98f70f3caece1",
+    "company": "HubCart",
+    "amount": "$2.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaXB4anJnUkhtZjBPRkxjcnJ3Zm1XLVUwQmFlNFM2R05IT3NsbnJTU25DVTZvbmRpbDNhZ3JPenZkR0p3TkJGX2Z3MHJMazBOUWhaMnlRT3loREJTQ1gyQ1R4UldYcEVEeGZfZWVxSW16TGZ2ZnFyd0NKSTJwT0llSE4xMmVLZUVuTndOWktqbWdBQWM?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T08:01:38.204276-07:00",
+    "status": "active"
+  },
+  "9b27bbea3b0565539202840cbc1bbc8a": {
+    "id": "9b27bbea3b0565539202840cbc1bbc8a",
+    "company": "Bulgarian DiscreteStack",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVTFBR3pCTnpMZ19PNm9TMjNwNFpreWFNVUhYbXlmWHo5UlBpbkM5c0szMjN4WUx5SUZxd2hrU0FDT00xWklwUDRjRDV4WXdzc0ZFRlJaTWhRYVkzVkxla1VjdnV6R21uT2JDYjdGUzdGZDl2WG10WjFWQVZNVXlPVktfUU1wSlVoZy1xREl1c2l0V1ViZmRfTXVTYmxRQmFwaVJ3?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T08:01:41.515377-07:00",
+    "status": "active"
+  },
+  "fffa8a5c87b0b1568abecd5181c065a4": {
+    "id": "fffa8a5c87b0b1568abecd5181c065a4",
+    "company": "China",
+    "amount": "$303.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/17/china-europe-singapore-us-white-house-report-great-transshipment-scam/",
+    "priority": 3,
+    "founders": [],
+    "location": "Singapore",
+    "roles": [],
+    "first_seen": "2026-08-17T08:01:43.942272-07:00",
+    "status": "active"
   }
 }
