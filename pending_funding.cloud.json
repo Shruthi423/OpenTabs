@@ -1,48 +1,6 @@
 [
   {
     "item": {
-      "company": "Ex-Fluidstack growth lead",
-      "amount": "$1.2M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/ex-fluidstack-growth-lead-raises-1-2m-b2b-creator-platform/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-17T04:27:31.103226-07:00"
-  },
-  {
-    "item": {
-      "company": "N2TP Technology Solutions",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMk5jc083LUoxdXJreTFMZGNsYkQwSTZjT2djMTQ2YTNvZC1aZDItdlhYTWxrUWVyWHAwMWdTazUya0RnUk1LX2hrVXBrLXFQYjFmQnliT0ZvRENiajlXWHdzcGxaOENObHdBbVA1QTlocjQ0ZmJiT0ozMDJQTlZjWWg3S2dfQWpEbTJodHRMZEZ3bmY1bmpTY1VFWENkMi1RNXhja0JOUm80RU0?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-08-17T04:27:34.303958-07:00"
-  },
-  {
-    "item": {
-      "company": "Quartr",
-      "amount": "$18.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/quartr-raises-18-million-in-funding/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-17T04:27:36.726274-07:00"
-  },
-  {
-    "item": {
       "company": "Tax Star",
       "amount": "$1.75M",
       "stage": "Seed",
@@ -68,5 +26,61 @@
       "priority": 3
     },
     "remind_at": "2026-08-17T04:51:55.781343-07:00"
+  },
+  {
+    "item": {
+      "company": "Nigeria's Terra Industries",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcGJROHpGSmd2MWRqOUZxOC1qLWJGMXBiMUtwdzJDaE9hQ25iS2doR0lMVGtFN2NoR0pUQW0yRGxTRkQ4anZsdFRqc0JHWnMyQTVYVmhRRTRTX09tZ3NWYzBjNThuX3Y0VkphUFpFMkx5TDdZd0VxOHgyckh0VENNVzZoT2s?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-17T05:19:32.522770-07:00"
+  },
+  {
+    "item": {
+      "company": "Wispr talks its way",
+      "amount": "$2.0B",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/17/wispr-2-billion-valuation-dictations-only-the-beginning/",
+      "priority": 7
+    },
+    "remind_at": "2026-08-17T05:19:35.533589-07:00"
+  },
+  {
+    "item": {
+      "company": "Bulgarian Founder Vince Gaydarzhiev",
+      "amount": "$10.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY1p0c19Fb3VzT3lHM3MwcXZDNy10QTUzYnI3MGRkY2dQaGdDVjg1RXVzSk90VEI3eFJsNzdIQVJERjZpYXF6RFhfTVh6elplU0lUcVM4VjBLc1NkLXk3RzFUOTRFU2ZGTk9hZFlfbGhUQTd3M1pLMElNbGU3cGQ1dUhDQkxtajBxMnpUXzRpT0otMFpabjY4eGRHTWlFbmhuQnZ1YmxKRG55WHY2WDg4?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-17T05:19:38.531230-07:00"
+  },
+  {
+    "item": {
+      "company": "Norway\u2019s Birdsview",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTm04Sk4wdlg5V2xiSjhhN3J0MXVFUVYyeTF0TEZlVmZjSFk5NXVzOGNHSlhqaDZtTlBTMmtQcFgzQ0NNVWVUeTZQeWVvd0U1Q1hwd2w3VHBDYWtVdmVPbDRRd0RjaXZLNEhjRFJoM1ZNWFFPbmtzM2lOb0wydHpnVF9SYmdpWGl3TFJIVzM3NW9SZnl2Qk54YUJ1bml0TldVd2M1YnAyZnpISUNKMldsRlJLY1RJeWtEM1JrLWxuSWhBNXJadk9vdFdLaWtTLXRZX01yNHk0N0ZiQQ?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-17T05:19:41.502750-07:00"
   }
 ]
