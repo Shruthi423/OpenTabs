@@ -43479,5 +43479,71 @@
     "roles": [],
     "first_seen": "2026-08-17T15:18:40.876630-07:00",
     "status": "active"
+  },
+  "5dcc3ab8bec334e187218f4d7047e87c": {
+    "id": "5dcc3ab8bec334e187218f4d7047e87c",
+    "company": "AI cloud operator Groq",
+    "amount": "$350.0M",
+    "stage": "Series A",
+    "investors": "returning backer Disruptive",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/17/ai-cloud-operator-groq-raises-350m-more-in-funding/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T16:45:30.431361-07:00",
+    "status": "active"
+  },
+  "dc898e3c57a888cfce6e38cb65714ea2": {
+    "id": "dc898e3c57a888cfce6e38cb65714ea2",
+    "company": "Wispr Series B",
+    "amount": "Undisclosed",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Zdl9WTFFkLUdPU1hEOXRWYVNQaVJXN1Q5RnZHckRoMzg1ZFVZLTRNTHNTenNBOExWb0NmNV9Kb3FCbVpUNW91Z0FqbUVjTTdkTG84NXVRMkpWVUY2Rnl4OXBKZWN0OHk4SmNxaUpud1JWR1pmTVN5UUUybE81dw?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T16:45:33.797613-07:00",
+    "status": "active"
+  },
+  "af19e8930ee21e8747be1846e0615c20": {
+    "id": "af19e8930ee21e8747be1846e0615c20",
+    "company": "Google pays $10M",
+    "amount": "$10.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/17/google-pays-10m-to-get-its-hands-on-spirit-airlines-business-data-for-ai-training/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T16:45:52.105499-07:00",
+    "status": "active"
+  },
+  "2a9228d53efae93de6d9a8bed46a5c32": {
+    "id": "2a9228d53efae93de6d9a8bed46a5c32",
+    "company": "EliseAI",
+    "amount": "$3.7B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2sxUWdjSm1kMS1XZUFOcE8wVWtJSENhckhVSXNQdkhYLWhuUmJDOXlMVjlZSE1MVF80Qi1Sdm5LOEtDeFhfYUdvdVpFbjZkOWRSdVNMVHQ4Y3hKWFFqRFNCemlNb1IzZlBBSE03NXV3Wk0tQk85V2hwX0diR2VTRDB1LTlQTFY2WURpTGlMVUVBZw?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "New York City",
+    "roles": [
+      {
+        "title": "Brand Designer",
+        "url": "https://jobs.ashbyhq.com/eliseai/ceae21c5-b8b8-45c9-b963-cb21d13e02af",
+        "location": "New York City"
+      }
+    ],
+    "first_seen": "2026-08-17T16:45:54.722762-07:00",
+    "status": "active"
   }
 }

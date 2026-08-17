@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "item": {
+      "company": "AI cloud operator Groq",
+      "amount": "$350.0M",
+      "stage": "Series A",
+      "investors": "returning backer Disruptive",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/17/ai-cloud-operator-groq-raises-350m-more-in-funding/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-17T17:15:29.431203-07:00"
+  },
+  {
+    "item": {
+      "company": "Wispr Series B",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Zdl9WTFFkLUdPU1hEOXRWYVNQaVJXN1Q5RnZHckRoMzg1ZFVZLTRNTHNTenNBOExWb0NmNV9Kb3FCbVpUNW91Z0FqbUVjTTdkTG84NXVRMkpWVUY2Rnl4OXBKZWN0OHk4SmNxaUpud1JWR1pmTVN5UUUybE81dw?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-08-17T17:15:32.797451-07:00"
+  },
+  {
+    "item": {
+      "company": "Google pays $10M",
+      "amount": "$10.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/17/google-pays-10m-to-get-its-hands-on-spirit-airlines-business-data-for-ai-training/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-17T17:15:51.105342-07:00"
+  },
+  {
+    "item": {
+      "company": "EliseAI",
+      "amount": "$3.7B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2sxUWdjSm1kMS1XZUFOcE8wVWtJSENhckhVSXNQdkhYLWhuUmJDOXlMVjlZSE1MVF80Qi1Sdm5LOEtDeFhfYUdvdVpFbjZkOWRSdVNMVHQ4Y3hKWFFqRFNCemlNb1IzZlBBSE03NXV3Wk0tQk85V2hwX0diR2VTRDB1LTlQTFY2WURpTGlMVUVBZw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-17T17:15:53.722601-07:00"
+  }
+]
