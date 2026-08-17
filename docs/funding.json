@@ -1,5 +1,35 @@
 [
   {
+    "id": "d0f53e0d5242bb5f2c4a3c6a35144ab9",
+    "company": "\u2018I don\u2019t need",
+    "amount": "$256.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/17/siemens-ceo-roland-busch-workplace-efficiency-clean-email-inbox-no-one-on-one-meetings/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T08:32:10.717651-07:00",
+    "status": "active"
+  },
+  {
+    "id": "bf7e09dac335c412653bf4616a281f57",
+    "company": "Wispr Flow",
+    "amount": "$280.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/08/17/wispr-flow-raises-280m-at-2-billion-valuation-to-expand-ai-voice-platform/",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T08:32:07.513381-07:00",
+    "status": "active"
+  },
+  {
     "id": "fffa8a5c87b0b1568abecd5181c065a4",
     "company": "China",
     "amount": "$303.0B",
