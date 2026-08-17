@@ -43077,5 +43077,20 @@
     "roles": [],
     "first_seen": "2026-08-17T04:49:42.502900-07:00",
     "status": "active"
+  },
+  "c1965313d37c7b35a12890bd03b8c662": {
+    "id": "c1965313d37c7b35a12890bd03b8c662",
+    "company": "The pandemic loan",
+    "amount": "$1.5M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/17/brian-depena-pandemic-loan-campaign-fraud/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T05:31:56.307675-07:00",
+    "status": "active"
   }
 }
