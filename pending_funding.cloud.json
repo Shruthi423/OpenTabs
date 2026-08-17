@@ -1,72 +1,72 @@
 [
   {
     "item": {
-      "company": "Belgrade-Born Founder\u2019s Astute",
+      "company": "Astute",
       "amount": null,
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVl80YmZfeHh3OE5faDN0a211VVphRDE0ZDJ5S1VtcFV5MVVqMjRmOXJzWVJZVlhtTFJBZ0g2eEhWa3Rhci1oUHplUDZrRUNJZEFxVlUxU3FjVXhoLVpiZ29aMm5FMmlqWGZUakNjTHMxd19UUVlxdG9fVmk3b2M1YWNzUmhndTdBb1BIa1ZHd2cxWXE1SG1EcVFIR0k1NTBkM2xIc2I1UQ?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/astute-raises-1-03m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-08-17T02:37:55.974268-07:00"
+    "remind_at": "2026-08-17T03:26:55.605812-07:00"
   },
   {
     "item": {
-      "company": "Manna Coffee",
-      "amount": "$1.25M",
+      "company": "Terra Industries",
+      "amount": "$52.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/manna-coffee-raises-1-25m-seed/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONHg5RDRjVXVodUl1dVJQd0t4bTJNZlljR2NObDItUXZRZ0xTejBHX2JxNDRYaldKS2pFQVhtLUJRMG0yZndQTk1pbTNlTW5wUW9MODNUV2J4elhfb1JBR3hTOV9ITzJ1aXBDZ0x6Z00yMElReW9jT0hIOEpxWExOZnl5aTJ1Ukt1WlNIYjJGSXp3TElmY3RTTHBrRDc2SktwOUpVUmxR?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-08-17T02:37:59.177791-07:00"
+    "remind_at": "2026-08-17T03:26:58.666079-07:00"
   },
   {
     "item": {
-      "company": "What happens",
+      "company": "America's meetup explosion",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "San Francisco",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/17/meetup-dating-gen-z-loneliness",
+      "priority": 3
+    },
+    "remind_at": "2026-08-17T03:27:01.537583-07:00"
+  },
+  {
+    "item": {
+      "company": "How wildfires",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/08/17/secrets-share-ai-openai-meta-google-anthropic",
+      "url": "https://www.axios.com/2026/08/17/wildfires-electric-grid-planning-energy-infrastructure",
       "priority": 3
     },
-    "remind_at": "2026-08-17T02:38:02.565734-07:00"
+    "remind_at": "2026-08-17T03:27:04.417004-07:00"
   },
   {
     "item": {
-      "company": "Sarsia led Birdsview\u2019s \u20ac3.7M round",
-      "amount": null,
+      "company": "Higgsfield",
+      "amount": "$400.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/birdsview-raises-3-7m-ai-concrete-inspection/",
+      "url": "https://techfundingnews.com/higgsfield-raises-400m-from-goldman-sachs-dst-global-at-5-4b-valuation/",
       "priority": 3
     },
-    "remind_at": "2026-08-17T02:38:05.789945-07:00"
-  },
-  {
-    "item": {
-      "company": "Lancaster Uni spinout Mindgard",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZi1LNm1xUDh0VkxvWE1FNFE2dmJWWW1SODV3WktZeGZFU0NxWm9hSmFObmlwN1h6b0FJUmFzR3pacVZEbnhzWUFqMUxpZFoxaERDOUxYc19qVVJwTGY2TkFiYm5uZ0Q2T0hINlQxYlFMRVRoaWlrYXRvalYtbVluUlpGV3E2cDlvS0Fn?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-17T02:38:08.998249-07:00"
+    "remind_at": "2026-08-17T03:27:06.581692-07:00"
   }
 ]
