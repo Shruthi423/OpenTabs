@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "Thieves steal $200 million a year",
-      "amount": "$200.0M",
+      "company": "Trump fails",
+      "amount": "$5.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/17/freight-train-robberies-millions/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/17/supreme-court-rejects-trump-e-jean-carroll-verdict",
       "priority": 3
     },
-    "remind_at": "2026-08-17T07:31:06.027892-07:00"
-  },
-  {
-    "item": {
-      "company": "Anthropic",
-      "amount": "$7.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/17/top-tech-news-today-august-17-2026-ge-microsoft-nvidia-open-stripe-unitree-more/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-17T07:31:08.233201-07:00"
+    "remind_at": "2026-08-17T08:04:35.027475-07:00"
   }
 ]

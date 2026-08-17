@@ -43254,5 +43254,20 @@
     ],
     "first_seen": "2026-08-17T07:01:09.233388-07:00",
     "status": "active"
+  },
+  "e2d63b4a964e239a23c6258680d2ec58": {
+    "id": "e2d63b4a964e239a23c6258680d2ec58",
+    "company": "Trump fails",
+    "amount": "$5.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/17/supreme-court-rejects-trump-e-jean-carroll-verdict",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T07:34:36.027637-07:00",
+    "status": "active"
   }
 }
