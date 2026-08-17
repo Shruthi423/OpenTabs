@@ -1,58 +1,72 @@
 [
   {
     "item": {
-      "company": "Eternity",
-      "amount": "$1.0M",
+      "company": "Belgrade-Born Founder\u2019s Astute",
+      "amount": null,
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/mohamed-al-shami-and-omar-abu-ghoush-complete-pre-seed-round-at-usd-1-million-valuation/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVl80YmZfeHh3OE5faDN0a211VVphRDE0ZDJ5S1VtcFV5MVVqMjRmOXJzWVJZVlhtTFJBZ0g2eEhWa3Rhci1oUHplUDZrRUNJZEFxVlUxU3FjVXhoLVpiZ29aMm5FMmlqWGZUakNjTHMxd19UUVlxdG9fVmk3b2M1YWNzUmhndTdBb1BIa1ZHd2cxWXE1SG1EcVFIR0k1NTBkM2xIc2I1UQ?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-08-17T01:54:34.635026-07:00"
+    "remind_at": "2026-08-17T02:37:55.974268-07:00"
   },
   {
     "item": {
-      "company": "Clarity Systems",
-      "amount": "$4.4M",
+      "company": "Manna Coffee",
+      "amount": "$1.25M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/clarity-systems-raises-4-4m-seed/",
+      "url": "https://www.thesaasnews.com/news/manna-coffee-raises-1-25m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-08-17T01:54:37.933047-07:00"
+    "remind_at": "2026-08-17T02:37:59.177791-07:00"
   },
   {
     "item": {
-      "company": "Aachen-based amber",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": "Aachen",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc1pEOENnYTRHUjVFanZMcW9QWFlnb2lWTnNMUGhweHJnV0w4bUkxdDFzbGxzOUh2c2VVVjA1MjNrQ3dCaGtZeUMxSXNEaVItWFplQ0pBTkVQdFRLdVJUcEJValVBNTBnTkZCdmxqT05COVlmYUI4QUJrMTg5M3hacHQ1QjZIQ25CTFhpOFAtcGdvSElYdnpkYnk5X2RJMFh0c2JXbExxMEtxN1NkZEVpWFZCMFN5SDhCdEs1MWl0RUlRM1pSenkxZDY0aVpMQ2pmS180?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-17T01:54:41.072261-07:00"
-  },
-  {
-    "item": {
-      "company": "Digital Prime Technologies",
+      "company": "What happens",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/digital-prime-technologies-secures-strategic-investment-from-ltp/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/17/secrets-share-ai-openai-meta-google-anthropic",
       "priority": 3
     },
-    "remind_at": "2026-08-17T01:54:44.075839-07:00"
+    "remind_at": "2026-08-17T02:38:02.565734-07:00"
+  },
+  {
+    "item": {
+      "company": "Sarsia led Birdsview\u2019s \u20ac3.7M round",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/birdsview-raises-3-7m-ai-concrete-inspection/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-17T02:38:05.789945-07:00"
+  },
+  {
+    "item": {
+      "company": "Lancaster Uni spinout Mindgard",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZi1LNm1xUDh0VkxvWE1FNFE2dmJWWW1SODV3WktZeGZFU0NxWm9hSmFObmlwN1h6b0FJUmFzR3pacVZEbnhzWUFqMUxpZFoxaERDOUxYc19qVVJwTGY2TkFiYm5uZ0Q2T0hINlQxYlFMRVRoaWlrYXRvalYtbVluUlpGV3E2cDlvS0Fn?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-17T02:38:08.998249-07:00"
   }
 ]
