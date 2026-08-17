@@ -1,5 +1,35 @@
 [
   {
+    "id": "87f64c4ed191318b5d767a6a5bcc5c91",
+    "company": "Dimension Energy",
+    "amount": "$857.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/08/17/dimension-energy-secures-857m-to-scale-distributed-solar-platform-across-the-u-s/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T13:56:25.140210-07:00",
+    "status": "active"
+  },
+  {
+    "id": "5a9a6ef51d158dd4d167409e6f5e66bc",
+    "company": "Nearly 19 million eggs",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/17/egg-recall-salmonella-outbreak-fda-midwest-poultry/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T13:56:21.776592-07:00",
+    "status": "active"
+  },
+  {
     "id": "b34f5a9c5b3bc469bc6fc278290663b3",
     "company": "Like Nvidia\u2019s Jensen Huang",
     "amount": "$256.0B",

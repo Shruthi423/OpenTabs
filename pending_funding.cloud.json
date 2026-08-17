@@ -12,5 +12,33 @@
       "priority": 3
     },
     "remind_at": "2026-08-17T14:00:02.382576-07:00"
+  },
+  {
+    "item": {
+      "company": "Nearly 19 million eggs",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/17/egg-recall-salmonella-outbreak-fda-midwest-poultry/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-17T14:26:20.776465-07:00"
+  },
+  {
+    "item": {
+      "company": "Dimension Energy",
+      "amount": "$857.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/08/17/dimension-energy-secures-857m-to-scale-distributed-solar-platform-across-the-u-s/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-17T14:26:24.140018-07:00"
   }
 ]
