@@ -26,5 +26,19 @@
       "priority": 8
     },
     "remind_at": "2026-08-17T10:26:36.551343-07:00"
+  },
+  {
+    "item": {
+      "company": "Terra",
+      "amount": "$18.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzJPbTBIQXRWYnVmWEYxM044dUhHZjR3LWlUdzRJQm1ScU5OSG5KbDB0MURWRTRLYnBCQlBPc29PLUxMSXB5VU1kaUpDSUUtTmtyMExObGZNU2R6U0lQbEM0S000NzZ4TFZLajh4RDZxMHE3c3RIN1ZxQ1FhblIzQ3hjTlBaVldUeHloY1VzdzBkQQ?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-17T10:52:34.231348-07:00"
   }
 ]
