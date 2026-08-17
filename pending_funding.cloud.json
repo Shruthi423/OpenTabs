@@ -1,72 +1,30 @@
 [
   {
     "item": {
-      "company": "Astute",
+      "company": "Eco Gadgets",
       "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/astute-raises-1-03m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-17T03:26:55.605812-07:00"
-  },
-  {
-    "item": {
-      "company": "Terra Industries",
-      "amount": "$52.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONHg5RDRjVXVodUl1dVJQd0t4bTJNZlljR2NObDItUXZRZ0xTejBHX2JxNDRYaldKS2pFQVhtLUJRMG0yZndQTk1pbTNlTW5wUW9MODNUV2J4elhfb1JBR3hTOV9ITzJ1aXBDZ0x6Z00yMElReW9jT0hIOEpxWExOZnl5aTJ1Ukt1WlNIYjJGSXp3TElmY3RTTHBrRDc2SktwOUpVUmxR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNV3lOdEZaVmlCN1NFel8tNUZHUkJqQmVxYzVWLXFwZU1nUlFiM1hfNlVFczdmc3IySXRiZjFjYU80SFZVSlZxQ3VzMzdKaDRnbzVseGphMV9RS2lQOUcwQnlLRXl6dWRiV2oyUHFFNTdCWnJVY210eGdSeWN3NklYSXRReGFqZUdmQlZVOUdKRjlRZ29FN3lseUl3Q3ctSGs5QUgzaVBLQWxldFlWaDhKRE50LTdscHpXbE85bmFYcmdkblJYbUVVbTljeEN2Y294b2NJa3dTX1JJMUVnLUtSUUxjTENXZF9wYTl2VDA3NGdEYWlTTktwN3FvZnR6Z3liMGJnSQ?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-08-17T03:26:58.666079-07:00"
+    "remind_at": "2026-08-17T03:57:02.813465-07:00"
   },
   {
     "item": {
-      "company": "America's meetup explosion",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "San Francisco",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/17/meetup-dating-gen-z-loneliness",
-      "priority": 3
-    },
-    "remind_at": "2026-08-17T03:27:01.537583-07:00"
-  },
-  {
-    "item": {
-      "company": "How wildfires",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/17/wildfires-electric-grid-planning-energy-infrastructure",
-      "priority": 3
-    },
-    "remind_at": "2026-08-17T03:27:04.417004-07:00"
-  },
-  {
-    "item": {
-      "company": "Higgsfield",
-      "amount": "$400.0M",
-      "stage": null,
+      "company": "Stripe reportedly buys OpenRouter",
+      "amount": "$7.0B",
+      "stage": "Series B",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/higgsfield-raises-400m-from-goldman-sachs-dst-global-at-5-4b-valuation/",
-      "priority": 3
+      "url": "https://techfundingnews.com/stripe-reportedly-buys-openrouter-for-7b-5x-its-may-valuation/",
+      "priority": 7
     },
-    "remind_at": "2026-08-17T03:27:06.581692-07:00"
+    "remind_at": "2026-08-17T03:57:06.174408-07:00"
   }
 ]

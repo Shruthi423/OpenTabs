@@ -42906,5 +42906,41 @@
     "roles": [],
     "first_seen": "2026-08-17T02:57:07.581845-07:00",
     "status": "active"
+  },
+  "e339344f8889d88e34b86725c257a1f3": {
+    "id": "e339344f8889d88e34b86725c257a1f3",
+    "company": "Eco Gadgets",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNV3lOdEZaVmlCN1NFel8tNUZHUkJqQmVxYzVWLXFwZU1nUlFiM1hfNlVFczdmc3IySXRiZjFjYU80SFZVSlZxQ3VzMzdKaDRnbzVseGphMV9RS2lQOUcwQnlLRXl6dWRiV2oyUHFFNTdCWnJVY210eGdSeWN3NklYSXRReGFqZUdmQlZVOUdKRjlRZ29FN3lseUl3Q3ctSGs5QUgzaVBLQWxldFlWaDhKRE50LTdscHpXbE85bmFYcmdkblJYbUVVbTljeEN2Y294b2NJa3dTX1JJMUVnLUtSUUxjTENXZF9wYTl2VDA3NGdEYWlTTktwN3FvZnR6Z3liMGJnSQ?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T03:27:03.813601-07:00",
+    "status": "active"
+  },
+  "31a532715b5125f5d38591f71b51c810": {
+    "id": "31a532715b5125f5d38591f71b51c810",
+    "company": "Stripe reportedly buys OpenRouter",
+    "amount": "$7.0B",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/stripe-reportedly-buys-openrouter-for-7b-5x-its-may-valuation/",
+    "priority": 7,
+    "founders": [],
+    "location": "US",
+    "roles": [
+      {
+        "title": "Motion Designer, Experiential",
+        "url": "https://stripe.com/jobs/search?gh_jid=8047129",
+        "location": "US"
+      }
+    ],
+    "first_seen": "2026-08-17T03:27:07.174666-07:00",
+    "status": "active"
   }
 }
