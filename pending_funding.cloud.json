@@ -1,30 +1,44 @@
 [
   {
     "item": {
-      "company": "BLOX",
-      "amount": "$1.0M",
-      "stage": "Seed",
-      "investors": "Kivo Technology to expand the development of its MYRC stablecoin",
-      "location": null,
+      "company": "amber",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": "Aachen",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/blox-raises-1m-seed/",
-      "priority": 9
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/amber-raises-7m-autonomous-enterprise-ai/",
+      "priority": 8
     },
-    "remind_at": "2026-08-17T00:11:43.833812-07:00"
+    "remind_at": "2026-08-17T01:09:09.392334-07:00"
   },
   {
     "item": {
-      "company": "BlueFlag Security",
-      "amount": "$28.0M",
+      "company": "Phia",
+      "amount": "$35.0M",
       "stage": "Series A",
-      "investors": "Maverick Ventures and Ten Eleven Ventures to expand its AI agent governance platform",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/blueflag-security-raises-28m-series-a/",
+      "url": "https://www.thesaasnews.com/news/phia-raises-35m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-08-17T00:11:47.219395-07:00"
+    "remind_at": "2026-08-17T01:09:11.808377-07:00"
+  },
+  {
+    "item": {
+      "company": "Swarmer",
+      "amount": "$15.0M",
+      "stage": "Series A",
+      "investors": "Broadband Capital Investments to scale its autonomous AI software for coordinated drone swarm operations",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/swarmer-raises-15m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-17T01:09:14.374898-07:00"
   }
 ]
