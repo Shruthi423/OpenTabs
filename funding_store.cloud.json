@@ -42570,5 +42570,41 @@
     "roles": [],
     "first_seen": "2026-08-16T21:26:02.160088-07:00",
     "status": "active"
+  },
+  "ca867c6cbdd26174c1bf2be95d45ccea": {
+    "id": "ca867c6cbdd26174c1bf2be95d45ccea",
+    "company": "Finley",
+    "amount": "$1.85M",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/finley-raises-1-85m-pre-seed/",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-16T22:07:06.815926-07:00",
+    "status": "active"
+  },
+  "1593244062e2d38a6d377602b824ac14": {
+    "id": "1593244062e2d38a6d377602b824ac14",
+    "company": "Stripe Agrees",
+    "amount": "$7.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEhFS3ZuU1lkUWZVdHpBbWRYa1JuZnhjWjRtUU93cUNsV0J4LUYzQjhSS05UMDdsZ0V2QS1vbjc5M0p3QWFEaUxhZVd5dG5aQlVvSlprbnluZUJkclh4ZHB5RzhRWjdlTTI0UjFrUmtDZWctdEdtcW5mcS1IM3JlWlhMdmwtUDNka1JBSUNWQmtTaW1oVzBrLQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "US",
+    "roles": [
+      {
+        "title": "Motion Designer, Experiential",
+        "url": "https://stripe.com/jobs/search?gh_jid=8047129",
+        "location": "US"
+      }
+    ],
+    "first_seen": "2026-08-16T22:07:09.892349-07:00",
+    "status": "active"
   }
 }
