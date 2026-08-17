@@ -43464,5 +43464,20 @@
     "roles": [],
     "first_seen": "2026-08-17T13:56:25.140210-07:00",
     "status": "active"
+  },
+  "d97793cad4b4b9264a1ccf68d639329c": {
+    "id": "d97793cad4b4b9264a1ccf68d639329c",
+    "company": "CDC",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/17/kindergarten-vaccine-rates-fall",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T15:18:40.876630-07:00",
+    "status": "active"
   }
 }

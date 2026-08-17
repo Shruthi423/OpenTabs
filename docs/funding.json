@@ -1,5 +1,20 @@
 [
   {
+    "id": "d97793cad4b4b9264a1ccf68d639329c",
+    "company": "CDC",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/17/kindergarten-vaccine-rates-fall",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T15:18:40.876630-07:00",
+    "status": "active"
+  },
+  {
     "id": "87f64c4ed191318b5d767a6a5bcc5c91",
     "company": "Dimension Energy",
     "amount": "$857.0M",
