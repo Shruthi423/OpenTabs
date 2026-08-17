@@ -1,114 +1,30 @@
 [
   {
     "item": {
-      "company": "Xpander",
-      "amount": "$7.5M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iRzJKS0cydWEwSnFFYm5HaGR2djZ4N1c2c2dqU2pSc0RrNW5feGJ0eDd3cC1NRWZLV2xMV0FBSTV5NEZodUg0M0hybXBxLXZ6aGtSOW5EOHpObmFlWTI1UjZlX1BrSmNx?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-08-17T06:56:14.445358-07:00"
-  },
-  {
-    "item": {
-      "company": "UK-based SpaceAM",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": "UK",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSmEyTmJuRUFJX3dVaVFFRVl1ZUJRWGNoRTdBbm1jMHdBSXdlWjhnc0dMSnd2ZE9aMS1iME1mSEJ5T3ctLWRzYWlUa3pFM0Q3Mmc3Tk9QQUxPOVQ5aFhoeDNDZGVBanNGNzBFb1JSa3lsUDhXWUxaU2FZTElZLW1UaDVvMHBkeG5TMGpkZGh0RjVsZDJ3RlMzcFZhZ3FNSVVvWHRKejNpYkl3OTMwNm5uSWctaTMyS1FFSTVzazlOVFlHT1g0Q2g4Nm9iRHA?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-08-17T06:56:17.481898-07:00"
-  },
-  {
-    "item": {
-      "company": "Gravis Robotics",
+      "company": "Thieves steal $200 million a year",
       "amount": "$200.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": "Zurich",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/17/gravis-robotics-gets-200m-funding-softbank-retrofit-excavators-self-driving-ai-systems/",
-      "priority": 8
-    },
-    "remind_at": "2026-08-17T06:56:20.467289-07:00"
-  },
-  {
-    "item": {
-      "company": "Wispr",
-      "amount": "$280.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "founders": [],
-      "source": "TechCrunch Funding",
-      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-17T06:56:22.667976-07:00"
-  },
-  {
-    "item": {
-      "company": "The inspiring survival of Jimothy",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Seattle",
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/08/17/jimothy-raccoon-short-spine-syndrome-seattle-social-media/",
+      "url": "https://fortune.com/2026/08/17/freight-train-robberies-millions/",
       "priority": 3
     },
-    "remind_at": "2026-08-17T06:56:25.735244-07:00"
+    "remind_at": "2026-08-17T07:31:06.027892-07:00"
   },
   {
     "item": {
-      "company": "Stripe acquires OpenRouter",
+      "company": "Anthropic",
       "amount": "$7.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/17/stripe-acquires-openrouter-for-over-7-billion-more-than-5x-its-valuation-three-months-ago/",
+      "url": "https://techstartups.com/2026/08/17/top-tech-news-today-august-17-2026-ge-microsoft-nvidia-open-stripe-unitree-more/",
       "priority": 3
     },
-    "remind_at": "2026-08-17T06:56:28.956538-07:00"
-  },
-  {
-    "item": {
-      "company": "Neros",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUtYN3BhdTJwMzFMSDlvRHRTaXRVU0FtQ3dLVzV5Vm5OVk16Y1M4Y3REODU4WVVpVDJ0Z0JCMjh2c0dtOGpTcXVfV0dhM2prMV9MRURwc2RaT3QxbzR2Vjgwd2I0R1pCU0h6ek9hUFhNYWZYbWNLeF9ERWFtSEp2Uy0wNDZjNmJGeDFhd0NRbnBRVWl3Wml5SkgwN3Z5TnBoMzl4R3FoQ1J0bWtLRU52XzRGNkl4TVFsQXc?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-17T06:56:31.206147-07:00"
-  },
-  {
-    "item": {
-      "company": "in UK",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNNUhYa01iRlZYZFFjekNGZEJoU1ltUE5mQUlLRHNQUG9RVUJZYUpJN2RZVGFpV1JkdVp5RWcyaE10dmxyazJNTDljV0JqZWlXbU1URm56RjhLcjZUWmRsTTZlV3pXelljbm4zc2hnMmZIRGpuMnotQ0ln0gF_QVVfeXFMTi1zclotZkp5M0hLbC1tdjRra0RfWW9wWkdKV1ZrOTQyRmZxSWQ4MHR2elExVGNKQkUzU1RTMWo4WVpNT3UtSldOQnh3UGE1SkVrWlpqTmQ4bUJnV2F2NzNLUlFNRDZmcDVtRzV5TFViUEVudFZuYmtsR0EyV3lxUQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-17T06:56:34.157408-07:00"
+    "remind_at": "2026-08-17T07:31:08.233201-07:00"
   }
 ]

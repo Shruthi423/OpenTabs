@@ -1,5 +1,41 @@
 [
   {
+    "id": "e36325efaec757b7fc48b20771d36502",
+    "company": "Anthropic",
+    "amount": "$7.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/08/17/top-tech-news-today-august-17-2026-ge-microsoft-nvidia-open-stripe-unitree-more/",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco, CA | New York City, NY",
+    "roles": [
+      {
+        "title": "Product Designer, People Products",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383660008",
+        "location": "San Francisco, CA | New York City, NY"
+      }
+    ],
+    "first_seen": "2026-08-17T07:01:09.233388-07:00",
+    "status": "active"
+  },
+  {
+    "id": "9a393104b8d976778fb5d469d149f8ab",
+    "company": "Thieves steal $200 million a year",
+    "amount": "$200.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/17/freight-train-robberies-millions/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T07:01:07.028090-07:00",
+    "status": "active"
+  },
+  {
     "id": "457ded0d99c4905341092f3b7fa163ef",
     "company": "in UK",
     "amount": "Undisclosed",
