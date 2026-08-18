@@ -1,5 +1,20 @@
 [
   {
+    "id": "db260681e71ff867ae171790ce35a8ea",
+    "company": "NVIDIA-backed Groq",
+    "amount": "$350.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/nvidia-backed-groq-raises-350m-at-3-5b-as-ai-inference-race-accelerates/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-18T03:56:48.001897-07:00",
+    "status": "active"
+  },
+  {
     "id": "15c6c66e1dde49d981d2d5000dc8eba4",
     "company": "AI",
     "amount": "$74.0M",
