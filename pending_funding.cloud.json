@@ -1,30 +1,58 @@
 [
   {
     "item": {
-      "company": "Democrats enter their thirst trap era",
+      "company": "Velaura AI",
+      "amount": "$110.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": "Silicon Valley",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/08/18/velaura-ai-raises-110m-series-a-at-1b-valuation-to-tackle-ais-growing-power-problem/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-18T07:37:31.162550-07:00"
+  },
+  {
+    "item": {
+      "company": "Lissun",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMHlvbnBZWGRJVWYzRWU2endoTHdXc2ZUUjRWS0hwbFMydk5odkxQZU4wZEwyZ0JMbnVoTG01NndaM1hGbndad3ZhMjhWTDVzeWJILXpFekVISl9IVkhVc2x0SzZGWnhTLTZyWEtYM2NtT2k2Q2dWWTNVXzRJVm1LcDJtR1lpbHdvUWpzel8xWGFzVmdlZU5LbHc0N2htLTZCblpJT0JET1kyY3EyZjl3SXdOVk5ZRnN4Vkx4UlptcFlGR2tYY1lFTWRBdVVTNUlqaXc?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-08-18T07:37:33.354044-07:00"
+  },
+  {
+    "item": {
+      "company": "Perplexity\u2019s free AI offer left it",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/18/democrats-social-media-ossoff-el-sayed",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
       "priority": 3
     },
-    "remind_at": "2026-08-18T06:59:21.978993-07:00"
+    "remind_at": "2026-08-18T07:37:36.265655-07:00"
   },
   {
     "item": {
-      "company": "Over 200 jobs",
-      "amount": "$25.0M",
+      "company": "Carney",
+      "amount": "$20.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcUFZU2hzOTREZHM5ZWp4RUFxaFg0YnNzcENlcHZSMk44RFRlOS01eUM5eElkeWNFOG41SjhKMWU5SHBYblh5WUFiWFExV21GaC1XX29vazdiZDlrQk5LLWdlLURNX28yR185R3NoN3RaeUF0N3dpeUdMaFJYcUZrWm1USi1pbzkxMjRJVG1jaUJVaS1FWThGbFVucVJsbkUwT08tRlBUU3M1UdIBvgFBVV95cUxPOHVBSHRObnFRMzVGS1QzXzlwc3ZpRGgyaVpNcEd3ZXZNeUttMW5sX2MtWE4yTXNGUjZ5dk9nNi11alh3eHpsNkp6Z3RkMzIzTWNZVU9GUWlSQ2tMdkZ5Y2F5eUo3OF8wT1pvWkJXc2VnenpVWlpWYVBfMnYtREpBd2phMDNrNlhsa25fVUtpQ2ZRdkFLZkJWZG51M05MTnVwUFFGeDYzTTg5LWVUNThCSGwzYklIbVExVF9TYm1B?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/18/trump-canada-hockey-tariffs-smoot-hawley/",
       "priority": 3
     },
-    "remind_at": "2026-08-18T06:59:24.956582-07:00"
+    "remind_at": "2026-08-18T07:37:38.475372-07:00"
   }
 ]
