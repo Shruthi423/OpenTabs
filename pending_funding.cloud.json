@@ -26,5 +26,21 @@
       "priority": 3
     },
     "remind_at": "2026-08-18T14:48:22.514188-07:00"
+  },
+  {
+    "item": {
+      "company": "Rillet",
+      "amount": "$1.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [
+        "Nicolas Kopp"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/18/rillet-unicorn-1-billion-valuation-series-c-nicolas-kopp-accounting-ai/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-18T15:16:31.559770-07:00"
   }
 ]

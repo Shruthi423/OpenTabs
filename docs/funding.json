@@ -1,5 +1,28 @@
 [
   {
+    "id": "d5b0d0025ee840e8e6660ebb72973fd1",
+    "company": "Rillet",
+    "amount": "$1.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/18/rillet-unicorn-1-billion-valuation-series-c-nicolas-kopp-accounting-ai/",
+    "priority": 3,
+    "founders": [
+      "Nicolas Kopp"
+    ],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/rillet/a157ef05-3218-4b42-ae79-a3d6d95c4bde",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-08-18T14:46:32.559913-07:00",
+    "status": "active"
+  },
+  {
     "id": "8496af825e974437bcce47bd285fc87c",
     "company": "Lovable at $13 Billion Valuation",
     "amount": "$13.0B",
