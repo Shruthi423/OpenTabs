@@ -1,58 +1,86 @@
 [
   {
     "item": {
-      "company": "Brdg",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": "Forum Ventures to automate construction loan management with its new AI platform",
-      "location": "Montreal",
+      "company": "Resolve AI",
+      "amount": "$40.0M",
+      "stage": "Series A",
+      "investors": "DST Global and Salesforce Ventures to advance its AI production operations platform",
+      "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/brdg-raises-850000-pre-seed/",
-      "priority": 10
+      "url": "https://www.thesaasnews.com/news/resolve-ai-raises-40m-series-a-extension/",
+      "priority": 8
     },
-    "remind_at": "2026-08-18T00:54:43.122090-07:00"
+    "remind_at": "2026-08-18T01:32:47.186647-07:00"
   },
   {
     "item": {
-      "company": "Rozenama",
+      "company": "Jem",
+      "amount": "$8.4M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVllOGRkbm1vaXNxQW04UFdaRGpBQ1BPUTljTFBsQ3FPLVFZbmRoTHpxT0IyNkZOcDU1NFdUU1ZkamNZejd3UmFBU0dTODljOEQ3V3lmMG1ReXdSbGduRUdiMmp0MnZWUGdMQV9Pc0pXTlgwbXQ5TnlsdFNRSDlmNHFMcjZvT3hqeGVFdTVyT2ZUNFYzbUsyRWRBcmZYY00zWHMwc2lHd05vTEQ3azN3Y0J6UzlBS1lo?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-08-18T01:32:49.609581-07:00"
+  },
+  {
+    "item": {
+      "company": "Married 69 years",
+      "amount": "$20.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/18/philanthropic-couple-roy-nola-thompson-20-million-sunshine-coast-queensland/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-18T01:32:52.725109-07:00"
+  },
+  {
+    "item": {
+      "company": "A dropout living in a trailer",
+      "amount": "$1.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/18/palmer-luckey-oculus-founder-dropout-peter-thiel-american-dream-billionaire/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-18T01:32:55.886865-07:00"
+  },
+  {
+    "item": {
+      "company": "AWS\u2019s Asia chief",
       "amount": null,
-      "stage": "Pre-Seed",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/18/aws-asia-chief-relocates-to-japan/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-18T01:32:59.054337-07:00"
+  },
+  {
+    "item": {
+      "company": "VastAdvisor",
+      "amount": "$1.0M",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/rozenama-raises-150000-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-18T00:54:45.571718-07:00"
-  },
-  {
-    "item": {
-      "company": "Peripheral",
-      "amount": "$8.7M",
-      "stage": "Seed",
-      "investors": null,
-      "location": "AI",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/peripheral-raises-8-7m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-18T00:54:48.014099-07:00"
-  },
-  {
-    "item": {
-      "company": "SoftBank",
-      "amount": "$200.0M",
-      "stage": null,
-      "investors": null,
-      "location": "Zurich",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/softbank-invests-200m-gravis-robotics-1b-valuation/",
+      "url": "https://www.thesaasnews.com/news/vastadvisor-raises-1m-safe-round/",
       "priority": 3
     },
-    "remind_at": "2026-08-18T00:54:50.452561-07:00"
+    "remind_at": "2026-08-18T01:33:01.359734-07:00"
   }
 ]
