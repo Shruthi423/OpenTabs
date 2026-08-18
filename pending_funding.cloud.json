@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Synthefy",
-      "amount": "$6.5M",
-      "stage": "Seed",
+      "company": "Democrats enter their thirst trap era",
+      "amount": null,
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/18/synthefy-raises-6-5m-number-crunching-models-trained-numerical-data-instead-words/",
-      "priority": 9
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/18/democrats-social-media-ossoff-el-sayed",
+      "priority": 3
     },
-    "remind_at": "2026-08-18T06:03:52.221205-07:00"
+    "remind_at": "2026-08-18T06:59:21.978993-07:00"
+  },
+  {
+    "item": {
+      "company": "Over 200 jobs",
+      "amount": "$25.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcUFZU2hzOTREZHM5ZWp4RUFxaFg0YnNzcENlcHZSMk44RFRlOS01eUM5eElkeWNFOG41SjhKMWU5SHBYblh5WUFiWFExV21GaC1XX29vazdiZDlrQk5LLWdlLURNX28yR185R3NoN3RaeUF0N3dpeUdMaFJYcUZrWm1USi1pbzkxMjRJVG1jaUJVaS1FWThGbFVucVJsbkUwT08tRlBUU3M1UdIBvgFBVV95cUxPOHVBSHRObnFRMzVGS1QzXzlwc3ZpRGgyaVpNcEd3ZXZNeUttMW5sX2MtWE4yTXNGUjZ5dk9nNi11alh3eHpsNkp6Z3RkMzIzTWNZVU9GUWlSQ2tMdkZ5Y2F5eUo3OF8wT1pvWkJXc2VnenpVWlpWYVBfMnYtREpBd2phMDNrNlhsa25fVUtpQ2ZRdkFLZkJWZG51M05MTnVwUFFGeDYzTTg5LWVUNThCSGwzYklIbVExVF9TYm1B?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-18T06:59:24.956582-07:00"
   }
 ]
