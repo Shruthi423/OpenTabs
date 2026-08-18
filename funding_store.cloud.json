@@ -43928,5 +43928,35 @@
     "roles": [],
     "first_seen": "2026-08-18T02:27:19.080276-07:00",
     "status": "active"
+  },
+  "86d564f233405da7e7275df89d7e43db": {
+    "id": "86d564f233405da7e7275df89d7e43db",
+    "company": "Grounded",
+    "amount": "$5.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
+    "priority": 3,
+    "founders": [],
+    "location": "Detroit",
+    "roles": [],
+    "first_seen": "2026-08-18T03:28:51.532751-07:00",
+    "status": "active"
+  },
+  "15c6c66e1dde49d981d2d5000dc8eba4": {
+    "id": "15c6c66e1dde49d981d2d5000dc8eba4",
+    "company": "AI",
+    "amount": "$74.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/18/ai-gets-its-own-boiler-room-scandal/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-18T03:28:53.144443-07:00",
+    "status": "active"
   }
 }
