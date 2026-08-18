@@ -43590,5 +43590,41 @@
     "roles": [],
     "first_seen": "2026-08-17T22:54:10.163102-07:00",
     "status": "active"
+  },
+  "dd40f6cf439ffea46e5149751e7a35ab": {
+    "id": "dd40f6cf439ffea46e5149751e7a35ab",
+    "company": "Takt",
+    "amount": "$9.25M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/takt-raises-9-25m-series-a/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T23:33:21.136961-07:00",
+    "status": "active"
+  },
+  "aba27beee2b5819c5ba98b5be19b10b2": {
+    "id": "aba27beee2b5819c5ba98b5be19b10b2",
+    "company": "Robinhood",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0t4UktHdG5xRVphb1dDZjVOQXlWemNTNExhaDFya1hkUTVPLWdpbXRHLWYtRWVmVm50LUU5SFhZeEoyWXlMbkNHNHBGS09qRkhRVmFfYnRDODJUcWhUYnZHX3RLXy1saC1FNVZzMlNwR2N4T0RLYWFnRkZHTEM4X2gxeW0xSng3X3NTLVlNejBPRE5mQjdIUVNxRTcwcWRpTEdrd2tIdldoY1N4?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+    "roles": [
+      {
+        "title": "Visual Designer, Product Creative",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7868994?t=gh_src=&gh_jid=7868994",
+        "location": "Bellevue, WA; Menlo Park, CA; New York, NY"
+      }
+    ],
+    "first_seen": "2026-08-17T23:33:23.436420-07:00",
+    "status": "active"
   }
 }
