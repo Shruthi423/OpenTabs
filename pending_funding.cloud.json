@@ -1,30 +1,58 @@
 [
   {
     "item": {
-      "company": "Takt",
-      "amount": "$9.25M",
-      "stage": "Series A",
+      "company": "Brdg",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": "Forum Ventures to automate construction loan management with its new AI platform",
+      "location": "Montreal",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/brdg-raises-850000-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-18T00:54:43.122090-07:00"
+  },
+  {
+    "item": {
+      "company": "Rozenama",
+      "amount": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/takt-raises-9-25m-series-a/",
-      "priority": 8
+      "url": "https://www.thesaasnews.com/news/rozenama-raises-150000-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-08-18T00:03:20.136777-07:00"
+    "remind_at": "2026-08-18T00:54:45.571718-07:00"
   },
   {
     "item": {
-      "company": "Robinhood",
-      "amount": null,
+      "company": "Peripheral",
+      "amount": "$8.7M",
+      "stage": "Seed",
+      "investors": null,
+      "location": "AI",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/peripheral-raises-8-7m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-18T00:54:48.014099-07:00"
+  },
+  {
+    "item": {
+      "company": "SoftBank",
+      "amount": "$200.0M",
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "Zurich",
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0t4UktHdG5xRVphb1dDZjVOQXlWemNTNExhaDFya1hkUTVPLWdpbXRHLWYtRWVmVm50LUU5SFhZeEoyWXlMbkNHNHBGS09qRkhRVmFfYnRDODJUcWhUYnZHX3RLXy1saC1FNVZzMlNwR2N4T0RLYWFnRkZHTEM4X2gxeW0xSng3X3NTLVlNejBPRE5mQjdIUVNxRTcwcWRpTEdrd2tIdldoY1N4?oc=5",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/softbank-invests-200m-gravis-robotics-1b-valuation/",
       "priority": 3
     },
-    "remind_at": "2026-08-18T00:03:22.436240-07:00"
+    "remind_at": "2026-08-18T00:54:50.452561-07:00"
   }
 ]
