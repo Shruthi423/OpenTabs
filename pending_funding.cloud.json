@@ -1,34 +1,6 @@
 [
   {
     "item": {
-      "company": "Grounded",
-      "amount": "$5.0M",
-      "stage": null,
-      "investors": null,
-      "location": "Detroit",
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-18T03:58:50.532589-07:00"
-  },
-  {
-    "item": {
-      "company": "AI",
-      "amount": "$74.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/18/ai-gets-its-own-boiler-room-scandal/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-18T03:58:52.144271-07:00"
-  },
-  {
-    "item": {
       "company": "NVIDIA-backed Groq",
       "amount": "$350.0M",
       "stage": null,
