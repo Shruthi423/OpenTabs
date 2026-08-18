@@ -44168,5 +44168,20 @@
     "roles": [],
     "first_seen": "2026-08-18T12:57:27.386076-07:00",
     "status": "active"
+  },
+  "15b63b43dfc4ddab9c6271b8d5c48849": {
+    "id": "15b63b43dfc4ddab9c6271b8d5c48849",
+    "company": "Etched takes",
+    "amount": "$21.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/08/18/21-billion-ai-chip-startup-etched-takes-on-nvidia-poaches-its-engineers-and-lands-jane-street/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-18T13:20:15.963326-07:00",
+    "status": "active"
   }
 }
