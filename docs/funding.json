@@ -1,5 +1,35 @@
 [
   {
+    "id": "ca923cd8254d3f75bc63415880442164",
+    "company": "Lanyon AI",
+    "amount": "$10.6M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/lanyon-ai-emerges-from-stealth-to-build-the-future-of-scientific-and-technical-computing/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T22:54:10.163102-07:00",
+    "status": "active"
+  },
+  {
+    "id": "0bc5c78f2e80cde8dd25cbdefe9cc83d",
+    "company": "Kiara Health",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/kiara-health-raises-undisclosed-pre-seed/",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-17T22:54:07.540003-07:00",
+    "status": "active"
+  },
+  {
     "id": "bde42d6e3a35779795a8058ed2a29617",
     "company": "Andreessen Horowitz could make",
     "amount": "$1.5B",
