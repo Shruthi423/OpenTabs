@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "job": {
+      "title": "Marketing Design Technologist",
+      "company": "Unknown",
+      "location": "Remote",
+      "url": "https://himalayas.app/companies/imprint/jobs/marketing-design-technologist",
+      "salary": "See posting",
+      "description": "Who We AreImprint helps the world's best brands grow the lifetime value of their customers.",
+      "posted_at": "Recently",
+      "source": "Himalayas",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-08-18T21:40:23.584476-07:00"
+  },
+  {
+    "job": {
+      "title": "Hardware Product Designer",
+      "company": "Unknown",
+      "location": "Remote",
+      "url": "https://himalayas.app/companies/menlo-ai/jobs/hardware-product-designer",
+      "salary": "See posting",
+      "description": "About MenloMenlo Research is an Applied R&amp;D lab building Asimov, an open-source humanoid robot platform, and the full software stack that powers it.",
+      "posted_at": "Recently",
+      "source": "Himalayas",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-08-18T21:40:25.255348-07:00"
+  }
+]

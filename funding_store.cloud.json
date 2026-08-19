@@ -44281,5 +44281,50 @@
     "roles": [],
     "first_seen": "2026-08-18T20:31:16.086629-07:00",
     "status": "active"
+  },
+  "c54da32533198f0b410b8d8539e63ada": {
+    "id": "c54da32533198f0b410b8d8539e63ada",
+    "company": "Kita",
+    "amount": "$4.5M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/kita-raises-4-5m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-18T21:10:45.856653-07:00",
+    "status": "active"
+  },
+  "614a7558871e351732cf1a38c69fdec0": {
+    "id": "614a7558871e351732cf1a38c69fdec0",
+    "company": "CAMO Hospitality",
+    "amount": "$4.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/camo-hospitality-raises-4m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-18T21:10:48.878007-07:00",
+    "status": "active"
+  },
+  "c42f2067f5162c12d82238110c78c7e0": {
+    "id": "c42f2067f5162c12d82238110c78c7e0",
+    "company": "metr",
+    "amount": "Undisclosed",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/metr-raises-10-5m-series-b/",
+    "priority": 7,
+    "founders": [],
+    "location": "Berlin",
+    "roles": [],
+    "first_seen": "2026-08-18T21:10:51.157018-07:00",
+    "status": "active"
   }
 }

@@ -1,30 +1,44 @@
 [
   {
     "item": {
-      "company": "Terra Industries",
-      "amount": "$51.7M",
+      "company": "Kita",
+      "amount": "$4.5M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aTzNiRlUwM1QtclYxSXhLWkppVjN2YkV4eTZwLXVaenpDS2VMVWdCNVRHWWY3ZFV1WklkOV9vTlhxT0I0YmswYVhNQzh1cDV3b2ZYcEdnR19YQnRrZmhaZXg5aGJWenQzMHd6QWxxUFlyUHktVDZZ?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/kita-raises-4-5m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-08-18T21:01:12.167988-07:00"
+    "remind_at": "2026-08-18T21:40:44.856448-07:00"
   },
   {
     "item": {
-      "company": "Angie Nixon",
-      "amount": "$16.3M",
-      "stage": null,
+      "company": "CAMO Hospitality",
+      "amount": "$4.0M",
+      "stage": "Seed",
       "investors": null,
-      "location": "Miami",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/19/democrats-florida-senate-angie-nixon-misterms",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/camo-hospitality-raises-4m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-08-18T21:01:15.086432-07:00"
+    "remind_at": "2026-08-18T21:40:47.877807-07:00"
+  },
+  {
+    "item": {
+      "company": "metr",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": "Berlin",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/metr-raises-10-5m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-08-18T21:40:50.156853-07:00"
   }
 ]
