@@ -1,44 +1,16 @@
 [
   {
     "item": {
-      "company": "Kita",
-      "amount": "$4.5M",
-      "stage": "Seed",
+      "company": "Rillet",
+      "amount": "$100.0M",
+      "stage": "Series C",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kita-raises-4-5m-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/rillet-raises-100m-series-c/",
+      "priority": 6
     },
-    "remind_at": "2026-08-18T21:40:44.856448-07:00"
-  },
-  {
-    "item": {
-      "company": "CAMO Hospitality",
-      "amount": "$4.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/camo-hospitality-raises-4m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-18T21:40:47.877807-07:00"
-  },
-  {
-    "item": {
-      "company": "metr",
-      "amount": null,
-      "stage": "Series B",
-      "investors": null,
-      "location": "Berlin",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/metr-raises-10-5m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-08-18T21:40:50.156853-07:00"
+    "remind_at": "2026-08-18T22:20:51.805400-07:00"
   }
 ]

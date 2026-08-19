@@ -44326,5 +44326,26 @@
     "roles": [],
     "first_seen": "2026-08-18T21:10:51.157018-07:00",
     "status": "active"
+  },
+  "8e800d183526cd29fdc3073dc0b975a6": {
+    "id": "8e800d183526cd29fdc3073dc0b975a6",
+    "company": "Rillet",
+    "amount": "$100.0M",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/rillet-raises-100m-series-c/",
+    "priority": 6,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/rillet/a157ef05-3218-4b42-ae79-a3d6d95c4bde",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-08-18T21:50:52.805727-07:00",
+    "status": "active"
   }
 }
