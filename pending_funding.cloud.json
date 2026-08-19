@@ -1,30 +1,30 @@
 [
   {
     "item": {
-      "company": "InfiniG",
-      "amount": "$5.2M",
-      "stage": "Seed",
-      "investors": "J2 Ventures and Stormbreaker Ventures to scale its enterprise cellular coverage platform",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/infinig-raises-5-2m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-19T00:04:07.623525-07:00"
-  },
-  {
-    "item": {
-      "company": "Graphwise aims",
+      "company": "Aisel Health",
       "amount": null,
-      "stage": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/19/graphwise-aims-to-become-the-semantic-layer-for-ai-agents-after-securing-major-investment-from-oakley-capital/",
-      "priority": 3
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/aisel-health-raises-1-7m-psychiatry-operating-system/",
+      "priority": 10
     },
-    "remind_at": "2026-08-19T00:04:10.900470-07:00"
+    "remind_at": "2026-08-19T00:54:58.601531-07:00"
+  },
+  {
+    "item": {
+      "company": "iHW",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlJFX281WVgwMWdDaDFkOHNNMVZKTVh6aXFzQjBJQmRMTFBFbElSekJqdW5YVld6NFlFZ1FjQl9JYUpld29sZUhEZEN4MzkwNzMtRVBVV3dxQ3RWUkZROG1WZ3lzMDVlQWZZZVRiVDNabVNtLVpIdndGVEZhX2dTX1h3Q2ptQU93LUJKa19hcVpidFI1NV9ENHRQV1E?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-08-19T00:55:01.054992-07:00"
   }
 ]
