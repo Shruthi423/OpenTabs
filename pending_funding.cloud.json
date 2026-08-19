@@ -1,34 +1,6 @@
 [
   {
     "item": {
-      "company": "Four states",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/19/four-states-billions-meta-child-safety-privacy/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-19T14:25:46.613072-07:00"
-  },
-  {
-    "item": {
-      "company": "How Singapore\u2019s Jenny Lee wants",
-      "amount": "$5.0B",
-      "stage": null,
-      "investors": null,
-      "location": "Singapore",
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/asia/2024/10/07/jenny-lee-venture-capital-women-singapore-asia-investing/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-19T14:25:50.084579-07:00"
-  },
-  {
-    "item": {
       "company": "The data center fight",
       "amount": null,
       "stage": null,
@@ -40,5 +12,75 @@
       "priority": 3
     },
     "remind_at": "2026-08-19T14:51:21.816395-07:00"
+  },
+  {
+    "item": {
+      "company": "Enterprise AI platform Zenalyst",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSmE1NTNfZl9SU0NPeFhNWFJqaTZJWUJDQ19UR19wbDNzbmJ0dFY3TjA1N1NyUWxTOWIyTEpHdjUwZkVST2lsZ2o1d0o4Xzd1RVVuZ05kTUlyOEJWa1FVMk1CNE1tU1doYnVvZ2c0SUdXU2kzLUVoUUFxdVAyNVV4N3IxaG9ZOHNienlfTUFVONIBlwFBVV95cUxNbU16QmtzVXdWdUo1MkFwWnJLYktubVRQV3ZxWHYzUTVRWWdaVGRkRlRmZ0NDSjh3YjY4SVVrSTk1Y2taMzNCR0pzbFVDVldZUWNtRlhKeHBBRmh0TmRGYnZSUVBCQ1MzWW9HajZzbEtzSWVKVjVJcFRQUkVhNXVXOUwtZ1RjZ3N1czhmM0pCU0xTWHZENGtj?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-08-19T15:20:17.025992-07:00"
+  },
+  {
+    "item": {
+      "company": "Yantra Packs",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzVEdjNkcVhBOWFVRWZfZ01FTmtyZGFUandLWlE4TDlHYnBLdUhJMFM2MEJMaTNQbTBJcXp6U21iMDh4MDdiUk44QW9qVlFxZDZmeUphRVlYWkFNejEyVU90eGNSdUVmdFNrSlVfSEZmbDBYMjNqR09LWmlzVE5qVWtHRldLdEZ5Njd0Z1dMNEEwanhPSTM2Q2FZNUdlWDR1QXRnWtIBpAFBVV95cUxNZzVEdjNkcVhBOWFVRWZfZ01FTmtyZGFUandLWlE4TDlHYnBLdUhJMFM2MEJMaTNQbTBJcXp6U21iMDh4MDdiUk44QW9qVlFxZDZmeUphRVlYWkFNejEyVU90eGNSdUVmdFNrSlVfSEZmbDBYMjNqR09LWmlzVE5qVWtHRldLdEZ5Njd0Z1dMNEEwanhPSTM2Q2FZNUdlWDR1QXRnWg?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-19T15:20:19.991106-07:00"
+  },
+  {
+    "item": {
+      "company": "Health-tech platform Lissun",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVNJQXFtNV9rRFAwbjM1WGVid0pCckRSZVlZd1pqWUlTNDFkX2FtLWJZbEpNZ2ZlN3RXS1ZOT0lGTlA3bmRXQXpWdEp2LTRHd0dOU3c5Z2owREFQdk1mZ2JtS09icHRNM2hLOUdMeHZkT1k0azN1cUtXRXNQQmRpRWJEVnNoSEwtamN2dEJPc2s0RFFadFpPMVBzczFnVWFrb0YzZ3pST1JRSTlnamtv0gG3AUFVX3lxTE0yTmxnbGFiYTV1WTlnOU55ZXNtS0VvR1lXc1lleG12QjljOFNkWHlWVXlsanEzZzk2ZTAzZUZKRkxOcHJSOGs5NkFVZW1WbWUzc1E3WU04NS1nYlFGNGhwN2tPRzN6bW1VV0E0UVJUYmptdHpHOF9XT0JVM1ZSbUo5WGtNT0ZYbGwwN0R1UmZWNGNDT1NBdm5sTUV3R2ljaEdkdU4zZy14ak1IX3RzdlprN1QtMUpqYw?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-08-19T15:20:22.893986-07:00"
+  },
+  {
+    "item": {
+      "company": "Pentagon pushes \u2018zero tolerance\u2019 audit",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/19/pentagon-audit-foreign-university-partnerships-national-security/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T15:20:25.903671-07:00"
+  },
+  {
+    "item": {
+      "company": "Mercor at $20 billion valuation",
+      "amount": "$20.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/08/19/nvidia-in-talks-to-invest-in-ai-data-startup-mercor-at-20-billion-valuation/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T15:20:28.880777-07:00"
   }
 ]
