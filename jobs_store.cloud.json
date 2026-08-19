@@ -13694,5 +13694,41 @@
     "first_seen": "2026-08-19T04:21:55.687743-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "c54768c4d2d855ab13387b3c94934571": {
+    "id": "c54768c4d2d855ab13387b3c94934571",
+    "title": "Brand Designer",
+    "company": "Tailscale",
+    "location": "Remote (United States)",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4723980005",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-08-19T12:58:41.483357-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "aaa4e3fadaf49530bbd006c25d7adf61": {
+    "id": "aaa4e3fadaf49530bbd006c25d7adf61",
+    "title": "Product Designer",
+    "company": "Nevis",
+    "location": "New York",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/nevis/a387af7b-075a-4b84-8380-480a91af5c85",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-08-19T12:58:42.976186-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
