@@ -1,16 +1,44 @@
 [
   {
     "item": {
-      "company": "Ours Privacy",
-      "amount": "$15.0M",
-      "stage": "Series A",
+      "company": "Zenalyst",
+      "amount": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ours-privacy-raises-15m-series-a/",
-      "priority": 8
+      "url": "https://www.thesaasnews.com/news/zenalyst-raises-3cr-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-08-18T22:54:41.727050-07:00"
+    "remind_at": "2026-08-18T23:25:12.405553-07:00"
+  },
+  {
+    "item": {
+      "company": "Pouchers",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/pouchers-raises-500000-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-18T23:25:14.769627-07:00"
+  },
+  {
+    "item": {
+      "company": "Hypercubic Inc.",
+      "amount": "$5.3M",
+      "stage": "Seed",
+      "investors": "CIV to automate the modernization of legacy COBOL applications using autonomous AI agents",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hypercubic-inc-raises-5-3m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-18T23:25:22.896821-07:00"
   }
 ]

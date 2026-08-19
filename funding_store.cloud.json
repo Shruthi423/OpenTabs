@@ -44362,5 +44362,50 @@
     "roles": [],
     "first_seen": "2026-08-18T22:24:42.727193-07:00",
     "status": "active"
+  },
+  "cc61cacbe09e71db9018dbf940b9a2ac": {
+    "id": "cc61cacbe09e71db9018dbf940b9a2ac",
+    "company": "Zenalyst",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/zenalyst-raises-3cr-pre-seed/",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-18T22:55:13.405677-07:00",
+    "status": "active"
+  },
+  "f390588b85ae17620b84e6ce644009b0": {
+    "id": "f390588b85ae17620b84e6ce644009b0",
+    "company": "Pouchers",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/pouchers-raises-500000-pre-seed/",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-18T22:55:15.769780-07:00",
+    "status": "active"
+  },
+  "10a0e6c00fddb3c756511496adc53eb5": {
+    "id": "10a0e6c00fddb3c756511496adc53eb5",
+    "company": "Hypercubic Inc.",
+    "amount": "$5.3M",
+    "stage": "Seed",
+    "investors": "CIV to automate the modernization of legacy COBOL applications using autonomous AI agents",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/hypercubic-inc-raises-5-3m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-18T22:55:23.896982-07:00",
+    "status": "active"
   }
 }
