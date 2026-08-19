@@ -1,30 +1,100 @@
 [
   {
     "item": {
-      "company": "Ampaire",
-      "amount": "$19.0M",
+      "company": "Rundoo",
+      "amount": "$30.0M",
       "stage": "Series B",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzhTbjlLTTJBbm5LNEp4QWsxVUNRYzlHYkRUb20wMjl5cjhqeEZYSC1LdzV3SUtiRXN6RTh2TWJlRVhUdEFnRGVLQllZZU9YcWIzZFNQSTQ0QVhPYXNTVnZSOXF1VUhKb0hzZGV1UjhqdkY5WVJ3bjJja2ZYdkpIQTRrU0lpb3cxbC0zaE9JdWFXUDV0ejF4OGVpNVdqNEJxUkxSblZBWFpVa2pB0gGyAUFVX3lxTE96dk53V2o5dGU4bTl5NEI0RkJSOW5VbXRDbmVjdk8tZ0U2ZE1aVU1HU0RPN2dhdzREb3dtMlA0TnVtd0lldEU0bTZFYlZ4enllN3ZwYkdSWkVrOGhxelozcDVMNnBkaF9zNmF1NzNwajBLR01BdEk4RVA0ZkI5YzlkUUdMU1ZBRHZlN0RyanFiSzhKYkM0NnlnV1dUcm5veVdjZWh5Qm1hMzFLdEZENTIyTFE?oc=5",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/19/rundoo-raises-30m-to-expand-its-ai-native-operating-system-for-small-supply-stores/",
       "priority": 7
     },
-    "remind_at": "2026-08-19T06:04:32.139814-07:00"
+    "remind_at": "2026-08-19T07:00:22.425635-07:00"
   },
   {
     "item": {
-      "company": "Prevalent AI",
-      "amount": "$22.0M",
+      "company": "Home Depot\u2019s $730 million tariff refund",
+      "amount": "$730.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/19/home-depot-730-million-tariff-refund-largely-offset-rising-costs-cfo/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T07:00:26.844247-07:00"
+  },
+  {
+    "item": {
+      "company": "Unitree",
+      "amount": "$66.0B",
+      "stage": null,
+      "investors": null,
+      "location": "The Hangzhou",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/19/unitree-china-dancing-robots-ipo-trading-surge-valuation/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T07:00:29.069105-07:00"
+  },
+  {
+    "item": {
+      "company": "Also\u2019s $3",
+      "amount": "$1.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/19/also-3500-e-bike-is-a-1-billion-trojan-horse-for-autonomous-transportation-rivian/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T07:00:32.049803-07:00"
+  },
+  {
+    "item": {
+      "company": "Even potato-chip tasters",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/19/disposable-workers-us-labor-market/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T07:00:35.021453-07:00"
+  },
+  {
+    "item": {
+      "company": "Thunder Compute",
+      "amount": "$13.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/19/prevalent-ai-raises-first-outside-capital-in-nine-years-with-22m-round/",
+      "url": "https://siliconangle.com/2026/08/19/thunder-compute-raises-13m-squeeze-work-idle-gpus/",
       "priority": 3
     },
-    "remind_at": "2026-08-19T06:04:34.464239-07:00"
+    "remind_at": "2026-08-19T07:00:38.421191-07:00"
+  },
+  {
+    "item": {
+      "company": "Temporal",
+      "amount": "$500.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/temporal-talks-500m-funding-12b-valuation/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T07:00:40.684221-07:00"
   }
 ]
