@@ -13568,5 +13568,23 @@
     "first_seen": "2026-08-18T13:47:46.889197-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "873e6b2cb3c4648d9309bfba3be9bcfa": {
+    "id": "873e6b2cb3c4648d9309bfba3be9bcfa",
+    "title": "Founding Product Designer",
+    "company": "Moritz (W26)",
+    "location": "San Francisco, CA, US",
+    "salary": "$120K - $180K",
+    "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D105320&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=31146",
+    "source": "Y Combinator",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-08-18T18:35:20.328460-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }

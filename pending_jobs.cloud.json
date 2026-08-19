@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "job": {
+      "title": "Founding Product Designer",
+      "company": "Moritz (W26)",
+      "location": "San Francisco, CA, US",
+      "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D105320&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=31146",
+      "salary": "$120K - $180K",
+      "description": "Global AI-native law firm handling legal work with same-day turnaround",
+      "posted_at": "Recently",
+      "source": "Y Combinator",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-08-18T19:05:20.960637-07:00"
+  }
+]
