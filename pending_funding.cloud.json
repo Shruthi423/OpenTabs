@@ -12,5 +12,47 @@
       "priority": 3
     },
     "remind_at": "2026-08-19T10:52:09.099031-07:00"
+  },
+  {
+    "item": {
+      "company": "helping Wall\u00a0Street put\u00a0a price",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T11:19:26.916215-07:00"
+  },
+  {
+    "item": {
+      "company": "Up",
+      "amount": "$246.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/19/often-flying-blind-up-to-246-million-of-taxpayer-funded-cdc-programs-are-largely-unstaffed/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T11:19:29.269910-07:00"
+  },
+  {
+    "item": {
+      "company": "Why circular IT",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/the-business-case-for-extending-the-life-of-technology-why-circular-it-is-moving-up-the-investment-agenda/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T11:19:32.428214-07:00"
   }
 ]
