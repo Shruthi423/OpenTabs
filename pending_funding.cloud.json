@@ -40,5 +40,19 @@
       "priority": 3
     },
     "remind_at": "2026-08-19T04:01:26.234073-07:00"
+  },
+  {
+    "item": {
+      "company": "Female-founded SnerpaPower",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/snerpapower-raises-3-4m-industrial-electricity-optimisation/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T04:27:32.980880-07:00"
   }
 ]
