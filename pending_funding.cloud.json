@@ -1,72 +1,58 @@
 [
   {
     "item": {
-      "company": "Kyvvu",
-      "amount": null,
+      "company": "Space",
+      "amount": "$2.4M",
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kyvvu-raises-1m-pre-seed/",
+      "url": "https://www.thesaasnews.com/news/space-raises-2-4m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-08-19T01:32:17.099818-07:00"
+    "remind_at": "2026-08-19T02:24:24.105979-07:00"
   },
   {
     "item": {
-      "company": "Pensata",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
+      "company": "HeyBreez",
+      "amount": "$2.5M",
+      "stage": "Seed",
+      "investors": "Lunara Partners to expand its enterprise voice AI platform infrastructure and sales teams globally",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pensata-inc-raises-246000-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-19T01:32:19.695196-07:00"
-  },
-  {
-    "item": {
-      "company": "Medly AI grabs $8M",
-      "amount": "$8.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/medly-ai-raises-8m-ai-tutoring-private-tuition/",
+      "url": "https://www.thesaasnews.com/news/heybreez-raises-2-5m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-08-19T01:32:22.671859-07:00"
+    "remind_at": "2026-08-19T02:24:26.562040-07:00"
   },
   {
     "item": {
-      "company": "UnlimiTech",
+      "company": "Butterfly Learnings",
       "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": "Seed Tokyo",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/unlimitech-raises-180m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-19T01:32:24.898699-07:00"
-  },
-  {
-    "item": {
-      "company": "SECA",
-      "amount": null,
-      "stage": "Seed",
+      "stage": "Series B",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LLU05SjczN2xxaG91NVkzTjRSakJCMlRvMUVaR1Nlc3Y0eTJLTHJxQjlpWTlzRXVqN2V5enVINzkzYlN3Snl3YXFDZG1hYTNoVTdj?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTFVPU0hXT21LR3VuLXAwN3BTUFNjTGtwQTNSSmNiM0p4OTQ3YWhSVTdNT2RqQUNyeWdveU1HZEJhVU5zcFF1RnR1VWd6ZFp6RWZNOTZnNHdmUl9BaU1qZkRxc0VsaHRVV2tFQWw0RDJ2c0pIVnpYcEpXX1l5Y2FHcFpXeERpY1JON3Y5MGxMWVEwY1hTY3kyWHdMcXFwV0FYalFZSTEwdS1KVm9CWXVDZEMtYURjX2FVXzVOZC1wWlQ4TlZHcVc4YXVwdHN6SklOa09Jbw?oc=5",
+      "priority": 7
     },
-    "remind_at": "2026-08-19T01:32:27.205289-07:00"
+    "remind_at": "2026-08-19T02:24:29.805199-07:00"
+  },
+  {
+    "item": {
+      "company": "Codio",
+      "amount": "$5.0M",
+      "stage": null,
+      "investors": "Armada Investment to expand its AI literacy platform for higher education institutions",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/codio-raises-5m-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T02:24:32.117531-07:00"
   }
 ]
