@@ -1,5 +1,35 @@
 [
   {
+    "id": "a963f626a25f1998cffbde6afd1e5177",
+    "company": "Graphwise aims",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/19/graphwise-aims-to-become-the-semantic-layer-for-ai-agents-after-securing-major-investment-from-oakley-capital/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-18T23:34:11.900589-07:00",
+    "status": "active"
+  },
+  {
+    "id": "bd8bfe40200845f5dcaeedf65098b0af",
+    "company": "InfiniG",
+    "amount": "$5.2M",
+    "stage": "Seed",
+    "investors": "J2 Ventures and Stormbreaker Ventures to scale its enterprise cellular coverage platform",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/infinig-raises-5-2m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-18T23:34:08.623694-07:00",
+    "status": "active"
+  },
+  {
     "id": "10a0e6c00fddb3c756511496adc53eb5",
     "company": "Hypercubic Inc.",
     "amount": "$5.3M",
