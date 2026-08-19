@@ -1,58 +1,16 @@
 [
   {
     "item": {
-      "company": "Star researcher Sanja Fidler",
-      "amount": "$90.0M",
-      "stage": null,
+      "company": "Silicon Data",
+      "amount": "$30.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LTEJEbDJEZ2pmV1VBeXNVQkVSLWc2c19ldUNzUUt2UzllMlN4R3J6dUNFS0o4ckdzdE1TMXhoZjI4Z0c1cVlNX1hoS3p0WnZsM3JBU1pncEtGamR4dnBUVEc2S3l2NERUb3dYSWp3b0R1dw?oc=5",
-      "priority": 3
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNemRpcElDeW5kSV9qY0d2WFhNQV9Ddnk5em9MckFVbk0yOFMxUWs5MjZtRjhnSTRHQlJ5VXAtOWl4Ty16SHlLWFBjUFh1MDFTYkh6V2lWdjIwWHFHbU9EZzRKWEc5VWxfekluRzZNT2M2bngzcU93U0NhNW04SUE2VHR5N2M1UFJjZV83Z3lJLVAyS0VBVzJQalc4MGFLV1JudHB0NzZ4UQ?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-19T10:52:09.099031-07:00"
-  },
-  {
-    "item": {
-      "company": "helping Wall\u00a0Street put\u00a0a price",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-19T11:19:26.916215-07:00"
-  },
-  {
-    "item": {
-      "company": "Up",
-      "amount": "$246.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/19/often-flying-blind-up-to-246-million-of-taxpayer-funded-cdc-programs-are-largely-unstaffed/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-19T11:19:29.269910-07:00"
-  },
-  {
-    "item": {
-      "company": "Why circular IT",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/the-business-case-for-extending-the-life-of-technology-why-circular-it-is-moving-up-the-investment-agenda/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-19T11:19:32.428214-07:00"
+    "remind_at": "2026-08-19T11:55:30.987158-07:00"
   }
 ]
