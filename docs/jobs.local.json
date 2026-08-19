@@ -1,5 +1,23 @@
 [
   {
+    "id": "8b92c4774641bee0a2c566f0b04e8b5a",
+    "title": "Designer I",
+    "company": "nan",
+    "location": "Brownsville, TN, US",
+    "salary": "$20 \u2013 $22 / hourly",
+    "url": "https://www.indeed.com/viewjob?jk=ee5983b49b229cb5",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "2026-08-18",
+    "priority": 4,
+    "first_seen": "2026-08-19T11:09:21.420905-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  {
     "id": "e13b9485dd5123385145d5871b51eecb",
     "title": "Product Design Engineer",
     "company": "ITT Inc.",
