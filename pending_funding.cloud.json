@@ -1,20 +1,6 @@
 [
   {
     "item": {
-      "company": "Levi Strauss\u2019s CEO",
-      "amount": "$6.4B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2025/02/24/levis-ceo-michelle-gass-baggy-jeans-women-denim-beyonce-501/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-19T13:59:13.456251-07:00"
-  },
-  {
-    "item": {
       "company": "Four states",
       "amount": null,
       "stage": null,
@@ -40,5 +26,19 @@
       "priority": 3
     },
     "remind_at": "2026-08-19T14:25:50.084579-07:00"
+  },
+  {
+    "item": {
+      "company": "The data center fight",
+      "amount": null,
+      "stage": null,
+      "investors": "for their construction",
+      "location": "Dallas",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/19/ai-power-data-center-electricity-construction",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T14:51:21.816395-07:00"
   }
 ]
