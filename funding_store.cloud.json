@@ -44632,5 +44632,50 @@
     "roles": [],
     "first_seen": "2026-08-19T02:27:37.448325-07:00",
     "status": "active"
+  },
+  "6ebd5858e3fdc2b786cdc0a87b63cab6": {
+    "id": "6ebd5858e3fdc2b786cdc0a87b63cab6",
+    "company": "Jordan-Founded HeyBreez",
+    "amount": "$2.5M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUkRWcUxuVEljaE5uLVdwLWljbWRDVERVYlF6Z3ptRU1RWl9YSGdnLXBLUVhQNDR5NlFQNmVsa3dMd3cybFdjMS04SV85Qjl1MEJXMDgxbVA0OUp0SGFjeFBJZHd2UnNHNFFPMGFhTEVSa0t6aHdVMERjN3Z3LWNDSGtZVUtXVGVRVTc2UHNB?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-19T03:31:21.426445-07:00",
+    "status": "active"
+  },
+  "1c503807d242f9128fafd856b725ce7d": {
+    "id": "1c503807d242f9128fafd856b725ce7d",
+    "company": "Etched",
+    "amount": "$21.0B",
+    "stage": "Series D",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYVp0U1diWDFvUkQxd2lObGlUTXlKTEVpX1ZZUVNyaUdpWG5WYllJcS1MYjR3LWdCZGFfakVTMmNwMFdsZncwa0ZUTUFoeDdkUE5xYWpKWnhMdnNfMGxreU9WVmlFSnMySnFTcFZQOU02ZktUWnRJRWdxTUJBbmV2cWt5TVFtRTR6a3VOaGJoYjE4M05WWHd1MEdLaWRvUQ?oc=5",
+    "priority": 5,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-19T03:31:23.873040-07:00",
+    "status": "active"
+  },
+  "d209950d95eac2da228b4d0acc3de1cb": {
+    "id": "d209950d95eac2da228b4d0acc3de1cb",
+    "company": "The pitch deck Flip used",
+    "amount": "$25.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/flip-pitch-deck-25m-ai-deskless-workers/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-19T03:31:27.234230-07:00",
+    "status": "active"
   }
 }

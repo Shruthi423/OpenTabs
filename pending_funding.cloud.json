@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "item": {
+      "company": "Jordan-Founded HeyBreez",
+      "amount": "$2.5M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUkRWcUxuVEljaE5uLVdwLWljbWRDVERVYlF6Z3ptRU1RWl9YSGdnLXBLUVhQNDR5NlFQNmVsa3dMd3cybFdjMS04SV85Qjl1MEJXMDgxbVA0OUp0SGFjeFBJZHd2UnNHNFFPMGFhTEVSa0t6aHdVMERjN3Z3LWNDSGtZVUtXVGVRVTc2UHNB?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-19T04:01:20.426281-07:00"
+  },
+  {
+    "item": {
+      "company": "Etched",
+      "amount": "$21.0B",
+      "stage": "Series D",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYVp0U1diWDFvUkQxd2lObGlUTXlKTEVpX1ZZUVNyaUdpWG5WYllJcS1MYjR3LWdCZGFfakVTMmNwMFdsZncwa0ZUTUFoeDdkUE5xYWpKWnhMdnNfMGxreU9WVmlFSnMySnFTcFZQOU02ZktUWnRJRWdxTUJBbmV2cWt5TVFtRTR6a3VOaGJoYjE4M05WWHd1MEdLaWRvUQ?oc=5",
+      "priority": 5
+    },
+    "remind_at": "2026-08-19T04:01:22.872864-07:00"
+  },
+  {
+    "item": {
+      "company": "The pitch deck Flip used",
+      "amount": "$25.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/flip-pitch-deck-25m-ai-deskless-workers/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T04:01:26.234073-07:00"
+  }
+]
