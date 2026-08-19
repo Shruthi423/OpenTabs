@@ -1,30 +1,72 @@
 [
   {
     "item": {
-      "company": "Aisel Health",
+      "company": "Kyvvu",
       "amount": null,
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/aisel-health-raises-1-7m-psychiatry-operating-system/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/kyvvu-raises-1m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-08-19T00:54:58.601531-07:00"
+    "remind_at": "2026-08-19T01:32:17.099818-07:00"
   },
   {
     "item": {
-      "company": "iHW",
+      "company": "Pensata",
       "amount": null,
-      "stage": "Series A",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/pensata-inc-raises-246000-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-19T01:32:19.695196-07:00"
+  },
+  {
+    "item": {
+      "company": "Medly AI grabs $8M",
+      "amount": "$8.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/medly-ai-raises-8m-ai-tutoring-private-tuition/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-19T01:32:22.671859-07:00"
+  },
+  {
+    "item": {
+      "company": "UnlimiTech",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": "Seed Tokyo",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/unlimitech-raises-180m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-19T01:32:24.898699-07:00"
+  },
+  {
+    "item": {
+      "company": "SECA",
+      "amount": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlJFX281WVgwMWdDaDFkOHNNMVZKTVh6aXFzQjBJQmRMTFBFbElSekJqdW5YVld6NFlFZ1FjQl9JYUpld29sZUhEZEN4MzkwNzMtRVBVV3dxQ3RWUkZROG1WZ3lzMDVlQWZZZVRiVDNabVNtLVpIdndGVEZhX2dTX1h3Q2ptQU93LUJKa19hcVpidFI1NV9ENHRQV1E?oc=5",
-      "priority": 8
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LLU05SjczN2xxaG91NVkzTjRSakJCMlRvMUVaR1Nlc3Y0eTJLTHJxQjlpWTlzRXVqN2V5enVINzkzYlN3Snl3YXFDZG1hYTNoVTdj?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-08-19T00:55:01.054992-07:00"
+    "remind_at": "2026-08-19T01:32:27.205289-07:00"
   }
 ]
