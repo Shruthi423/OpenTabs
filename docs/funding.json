@@ -1,5 +1,35 @@
 [
   {
+    "id": "388b715869150b76e2bdbff6f8ed583d",
+    "company": "Angie Nixon",
+    "amount": "$16.3M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/19/democrats-florida-senate-angie-nixon-misterms",
+    "priority": 3,
+    "founders": [],
+    "location": "Miami",
+    "roles": [],
+    "first_seen": "2026-08-18T20:31:16.086629-07:00",
+    "status": "active"
+  },
+  {
+    "id": "3d665e4462be9d07434c98c06e28895e",
+    "company": "Terra Industries",
+    "amount": "$51.7M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aTzNiRlUwM1QtclYxSXhLWkppVjN2YkV4eTZwLXVaenpDS2VMVWdCNVRHWWY3ZFV1WklkOV9vTlhxT0I0YmswYVhNQzh1cDV3b2ZYcEdnR19YQnRrZmhaZXg5aGJWenQzMHd6QWxxUFlyUHktVDZZ?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-18T20:31:13.168180-07:00",
+    "status": "active"
+  },
+  {
     "id": "e7b6dab58451af9aeff1da2d306a52c4",
     "company": "Etched doubles valuation",
     "amount": "$21.0B",
