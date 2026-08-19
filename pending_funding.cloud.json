@@ -1,58 +1,30 @@
 [
   {
     "item": {
-      "company": "Space",
-      "amount": "$2.4M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/space-raises-2-4m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-19T02:24:24.105979-07:00"
-  },
-  {
-    "item": {
-      "company": "HeyBreez",
-      "amount": "$2.5M",
-      "stage": "Seed",
-      "investors": "Lunara Partners to expand its enterprise voice AI platform infrastructure and sales teams globally",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/heybreez-raises-2-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-19T02:24:26.562040-07:00"
-  },
-  {
-    "item": {
-      "company": "Butterfly Learnings",
-      "amount": null,
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTFVPU0hXT21LR3VuLXAwN3BTUFNjTGtwQTNSSmNiM0p4OTQ3YWhSVTdNT2RqQUNyeWdveU1HZEJhVU5zcFF1RnR1VWd6ZFp6RWZNOTZnNHdmUl9BaU1qZkRxc0VsaHRVV2tFQWw0RDJ2c0pIVnpYcEpXX1l5Y2FHcFpXeERpY1JON3Y5MGxMWVEwY1hTY3kyWHdMcXFwV0FYalFZSTEwdS1KVm9CWXVDZEMtYURjX2FVXzVOZC1wWlQ4TlZHcVc4YXVwdHN6SklOa09Jbw?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-08-19T02:24:29.805199-07:00"
-  },
-  {
-    "item": {
-      "company": "Codio",
-      "amount": "$5.0M",
+      "company": "The new existential threat",
+      "amount": "$600.0B",
       "stage": null,
-      "investors": "Armada Investment to expand its AI literacy platform for higher education institutions",
-      "location": null,
+      "investors": "question the staggering spending, borrowing and valuations built on expectations of relentless AI growth",
+      "location": "Silicon Valley",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/codio-raises-5m-growth-capital/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/19/data-centers-ai-political-opinion",
       "priority": 3
     },
-    "remind_at": "2026-08-19T02:24:32.117531-07:00"
+    "remind_at": "2026-08-19T02:57:34.052904-07:00"
+  },
+  {
+    "item": {
+      "company": "VERO",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/vero-secures-new-round-of-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T02:57:36.448161-07:00"
   }
 ]

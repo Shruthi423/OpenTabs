@@ -44602,5 +44602,35 @@
     "roles": [],
     "first_seen": "2026-08-19T01:54:33.117713-07:00",
     "status": "active"
+  },
+  "e86e5470f26b0c297c029650da84c7ae": {
+    "id": "e86e5470f26b0c297c029650da84c7ae",
+    "company": "The new existential threat",
+    "amount": "$600.0B",
+    "stage": "?",
+    "investors": "question the staggering spending, borrowing and valuations built on expectations of relentless AI growth",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/19/data-centers-ai-political-opinion",
+    "priority": 3,
+    "founders": [],
+    "location": "Silicon Valley",
+    "roles": [],
+    "first_seen": "2026-08-19T02:27:35.053077-07:00",
+    "status": "active"
+  },
+  "702f172a2bc0e73929aeb0cc07d1884d": {
+    "id": "702f172a2bc0e73929aeb0cc07d1884d",
+    "company": "VERO",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/vero-secures-new-round-of-capital/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-19T02:27:37.448325-07:00",
+    "status": "active"
   }
 }
