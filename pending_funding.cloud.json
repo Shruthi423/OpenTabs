@@ -12,5 +12,33 @@
       "priority": 3
     },
     "remind_at": "2026-08-19T13:59:13.456251-07:00"
+  },
+  {
+    "item": {
+      "company": "Four states",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/19/four-states-billions-meta-child-safety-privacy/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T14:25:46.613072-07:00"
+  },
+  {
+    "item": {
+      "company": "How Singapore\u2019s Jenny Lee wants",
+      "amount": "$5.0B",
+      "stage": null,
+      "investors": null,
+      "location": "Singapore",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/asia/2024/10/07/jenny-lee-venture-capital-women-singapore-asia-investing/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T14:25:50.084579-07:00"
   }
 ]
