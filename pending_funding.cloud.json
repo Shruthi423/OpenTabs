@@ -1,58 +1,16 @@
 [
   {
     "item": {
-      "company": "Swish Basket",
-      "amount": "$3.2M",
-      "stage": "Pre-Seed",
-      "investors": null,
+      "company": "Castelion",
+      "amount": "$13.0B",
+      "stage": "Series C",
+      "investors": "Andreessen Horowitz, Carlyle, and JP Morgan Chase",
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjRMc2FFNjB2ZmpMWXNwQjE4dzVjMlloVl9PM1dXM3d2NHJFRExWUnJfNDQ1dDFlTHRJdnJkUmpfdXV1SUhwRlVCSjU1TG9mM3VlczVNY2RJeDdycXFyQUk5VS1CQjZZRE1JSGdVYy16UVhiRWFMSzdtXzgwMEVNcGs2aDJRaEVvNWZES2s2QkdSeVVHNDAxNzEwODdIaV9XdU5WdFp3OW1YVEZEdG0yTnpKUFI5dDQ?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-08-20T12:29:04.998323-07:00"
-  },
-  {
-    "item": {
-      "company": "Twin A1",
-      "amount": "$20.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUVRheGUxRmRWU090b0FSYVFmOE5HTV9wZ1dwZVFZS0dWbUVucUV4blYwWWNuZWdtVFdnUWdOQWU0STYtbGNVdEVjSFJPVFlaX3M5OW13eVVSVVUtdmZSUk55WHVLZ0lCY2dUUVp5WVpBUG9BQXppZjhvNmVTWDVUUkdjcjc5QzlxN2NaVlZ4TWVzbGhGSHZnTVJIOThuT0dnZEt2VXhPZ2ZPcFc4dE85MzdwdGxtVzZNM0stY1ZFdDlsZkN4WWtPdjd3?oc=5",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
       "priority": 9
     },
-    "remind_at": "2026-08-20T12:29:23.242959-07:00"
-  },
-  {
-    "item": {
-      "company": "AlgoFET",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGNHcTcxY0VZWkFCMjZyREc4V2RiNEhVYlY0eEpxNzdVYUxGaEFhZW55Z2NxLWJuNksxUFpveVM3Qll4T2VJYVUyRVdtWXpsaERKOENiMG9ZU3NuMkF4S21zZlRVUXA5bzdqWjJ6bmJXTlJWc1h5aVRaT1c1TDFoSF9rT0Jjblp1eHVFbTJ3SUZJR2wtbk5VLVItRmlHYklqanJ1UURTVGtuYk82UnV3a0Rn0gGyAUFVX3lxTE1EY0dxNzFjRVlaQUIyNnJERzhXZGI0SFViVjR4SnE3N1VhTEZoQWFlbnlnY3EtYm42SzFQWm95UzdCWXhPZUlhVTJFV21ZemxoREo4Q2Iwb1lTc24yQXhLbXNmVFVRcDlvN2paMnpuYldOUlZzWHlpVFpPVzVMMWhIX2tPQmNuWnV4dUVtMndJRklHbC1uTlUtUi1GaUdiSWpqcnVRRFNUa25iTzZSdXdrRGc?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-20T12:29:25.611986-07:00"
-  },
-  {
-    "item": {
-      "company": "Facing weary customers",
-      "amount": "$3.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/20/walmart-tariff-refunds-prices/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-20T12:29:28.896933-07:00"
+    "remind_at": "2026-08-20T13:01:59.333002-07:00"
   }
 ]

@@ -45895,5 +45895,20 @@
     "roles": [],
     "first_seen": "2026-08-20T11:59:29.897105-07:00",
     "status": "active"
+  },
+  "68390c63b2e3a6b151586600ef889279": {
+    "id": "68390c63b2e3a6b151586600ef889279",
+    "company": "Castelion",
+    "amount": "$13.0B",
+    "stage": "Series C",
+    "investors": "Andreessen Horowitz, Carlyle, and JP Morgan Chase",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T12:32:00.333166-07:00",
+    "status": "active"
   }
 }
