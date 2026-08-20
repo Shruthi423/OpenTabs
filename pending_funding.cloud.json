@@ -1,66 +1,50 @@
 [
   {
     "item": {
-      "company": "Neuromod Aqua",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [
-        "Porush Jain"
-      ],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUJqNVkyNThJcVQ0LWwwb2hMMi1lZnhwdmgybl9Ma3VKMy1XTGttcmI0LV9UcERxXzNSZlZ6THhPb1pBS0M4eFFwY21XZUE4SEUybVIwekROcS16MWo3UmlKM0VJRGIzSkV3NXdubm1IQ0NUNDFCMmRKRWNyR2FDRE1uN1hoUzdyUThNZmQ2TEk1Ql9KcGFkZXk5by11dFBXU1ZObDNWSDhXaFpZWkZCZzMyQdIBswFBVV95cUxQSUJqNVkyNThJcVQ0LWwwb2hMMi1lZnhwdmgybl9Ma3VKMy1XTGttcmI0LV9UcERxXzNSZlZ6THhPb1pBS0M4eFFwY21XZUE4SEUybVIwekROcS16MWo3UmlKM0VJRGIzSkV3NXdubm1IQ0NUNDFCMmRKRWNyR2FDRE1uN1hoUzdyUThNZmQ2TEk1Ql9KcGFkZXk5by11dFBXU1ZObDNWSDhXaFpZWkZCZzMyQQ?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-08-19T22:33:43.699753-07:00"
-  },
-  {
-    "item": {
-      "company": "Quantizr",
-      "amount": "$5.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/quantizr-raises-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-19T22:33:45.976339-07:00"
-  },
-  {
-    "item": {
-      "company": "Noggin HQ",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "Blackfinch Ventures to expand its alternative credit scoring platform for UK lenders",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/noggin-hq-raises-2-3m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-19T22:33:49.037420-07:00"
-  },
-  {
-    "item": {
-      "company": "AILA",
-      "amount": "$3.0M",
+      "company": "Boom",
+      "amount": "$15.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/aila-raises-3m-pre-series-a/",
+      "url": "https://www.thesaasnews.com/news/boom-raises-15m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-08-19T22:33:51.401606-07:00"
+    "remind_at": "2026-08-19T23:16:05.290477-07:00"
   },
   {
     "item": {
-      "company": "Why investors",
-      "amount": "$4.5B",
+      "company": "Also",
+      "amount": "$150.0M",
+      "stage": "Series D",
+      "investors": null,
+      "location": "Palo Alto",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/also-raises-150m-series-d-autonomous-electric-vehicles/",
+      "priority": 5
+    },
+    "remind_at": "2026-08-19T23:16:07.853608-07:00"
+  },
+  {
+    "item": {
+      "company": "\u2018It\u2019s never who you think it",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/article/multimillionaire-podcaster-mel-robbins-learned-secret-spotting-most-influential-person-in-the-room-as-waitress-08-19-2026/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T23:16:11.081605-07:00"
+  },
+  {
+    "item": {
+      "company": "Nebius has",
+      "amount": "$11.0B",
       "stage": null,
       "investors": null,
       "location": "Amsterdam",
@@ -69,6 +53,6 @@
       "url": "https://techfundingnews.com/nebius-4-5b-convertible-notes-share-price-drop/",
       "priority": 3
     },
-    "remind_at": "2026-08-19T22:33:54.459845-07:00"
+    "remind_at": "2026-08-19T23:16:14.318136-07:00"
   }
 ]

@@ -45285,5 +45285,71 @@
     "roles": [],
     "first_seen": "2026-08-19T22:03:55.460012-07:00",
     "status": "active"
+  },
+  "79fb172aa0ac236dd4a914d33ef86ca6": {
+    "id": "79fb172aa0ac236dd4a914d33ef86ca6",
+    "company": "Boom",
+    "amount": "$15.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/boom-raises-15m-series-a/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-19T22:46:06.290670-07:00",
+    "status": "active"
+  },
+  "79f72b9902a6bd0e72b872052ac01f98": {
+    "id": "79f72b9902a6bd0e72b872052ac01f98",
+    "company": "Also",
+    "amount": "$150.0M",
+    "stage": "Series D",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/also-raises-150m-series-d-autonomous-electric-vehicles/",
+    "priority": 5,
+    "founders": [],
+    "location": "Palo Alto",
+    "roles": [],
+    "first_seen": "2026-08-19T22:46:08.853781-07:00",
+    "status": "active"
+  },
+  "72ad6e0907c00e7229409909a8f796e4": {
+    "id": "72ad6e0907c00e7229409909a8f796e4",
+    "company": "\u2018It\u2019s never who you think it",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/multimillionaire-podcaster-mel-robbins-learned-secret-spotting-most-influential-person-in-the-room-as-waitress-08-19-2026/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-19T22:46:12.081778-07:00",
+    "status": "active"
+  },
+  "b5bc3691e0902fba93ed6fb8cf2710b1": {
+    "id": "b5bc3691e0902fba93ed6fb8cf2710b1",
+    "company": "Nebius has",
+    "amount": "$11.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/nebius-4-5b-convertible-notes-share-price-drop/",
+    "priority": 3,
+    "founders": [],
+    "location": "Amsterdam",
+    "roles": [
+      {
+        "title": "Frontend Engineer - User Interface",
+        "url": "https://careers.nebius.com/?gh_jid=4872193101",
+        "location": "Remote - United States"
+      }
+    ],
+    "first_seen": "2026-08-19T22:46:15.318333-07:00",
+    "status": "active"
   }
 }
