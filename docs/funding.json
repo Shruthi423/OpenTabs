@@ -1,5 +1,35 @@
 [
   {
+    "id": "30e2b0c43f19c477349cfd69cea8819b",
+    "company": "Bessent\u2019s $4 billion bond plan",
+    "amount": "$4.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/20/scott-bessent-us-treasury-4-billion-bond-buyback-plan-rearranging-deckchairs-on-the-titanic-ing/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T04:52:25.556014-07:00",
+    "status": "active"
+  },
+  {
+    "id": "24544cb49166484adbd12def9d459524",
+    "company": "Guideless",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVTFIbFFiQW91VHVrMkJFanh3eEkyR29MaU8wSmlCN3Z3TkFXelBOelFiMlg0ZmFBci1jcTBpMF8zUUVGMEphTXZsWVlZaE9ycmtaWl96cU5aNjY0dlBRRkp3QnlYTUxXQmFxallDQmw4WFkyOGF2eUl0WXExel9pdlZfM0xjWkR1YWVlR0J5a1VzMVU3VWFLbFp1YjYyNndu?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T04:52:22.257678-07:00",
+    "status": "active"
+  },
+  {
     "id": "e6d473064f701a6bee6cb1c73ec00a1d",
     "company": "Tross",
     "amount": "Undisclosed",
