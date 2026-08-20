@@ -54,5 +54,47 @@
       "priority": 3
     },
     "remind_at": "2026-08-19T23:16:14.318136-07:00"
+  },
+  {
+    "item": {
+      "company": "TopHat Security",
+      "amount": null,
+      "stage": "Series A",
+      "investors": "Landolt Securities to advance its cybersecurity portfolio for critical infrastructure and AI environments",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/tophat-security-inc-announces-series-a-financing-led-by-landolt-securities-to-accelerate/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-19T23:35:03.506464-07:00"
+  },
+  {
+    "item": {
+      "company": "RockRose Risk",
+      "amount": "$12.5M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/rockrose-risk-raises-12-5m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-19T23:35:06.847295-07:00"
+  },
+  {
+    "item": {
+      "company": "Flip",
+      "amount": "$25.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/flip-raises-25m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T23:35:09.424999-07:00"
   }
 ]
