@@ -1,30 +1,30 @@
 [
   {
     "item": {
-      "company": "Guideless",
-      "amount": null,
+      "company": "Dirac Labs",
+      "amount": "$1.8M",
       "stage": "Pre-Seed",
-      "investors": null,
+      "investors": "TitletownTech, a venture capital firm run by Microsoft Corp",
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVTFIbFFiQW91VHVrMkJFanh3eEkyR29MaU8wSmlCN3Z3TkFXelBOelFiMlg0ZmFBci1jcTBpMF8zUUVGMEphTXZsWVlZaE9ycmtaWl96cU5aNjY0dlBRRkp3QnlYTUxXQmFxallDQmw4WFkyOGF2eUl0WXExel9pdlZfM0xjWkR1YWVlR0J5a1VzMVU3VWFLbFp1YjYyNndu?oc=5",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/20/dirac-labs-looks-to-scale-quantum-positioning-tech-after-raising-1-8m-to-build-its-first-prototypes/",
       "priority": 10
     },
-    "remind_at": "2026-08-20T05:22:21.257515-07:00"
+    "remind_at": "2026-08-20T06:05:58.634813-07:00"
   },
   {
     "item": {
-      "company": "Bessent\u2019s $4 billion bond plan",
-      "amount": "$4.0B",
+      "company": "Portfolio review takes",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/08/20/scott-bessent-us-treasury-4-billion-bond-buyback-plan-rearranging-deckchairs-on-the-titanic-ing/",
+      "url": "https://fortune.com/2026/08/20/portfolio-review-takes-new-urgency-vcs-ai/",
       "priority": 3
     },
-    "remind_at": "2026-08-20T05:22:24.555834-07:00"
+    "remind_at": "2026-08-20T06:06:02.206591-07:00"
   }
 ]

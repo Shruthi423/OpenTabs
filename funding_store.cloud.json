@@ -45640,5 +45640,35 @@
     "roles": [],
     "first_seen": "2026-08-20T04:52:25.556014-07:00",
     "status": "active"
+  },
+  "1cc1c2f6110727ee6c686da3ee80c885": {
+    "id": "1cc1c2f6110727ee6c686da3ee80c885",
+    "company": "Dirac Labs",
+    "amount": "$1.8M",
+    "stage": "Pre-Seed",
+    "investors": "TitletownTech, a venture capital firm run by Microsoft Corp",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/20/dirac-labs-looks-to-scale-quantum-positioning-tech-after-raising-1-8m-to-build-its-first-prototypes/",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T05:35:59.634985-07:00",
+    "status": "active"
+  },
+  "268aff02e8413b4376ea2055e322e059": {
+    "id": "268aff02e8413b4376ea2055e322e059",
+    "company": "Portfolio review takes",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/20/portfolio-review-takes-new-urgency-vcs-ai/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T05:36:03.206752-07:00",
+    "status": "active"
   }
 }
