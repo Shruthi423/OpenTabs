@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "London-based Callosum",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": "London",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZFlEaVdTRnNvTDBkOXBpWmNhR1ZFbjN6RDhQUThNNzZGMXJHX2hybEpuWklJdDQ5OHppZjhyOEx1UEx0YzRCS0FQSHUwbll1SFFSRDY2OFloLWVTMzRpWEkwU2tacjBKNWpVaGZTbzBrekp1a1pRQkVFME9QS25ia05RRS1McGRnRnZCbERKV0RZY0tSbHFFem93TmN0eU5MMHVQcVlCX3RDdFQxTTF6bXZINzhsSjJHU2tNSTFWN3RVYTlzaFJOWjZudTQyZGs?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-20T04:26:47.572365-07:00"
+  },
+  {
+    "item": {
+      "company": "Fractile",
+      "amount": "$6.5B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/fractile-eyes-6-5b-valuation-after-anthropic-chip-deal-as-uk-ai-challenger-takes-aim-at-nvidia/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-20T04:26:50.438330-07:00"
+  }
+]

@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Degreed",
+      "location": "Remote",
+      "url": "https://uiuxjobsboard.com/job/1571426-remote-united-states-product-designer",
+      "salary": "$140,000 - $160,000",
+      "description": "",
+      "posted_at": "2h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-08-20T04:26:21.333719-07:00"
+  },
+  {
+    "job": {
+      "title": "UX Designer",
+      "company": "Apex Technology",
+      "location": "Los Angeles, CA",
+      "url": "https://uiuxjobsboard.com/job/1570426-ux-designer-los-angeles-ca-united-states",
+      "salary": "$120,000 - $150,000",
+      "description": "",
+      "posted_at": "6h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-08-20T04:26:23.368765-07:00"
+  }
+]
