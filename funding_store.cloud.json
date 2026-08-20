@@ -45396,5 +45396,20 @@
     "roles": [],
     "first_seen": "2026-08-19T23:05:10.425172-07:00",
     "status": "active"
+  },
+  "071b94212586ccd215e27cbdd289c1f2": {
+    "id": "071b94212586ccd215e27cbdd289c1f2",
+    "company": "Blueprint Finance",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Polychain Capital to scale its institutional DeFi vault infrastructure platform Concrete",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/blueprint-finance-announces-strategic-funding-round/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T00:10:29.953972-07:00",
+    "status": "active"
   }
 }
