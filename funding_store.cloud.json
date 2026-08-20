@@ -45670,5 +45670,35 @@
     "roles": [],
     "first_seen": "2026-08-20T05:36:03.206752-07:00",
     "status": "active"
+  },
+  "1b58c75db2f9a9ad17fc1fa436e11f99": {
+    "id": "1b58c75db2f9a9ad17fc1fa436e11f99",
+    "company": "XSquare",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xemdFTlFQWi1Wc0pfTWdtQ2JZSzJQNVRzWTIySFoyV2luX3F0aHYyQ1hoN0c2WWxQcjRuNkF2UzhLOVNld2VVbHRyUjhCNUFOTWd0OHY5THdUeFlCMlVWdV9CRzBXQllrTURGS2NEQzlFZ0RGdjhV?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T06:32:31.514920-07:00",
+    "status": "active"
+  },
+  "8c17ce795ab934a86734606879c584f7": {
+    "id": "8c17ce795ab934a86734606879c584f7",
+    "company": "NeoSoul",
+    "amount": "$11.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ycW9WT1BLZ183SGNxMDVub0hfOVNnMndlVE5kNmdQUkdzZFdra3VpeWVOTnAwNkVuNnhZMmNMOEhrQkhSQTJDdzFqU0p4WE9BOGg1S3dRM0Z1M3ZsZGlXX2ZFSkIyWFhpR3A2RzJiZ0dPb3JESGZXVA?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T06:32:33.791531-07:00",
+    "status": "active"
   }
 }
