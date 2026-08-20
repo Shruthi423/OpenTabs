@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Battlefield 200",
+      "company": "Twin1 AI",
+      "amount": "$20.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": "California",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/08/20/twin1-ai-emerges-from-stealth-with-20m-in-funding-to-give-every-professional-an-ai-powered-digital-twin/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-20T11:14:47.063309-07:00"
+  },
+  {
+    "item": {
+      "company": "Sneaker brand Zaydn",
       "amount": null,
-      "stage": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWZSZ3QwOFhkbXpyS2dIWUh4MmpTdUJFTjJnZzg0UmNnekRvRjIzS1kxcWNCQjVDQl83TXdLd0pYcVRKSWp1b0ZMVkNCTmhHby0zbWdZeEVia1RHQndILXFXazMxTzlGcFFualcwaHZGd0hhdWREcjdCTEY5b1JtUFdPUEI4ZFNlNm1haVBmWmRNOFlRblVKetIBmAFBVV95cUxNMWZSZ3QwOFhkbXpyS2dIWUh4MmpTdUJFTjJnZzg0UmNnekRvRjIzS1kxcWNCQjVDQl83TXdLd0pYcVRKSWp1b0ZMVkNCTmhHby0zbWdZeEVia1RHQndILXFXazMxTzlGcFFualcwaHZGd0hhdWREcjdCTEY5b1JtUFdPUEI4ZFNlNm1haVBmWmRNOFlRblVKeg?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-08-20T10:32:04.357531-07:00"
+    "remind_at": "2026-08-20T11:14:50.773789-07:00"
   }
 ]
