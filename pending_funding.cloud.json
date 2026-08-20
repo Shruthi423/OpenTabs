@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "XSquare",
-      "amount": null,
-      "stage": "Pre-Seed",
+      "company": "Amazon",
+      "amount": "$7.5B",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xemdFTlFQWi1Wc0pfTWdtQ2JZSzJQNVRzWTIySFoyV2luX3F0aHYyQ1hoN0c2WWxQcjRuNkF2UzhLOVNld2VVbHRyUjhCNUFOTWd0OHY5THdUeFlCMlVWdV9CRzBXQllrTURGS2NEQzlFZ0RGdjhV?oc=5",
-      "priority": 10
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/08/20/top-tech-news-today-august-20-2026-amazon-google-openai-openrouter-siemens-stripe-tdk-more/",
+      "priority": 3
     },
-    "remind_at": "2026-08-20T07:02:30.514736-07:00"
-  },
-  {
-    "item": {
-      "company": "NeoSoul",
-      "amount": "$11.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ycW9WT1BLZ183SGNxMDVub0hfOVNnMndlVE5kNmdQUkdzZFdra3VpeWVOTnAwNkVuNnhZMmNMOEhrQkhSQTJDdzFqU0p4WE9BOGg1S3dRM0Z1M3ZsZGlXX2ZFSkIyWFhpR3A2RzJiZ0dPb3JESGZXVA?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-20T07:02:32.791350-07:00"
+    "remind_at": "2026-08-20T07:50:16.068995-07:00"
   }
 ]

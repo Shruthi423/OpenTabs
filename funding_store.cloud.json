@@ -45700,5 +45700,20 @@
     "roles": [],
     "first_seen": "2026-08-20T06:32:33.791531-07:00",
     "status": "active"
+  },
+  "d0285e2c4210323a3447bd67af767d0f": {
+    "id": "d0285e2c4210323a3447bd67af767d0f",
+    "company": "Amazon",
+    "amount": "$7.5B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/08/20/top-tech-news-today-august-20-2026-amazon-google-openai-openrouter-siemens-stripe-tdk-more/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T07:20:17.069159-07:00",
+    "status": "active"
   }
 }
