@@ -1,16 +1,72 @@
 [
   {
     "item": {
-      "company": "Blueprint Finance",
-      "amount": null,
-      "stage": null,
-      "investors": "Polychain Capital to scale its institutional DeFi vault infrastructure platform Concrete",
+      "company": "Green Cabbage",
+      "amount": "$40.0M",
+      "stage": "Series B",
+      "investors": "Sageview Capital to accelerate the global expansion of its procurement intelligence software platform",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/blueprint-finance-announces-strategic-funding-round/",
+      "url": "https://www.thesaasnews.com/news/green-cabbage-raises-40m-series-b/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-20T01:26:12.703245-07:00"
+  },
+  {
+    "item": {
+      "company": "Velatir",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "Spintop Ventures and Ugly Duckling Ventures to scale its European AI infrastructure and compliance platform",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/velatir-raises-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-20T01:26:15.362549-07:00"
+  },
+  {
+    "item": {
+      "company": "Quick commerce babycare platform Peeko",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMGdGb0RTWUQ2dzVjTFZyQ05selVhUTRRX3FmRkdGNVdEVTJralVreWdTallnZzdKbmlSMGFidjRJYmtidUZoZXIydV9YODc2WndET3FrSlZPc3RMcEFRcjkyR1F0aXFqcTlnbWhUeGlQRU1DVUR1N0ZGTUlwbGRCTmc3bENwVThvTUc1d3BvYm5jMGdLenZQeXJBVQ?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-08-20T01:26:18.913250-07:00"
+  },
+  {
+    "item": {
+      "company": "XBE",
+      "amount": null,
+      "stage": null,
+      "investors": "PSG to accelerate development of its operational platform for heavy materials, logistics and construction",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/xbe-announces-growth-investment-from-psg/",
+      "priority": 6
+    },
+    "remind_at": "2026-08-20T01:26:21.476330-07:00"
+  },
+  {
+    "item": {
+      "company": "Callosum",
+      "amount": "$100.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMDJrRGhUVW9QUVhkRmc4U2dBZnpuMnVJVFlPNUt0T3JySXpBX2JhS19xcDJua19pbzVIS3FFem1WRlVDLUhuT0tsZjYtVlZUTzhFczZlbkdIbkxBLTFuMWpWdWlYanlkRmkxUlBJSW55a3VKcFZMbl85aDZuRUNNY1hJWS0taWc0WTJNZW1mWEQ3M05RaDZZb0F6SmlmY2hweEN1bFFkYXlXR1RTeGFXZmYwRW0?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-20T00:40:28.953809-07:00"
+    "remind_at": "2026-08-20T01:26:24.058437-07:00"
   }
 ]
