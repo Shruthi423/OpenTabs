@@ -26,5 +26,19 @@
       "priority": 9
     },
     "remind_at": "2026-08-20T11:14:50.773789-07:00"
+  },
+  {
+    "item": {
+      "company": "Bernie Sanders backs Angie Nixon",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/20/bernie-sanders-endorses-floridas-angie-nixon-for-senate",
+      "priority": 3
+    },
+    "remind_at": "2026-08-20T11:34:31.536838-07:00"
   }
 ]
