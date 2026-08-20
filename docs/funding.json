@@ -1,5 +1,39 @@
 [
   {
+    "id": "d8881e9336a321979cf9f52cb50e933a",
+    "company": "Vance",
+    "amount": "$5.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/20/vance-young-donors-fundraiser",
+    "priority": 3,
+    "founders": [
+      "Shayne Coplan",
+      "Garrett Ventry",
+      "Zach Witkoff"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T02:49:49.349501-07:00",
+    "status": "active"
+  },
+  {
+    "id": "3c549a23d1acba80d7d3fc9ff756b417",
+    "company": "Peeko",
+    "amount": "$7.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd2pjTjZTOTROR1E0M0JEVUo1RW1PcGR3Ny01YzJQUUNwUWxySWl6VnNMNHl1MEc2N3F1M2h1RW9YcTlsZktheEdrMnRUQnF1Y29HT3ZyXzEtelhuTGNTYUdNYWhjQ2l3SG1kNXpTakVYaVhxRHRlRFZXUUNFWEFJSTU0TkJrbm12c1YtN3QyUjA2RHBxS2Yyc2wyaFJyY1BqZ2Z6cXpfdmZ6bENNRkJXRjU3bjMzZjlnVzBN0gG7AUFVX3lxTFB3amNONlM5NE5HUTQzQkRVSjVFbU9wZHc3LTVjMlBRQ3BRbHJJaXpWc0w0eXUwRzY3cXUzaHVFb1hxOWxmS2F4R2sydFRCcXVjb0dPdnJfMS16WG5MY1NhR01haGNDaXdIbWQ1elNqRVhpWHFEdGVEVldRQ0VYQUlJNTROQmtubXZzVi03dDJSMDZEcHFLZjJzbDJoUnJjUGpnZnpxel92ZnpsQ01GQldGNTduMzNmOWdXME0?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T02:49:46.988641-07:00",
+    "status": "active"
+  },
+  {
     "id": "8f40706fea3520864c2f81c0c53bd61b",
     "company": "AI chip start-up Etched",
     "amount": "$700.0M",
