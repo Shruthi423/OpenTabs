@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "item": {
+      "company": "Veeda AI",
+      "amount": "$90.0M",
+      "stage": "Seed",
+      "investors": "a team of former Nvidia Corp",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-19T19:21:07.901196-07:00"
+  },
+  {
+    "item": {
+      "company": "Temporal reportedly in talks",
+      "amount": "$500.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/19/application-reliability-startup-temporal-reportedly-in-talks-for-500m-funding-round/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T19:21:11.174356-07:00"
+  },
+  {
+    "item": {
+      "company": "Exclusive",
+      "amount": "$1.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkEtNTZ4VWduNERSd2pFVzR1OHlTeHJaV2xISGVaZ2NuSGhuTTVFYjhJRkNOZEFHUkVzUW5IMm0zSWVBZGgxck5iQkFiSzlEZ1ZZbXBfMHAyem1yNXZhNGlSQ1ptVVpwMjFaUDlhQlU1cFRrN3ZOekVTNWVKOUFCV2VRNHVXbDFjRzNtemlyRjhNLU9Fb2hhWnpSWG1iclMxbXBBMkhDM3pYQUk?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-19T19:21:13.620095-07:00"
+  }
+]
