@@ -1,5 +1,35 @@
 [
   {
+    "id": "a32718a67f511158aed617694a6e9abd",
+    "company": "Paralo",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN1JxVXA2S0lDdHhTZHdjRE9vUWJ6dU52T1E2a1VvNGpaX241WGJEZmxoLWxmX1dwa2ZoTEcwUFBZWGZzdzJnUjY0ZWEyQkJfNjBBODJucFBUeGhXQUlBUU9jcFZzbkZkU0VvaU9qMFJiMklySjR1TFhudjEtRHhPbDFBLTFieFZPeXFVaFowZHBtSWR0V1Vz?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T08:04:47.620999-07:00",
+    "status": "active"
+  },
+  {
+    "id": "300462e691cf94f4921aec71fca0e573",
+    "company": "MIT spinoff Apollo Atomics",
+    "amount": "$31.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/08/20/mit-spinoff-apollo-atomics-raises-31m-to-build-factory-made-nuclear-reactors-for-ai-data-centers/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T08:04:44.972196-07:00",
+    "status": "active"
+  },
+  {
     "id": "d0285e2c4210323a3447bd67af767d0f",
     "company": "Amazon",
     "amount": "$7.5B",
