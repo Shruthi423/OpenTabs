@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "job": {
+      "title": "UI & Product Designer",
+      "company": "Unknown",
+      "location": "Remote",
+      "url": "https://himalayas.app/companies/webranking/jobs/ui-product-designer",
+      "salary": "See posting",
+      "description": "Stiamo cercando una persona per il ruolo di UI & Product Designer che entrer\u00e0 a far parte del del team di CX di Webranking.",
+      "posted_at": "Recently",
+      "source": "Himalayas",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-08-20T12:28:39.532315-07:00"
+  },
+  {
+    "job": {
+      "title": "Desarrollador Frontend Angular (Angular + Ionic)",
+      "company": "Unknown",
+      "location": "Remote",
+      "url": "https://himalayas.app/companies/velaio/jobs/desarrollador-frontend-angular-angular-ionic",
+      "salary": "See posting",
+      "description": "This is a remote position. Ubicaci\u00f3n:Remoto Nivel:IntermedioSobre el rolBuscamos unDesarrollador Frontend especializado en Angular, con experiencia enIonicy enfoque enUI/UX, que participe activamente en el desarrollo de aplicaciones web y m\u00f3viles modernas, escalables y bien estructuradas.",
+      "posted_at": "Recently",
+      "source": "Himalayas",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-08-20T12:28:41.306278-07:00"
+  }
+]
