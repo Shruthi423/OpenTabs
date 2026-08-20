@@ -45178,5 +45178,35 @@
     "roles": [],
     "first_seen": "2026-08-19T19:52:22.196486-07:00",
     "status": "active"
+  },
+  "032507ce9c9bd59afbcec5b019e7d24b": {
+    "id": "032507ce9c9bd59afbcec5b019e7d24b",
+    "company": "YardOps",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/yardops-raises-500000-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-19T21:21:44.790582-07:00",
+    "status": "active"
+  },
+  "cb32a154042ce82bde4ab4579b158d10": {
+    "id": "cb32a154042ce82bde4ab4579b158d10",
+    "company": "TravelX",
+    "amount": "Undisclosed",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/travelx-closes-series-a-round-plans-to-use-capital-for-product-innovation-ai-expansion/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-19T21:21:47.093303-07:00",
+    "status": "active"
   }
 }
