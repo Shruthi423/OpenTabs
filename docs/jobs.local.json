@@ -1,5 +1,23 @@
 [
   {
+    "id": "23c93dc77488df11f0d32a0eceb4940f",
+    "title": "User Experience Designer",
+    "company": "Epic",
+    "location": "Grand Island, NE",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4306619639",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-08-19T20:51:59.065341-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  {
     "id": "effd4a5b2447b7a35a0fed4ea0d0ddb0",
     "title": "Tabletop Accessories Product Designer",
     "company": "Syndicatebleu",
@@ -14,24 +32,6 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-19T20:32:43.477558-07:00",
-    "status": "active",
-    "applied_at": null
-  },
-  {
-    "id": "de1b3ee02bf4054cc7f940da8af51059",
-    "title": "Graphic Arts Specialist",
-    "company": "Web Business Solutions Inc",
-    "location": "Quantico, VA, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=7d4ca7430a8127b8",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "visa": null,
-    "founders": [],
-    "posted_at": "2026-08-18",
-    "priority": 4,
-    "first_seen": "2026-08-19T20:32:41.649533-07:00",
     "status": "active",
     "applied_at": null
   },
