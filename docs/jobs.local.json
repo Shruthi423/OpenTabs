@@ -1,5 +1,23 @@
 [
   {
+    "id": "0bbb0402adc9e2e90ac059a452f76463",
+    "title": "UX Designer - AI",
+    "company": "NetImpact Strategies Inc.",
+    "location": "Richmond, VA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4457054743",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-08-21T11:36:06.988881-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  {
     "id": "b031766fcd100ed9b6eaed6a9e6c6a3e",
     "title": "UI-UX-Programmer",
     "company": "Maven Workforce Inc.",
@@ -32,24 +50,6 @@
     "posted_at": "2026-08-20",
     "priority": 2,
     "first_seen": "2026-08-21T11:17:11.039283-07:00",
-    "status": "active",
-    "applied_at": null
-  },
-  {
-    "id": "1545bd068b388b60e51582a9bf7d18b2",
-    "title": "ServiceNow ITSM",
-    "company": "Nexcen Global",
-    "location": "Richmond, VA, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=0f94a8ae28f1c68e",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "visa": null,
-    "founders": [],
-    "posted_at": "2026-08-20",
-    "priority": 4,
-    "first_seen": "2026-08-21T11:17:08.993307-07:00",
     "status": "active",
     "applied_at": null
   },
