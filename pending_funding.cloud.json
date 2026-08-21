@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "The DOJ",
+      "company": "U.S. trade chief calls trying",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "Washington",
       "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/21/greer-china-trade-economy",
       "priority": 3
     },
-    "remind_at": "2026-08-21T09:55:44.614517-07:00"
-  },
-  {
-    "item": {
-      "company": "Trump admits tariffs",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/21/donald-trump-tariffs-300000-tons-ground-beef-imports/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-21T09:55:47.811923-07:00"
+    "remind_at": "2026-08-21T10:30:55.786901-07:00"
   }
 ]
