@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "item": {
+      "company": "Eric Schmidt",
+      "amount": "$100.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [
+        "Sergey Brin"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/21/eric-schmidt-google-sergey-brin-billionaire-opposition/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-21T08:32:55.547071-07:00"
+  }
+]

@@ -1,5 +1,22 @@
 [
   {
+    "id": "84154f06c05133ed55143cc539314c6c",
+    "company": "Eric Schmidt",
+    "amount": "$100.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/21/eric-schmidt-google-sergey-brin-billionaire-opposition/",
+    "priority": 3,
+    "founders": [
+      "Sergey Brin"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-21T08:02:56.547221-07:00",
+    "status": "active"
+  },
+  {
     "id": "777c6d1a47f93b022820025a12d12f58",
     "company": "Aligned Marketplace",
     "amount": "$16.0M",

@@ -46361,5 +46361,22 @@
     "roles": [],
     "first_seen": "2026-08-21T06:32:01.059627-07:00",
     "status": "active"
+  },
+  "84154f06c05133ed55143cc539314c6c": {
+    "id": "84154f06c05133ed55143cc539314c6c",
+    "company": "Eric Schmidt",
+    "amount": "$100.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/21/eric-schmidt-google-sergey-brin-billionaire-opposition/",
+    "priority": 3,
+    "founders": [
+      "Sergey Brin"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-21T08:02:56.547221-07:00",
+    "status": "active"
   }
 }
