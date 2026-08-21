@@ -1,30 +1,58 @@
 [
   {
     "item": {
-      "company": "Free Kitchen Lab",
-      "amount": null,
+      "company": "SHU.ai",
+      "amount": "$1.0M",
       "stage": "Seed",
-      "investors": null,
+      "investors": "Keiretsu Forum to advance its private AI hosting and document intelligence platform for enterprises",
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53T3ZVZ0tsYi1sdjhHeG5VSExnOTloQ2F6R3RvU2pQVHZsVEdPSDhMNGh2cVh6ZzgxN21vS2x4TjZMOHdrdmd1MHZMa0tfRkliZnNF?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/shu-ai-raises-1m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-08-20T21:53:09.470198-07:00"
+    "remind_at": "2026-08-20T22:34:22.737890-07:00"
   },
   {
     "item": {
-      "company": "Natural",
-      "amount": "$100.0M",
+      "company": "Math Magic",
+      "amount": "$50.0M",
+      "stage": "Series A",
+      "investors": "BAI Capital and HyT Capital to scale its AI 3D generation and production platform",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/math-magic-raises-50m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-20T22:34:25.853287-07:00"
+  },
+  {
+    "item": {
+      "company": "Former SpaceX engineer",
+      "amount": "$250.0M",
+      "stage": "Series C",
+      "investors": "Eclipse Capital",
+      "location": "Mountain View",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/former-spacex-engineer-lands-250m-for-muon-space-to-build-500-satellites-a-year/",
+      "priority": 6
+    },
+    "remind_at": "2026-08-20T22:34:29.044244-07:00"
+  },
+  {
+    "item": {
+      "company": "Colossal co-founder Ben Lamm",
+      "amount": "$20.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/natural-raises-100m-debt-financing/",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/astromech-raises-20m-3-8b-valuation-colossal-spinout/",
       "priority": 3
     },
-    "remind_at": "2026-08-20T21:53:11.745206-07:00"
+    "remind_at": "2026-08-20T22:34:31.988488-07:00"
   }
 ]
