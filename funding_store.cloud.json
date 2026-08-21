@@ -46549,5 +46549,20 @@
     "roles": [],
     "first_seen": "2026-08-21T14:18:30.857433-07:00",
     "status": "active"
+  },
+  "ee4d999365bfcebdb7f3edfb417abd5a": {
+    "id": "ee4d999365bfcebdb7f3edfb417abd5a",
+    "company": "Alex Jones no longer",
+    "amount": "$50.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/21/alex-jones-50-million-sandy-hook-families-1-25-billion/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-21T15:18:19.392994-07:00",
+    "status": "active"
   }
 }
