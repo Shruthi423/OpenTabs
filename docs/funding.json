@@ -1,5 +1,20 @@
 [
   {
+    "id": "37e103b7dd8d8283c8798dfd4ffc83bf",
+    "company": "DOJ",
+    "amount": "$400.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/21/doj-tiktok-biden-lawsuit-settlement",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-21T12:47:20.307547-07:00",
+    "status": "active"
+  },
+  {
     "id": "c4c046c73efca6037d4b82b013c47ef4",
     "company": "Constantinople",
     "amount": "$62.5M",

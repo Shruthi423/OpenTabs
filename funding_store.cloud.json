@@ -46519,5 +46519,20 @@
     "roles": [],
     "first_seen": "2026-08-21T11:54:59.815588-07:00",
     "status": "active"
+  },
+  "37e103b7dd8d8283c8798dfd4ffc83bf": {
+    "id": "37e103b7dd8d8283c8798dfd4ffc83bf",
+    "company": "DOJ",
+    "amount": "$400.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/21/doj-tiktok-biden-lawsuit-settlement",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-21T12:47:20.307547-07:00",
+    "status": "active"
   }
 }

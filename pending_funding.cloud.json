@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "Buddy Bites",
-      "amount": "$4.2M",
-      "stage": "Series A",
+      "company": "DOJ",
+      "amount": "$400.0M",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDJJSnljeTFUY0VvNGpwN0Nhb3FWVVBHZkx6WDFWWDVsRGMxTkEyWTBmQ3d3SU1ab1RsdUYyaUdUR25saFhGaVpGYk94QkMyZzlSTjZvazk4ZUVVUVVpT0Qzdmk4TWtRTlhyanMxTEMtYkpHcjAzR1BJblk2UDVIVUJnR3AwR05iMm1ya2hQLU5mU19ISUhv?oc=5",
-      "priority": 8
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/21/doj-tiktok-biden-lawsuit-settlement",
+      "priority": 3
     },
-    "remind_at": "2026-08-21T12:24:56.623377-07:00"
-  },
-  {
-    "item": {
-      "company": "Constantinople",
-      "amount": "$62.5M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFZKQ1U4NUNHbnhpakNRWS16c1Nna3Z4Q1BNUFlpZXhpQUEwS2w5eGJBUThpek5yMGRwcEtaSEpFZW9KT29oall0VzFsd21QZnJ1bUtCWVA0VkgtX1lZaWk3cDhwY2tfLUE3WGdLZlRSaGtmS3JjUHRDcGwxcUdRVTlqbXpFeXliaXZtcVpIREJnYUc5ZG0tbA?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-08-21T12:24:58.815426-07:00"
+    "remind_at": "2026-08-21T13:17:19.307389-07:00"
   }
 ]
