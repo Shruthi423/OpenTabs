@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Arintra",
-      "amount": "$25.0M",
-      "stage": "Series B",
-      "investors": "Define Ventures to scale its autonomous medical coding platform for healthcare providers",
+      "company": "Deepentix",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": "including Rockstart and tecnet equity",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/arintra-raises-25m-series-b/",
-      "priority": 7
+      "url": "https://www.thesaasnews.com/news/austrian-deep-tech-startup-deepentix-raises-six-figure-pre-seed-for-enterprise-ai-platform/",
+      "priority": 10
     },
-    "remind_at": "2026-08-21T00:58:43.787766-07:00"
+    "remind_at": "2026-08-21T01:36:19.620647-07:00"
+  },
+  {
+    "item": {
+      "company": "Int",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "South Korea",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/cnttech-invests-in-int-to-advance-ai-evaluation-and-operations-platform-for-enterprises/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-21T01:36:22.245610-07:00"
   }
 ]

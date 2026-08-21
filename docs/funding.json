@@ -1,5 +1,35 @@
 [
   {
+    "id": "96e53cd31205af28a97e73dd4be0ebd1",
+    "company": "Int",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/cnttech-invests-in-int-to-advance-ai-evaluation-and-operations-platform-for-enterprises/",
+    "priority": 3,
+    "founders": [],
+    "location": "South Korea",
+    "roles": [],
+    "first_seen": "2026-08-21T01:06:23.245772-07:00",
+    "status": "active"
+  },
+  {
+    "id": "dee6113c341275a86a49954e0318a4c3",
+    "company": "Deepentix",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "including Rockstart and tecnet equity",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/austrian-deep-tech-startup-deepentix-raises-six-figure-pre-seed-for-enterprise-ai-platform/",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-21T01:06:20.620812-07:00",
+    "status": "active"
+  },
+  {
     "id": "499b90ff13dd08506d511188fbbee7ce",
     "company": "Arintra",
     "amount": "$25.0M",
