@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "Yellow",
+      "company": "Skydio",
       "amount": null,
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/convergence-partners-leads-series-c-in-african-fintech-yellow-africa-global-funds/",
-      "priority": 6
-    },
-    "remind_at": "2026-08-21T03:03:02.169647-07:00"
-  },
-  {
-    "item": {
-      "company": "Why oil markets",
-      "amount": "$1.2M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/21/oil-markets-ignore-trump-truth-social-iran",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS2ViOVBOeHhDME5MdWRCSnIzLXJjZVJ5UWV2ZFdTRldLdHlJMUVvUDMzVjlPemhkUHdlUmhZY0VuMU1raWdsTzdHS1k0SHNHb19kWWxuN0p5bzhsTFBIQ0dnN2xLMC1zUkg3UmFlX1lOU2trR1ZoSlk1ZW1Hb2ZWS29FVVVFRWpDeVFyOUFkNzNuZ2FFc3N1ZGt0ZXpsMVgtb19OdjJiYWk?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-21T03:03:05.731403-07:00"
+    "remind_at": "2026-08-21T03:36:23.356075-07:00"
   }
 ]
