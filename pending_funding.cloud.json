@@ -1,44 +1,16 @@
 [
   {
     "item": {
-      "company": "Artwod",
+      "company": "heytruffle",
       "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/artwod-raises-1-1m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-20T23:17:42.462401-07:00"
-  },
-  {
-    "item": {
-      "company": "SnerpaPower",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/snerpapower-raises-3-4m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-20T23:17:44.999770-07:00"
-  },
-  {
-    "item": {
-      "company": "that",
-      "amount": "$111.5M",
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "Funding Fort Lauderdale",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFEtUnRCV09oYm1LX1V0SElVbGw5WjV0Sm1jNXVFa3VWd0xYcVBWVEVvcW5RVC1kVTF4OHVLU0R2aW1NT0JPYkhOQkxQaGJxU3FpUnRSWl94SWt3dkNsVjg3elFaTWFpUHQxYVRqbUlQa0lOSGluQUdrNzF2YUplcUJTUmlFazlaNkV0LWNoT1BDNXFxMDljdDhYaU5Qcm5nc3c?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/heytruffle-raises-funding/",
       "priority": 3
     },
-    "remind_at": "2026-08-20T23:17:47.531656-07:00"
+    "remind_at": "2026-08-21T00:06:16.105025-07:00"
   }
 ]
