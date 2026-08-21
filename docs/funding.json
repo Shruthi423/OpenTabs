@@ -1,5 +1,56 @@
 [
   {
+    "id": "1d5ac10e570100a000605bf9eaeafd1f",
+    "company": "Stripe Buys A.I. Start-Up OpenRouter",
+    "amount": "$7.5B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81Z09XYkpQZUoxejVlZWZFR3JJZGJLTi0weVdoWERmVW5kSVVzNmQyQjZYa1JFQ2pId0QwNV9CU2M2d3BTeWJ2ZXNjb2dYT2ZHYmstTklEaFNHdlYzbHdMNFpuQmZaWUpTcHB2VmFXWUM4eUNmOW9lVg?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [
+      {
+        "title": "Motion Designer, Experiential",
+        "url": "https://stripe.com/jobs/search?gh_jid=8047129",
+        "location": "US"
+      }
+    ],
+    "first_seen": "2026-08-21T08:48:35.393564-07:00",
+    "status": "active"
+  },
+  {
+    "id": "bcfc073dbb88dfb814c085e6cb08d76d",
+    "company": "Harry and Meghan\u2019s homecoming comes",
+    "amount": "$60.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/21/harry-and-meghan-homecoming-multimillion-dollar-tax-catch-waiting-four-years-shield-60-million-fortune/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-21T08:48:32.090257-07:00",
+    "status": "active"
+  },
+  {
+    "id": "fb7c4132fc465917578579b9aad05a4c",
+    "company": "Starcloud",
+    "amount": "$250.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-21T08:48:28.826784-07:00",
+    "status": "active"
+  },
+  {
     "id": "84154f06c05133ed55143cc539314c6c",
     "company": "Eric Schmidt",
     "amount": "$100.0M",
