@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Just",
-      "amount": "$1.0B",
-      "stage": null,
+      "company": "Buddy Bites",
+      "amount": "$4.2M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0JDWmFjZkhjdXkzMmhiM1JDanRkYno3ODFpcnFPQnlabXJmN0xDdnV0eTdHSERjVmpsM015dVJHaU5HMzBISmNIYmFod1NGdk1kc2lHSXF3TllYQ2pBeV85eklOZFc2b3ptMmNHemxBRGUyblFBaGtsT3k0WnV1SQ?oc=5",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDJJSnljeTFUY0VvNGpwN0Nhb3FWVVBHZkx6WDFWWDVsRGMxTkEyWTBmQ3d3SU1ab1RsdUYyaUdUR25saFhGaVpGYk94QkMyZzlSTjZvazk4ZUVVUVVpT0Qzdmk4TWtRTlhyanMxTEMtYkpHcjAzR1BJblk2UDVIVUJnR3AwR05iMm1ya2hQLU5mU19ISUhv?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-21T11:05:08.382301-07:00"
+    "remind_at": "2026-08-21T12:24:56.623377-07:00"
+  },
+  {
+    "item": {
+      "company": "Constantinople",
+      "amount": "$62.5M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFZKQ1U4NUNHbnhpakNRWS16c1Nna3Z4Q1BNUFlpZXhpQUEwS2w5eGJBUThpek5yMGRwcEtaSEpFZW9KT29oall0VzFsd21QZnJ1bUtCWVA0VkgtX1lZaWk3cDhwY2tfLUE3WGdLZlRSaGtmS3JjUHRDcGwxcUdRVTlqbXpFeXliaXZtcVpIREJnYUc5ZG0tbA?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-08-21T12:24:58.815426-07:00"
   }
 ]

@@ -46489,5 +46489,35 @@
     "roles": [],
     "first_seen": "2026-08-21T10:35:09.382471-07:00",
     "status": "active"
+  },
+  "405b0ca7055a85a3b38174259cad34de": {
+    "id": "405b0ca7055a85a3b38174259cad34de",
+    "company": "Buddy Bites",
+    "amount": "$4.2M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDJJSnljeTFUY0VvNGpwN0Nhb3FWVVBHZkx6WDFWWDVsRGMxTkEyWTBmQ3d3SU1ab1RsdUYyaUdUR25saFhGaVpGYk94QkMyZzlSTjZvazk4ZUVVUVVpT0Qzdmk4TWtRTlhyanMxTEMtYkpHcjAzR1BJblk2UDVIVUJnR3AwR05iMm1ya2hQLU5mU19ISUhv?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-21T11:54:57.623545-07:00",
+    "status": "active"
+  },
+  "c4c046c73efca6037d4b82b013c47ef4": {
+    "id": "c4c046c73efca6037d4b82b013c47ef4",
+    "company": "Constantinople",
+    "amount": "$62.5M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFZKQ1U4NUNHbnhpakNRWS16c1Nna3Z4Q1BNUFlpZXhpQUEwS2w5eGJBUThpek5yMGRwcEtaSEpFZW9KT29oall0VzFsd21QZnJ1bUtCWVA0VkgtX1lZaWk3cDhwY2tfLUE3WGdLZlRSaGtmS3JjUHRDcGwxcUdRVTlqbXpFeXliaXZtcVpIREJnYUc5ZG0tbA?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-21T11:54:59.815588-07:00",
+    "status": "active"
   }
 }
