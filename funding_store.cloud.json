@@ -46534,5 +46534,20 @@
     "roles": [],
     "first_seen": "2026-08-21T12:47:20.307547-07:00",
     "status": "active"
+  },
+  "0159b1eb49351537ed8455e6fa1ad74e": {
+    "id": "0159b1eb49351537ed8455e6fa1ad74e",
+    "company": "YouTube offers creators millions",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/21/youtube-netflix-millions/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-21T14:18:30.857433-07:00",
+    "status": "active"
   }
 }
