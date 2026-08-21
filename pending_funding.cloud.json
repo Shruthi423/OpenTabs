@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "Deepentix",
+      "company": "Resilire",
       "amount": null,
-      "stage": "Pre-Seed",
-      "investors": "including Rockstart and tecnet equity",
+      "stage": "Series B",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/austrian-deep-tech-startup-deepentix-raises-six-figure-pre-seed-for-enterprise-ai-platform/",
-      "priority": 10
+      "url": "https://www.thesaasnews.com/news/resilire-raises-1-73b-series-b/",
+      "priority": 7
     },
-    "remind_at": "2026-08-21T01:36:19.620647-07:00"
-  },
-  {
-    "item": {
-      "company": "Int",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "South Korea",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/cnttech-invests-in-int-to-advance-ai-evaluation-and-operations-platform-for-enterprises/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-21T01:36:22.245610-07:00"
+    "remind_at": "2026-08-21T02:27:10.891851-07:00"
   }
 ]
