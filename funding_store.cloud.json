@@ -46030,5 +46030,35 @@
     "roles": [],
     "first_seen": "2026-08-20T19:42:35.328972-07:00",
     "status": "active"
+  },
+  "910ebd0482d0a3aeabf841180ddae3f7": {
+    "id": "910ebd0482d0a3aeabf841180ddae3f7",
+    "company": "Free Kitchen Lab",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53T3ZVZ0tsYi1sdjhHeG5VSExnOTloQ2F6R3RvU2pQVHZsVEdPSDhMNGh2cVh6ZzgxN21vS2x4TjZMOHdrdmd1MHZMa0tfRkliZnNF?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T21:23:10.470378-07:00",
+    "status": "active"
+  },
+  "0959e0cc6fedc55848fbdefa701f7581": {
+    "id": "0959e0cc6fedc55848fbdefa701f7581",
+    "company": "Natural",
+    "amount": "$100.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/natural-raises-100m-debt-financing/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T21:23:12.745391-07:00",
+    "status": "active"
   }
 }
