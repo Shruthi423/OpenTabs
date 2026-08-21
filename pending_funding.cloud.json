@@ -1,16 +1,16 @@
 [
   {
     "item": {
-      "company": "heytruffle",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Funding Fort Lauderdale",
+      "company": "Arintra",
+      "amount": "$25.0M",
+      "stage": "Series B",
+      "investors": "Define Ventures to scale its autonomous medical coding platform for healthcare providers",
+      "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/heytruffle-raises-funding/",
-      "priority": 3
+      "url": "https://www.thesaasnews.com/news/arintra-raises-25m-series-b/",
+      "priority": 7
     },
-    "remind_at": "2026-08-21T00:06:16.105025-07:00"
+    "remind_at": "2026-08-21T00:58:43.787766-07:00"
   }
 ]
