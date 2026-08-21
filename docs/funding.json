@@ -1,5 +1,35 @@
 [
   {
+    "id": "48f888015c2e7c355f99dae5bd34ab40",
+    "company": "Why oil markets",
+    "amount": "$1.2M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/21/oil-markets-ignore-trump-truth-social-iran",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-21T02:33:06.731562-07:00",
+    "status": "active"
+  },
+  {
+    "id": "46477f3ae36b2f59d7b04de03fc414ec",
+    "company": "Yellow",
+    "amount": "Undisclosed",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/convergence-partners-leads-series-c-in-african-fintech-yellow-africa-global-funds/",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-21T02:33:03.169812-07:00",
+    "status": "active"
+  },
+  {
     "id": "28ab44b6aae9f7cce77c8942260bc2f6",
     "company": "Resilire",
     "amount": "Undisclosed",
