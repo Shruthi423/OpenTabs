@@ -46120,5 +46120,50 @@
     "roles": [],
     "first_seen": "2026-08-20T22:04:32.988637-07:00",
     "status": "active"
+  },
+  "8476dc27bc6e745da38f5feb719ae855": {
+    "id": "8476dc27bc6e745da38f5feb719ae855",
+    "company": "Artwod",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/artwod-raises-1-1m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T22:47:43.462547-07:00",
+    "status": "active"
+  },
+  "704e1805ec9df1639e91089f5bed5fe2": {
+    "id": "704e1805ec9df1639e91089f5bed5fe2",
+    "company": "SnerpaPower",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/snerpapower-raises-3-4m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T22:47:45.999917-07:00",
+    "status": "active"
+  },
+  "9827091df867ce1f986f4a69397a87b8": {
+    "id": "9827091df867ce1f986f4a69397a87b8",
+    "company": "that",
+    "amount": "$111.5M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFEtUnRCV09oYm1LX1V0SElVbGw5WjV0Sm1jNXVFa3VWd0xYcVBWVEVvcW5RVC1kVTF4OHVLU0R2aW1NT0JPYkhOQkxQaGJxU3FpUnRSWl94SWt3dkNsVjg3elFaTWFpUHQxYVRqbUlQa0lOSGluQUdrNzF2YUplcUJTUmlFazlaNkV0LWNoT1BDNXFxMDljdDhYaU5Qcm5nc3c?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-20T22:47:48.531787-07:00",
+    "status": "active"
   }
 }
