@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Skydio",
-      "amount": null,
+      "company": "Former SpaceX engineers\u2019 Castelion",
+      "amount": "$1.0B",
+      "stage": "Series C",
+      "investors": null,
+      "location": "California",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/former-spacex-engineers-castelion-raises-1b-at-13b-valuation-to-mass-produce-hypersonic-weapons/",
+      "priority": 6
+    },
+    "remind_at": "2026-08-21T04:16:29.823519-07:00"
+  },
+  {
+    "item": {
+      "company": "Imperial College grads\u2019 Oshen",
+      "amount": "$5.0M",
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "Plymouth",
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS2ViOVBOeHhDME5MdWRCSnIzLXJjZVJ5UWV2ZFdTRldLdHlJMUVvUDMzVjlPemhkUHdlUmhZY0VuMU1raWdsTzdHS1k0SHNHb19kWWxuN0p5bzhsTFBIQ0dnN2xLMC1zUkg3UmFlX1lOU2trR1ZoSlk1ZW1Hb2ZWS29FVVVFRWpDeVFyOUFkNzNuZ2FFc3N1ZGt0ZXpsMVgtb19OdjJiYWk?oc=5",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/oshen-raises-5m-hurricane-tested-ocean-robots/",
       "priority": 3
     },
-    "remind_at": "2026-08-21T03:36:23.356075-07:00"
+    "remind_at": "2026-08-21T04:16:33.145452-07:00"
   }
 ]

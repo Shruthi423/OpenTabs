@@ -46301,5 +46301,35 @@
     ],
     "first_seen": "2026-08-21T03:06:24.356245-07:00",
     "status": "active"
+  },
+  "665a396148f5b589ac030b822404728a": {
+    "id": "665a396148f5b589ac030b822404728a",
+    "company": "Former SpaceX engineers\u2019 Castelion",
+    "amount": "$1.0B",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/former-spacex-engineers-castelion-raises-1b-at-13b-valuation-to-mass-produce-hypersonic-weapons/",
+    "priority": 6,
+    "founders": [],
+    "location": "California",
+    "roles": [],
+    "first_seen": "2026-08-21T03:46:30.823678-07:00",
+    "status": "active"
+  },
+  "c816ba7960d519022f5344ac5ae05d75": {
+    "id": "c816ba7960d519022f5344ac5ae05d75",
+    "company": "Imperial College grads\u2019 Oshen",
+    "amount": "$5.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/oshen-raises-5m-hurricane-tested-ocean-robots/",
+    "priority": 3,
+    "founders": [],
+    "location": "Plymouth",
+    "roles": [],
+    "first_seen": "2026-08-21T03:46:34.145603-07:00",
+    "status": "active"
   }
 }
