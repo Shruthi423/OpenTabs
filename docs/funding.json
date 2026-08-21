@@ -1,5 +1,35 @@
 [
   {
+    "id": "0d800cecad9b21755641ee4bb677f549",
+    "company": "Trump admits tariffs",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/21/donald-trump-tariffs-300000-tons-ground-beef-imports/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-21T09:25:48.812099-07:00",
+    "status": "active"
+  },
+  {
+    "id": "6b1f1b17a48cb8ce5687f24476e4403e",
+    "company": "The DOJ",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-21T09:25:45.614660-07:00",
+    "status": "active"
+  },
+  {
     "id": "1d5ac10e570100a000605bf9eaeafd1f",
     "company": "Stripe Buys A.I. Start-Up OpenRouter",
     "amount": "$7.5B",

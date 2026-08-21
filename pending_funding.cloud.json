@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "Starcloud",
-      "amount": "$250.0M",
+      "company": "The DOJ",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
       "priority": 3
     },
-    "remind_at": "2026-08-21T09:18:27.826575-07:00"
+    "remind_at": "2026-08-21T09:55:44.614517-07:00"
   },
   {
     "item": {
-      "company": "Harry and Meghan\u2019s homecoming comes",
-      "amount": "$60.0M",
+      "company": "Trump admits tariffs",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/08/21/harry-and-meghan-homecoming-multimillion-dollar-tax-catch-waiting-four-years-shield-60-million-fortune/",
+      "url": "https://fortune.com/2026/08/21/donald-trump-tariffs-300000-tons-ground-beef-imports/",
       "priority": 3
     },
-    "remind_at": "2026-08-21T09:18:31.090054-07:00"
-  },
-  {
-    "item": {
-      "company": "Stripe Buys A.I. Start-Up OpenRouter",
-      "amount": "$7.5B",
-      "stage": null,
-      "investors": null,
-      "location": "New York",
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81Z09XYkpQZUoxejVlZWZFR3JJZGJLTi0weVdoWERmVW5kSVVzNmQyQjZYa1JFQ2pId0QwNV9CU2M2d3BTeWJ2ZXNjb2dYT2ZHYmstTklEaFNHdlYzbHdMNFpuQmZaWUpTcHB2VmFXWUM4eUNmOW9lVg?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-21T09:18:34.393374-07:00"
+    "remind_at": "2026-08-21T09:55:47.811923-07:00"
   }
 ]
