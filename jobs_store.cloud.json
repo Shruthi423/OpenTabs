@@ -14075,5 +14075,23 @@
     "first_seen": "2026-08-21T11:54:33.038202-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "3f28ac7680a77707741a7f9d304be455": {
+    "id": "3f28ac7680a77707741a7f9d304be455",
+    "title": "UX Engineer at PostHog",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "$180",
+    "url": "https://remotefirstjobs.com/companies/posthog/jobs/ux-engineer-851878",
+    "source": "JobsCollider-Product",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-08-21T20:08:00.447459-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
