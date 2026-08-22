@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "item": {
+      "company": "TikTok settles children\u2019s privacy suit",
+      "amount": "$400.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/22/tiktok-settles-childrens-privacy-suit-with-doj-for-400-million/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-22T08:51:27.369053-07:00"
+  },
+  {
+    "item": {
+      "company": "Trump remakes Rose Garden",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/22/trump-rose-garden-statues-anonymous-donors-crow/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-22T08:51:30.960725-07:00"
+  },
+  {
+    "item": {
+      "company": "Harvard",
+      "amount": "$53.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/22/harvard-morgue-settlement-court-forced-53-million/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-22T08:51:33.462302-07:00"
+  }
+]

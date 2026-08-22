@@ -46639,5 +46639,50 @@
     "roles": [],
     "first_seen": "2026-08-22T02:50:33.251745-07:00",
     "status": "active"
+  },
+  "96cbb4b884b137b0500f99cbd85a88c7": {
+    "id": "96cbb4b884b137b0500f99cbd85a88c7",
+    "company": "TikTok settles children\u2019s privacy suit",
+    "amount": "$400.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/22/tiktok-settles-childrens-privacy-suit-with-doj-for-400-million/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-22T08:21:28.369253-07:00",
+    "status": "active"
+  },
+  "5a7bae9b96a74a518747fa3424fec1f4": {
+    "id": "5a7bae9b96a74a518747fa3424fec1f4",
+    "company": "Trump remakes Rose Garden",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/22/trump-rose-garden-statues-anonymous-donors-crow/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-22T08:21:31.960923-07:00",
+    "status": "active"
+  },
+  "795cd50cd8660c5b5e1210cd91cfdabd": {
+    "id": "795cd50cd8660c5b5e1210cd91cfdabd",
+    "company": "Harvard",
+    "amount": "$53.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/22/harvard-morgue-settlement-court-forced-53-million/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-22T08:21:34.462463-07:00",
+    "status": "active"
   }
 }
