@@ -46714,5 +46714,20 @@
     "roles": [],
     "first_seen": "2026-08-22T10:15:58.677174-07:00",
     "status": "active"
+  },
+  "2e1b8362443ae8595fda3f36176ea9d8": {
+    "id": "2e1b8362443ae8595fda3f36176ea9d8",
+    "company": "Even billionaires",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/billionaires-worried-gen-z-kids-cant-keep-job/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-22T10:57:56.397123-07:00",
+    "status": "active"
   }
 }

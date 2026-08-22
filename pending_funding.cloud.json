@@ -1,16 +1,16 @@
 [
   {
     "item": {
-      "company": "Nigerian Fintech Pouchers",
+      "company": "Even billionaires",
       "amount": null,
-      "stage": "Pre-Seed",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2QjdUQW90QlpET0tYN2ZwNFVNYVd0RXh3ZnNrbHJFVDZWcjRCVXNIOVBacDZWZkNKaEJMZHppMkZsQnVxUm0wT2wzd2UyUXIwbEhDdVZTd1BkZTloRUtGV0dPWlFJal9VcWR1SGd2MnRIcy0xMTdOanBEd2s?oc=5",
-      "priority": 10
+      "source": "Fortune",
+      "url": "https://fortune.com/article/billionaires-worried-gen-z-kids-cant-keep-job/",
+      "priority": 3
     },
-    "remind_at": "2026-08-22T10:45:57.676973-07:00"
+    "remind_at": "2026-08-22T11:27:55.396904-07:00"
   }
 ]
