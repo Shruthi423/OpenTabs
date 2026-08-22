@@ -1,5 +1,20 @@
 [
   {
+    "id": "555e624ae8fd8b6f6c4f061f5e4de0c5",
+    "company": "Trump",
+    "amount": "$272.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/22/trump-oil-companies-windfall-tax-money/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-22T08:45:18.934375-07:00",
+    "status": "active"
+  },
+  {
     "id": "795cd50cd8660c5b5e1210cd91cfdabd",
     "company": "Harvard",
     "amount": "$53.0M",
