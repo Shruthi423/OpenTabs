@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "item": {
+      "company": "Synthetic everything",
+      "amount": "$25.0M",
+      "stage": null,
+      "investors": null,
+      "location": "U.S.",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/23/median-strategies-poll-fake-bots",
+      "priority": 3
+    },
+    "remind_at": "2026-08-23T05:14:53.742397-07:00"
+  }
+]
