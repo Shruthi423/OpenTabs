@@ -46945,5 +46945,35 @@
     ],
     "first_seen": "2026-08-23T07:17:55.399444-07:00",
     "status": "active"
+  },
+  "69686e15ce14ae7c9cf37b75d46b1f3b": {
+    "id": "69686e15ce14ae7c9cf37b75d46b1f3b",
+    "company": "Traders bet bitcoin",
+    "amount": "$4.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/23/bitcoin-squeeze-treasury-buyback-shorts-blown-up/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-23T07:48:28.574809-07:00",
+    "status": "active"
+  },
+  "d53156bf940452278639dd2d567cc24d": {
+    "id": "d53156bf940452278639dd2d567cc24d",
+    "company": "From Navi",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR0FvblF5WEY4Ukk3dnZENldzVGRkS1d3MUxQTzVUdjc3eHhqZWNWbHp3MExPSzZZdlh1eVBZb2l6TnlBbllPX0RpajVVUWV5MTBXbU1FV1RlWUFTMDJfRWNhNVlJeVZwWjEyZ0QxZ1E1ZzhUX3BjVmVCYkp4d21yb2xwV3g3aHV1Vm5sZzlFMVU2SkxBQUZZ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-23T07:48:31.600828-07:00",
+    "status": "active"
   }
 }
