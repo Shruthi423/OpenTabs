@@ -46924,5 +46924,26 @@
     "roles": [],
     "first_seen": "2026-08-23T06:53:33.489062-07:00",
     "status": "active"
+  },
+  "77451c36f8d3a5bc8d6e5fc664cc67b0": {
+    "id": "77451c36f8d3a5bc8d6e5fc664cc67b0",
+    "company": "Rillet has",
+    "amount": "$100.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjlTdnJqNDlIQXpGM2hqNXBZdGNVTDZNUlJ4Mk1sVk9BLVZwa2U3bW1KcjZxSUppLW15QktqWVRZMDZhYVRKV0d1LVR6MTA1bW1ONG0wUEVuSXFtQ0xHZzdjZmxCUXBsay1UT2J0MVRaRktaQURtTmo4QUtKZTVMSlhBb21LNVI2ZkJveWhfQQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/rillet/a157ef05-3218-4b42-ae79-a3d6d95c4bde",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-08-23T07:17:55.399444-07:00",
+    "status": "active"
   }
 }

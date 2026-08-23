@@ -40,5 +40,19 @@
       "priority": 3
     },
     "remind_at": "2026-08-23T07:23:32.488911-07:00"
+  },
+  {
+    "item": {
+      "company": "Rillet has",
+      "amount": "$100.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjlTdnJqNDlIQXpGM2hqNXBZdGNVTDZNUlJ4Mk1sVk9BLVZwa2U3bW1KcjZxSUppLW15QktqWVRZMDZhYVRKV0d1LVR6MTA1bW1ONG0wUEVuSXFtQ0xHZzdjZmxCUXBsay1UT2J0MVRaRktaQURtTmo4QUtKZTVMSlhBb21LNVI2ZkJveWhfQQ?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-23T07:47:54.399257-07:00"
   }
 ]
