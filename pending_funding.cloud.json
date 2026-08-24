@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "Kazimi",
+      "company": "Atlas Quant",
       "amount": null,
-      "stage": "Pre-Seed",
-      "investors": "Market One Capital to combat bot activity in mobile marketing",
-      "location": "Berlin",
+      "stage": "Seed",
+      "investors": null,
+      "location": "Seed Round London",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kazimi-raises-2-2m-pre-seed/",
-      "priority": 10
+      "url": "https://www.thesaasnews.com/news/atlas-quant-closes-oversubscribed-seed-round-to-verify-quant-strategies-dealroom-co/",
+      "priority": 9
     },
-    "remind_at": "2026-08-24T01:15:13.305472-07:00"
+    "remind_at": "2026-08-24T01:59:16.191907-07:00"
   },
   {
     "item": {
-      "company": "Fasset",
-      "amount": "$68.0M",
-      "stage": "Series C",
-      "investors": null,
+      "company": "t54 Labs",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": "Anagram, PL Capital, and Franklin Templeton to build a trust layer for autonomous AI economic agents",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/fasset-raises-68m-series-c/",
-      "priority": 6
+      "url": "https://www.thesaasnews.com/news/t54-labs-raises-5m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-08-24T01:15:15.845353-07:00"
-  },
-  {
-    "item": {
-      "company": "Science-first skincare brand Asaya",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSE9LOURFa2xCVlVtSFZqZVBYRU5DNXhWMnVfM1VOR1M2X3czWHpLZnRLejdhLV82M2pzdjd6RU5xNW13MVowclpDRURmZWlXSWhoTzUxU29OUVZOeEtJQjRFTjlmQnA3WHBPTGNUR3l4MDNIcWllaDVnZDVLWFRpWExXZm1MSFduNlVjYUpmWUV1OEh0WkQ1WWZwWUY2SkRoQXNoNGFnMVFpQ0VZZE9nVUwwcEVvbDNiLVc5emVsdE94cXplSGhYb0ZvVdIBywFBVV95cUxQSE9LOURFa2xCVlVtSFZqZVBYRU5DNXhWMnVfM1VOR1M2X3czWHpLZnRLejdhLV82M2pzdjd6RU5xNW13MVowclpDRURmZWlXSWhoTzUxU29OUVZOeEtJQjRFTjlmQnA3WHBPTGNUR3l4MDNIcWllaDVnZDVLWFRpWExXZm1MSFduNlVjYUpmWUV1OEh0WkQ1WWZwWUY2SkRoQXNoNGFnMVFpQ0VZZE9nVUwwcEVvbDNiLVc5emVsdE94cXplSGhYb0ZvVQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-24T01:15:18.965974-07:00"
+    "remind_at": "2026-08-24T01:59:18.730122-07:00"
   }
 ]

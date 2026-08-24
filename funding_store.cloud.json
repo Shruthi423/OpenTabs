@@ -47245,5 +47245,35 @@
     "roles": [],
     "first_seen": "2026-08-24T00:45:19.966129-07:00",
     "status": "active"
+  },
+  "5da75dbdc12a72b0a33311549ba820e2": {
+    "id": "5da75dbdc12a72b0a33311549ba820e2",
+    "company": "Atlas Quant",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/atlas-quant-closes-oversubscribed-seed-round-to-verify-quant-strategies-dealroom-co/",
+    "priority": 9,
+    "founders": [],
+    "location": "Seed Round London",
+    "roles": [],
+    "first_seen": "2026-08-24T01:29:17.192067-07:00",
+    "status": "active"
+  },
+  "5922091c8489095de2402dc39a1c782d": {
+    "id": "5922091c8489095de2402dc39a1c782d",
+    "company": "t54 Labs",
+    "amount": "$5.0M",
+    "stage": "Seed",
+    "investors": "Anagram, PL Capital, and Franklin Templeton to build a trust layer for autonomous AI economic agents",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/t54-labs-raises-5m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-24T01:29:19.730275-07:00",
+    "status": "active"
   }
 }
