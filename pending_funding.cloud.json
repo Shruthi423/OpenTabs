@@ -68,5 +68,19 @@
       "priority": 3
     },
     "remind_at": "2026-08-24T04:23:34.352796-07:00"
+  },
+  {
+    "item": {
+      "company": "Boldr",
+      "amount": "$5.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/boldr-raises-5m-to-expand-hvac-platform-in-us/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-24T04:52:08.192989-07:00"
   }
 ]
