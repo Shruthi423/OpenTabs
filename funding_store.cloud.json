@@ -47305,5 +47305,50 @@
     "roles": [],
     "first_seen": "2026-08-24T02:24:39.025707-07:00",
     "status": "active"
+  },
+  "4faf195f2799500e0e40ec663bcb17c2": {
+    "id": "4faf195f2799500e0e40ec663bcb17c2",
+    "company": "Hungarian EdTech BOOKR",
+    "amount": "Undisclosed",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXRsOWI4QWd0YVhTdlQ1cE9lbXByRTljZW9oUGp0QlVEY3VHZGRGajVhWEY4dElhT0ktYVZzcU96cmVDU1dkdlMyT3RkdVd3NXBPbUxobzFsRlJ6WWpnRWp5UWYxUjlzV0ctd2hOLVkzRDhpWVVuTDg2S2JtVGhCdG5fWjYzVjBudHdYVXBPX3ZLNVlLbURQYWRQVHNHSFI2?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-24T03:10:40.615471-07:00",
+    "status": "active"
+  },
+  "50aefa835c7648cf6beffa67119cb368": {
+    "id": "50aefa835c7648cf6beffa67119cb368",
+    "company": "Despite a $45 million",
+    "amount": "$45.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/big-bang-theory-star-kunal-nayyar-work-life-balance-45-million-net-worth/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-24T03:10:43.825303-07:00",
+    "status": "active"
+  },
+  "b7ff1f86ad2f820b20718dc5a7ec9f2f": {
+    "id": "b7ff1f86ad2f820b20718dc5a7ec9f2f",
+    "company": "Nvidia reportedly",
+    "amount": "$30.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/nvidia-reportedly-eyes-perplexity-at-a-30b-valuation-as-ai-search-becomes-an-agent-business/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-24T03:10:47.024682-07:00",
+    "status": "active"
   }
 }

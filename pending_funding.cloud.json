@@ -1,30 +1,44 @@
 [
   {
     "item": {
-      "company": "Atommer",
+      "company": "Hungarian EdTech BOOKR",
       "amount": null,
-      "stage": "Seed",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yX3pSanYtVWFia0ZtRVdEeHhpaThyMWF3Ml9MV0FxYXBQQVBMQ19mYnVkZV9PbGQzSjl0Wkc5TWx1VkdKRE5hal9KVTNNTER1NE9N?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXRsOWI4QWd0YVhTdlQ1cE9lbXByRTljZW9oUGp0QlVEY3VHZGRGajVhWEY4dElhT0ktYVZzcU96cmVDU1dkdlMyT3RkdVd3NXBPbUxobzFsRlJ6WWpnRWp5UWYxUjlzV0ctd2hOLVkzRDhpWVVuTDg2S2JtVGhCdG5fWjYzVjBudHdYVXBPX3ZLNVlLbURQYWRQVHNHSFI2?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-24T02:54:34.670044-07:00"
+    "remind_at": "2026-08-24T03:40:39.615306-07:00"
   },
   {
     "item": {
-      "company": "BOOKR",
-      "amount": null,
-      "stage": "Series A",
-      "investors": "TCEE Fund IV to scale its literacy and language learning solutions across global markets",
+      "company": "Despite a $45 million",
+      "amount": "$45.0M",
+      "stage": null,
+      "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/bookr-raises-6-1m-series-a/",
-      "priority": 8
+      "source": "Fortune",
+      "url": "https://fortune.com/article/big-bang-theory-star-kunal-nayyar-work-life-balance-45-million-net-worth/",
+      "priority": 3
     },
-    "remind_at": "2026-08-24T02:54:38.025542-07:00"
+    "remind_at": "2026-08-24T03:40:42.825148-07:00"
+  },
+  {
+    "item": {
+      "company": "Nvidia reportedly",
+      "amount": "$30.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/nvidia-reportedly-eyes-perplexity-at-a-30b-valuation-as-ai-search-becomes-an-agent-business/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-24T03:40:46.024519-07:00"
   }
 ]
