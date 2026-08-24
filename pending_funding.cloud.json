@@ -1,44 +1,72 @@
 [
   {
     "item": {
-      "company": "Hungarian EdTech BOOKR",
+      "company": "Embedd",
       "amount": null,
-      "stage": "Series A",
-      "investors": null,
+      "stage": "Pre-Seed",
+      "investors": "Seedcamp to scale its software infrastructure platform for physical AI development",
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXRsOWI4QWd0YVhTdlQ1cE9lbXByRTljZW9oUGp0QlVEY3VHZGRGajVhWEY4dElhT0ktYVZzcU96cmVDU1dkdlMyT3RkdVd3NXBPbUxobzFsRlJ6WWpnRWp5UWYxUjlzV0ctd2hOLVkzRDhpWVVuTDg2S2JtVGhCdG5fWjYzVjBudHdYVXBPX3ZLNVlLbURQYWRQVHNHSFI2?oc=5",
-      "priority": 8
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/embedd-raises-2-31m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-08-24T03:40:39.615306-07:00"
+    "remind_at": "2026-08-24T04:23:23.272202-07:00"
   },
   {
     "item": {
-      "company": "Despite a $45 million",
-      "amount": "$45.0M",
+      "company": "AuraGxP",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": "Seed Funding Boston",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/auragxp-closes-first-seed-funding-round/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-24T04:23:25.913712-07:00"
+  },
+  {
+    "item": {
+      "company": "Target",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/article/big-bang-theory-star-kunal-nayyar-work-life-balance-45-million-net-worth/",
+      "url": "https://fortune.com/2026/08/24/target-starbucks-nike-fiddelke-niccol-hill-turnarounds/",
       "priority": 3
     },
-    "remind_at": "2026-08-24T03:40:42.825148-07:00"
+    "remind_at": "2026-08-24T04:23:28.475585-07:00"
   },
   {
     "item": {
-      "company": "Nvidia reportedly",
-      "amount": "$30.0B",
+      "company": "A $1",
+      "amount": "$37.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/nvidia-reportedly-eyes-perplexity-at-a-30b-valuation-as-ai-search-becomes-an-agent-business/",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/billionaire-philanthropist-mackenzie-scott-roommate-loaned-her-1000-to-not-drop-out-of-college-inspired-26-billion-philanthropy/",
       "priority": 3
     },
-    "remind_at": "2026-08-24T03:40:46.024519-07:00"
+    "remind_at": "2026-08-24T04:23:31.875656-07:00"
+  },
+  {
+    "item": {
+      "company": "Redfaire",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/redfaire-raises-13m-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-24T04:23:34.352796-07:00"
   }
 ]
