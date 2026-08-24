@@ -47605,5 +47605,35 @@
     "roles": [],
     "first_seen": "2026-08-24T12:44:40.532139-07:00",
     "status": "active"
+  },
+  "e0b5b8be304b80fca4abec9c4b3030a4": {
+    "id": "e0b5b8be304b80fca4abec9c4b3030a4",
+    "company": "Trump administration",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/24/trump-visas-asylum-seekers-revoke",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-24T14:24:08.829294-07:00",
+    "status": "active"
+  },
+  "5bbc4a364d042130a3a19dd76ef4e2fe": {
+    "id": "5bbc4a364d042130a3a19dd76ef4e2fe",
+    "company": "America's elections",
+    "amount": "$3.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/24/trump-usps-federal-power-state-elections-mail-voting",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-24T14:24:12.096672-07:00",
+    "status": "active"
   }
 }
