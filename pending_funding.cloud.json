@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "item": {
+      "company": "Irish gaming start-up Entity",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTG5MbUphMXl4U1hHNzQ5Yjc5ZG1wYnZrMmRtWXRWUUpFMHl5eG94dFB5MEtESDV0eER1clZPWlZLZUhkOEVBZDNYd3c4UHJqQkQtT0NWejk5N0pUenhpUUVwaGdLR3FNUTNITlpudTJmcVIxVzBJNUt5ODY2QkVNT1dDMWRZY085UEVzQnAwcGg2WUJYb3VKTWNreHRLOEQ5T05sWQ?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-24T11:16:10.209008-07:00"
+  },
+  {
+    "item": {
+      "company": "Newcode",
+      "amount": "$13.5M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZzZfVUtFUnFpOXlFSDFzbjVUWUZKdGRZd2h0WlFPQWZNazEwTnRyZU8wMmZLTVlYUUNWeEQ1eTlLOXpXaFNvMTFFZ24yeWQ1OHg0cWlJaUdrYkxwTE5QcGZVYUxtWk9laVdmNkh3R212end2b19pQmQ2ZE55d3FDQjA4V01KbnRkSk5KRUtTd1BoMHdaV25VRXhYdWtlMEhoZHBGNjdJcDlwX0NmYU1hZFJHX0JCUWlFaTNiTGllb29nNDRJX2dsU21LZXg?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-08-24T11:16:12.676951-07:00"
+  },
+  {
+    "item": {
+      "company": "Redstone",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GeVBBZWcwQUV0TlhmcFdfWWdlRENTWjNpV0VDRURnbVlwQ2xKenpaSUdxU3RmSGkxN1JfR190bC10OW5rZ2JoZVQ2QlhiOC1yb3RHTk9mX3Q1b3VDZ3UzX3JFTXBlMHh3QnFISFdPbHZuWVlKT2tB0gF3QVVfeXFMT0Z5UEFlZzBBRXROWGZwV19ZZ2VEQ1NaM2lXRUNFRGdtWXBDbEp6elpJR3FTdGZIaTE3Ul9HX3RsLXQ5bmtnYmhlVDZCWGI4LXJvdEdOT2ZfdDVvdUNndTNfckVNcGUweHdCcUhIV09sdm5ZWUpPa0E?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-24T11:16:15.160898-07:00"
+  }
+]
