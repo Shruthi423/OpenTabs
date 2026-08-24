@@ -47080,5 +47080,35 @@
     "roles": [],
     "first_seen": "2026-08-23T22:12:25.400136-07:00",
     "status": "active"
+  },
+  "70ae03f59de493b0521cd26cc60a9bfc": {
+    "id": "70ae03f59de493b0521cd26cc60a9bfc",
+    "company": "ClearPath AI",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/clearpath-ai-raises-1m-pre-seed/",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-23T22:53:41.049257-07:00",
+    "status": "active"
+  },
+  "fcc6eacd9d27fb2870e5987c7c72b55a": {
+    "id": "fcc6eacd9d27fb2870e5987c7c72b55a",
+    "company": "Gamgee",
+    "amount": "$4.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/gamgee-raises-4m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-23T22:53:43.596256-07:00",
+    "status": "active"
   }
 }

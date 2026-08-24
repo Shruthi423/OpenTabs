@@ -1,30 +1,30 @@
 [
   {
     "item": {
-      "company": "Ginastee",
+      "company": "ClearPath AI",
       "amount": null,
       "stage": "Pre-Seed",
-      "investors": "Koinz Capital to grow its social wellness platform for fitness creators and influencers",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ginastee-raises-115000-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-23T22:42:20.830519-07:00"
-  },
-  {
-    "item": {
-      "company": "D2C skincare brand Asaya",
-      "amount": null,
-      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRHhrNjdjZ00yUXpwYXZGNHhpRUdZeDg4QUd1eWtablhPN2thSUhUTVl2dWo5M2JkYzBwLUZXdFp0ZlhlWUNweGs0VDFDWkhUWmJnUnJWYnV4ZVg4cEtldzJRek5yMzQ5V1dLMUlwZlM1UFQ5ZEpCaU1KaUhHLWZUTEd0Sm9RLWdDX0M2Y2xvMjRnRkVWaEFUU21lODROMlhHLThDdWZfeVBLdFBUVm1GdEoyNNIBswFBVV95cUxQRHhrNjdjZ00yUXpwYXZGNHhpRUdZeDg4QUd1eWtablhPN2thSUhUTVl2dWo5M2JkYzBwLUZXdFp0ZlhlWUNweGs0VDFDWkhUWmJnUnJWYnV4ZVg4cEtldzJRek5yMzQ5V1dLMUlwZlM1UFQ5ZEpCaU1KaUhHLWZUTEd0Sm9RLWdDX0M2Y2xvMjRnRkVWaEFUU21lODROMlhHLThDdWZfeVBLdFBUVm1GdEoyNA?oc=5",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/clearpath-ai-raises-1m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-08-23T22:42:24.399976-07:00"
+    "remind_at": "2026-08-23T23:23:40.049082-07:00"
+  },
+  {
+    "item": {
+      "company": "Gamgee",
+      "amount": "$4.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/gamgee-raises-4m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-23T23:23:42.596103-07:00"
   }
 ]
