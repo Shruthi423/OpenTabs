@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Nvidia in talks",
-      "amount": "$30.0B",
+      "company": "Hugging Face reportedly in talks",
+      "amount": "$13.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-24T07:55:38.011953-07:00"
+  },
+  {
+    "item": {
+      "company": "Nvidia",
+      "amount": "$6.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/24/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-valuation-as-revenue-tops-750-million/",
+      "url": "https://techstartups.com/2026/08/24/nvidia-to-invest-6-billion-to-build-u-s-open-weight-ai-model-alternative-to-chinas-deepseek-kimi-k3-and-qwen/",
       "priority": 3
     },
-    "remind_at": "2026-08-24T07:06:51.355082-07:00"
+    "remind_at": "2026-08-24T07:55:40.493525-07:00"
   }
 ]

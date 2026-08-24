@@ -1,5 +1,35 @@
 [
   {
+    "id": "d0a89972fee347824b9a5d03ba7703d5",
+    "company": "Nvidia",
+    "amount": "$6.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/08/24/nvidia-to-invest-6-billion-to-build-u-s-open-weight-ai-model-alternative-to-chinas-deepseek-kimi-k3-and-qwen/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-24T07:25:41.493659-07:00",
+    "status": "active"
+  },
+  {
+    "id": "a09bc07a12b63587bb7c2ac5621f319f",
+    "company": "Hugging Face reportedly in talks",
+    "amount": "$13.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-24T07:25:39.012140-07:00",
+    "status": "active"
+  },
+  {
     "id": "bfb8985b434423716064271f64a4239a",
     "company": "Nvidia in talks",
     "amount": "$30.0B",
