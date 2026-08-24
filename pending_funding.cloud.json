@@ -1,30 +1,30 @@
 [
   {
     "item": {
-      "company": "Atlas Quant",
+      "company": "Atommer",
       "amount": null,
       "stage": "Seed",
       "investors": null,
-      "location": "Seed Round London",
+      "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/atlas-quant-closes-oversubscribed-seed-round-to-verify-quant-strategies-dealroom-co/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yX3pSanYtVWFia0ZtRVdEeHhpaThyMWF3Ml9MV0FxYXBQQVBMQ19mYnVkZV9PbGQzSjl0Wkc5TWx1VkdKRE5hal9KVTNNTER1NE9N?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-08-24T01:59:16.191907-07:00"
+    "remind_at": "2026-08-24T02:54:34.670044-07:00"
   },
   {
     "item": {
-      "company": "t54 Labs",
-      "amount": "$5.0M",
-      "stage": "Seed",
-      "investors": "Anagram, PL Capital, and Franklin Templeton to build a trust layer for autonomous AI economic agents",
+      "company": "BOOKR",
+      "amount": null,
+      "stage": "Series A",
+      "investors": "TCEE Fund IV to scale its literacy and language learning solutions across global markets",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/t54-labs-raises-5m-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/bookr-raises-6-1m-series-a/",
+      "priority": 8
     },
-    "remind_at": "2026-08-24T01:59:18.730122-07:00"
+    "remind_at": "2026-08-24T02:54:38.025542-07:00"
   }
 ]
