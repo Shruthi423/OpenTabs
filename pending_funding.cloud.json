@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "KB ELEMENT",
-      "amount": "$9.4M",
-      "stage": "Series B",
+      "company": "Ginastee",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": "Koinz Capital to grow its social wellness platform for fitness creators and influencers",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ginastee-raises-115000-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-23T22:42:20.830519-07:00"
+  },
+  {
+    "item": {
+      "company": "D2C skincare brand Asaya",
+      "amount": null,
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RNzNpSy1uNS1POVFYOGdKRXg5OVFza3pFZXhFV1ByQUJUTHFQNTNWb2RIZ0d2UWZES0lPTWFxMmx1cW02b1NzalB6V1hDT3B6NU1J?oc=5",
-      "priority": 7
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRHhrNjdjZ00yUXpwYXZGNHhpRUdZeDg4QUd1eWtablhPN2thSUhUTVl2dWo5M2JkYzBwLUZXdFp0ZlhlWUNweGs0VDFDWkhUWmJnUnJWYnV4ZVg4cEtldzJRek5yMzQ5V1dLMUlwZlM1UFQ5ZEpCaU1KaUhHLWZUTEd0Sm9RLWdDX0M2Y2xvMjRnRkVWaEFUU21lODROMlhHLThDdWZfeVBLdFBUVm1GdEoyNNIBswFBVV95cUxQRHhrNjdjZ00yUXpwYXZGNHhpRUdZeDg4QUd1eWtablhPN2thSUhUTVl2dWo5M2JkYzBwLUZXdFp0ZlhlWUNweGs0VDFDWkhUWmJnUnJWYnV4ZVg4cEtldzJRek5yMzQ5V1dLMUlwZlM1UFQ5ZEpCaU1KaUhHLWZUTEd0Sm9RLWdDX0M2Y2xvMjRnRkVWaEFUU21lODROMlhHLThDdWZfeVBLdFBUVm1GdEoyNA?oc=5",
+      "priority": 3
     },
-    "remind_at": "2026-08-23T21:58:22.203527-07:00"
+    "remind_at": "2026-08-23T22:42:24.399976-07:00"
   }
 ]
