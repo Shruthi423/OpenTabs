@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Solace Care",
+      "company": "Utsav",
       "amount": null,
-      "stage": "Pre-Seed",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNFVGR2ZLbkJXWkQ3OTczY3JCTkY3OG5TR25zdHBXbXJsYnR0c2xVaENXOXlBMWtJc21xdjBrVXdyaDhnWThCWWJ1S0xOWmFzQjVIYVhxWkhwSVJYV3g1ZGtTLUswY1psa0NMbG5SN3lfMlhITmUwel93LTdwTEJwci0wcURZWG1xU2Z0RUJHTlI2d1d6MGhGVmp0TUNrTHl3QTcxN0kyeE9yYWszbjVQQXozTzJrUTRvZUVSbl80Q3VRT2xvWlczNUNQUmJfMTdEdjhZUzQwdklEa3RhTzBmb1lzaGZQYWFzTzRpT2FJQ3AtUDAy?oc=5",
-      "priority": 10
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS1U1ZU8wR3A0YjNnT0ZpelNncWVkZllvOWRCbjRmTC1qNFN4SDRjMW5FNF9EX3dZRDhjTHZTd1ZyQWJtd3dac0Rjdmp0X0EzbHpfWGY0Ymp5UGllQ0tBc1doOUQ4Vnp6MEpyOUowMmF5UFcyQU85blotcDJhNHJuUWZyS203UnpEcVI2SEl6MFpCazk3VHpKTWpNd2tNYUZMSzF4aTZ2b2dubTFUTHRiZ1RxTXBhV0RDV1c1anVreVhCWHVNWWVYLU53?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-25T08:44:38.912939-07:00"
+    "remind_at": "2026-08-25T09:31:43.579238-07:00"
+  },
+  {
+    "item": {
+      "company": "Gatik",
+      "amount": "$200.0M",
+      "stage": null,
+      "investors": "Qatar Investment Authority and Koch Disruptive Technologies",
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-25T09:31:48.822579-07:00"
   }
 ]
