@@ -1,30 +1,30 @@
 [
   {
     "item": {
-      "company": "Embedd",
-      "amount": "$2.7M",
-      "stage": "Pre-Seed",
-      "investors": "Seedcamp and saw the participation of Cocoa, Connect Ventures, 2100 Ventures, Vesna Capital, U",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/24/chip-software-automation-startup-embedd-raises-2-7m/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-24T19:08:23.623482-07:00"
-  },
-  {
-    "item": {
-      "company": "Generalist reportedly",
-      "amount": "$200.0M",
-      "stage": null,
+      "company": "Neno",
+      "amount": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/24/robotics-ai-startup-generalist-reportedly-raises-200m/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYm1qcUNJQ0k1ZS1CWW9lNEs0UzJ3Q0V5VUZoY2R0QU9QUkliSTBRN1diYXBTYXdfeF9EQnRwcUhuMlpXVUJuWDlhZzl0NVFqQlJWUFluMTl3aHAzcFZPS1FUNFRzeUYzeGhHQWVaTjVkY2w4dHJBTllXNUlBY0Mxc2JFQS1UcG9sRndlN0pDbE9iejdn?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-08-24T19:08:26.954289-07:00"
+    "remind_at": "2026-08-24T20:15:04.912814-07:00"
+  },
+  {
+    "item": {
+      "company": "UAW and Deere",
+      "amount": "$3.62B",
+      "stage": "Extension",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/24/uaw-deere-shawn-fain-ai",
+      "priority": 5
+    },
+    "remind_at": "2026-08-24T20:15:08.452106-07:00"
   }
 ]
