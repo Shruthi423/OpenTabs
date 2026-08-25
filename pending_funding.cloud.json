@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Quintessent",
-      "amount": "$40.0M",
-      "stage": "Series A",
+      "company": "Embedd",
+      "amount": "$2.7M",
+      "stage": "Pre-Seed",
+      "investors": "Seedcamp and saw the participation of Cocoa, Connect Ventures, 2100 Ventures, Vesna Capital, U",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/24/chip-software-automation-startup-embedd-raises-2-7m/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-24T19:08:23.623482-07:00"
+  },
+  {
+    "item": {
+      "company": "Generalist reportedly",
+      "amount": "$200.0M",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/24/quintessent-bags-40m-to-develop-lasers-for-ai-clusters/",
-      "priority": 8
+      "url": "https://siliconangle.com/2026/08/24/robotics-ai-startup-generalist-reportedly-raises-200m/",
+      "priority": 3
     },
-    "remind_at": "2026-08-24T17:15:08.969215-07:00"
+    "remind_at": "2026-08-24T19:08:26.954289-07:00"
   }
 ]
