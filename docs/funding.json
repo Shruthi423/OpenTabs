@@ -1,5 +1,35 @@
 [
   {
+    "id": "67e98f3d72ed4720ded1c26d168e7d64",
+    "company": "Digs",
+    "amount": "$25.3M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmlSVlRyVHpWVDB1R3pUU1Q0dUxaYmNBVVdOSkg3LTB2RE9DUmRYMGxUd0NUNndJeXZEb2hVcWdqNl9naHRpVm5VRURvdk5JRDYxWnhkdTl1cEp4V0tTRXNEMHYtXzMwdnB3djRwNUU5UWx5RlcwT1RKbjZyTGdGRkFENE5rbVZGTmVXSEUzS3BaMWllbU12eHJYYlRzRERRWnRUYnY3T25udEhMNnVlWS0xOEM?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T03:49:20.130653-07:00",
+    "status": "active"
+  },
+  {
+    "id": "0c6925ffcb72c2677e5d5652c2487b46",
+    "company": "Newcode",
+    "amount": "Undisclosed",
+    "stage": "Series A",
+    "investors": "OnDean Forward to expand its software platform into the US market",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/newcode-looks-to-us-market-expansion-following-series-a-law360-pulse/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T03:49:17.673130-07:00",
+    "status": "active"
+  },
+  {
     "id": "ec55ae0aaefd68ee675815c09e716f8b",
     "company": "PayRewards",
     "amount": "$28.0M",

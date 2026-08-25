@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "Standard Metrics",
-      "amount": "$20.0M",
-      "stage": "Series B",
-      "investors": null,
+      "company": "Newcode",
+      "amount": null,
+      "stage": "Series A",
+      "investors": "OnDean Forward to expand its software platform into the US market",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/standard-metrics-raises-20m-series-b/",
-      "priority": 7
+      "url": "https://www.thesaasnews.com/news/newcode-looks-to-us-market-expansion-following-series-a-law360-pulse/",
+      "priority": 8
     },
-    "remind_at": "2026-08-25T03:08:30.911038-07:00"
+    "remind_at": "2026-08-25T04:19:16.672984-07:00"
   },
   {
     "item": {
-      "company": "Balderton backs Itoflow\u2019s $2.5M",
-      "amount": "$2.5M",
+      "company": "Digs",
+      "amount": "$25.3M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/itoflow-raises-2-5m-for-portfolio-ai/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmlSVlRyVHpWVDB1R3pUU1Q0dUxaYmNBVVdOSkg3LTB2RE9DUmRYMGxUd0NUNndJeXZEb2hVcWdqNl9naHRpVm5VRURvdk5JRDYxWnhkdTl1cEp4V0tTRXNEMHYtXzMwdnB3djRwNUU5UWx5RlcwT1RKbjZyTGdGRkFENE5rbVZGTmVXSEUzS3BaMWllbU12eHJYYlRzRERRWnRUYnY3T25udEhMNnVlWS0xOEM?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-25T03:08:34.856067-07:00"
-  },
-  {
-    "item": {
-      "company": "PayRewards",
-      "amount": "$28.0M",
-      "stage": "Series E",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/payrewards-raises-28m-series-e/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-25T03:08:37.586043-07:00"
+    "remind_at": "2026-08-25T04:19:19.130510-07:00"
   }
 ]
