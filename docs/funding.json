@@ -1,5 +1,56 @@
 [
   {
+    "id": "ec55ae0aaefd68ee675815c09e716f8b",
+    "company": "PayRewards",
+    "amount": "$28.0M",
+    "stage": "Series E",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/payrewards-raises-28m-series-e/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T02:38:38.586196-07:00",
+    "status": "active"
+  },
+  {
+    "id": "5a4d38cf6d807fb695320a9cea8ac2fa",
+    "company": "Balderton backs Itoflow\u2019s $2.5M",
+    "amount": "$2.5M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/itoflow-raises-2-5m-for-portfolio-ai/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T02:38:35.856223-07:00",
+    "status": "active"
+  },
+  {
+    "id": "7080e1728039e5e06f56f3f6b54d3f24",
+    "company": "Standard Metrics",
+    "amount": "$20.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/standard-metrics-raises-20m-series-b/",
+    "priority": 7,
+    "founders": [],
+    "location": "US (Remote)",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://job-boards.greenhouse.io/standardmetrics/jobs/4130794005",
+        "location": "US (Remote)"
+      }
+    ],
+    "first_seen": "2026-08-25T02:38:31.911187-07:00",
+    "status": "active"
+  },
+  {
     "id": "05f1536ddfa7e6e28998a261891bfdb3",
     "company": "Hermetiq",
     "amount": "$2.2M",

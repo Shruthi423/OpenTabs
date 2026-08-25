@@ -1,44 +1,44 @@
 [
   {
     "item": {
-      "company": "Bower",
-      "amount": "$2.0M",
-      "stage": "Pre-Seed",
+      "company": "Standard Metrics",
+      "amount": "$20.0M",
+      "stage": "Series B",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/bower-raises-2m-pre-seed/",
-      "priority": 10
+      "url": "https://www.thesaasnews.com/news/standard-metrics-raises-20m-series-b/",
+      "priority": 7
     },
-    "remind_at": "2026-08-25T02:29:32.815168-07:00"
+    "remind_at": "2026-08-25T03:08:30.911038-07:00"
   },
   {
     "item": {
-      "company": "Repodo",
-      "amount": null,
-      "stage": "Pre-Seed",
+      "company": "Balderton backs Itoflow\u2019s $2.5M",
+      "amount": "$2.5M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/itoflow-raises-2-5m-for-portfolio-ai/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-25T03:08:34.856067-07:00"
+  },
+  {
+    "item": {
+      "company": "PayRewards",
+      "amount": "$28.0M",
+      "stage": "Series E",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/repodo-raises-8-2m-pre-seed/",
-      "priority": 10
+      "url": "https://www.thesaasnews.com/news/payrewards-raises-28m-series-e/",
+      "priority": 3
     },
-    "remind_at": "2026-08-25T02:29:35.389248-07:00"
-  },
-  {
-    "item": {
-      "company": "Hermetiq",
-      "amount": "$2.2M",
-      "stage": "Seed",
-      "investors": "Jet Investment to automate the diagnosis and repair of software build errors for AI development teams",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hermetiq-raises-2-2m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-25T02:29:37.957304-07:00"
+    "remind_at": "2026-08-25T03:08:37.586043-07:00"
   }
 ]
