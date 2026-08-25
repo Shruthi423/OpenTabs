@@ -1,30 +1,44 @@
 [
   {
     "item": {
-      "company": "Utsav",
-      "amount": null,
-      "stage": "Series A",
+      "company": "Redfin ordered",
+      "amount": "$100.0M",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS1U1ZU8wR3A0YjNnT0ZpelNncWVkZllvOWRCbjRmTC1qNFN4SDRjMW5FNF9EX3dZRDhjTHZTd1ZyQWJtd3dac0Rjdmp0X0EzbHpfWGY0Ymp5UGllQ0tBc1doOUQ4Vnp6MEpyOUowMmF5UFcyQU85blotcDJhNHJuUWZyS203UnpEcVI2SEl6MFpCazk3VHpKTWpNd2tNYUZMSzF4aTZ2b2dubTFUTHRiZ1RxTXBhV0RDV1c1anVreVhCWHVNWWVYLU53?oc=5",
-      "priority": 8
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/25/zillow-redfin-deal-ftc-competition-rental-market/",
+      "priority": 3
     },
-    "remind_at": "2026-08-25T09:31:43.579238-07:00"
+    "remind_at": "2026-08-25T10:24:37.382010-07:00"
   },
   {
     "item": {
-      "company": "Gatik",
-      "amount": "$200.0M",
+      "company": "Oro",
+      "amount": "$3.0M",
       "stage": null,
-      "investors": "Qatar Investment Authority and Koch Disruptive Technologies",
-      "location": null,
+      "investors": null,
+      "location": "Dubai",
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/08/25/oro-raises-3m-to-build-ai-agents-that-turn-plain-language-prompts-into-onchain-transactions/",
       "priority": 3
     },
-    "remind_at": "2026-08-25T09:31:48.822579-07:00"
+    "remind_at": "2026-08-25T10:24:39.780913-07:00"
+  },
+  {
+    "item": {
+      "company": "Jane Street leads $700m round",
+      "amount": "$700.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOWl3Q0lYOHVwZzVZazRVaEZucEtLZUt6TVRTU0FWekxhY0lwUXE4Y2ZVQVNKd25HbWtYenE5QnlKLWVUenUtcUpEYnBfXzhhcnhMTi0wVjh2QXBkUGJpY1gwV20tM3p5YzVQaEtkLU16STZ4MEctNDhrWTZMU3FkeGs3WUtqTDVsTWkzNHRLaUVXb0staVE1NWppd0E?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-25T10:24:43.066262-07:00"
   }
 ]
