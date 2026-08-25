@@ -48361,5 +48361,35 @@
     "roles": [],
     "first_seen": "2026-08-25T11:31:19.629843-07:00",
     "status": "active"
+  },
+  "10a913188cfa939f8202ea2250da13e4": {
+    "id": "10a913188cfa939f8202ea2250da13e4",
+    "company": "How Cisco and Nvidia",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/25/democratizing-the-ai-data-center-how-cisco-and-nvidia-are-bringing-rack-scale-power-to-the-enterprise/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T12:10:55.013214-07:00",
+    "status": "active"
+  },
+  "406726f7af3ee048738cdcce9362ba79": {
+    "id": "406726f7af3ee048738cdcce9362ba79",
+    "company": "Kennedy Center's survival depends",
+    "amount": "$24.7M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/25/trump-kennedy-center-taken-down",
+    "priority": 3,
+    "founders": [],
+    "location": "Washington",
+    "roles": [],
+    "first_seen": "2026-08-25T12:10:58.069505-07:00",
+    "status": "active"
   }
 }
