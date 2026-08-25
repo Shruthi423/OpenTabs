@@ -1,30 +1,58 @@
 [
   {
     "item": {
-      "company": "Accel-backed Keenable",
-      "amount": "$26.0M",
-      "stage": "Seed",
+      "company": "Legal-tech Newcode",
+      "amount": null,
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "priority": 9
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUQ1cFN6TnZ4V05GRUtvVHhHaHd6eHVsQVRmN0pKZGZ3NHhQRVBNRUlQcThISmVXUENYZm1zQzJJOUN4Sm1TWWd4Y2ZHeUNxd3NNeEc3M3FZV0pud3FBbzVBYk43RG1Fd19pZFpRblVqWkhCUEtlTGlIU0VEZDRkQy1YMVFzVW5wR01RZDVoaEpOUE9QS0JGSTBDZFlleTlBdHNTM1NjdVFxQQ?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-25T07:04:47.134081-07:00"
+    "remind_at": "2026-08-25T07:58:14.163844-07:00"
   },
   {
     "item": {
-      "company": "An extra $100 per month",
+      "company": "Alcoholic lab mice",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/08/25/obamacare-midterms-florida/",
+      "url": "https://fortune.com/2026/08/25/brain-relapse-marker-alcohol-screening-lab-mice/",
       "priority": 3
     },
-    "remind_at": "2026-08-25T07:04:50.030858-07:00"
+    "remind_at": "2026-08-25T07:58:17.508218-07:00"
+  },
+  {
+    "item": {
+      "company": "Climate group presses Dems",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/25/climate-power-memo-data-centers-democrats-elections",
+      "priority": 3
+    },
+    "remind_at": "2026-08-25T07:58:29.476150-07:00"
+  },
+  {
+    "item": {
+      "company": "Alice",
+      "amount": "$140.0M",
+      "stage": null,
+      "investors": null,
+      "location": "Tel Aviv",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/08/25/alice-raises-140m-to-secure-ai-models-as-revenue-nears-100m-arr/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-25T07:58:31.908735-07:00"
   }
 ]
