@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "item": {
+      "company": "Lambda",
+      "amount": "$12.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/lambda-eyes-12b-valuation-with-3b-pre-ipo-raise-as-ai-cloud-race-heats-up/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-25T06:06:25.350025-07:00"
+  }
+]
