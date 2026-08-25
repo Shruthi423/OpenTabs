@@ -48421,5 +48421,20 @@
     "roles": [],
     "first_seen": "2026-08-25T13:45:30.873483-07:00",
     "status": "active"
+  },
+  "04caf030bebd44f9a0d2435608f7fa3b": {
+    "id": "04caf030bebd44f9a0d2435608f7fa3b",
+    "company": "The creator economy",
+    "amount": "$500.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/25/creator-economy-burnout-audience-entanglement/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T14:06:01.226174-07:00",
+    "status": "active"
   }
 }
