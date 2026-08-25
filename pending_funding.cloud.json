@@ -1,44 +1,44 @@
 [
   {
     "item": {
-      "company": "Machineflows in seed round",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZDZXcTBfcHBnZktSUmUtQmtXaURKY0FKQjNNLXNEc1BoUC1FYldNMFh0NlVxX0w2T1RjWlM4OVo2cVppcnRBVnVxSlZrT2JLbGE4dVNYbUNYTGdaa1dwemJBRFhoQVItTnNPX3lMR1ltZUxzeVExb0NpWXdaaXU3LWNjbHJZTU1nb2JqT0RxeENtX3czcVB4bnYtOFNENHdwOWxmenJoNGR4NDJ4?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-08-25T01:39:54.793546-07:00"
-  },
-  {
-    "item": {
-      "company": "HERP",
-      "amount": null,
-      "stage": "Series C",
+      "company": "Bower",
+      "amount": "$2.0M",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/herp-co-ltd-raises-1-9b-series-c/",
-      "priority": 6
+      "url": "https://www.thesaasnews.com/news/bower-raises-2m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-08-25T01:39:56.961293-07:00"
+    "remind_at": "2026-08-25T02:29:32.815168-07:00"
   },
   {
     "item": {
-      "company": "Female-founded BOOKR",
+      "company": "Repodo",
       "amount": null,
-      "stage": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/female-founded-bookr-raises-e6-1m-to-bring-ai-ready-learning-to-children-worldwide/",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/repodo-raises-8-2m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-08-25T01:40:00.105013-07:00"
+    "remind_at": "2026-08-25T02:29:35.389248-07:00"
+  },
+  {
+    "item": {
+      "company": "Hermetiq",
+      "amount": "$2.2M",
+      "stage": "Seed",
+      "investors": "Jet Investment to automate the diagnosis and repair of software build errors for AI development teams",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hermetiq-raises-2-2m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-25T02:29:37.957304-07:00"
   }
 ]
