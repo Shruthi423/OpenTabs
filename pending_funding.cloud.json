@@ -1,30 +1,30 @@
 [
   {
     "item": {
-      "company": "Newcode",
+      "company": "Why Bootstrapped Businesses",
       "amount": null,
-      "stage": "Series A",
-      "investors": "OnDean Forward to expand its software platform into the US market",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/newcode-looks-to-us-market-expansion-following-series-a-law360-pulse/",
-      "priority": 8
-    },
-    "remind_at": "2026-08-25T04:19:16.672984-07:00"
-  },
-  {
-    "item": {
-      "company": "Digs",
-      "amount": "$25.3M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmlSVlRyVHpWVDB1R3pUU1Q0dUxaYmNBVVdOSkg3LTB2RE9DUmRYMGxUd0NUNndJeXZEb2hVcWdqNl9naHRpVm5VRURvdk5JRDYxWnhkdTl1cEp4V0tTRXNEMHYtXzMwdnB3djRwNUU5UWx5RlcwT1RKbjZyTGdGRkFENE5rbVZGTmVXSEUzS3BaMWllbU12eHJYYlRzRERRWnRUYnY3T25udEhMNnVlWS0xOEM?oc=5",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/startups/bootstrapped-self-funded-business-ai-relevancy-desilva-lateral/",
       "priority": 3
     },
-    "remind_at": "2026-08-25T04:19:19.130510-07:00"
+    "remind_at": "2026-08-25T04:52:09.435947-07:00"
+  },
+  {
+    "item": {
+      "company": "European VC intelligence",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/european-startup-funding-transatlantic-brief-us-investors/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-25T04:52:12.659657-07:00"
   }
 ]

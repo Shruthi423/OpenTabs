@@ -48121,5 +48121,35 @@
     "roles": [],
     "first_seen": "2026-08-25T03:49:20.130653-07:00",
     "status": "active"
+  },
+  "5fc6a62c715342f45a197e38aeb87301": {
+    "id": "5fc6a62c715342f45a197e38aeb87301",
+    "company": "Why Bootstrapped Businesses",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/startups/bootstrapped-self-funded-business-ai-relevancy-desilva-lateral/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T04:22:10.436109-07:00",
+    "status": "active"
+  },
+  "fe7f8b3d4e206a67a4dfbe151a8fa790": {
+    "id": "fe7f8b3d4e206a67a4dfbe151a8fa790",
+    "company": "European VC intelligence",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/european-startup-funding-transatlantic-brief-us-investors/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T04:22:13.659841-07:00",
+    "status": "active"
   }
 }
