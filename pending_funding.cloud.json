@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "Keenable",
+      "amount": "$26.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/25/agentic-web-search-infrastructure-startup-keenable-raises-26m/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-25T17:29:38.025661-07:00"
+  },
+  {
+    "item": {
+      "company": "Emerald AI",
+      "amount": "$150.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/25/data-center-power-startup-emerald-ai-raises-150m-at-1-05b-valuation/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-25T17:29:40.462974-07:00"
+  }
+]

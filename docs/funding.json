@@ -1,5 +1,35 @@
 [
   {
+    "id": "fb9b89810ea71b91a342242b3a858d80",
+    "company": "Emerald AI",
+    "amount": "$150.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/25/data-center-power-startup-emerald-ai-raises-150m-at-1-05b-valuation/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T16:59:41.463136-07:00",
+    "status": "active"
+  },
+  {
+    "id": "cd091cc423d3eaab38fa05423a7a787d",
+    "company": "Keenable",
+    "amount": "$26.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/25/agentic-web-search-infrastructure-startup-keenable-raises-26m/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T16:59:39.025823-07:00",
+    "status": "active"
+  },
+  {
     "id": "347702600a1d1b73788fffb3ea51267e",
     "company": "Perplexity AI",
     "amount": "$30.0B",
