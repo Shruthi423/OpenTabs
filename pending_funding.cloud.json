@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "item": {
+      "company": "Riven Systems",
+      "amount": "$7.9M",
+      "stage": "Pre-Seed",
+      "investors": "Cerberus Ventures to build an AI platform for critical minerals processing",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/riven-systems-raises-7-9m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-25T00:06:11.143460-07:00"
+  },
+  {
+    "item": {
+      "company": "Osmo Studio",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": "Bain Capital Ventures to develop its AI animation software for creative professionals",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/osmo-studio-raises-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-25T00:06:14.510622-07:00"
+  },
+  {
+    "item": {
+      "company": "EULER",
+      "amount": "$4.3M",
+      "stage": "Seed",
+      "investors": "Channel Equity Partners to scale its agentic partner relationship management platform for B2B software companies",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/euler-raises-4-3m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-25T00:06:17.042114-07:00"
+  },
+  {
+    "item": {
+      "company": "Fina",
+      "amount": "$1.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/fina-raises-1m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-25T00:06:19.606708-07:00"
+  },
+  {
+    "item": {
+      "company": "WATER",
+      "amount": "$2.5M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONTZTQkpOd1NVX3VhOXBsa0JjSXpoSmllR21KUG96MnNLSWs4dndRSGVnVEpNaGF5SlpsckQyTDdFOUZfX1dHZ01tZ1pLeFJ5aHh2S0gxU1p4aGIzaE5yWVhCMGVnR2xVelhXMTlHV05WWVkyeHZtVUcyUE96eTJYQWJJT0MyQmJfejRGYjdxNXEtVndwLUp3bkJPNEt1ZXB4V0J4Q1Jzdzd2b0V6MVNoM0I2a0ozcGpRek0wTk9qN3FnVGl1TXg3b2VoQjhlZFU2WHY3TDlKYmIyWVhxNTZyRmdRd1dNSy1zd2xEalpoRmRyQQ?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-25T00:06:22.149768-07:00"
+  },
+  {
+    "item": {
+      "company": "Airbound",
+      "amount": "$37.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYUpqUnNFemlJMkc1TkdNSURtaHNGcXJHQS1haTdnOWszbEZnanAzdHlMNXdqa3VDbWQxRjVFX0lteWpUUWRDMERpeXhSRUlvUHhIZkxLUmlvMnB2LVNRZUczZ0hiTFhrSmdrQmNIWldrSzdjbzF0ek94TnlWdnhIT1NnLXhIQQ?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-08-25T00:06:24.581177-07:00"
+  },
+  {
+    "item": {
+      "company": "RunwayVC",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/runwayvc-40m-fund-ii-industrial-ai-robotics/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-25T00:06:27.029720-07:00"
+  },
+  {
+    "item": {
+      "company": "Bigbasket",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWHdPTDRidGo1WFgzbjB4YVYtWkpKZzQxd19KYVFxU3hreFNMNFhiYjBuUEp6MUxkc25NenZLRU5DeV9KblppRUQ2NncxTUp0akpoWnVPal8zWmV2SXd6Qml4aHBPQ001OVJKc19Pa0hHQURxbFpmUkdtUktZYkRqMGoxaktYT1AyYmh1bUtNMDdTN29KZHlYY1BaM05RdnpGc3J4WXZhdk5wWEgy?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-25T00:06:29.628810-07:00"
+  }
+]
