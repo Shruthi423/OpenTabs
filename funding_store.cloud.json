@@ -47950,5 +47950,50 @@
     "roles": [],
     "first_seen": "2026-08-25T00:30:45.064223-07:00",
     "status": "active"
+  },
+  "e273a09b7c49bbe47b2d48731c5e3204": {
+    "id": "e273a09b7c49bbe47b2d48731c5e3204",
+    "company": "Machineflows in seed round",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZDZXcTBfcHBnZktSUmUtQmtXaURKY0FKQjNNLXNEc1BoUC1FYldNMFh0NlVxX0w2T1RjWlM4OVo2cVppcnRBVnVxSlZrT2JLbGE4dVNYbUNYTGdaa1dwemJBRFhoQVItTnNPX3lMR1ltZUxzeVExb0NpWXdaaXU3LWNjbHJZTU1nb2JqT0RxeENtX3czcVB4bnYtOFNENHdwOWxmenJoNGR4NDJ4?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T01:09:55.793705-07:00",
+    "status": "active"
+  },
+  "9a9f37306627c2dca13ab86559f4052d": {
+    "id": "9a9f37306627c2dca13ab86559f4052d",
+    "company": "HERP",
+    "amount": "Undisclosed",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/herp-co-ltd-raises-1-9b-series-c/",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T01:09:57.961465-07:00",
+    "status": "active"
+  },
+  "db3810ef13dba5eac324f030ea1a43b1": {
+    "id": "db3810ef13dba5eac324f030ea1a43b1",
+    "company": "Female-founded BOOKR",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/female-founded-bookr-raises-e6-1m-to-bring-ai-ready-learning-to-children-worldwide/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T01:10:01.105172-07:00",
+    "status": "active"
   }
 }
