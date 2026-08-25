@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "Castelion",
-      "amount": null,
-      "stage": "Series C",
+      "company": "Perplexity AI",
+      "amount": "$30.0B",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMnExcEdHckxHWmFXX1NYTW9meEtKZUFydEN2UnhienpzUDRGRnBDLXB5clljb0pla1FlX0hpaXY0WEctT0FvS2V3S3l4YVNCWjFHdGVXQmNiaVVZNmQzOGxvMDlVYmkzcXEybVBEazRuakExWHdCTnU4d2pZTndFNkJHeC1iNVoxeWxzVlhRcjRiYXNvUWJqUFhBNE9iMkFWRU5LcXp6T3FxYXN0U1lTZGZObWtWcFVv?oc=5",
-      "priority": 6
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/25/perplexity-ai-launches-portable-computer-on-device-ai-agent/",
+      "priority": 3
     },
-    "remind_at": "2026-08-25T15:14:05.222562-07:00"
-  },
-  {
-    "item": {
-      "company": "Castelion",
-      "amount": "$1.05B",
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWx4X3dJdThSa1czb3NsNDUtbjc3MEdwRENqWDhUa2J4NGF2UzJzLVA2MnQtOHBPWC1HSllYMnJPVy1hSFBhV2pXX0pKWWR4WGhBMDhjNjI3V0gxRVBOclAxV25UN3BVdnI4ZGpkRGM5VXpkMzQzMndESm9MT3hqNGUwaVQwYzI3bUJYYTgtOHJ6MFU3eUZjeXQ4Nm41am9IdmJFeWNldUtuQXNuSGtKTQ?oc=5",
-      "priority": 6
-    },
-    "remind_at": "2026-08-25T15:14:07.603600-07:00"
+    "remind_at": "2026-08-25T16:04:59.207385-07:00"
   }
 ]

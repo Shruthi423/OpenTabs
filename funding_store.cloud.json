@@ -48466,5 +48466,31 @@
     "roles": [],
     "first_seen": "2026-08-25T14:44:08.603761-07:00",
     "status": "active"
+  },
+  "347702600a1d1b73788fffb3ea51267e": {
+    "id": "347702600a1d1b73788fffb3ea51267e",
+    "company": "Perplexity AI",
+    "amount": "$30.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/25/perplexity-ai-launches-portable-computer-on-device-ai-agent/",
+    "priority": 3,
+    "founders": [],
+    "location": "New York City",
+    "roles": [
+      {
+        "title": "Member of Creative Studio (Producer, Brand & Creative)",
+        "url": "https://jobs.ashbyhq.com/perplexity/678d1162-e650-4d6d-9532-b287255c00fb",
+        "location": "New York City"
+      },
+      {
+        "title": "Design Engineer, Growth & Marketing",
+        "url": "https://jobs.ashbyhq.com/perplexity/fbbd496b-1d14-4396-b31d-38fbea0dc666",
+        "location": "San Francisco"
+      }
+    ],
+    "first_seen": "2026-08-25T15:35:00.207565-07:00",
+    "status": "active"
   }
 }
