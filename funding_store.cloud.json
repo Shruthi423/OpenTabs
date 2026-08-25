@@ -48391,5 +48391,35 @@
     "roles": [],
     "first_seen": "2026-08-25T12:10:58.069505-07:00",
     "status": "active"
+  },
+  "f7c7713b274a49bbd0b3bde9d32d7a2b": {
+    "id": "f7c7713b274a49bbd0b3bde9d32d7a2b",
+    "company": "Callosum's $100M Seed Round",
+    "amount": "$5.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGOEZ2MDVnUHdBZWdUOHMySHVreUhlOVJGUUR3Ul9TN1FoSkVRMjdkUWNTTklZWFRrbGN4dEt1MXRhNGFLekVHOGpQYmhoVHo4WGpZ?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T13:45:27.977486-07:00",
+    "status": "active"
+  },
+  "94ea64fa200a16f27974c472f3c85dcd": {
+    "id": "94ea64fa200a16f27974c472f3c85dcd",
+    "company": "I talked",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/25/why-do-people-go-no-contact-parents-children/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T13:45:30.873483-07:00",
+    "status": "active"
   }
 }
