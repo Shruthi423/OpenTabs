@@ -48436,5 +48436,35 @@
     "roles": [],
     "first_seen": "2026-08-25T14:06:01.226174-07:00",
     "status": "active"
+  },
+  "3d6ba9776527968de09670fbc7401e78": {
+    "id": "3d6ba9776527968de09670fbc7401e78",
+    "company": "Castelion",
+    "amount": "Undisclosed",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMnExcEdHckxHWmFXX1NYTW9meEtKZUFydEN2UnhienpzUDRGRnBDLXB5clljb0pla1FlX0hpaXY0WEctT0FvS2V3S3l4YVNCWjFHdGVXQmNiaVVZNmQzOGxvMDlVYmkzcXEybVBEazRuakExWHdCTnU4d2pZTndFNkJHeC1iNVoxeWxzVlhRcjRiYXNvUWJqUFhBNE9iMkFWRU5LcXp6T3FxYXN0U1lTZGZObWtWcFVv?oc=5",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T14:44:06.222732-07:00",
+    "status": "active"
+  },
+  "a7bea4b2e8bb82cd97a178bc6eb46d5e": {
+    "id": "a7bea4b2e8bb82cd97a178bc6eb46d5e",
+    "company": "Castelion",
+    "amount": "$1.05B",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWx4X3dJdThSa1czb3NsNDUtbjc3MEdwRENqWDhUa2J4NGF2UzJzLVA2MnQtOHBPWC1HSllYMnJPVy1hSFBhV2pXX0pKWWR4WGhBMDhjNjI3V0gxRVBOclAxV25UN3BVdnI4ZGpkRGM5VXpkMzQzMndESm9MT3hqNGUwaVQwYzI3bUJYYTgtOHJ6MFU3eUZjeXQ4Nm41am9IdmJFeWNldUtuQXNuSGtKTQ?oc=5",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T14:44:08.603761-07:00",
+    "status": "active"
   }
 }
