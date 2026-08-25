@@ -48166,5 +48166,35 @@
     "roles": [],
     "first_seen": "2026-08-25T05:36:26.350185-07:00",
     "status": "active"
+  },
+  "aa10f223a368e04e610a858fb36eaff6": {
+    "id": "aa10f223a368e04e610a858fb36eaff6",
+    "company": "Accel-backed Keenable",
+    "amount": "$26.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T06:34:48.134246-07:00",
+    "status": "active"
+  },
+  "6668e0e5b7e6c65cb888a8b03421ebf3": {
+    "id": "6668e0e5b7e6c65cb888a8b03421ebf3",
+    "company": "An extra $100 per month",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/25/obamacare-midterms-florida/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-25T06:34:51.031017-07:00",
+    "status": "active"
   }
 }

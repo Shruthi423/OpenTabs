@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Lambda",
-      "amount": "$12.0B",
+      "company": "Accel-backed Keenable",
+      "amount": "$26.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "priority": 9
+    },
+    "remind_at": "2026-08-25T07:04:47.134081-07:00"
+  },
+  {
+    "item": {
+      "company": "An extra $100 per month",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/lambda-eyes-12b-valuation-with-3b-pre-ipo-raise-as-ai-cloud-race-heats-up/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/25/obamacare-midterms-florida/",
       "priority": 3
     },
-    "remind_at": "2026-08-25T06:06:25.350025-07:00"
+    "remind_at": "2026-08-25T07:04:50.030858-07:00"
   }
 ]
