@@ -49472,5 +49472,20 @@
     "roles": [],
     "first_seen": "2026-08-26T11:26:04.592096-07:00",
     "status": "active"
+  },
+  "e9bde7ae67bd30d9da6cc76c67a4fefa": {
+    "id": "e9bde7ae67bd30d9da6cc76c67a4fefa",
+    "company": "Waymo",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/26/waymo-ai-shortcut-self-driving",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-26T13:28:47.917330-07:00",
+    "status": "active"
   }
 }
