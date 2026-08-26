@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "Stability AI",
+      "amount": "$76.0M",
+      "stage": "Series B",
+      "investors": "including Universal Music Group and EA to expand its generative AI suite",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/stability-ai-raises-76m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-08-25T23:19:49.765327-07:00"
+  },
+  {
+    "item": {
+      "company": "Ringg",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFBqRlZzYW1FX3Q1OFdHb3lmWExLaGRqek54REZLQlFwNVllQXN6a2RIcmFlclM5R0VnNDhHVm01eWdERnlHX2tDN2dGVGRSRENqVVNKa09QeGIybXhSc0Z4OW5zMGJzSjFuZkhnYjMyYm0ya2ZNOGN1ZUU4eWlMY2FydGN4T3lLSU9ISERn0gGOAUFVX3lxTE84UGpGVnNhbUVfdDU4V0dveWZYTEtoZGp6TnhERktCUXA1WWVBc3prZEhyYWVyUzlHRWc0OEdWbTV5Z0RGeUdfa0M3Z0ZUZFJEQ2pVU0prT1B4YjJteFJzRng5bnMwYnNKMW5mSGdiMzJibTJrZk04Y3VlRTh5aUxjYXJ0Y3hPeUtJT0hIRGc?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-25T23:19:52.138115-07:00"
+  }
+]
