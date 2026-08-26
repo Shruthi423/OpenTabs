@@ -48980,5 +48980,50 @@
     "roles": [],
     "first_seen": "2026-08-26T02:56:49.039032-07:00",
     "status": "active"
+  },
+  "c6e87050c90ae3dc955a6d2fa6b31638": {
+    "id": "c6e87050c90ae3dc955a6d2fa6b31638",
+    "company": "Primero",
+    "amount": "$12.0M",
+    "stage": "Seed",
+    "investors": "Kaszek and General Catalyst to modernize Latin American enterprise systems",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/primero-raises-12m-seed/",
+    "priority": 12,
+    "founders": [],
+    "location": "Seed Mexico",
+    "roles": [],
+    "first_seen": "2026-08-26T03:29:46.252074-07:00",
+    "status": "active"
+  },
+  "9a2ab027750c0ddabe4a1ff75f5e9aca": {
+    "id": "9a2ab027750c0ddabe4a1ff75f5e9aca",
+    "company": "Beyless",
+    "amount": "Undisclosed",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/beyless-raises-5-5b-series-b/",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-26T03:29:48.515198-07:00",
+    "status": "active"
+  },
+  "d81676f1977b8044d6458e44a2868695": {
+    "id": "d81676f1977b8044d6458e44a2868695",
+    "company": "Generalist",
+    "amount": "$3.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/ex-deepmind-founders-robotics-startup-generalist-hits-3b-valuation-with-200m-funding/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-26T03:29:50.799634-07:00",
+    "status": "active"
   }
 }

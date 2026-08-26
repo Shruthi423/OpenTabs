@@ -1,72 +1,44 @@
 [
   {
     "item": {
-      "company": "Stellaria",
-      "amount": null,
+      "company": "Primero",
+      "amount": "$12.0M",
       "stage": "Seed",
-      "investors": null,
-      "location": null,
+      "investors": "Kaszek and General Catalyst to modernize Latin American enterprise systems",
+      "location": "Seed Mexico",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/stellaria-raises-aed-25m-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/primero-raises-12m-seed/",
+      "priority": 12
     },
-    "remind_at": "2026-08-26T03:26:37.163490-07:00"
+    "remind_at": "2026-08-26T03:59:45.251929-07:00"
   },
   {
     "item": {
-      "company": "Volve",
-      "amount": "$3.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/volve-raises-3m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-26T03:26:39.735354-07:00"
-  },
-  {
-    "item": {
-      "company": "Brisil Technologies",
+      "company": "Beyless",
       "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVFIT19fVGlIMHhBRjIxR1o5ampTNDlVTlc5QW1BVlZXbjFHbmhKcEV2SURyTFFYVXlVY0g0dmJENXBremljRE9iZy16TUZ5UGVheGFFclpyMXdkZExzX0QycDhzcjZUMFlyNnhDMW9HMEpScXF5MHYyRlpnVUdtb1B2RlY2clVrMVg5eHg0NzRzczNEVmNoc0xDZDZhVE01NFVFSlFubXdEZlU?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-26T03:26:42.264176-07:00"
-  },
-  {
-    "item": {
-      "company": "Wrtn Technologies",
-      "amount": "$72.1M",
-      "stage": "Series C",
+      "stage": "Series B",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/wrtn-technologies-raises-72-1m-series-c/",
-      "priority": 6
+      "url": "https://www.thesaasnews.com/news/beyless-raises-5-5b-series-b/",
+      "priority": 7
     },
-    "remind_at": "2026-08-26T03:26:44.672359-07:00"
+    "remind_at": "2026-08-26T03:59:47.515072-07:00"
   },
   {
     "item": {
-      "company": "Defunding state and local police",
-      "amount": "$3.0M",
+      "company": "Generalist",
+      "amount": "$3.0B",
       "stage": null,
       "investors": null,
-      "location": "Houston",
+      "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/26/trump-elections-defund-police",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/ex-deepmind-founders-robotics-startup-generalist-hits-3b-valuation-with-200m-funding/",
       "priority": 3
     },
-    "remind_at": "2026-08-26T03:26:48.038879-07:00"
+    "remind_at": "2026-08-26T03:59:49.799495-07:00"
   }
 ]
