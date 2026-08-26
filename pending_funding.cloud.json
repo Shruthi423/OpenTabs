@@ -1,30 +1,58 @@
 [
   {
     "item": {
-      "company": "Mara",
-      "amount": "$7.0M",
-      "stage": "Pre-Seed",
+      "company": "Runable",
+      "amount": "$21.0M",
+      "stage": "Series A",
       "investors": null,
-      "location": "US",
+      "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/mara-raises-7m-to-counter-fpv-drone-swarms/",
-      "priority": 10
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3FXcWYwcmhBSVRsWDdTaU01a2VmUFhaTHY5WW5jT3JTRVJSNkdmc18tNTl5d2Y4Z0tzN2xuNF9lWUJXT3pDdlE5NkJEc2dKVWtxclFIT3UyRElqNlIwRGxTNjFMbHd5VjBrNGxhZlJzTDFTbkZBMHVjckhWVUhYdjhyb3NTT05maUdDTGRINGRtTWFDZUlnbDlKaG9ienR5aVpNQk8xTDM?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-26T05:14:27.994441-07:00"
+    "remind_at": "2026-08-26T06:45:36.385935-07:00"
   },
   {
     "item": {
-      "company": "Kalshi prediction markets funding surges",
-      "amount": "$1.12B",
+      "company": "Intuit",
+      "amount": "$20.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPM1JYNm9vX2VaUXNtZGNuU1p3VkQwN3F5M01Bd3gwQWZKbnFIMGRJUXZxSU1xTEVJZXpCbEJLRUQ5MlVaWFNHc3VGTnNNSlVPZWJOM0drUlA?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/26/intuit-hits-record-milestone-20-billion-revenue-sets-stage-strategic-pullback-cfo/",
       "priority": 3
     },
-    "remind_at": "2026-08-26T05:14:31.398965-07:00"
+    "remind_at": "2026-08-26T06:45:38.705386-07:00"
+  },
+  {
+    "item": {
+      "company": "Certain Energy",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/certain-energy-raises-10m-to-tackle-grid-waste/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-26T06:45:42.181525-07:00"
+  },
+  {
+    "item": {
+      "company": "Funding News Today",
+      "amount": "$546.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/08/26/startup-funding-news-today-august-26-2026-emerald-ai-gatik-stellaria-more/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-26T06:45:45.417915-07:00"
   }
 ]
