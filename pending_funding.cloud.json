@@ -1,74 +1,114 @@
 [
   {
     "item": {
-      "company": "VeryAI",
-      "amount": "$10.0M",
-      "stage": "Seed",
+      "company": "Flowt",
+      "amount": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/veryai-raises-10m-seed/",
-      "priority": 9
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQW1YdDVRTGRfdW1YN0RnaGNhU0JnZnNDVHUwT010LUxlRGdpcUpoT1J0cVJfS0tEMzkwell0aTc3ZGEwZ2N5THA4UDRNRFA2MDJ2OXBXTFZrTk8tYTNtbFZfSHBIZGNYQWM2T0wyaXlmeV9KazBBSWN2RXk5UDVRWXB0VWFVa2NvMy1lR28ydmJWMVNIcVE?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-08-26T01:54:23.585004-07:00"
+    "remind_at": "2026-08-26T02:40:29.324000-07:00"
   },
   {
     "item": {
-      "company": "Liner",
-      "amount": "$36.1M",
-      "stage": "Series C",
-      "investors": "LB Investment to expand its global AI agent platform and enterprise business model",
+      "company": "Discernis",
+      "amount": "$2.5M",
+      "stage": "Seed",
+      "investors": "Newfund Capital to expand its sovereign AI legal document analysis platform for law firms",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/liner-raises-36-1m-series-c/",
-      "priority": 6
+      "url": "https://www.thesaasnews.com/news/discernis-raises-2-5m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-08-26T01:54:26.141495-07:00"
+    "remind_at": "2026-08-26T02:40:31.783714-07:00"
   },
   {
     "item": {
-      "company": "Nike brought back a 32-year veteran",
-      "amount": "$60.0B",
+      "company": "Ringg",
+      "amount": "$10.0M",
+      "stage": "Series A",
+      "investors": "Peak XV Partners to scale its voice AI agent platform for enterprise workflows in India",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ringg-raises-10m-series-a-extension/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-26T02:40:34.314386-07:00"
+  },
+  {
+    "item": {
+      "company": "Bengaluru Based Airbound",
+      "amount": "$37.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": "Bengaluru",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMms3bVVlYW13VWJtY2Q3cF9rWlB0U0FCZ3VkRjl3S19uLUV5OXIyZVA4LWVubkVobU5RSjFvd0dNTDJhYVlmZjhZaW5lbExOVlRMVk40WmNEaW0zTDJRdkJyYkw3aGVyUEpxRXVKaFZqbmxDVS16YWNqZzFSd2VwSjlwUXIyV2xVYm8tT3BNUVlkZThnSW9iY1NPNU9rNmt2LVJMZTh4ZDd1bFdtZGlSRGlxWi1Eb0JuRmxBLWZncnBuTWZ2SjFMaUVaRkR1eTdvS0x4RV9R?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-08-26T02:40:37.851147-07:00"
+  },
+  {
+    "item": {
+      "company": "Generalist AI",
+      "amount": "$200.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUF6aVJGbU1laEpEX2FjclYwUHhhdkNLQWRPc0hucnFVcDZuSVpPV1h5Qll1aWlGcVFSTmwtSm5XMXZCTnk2T3ZIY3ZvQmdxZHBQanBxVjdUNV81cXBLVDJGc1FYYndpa09ST1RlRlVLZXZteVJ2dFhQR3Etck52d2JVdnVKenEtUDNLbExESHU4YW1VYnQ5VHgyS0d0NFpPOEVDQUNBbkJJTmpaLWo4eEZFZw?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-08-26T02:40:40.277746-07:00"
+  },
+  {
+    "item": {
+      "company": "Ventures Platform goes bigger",
+      "amount": "$84.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "founders": [
-        "Elliott Hill"
-      ],
-      "source": "Fortune",
-      "url": "https://fortune.com/article/nike-ceo-veteran-elliott-hill-turnaround-growth/",
+      "founders": [],
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
       "priority": 3
     },
-    "remind_at": "2026-08-26T01:54:29.504128-07:00"
+    "remind_at": "2026-08-26T02:40:43.526490-07:00"
   },
   {
     "item": {
-      "company": "Gen Z wants",
+      "company": "Conversed.ai",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/26/stay-at-home-parent-tradwife-exact-salary-spouse-needs-to-earn-revealed-below-100k/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/conversed-ai-raises-growth-funding/",
       "priority": 3
     },
-    "remind_at": "2026-08-26T01:54:32.709093-07:00"
+    "remind_at": "2026-08-26T02:40:46.023587-07:00"
   },
   {
     "item": {
-      "company": "How Qatar\u2019s $600B sovereign fund",
-      "amount": "$600.0B",
+      "company": "Endex",
+      "amount": "$14.0M",
       "stage": null,
-      "investors": null,
+      "investors": "the OpenAI Startup Fund to scale its AI agent platform for Microsoft Excel financial analysis",
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/from-iceye-to-nearfield-and-gatik-how-qatars-600b-sovereign-fund-is-building-a-deep-tech-portfolio/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/endex-raises-14m-in-funding/",
       "priority": 3
     },
-    "remind_at": "2026-08-26T01:54:35.983956-07:00"
+    "remind_at": "2026-08-26T02:40:50.349982-07:00"
   }
 ]
