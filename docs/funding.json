@@ -1,5 +1,71 @@
 [
   {
+    "id": "94ebaf404f8ce8bc831bdeaae5d68edf",
+    "company": "Anthropic Nears $1 Trillion Valuation",
+    "amount": "$65.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRktJVFpLc2oxamVLSHpZTUJuMFc0T0JQeGZJMjlaQWY2NEhtYlV6TTJTM2cybU5oWFVSSE12VXp0TlVjc1JnU1pkV0RsbFhzQktRY2h6OWhTanRmU2ZkVWs2aWxPQkh2OThWaWIybm1salM1X2cxSzVVa3IwVXpKOFFoekxGeU44MUxicXplZFg0SDRyMFVaZmFLcDBmSzJxLW5JT1ZEb3REV01kempxNzBIOGhhX2E2Nm15M0ltTVJpV3BmWWZsNXR3Njl2SXZEMEJrcXR3bUhxalR3SUE?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "roles": [
+      {
+        "title": "Product Designer, Core Apps",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392054008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      }
+    ],
+    "first_seen": "2026-08-26T09:45:12.395772-07:00",
+    "status": "active"
+  },
+  {
+    "id": "a372ca07303f28c0c2ac6fd50a6b4886",
+    "company": "How Cigna\u2019s AI chief",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/26/cigna-healthcare-insurance-ai/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-26T09:45:08.968134-07:00",
+    "status": "active"
+  },
+  {
+    "id": "a58c67a612725c0448dd75178a27de58",
+    "company": "boom",
+    "amount": "$400.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
+    "priority": 3,
+    "founders": [],
+    "location": "Stockholm",
+    "roles": [],
+    "first_seen": "2026-08-26T09:45:05.708861-07:00",
+    "status": "active"
+  },
+  {
+    "id": "2905d38fee45f562374fa6148ac6ebb1",
+    "company": "Runable",
+    "amount": "Undisclosed",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeER0Z1lrXy1IbEQ4OUNjYmtVSmZ4Z0lyWjJRcFNwNnFqSmNENmlNZXVidWtRbzJiSjlLalVESUdtQzdhWGhpRlhMbTd5SjZfUGlxY1FIYkppQ2oxbzZwalpDZkhaQWh2UjhIOXZ1VVJWcXE5bmZ6X3ZRN3NTRjZQbjFTUTlUX3JWb1c5RUFvOFlSR3lxcFVJUTNNMGpRc1FEUU5ad3hTd1FLZTlqTGdjMk9tRjg1Z9IBtgFBVV95cUxQeER0Z1lrXy1IbEQ4OUNjYmtVSmZ4Z0lyWjJRcFNwNnFqSmNENmlNZXVidWtRbzJiSjlLalVESUdtQzdhWGhpRlhMbTd5SjZfUGlxY1FIYkppQ2oxbzZwalpDZkhaQWh2UjhIOXZ1VVJWcXE5bmZ6X3ZRN3NTRjZQbjFTUTlUX3JWb1c5RUFvOFlSR3lxcFVJUTNNMGpRc1FEUU5ad3hTd1FLZTlqTGdjMk9tRjg1Zw?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-26T09:45:03.194488-07:00",
+    "status": "active"
+  },
+  {
     "id": "b4a4059bf5ccb9cc78a791ca5f65fc00",
     "company": "Amazon",
     "amount": "$16.68B",

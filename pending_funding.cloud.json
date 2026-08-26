@@ -1,114 +1,58 @@
 [
   {
     "item": {
-      "company": "Transfyr",
-      "amount": "$25.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/26/transfyr-launches-with-25m-in-funding-to-bring-physical-ai-to-scientific-labs/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-26T09:22:18.375308-07:00"
-  },
-  {
-    "item": {
-      "company": "Voya Energy",
-      "amount": "$35.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3RWVDlyNy15ZkR1WWVZUmwzSnd4QzF2VGVYdmJjNElrR3VWYVpEQ2xWU3p1YWVQVmRhMVFQdmRZQ0dMQXYxZmJTa3BjNnBUaGt2UEhmdFlHaHRmcnkzaExraGhGbnU1RW9vSXFFalZyRm9EWllJZFNGWk1ZTDNkenVFMnVTZw?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-26T09:22:21.265521-07:00"
-  },
-  {
-    "item": {
-      "company": "C\u00fcraa",
+      "company": "Runable",
       "amount": null,
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYU15SXFxTmJQdTFuMzEyVWhLaGtDckI5OFVOMEJiYjVYdkZ5X09QZkF6ajVNcm0za2Z0T1JzUDJzeTNCcVlGUnRLeGthNW50ejItR1YxM2FDbDI0WW9xeVdNWkpmZG81eFdfVWJnSXRQZFpOZHVVdzFjbG1FRmJTVVp5ZnczallaNFdfaTBqUlFQclNtM0J1d2EwYndTQm9aV2ZHX0tLcFVZLUJLazFxdDh5Q2FUd05MbnpsdDdtbGpIaXFUUnFqRVFoVlUxNURhRWlpYTllWEIzcWtTM20xRElPOU5aeTFodG85Yw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeER0Z1lrXy1IbEQ4OUNjYmtVSmZ4Z0lyWjJRcFNwNnFqSmNENmlNZXVidWtRbzJiSjlLalVESUdtQzdhWGhpRlhMbTd5SjZfUGlxY1FIYkppQ2oxbzZwalpDZkhaQWh2UjhIOXZ1VVJWcXE5bmZ6X3ZRN3NTRjZQbjFTUTlUX3JWb1c5RUFvOFlSR3lxcFVJUTNNMGpRc1FEUU5ad3hTd1FLZTlqTGdjMk9tRjg1Z9IBtgFBVV95cUxQeER0Z1lrXy1IbEQ4OUNjYmtVSmZ4Z0lyWjJRcFNwNnFqSmNENmlNZXVidWtRbzJiSjlLalVESUdtQzdhWGhpRlhMbTd5SjZfUGlxY1FIYkppQ2oxbzZwalpDZkhaQWh2UjhIOXZ1VVJWcXE5bmZ6X3ZRN3NTRjZQbjFTUTlUX3JWb1c5RUFvOFlSR3lxcFVJUTNNMGpRc1FEUU5ad3hTd1FLZTlqTGdjMk9tRjg1Zw?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-08-26T09:22:23.520086-07:00"
+    "remind_at": "2026-08-26T10:15:02.194342-07:00"
   },
   {
     "item": {
-      "company": "inside Stockholm\u2019s founder network",
+      "company": "boom",
       "amount": "$400.0M",
       "stage": null,
       "investors": null,
       "location": "Stockholm",
       "founders": [],
       "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/podcast/from-the-spotify-mafia-to-the-lovable-mafia-inside-stockholms-founder-network/",
+      "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
       "priority": 3
     },
-    "remind_at": "2026-08-26T09:22:26.429200-07:00"
+    "remind_at": "2026-08-26T10:15:04.708746-07:00"
   },
   {
     "item": {
-      "company": "\u2018I\u2019m kind of addicted",
-      "amount": "$1.0M",
+      "company": "How Cigna\u2019s AI chief",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/08/26/dolly-parton-rags-to-riches-philanthropy-one-million-dollars-to-moderna-covid-vaccine-development/",
+      "url": "https://fortune.com/2026/08/26/cigna-healthcare-insurance-ai/",
       "priority": 3
     },
-    "remind_at": "2026-08-26T09:22:29.431997-07:00"
+    "remind_at": "2026-08-26T10:15:07.967966-07:00"
   },
   {
     "item": {
-      "company": "Pro-Russian group claims credit",
-      "amount": "$9.2B",
+      "company": "Anthropic Nears $1 Trillion Valuation",
+      "amount": "$65.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/26/norway-biggest-cyberattack-ukraine-russia-hackers/",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRktJVFpLc2oxamVLSHpZTUJuMFc0T0JQeGZJMjlaQWY2NEhtYlV6TTJTM2cybU5oWFVSSE12VXp0TlVjc1JnU1pkV0RsbFhzQktRY2h6OWhTanRmU2ZkVWs2aWxPQkh2OThWaWIybm1salM1X2cxSzVVa3IwVXpKOFFoekxGeU44MUxicXplZFg0SDRyMFVaZmFLcDBmSzJxLW5JT1ZEb3REV01kempxNzBIOGhhX2E2Nm15M0ltTVJpV3BmWWZsNXR3Njl2SXZEMEJrcXR3bUhxalR3SUE?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-26T09:22:32.448954-07:00"
-  },
-  {
-    "item": {
-      "company": "Meta settles",
-      "amount": "$16.7B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/26/meta-lawsuit-settlement-states-facebook",
-      "priority": 3
-    },
-    "remind_at": "2026-08-26T09:22:35.440609-07:00"
-  },
-  {
-    "item": {
-      "company": "Amazon",
-      "amount": "$16.68B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/26/top-tech-news-today-august-26-2026-amazon-anthropic-google-microsoft-waymo-more/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-26T09:22:37.637361-07:00"
+    "remind_at": "2026-08-26T10:15:11.395621-07:00"
   }
 ]

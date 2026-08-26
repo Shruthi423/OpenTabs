@@ -14905,5 +14905,23 @@
     "first_seen": "2026-08-26T05:04:36.567834-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "0fa01413d90306d11d8eccf79cbaffe0": {
+    "id": "0fa01413d90306d11d8eccf79cbaffe0",
+    "title": "Product Designer, Core Apps",
+    "company": "Anthropic",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392054008",
+    "source": "Anthropic",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-08-26T09:44:28.334508-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
