@@ -48702,5 +48702,82 @@
     "roles": [],
     "first_seen": "2026-08-26T00:32:07.845448-07:00",
     "status": "active"
+  },
+  "b5607a64ea516f30eeae870c62f549c0": {
+    "id": "b5607a64ea516f30eeae870c62f549c0",
+    "company": "VeryAI",
+    "amount": "$10.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/veryai-raises-10m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-26T01:24:24.585154-07:00",
+    "status": "active"
+  },
+  "af73f3988083023f67f354fbb0778c99": {
+    "id": "af73f3988083023f67f354fbb0778c99",
+    "company": "Liner",
+    "amount": "$36.1M",
+    "stage": "Series C",
+    "investors": "LB Investment to expand its global AI agent platform and enterprise business model",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/liner-raises-36-1m-series-c/",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-26T01:24:27.141631-07:00",
+    "status": "active"
+  },
+  "ac09eb7e7ef7f88203079e6edab07ef6": {
+    "id": "ac09eb7e7ef7f88203079e6edab07ef6",
+    "company": "Nike brought back a 32-year veteran",
+    "amount": "$60.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/nike-ceo-veteran-elliott-hill-turnaround-growth/",
+    "priority": 3,
+    "founders": [
+      "Elliott Hill"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-26T01:24:30.504303-07:00",
+    "status": "active"
+  },
+  "50f0249a3845c73bc0d6d8693952defb": {
+    "id": "50f0249a3845c73bc0d6d8693952defb",
+    "company": "Gen Z wants",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/26/stay-at-home-parent-tradwife-exact-salary-spouse-needs-to-earn-revealed-below-100k/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-26T01:24:33.709231-07:00",
+    "status": "active"
+  },
+  "204f99ff5027cea69f3aa8fdc227ac06": {
+    "id": "204f99ff5027cea69f3aa8fdc227ac06",
+    "company": "How Qatar\u2019s $600B sovereign fund",
+    "amount": "$600.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/from-iceye-to-nearfield-and-gatik-how-qatars-600b-sovereign-fund-is-building-a-deep-tech-portfolio/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-26T01:24:36.984099-07:00",
+    "status": "active"
   }
 }

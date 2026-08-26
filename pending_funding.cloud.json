@@ -1,44 +1,74 @@
 [
   {
     "item": {
-      "company": "Itoflow",
-      "amount": "$2.5M",
-      "stage": "Pre-Seed",
+      "company": "VeryAI",
+      "amount": "$10.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/itoflow-raises-2-5m-pre-seed/",
-      "priority": 10
+      "url": "https://www.thesaasnews.com/news/veryai-raises-10m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-08-26T01:02:00.740223-07:00"
+    "remind_at": "2026-08-26T01:54:23.585004-07:00"
   },
   {
     "item": {
-      "company": "AI agent platform Ringg",
-      "amount": "$10.0M",
-      "stage": "Series A",
-      "investors": null,
+      "company": "Liner",
+      "amount": "$36.1M",
+      "stage": "Series C",
+      "investors": "LB Investment to expand its global AI agent platform and enterprise business model",
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSGFXcmJWeTFTb1hqMUxkZ3ZZa084WVBMdzVYQkNnb0dZU0wxUEZuX2huUDBsRTkyc0VReEJEdUdKN2pBejh1Wl80RG03TXoxaFJ6RGl6M3d0V21FcGhYOEV2bGRFTFJTQjQtRzFuQlEyMG5lZGNyQWgzUzc0NkZwbVY5M05tdXppTjJESGdyaEZGTWo3d3AyZXFzNXUwZm5LTmVlNU5tMGRJYlBjZmtNeE9GYnhodFVHdE9BTERRbHgta0pxeFV3ZXhfdm9NMEnSAc8BQVVfeXFMUEhhV3JiVnkxU29YajFMZGd2WWtPOFlQTHc1WEJDZ29HWVNMMVBGbl9oblAwbEU5MnNFUXhCRHVHSjdqQXo4dVpfNERtN016MWhSekRpejN3dFdtRXBoWDhFdmxkRUxSU0I0LUcxbkJRMjBuZWRjckFoM1M3NDZGcG1WOTNObXV6aU4yREhncmhGRk1qN3dwMmVxczV1MGZuS05lZTVObTBkSWJQY2ZrTXhPRmJ4aHRVR3RPQUxEUWx4LWtKcXhVd2V4X3ZvTTBJ?oc=5",
-      "priority": 8
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/liner-raises-36-1m-series-c/",
+      "priority": 6
     },
-    "remind_at": "2026-08-26T01:02:03.854150-07:00"
+    "remind_at": "2026-08-26T01:54:26.141495-07:00"
   },
   {
     "item": {
-      "company": "Ventures Platform goes bigger",
-      "amount": "$83.0M",
+      "company": "Nike brought back a 32-year veteran",
+      "amount": "$60.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [
+        "Elliott Hill"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/article/nike-ceo-veteran-elliott-hill-turnaround-growth/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-26T01:54:29.504128-07:00"
+  },
+  {
+    "item": {
+      "company": "Gen Z wants",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/26/stay-at-home-parent-tradwife-exact-salary-spouse-needs-to-earn-revealed-below-100k/",
       "priority": 3
     },
-    "remind_at": "2026-08-26T01:02:06.845282-07:00"
+    "remind_at": "2026-08-26T01:54:32.709093-07:00"
+  },
+  {
+    "item": {
+      "company": "How Qatar\u2019s $600B sovereign fund",
+      "amount": "$600.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/from-iceye-to-nearfield-and-gatik-how-qatars-600b-sovereign-fund-is-building-a-deep-tech-portfolio/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-26T01:54:35.983956-07:00"
   }
 ]
