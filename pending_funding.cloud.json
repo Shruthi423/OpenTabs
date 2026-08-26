@@ -1,16 +1,102 @@
 [
   {
     "item": {
-      "company": "Waymo",
+      "company": "Venezuelan fintech Fina",
+      "amount": "$1.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZkIxeHBKUk5nZm5mSFA0MkdVNWVzOUhSMXVxVV9zbzU1U01XYVVSN1VmQUJWZzFramN3azdrbmxheXh5SXBoU1lMazdVVVJrTXZQQWlqci1vLUVxRkxwLVpmMENEWVhvR2RwYWZCdUV3dlNVWFHSAXtBVV95cUxPd0loRG5zQUVPR3NELUVaRWtSYUdfMW9FOEJ1dnNKOTJtclJ2aUNiQXAwMkxLejQtRTJyTHl0d19FOE92Y0FzMi1ORFA1Rmh3Q2MwVHJaVHo0TXF4RHljTHhEaHZlX2Y1OTMxSkZZM0stTHJKZGY3NVp5TzA?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-26T17:28:08.622988-07:00"
+  },
+  {
+    "item": {
+      "company": "Deep Cogito",
+      "amount": "$43.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/26/deep-cogito-raises-43m-to-develop-self-improving-ai-models/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-26T17:28:11.489573-07:00"
+  },
+  {
+    "item": {
+      "company": "Nvidia doubles quarterly revenue",
+      "amount": "$96.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [
+        "Jensen Huang"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/26/nvidia-results-q2-earnings/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-26T17:28:14.372733-07:00"
+  },
+  {
+    "item": {
+      "company": "\u2018Rely",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/26/waymo-ai-shortcut-self-driving",
+      "source": "Fortune",
+      "url": "https://fortune.com/2024/02/12/dolly-parton-business-advice/",
       "priority": 3
     },
-    "remind_at": "2026-08-26T13:58:46.917168-07:00"
+    "remind_at": "2026-08-26T17:28:16.900184-07:00"
+  },
+  {
+    "item": {
+      "company": "CrowdStrike and Okta shares jump",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/26/crowdstrike-and-okta-shares-jump-on-second-quarter-beats-and-raised-outlooks/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-26T17:28:19.765111-07:00"
+  },
+  {
+    "item": {
+      "company": "Join theCUBE Aug. 31-Sept. 2",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/26/private-cloud-vmware-explore-thecube-vmwareexplore/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-26T17:28:22.652068-07:00"
+  },
+  {
+    "item": {
+      "company": "Ribbit Capital looks",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY0M1UUZHSi1zMHhVTG12MEd1MGd2MW5ES3F4b2FQRmI0WlNvZUJrN01vSGxod1JhUm1JNndhdEhsSUo4bERuenhIWFZteTZQbmY2Vml0Y3V5ZXUzaEJwOXA2MTZLOE42VFU2VXkxc0xoNWJVRzhTSWdXRmNJTDFWVjBhQkpub3I4T01xekxGMGFlZ1JKaXMxTnlmUUpxMnFSczM2cUx0WUl2alpFRFIzM0JMbXZ6dFVTY1llWjlpZ2VHTW_SAcgBQVVfeXFMUGZmMnJhVTBuRUNqWC0xeXlTS0FSdUZhUGtIM0trR3hWb3I5a0pVZ3VGVGNabUU4Ml9BbFd2SHptN0NibnAwYk9QaHlmQTR4blhLaGdlSU9lLU1Od2R5SThHUk8ycW10OE9GQlFwRHlLZndXTElFcWRwOWZUYnUxcmowV2lvcjVDMEN5TThnNFhWaG4tOVpJMy02UlVoNmtnM0NsbFFRNkY2OEFZRVVIVzFEMXRZTFpMcElSUE5VMVpxTFdqeWxUekY?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-26T17:28:25.507247-07:00"
   }
 ]
