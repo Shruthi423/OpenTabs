@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Breedr",
-      "amount": "$27.0M",
+      "company": "Mara",
+      "amount": "$7.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": "US",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/mara-raises-7m-to-counter-fpv-drone-swarms/",
+      "priority": 10
+    },
+    "remind_at": "2026-08-26T05:14:27.994441-07:00"
+  },
+  {
+    "item": {
+      "company": "Kalshi prediction markets funding surges",
+      "amount": "$1.12B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/breedr-raises-27m-to-digitise-beef-supply-chain/",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPM1JYNm9vX2VaUXNtZGNuU1p3VkQwN3F5M01Bd3gwQWZKbnFIMGRJUXZxSU1xTEVJZXpCbEJLRUQ5MlVaWFNHc3VGTnNNSlVPZWJOM0drUlA?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-26T04:34:22.644224-07:00"
+    "remind_at": "2026-08-26T05:14:31.398965-07:00"
   }
 ]

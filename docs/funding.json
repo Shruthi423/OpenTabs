@@ -1,5 +1,56 @@
 [
   {
+    "id": "78a5844d98c71a4eb4e5506d41e6e93a",
+    "company": "Kalshi prediction markets funding surges",
+    "amount": "$1.12B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPM1JYNm9vX2VaUXNtZGNuU1p3VkQwN3F5M01Bd3gwQWZKbnFIMGRJUXZxSU1xTEVJZXpCbEJLRUQ5MlVaWFNHc3VGTnNNSlVPZWJOM0drUlA?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "New York, New York, United States",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://job-boards.greenhouse.io/kalshi/jobs/6334301003",
+        "location": "New York, New York, United States"
+      },
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/kalshi/25718664-54b7-454b-9a2c-bde0b1deb76c",
+        "location": "New York Office"
+      },
+      {
+        "title": "UX Researcher",
+        "url": "https://jobs.ashbyhq.com/kalshi/9a802eca-14bc-4577-b5f4-8e49e61bd7f5",
+        "location": "New York Office"
+      },
+      {
+        "title": "Policy Brand Designer",
+        "url": "https://jobs.ashbyhq.com/kalshi/5aae75a0-e408-43ec-b840-64b3f5f5309c",
+        "location": "New York Office"
+      }
+    ],
+    "first_seen": "2026-08-26T04:44:32.399151-07:00",
+    "status": "active"
+  },
+  {
+    "id": "60f13c7a5ad304b79a456db480264d5a",
+    "company": "Mara",
+    "amount": "$7.0M",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/mara-raises-7m-to-counter-fpv-drone-swarms/",
+    "priority": 10,
+    "founders": [],
+    "location": "US",
+    "roles": [],
+    "first_seen": "2026-08-26T04:44:28.994620-07:00",
+    "status": "active"
+  },
+  {
     "id": "4b675a56f230909c356ac9013e3a208c",
     "company": "Breedr",
     "amount": "$27.0M",
