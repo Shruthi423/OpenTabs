@@ -1,30 +1,72 @@
 [
   {
     "item": {
-      "company": "Stability AI",
-      "amount": "$76.0M",
-      "stage": "Series B",
-      "investors": "including Universal Music Group and EA to expand its generative AI suite",
+      "company": "Sume",
+      "amount": "$14.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/stability-ai-raises-76m-series-b/",
-      "priority": 7
+      "url": "https://www.thesaasnews.com/news/ai-video-agent-startup-sume-closes-pre-seed-round-at-over-14-million-valuation/",
+      "priority": 10
     },
-    "remind_at": "2026-08-25T23:19:49.765327-07:00"
+    "remind_at": "2026-08-26T00:07:47.594367-07:00"
   },
   {
     "item": {
-      "company": "Ringg",
+      "company": "Scooby\u2019s Club",
       "amount": null,
-      "stage": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": "Bengaluru",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa0h2WjZtNGxfY3VxR1dKenptR0NMVWVHTXZNLVBBWEFNc0tfZ1RnejUyUjhjQVRnRFV2c1c1Tk5TRFBxNklOSXZqbDQ2YXBaNThVQjFrdmx0VWZucTRsb2JWZmxCQ1ZDQTdaSnVZQXI2NWpTNmJSMEFsUHZTZDR6XzlQZTdYQndxal9TakVwbTZ3S0s2OGZ1R19VMzRnd1o5MzNZN2pwLTFzcUVkSGN4TzNUMDNYdUw3ZW9jMUdRTnVxSVE5QXJqZ2pIVkxJQkhlU0RjRUhYUFN5bTdMb2sxUmRITlhERkR5OXlCeUFaaGU?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-08-26T00:07:50.755046-07:00"
+  },
+  {
+    "item": {
+      "company": "Mundo AI",
+      "amount": "$20.0M",
+      "stage": "Series A",
+      "investors": "GreatPoint Ventures to expand its data and evaluation infrastructure for perceptual AI models",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/mundo-ai-raises-20m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-26T00:07:52.964918-07:00"
+  },
+  {
+    "item": {
+      "company": "Zero Homes",
+      "amount": "$16.8M",
+      "stage": "Series A",
+      "investors": "Prelude Ventures to expand its digital platform for home upgrades and contractor networking",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/zero-homes-raises-16-8m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-08-26T00:07:56.056359-07:00"
+  },
+  {
+    "item": {
+      "company": "Ringg AI",
+      "amount": "$10.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFBqRlZzYW1FX3Q1OFdHb3lmWExLaGRqek54REZLQlFwNVllQXN6a2RIcmFlclM5R0VnNDhHVm01eWdERnlHX2tDN2dGVGRSRENqVVNKa09QeGIybXhSc0Z4OW5zMGJzSjFuZkhnYjMyYm0ya2ZNOGN1ZUU4eWlMY2FydGN4T3lLSU9ISERn0gGOAUFVX3lxTE84UGpGVnNhbUVfdDU4V0dveWZYTEtoZGp6TnhERktCUXA1WWVBc3prZEhyYWVyUzlHRWc0OEdWbTV5Z0RGeUdfa0M3Z0ZUZFJEQ2pVU0prT1B4YjJteFJzRng5bnMwYnNKMW5mSGdiMzJibTJrZk04Y3VlRTh5aUxjYXJ0Y3hPeUtJT0hIRGc?oc=5",
-      "priority": 3
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWxVQUltcFJ5cDhTcmRaR2pIYnJ6b1ZPQWJoeG5XWkxEWnRaMnF1UVZnYVZTclN0N25oUWRiTVprTFgwc2pfN2lZa1ZXeWpPc3NfVXljNHdscU5pYk81RENudzh3UUluS20zcDhaNkd1UGVuZ0JOZ1oxSHhBUTBuNzJ5SHB5ZGswY2psOUFDb1FPU0txMm44?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-25T23:19:52.138115-07:00"
+    "remind_at": "2026-08-26T00:07:58.366384-07:00"
   }
 ]
