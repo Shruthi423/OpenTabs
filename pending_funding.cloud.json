@@ -1,58 +1,44 @@
 [
   {
     "item": {
-      "company": "Runable",
+      "company": "Neno Technology",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS1hqM05fbW92ajlxNjRxcTR5bEZwWDNPOEViV0FvZzNOV1I1REx0RnMyYnBsZ29TaklDZDRDVTJ6a0dzY0JKSUpwNWhoOWpxQ3JUTFdXdS1scTFtbDB6eVUtcGNIc1dtWjJkcldXM2NSdklVSGtkZkhpWTdDNWZOZzk2YWtJZHQw?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-08-26T07:36:05.177181-07:00"
+  },
+  {
+    "item": {
+      "company": "AI agent platform Runable",
       "amount": "$21.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3FXcWYwcmhBSVRsWDdTaU01a2VmUFhaTHY5WW5jT3JTRVJSNkdmc18tNTl5d2Y4Z0tzN2xuNF9lWUJXT3pDdlE5NkJEc2dKVWtxclFIT3UyRElqNlIwRGxTNjFMbHd5VjBrNGxhZlJzTDFTbkZBMHVjckhWVUhYdjhyb3NTT05maUdDTGRINGRtTWFDZUlnbDlKaG9ienR5aVpNQk8xTDM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNei15MklUam1lWEUxRlZrdHljVzVrc3hGMmRsNjBNNWc0TnFVcTZ3WnNyTjZtZjlSelVqaHFSLVV2cDdlQjBWc1VObjRzaEpJRWFvOU5RSVJ1d0hSYTNYZlN0TjBFS0M4UGVuY29ReFU5VWJnVXkxVXA3czQ5dFVsc3NRVGNxeFlXcjJwMHphUzF0aFoyTk9tWmpJYk93VWNjVmExVGt0SGttYURDTXRQbjV5azZfTV80dGFUZnN0ZkdQNmtqd3JTZ1hsNlUwcEJHUGxvaNIB1AFBVV95cUxNei15MklUam1lWEUxRlZrdHljVzVrc3hGMmRsNjBNNWc0TnFVcTZ3WnNyTjZtZjlSelVqaHFSLVV2cDdlQjBWc1VObjRzaEpJRWFvOU5RSVJ1d0hSYTNYZlN0TjBFS0M4UGVuY29ReFU5VWJnVXkxVXA3czQ5dFVsc3NRVGNxeFlXcjJwMHphUzF0aFoyTk9tWmpJYk93VWNjVmExVGt0SGttYURDTXRQbjV5azZfTV80dGFUZnN0ZkdQNmtqd3JTZ1hsNlUwcEJHUGxvaA?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-08-26T06:45:36.385935-07:00"
+    "remind_at": "2026-08-26T07:36:08.175300-07:00"
   },
   {
     "item": {
-      "company": "Intuit",
-      "amount": "$20.0B",
+      "company": "Meta agrees",
+      "amount": "$16.7B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/26/intuit-hits-record-milestone-20-billion-revenue-sets-stage-strategic-pullback-cfo/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/26/meta-lawsuit-settlement-states-facebook",
       "priority": 3
     },
-    "remind_at": "2026-08-26T06:45:38.705386-07:00"
-  },
-  {
-    "item": {
-      "company": "Certain Energy",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/certain-energy-raises-10m-to-tackle-grid-waste/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-26T06:45:42.181525-07:00"
-  },
-  {
-    "item": {
-      "company": "Funding News Today",
-      "amount": "$546.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/26/startup-funding-news-today-august-26-2026-emerald-ai-gatik-stellaria-more/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-26T06:45:45.417915-07:00"
+    "remind_at": "2026-08-26T07:36:11.079751-07:00"
   }
 ]

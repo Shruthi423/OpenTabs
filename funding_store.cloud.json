@@ -49151,5 +49151,50 @@
     "roles": [],
     "first_seen": "2026-08-26T06:15:46.418103-07:00",
     "status": "active"
+  },
+  "5fb2a08910e5a02babe4d7284137b541": {
+    "id": "5fb2a08910e5a02babe4d7284137b541",
+    "company": "Neno Technology",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS1hqM05fbW92ajlxNjRxcTR5bEZwWDNPOEViV0FvZzNOV1I1REx0RnMyYnBsZ29TaklDZDRDVTJ6a0dzY0JKSUpwNWhoOWpxQ3JUTFdXdS1scTFtbDB6eVUtcGNIc1dtWjJkcldXM2NSdklVSGtkZkhpWTdDNWZOZzk2YWtJZHQw?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-26T07:06:06.177371-07:00",
+    "status": "active"
+  },
+  "4b703e091240f8f0ead412010b6e5e59": {
+    "id": "4b703e091240f8f0ead412010b6e5e59",
+    "company": "AI agent platform Runable",
+    "amount": "$21.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNei15MklUam1lWEUxRlZrdHljVzVrc3hGMmRsNjBNNWc0TnFVcTZ3WnNyTjZtZjlSelVqaHFSLVV2cDdlQjBWc1VObjRzaEpJRWFvOU5RSVJ1d0hSYTNYZlN0TjBFS0M4UGVuY29ReFU5VWJnVXkxVXA3czQ5dFVsc3NRVGNxeFlXcjJwMHphUzF0aFoyTk9tWmpJYk93VWNjVmExVGt0SGttYURDTXRQbjV5azZfTV80dGFUZnN0ZkdQNmtqd3JTZ1hsNlUwcEJHUGxvaNIB1AFBVV95cUxNei15MklUam1lWEUxRlZrdHljVzVrc3hGMmRsNjBNNWc0TnFVcTZ3WnNyTjZtZjlSelVqaHFSLVV2cDdlQjBWc1VObjRzaEpJRWFvOU5RSVJ1d0hSYTNYZlN0TjBFS0M4UGVuY29ReFU5VWJnVXkxVXA3czQ5dFVsc3NRVGNxeFlXcjJwMHphUzF0aFoyTk9tWmpJYk93VWNjVmExVGt0SGttYURDTXRQbjV5azZfTV80dGFUZnN0ZkdQNmtqd3JTZ1hsNlUwcEJHUGxvaA?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-26T07:06:09.175484-07:00",
+    "status": "active"
+  },
+  "07da7a1b76fba30c545e344ba44f06b0": {
+    "id": "07da7a1b76fba30c545e344ba44f06b0",
+    "company": "Meta agrees",
+    "amount": "$16.7B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/08/26/meta-lawsuit-settlement-states-facebook",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-26T07:06:12.079944-07:00",
+    "status": "active"
   }
 }
