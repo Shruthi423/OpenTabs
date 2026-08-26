@@ -1,114 +1,72 @@
 [
   {
     "item": {
-      "company": "Flowt",
+      "company": "Stellaria",
       "amount": null,
-      "stage": "Pre-Seed",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQW1YdDVRTGRfdW1YN0RnaGNhU0JnZnNDVHUwT010LUxlRGdpcUpoT1J0cVJfS0tEMzkwell0aTc3ZGEwZ2N5THA4UDRNRFA2MDJ2OXBXTFZrTk8tYTNtbFZfSHBIZGNYQWM2T0wyaXlmeV9KazBBSWN2RXk5UDVRWXB0VWFVa2NvMy1lR28ydmJWMVNIcVE?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-08-26T02:40:29.324000-07:00"
-  },
-  {
-    "item": {
-      "company": "Discernis",
-      "amount": "$2.5M",
-      "stage": "Seed",
-      "investors": "Newfund Capital to expand its sovereign AI legal document analysis platform for law firms",
-      "location": null,
-      "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/discernis-raises-2-5m-seed/",
+      "url": "https://www.thesaasnews.com/news/stellaria-raises-aed-25m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-08-26T02:40:31.783714-07:00"
+    "remind_at": "2026-08-26T03:26:37.163490-07:00"
   },
   {
     "item": {
-      "company": "Ringg",
-      "amount": "$10.0M",
-      "stage": "Series A",
-      "investors": "Peak XV Partners to scale its voice AI agent platform for enterprise workflows in India",
+      "company": "Volve",
+      "amount": "$3.0M",
+      "stage": "Seed",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ringg-raises-10m-series-a-extension/",
-      "priority": 8
+      "url": "https://www.thesaasnews.com/news/volve-raises-3m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-08-26T02:40:34.314386-07:00"
+    "remind_at": "2026-08-26T03:26:39.735354-07:00"
   },
   {
     "item": {
-      "company": "Bengaluru Based Airbound",
-      "amount": "$37.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": "Bengaluru",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMms3bVVlYW13VWJtY2Q3cF9rWlB0U0FCZ3VkRjl3S19uLUV5OXIyZVA4LWVubkVobU5RSjFvd0dNTDJhYVlmZjhZaW5lbExOVlRMVk40WmNEaW0zTDJRdkJyYkw3aGVyUEpxRXVKaFZqbmxDVS16YWNqZzFSd2VwSjlwUXIyV2xVYm8tT3BNUVlkZThnSW9iY1NPNU9rNmt2LVJMZTh4ZDd1bFdtZGlSRGlxWi1Eb0JuRmxBLWZncnBuTWZ2SjFMaUVaRkR1eTdvS0x4RV9R?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-26T02:40:37.851147-07:00"
-  },
-  {
-    "item": {
-      "company": "Generalist AI",
-      "amount": "$200.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUF6aVJGbU1laEpEX2FjclYwUHhhdkNLQWRPc0hucnFVcDZuSVpPV1h5Qll1aWlGcVFSTmwtSm5XMXZCTnk2T3ZIY3ZvQmdxZHBQanBxVjdUNV81cXBLVDJGc1FYYndpa09ST1RlRlVLZXZteVJ2dFhQR3Etck52d2JVdnVKenEtUDNLbExESHU4YW1VYnQ5VHgyS0d0NFpPOEVDQUNBbkJJTmpaLWo4eEZFZw?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-08-26T02:40:40.277746-07:00"
-  },
-  {
-    "item": {
-      "company": "Ventures Platform goes bigger",
-      "amount": "$84.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-26T02:40:43.526490-07:00"
-  },
-  {
-    "item": {
-      "company": "Conversed.ai",
+      "company": "Brisil Technologies",
       "amount": null,
-      "stage": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVFIT19fVGlIMHhBRjIxR1o5ampTNDlVTlc5QW1BVlZXbjFHbmhKcEV2SURyTFFYVXlVY0g0dmJENXBremljRE9iZy16TUZ5UGVheGFFclpyMXdkZExzX0QycDhzcjZUMFlyNnhDMW9HMEpScXF5MHYyRlpnVUdtb1B2RlY2clVrMVg5eHg0NzRzczNEVmNoc0xDZDZhVE01NFVFSlFubXdEZlU?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-08-26T03:26:42.264176-07:00"
+  },
+  {
+    "item": {
+      "company": "Wrtn Technologies",
+      "amount": "$72.1M",
+      "stage": "Series C",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/conversed-ai-raises-growth-funding/",
-      "priority": 3
+      "url": "https://www.thesaasnews.com/news/wrtn-technologies-raises-72-1m-series-c/",
+      "priority": 6
     },
-    "remind_at": "2026-08-26T02:40:46.023587-07:00"
+    "remind_at": "2026-08-26T03:26:44.672359-07:00"
   },
   {
     "item": {
-      "company": "Endex",
-      "amount": "$14.0M",
+      "company": "Defunding state and local police",
+      "amount": "$3.0M",
       "stage": null,
-      "investors": "the OpenAI Startup Fund to scale its AI agent platform for Microsoft Excel financial analysis",
-      "location": null,
+      "investors": null,
+      "location": "Houston",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/endex-raises-14m-in-funding/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/26/trump-elections-defund-police",
       "priority": 3
     },
-    "remind_at": "2026-08-26T02:40:50.349982-07:00"
+    "remind_at": "2026-08-26T03:26:48.038879-07:00"
   }
 ]
