@@ -1,44 +1,16 @@
 [
   {
     "item": {
-      "company": "Primero",
-      "amount": "$12.0M",
-      "stage": "Seed",
-      "investors": "Kaszek and General Catalyst to modernize Latin American enterprise systems",
-      "location": "Seed Mexico",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/primero-raises-12m-seed/",
-      "priority": 12
-    },
-    "remind_at": "2026-08-26T03:59:45.251929-07:00"
-  },
-  {
-    "item": {
-      "company": "Beyless",
-      "amount": null,
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/beyless-raises-5-5b-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-08-26T03:59:47.515072-07:00"
-  },
-  {
-    "item": {
-      "company": "Generalist",
-      "amount": "$3.0B",
+      "company": "Breedr",
+      "amount": "$27.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/ex-deepmind-founders-robotics-startup-generalist-hits-3b-valuation-with-200m-funding/",
+      "url": "https://techfundingnews.com/breedr-raises-27m-to-digitise-beef-supply-chain/",
       "priority": 3
     },
-    "remind_at": "2026-08-26T03:59:49.799495-07:00"
+    "remind_at": "2026-08-26T04:34:22.644224-07:00"
   }
 ]

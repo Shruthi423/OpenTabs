@@ -49025,5 +49025,20 @@
     "roles": [],
     "first_seen": "2026-08-26T03:29:50.799634-07:00",
     "status": "active"
+  },
+  "4b675a56f230909c356ac9013e3a208c": {
+    "id": "4b675a56f230909c356ac9013e3a208c",
+    "company": "Breedr",
+    "amount": "$27.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/breedr-raises-27m-to-digitise-beef-supply-chain/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-26T04:04:23.644385-07:00",
+    "status": "active"
   }
 }
