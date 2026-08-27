@@ -34,3 +34,6 @@ __pycache__/
 .venv/
 venv/
 env/
+
+# temp files from atomic json writes (save_json)
+*.json.tmp

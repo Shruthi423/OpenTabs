@@ -300,8 +300,20 @@ def load_json(path, default):
     return default
 
 def save_json(path, data):
-    with open(path, "w") as f:
-        json.dump(data, f, indent=2)
+    """Write via a temp file + rename. A direct write leaves the file
+    half-formed while json.dump runs, and the website fetches these paths on
+    a 60s timer — it would occasionally parse a truncated file and silently
+    fall back to an empty list."""
+    tmp = f"{path}.tmp"
+    try:
+        with open(tmp, "w") as f:
+            json.dump(data, f, indent=2)
+        os.replace(tmp, path)          # atomic on POSIX
+    except Exception:
+        if os.path.exists(tmp):
+            try: os.remove(tmp)
+            except OSError: pass
+        raise
 
 def load_seen() -> set:    return set(load_json(CONFIG["SEEN_FILE"], []))
 def save_seen(s):          save_json(CONFIG["SEEN_FILE"], list(s))
@@ -1594,26 +1606,58 @@ def run_funding_check(job_seen: set, job_store: dict, job_pending: list,
 #  + app.js (hand-authored, committed once). Python writes ONLY the data
 #  file docs/jobs.json — that file is the single link between bot and site.
 # ─────────────────────────────────────────────────────────────────
+def _owned_paths() -> list:
+    """The files THIS runner actually generates — nothing else.
+
+    Staging all of docs/ was the bug that took the laptop half off the air
+    for five weeks: it re-committed the cloud runner's funding.json and
+    jobs.cloud.json every cycle, so the two runners were never editing
+    "different files" the way git_publish assumed, and every pull conflicted.
+    It also swept up any hand-edited source sitting in docs/."""
+    paths = [CONFIG["WEB_FILE"]]                       # jobs.{local,cloud}.json
+    if DO_APIS:
+        paths.append(CONFIG["FUNDING_WEB_FILE"])       # funding radar is cloud-side
+    if MODE == "local":
+        paths.append(CONFIG["LOCAL_HEARTBEAT_FILE"])   # watchdog stamp
+    return [p for p in paths if os.path.exists(p)]
+
+def _pull_rebase() -> bool:
+    """Rebase onto the remote, and clean up after ourselves if it conflicts.
+
+    The old code ignored this return code. A conflicted rebase left the repo
+    half-applied, the push failed, and the next cycle committed on top of the
+    broken state — which is how it ended up wedged at 659 of 664 commits."""
+    r = subprocess.run(["git", "pull", "--rebase", "--autostash"],
+                       capture_output=True, text=True)
+    if r.returncode == 0:
+        return True
+    subprocess.run(["git", "rebase", "--abort"], capture_output=True)
+    log.warning(f"pull --rebase failed, aborted cleanly: {(r.stderr or '')[:160]}")
+    return False
+
 def git_publish():
     if not os.path.isdir(".git"):
         return  # repo/remote not set up yet — nothing to publish to
     try:
-        subprocess.run(["git", "add", CONFIG["SITE_DIR"]], capture_output=True)
-        # Only commit/push when something in docs/ actually changed
-        if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode != 0:
+        owned = _owned_paths()
+        if not owned:
+            return
+        subprocess.run(["git", "add", "--"] + owned, capture_output=True)
+        # Only commit/push when one of OUR files actually changed
+        if subprocess.run(["git", "diff", "--cached", "--quiet", "--"] + owned).returncode != 0:
             subprocess.run(["git", "commit", "-m", "\U0001F4CA Update job dashboard data"], capture_output=True)
-            # Two runners push to main (laptop + Actions). They write different
-            # files, so rebase merges cleanly — pull --rebase before each push.
             def _push():
-                subprocess.run(["git", "pull", "--rebase", "--autostash"], capture_output=True)
+                if not _pull_rebase():
+                    return None
                 return subprocess.run(["git", "push"], capture_output=True, text=True)
             push = _push()
-            if push.returncode != 0:          # racing push landed first → rebase + retry once
+            if push is None or push.returncode != 0:   # racing push landed first → retry once
                 push = _push()
-            if push.returncode == 0:
+            if push is not None and push.returncode == 0:
                 log.info("\U0001F4E4 Dashboard published to GitHub")
             else:
-                log.warning(f"git push failed (set up the remote/auth): {push.stderr[:120]}")
+                err = (push.stderr[:120] if push is not None else "rebase conflict")
+                log.warning(f"git push failed (will retry next cycle): {err}")
     except FileNotFoundError:
         log.warning("git not found \u2014 skipping publish")
     except Exception as e:
