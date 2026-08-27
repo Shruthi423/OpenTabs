@@ -1,68 +1,14 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Just Raised is now column 3 of the board; this page only redirects. -->
+  <meta http-equiv="refresh" content="0; url=./index.html">
+  <link rel="canonical" href="./index.html">
   <title>OpenTabs — Just Raised</title>
-  <meta name="description" content="OpenTabs — funding radar: startups that just raised and the design roles they're hiring for.">
-  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,400;0,500;1,400&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-  <!-- ── Top navigation (brand · back to board · status) ───────────── -->
-  <header class="nav">
-    <a class="cell brand" href="./index.html">
-      <svg class="logo" viewBox="0 0 256 256" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M232,216H208V40a16,16,0,0,0-16-16H64A16,16,0,0,0,48,40V216H24a8,8,0,0,0,0,16H232a8,8,0,0,0,0-16Zm-64,0H64V40H168Zm-40-84a12,12,0,1,1,12,12A12,12,0,0,1,128,132Z"></path></svg>
-      <span>OpenTabs</span>
-    </a>
-    <a class="cell tab is-active"><span class="t"><svg class="tab-fire" viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M132.19,25.19a8,8,0,0,0-8.38,0A156,156,0,0,0,96.24,48C77.77,67.13,68,87.9,68,108a60,60,0,0,0,120,0C188,60.08,134.47,26.59,132.19,25.19ZM128,152a24,24,0,0,1-24-24c0-24,24-40,24-40s24,16,24,40A24,24,0,0,1,128,152Zm95.62,74.42a8,8,0,0,1-10.05,5.2L128,204.39,42.43,231.62a8,8,0,1,1-4.85-15.25l64-20.37-64-20.38a8,8,0,1,1,4.85-15.24L128,187.6l85.57-27.22a8,8,0,1,1,4.85,15.24l-64,20.38,64,20.37A8,8,0,0,1,223.62,226.42Z"></path></svg>Just Raised <em id="raisedCount">0</em></span></a>
-    <a class="cell tab" href="./index.html#sec-new"><span class="t">New <em data-count="new">0</em></span></a>
-    <a class="cell tab" href="./index.html#sec-notapplied"><span class="t">Not Applied <em data-count="notapplied">0</em></span></a>
-    <a class="cell tab" href="./index.html#sec-app"><span class="t">Applied <em data-count="app">0</em></span></a>
-    <a class="cell tab" href="./index.html#trash"><span class="t">Trash <em data-count="trash">0</em></span></a>
-    <div class="cell status" id="status">Loading…</div>
-  </header>
-
-  <!-- ── Page intro ────────────────────────────────────────────────── -->
-  <section class="raised-intro" id="top">
-    <h1><svg class="ico-fire" width="28" height="28" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M132.19,25.19a8,8,0,0,0-8.38,0A156,156,0,0,0,96.24,48C77.77,67.13,68,87.9,68,108a60,60,0,0,0,120,0C188,60.08,134.47,26.59,132.19,25.19ZM128,152a24,24,0,0,1-24-24c0-24,24-40,24-40s24,16,24,40A24,24,0,0,1,128,152Zm95.62,74.42a8,8,0,0,1-10.05,5.2L128,204.39,42.43,231.62a8,8,0,1,1-4.85-15.25l64-20.37-64-20.38a8,8,0,1,1,4.85-15.24L128,187.6l85.57-27.22a8,8,0,1,1,4.85,15.24l-64,20.38,64,20.37A8,8,0,0,1,223.62,226.42Z"></path></svg>Just Raised</h1>
-    <p>San Francisco / Bay Area startups that closed a round recently — fresh money
-       usually means a design hire is coming. Click the company to open it on
-       LinkedIn; each card also links to the article and any open design roles I
-       found on its careers board. Reach out to the founder early.</p>
-  </section>
-
-  <!-- ── View toggle ───────────────────────────────────────────────── -->
-  <div class="feed-controls">
-    <span class="count"><b id="statRaises2">0</b> raises</span>
-    <span class="seg seg-view rview-seg">
-      <button class="rview is-on" data-rview="cols" title="Column view" aria-label="Column view"><svg viewBox="0 0 256 256" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M120,48V208a16,16,0,0,1-16,16H64a16,16,0,0,1-16-16V48A16,16,0,0,1,64,32h40A16,16,0,0,1,120,48Zm72-16H152a16,16,0,0,0-16,16V208a16,16,0,0,0,16,16h40a16,16,0,0,0,16-16V48A16,16,0,0,0,192,32Z"></path></svg></button>
-      <button class="rview" data-rview="list" title="List view" aria-label="List view"><svg viewBox="0 0 256 256" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M224,152v40a16,16,0,0,1-16,16H48a16,16,0,0,1-16-16V152a16,16,0,0,1,16-16H208A16,16,0,0,1,224,152ZM208,48H48A16,16,0,0,0,32,64v40a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V64A16,16,0,0,0,208,48Z"></path></svg></button>
-    </span>
-    <span class="rsort-wrap">
-      <span class="sortlbl">Sort by</span>
-      <span class="seg seg-sort">
-        <button class="rsort is-on" data-rsort="new"><svg viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M235.24,84.38l-28.06,23.68,8.56,35.39a13.34,13.34,0,0,1-5.09,13.91,13.54,13.54,0,0,1-15,.69L164,139l-31.65,19.06a13.51,13.51,0,0,1-15-.69,13.32,13.32,0,0,1-5.1-13.91l8.56-35.39L92.76,84.38a13.39,13.39,0,0,1,7.66-23.58l36.94-2.92,14.21-33.66a13.51,13.51,0,0,1,24.86,0l14.21,33.66,36.94,2.92a13.39,13.39,0,0,1,7.66,23.58ZM88.11,111.89a8,8,0,0,0-11.32,0L18.34,170.34a8,8,0,0,0,11.32,11.32l58.45-58.45A8,8,0,0,0,88.11,111.89Zm-.5,61.19L34.34,226.34a8,8,0,0,0,11.32,11.32l53.26-53.27a8,8,0,0,0-11.31-11.31Zm73-1-54.29,54.28a8,8,0,0,0,11.32,11.32l54.28-54.28a8,8,0,0,0-11.31-11.32Z"></path></svg><span class="lbl">Newest</span></button>
-        <button class="rsort" data-rsort="amount"><svg viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M226,88.08c-.4-1-.82-2-1.25-3a87.93,87.93,0,0,0-30.17-37H216a8,8,0,0,0,0-16H112a88.12,88.12,0,0,0-87.72,81A32,32,0,0,0,0,144a8,8,0,0,0,16,0,16,16,0,0,1,8.57-14.16A87.69,87.69,0,0,0,46,178.22l12.56,35.16A16,16,0,0,0,73.64,224H86.36a16,16,0,0,0,15.07-10.62l1.92-5.38h57.3l1.92,5.38A16,16,0,0,0,177.64,224h12.72a16,16,0,0,0,15.07-10.62L221.64,168H224a24,24,0,0,0,24-24V112A24,24,0,0,0,226,88.08ZM152,72H112a8,8,0,0,1,0-16h40a8,8,0,0,1,0,16Zm28,56a12,12,0,1,1,12-12A12,12,0,0,1,180,128Z"></path></svg><span class="lbl">Amount</span></button>
-        <button class="rsort" data-rsort="loc"><svg viewBox="0 0 256 256" width="13" height="13" fill="currentColor" aria-hidden="true"><path d="M200,224H150.54A266.56,266.56,0,0,0,174,200.25c27.45-31.57,42-64.85,42-96.25a88,88,0,0,0-176,0c0,31.4,14.51,64.68,42,96.25A266.56,266.56,0,0,0,105.46,224H56a8,8,0,0,0,0,16H200a8,8,0,0,0,0-16ZM128,72a32,32,0,1,1-32,32A32,32,0,0,1,128,72Z"></path></svg><span class="lbl">Location</span></button>
-      </span>
-    </span>
-  </div>
-
-  <!-- ── Funding feed ──────────────────────────────────────────────── -->
-  <main class="feed cols" id="feed">
-    <div class="feed-empty" id="empty">Loading funding news…</div>
-  </main>
-
-  <footer class="foot">
-    <span class="stats"><b id="statRaises">0</b> raises tracked</span>
-    <span class="tagline">Fresh raise = design hire incoming.</span>
-  </footer>
-
-  <a href="#top" class="totop" aria-label="Back to top">Top</a>
-  <script src="./raised.js"></script>
+  <p>Just Raised now lives on the board. <a href="./index.html">Continue →</a></p>
+  <script>location.replace("./index.html");</script>
 </body>
 </html>

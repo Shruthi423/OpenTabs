@@ -1,58 +1,74 @@
 /* ════════════════════════════════════════════════════════════════
-   OpenTabs — front-end logic (job board)
-   Reads ./jobs.json (written by opentabs.py) and renders three columns:
-     New (≤24h, unapplied) · Not Applied (older, unapplied) · Applied.
-   Deleted jobs go to a restorable Trash drawer. Clicking a tile opens
-   the posting and asks "Did you apply?". The ONLY link to the Python
-   bot is the jobs.json file.
+   OpenTabs — front-end logic (three-column board)
+   Columns: Today (≤24h) · Previous (older) · Just Raised (funding).
+   Applied and Trash are right-hand panels that collapse and open.
+   Filing a job is always the same gesture: the Applied button on the
+   card. Sort / card size / theme live in the permanent left rail.
+   Data comes from jobs*.json + funding.json (written by opentabs.py).
    ════════════════════════════════════════════════════════════════ */
 
-const NEW_MS = 24 * 3600 * 1000;        // "New" = posted in the last 24h
-let JOBS = [];                          // raw data from jobs.json
-let FUND = [];                          // raw data from funding.json (count only)
+const NEW_MS = 24 * 3600 * 1000;        // "New" = first seen in the last 24h
+let JOBS = [];                          // raw data from jobs*.json
+let FUND = [];                          // raw data from funding.json
 
 const state = {
   q: "", source: [], loc: [], date: "", visa: [],   // source/loc/visa = multi
-  sort: localStorage.getItem("sort") || "new",   // new | location | salary
+  sort: localStorage.getItem("sort") || "new",      // new | city | pay
   size: +(localStorage.getItem("size") || 24),
   theme: localStorage.getItem("theme") || "dark",
-  view: localStorage.getItem("view") || "board",  // "board" (cols) or "list"
-  trashOpen: false,
+  drawer: null,                                     // null | "app" | "trash"
 };
+/* Labels for the confirm dialog and the empty states. */
+const LABELS = { today: "Today", prev: "Previous", raised: "Just Raised", app: "Applied", trash: "Trash" };
+const SORTS = ["new", "city", "pay"];
 const THEMES = ["dark", "paper", "blush", "mint", "cream"];
-if (window.gsap && window.Flip) gsap.registerPlugin(Flip);
+const PAGE = 40;                        // rows rendered per column up front
+const MAX_AGE_MS = 30 * 864e5;          // the site ignores anything older
 
-const $  = (s) => document.querySelector(s);
-const $$ = (s) => Array.from(document.querySelectorAll(s));
+const $  = (s, r) => (r || document).querySelector(s);
+const $$ = (s, r) => Array.from((r || document).querySelectorAll(s));
 const esc = (s) => (s || "").replace(/[&<>"]/g, (c) =>
   ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
-/* ── Applied marks + Trash + Undo (all per-browser) ─────────────── */
+/* ── Applied marks + Trash + dismissed raises + Undo (per-browser) ── */
 function loadMarks() { try { return JSON.parse(localStorage.getItem("marks") || "{}"); } catch { return {}; } }
 function saveMarks(m) { localStorage.setItem("marks", JSON.stringify(m)); }
-let MARKS = loadMarks();                          // { jobId: "done" }
+let MARKS = loadMarks();                           // { jobId: "done" }
 function isApplied(j) { return MARKS[j.id] === "done" || j.status === "applied"; }
 
-function loadTrash() { try { return new Set(JSON.parse(localStorage.getItem("trash") || "[]")); } catch { return new Set(); } }
+function loadSet(key) { try { return new Set(JSON.parse(localStorage.getItem(key) || "[]")); } catch { return new Set(); } }
+let TRASH = loadSet("trash");                      // Set<jobId>
 function saveTrash() { localStorage.setItem("trash", JSON.stringify([...TRASH])); }
-let TRASH = loadTrash();                           // Set<jobId>
+let DISMISSED = loadSet("raisedDismissed");        // Set<fundingId>
+function saveDismissed() { localStorage.setItem("raisedDismissed", JSON.stringify([...DISMISSED])); }
 
-const UNDO_STACK = [];                             // {type:"mark",id,prev} | {type:"trash"|"restore",ids}
+/* Funding records have no stable id field — derive one the same way twice. */
+function fundId(f) { return (f.id || (f.company || "") + "|" + (f.url || f.first_seen || "")); }
+
+const UNDO_STACK = [];   // {type:"mark",ids,prev} | {type:"trash"|"restore"|"dismiss",ids}
 function pushUndo(e) { UNDO_STACK.push(e); refreshUndo(); }
 function refreshUndo() { const b = $("#undoBtn"); if (b) b.disabled = UNDO_STACK.length === 0; }
 function undoLast() {
   const e = UNDO_STACK.pop();
   if (!e) return;
   if (e.type === "mark") {
-    if (e.prev === undefined) delete MARKS[e.id]; else MARKS[e.id] = e.prev;
+    e.ids.forEach((id, i) => {
+      const prev = e.prev[i];
+      if (prev === undefined) delete MARKS[id]; else MARKS[id] = prev;
+    });
     saveMarks(MARKS);
-  } else if (e.type === "trash") {
-    e.ids.forEach((id) => TRASH.delete(id)); saveTrash();
-  } else if (e.type === "restore") {
-    e.ids.forEach((id) => TRASH.add(id)); saveTrash();
-  }
+  } else if (e.type === "trash")     { e.ids.forEach((id) => TRASH.delete(id)); saveTrash(); }
+  else if (e.type === "restore")     { e.ids.forEach((id) => TRASH.add(id));    saveTrash(); }
+  else if (e.type === "dismiss")     { e.ids.forEach((id) => DISMISSED.delete(id)); saveDismissed(); }
   refreshUndo();
   render(true);
+}
+/* Mark / un-mark a set of jobs as applied, recording one undo entry. */
+function setApplied(ids, applied) {
+  if (!ids.length) return;
+  pushUndo({ type: "mark", ids, prev: ids.map((id) => MARKS[id]) });
+  ids.forEach((id) => { if (applied) MARKS[id] = "done"; else delete MARKS[id]; });
+  saveMarks(MARKS);
 }
 
 /* ── helpers ──────────────────────────────────────────────────── */
@@ -62,6 +78,10 @@ function ago(when) {
   if (d < 3600)  return Math.max(1, Math.floor(d / 60)) + "m ago";
   if (d < 86400) return Math.floor(d / 3600) + "h ago";
   return Math.floor(d / 86400) + "d ago";
+}
+function fmtDate(d) {
+  try { return new Date(d).toLocaleDateString(undefined, { month: "short", day: "numeric" }); }
+  catch { return ""; }
 }
 // best available timestamp in ms — real posted_at if present, else first_seen
 function jobTime(j) {
@@ -88,10 +108,10 @@ function locGroup(j) {
 function bucket(j) {                      // which column a job belongs to
   if (isApplied(j)) return "app";
   const age = Date.now() - new Date(j.first_seen).getTime();
-  return age <= NEW_MS ? "new" : "notapplied";
+  return age <= NEW_MS ? "today" : "prev";
 }
 
-/* ── filtering + sorting ──────────────────────────────────────── */
+/* ── filtering + sorting: jobs ────────────────────────────────── */
 function visible() {
   let out = JOBS.filter((j) => {
     if (TRASH.has(j.id)) return false;
@@ -106,25 +126,65 @@ function visible() {
     return true;
   });
   out.sort((a, b) => {
-    if (state.sort === "new")    return jobTime(b) - jobTime(a);     // newest on top
-    if (state.sort === "salary") return salaryNum(b.salary) - salaryNum(a.salary);
-    const pa = a.priority || 9, pb = b.priority || 9;               // location
+    if (state.sort === "new") return jobTime(b) - jobTime(a);         // newest on top
+    if (state.sort === "pay") return salaryNum(b.salary) - salaryNum(a.salary);
+    const pa = a.priority || 9, pb = b.priority || 9;                 // city
     if (pa !== pb) return pa - pb;
     return (b.first_seen || "").localeCompare(a.first_seen || "");
   });
   return out;
 }
 
-/* LinkedIn glyph — shown in place of the "Linkedin" source label */
+/* ── filtering + sorting: funding (Just Raised column) ─────────── */
+/* SF / Bay Area test — the Just Raised column is SF-only on purpose. */
+function isSF(f) {
+  const t = (f.location || (f.roles && f.roles[0] && f.roles[0].location) || "").toLowerCase();
+  return /san francisco|bay area|palo alto|mountain view|san jose|oakland|menlo park|sunnyvale|berkeley|redwood city|san mateo|santa clara|\bsf\b/.test(t);
+}
+function locOf(f) { return f.location || (f.roles && f.roles[0] && f.roles[0].location) || ""; }
+// "$24.0M" → 24, "$1.5B" → 1500, "Undisclosed" → -1
+function amtNum(a) {
+  const m = (a || "").match(/\$?\s*([\d.]+)\s*([MB])/i);
+  if (!m) return -1;
+  return parseFloat(m[1]) * (m[2].toUpperCase() === "B" ? 1000 : 1);
+}
+function visibleRaises() {
+  const out = FUND.filter((f) => {
+    if (f.status === "dismissed") return false;
+    if (DISMISSED.has(fundId(f))) return false;
+    if (!isSF(f)) return false;
+    if (state.q) {
+      const hay = (f.company + " " + (f.investors || "") + " " + (f.stage || "")).toLowerCase();
+      if (!hay.includes(state.q.toLowerCase())) return false;
+    }
+    if (state.date) {
+      const t = new Date(f.first_seen).getTime() || 0;
+      if (!t || Date.now() - t > (+state.date) * 3600 * 1000) return false;
+    }
+    return true;
+  });
+  const byNew = (a, b) => (b.first_seen || "").localeCompare(a.first_seen || "");
+  out.sort((a, b) => {
+    if (state.sort === "pay") return amtNum(b.amount) - amtNum(a.amount) || byNew(a, b);
+    if (state.sort === "city") {
+      const la = locOf(a), lb = locOf(b);
+      if (!la !== !lb) return la ? -1 : 1;
+      return la.localeCompare(lb) || byNew(a, b);
+    }
+    return byNew(a, b);
+  });
+  return out;
+}
+
+/* ── glyphs ───────────────────────────────────────────────────── */
 const LI_SVG = '<svg class="ico-li" width="14" height="14" fill="currentColor" viewBox="0 0 256 256" aria-label="LinkedIn"><path d="M216,24H40A16,16,0,0,0,24,40V216a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V40A16,16,0,0,0,216,24ZM96,176a8,8,0,0,1-16,0V112a8,8,0,0,1,16,0ZM88,96a12,12,0,1,1,12-12A12,12,0,0,1,88,96Zm96,80a8,8,0,0,1-16,0V140a20,20,0,0,0-40,0v36a8,8,0,0,1-16,0V112a8,8,0,0,1,15.79-1.78A36,36,0,0,1,184,140Z"></path></svg>';
-/* Money glyph — replaces the 💰 emoji on "just raised" sources */
 const MONEY_SVG = '<svg class="ico-money" width="14" height="14" fill="currentColor" viewBox="0 0 256 256" aria-label="Just raised"><path d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm0,192a88,88,0,1,1,88-88A88.1,88.1,0,0,1,128,216Zm40-68a28,28,0,0,1-28,28h-4v8a8,8,0,0,1-16,0v-8H104a8,8,0,0,1,0-16h36a12,12,0,0,0,0-24H116a28,28,0,0,1,0-56h4V72a8,8,0,0,1,16,0v8h16a8,8,0,0,1,0,16H116a12,12,0,0,0,0,24h24A28,28,0,0,1,168,148Z"></path></svg>';
-/* Globe glyph — company website link in the outreach row */
 const WEB_SVG = '<svg width="12" height="12" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24ZM101.63,168h52.74C149,186.34,140,202.87,128,215.89,116,202.87,107,186.34,101.63,168ZM98,152a145.72,145.72,0,0,1,0-48h60a145.72,145.72,0,0,1,0,48ZM40,128a87.61,87.61,0,0,1,3.33-24H81.79a161.79,161.79,0,0,0,0,48H43.33A87.61,87.61,0,0,1,40,128ZM154.37,88H101.63C107,69.66,116,53.13,128,40.11,140,53.13,149,69.66,154.37,88Zm19.84,16h38.46a88.15,88.15,0,0,1,0,48H174.21a161.79,161.79,0,0,0,0-48Zm32.16-16H170.94a142.39,142.39,0,0,0-20.26-45A88.37,88.37,0,0,1,206.37,88ZM105.32,43A142.39,142.39,0,0,0,85.06,88H49.63A88.37,88.37,0,0,1,105.32,43ZM49.63,168H85.06a142.39,142.39,0,0,0,20.26,45A88.37,88.37,0,0,1,49.63,168Zm101.05,45a142.39,142.39,0,0,0,20.26-45h35.43A88.37,88.37,0,0,1,150.68,213Z"></path></svg>';
-/* Small LinkedIn glyph for the outreach chips */
 const LI_MINI = '<svg width="12" height="12" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M216,24H40A16,16,0,0,0,24,40V216a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V40A16,16,0,0,0,216,24ZM96,176a8,8,0,0,1-16,0V112a8,8,0,0,1,16,0Zm-8-80a12,12,0,1,1,12-12A12,12,0,0,1,88,96Zm96,80a8,8,0,0,1-16,0V140a20,20,0,0,0-40,0v36a8,8,0,0,1-16,0V112a8,8,0,0,1,15.79-1.78A36,36,0,0,1,184,140Z"></path></svg>';
-/* Outreach deep-links — free layer (no scraping, no API keys). Website +
-   company LinkedIn are DIRECT URLs derived from the company name. */
+const PIN_SVG = '<svg class="ico-pin" width="13" height="13" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M200,224H150.54A266.56,266.56,0,0,0,174,200.25c27.45-31.57,42-64.85,42-96.25a88,88,0,0,0-176,0c0,31.4,14.51,64.68,42,96.25A266.56,266.56,0,0,0,105.46,224H56a8,8,0,0,0,0,16H200a8,8,0,0,0,0-16ZM128,72a32,32,0,1,1-32,32A32,32,0,0,1,128,72Z"></path></svg>';
+const TRASH_SVG = '<svg width="16" height="16" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M216,48H176V40a24,24,0,0,0-24-24H104A24,24,0,0,0,80,40v8H40a8,8,0,0,0,0,16h8V208a16,16,0,0,0,16,16H192a16,16,0,0,0,16-16V64h8a8,8,0,0,0,0-16ZM96,40a8,8,0,0,1,8-8h48a8,8,0,0,1,8,8v8H96Zm96,168H64V64H192ZM112,104v64a8,8,0,0,1-16,0V104a8,8,0,0,1,16,0Zm48,0v64a8,8,0,0,1-16,0V104a8,8,0,0,1,16,0Z"></path></svg>';
+
+/* Outreach deep-links — free layer (no scraping, no API keys). */
 const coDomain = (co) => (co || "").toLowerCase().replace(/\([^)]*\)/g, " ").replace(/[^a-z0-9]/g, "");
 const coSlug   = (co) => (co || "").toLowerCase().replace(/\([^)]*\)/g, " ")
   .replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
@@ -134,18 +194,16 @@ const outreachUrls = {
   founder: (nm, co) => "https://www.google.com/search?q=" +
     encodeURIComponent('site:linkedin.com/in "' + (nm || "") + '" ' + (co || "")),
 };
-function outreachHTML(j) {
-  const founders = (j.founders || []).map((nm) =>
-    `<a class="founder" href="${esc(outreachUrls.founder(nm, j.company))}" target="_blank" rel="noopener" ` +
+function outreachHTML(rec) {
+  const founders = (rec.founders || []).map((nm) =>
+    `<a class="founder" href="${esc(outreachUrls.founder(nm, rec.company))}" target="_blank" rel="noopener" ` +
     `title="Find ${esc(nm)} on LinkedIn">${esc(nm)}${LI_MINI}</a>`).join("");
   return `<div class="outreach">
-        <a class="ol" href="${esc(outreachUrls.site(j.company))}" target="_blank" rel="noopener">${WEB_SVG}Website</a>
-        <a class="ol" href="${esc(outreachUrls.company(j.company))}" target="_blank" rel="noopener">${LI_MINI}Company</a>
+        <a class="ol" href="${esc(outreachUrls.site(rec.company))}" target="_blank" rel="noopener">${WEB_SVG}Website</a>
+        <a class="ol" href="${esc(outreachUrls.company(rec.company))}" target="_blank" rel="noopener">${LI_MINI}Company</a>
         ${founders ? `<span class="ol-lbl">Founders</span>${founders}` : ""}
       </div>`;
 }
-/* Trash glyph — delete button on each tile */
-const TRASH_SVG = '<svg width="16" height="16" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M216,48H176V40a24,24,0,0,0-24-24H104A24,24,0,0,0,80,40v8H40a8,8,0,0,0,0,16h8V208a16,16,0,0,0,16,16H192a16,16,0,0,0,16-16V64h8a8,8,0,0,0,0-16ZM96,40a8,8,0,0,1,8-8h48a8,8,0,0,1,8,8v8H96Zm96,168H64V64H192ZM112,104v64a8,8,0,0,1-16,0V104a8,8,0,0,1,16,0Zm48,0v64a8,8,0,0,1-16,0V104a8,8,0,0,1,16,0Z"></path></svg>';
 
 function sourceLabel(src) {
   src = src || "";
@@ -154,37 +212,34 @@ function sourceLabel(src) {
   return esc(src);
 }
 
-/* roll a number element from its current value to a new one */
-function rollTo(el, val) {
-  if (!el) return;
-  const from = parseInt(el.textContent, 10) || 0;
-  if (from === val || !window.gsap) { el.textContent = val; return; }
-  const o = { v: from };
-  gsap.to(o, { v: val, duration: 0.5, ease: "power2.out",
-    onUpdate: () => (el.textContent = Math.round(o.v)) });
-}
-/* move/remove a card with a GSAP Flip transition */
-function flipMove(mutate) {
-  if (window.gsap && window.Flip) {
-    const s = Flip.getState("main .job");
-    mutate(); render(false);
-    Flip.from(s, { duration: 0.5, ease: "power3.inOut", absolute: true,
-      onEnter: (els) => gsap.fromTo(els, { opacity: 0 }, { opacity: 1, duration: 0.3 }) });
-  } else { mutate(); render(false); }
-}
+function setNum(el, val) { if (el) el.textContent = val; }
+/* Entrance animation is CSS now: the class is set for one frame's worth of
+   renders and only the first rows in each column animate, so a filter
+   keystroke never repaints thousands of cards. */
 function reveal() {
-  if (!window.gsap) return;
-  gsap.from("main .job", { y: 14, opacity: 0, duration: 0.5, ease: "power3.out", stagger: 0.02, overwrite: true });
+  $$(".rows").forEach((r) => {
+    r.classList.remove("anim");
+    void r.offsetWidth;                 // restart the animation
+    r.classList.add("anim");
+  });
 }
 
-/* ── rendering ────────────────────────────────────────────────── */
-function jobHTML(j, n) {
+/* ── card markup ──────────────────────────────────────────────── */
+/* mode: today | prev (board) · app | trash (right panels) */
+function jobHTML(j, n, mode) {
   const idx = String(n).padStart(2, "0");
   const badges =
     (j.is_new_grad ? '<span class="badge">New Grad</span>' : "") +
     (j.is_big_tech ? '<span class="badge">Big Tech</span>' : "") +
     (j.visa === "yes" ? '<span class="badge visa-yes">Visa ✓</span>'
      : j.visa === "no" ? '<span class="badge visa-no">No visa</span>' : "");
+  // One obvious control per state: file it, un-file it, or bring it back.
+  const actions =
+    mode === "trash" ? '<button class="act done" data-act="restore">Restore</button>'
+    : mode === "app" ? '<button class="act ghost" data-act="unapply">Un-apply</button>' +
+                       `<button class="act icon del" data-act="delete" title="Move to Trash" aria-label="Move to Trash">${TRASH_SVG}</button>`
+    : '<button class="act done" data-act="apply">Applied</button>' +
+      `<button class="act icon del" data-act="delete" title="Move to Trash" aria-label="Move to Trash">${TRASH_SVG}</button>`;
   return `<div class="job" data-id="${esc(j.id)}" data-url="${esc(j.url || "#")}" data-title="${esc(j.title)}" data-flip-id="${esc(j.id)}">
       <div class="job-top">
         <span class="idx">${idx}</span>
@@ -195,130 +250,180 @@ function jobHTML(j, n) {
       <div class="job-meta">
         ${esc(j.location || "—")}<span class="sep">/</span>${esc(j.salary || "—")}<span class="sep">/</span>Posted ${postedAgo(j)}
       </div>
-      ${outreachHTML(j)}
+      ${mode === "trash" ? "" : outreachHTML(j)}
       <div class="job-foot">
         <span class="badges">${badges}</span>
-        <span class="actions"><button class="act icon del" data-act="delete" title="Delete" aria-label="Delete">${TRASH_SVG}</button></span>
-      </div>
-    </div>`;
-}
-function trashHTML(j, n) {
-  const idx = String(n).padStart(2, "0");
-  return `<div class="job" data-id="${esc(j.id)}" data-url="${esc(j.url || "#")}" data-title="${esc(j.title)}">
-      <div class="job-top">
-        <span class="idx">${idx}</span>
-        <span class="co">${esc(j.company)}</span>
-        <span class="src">${sourceLabel(j.source)}</span>
-      </div>
-      <div class="job-title">${esc(j.title)}</div>
-      <div class="job-meta">${esc(j.location || "—")}<span class="sep">/</span>${esc(j.salary || "—")}</div>
-      <div class="job-foot">
-        <span class="badges"></span>
-        <span class="actions"><button class="act ghost" data-act="restore">Restore</button></span>
+        <span class="actions">${actions}</span>
       </div>
     </div>`;
 }
 
-function render(animate) {
-  const jobs = visible();
-  const groups = { new: [], notapplied: [], app: [] };
+/* A funding record, rendered as a list row in the Just Raised section. */
+function raiseHTML(f, n) {
+  const idx   = String(n).padStart(2, "0");
+  const tier1 = (f.priority || 0) >= 8;
+  const loc   = locOf(f);
+  const roles = (f.roles || []).map((r) =>
+    `<a class="role" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}` +
+    (r.location ? `<span class="role-loc"> · ${esc(r.location)}</span>` : "") + `</a>`).join("");
+  return `<article class="raise" data-id="${esc(fundId(f))}">
+      <div class="raise-top">
+        <span class="idx">${idx}</span>
+        ${tier1 ? '<span class="badge t1">Tier-1 VC</span>' : ""}
+        <span class="src">${esc(f.source || "")} · ${esc(fmtDate(f.first_seen))}</span>
+        <button class="act icon del" data-act="dismiss" title="Dismiss" aria-label="Dismiss">✕</button>
+      </div>
+      <a class="raise-co" href="${esc(outreachUrls.company(f.company))}" target="_blank" rel="noopener" title="Open on LinkedIn">${esc(f.company)}</a>
+      <div class="raise-highlight">
+        <span class="hl hl-amt">${esc(f.amount || "Undisclosed")}</span>
+        ${loc ? `<span class="hl hl-loc">${PIN_SVG}${esc(loc)}</span>` : ""}
+      </div>
+      <div class="raise-meta">${esc(f.stage || "—")}<span class="sep">/</span>${esc(f.investors || "—")}</div>
+      ${roles ? `<div class="roles"><span class="roles-lbl">Open design roles</span>${roles}</div>`
+              : `<div class="roles none">No design roles posted yet — DM the founder.</div>`}
+      ${outreachHTML(f)}
+      ${f.url ? `<a class="read" href="${esc(f.url)}" target="_blank" rel="noopener">Read article →</a>` : ""}
+    </article>`;
+}
+
+/* ── rendering ────────────────────────────────────────────────────
+   Only the first PAGE rows of a column are put in the DOM; a sentinel at
+   the end pulls in the next page as it scrolls into view. Previous alone
+   can hold thousands of rows, and building all of them on every keystroke
+   was the single biggest thing making the page feel slow. */
+const LIMITS = { today: PAGE, prev: PAGE, raised: PAGE, app: PAGE, trash: PAGE };
+const LISTS  = { today: [], prev: [], raised: [], app: [], trash: [] };
+let MORE_IO = null;
+
+function drawRows(k) {
+  const items = LISTS[k], limit = LIMITS[k];
+  const rows = $("#rows-" + k);
+  if (!rows) return;
+  if (!items.length) {
+    rows.innerHTML = `<div class="col-empty">${k === "trash" ? "Trash is empty." : "Nothing here."}</div>`;
+    return;
+  }
+  const slice = items.slice(0, limit);
+  const cards = k === "raised"
+    ? slice.map((f, i) => raiseHTML(f, i + 1)).join("")
+    : slice.map((j, i) => jobHTML(j, i + 1, k)).join("");
+  rows.innerHTML = cards + (items.length > limit
+    ? `<div class="more" data-more="${k}">${limit} of ${items.length} — keep scrolling</div>` : "");
+}
+/* Watch each column's sentinel; when it appears, extend that column only. */
+function watchMore() {
+  if (!MORE_IO) {
+    MORE_IO = new IntersectionObserver((entries) => {
+      entries.forEach((e) => {
+        if (!e.isIntersecting) return;
+        const k = e.target.dataset.more;
+        LIMITS[k] += PAGE;
+        drawRows(k);
+        watchMore();
+      });
+    }, { rootMargin: "700px 0px" });
+  }
+  MORE_IO.disconnect();
+  $$(".more").forEach((el) => MORE_IO.observe(el));
+}
+
+function render(animate, reset) {
+  if (reset) Object.keys(LIMITS).forEach((k) => (LIMITS[k] = PAGE));
+
+  const jobs = visible();                        // filter row applies to all
+  const groups = { today: [], prev: [], app: [] };
   jobs.forEach((j) => groups[bucket(j)].push(j));
   groups.app.sort((a, b) => jobTime(b) - jobTime(a));   // most recently applied first
 
-  ["new", "notapplied", "app"].forEach((k) => {
-    $("#rows-" + k).innerHTML =
-      groups[k].length ? groups[k].map((j, i) => jobHTML(j, i + 1)).join("")
-                       : '<div class="col-empty">Nothing here.</div>';
-    $$(`[data-count="${k}"]`).forEach((el) => (el.textContent = groups[k].length));
-  });
+  // unfiltered totals, so a column head can say "showing 3 of 76"
+  const totals = { today: 0, prev: 0, app: 0 };
+  JOBS.forEach((j) => { if (!TRASH.has(j.id)) totals[bucket(j)]++; });
 
-  // Trash drawer (not filtered by the board filters — it's a holding area)
-  const trashed = JOBS.filter((j) => TRASH.has(j.id));
-  $("#rows-trash").innerHTML =
-    trashed.length ? trashed.map((j, i) => trashHTML(j, i + 1)).join("")
-                   : '<div class="col-empty">Trash is empty.</div>';
-  $$('[data-count="trash"]').forEach((el) => (el.textContent = trashed.length));
+  LISTS.today  = groups.today;
+  LISTS.prev   = groups.prev;
+  LISTS.raised = visibleRaises();
+  LISTS.app    = groups.app;
+  LISTS.trash  = JOBS.filter((j) => TRASH.has(j.id));
 
-  $("#count").textContent = jobs.length;
+  const raisesTotal = FUND.filter((f) => f.status !== "dismissed" && !DISMISSED.has(fundId(f)) && isSF(f)).length;
+
+  ["today", "prev", "raised", "app", "trash"].forEach(drawRows);
+  watchMore();
+
+  setCount("today",  LISTS.today.length,  totals.today);
+  setCount("prev",   LISTS.prev.length,   totals.prev);
+  setCount("raised", LISTS.raised.length, raisesTotal);
+  setCount("app",    LISTS.app.length,    totals.app);
+  setCount("trash",  LISTS.trash.length,  LISTS.trash.length);
+
+  $$('.clear-all').forEach((b) => (b.hidden = !LISTS[b.dataset.clear].length));
+
   $("#status").textContent = JOBS.length ? "Updated " + new Date().toLocaleTimeString() : "No data yet";
-
-  let open = 0, done = 0;
-  JOBS.forEach((j) => { if (TRASH.has(j.id)) return; bucket(j) === "app" ? done++ : open++; });
-  rollTo($("#statOpen"), open);
-  rollTo($("#statDone"), done);
+  setNum($("#statOpen"), totals.today + totals.prev);
+  setNum($("#statDone"), totals.app);
+  setNum($("#statRaises"), raisesTotal);
 
   refreshUndo();
   if (animate) reveal();
 }
-
-/* SF / Bay Area test — kept in sync with isSF() in raised.js, since the
-   Just Raised page only shows SF raises and the nav count must match it. */
-function isSF(f) {
-  const t = (f.location || (f.roles && f.roles[0] && f.roles[0].location) || "").toLowerCase();
-  return /san francisco|bay area|palo alto|mountain view|san jose|oakland|menlo park|sunnyvale|berkeley|redwood city|san mateo|santa clara|\bsf\b/.test(t);
-}
-/* Funding count on the "Just Raised" nav tab — SF-only, matching the page */
-function renderFunding() {
-  const live = FUND.filter((f) => f.status !== "dismissed" && isSF(f));
-  $$('[data-count="raised"]').forEach((el) => (el.textContent = live.length));
+/* Count badge + the "showing N of M" note that makes filtering visible. */
+function setCount(k, shown, total) {
+  $$(`[data-count="${k}"]`).forEach((el) => (el.textContent = total));
+  $$(`[data-showing="${k}"]`).forEach((el) =>
+    (el.textContent = shown === total ? "" : `showing ${shown} of ${total}`));
 }
 
-/* ── apply persisted view/size/theme/sort/drawer to the DOM ────── */
+/* ── apply persisted size/theme/sort to the DOM ────────────────── */
 function applyChrome() {
   if (!THEMES.includes(state.theme)) state.theme = "dark";
+  if (!SORTS.includes(state.sort)) state.sort = "new";
   document.documentElement.setAttribute("data-theme", state.theme);
   $$('.sw').forEach((b) => b.classList.toggle("is-on", b.dataset.theme === state.theme));
-  $("main").className = state.view;
-  $$('[data-view]').forEach((b) => b.classList.toggle("is-on", b.dataset.view === state.view));
   $$('[data-sort]').forEach((b) => b.classList.toggle("is-on", b.dataset.sort === state.sort));
   document.documentElement.style.setProperty("--spec-size", state.size + "px");
   $("#size").value = state.size;
   $("#sizeVal").textContent = state.size;
-  document.body.classList.toggle("trash-open", state.trashOpen);
   refreshUndo();
 }
 
-/* ── "Did you apply?" prompt — flips in on the clicked tile itself ── */
-function clearAsk() {
-  document.querySelectorAll(".job-ask").forEach((e) => e.remove());
-  document.querySelectorAll(".job.asking").forEach((c) => c.classList.remove("asking"));
-}
-function askOnCard(card) {
-  clearAsk();
-  card.classList.add("asking");
-  const ov = document.createElement("div");
-  ov.className = "job-ask";
-  ov.innerHTML = '<span class="ask-q">Did you apply to this role?</span>' +
-    '<span class="ask-btns"><button class="ask-no" data-ask="no">No</button>' +
-    '<button class="ask-yes" data-ask="yes">Yes, applied</button></span>';
-  card.appendChild(ov);
-  if (window.gsap) gsap.from(ov, { rotationX: -90, opacity: 0, duration: 0.35, ease: "power3.out", transformOrigin: "top center" });
+/* ── right-hand panels (Applied · Trash) ───────────────────────── */
+function openDrawer(which) {
+  state.drawer = which || null;
+  ["app", "trash"].forEach((k) => document.body.classList.toggle("drawer-" + k, which === k));
+  document.body.classList.toggle("drawer-open", !!which);
 }
 
 /* ── Clear-all confirm popup ───────────────────────────────────── */
-const SECTION_LABELS = { new: "New", notapplied: "Not Applied", app: "Applied" };
 let pendingClear = null;
 function closeModal() { $("#modalScrim").hidden = true; pendingClear = null; }
 function openModal(k) {
+  if (!LABELS[k]) return;
   pendingClear = k;
-  $("#modalMsg").innerHTML = `This will move all listings in <b>“${esc(SECTION_LABELS[k] || k)}”</b> to Trash. Continue?`;
+  const copy = k === "trash"
+    ? ['This will restore <b>everything in Trash</b> to the board. Continue?', "Yes, restore all"]
+    : k === "raised"
+      ? ['This will dismiss every raise shown in <b>Just Raised</b>. Undo still works. Continue?', "Yes, dismiss"]
+      : [`This will move everything shown in <b>“${esc(LABELS[k])}”</b> to Trash. Continue?`, "Yes, move to Trash"];
+  $("#modalMsg").innerHTML = copy[0];
+  $("#modalYes").textContent = copy[1];
   $("#modalScrim").hidden = false;
 }
 
 /* ── wire up all the controls ─────────────────────────────────── */
 function bind() {
-  $("#q").addEventListener("input", (e) => { state.q = e.target.value; render(false); });
+  // debounced: typing used to rebuild every card in every column per keystroke
+  let qT = 0;
+  $("#q").addEventListener("input", (e) => {
+    state.q = e.target.value;
+    clearTimeout(qT);
+    qT = setTimeout(() => render(false, true), 180);
+  });
   ddInit();
 
   $$('[data-sort]').forEach((b) => b.addEventListener("click", () => {
     state.sort = b.dataset.sort; localStorage.setItem("sort", state.sort);
     $$('[data-sort]').forEach((x) => x.classList.toggle("is-on", x === b));
-    render(true);
-  }));
-
-  $$('[data-view]').forEach((b) => b.addEventListener("click", () => {
-    state.view = b.dataset.view; localStorage.setItem("view", state.view);
-    applyChrome(); reveal();
+    render(true, true);
   }));
 
   $("#size").addEventListener("input", (e) => {
@@ -331,71 +436,72 @@ function bind() {
     state.theme = b.dataset.theme; localStorage.setItem("theme", state.theme); applyChrome();
   }));
 
-  // nav tabs smooth-scroll to their column
-  $$('[data-jump]').forEach((t) => t.addEventListener("click", (e) => {
-    e.preventDefault();
-    const el = $("#sec-" + t.dataset.jump); if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
-  }));
+  // right-hand panels
+  $("#tabApplied").addEventListener("click", () => openDrawer(state.drawer === "app" ? null : "app"));
+  $("#tabTrash").addEventListener("click", () => openDrawer(state.drawer === "trash" ? null : "trash"));
+  $$('.drawer-close').forEach((b) => b.addEventListener("click", () => openDrawer(null)));
+  $("#drawerScrim").addEventListener("click", () => openDrawer(null));
 
-  $("#menuBtn").addEventListener("click", () => $("#controls").classList.toggle("open"));
-
-  // ── Trash drawer (collapses from the right) ──
-  const setTrash = (open) => { state.trashOpen = open; document.body.classList.toggle("trash-open", open); };
-  $("#tabTrash").addEventListener("click", () => setTrash(!state.trashOpen));
-  const trashNav = $("#trashNav"); if (trashNav) trashNav.addEventListener("click", () => setTrash(true));
-  $$('.drawer-close').forEach((b) => b.addEventListener("click", () => setTrash(false)));
-  $("#drawerScrim").addEventListener("click", () => setTrash(false));
-
-  // global Undo
   $("#undoBtn").addEventListener("click", undoLast);
 
-  // ── Clear all → move a column to Trash (confirm) ──
+  // ── Clear all / Restore all ──
   $$('.clear-all').forEach((b) => b.addEventListener("click", () => openModal(b.dataset.clear)));
   $("#modalNo").addEventListener("click", closeModal);
   $("#modalScrim").addEventListener("click", (e) => { if (e.target === $("#modalScrim")) closeModal(); });
   $("#modalYes").addEventListener("click", () => {
-    if (!pendingClear) return;
-    const ids = visible().filter((j) => bucket(j) === pendingClear).map((j) => j.id);
-    if (ids.length) { pushUndo({ type: "trash", ids }); ids.forEach((id) => TRASH.add(id)); saveTrash(); }
+    const k = pendingClear;
+    if (!k) return;
+    if (k === "raised") {
+      const ids = visibleRaises().map(fundId);
+      if (ids.length) { pushUndo({ type: "dismiss", ids }); ids.forEach((id) => DISMISSED.add(id)); saveDismissed(); }
+    } else if (k === "trash") {
+      const ids = JOBS.filter((j) => TRASH.has(j.id)).map((j) => j.id);
+      if (ids.length) { pushUndo({ type: "restore", ids }); ids.forEach((id) => TRASH.delete(id)); saveTrash(); }
+    } else {
+      const ids = visible().filter((j) => bucket(j) === k).map((j) => j.id);
+      if (ids.length) { pushUndo({ type: "trash", ids }); ids.forEach((id) => TRASH.add(id)); saveTrash(); }
+    }
     closeModal(); render(true);
   });
 
-  document.addEventListener("keydown", (e) => { if (e.key === "Escape") { setTrash(false); clearAsk(); closeModal(); $$(".dd.open").forEach(ddClose); } });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") { openDrawer(null); closeModal(); $$(".dd.open").forEach(ddClose); }
+  });
 
-  // ── Tile interactions: apply-prompt / delete / restore, or open posting ──
+  // ── Card interactions ──
   const onCardClick = (e) => {
-    const card = e.target.closest(".job"); if (!card) return;
-    // outreach links (website / LinkedIn / founder) open on their own — don't
-    // also open the posting or fire the "did you apply?" prompt
-    if (e.target.closest(".outreach")) return;
-    const id = card.dataset.id, url = card.dataset.url;
-    const ask = e.target.closest('[data-ask]');
-    if (ask) {                                // answered the on-tile prompt
-      pushUndo({ type: "mark", id, prev: MARKS[id] });
-      if (ask.dataset.ask === "yes") flipMove(() => { MARKS[id] = "done"; saveMarks(MARKS); });
-      else flipMove(() => { delete MARKS[id]; saveMarks(MARKS); });
-      return;
+    const raise = e.target.closest(".raise");
+    if (raise) {                              // Just Raised card: dismiss or links
+      if (e.target.closest('[data-act="dismiss"]')) {
+        const id = raise.dataset.id;
+        pushUndo({ type: "dismiss", ids: [id] }); DISMISSED.add(id); saveDismissed(); render(true);
+      }
+      return;                                 // every other target is a real link
     }
+    const card = e.target.closest(".job"); if (!card) return;
+    if (e.target.closest(".outreach")) return;   // outreach links open on their own
+    const id = card.dataset.id, url = card.dataset.url;
+
+    if (e.target.closest('[data-act="apply"]'))   { setApplied([id], true);  render(false); return; }
+    if (e.target.closest('[data-act="unapply"]')) { setApplied([id], false); render(false); return; }
     if (e.target.closest('[data-act="restore"]')) {
       pushUndo({ type: "restore", ids: [id] }); TRASH.delete(id); saveTrash(); render(true); return;
     }
     if (e.target.closest('[data-act="delete"]')) {
       pushUndo({ type: "trash", ids: [id] });
-      const drop = () => { TRASH.add(id); saveTrash(); render(false); };
-      if (window.gsap) gsap.to(card, { opacity: 0, duration: 0.25, ease: "power1.out", onComplete: drop }); else drop();
+      card.classList.add("leaving");
+      setTimeout(() => { TRASH.add(id); saveTrash(); render(false); }, 160);
       return;
     }
-    // click anywhere else on the tile → open the posting, then ask on the tile
+    // anywhere else on the card → open the posting
     if (url && url !== "#") window.open(url, "_blank", "noopener");
-    if (!card.closest("#drawerTrash")) askOnCard(card);
   };
   $("main").addEventListener("click", onCardClick);
+  $("#drawerApplied").addEventListener("click", onCardClick);
   $("#drawerTrash").addEventListener("click", onCardClick);
 }
 
 /* ── Custom dropdown controller (multi-select + single) ─────────── */
-// Refresh a dropdown's button summary ("All" / one label / "N selected") and
-// its highlighted state from whatever inputs are currently checked.
 function ddSummary(dd) {
   const sum = dd.querySelector(".dd-sum");
   const single = !dd.hasAttribute("data-multi");
@@ -414,7 +520,6 @@ function ddSummary(dd) {
     sum.textContent = checked.length + " selected"; dd.classList.add("has-val");
   }
 }
-// Read a dropdown's checked inputs into state[key] (array for multi, string for single).
 function ddApply(dd) {
   const key = dd.dataset.dd;
   if (dd.hasAttribute("data-multi"))
@@ -422,7 +527,7 @@ function ddApply(dd) {
   else
     state[key] = (dd.querySelector(".dd-opt input:checked") || {}).value || "";
   ddSummary(dd);
-  render(true);
+  render(true, true);
 }
 function ddClose(dd) {
   dd.classList.remove("open");
@@ -444,15 +549,12 @@ function ddInit() {
     });
     ddSummary(dd);
   });
-  // click outside closes any open dropdown
   document.addEventListener("click", (e) => {
     if (!e.target.closest(".dd")) $$(".dd.open").forEach(ddClose);
   });
 }
 
 /* ── load data + refresh loop ─────────────────────────────────── */
-// Rebuild the Source dropdown's checkbox options from the live job list,
-// preserving the current selection.
 function populateSources() {
   const sources = [...new Set(JOBS.map((j) => j.source).filter(Boolean))].sort();
   const dd = $('.dd[data-dd="source"]');
@@ -466,45 +568,60 @@ function populateSources() {
   ddSummary(dd);
 }
 
-// Hybrid runners publish separate files: jobs.local.json (laptop: LinkedIn/
-// Indeed/Glassdoor/ZipRecruiter/Google) and jobs.cloud.json (GitHub Actions:
-// API/RSS/ATS + funding roles). jobs.json is the legacy single-runner file —
-// used only as a fallback when no jobs.local.json exists yet. We merge all
-// present sources and dedupe by id (deterministic, so the same posting from
-// two sources collapses to one).
-const JOB_FILES = ["./jobs.local.json", "./jobs.cloud.json", "./jobs.json"];
+// Hybrid runners publish two files: jobs.local.json (laptop: LinkedIn/
+// Indeed/Glassdoor/ZipRecruiter/Google) and jobs.cloud.json (GitHub
+// Actions: API/RSS/ATS + funding roles). Both are pruned to 30 days by
+// opentabs.py, and anything that slips through is dropped here too.
+const JOB_FILES = ["./jobs.local.json", "./jobs.cloud.json"];
+function fresh(rec) {
+  const t = new Date(rec.first_seen).getTime();
+  return !t || Date.now() - t <= MAX_AGE_MS;    // undated records are kept
+}
 function mergeJobs(lists) {
-  const haveLocal = Array.isArray(lists[0]) && lists[0].length > 0;
-  const pick = [lists[0], lists[1]];                 // local + cloud
-  if (!haveLocal) pick.push(lists[2]);               // fall back to legacy jobs.json
   const byId = new Map();
-  pick.forEach((arr) => (Array.isArray(arr) ? arr : []).forEach((j) => {
-    if (!j || !j.id) return;
+  lists.forEach((arr) => (Array.isArray(arr) ? arr : []).forEach((j) => {
+    if (!j || !j.id || !fresh(j)) return;
     const prev = byId.get(j.id);
-    // keep the freshest copy if the same posting shows up in two files
+    // keep the freshest copy if the same posting shows up in both files
     if (!prev || (j.first_seen || "") > (prev.first_seen || "")) byId.set(j.id, j);
   }));
   return [...byId.values()];
 }
 
+/* Cheap fingerprint of a payload. The 60s refresh usually brings back
+   exactly what we already have; re-rendering on that was pure waste. */
+function sigOf(jobs, fund) {
+  let newest = "";
+  jobs.forEach((j) => { if ((j.first_seen || "") > newest) newest = j.first_seen; });
+  return jobs.length + "|" + newest + "|" + fund.length;
+}
+let SIG = "";
+
 function load(animate) {
-  Promise.all(JOB_FILES.map((f) =>
-    fetch(f + "?_=" + Date.now()).then((r) => (r.ok ? r.json() : [])).catch(() => [])
-  )).then((lists) => {
-    JOBS = mergeJobs(lists);
+  Promise.all([
+    ...JOB_FILES.map((f) => fetch(f + "?_=" + Date.now()).then((r) => (r.ok ? r.json() : [])).catch(() => [])),
+    fetch("./funding.json?_=" + Date.now()).then((r) => (r.ok ? r.json() : [])).catch(() => []),
+  ]).then((lists) => {
+    const jobs = mergeJobs(lists.slice(0, 2));
+    const fund = (Array.isArray(lists[2]) ? lists[2] : []).filter(fresh);
+    const sig = sigOf(jobs, fund);
+    if (sig === SIG && !animate) {                 // nothing new — don't repaint
+      $("#status").textContent = "Updated " + new Date().toLocaleTimeString();
+      return;
+    }
+    SIG = sig;
+    JOBS = jobs; FUND = fund;
     if (!JOBS.length) $("#status").textContent = "No data yet";
-    populateSources(); render(animate);
+    populateSources(); render(animate, true);
   });
-  fetch("./funding.json?_=" + Date.now())
-    .then((r) => (r.ok ? r.json() : []))
-    .then((data) => { FUND = Array.isArray(data) ? data : []; renderFunding(); })
-    .catch(() => {});
 }
 
-// arriving from the Just Raised page's Trash tab? open the trash drawer
-if (location.hash === "#trash") state.trashOpen = true;
+// deep links from bookmarks still open the right panel
+if (location.hash === "#trash") state.drawer = "trash";
+if (location.hash === "#applied") state.drawer = "app";
 
 applyChrome();
+openDrawer(state.drawer);
 bind();
 load(true);
 setInterval(() => load(false), 60000);

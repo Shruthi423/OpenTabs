@@ -12,23 +12,23 @@
 
 :root[data-theme="dark"] {
   --bg:#0c0d0f; --fg:#e9eae8; --spec:#d7f3ec; --mut:#6f757e;
-  --line:#23262b; --field-bg:#0c0d0f; --active-bg:#e7f8f3; --active-fg:#0c0d0f;
+  --co:#8fe3cf; --danger:#ff6b6e; --line:#23262b; --field-bg:#0c0d0f; --active-bg:#e7f8f3; --active-fg:#0c0d0f;
 }
 :root[data-theme="paper"] {
   --bg:#ffffff; --fg:#0c0d0f; --spec:#0c0d0f; --mut:#8b9099;
-  --line:rgba(12,13,15,.12); --field-bg:#ffffff; --active-bg:#0c0d0f; --active-fg:#ffffff;
+  --co:#0f5f57; --danger:#c8232c; --line:rgba(12,13,15,.12); --field-bg:#ffffff; --active-bg:#0c0d0f; --active-fg:#ffffff;
 }
 :root[data-theme="blush"] {
   --bg:#f7e9e8; --fg:#1a1413; --spec:#1a1413; --mut:#a08a89;
-  --line:rgba(26,20,19,.14); --field-bg:#f7e9e8; --active-bg:#1a1413; --active-fg:#f7e9e8;
+  --co:#9d2235; --danger:#b3202f; --line:rgba(26,20,19,.14); --field-bg:#f7e9e8; --active-bg:#1a1413; --active-fg:#f7e9e8;
 }
 :root[data-theme="mint"] {
   --bg:#e7f6e8; --fg:#0f1a11; --spec:#0f1a11; --mut:#7fa183;
-  --line:rgba(15,26,17,.14); --field-bg:#e7f6e8; --active-bg:#0f1a11; --active-fg:#e7f6e8;
+  --co:#146b4a; --danger:#b3202f; --line:rgba(15,26,17,.14); --field-bg:#e7f6e8; --active-bg:#0f1a11; --active-fg:#e7f6e8;
 }
 :root[data-theme="cream"] {
   --bg:#f9f8d8; --fg:#1a1a0e; --spec:#1a1a0e; --mut:#9c9a6f;
-  --line:rgba(26,26,14,.14); --field-bg:#f9f8d8; --active-bg:#1a1a0e; --active-fg:#f9f8d8;
+  --co:#7a5a00; --danger:#b34a20; --line:rgba(26,26,14,.14); --field-bg:#f9f8d8; --active-bg:#1a1a0e; --active-fg:#f9f8d8;
 }
 /* Native <select> dropdowns follow the active theme (dark vs light popups) */
 :root[data-theme="dark"] { color-scheme: dark; }
@@ -52,56 +52,13 @@ main { flex: 1 0 auto; }
 a { color: inherit; text-decoration: none; }
 sup { font-size: .5em; vertical-align: super; }
 
-.lbl, .hint, .sortlbl, .status, .count, .seg button, .reset {
+.lbl, .hint, .status, .count, .seg button {
   font-size: 12px; letter-spacing: 0;
 }
-
-/* ── Top nav: hairline-separated cells ─────────────────────────── */
-.nav {
-  position: sticky; top: 0; z-index: 20;
-  display: grid;
-  grid-template-columns: 1fr .9fr .65fr 1.05fr .8fr .8fr 1.2fr;
-  background: var(--bg);
-  border-bottom: 1px solid var(--line);
-}
-.nav .cell {
-  display: flex; align-items: center; gap: 8px;
-  padding: 20px 22px;
-  border-left: 1px solid var(--line);
-  font-size: 14px; color: var(--fg);
-  cursor: pointer; background: none;
-  border-top: 0; border-right: 0; border-bottom: 0; font-family: inherit;
-}
-.nav .brand { border-left: 0; font-weight: 700; letter-spacing: -.01em; gap: 9px; }
-.nav .brand .logo { flex: none; }
-.nav .tab { justify-content: center; position: relative; overflow: hidden; }
-/* contrast colour fills up from the bottom on hover */
-.nav .tab::before {
-  content: ""; position: absolute; inset: 0; z-index: 0;
-  background: var(--active-bg); transform: scaleY(0); transform-origin: bottom;
-  transition: transform .34s cubic-bezier(.22,1,.36,1);
-}
-.nav .tab .tab-fire { align-self: center; margin-right: -2px; color: var(--spec); flex: none; }
-.nav .tab .t {
-  position: relative; z-index: 1;
-  display: inline-flex; align-items: baseline; gap: 8px;
-  transition: color .2s ease;
-}
-.nav .tab em {
-  font-style: normal; color: var(--mut); font-size: 12px;
-}
-.nav .tab:hover::before { transform: scaleY(1); }
-.nav .tab:hover .t, .nav .tab:hover em { color: var(--active-fg); }
-.nav .tab.is-active::before { transform: scaleY(1); }
-.nav .tab.is-active .t, .nav .tab.is-active em { color: var(--active-fg); }
-.nav .tab.is-active em { opacity: .7; }
-.nav .status { justify-content: flex-end; color: var(--mut); }
-.nav .menu { display: none; justify-content: center; }
 
 /* ── Control bars ──────────────────────────────────────────────── */
 .controls { border-bottom: 1px solid var(--line); }
 .row { display: flex; align-items: center; gap: 28px; padding: 15px 24px; flex-wrap: wrap; row-gap: 12px; }
-.row.sub { border-top: 1px solid var(--line); padding: 13px 24px; }
 .field { display: flex; align-items: center; gap: 10px; cursor: pointer; }
 .field .lbl { color: var(--mut); }
 .field.search { flex: 1; }
@@ -118,6 +75,9 @@ sup { font-size: .5em; vertical-align: super; }
    Styled in harmony with the board: theme vars, inherited font, the same
    pill/chip language used elsewhere. */
 .dd { position: relative; display: inline-flex; }
+/* `display` would otherwise beat the hidden attribute when a section
+   hides a filter that means nothing there. */
+.dd[hidden] { display: none; }
 .dd-btn {
   display: inline-flex; align-items: center; gap: 8px;
   background: none; border: 0; outline: 0; cursor: pointer;
@@ -172,25 +132,22 @@ input[type="range"]::-moz-range-thumb {
   background: var(--bg); border: 1.5px solid var(--fg); cursor: pointer;
 }
 
-.row.sub .left, .row.sub .right { display: flex; align-items: center; gap: 18px; }
-.row.sub .right { margin-left: auto; }
 .count { color: var(--fg); font-weight: 500; }
-.sortlbl { color: var(--mut); }
 .seg { display: flex; gap: 16px; }
-.seg button, .reset {
+.seg button {
   background: none; border: 0; color: var(--mut); cursor: pointer;
   font-family: inherit; padding: 0;
 }
 .seg button.is-on { color: var(--fg); }
-.reset:hover, .seg button:hover { color: var(--fg); }
+.seg button:hover { color: var(--fg); }
 /* Sort-by buttons: icon only; label slides in on hover (active = lit icon) */
-.seg-sort .sort, .seg-sort .rsort { display: inline-flex; align-items: center; gap: 0; }
-.seg-sort .sort svg, .seg-sort .rsort svg { display: block; opacity: .9; width: 18px; height: 18px; }
+.seg-sort .sort { display: inline-flex; align-items: center; gap: 0; }
+.seg-sort .sort svg { display: block; opacity: .9; width: 18px; height: 18px; }
 .seg-sort .lbl {
   max-width: 0; opacity: 0; overflow: hidden; white-space: nowrap;
   transition: max-width .22s ease, opacity .22s ease, margin .22s ease;
 }
-.seg-sort .sort:hover .lbl, .seg-sort .rsort:hover .lbl {
+.seg-sort .sort:hover .lbl {
   max-width: 90px; opacity: 1; margin-left: 6px;
 }
 
@@ -219,37 +176,6 @@ input[type="range"]::-moz-range-thumb {
 .undo-all:hover:not(:disabled) { color: var(--fg); }
 .undo-all:disabled { opacity: .3; cursor: default; }
 
-/* ── Just Raised page (raised.html — funding news feed) ────────── */
-.nav-raised { grid-template-columns: 1.4fr 1fr 1.2fr 1.8fr; }
-.raised-intro {
-  padding: 34px 24px 26px; border-bottom: 1px solid var(--line); max-width: 760px;
-}
-.raised-intro h1 {
-  margin: 0 0 10px; font-family: var(--font-title); font-weight: 700;
-  letter-spacing: -.02em; font-size: 30px;
-  display: flex; align-items: center; gap: 10px;
-}
-.ico-fire { flex: none; color: var(--spec); }
-.raised-intro p { margin: 0; color: var(--mut); font-size: 13px; line-height: 1.55; }
-.feed-controls {
-  display: flex; align-items: center; gap: 18px;
-  padding: 13px 24px; border-bottom: 1px solid var(--line);
-}
-.feed-controls .count { color: var(--mut); font-size: 12px; }
-.feed-controls .count b { color: var(--fg); font-weight: 700; }
-/* Column view = card grid, capped at 3 columns */
-.feed.cols {
-  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
-}
-@media (max-width: 1024px) { .feed.cols { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-@media (max-width: 680px)  { .feed.cols { grid-template-columns: 1fr; } }
-/* Sort + view controls share the row; Sort by sits at the far right */
-.feed-controls .rsort-wrap { display: inline-flex; align-items: center; gap: 14px; margin-left: auto; }
-/* List view = full-width stacked rows */
-.feed.list { display: block; }
-.feed.list .raise { border-right: 0; padding: 22px 24px; }
-.feed.list .raise-co { font-size: calc(var(--spec-size, 24px) * .95); }
-.feed-empty { padding: 40px 24px; color: var(--mut); font-size: 13px; }
 .raise {
   min-width: 0; padding: 18px 20px;
   border-right: 1px solid var(--line); border-bottom: 1px solid var(--line);
@@ -322,21 +248,24 @@ a.role .role-loc { color: var(--mut); }
 .outreach svg { flex: none; opacity: .85; }
 
 /* ── Three-column board (New · Older-day · Older-week; Applied = drawer) ── */
-.board { display: grid; grid-template-columns: repeat(3, 1fr); }
+/* ── Three-column board ────────────────────────────────────────── */
+.board { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); }
 .col { border-left: 1px solid var(--line); min-width: 0; }
 .col:first-child { border-left: 0; }
 .col-head {
-  display: flex; align-items: baseline; gap: 10px;
-  padding: 20px 18px 14px; border-bottom: 1px solid var(--line);
+  position: sticky; top: 57px; z-index: 15; background: var(--bg);
+  display: flex; align-items: center; gap: 9px; flex-wrap: wrap;
+  padding: 16px 18px 13px; border-bottom: 1px solid var(--line);
 }
 .col-head h2 {
   margin: 0; font-size: 12px; text-transform: uppercase;
-  letter-spacing: .06em; font-weight: 700;
+  letter-spacing: .07em; font-weight: 700;
+  display: inline-flex; align-items: center; gap: 7px;
 }
 .col-head em { font-style: normal; color: var(--mut); font-size: 12px; }
-.col-head .hint { color: var(--mut); font-size: 12px; margin-left: auto; }
-
-/* ── A compact job card ────────────────────────────────────────── */
+.col-head .hint { color: var(--mut); font-size: 11px; }
+.col-head .showing { color: var(--co); font-size: 11px; }
+.col-head .clear-all { margin-left: auto; }
 .job { display: block; padding: 16px 18px; border-bottom: 1px solid var(--line); }
 .job-top {
   display: flex; align-items: baseline; gap: 8px;
@@ -395,49 +324,16 @@ a.role .role-loc { color: var(--mut); }
 .job { cursor: pointer; position: relative; }
 
 /* on-tile "Did you apply?" prompt — covers the clicked card in place */
-.job-ask {
-  position: absolute; inset: 0; z-index: 6;
-  display: flex; flex-direction: column; align-items: center; justify-content: center;
-  gap: 14px; padding: 14px; text-align: center;
-  background: var(--bg); border: 1px solid var(--spec);
-}
-.job-ask .ask-q { font-family: var(--font-ui); font-size: 13px; color: var(--fg); }
-.job-ask .ask-btns { display: flex; gap: 10px; }
-.job-ask button { cursor: pointer; font-family: var(--font-ui); font-size: 12px; border-radius: 20px; }
-.job-ask .ask-yes { background: var(--active-bg); color: var(--active-fg); border: 0; padding: 7px 16px; }
-.job-ask .ask-yes:hover { opacity: .85; }
-.job-ask .ask-no { background: none; border: 1px solid var(--line); color: var(--mut); padding: 6px 14px; }
-.job-ask .ask-no:hover { color: var(--fg); border-color: var(--fg); }
 .act, .clear-all, .drawer-close { cursor: pointer; }   /* keep buttons obvious */
-.act.icon.del:hover { color: #e5484d; }
+.act.icon.del:hover { color: var(--danger); }
 
 /* visa badges */
 .badge.visa-yes { color: #2e9e6b; border-color: #2e9e6b; }
 .badge.visa-no  { color: var(--mut); }
 
 /* animated strike that draws left→right when you click Done (GSAP sets --strike) */
-.job-title.striking {
-  text-decoration: none;
-  background-image: linear-gradient(var(--spec), var(--spec));
-  background-repeat: no-repeat;
-  background-position: 0 52%;
-  background-size: var(--strike, 0%) 2px;
-}
 
 /* ── List view: one column, big editorial specimens ────────────── */
-main.list { display: block; }
-main.list .col { border-left: 0; border-top: 1px solid var(--line); }
-main.list .col:first-child { border-top: 0; }
-main.list .col-head { padding: 22px 24px 14px; }
-main.list .job { padding: 26px 24px 24px; }
-main.list .job-top { font-size: 12px; }
-main.list .job-title {
-  font-size: calc(var(--spec-size) * 2.7);
-  line-height: 1.0; margin-top: 2px;
-}
-main.list .job-meta, main.list .job-foot { font-size: 12px; }
-main.list .apply { font-size: 12px; }
-
 .foot {
   color: var(--mut); font-size: 13px; text-align: center; padding: 44px 20px 60px;
   display: flex; flex-direction: column; gap: 7px;
@@ -445,18 +341,6 @@ main.list .apply { font-size: 12px; }
 .foot b { color: var(--fg); font-weight: 700; }
 .foot .tagline { color: var(--mut); letter-spacing: .01em; }
 
-.totop {
-  position: fixed; right: 22px; bottom: 22px;
-  padding: 9px 14px; border: 1px solid var(--line); border-radius: 20px;
-  background: var(--bg); color: var(--fg); font-size: 12px; letter-spacing: .02em;
-}
-
-/* ── View toggle: icon buttons (column / list) ─────────────────── */
-.seg-view { gap: 14px; }
-.seg-view .view, .seg-view .rview { display: inline-flex; align-items: center; line-height: 0; }
-.seg-view .view svg, .seg-view .rview svg { display: block; opacity: .85; transition: opacity .15s ease; }
-.seg-view .view:hover svg, .seg-view .view.is-on svg,
-.seg-view .rview:hover svg, .seg-view .rview.is-on svg { opacity: 1; }
 
 /* ── Icon actions: Undo + Remove (sit alongside Done / Not yet) ── */
 .act.icon {
@@ -465,7 +349,7 @@ main.list .apply { font-size: 12px; }
 }
 .act.icon svg { display: block; }
 .act.icon:hover { color: var(--fg); }
-.act.icon.remove:hover { color: #e5484d; }   /* destructive hint on hover */
+.act.icon.remove:hover { color: var(--danger); }   /* destructive hint on hover */
 
 /* ── "N hidden · Restore" link in the footer ───────────────────── */
 .restore {
@@ -475,38 +359,21 @@ main.list .apply { font-size: 12px; }
 .restore:hover { color: var(--fg); border-bottom-color: var(--fg); }
 
 /* ── Applied drawer — collapsible panel from the right edge ────── */
-.drawer-tabs {
-  position: fixed; right: 0; top: 50%; transform: translateY(-50%);
-  z-index: 25; display: flex; flex-direction: column; gap: 8px; align-items: flex-end;
-  transition: opacity .25s ease;
-}
-.drawer-tab {
-  writing-mode: vertical-rl;
-  display: inline-flex; align-items: center; gap: 10px;
-  background: var(--active-bg); color: var(--active-fg);
-  border: 0; border-radius: 10px 0 0 10px; cursor: pointer;
-  font-family: var(--font-ui); font-size: 12px; letter-spacing: .12em;
-  text-transform: uppercase; padding: 16px 9px; transition: opacity .2s ease;
-}
-.drawer-tab em { font-style: normal; opacity: .7; }
-.drawer-tab:hover { opacity: .88; }
-body.trash-open .drawer-tabs { opacity: 0; pointer-events: none; }
-
 .drawer-scrim {
   position: fixed; inset: 0; z-index: 29; background: rgba(0,0,0,.32);
   opacity: 0; pointer-events: none; transition: opacity .35s ease;
 }
-body.trash-open .drawer-scrim { opacity: 1; pointer-events: auto; }
+body.drawer-open .drawer-scrim { opacity: 1; pointer-events: auto; }
 
 .drawer {
   position: fixed; top: 0; right: 0; z-index: 30;
   height: 100vh; width: min(390px, 88vw);
   display: flex; flex-direction: column;
   background: var(--bg); border-left: 1px solid var(--line);
-  transform: translateX(100%);
   transition: transform .42s cubic-bezier(.22,1,.36,1);
 }
-body.trash-open .drawer-trash {
+body.drawer-app #drawerApplied,
+body.drawer-trash #drawerTrash {
   transform: translateX(0); box-shadow: -22px 0 50px rgba(0,0,0,.22);
 }
 .drawer-head {
@@ -526,15 +393,19 @@ body.trash-open .drawer-trash {
 .drawer .rows { overflow-y: auto; flex: 1 1 auto; }
 
 /* ── "Clear all" per column / drawer ───────────────────────────── */
+/* Destructive, so it reads as destructive at rest — not only on hover. */
 .clear-all {
-  background: none; border: 0; cursor: pointer; color: var(--mut);
+  background: none; border: 0; cursor: pointer; color: var(--danger);
   font-family: var(--font-ui); font-size: 11px; padding: 0; white-space: nowrap;
+  font-weight: 500; letter-spacing: .02em;
   border-bottom: 1px solid transparent;
 }
-.clear-all:hover { color: #e5484d; border-bottom-color: #e5484d; }
-.col-head .clear-all { margin-left: 8px; }
-.drawer-head .clear-all { margin-left: auto; }
-.drawer-head .drawer-close { margin-left: 10px; }
+.clear-all:hover { border-bottom-color: var(--danger); }
+.clear-all[hidden] { display: none; }
+/* Restoring from Trash isn't destructive, so it drops the red. */
+.clear-all.neutral { color: var(--mut); }
+.clear-all.neutral:hover { color: var(--fg); border-bottom-color: var(--fg); }
+.drawer-head .drawer-close { margin-left: auto; }
 
 /* ── Confirm modal (Clear all) ─────────────────────────────────── */
 .modal-scrim {
@@ -566,37 +437,228 @@ body.trash-open .drawer-trash {
 /* ── Responsive ────────────────────────────────────────────────── */
 
 /* Tablet / small laptop: board collapses to a single stacked column */
+/* Below three-column width the board stacks; the sticky column heads go
+   static so they can't pile up on one another. */
 @media (max-width: 1024px) {
   .board { grid-template-columns: 1fr; }
   .col { border-left: 0; border-top: 1px solid var(--line); }
   .col:first-child { border-top: 0; }
+  .col-head { position: static; }
   .row { gap: 22px; }
 }
 
-/* Narrow tablet / large phone: nav collapses, filters behind "Filters" */
+/* Narrow tablet / large phone: the control row wraps, status drops out */
 @media (max-width: 860px) {
-  .nav { grid-template-columns: 1fr auto; }
-  .nav .tab, .nav .status { display: none; }
-  .nav .menu { display: flex; }
-  .controls { display: none; }
-  .controls.open { display: block; }
-  .row.sub .left, .row.sub .right { flex-wrap: wrap; }
+  .row .status { display: none; }
+  .row { gap: 16px; }
 }
 
 /* Phone */
 @media (max-width: 600px) {
-  .nav .cell { padding: 16px; }
-  .row, .row.sub { padding: 12px 16px; gap: 16px; }
-  .field.search { flex-basis: 100%; }
-  .field.size { width: 100%; }
-  .field.size input[type="range"] { width: 100%; flex: 1; }
-  .row.sub .left, .row.sub .right { width: 100%; margin-left: 0; }
-  .row.sub .right { justify-content: flex-start; }
-  .col-head { padding: 16px 16px 12px; }
+  .row { padding: 12px 16px; gap: 14px; }
+  .field.search { flex-basis: 100%; order: -1; }
   .job { padding: 16px; }
   .job-foot { gap: 12px; }
   .act.done { padding: 7px 15px; }       /* comfortable tap target */
   .act { font-size: 12px; }
-  main.list .job-title { font-size: calc(var(--spec-size) * 1.8); }
-  .totop { right: 14px; bottom: 14px; }
+}
+
+/* ════════════════════════════════════════════════════════════════
+   Single-page board — one control row, three columns, three drawers.
+   Added in the nav-less redesign; everything above this line is the
+   original editorial styling it builds on.
+   ════════════════════════════════════════════════════════════════ */
+
+/* ── One horizontal settings row ───────────────────────────────── */
+.controls { position: sticky; top: 0; z-index: 20; background: var(--bg); }
+.row { gap: 20px; }
+.row .count { color: var(--mut); font-size: 12px; margin-left: auto; white-space: nowrap; }
+.row .count b { color: var(--fg); font-weight: 700; }
+.row .status { color: var(--mut); font-size: 12px; white-space: nowrap; margin-left: auto; }
+/* Sort now sits with the other top-bar settings */
+.row .seg-sort { display: inline-flex; align-items: center; gap: 14px; }
+/* the group label must escape the hover-reveal rule the item labels use */
+.row .seg-sort > .lbl { color: var(--mut); max-width: none; opacity: 1; margin: 0; }
+.row .seg-sort .sort { color: var(--mut); }
+.row .seg-sort .sort.is-on { color: var(--fg); }
+/* narrow, fixed field — it no longer eats a third of the bar */
+.field.search { flex: 0 0 210px; min-width: 0; }
+.field.search input { width: 100%; font-size: 13px; }
+
+.iconbtn {
+  background: none; border: 0; padding: 3px; color: var(--mut);
+  display: inline-flex; align-items: center; line-height: 0; cursor: pointer;
+  transition: color .18s ease, transform .3s ease;
+}
+.iconbtn:hover:not(:disabled) { color: var(--fg); }
+.iconbtn:disabled { opacity: .3; cursor: default; }
+
+/* ── Company name: the primary hook on a card ──────────────────── */
+.job-top .co {
+  color: var(--co); font-weight: 700; font-size: 13px;
+  letter-spacing: .01em; text-transform: uppercase;
+}
+.job:hover .job-top .co { text-decoration: underline; text-underline-offset: 3px; }
+
+/* ── Just Raised column ────────────────────────────────────────── */
+.ico-fire { flex: none; color: var(--co); }
+.col-raised .raise { border-right: 0; padding: 16px 18px; }
+.col-raised .raise-co { font-size: calc(var(--spec-size, 24px) * .82); }
+.raise-top { position: relative; }
+.raise-top .act.icon.del { margin-left: 8px; font-size: 13px; line-height: 1; }
+.act.done { font-size: 11px; padding: 5px 13px; }
+
+/* ── Right-hand panels: Applied · Trash ────────────────────────── */
+.drawer-right { right: 0; left: auto; border-left: 1px solid var(--line); transform: translateX(100%); }
+.drawer-tabs {
+  position: fixed; right: 0; top: 50%; transform: translateY(-50%);
+  z-index: 25; display: flex; flex-direction: column; gap: 8px; align-items: flex-end;
+  transition: opacity .25s ease;
+}
+.drawer-tab {
+  writing-mode: vertical-rl;
+  display: inline-flex; align-items: center; gap: 10px;
+  background: var(--active-bg); color: var(--active-fg);
+  border: 0; border-radius: 10px 0 0 10px; cursor: pointer;
+  font-family: var(--font-ui); font-size: 12px; letter-spacing: .12em;
+  text-transform: uppercase; padding: 16px 9px; transition: opacity .2s ease;
+}
+.drawer-tab em { font-style: normal; opacity: .7; }
+.drawer-tab:hover { opacity: .88; }
+body.drawer-open .drawer-tabs { opacity: 0; pointer-events: none; }
+
+/* ── Footer picks up the brand + status the navbar used to carry ── */
+.foot-brand {
+  display: inline-flex; align-items: center; justify-content: center; gap: 7px;
+  color: var(--fg); font-weight: 700; letter-spacing: -.01em;
+}
+
+@media (max-width: 1024px) {
+  .col-raised .raise-co { font-size: calc(var(--spec-size, 24px) * .95); }
+}
+
+/* ── Permanent left rail: brand + settings, 64px, always on screen ──
+   Not a drawer: it holds real width in the layout and never collapses,
+   so the board simply starts to the right of it. */
+:root { --rail: 64px; }
+body { padding-left: var(--rail); }
+.rail {
+  position: fixed; left: 0; top: 0; bottom: 0; width: var(--rail); z-index: 45;
+  background: var(--bg); border-right: 1px solid var(--line);
+  display: flex; flex-direction: column; align-items: center; gap: 22px;
+  padding: 16px 0 20px; overflow-y: auto;
+}
+.rail-brand {
+  color: var(--fg); display: inline-flex; padding: 6px;
+  border-bottom: 1px solid var(--line); width: 100%; justify-content: center;
+  padding-bottom: 16px;
+}
+.rail-brand:hover { color: var(--co); }
+.rail-group {
+  display: flex; flex-direction: column; align-items: center; gap: 10px; width: 100%;
+}
+.rail-lbl {
+  font-size: 9px; letter-spacing: .1em; text-transform: uppercase; color: var(--mut);
+}
+.rail-val { font-size: 10px; color: var(--mut); }
+/* A rotated horizontal slider: the only vertical-range approach that
+   renders identically in every browser. The wrapper reserves the space
+   the rotation itself would not claim in layout. */
+.rail-slider { position: relative; height: 96px; width: 22px; flex: none; }
+/* absolute + translate is what actually centres a rotated element: grid
+   centring measures the pre-rotation box, which is wider than the rail. */
+.rail-slider input[type="range"] {
+  position: absolute; top: 50%; left: 50%; width: 96px; height: 2px; margin: 0;
+  transform: translate(-50%, -50%) rotate(-90deg); transform-origin: center;
+}
+/* theme swatches stack down the rail instead of running across a toolbar */
+.rail-group.swatches { flex-direction: column; gap: 9px; }
+.rail-group.swatches .sw,
+.rail-group.swatches:not(:hover) .sw:not(.is-on) {
+  width: 18px; height: 18px; margin-left: 0; opacity: 1;
+  border-width: 1px; transform: none; pointer-events: auto;
+}
+
+/* the rail owns the left edge, so page chrome starts after it */
+.controls, .col-head { }
+.drawer-scrim { left: var(--rail); }
+
+@media (max-width: 860px) {
+  :root { --rail: 52px; }
+  .rail { gap: 16px; }
+  .rail-lbl { display: none; }
+  .rail-slider { height: 76px; }
+  .rail-slider input[type="range"] { width: 76px; }
+}
+@media (max-width: 600px) {
+  .rail { gap: 12px; padding: 10px 0 14px; }
+  .rail-slider { height: 64px; }
+  .rail-slider input[type="range"] { width: 64px; }
+  .rail-group.swatches .sw { width: 15px; height: 15px; }
+}
+
+/* ── Uniform rows ──────────────────────────────────────────────────
+   Every card in every column is exactly one row tall, so the three
+   columns line up rank for rank. The height tracks the card-size
+   slider. Content that cannot fit is clamped — never allowed to push
+   the action button out of the card. */
+:root { --row-h: calc(var(--spec-size, 24px) * 3.6 + 128px); }
+
+.col .job, .col-raised .raise {
+  height: var(--row-h);
+  display: flex; flex-direction: column;
+  overflow: hidden;
+}
+/* job: title clamps to two lines, the action row is pinned to the bottom */
+.col .job > .job-top, .col .job > .job-meta { flex: none; }
+.col .job > .job-title {
+  flex: 0 1 auto; min-height: 0;
+  display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.col .job > .outreach { flex: none; max-height: 30px; overflow: hidden; }
+.col .job > .job-foot { margin-top: auto; flex: none; }
+
+/* raise: the open-roles list absorbs the squeeze and fades out at the cut */
+.col-raised .raise > .raise-top,
+.col-raised .raise > .raise-co,
+.col-raised .raise > .raise-highlight,
+.col-raised .raise > .raise-meta,
+.col-raised .raise > .outreach,
+.col-raised .raise > .read { flex: none; }
+.col-raised .raise > .raise-co {
+  display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 1;
+  overflow: hidden; word-break: break-word;
+}
+.col-raised .raise > .roles {
+  flex: 1 1 auto; min-height: 0; overflow: hidden;
+  -webkit-mask-image: linear-gradient(to bottom, #000 62%, transparent 100%);
+          mask-image: linear-gradient(to bottom, #000 62%, transparent 100%);
+}
+/* trimmed so a funding card's fixed parts fit the shared row height and
+   the roles list keeps a line of its own */
+.col-raised .raise > .read { margin-top: 6px; }
+.col-raised .raise > .roles { margin-top: 0; }
+/* in a fixed-height row the label would eat the space the role names need */
+.col-raised .roles-lbl { display: none; }
+.col-raised .raise > .outreach { margin-top: 9px; max-height: 28px; }
+/* long location strings would otherwise wrap the chip row onto three lines */
+.col-raised .raise-highlight { flex-wrap: nowrap; }
+.col-raised .hl { min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.col-raised .hl-amt { flex: none; }
+
+/* ── Entrance + exit, CSS only (GSAP was 2 CDN requests for this) ──── */
+@keyframes rowIn { from { opacity: 0; transform: translateY(9px); } to { opacity: 1; transform: none; } }
+.rows.anim > .job:nth-child(-n+8),
+.rows.anim > .raise:nth-child(-n+8) { animation: rowIn .3s ease both; }
+.job.leaving { opacity: 0; transition: opacity .16s ease; }
+@media (prefers-reduced-motion: reduce) {
+  .rows.anim > .job, .rows.anim > .raise { animation: none; }
+  .job.leaving { transition: none; }
+}
+
+/* the "keep scrolling" sentinel that pulls in the next page of rows */
+.more {
+  padding: 16px 18px; color: var(--mut); font-size: 11px;
+  border-bottom: 1px solid var(--line); letter-spacing: .04em;
 }
