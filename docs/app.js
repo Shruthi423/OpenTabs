@@ -14,12 +14,18 @@ let FUND = [];                          // raw data from funding.json
 const state = {
   q: "", source: [], loc: [], date: "", visa: [],   // source/loc/visa = multi
   sort: localStorage.getItem("sort") || "new",      // new | city | pay
+  mode: localStorage.getItem("mode") || "board",    // board | (brain — not built)
   theme: localStorage.getItem("theme") || "dark",
   drawer: null,                                     // null | "app" | "trash"
 };
 /* Labels for the confirm dialog and the empty states. */
 const LABELS = { today: "Today", prev: "Previous", raised: "Just Raised", app: "Applied", trash: "Trash" };
 const SORTS = ["new", "city", "pay"];
+/* Rail modes. "board" is this three-column triage surface; "brain" is
+   cognition mode — the icon is in the rail but the mode does not exist
+   yet, so it is listed here and deliberately not switchable. */
+const MODES = ["board"];
+const SOON_MODES = ["brain"];
 const THEMES = ["dark", "paper", "blush", "mint", "cream"];
 const PAGE = 40;                        // rows rendered per column up front
 const MAX_AGE_MS = 30 * 864e5;          // the site ignores anything older
@@ -208,6 +214,28 @@ function sourceLabel(src) {
 }
 
 function setNum(el, val) { if (el) el.textContent = val; }
+/* One shared flyout label for the icon-only rail. Fixed-position so it
+   escapes the rail's own scroll box, which would otherwise clip it. */
+let TIP = null, tipT = 0, tipHold = false;
+function railTip() {
+  if (!TIP) { TIP = document.createElement("div"); TIP.className = "rail-tip"; document.body.appendChild(TIP); }
+  return TIP;
+}
+function showTip(el, msg) {
+  const t = railTip(), r = el.getBoundingClientRect();
+  t.textContent = msg || el.dataset.tip || "";
+  t.style.left = (r.right + 10) + "px";
+  t.style.top = (r.top + r.height / 2) + "px";
+  t.classList.add("on");
+}
+function hideTip() { if (TIP && !tipHold) TIP.classList.remove("on"); }
+/* Briefly pin a different label to a rail button, then release it. */
+function flashTip(el, msg) {
+  tipHold = true;
+  showTip(el, msg);
+  clearTimeout(tipT);
+  tipT = setTimeout(() => { tipHold = false; hideTip(); }, 1400);
+}
 /* Entrance animation is CSS now: the class is set for one frame's worth of
    renders and only the first rows in each column animate, so a filter
    keystroke never repaints thousands of cards. */
@@ -391,7 +419,15 @@ function setCount(k, shown, total) {
 function applyChrome() {
   if (!THEMES.includes(state.theme)) state.theme = "dark";
   if (!SORTS.includes(state.sort)) state.sort = "new";
+  // a mode saved before it shipped (or after one is removed) falls back
+  if (!MODES.includes(state.mode)) state.mode = "board";
   document.documentElement.setAttribute("data-theme", state.theme);
+  document.documentElement.setAttribute("data-mode", state.mode);
+  $$('[data-mode]').forEach((b) => {
+    const on = b.dataset.mode === state.mode;
+    b.classList.toggle("is-on", on);
+    b.setAttribute("aria-pressed", on ? "true" : "false");
+  });
   $$('.sw').forEach((b) => b.classList.toggle("is-on", b.dataset.theme === state.theme));
   $$('[data-sort]').forEach((b) => b.classList.toggle("is-on", b.dataset.sort === state.sort));
   refreshUndo();
@@ -435,6 +471,20 @@ function bind() {
     state.sort = b.dataset.sort; localStorage.setItem("sort", state.sort);
     $$('[data-sort]').forEach((x) => x.classList.toggle("is-on", x === b));
     render(true, true);
+  }));
+
+  // Mode switch. Modes that aren't built yet stay inert — clicking one
+  // says so rather than half-switching into a surface that isn't there.
+  $$('[data-mode]').forEach((b) => {
+    ["pointerenter", "focus"].forEach((ev) =>
+      b.addEventListener(ev, () => { if (!tipHold) showTip(b); }));
+    ["pointerleave", "blur"].forEach((ev) => b.addEventListener(ev, hideTip));
+  });
+  $$('[data-mode]').forEach((b) => b.addEventListener("click", () => {
+    const m = b.dataset.mode;
+    if (SOON_MODES.includes(m)) { flashTip(b, "Coming soon"); return; }
+    if (!MODES.includes(m) || m === state.mode) return;
+    state.mode = m; localStorage.setItem("mode", m); applyChrome();
   }));
 
   $$('.sw').forEach((b) => b.addEventListener("click", () => {

@@ -535,6 +535,46 @@ body { padding-left: var(--rail); }
   border-width: 1px; transform: none; pointer-events: auto;
 }
 
+/* ── Rail: mode switch (Board · Brain) ──────────────────────────
+   Two ways of engaging the same data: Board is the triage surface you
+   are looking at; Brain is cognition mode, not built yet — it sits in
+   the rail dimmed so the door is visible before it opens. */
+.rail-group.modes { gap: 8px; }
+.mode {
+  position: relative; display: grid; place-items: center;
+  width: 30px; height: 30px; padding: 0;
+  background: none; border: 1px solid transparent; border-radius: 8px;
+  color: var(--mut); cursor: pointer;
+  transition: color .15s, background .15s, border-color .15s;
+}
+.mode:hover { color: var(--fg); background: color-mix(in srgb, var(--fg) 9%, transparent); }
+.mode.is-on { color: var(--fg); border-color: var(--line); background: color-mix(in srgb, var(--fg) 9%, transparent); }
+/* Not shipped yet: readable, clearly inert, and never takes the pressed look. */
+.mode.is-soon { color: var(--mut); opacity: .5; cursor: default; }
+.mode.is-soon:hover { background: none; color: var(--mut); }
+/* the dot says "there is something here that isn't on yet" */
+.mode.is-soon::before {
+  content: ""; position: absolute; top: 3px; right: 3px;
+  width: 5px; height: 5px; border-radius: 50%;
+  background: currentColor; opacity: .8;
+}
+/* Icon-only rail, so the name flies out on hover. It is one shared fixed
+   element rather than a ::after on the button: the rail scrolls, and an
+   overflow container clips a flyout down to a sliver. */
+.rail-tip {
+  position: fixed; left: 0; top: 0; transform: translateY(-50%);
+  padding: 5px 9px; border-radius: 7px; white-space: nowrap;
+  background: var(--fg); color: var(--bg);
+  font-size: 11px; font-weight: 600; letter-spacing: .02em;
+  opacity: 0; pointer-events: none; transition: opacity .12s; z-index: 60;
+}
+.rail-tip.on { opacity: 1; }
+/* visually-hidden label so the buttons still read as "Board" / "Brain" */
+.sr {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+
 /* the rail owns the left edge, so page chrome starts after it */
 .controls, .col-head { }
 .drawer-scrim { left: var(--rail); }
@@ -547,6 +587,8 @@ body { padding-left: var(--rail); }
 @media (max-width: 600px) {
   .rail { gap: 12px; padding: 10px 0 14px; }
   .rail-group.swatches .sw { width: 15px; height: 15px; }
+  .mode { width: 26px; height: 26px; }
+  .mode svg { width: 17px; height: 17px; }
 }
 
 /* ── Uniform rows ──────────────────────────────────────────────────
