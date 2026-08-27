@@ -22,12 +22,10 @@
         <svg viewBox="0 0 256 256" width="19" height="19" fill="currentColor" aria-hidden="true"><path d="M104,40H56A16,16,0,0,0,40,56v48a16,16,0,0,0,16,16h48a16,16,0,0,0,16-16V56A16,16,0,0,0,104,40Zm0,64H56V56h48v48Zm96-64H152a16,16,0,0,0-16,16v48a16,16,0,0,0,16,16h48a16,16,0,0,0,16-16V56A16,16,0,0,0,200,40Zm0,64H152V56h48v48Zm-96,32H56a16,16,0,0,0-16,16v48a16,16,0,0,0,16,16h48a16,16,0,0,0,16-16V152A16,16,0,0,0,104,136Zm0,64H56V152h48v48Zm96-64H152a16,16,0,0,0-16,16v48a16,16,0,0,0,16,16h48a16,16,0,0,0,16-16V152A16,16,0,0,0,200,136Zm0,64H152V152h48v48Z"></path></svg>
         <span class="sr">Board</span>
       </button>
-      <!-- Enabled on purpose: the mode isn't built, but the button has a
-           real job — say so. Dimmed + dot carry the "not yet" visually. -->
-      <button class="mode is-soon" data-mode="brain" type="button"
-              data-tip="Brain — cognition mode (soon)">
+      <button class="mode" data-mode="cognition" type="button" aria-pressed="false"
+              aria-haspopup="true" data-tip="Brain — one thing at a time">
         <svg viewBox="0 0 256 256" width="19" height="19" fill="currentColor" aria-hidden="true"><path d="M248,124a56.11,56.11,0,0,0-32-50.61V72a48,48,0,0,0-88-26.49A48,48,0,0,0,40,72v1.39a56,56,0,0,0,0,101.2V176a48,48,0,0,0,88,26.49A48,48,0,0,0,216,176v-1.41A56.09,56.09,0,0,0,248,124ZM88,208a32,32,0,0,1-31.81-28.56A55.87,55.87,0,0,0,64,180h8a8,8,0,0,0,0-16H64A40,40,0,0,1,50.67,86.27,8,8,0,0,0,56,78.73V72a32,32,0,0,1,64,0v68.26A47.8,47.8,0,0,0,88,128a8,8,0,0,0,0,16,32,32,0,0,1,0,64Zm104-44h-8a8,8,0,0,0,0,16h8a55.87,55.87,0,0,0,7.81-.56A32,32,0,1,1,168,144a8,8,0,0,0,0-16,47.8,47.8,0,0,0-32,12.26V72a32,32,0,0,1,64,0v6.73a8,8,0,0,0,5.33,7.54A40,40,0,0,1,192,164Zm16-52a8,8,0,0,1-8,8h-4a36,36,0,0,1-36-36V80a8,8,0,0,1,16,0v4a20,20,0,0,0,20,20h4A8,8,0,0,1,208,112ZM60,120H56a8,8,0,0,1,0-16h4A20,20,0,0,0,80,84V80a8,8,0,0,1,16,0v4A36,36,0,0,1,60,120Z"></path></svg>
-        <span class="sr">Brain</span>
+        <span class="sr">Brain — cognition mode</span>
       </button>
     </div>
 
@@ -45,6 +43,14 @@
       <svg viewBox="0 0 256 256" width="19" height="19" fill="currentColor" aria-hidden="true"><path d="M232,216H208V40a16,16,0,0,0-16-16H64A16,16,0,0,0,48,40V216H24a8,8,0,0,0,0,16H232a8,8,0,0,0,0-16Zm-64,0H64V40H168Zm-40-84a12,12,0,1,1,12,12A12,12,0,0,1,128,132Z"></path></svg>
     </a>
   </aside>
+
+  <!-- ── Which column do you want to work through? ─────────────────── -->
+  <div class="cog-pick" id="cogPick" role="menu" aria-label="Focus a column" hidden>
+    <span class="cog-pick-lbl">Work through</span>
+    <button class="cog-pick-opt" data-col="today"  role="menuitem">Today<em data-count="today">0</em></button>
+    <button class="cog-pick-opt" data-col="prev"   role="menuitem">Previous<em data-count="prev">0</em></button>
+    <button class="cog-pick-opt" data-col="raised" role="menuitem">Just Raised<em data-count="raised">0</em></button>
+  </div>
 
   <!-- ── One control row: search · filters · undo ─────────────────── -->
   <section class="controls" id="controls">
@@ -124,6 +130,7 @@
       <div class="col-head">
         <h2><svg class="col-ico" viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M215.79,118.17a8,8,0,0,0-5-5.66L153.18,90.9l14.66-73.33a8,8,0,0,0-13.69-7l-112,120a8,8,0,0,0,3,13l57.63,21.61L88.16,238.43a8,8,0,0,0,13.69,7l112-120A8,8,0,0,0,215.79,118.17ZM109.37,214l10.47-52.38a8,8,0,0,0-5-9.06L62,132.71l84.62-90.66L136.16,94.43a8,8,0,0,0,5,9.06l52.8,19.8Z"></path></svg>Today</h2><em data-count="today">0</em><span class="hint">last 24h</span>
         <span class="showing" data-showing="today"></span>
+        <button class="col-focus" data-focus="today" title="Work through Today one at a time" aria-label="Work through Today one at a time"><svg viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M248,124a56.11,56.11,0,0,0-32-50.61V72a48,48,0,0,0-88-26.49A48,48,0,0,0,40,72v1.39a56,56,0,0,0,0,101.2V176a48,48,0,0,0,88,26.49A48,48,0,0,0,216,176v-1.41A56.09,56.09,0,0,0,248,124ZM88,208a32,32,0,0,1-31.81-28.56A55.87,55.87,0,0,0,64,180h8a8,8,0,0,0,0-16H64A40,40,0,0,1,50.67,86.27,8,8,0,0,0,56,78.73V72a32,32,0,0,1,64,0v68.26A47.8,47.8,0,0,0,88,128a8,8,0,0,0,0,16,32,32,0,0,1,0,64Zm104-44h-8a8,8,0,0,0,0,16h8a55.87,55.87,0,0,0,7.81-.56A32,32,0,1,1,168,144a8,8,0,0,0,0-16,47.8,47.8,0,0,0-32,12.26V72a32,32,0,0,1,64,0v6.73a8,8,0,0,0,5.33,7.54A40,40,0,0,1,192,164Zm16-52a8,8,0,0,1-8,8h-4a36,36,0,0,1-36-36V80a8,8,0,0,1,16,0v4a20,20,0,0,0,20,20h4A8,8,0,0,1,208,112ZM60,120H56a8,8,0,0,1,0-16h4A20,20,0,0,0,80,84V80a8,8,0,0,1,16,0v4A36,36,0,0,1,60,120Z"></path></svg></button>
         <button class="clear-all" data-clear="today">Clear all</button>
       </div>
       <div class="rows" id="rows-today"></div>
@@ -132,6 +139,7 @@
       <div class="col-head">
         <h2><svg class="col-ico" viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M216,208H168V184h4a68.07,68.07,0,0,0,68-68,28,28,0,0,0-56,0,12,12,0,0,1-12,12h-4V56a40,40,0,0,0-80,0V88H84A12,12,0,0,1,72,76a28,28,0,0,0-56,0,68.07,68.07,0,0,0,68,68h4v64H40a8,8,0,0,0,0,16H216a8,8,0,0,0,0-16ZM96,128H84A52.06,52.06,0,0,1,32,76a12,12,0,0,1,24,0,28,28,0,0,0,28,28H96a8,8,0,0,0,8-8V56a24,24,0,0,1,48,0v80a8,8,0,0,0,8,8h12a28,28,0,0,0,28-28,12,12,0,0,1,24,0,52.06,52.06,0,0,1-52,52H160a8,8,0,0,0-8,8v32H104V136A8,8,0,0,0,96,128Z"></path></svg>Previous</h2><em data-count="prev">0</em><span class="hint">older than 24h</span>
         <span class="showing" data-showing="prev"></span>
+        <button class="col-focus" data-focus="prev" title="Work through Previous one at a time" aria-label="Work through Previous one at a time"><svg viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M248,124a56.11,56.11,0,0,0-32-50.61V72a48,48,0,0,0-88-26.49A48,48,0,0,0,40,72v1.39a56,56,0,0,0,0,101.2V176a48,48,0,0,0,88,26.49A48,48,0,0,0,216,176v-1.41A56.09,56.09,0,0,0,248,124ZM88,208a32,32,0,0,1-31.81-28.56A55.87,55.87,0,0,0,64,180h8a8,8,0,0,0,0-16H64A40,40,0,0,1,50.67,86.27,8,8,0,0,0,56,78.73V72a32,32,0,0,1,64,0v68.26A47.8,47.8,0,0,0,88,128a8,8,0,0,0,0,16,32,32,0,0,1,0,64Zm104-44h-8a8,8,0,0,0,0,16h8a55.87,55.87,0,0,0,7.81-.56A32,32,0,1,1,168,144a8,8,0,0,0,0-16,47.8,47.8,0,0,0-32,12.26V72a32,32,0,0,1,64,0v6.73a8,8,0,0,0,5.33,7.54A40,40,0,0,1,192,164Zm16-52a8,8,0,0,1-8,8h-4a36,36,0,0,1-36-36V80a8,8,0,0,1,16,0v4a20,20,0,0,0,20,20h4A8,8,0,0,1,208,112ZM60,120H56a8,8,0,0,1,0-16h4A20,20,0,0,0,80,84V80a8,8,0,0,1,16,0v4A36,36,0,0,1,60,120Z"></path></svg></button>
         <button class="clear-all" data-clear="prev">Clear all</button>
       </div>
       <div class="rows" id="rows-prev"></div>
@@ -141,11 +149,39 @@
         <h2>Just Raised</h2>
         <em data-count="raised">0</em><span class="hint">SF / Bay Area</span>
         <span class="showing" data-showing="raised"></span>
+        <button class="col-focus" data-focus="raised" title="Work through Just Raised one at a time" aria-label="Work through Just Raised one at a time"><svg viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M248,124a56.11,56.11,0,0,0-32-50.61V72a48,48,0,0,0-88-26.49A48,48,0,0,0,40,72v1.39a56,56,0,0,0,0,101.2V176a48,48,0,0,0,88,26.49A48,48,0,0,0,216,176v-1.41A56.09,56.09,0,0,0,248,124ZM88,208a32,32,0,0,1-31.81-28.56A55.87,55.87,0,0,0,64,180h8a8,8,0,0,0,0-16H64A40,40,0,0,1,50.67,86.27,8,8,0,0,0,56,78.73V72a32,32,0,0,1,64,0v68.26A47.8,47.8,0,0,0,88,128a8,8,0,0,0,0,16,32,32,0,0,1,0,64Zm104-44h-8a8,8,0,0,0,0,16h8a55.87,55.87,0,0,0,7.81-.56A32,32,0,1,1,168,144a8,8,0,0,0,0-16,47.8,47.8,0,0,0-32,12.26V72a32,32,0,0,1,64,0v6.73a8,8,0,0,0,5.33,7.54A40,40,0,0,1,192,164Zm16-52a8,8,0,0,1-8,8h-4a36,36,0,0,1-36-36V80a8,8,0,0,1,16,0v4a20,20,0,0,0,20,20h4A8,8,0,0,1,208,112ZM60,120H56a8,8,0,0,1,0-16h4A20,20,0,0,0,80,84V80a8,8,0,0,1,16,0v4A36,36,0,0,1,60,120Z"></path></svg></button>
         <button class="clear-all" data-clear="raised">Clear all</button>
       </div>
       <div class="rows" id="rows-raised"></div>
     </section>
   </main>
+
+  <!-- ── Cognition mode: one card, one decision, nothing else ────────
+       A cursor over the chosen column. The deck shrinks as you decide, so
+       progress counts down and every action carries its own Undo — going
+       back cannot show you a card you already filed. ─────────────────── -->
+  <section class="cog" id="cog" aria-label="Cognition mode">
+    <header class="cog-head">
+      <h2 class="cog-col" id="cogCol">Today</h2>
+      <span class="cog-left" id="cogLeft"></span>
+      <button class="cog-exit" id="cogExit" type="button">Back to board <kbd>Esc</kbd></button>
+    </header>
+
+    <button class="cog-arrow prev" id="cogPrev" type="button" aria-label="Previous listing">
+      <svg viewBox="0 0 256 256" width="26" height="26" fill="currentColor" aria-hidden="true"><path d="M165.66,202.34a8,8,0,0,1-11.32,11.32l-80-80a8,8,0,0,1,0-11.32l80-80a8,8,0,0,1,11.32,11.32L91.31,128Z"></path></svg>
+    </button>
+
+    <div class="cog-stage" id="cogStage" aria-live="polite"></div>
+
+    <button class="cog-arrow next" id="cogNext" type="button" aria-label="Next listing">
+      <svg viewBox="0 0 256 256" width="26" height="26" fill="currentColor" aria-hidden="true"><path d="M181.66,133.66l-80,80a8,8,0,0,1-11.32-11.32L164.69,128,90.34,53.66a8,8,0,0,1,11.32-11.32l80,80A8,8,0,0,1,181.66,133.66Z"></path></svg>
+    </button>
+
+    <div class="cog-toast" id="cogToast" role="status"></div>
+
+    <!-- hints are rewritten per column: Just Raised has no "Applied" -->
+    <footer class="cog-keys" id="cogKeys"></footer>
+  </section>
 
   <!-- ── Right panels: Applied · Trash (collapse and open) ──────────── -->
   <div class="drawer-tabs" id="drawerTabs">

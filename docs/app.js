@@ -14,7 +14,9 @@ let FUND = [];                          // raw data from funding.json
 const state = {
   q: "", source: [], loc: [], date: "", visa: [],   // source/loc/visa = multi
   sort: localStorage.getItem("sort") || "new",      // new | city | pay
-  mode: localStorage.getItem("mode") || "board",    // board | (brain — not built)
+  mode: localStorage.getItem("mode") || "board",    // board | cognition
+  cog: localStorage.getItem("cogCol") || "today",   // which column cognition mode works
+  cogI: 0,                                          // cursor into that column's deck
   theme: localStorage.getItem("theme") || "dark",
   drawer: null,                                     // null | "app" | "trash"
 };
@@ -24,8 +26,8 @@ const SORTS = ["new", "city", "pay"];
 /* Rail modes. "board" is this three-column triage surface; "brain" is
    cognition mode — the icon is in the rail but the mode does not exist
    yet, so it is listed here and deliberately not switchable. */
-const MODES = ["board"];
-const SOON_MODES = ["brain"];
+const MODES = ["board", "cognition"];
+const COG_COLS = ["today", "prev", "raised"];
 const THEMES = ["dark", "paper", "blush", "mint", "cream"];
 const PAGE = 40;                        // rows rendered per column up front
 const MAX_AGE_MS = 30 * 864e5;          // the site ignores anything older
@@ -405,7 +407,12 @@ function render(animate, reset) {
   setNum($("#statDone"), totals.app);
   setNum($("#statRaises"), raisesTotal);
 
+  // a pile with nothing in it is not worth entering — kept current here so
+  // filtering the board down to nothing is reflected before the picker opens
+  $$('.cog-pick-opt').forEach((o) => { o.disabled = !(LISTS[o.dataset.col] || []).length; });
+
   refreshUndo();
+  syncCog();
   if (animate) reveal();
 }
 /* Count badge + the "showing N of M" note that makes filtering visible. */
@@ -415,12 +422,272 @@ function setCount(k, shown, total) {
     (el.textContent = shown === total ? "" : `showing ${shown} of ${total}`));
 }
 
+/* ══ Cognition mode ═══════════════════════════════════════════════
+   A cursor over one column. You chose a shrinking deck, so filing a card
+   removes it and the next one slides into the same slot — which means the
+   left arrow can never show you what you just did. Every action therefore
+   carries its own Undo, and progress counts down instead of claiming a
+   total that keeps moving. ─────────────────────────────────────────── */
+const COG_LABEL = { today: "Today", prev: "Previous", raised: "Just Raised" };
+let cogDir = 1;                       // last direction travelled, for the slide
+
+function cogDeck() { return LISTS[state.cog] || []; }
+
+/* ── the rail picker ── */
+function togglePicker(btn) {
+  const el = $("#cogPick");
+  if (!el.hidden) return closePicker();
+  const r = btn.getBoundingClientRect();
+  el.hidden = false;
+  el.style.left = (r.right + 10) + "px";
+  el.style.top = Math.min(r.top, window.innerHeight - el.offsetHeight - 12) + "px";
+  btn.setAttribute("aria-expanded", "true");
+}
+function closePicker() {
+  $("#cogPick").hidden = true;
+  const b = $('[data-mode="cognition"]');
+  if (b) b.setAttribute("aria-expanded", "false");
+}
+
+/* ── enter / leave ── */
+function enterCog(col) {
+  if (!COG_COLS.includes(col)) return;
+  closePicker();
+  state.cog = col;
+  state.mode = "cognition";
+  localStorage.setItem("mode", "cognition");
+  localStorage.setItem("cogCol", col);
+  // resume where you left this pile, if that card is still undecided
+  const at = localStorage.getItem("cogAt:" + col);
+  const i = at ? cogDeck().findIndex((r) => cogKey(r) === at) : -1;
+  state.cogI = i > -1 ? i : 0;
+  COG_RESTORED = true;                       // entering already resumed
+  cogDir = 1;
+  applyChrome();
+  renderCog();
+}
+function exitCog() {
+  if (state.mode !== "cognition") return;
+  state.mode = "board";
+  localStorage.setItem("mode", "board");
+  hideToast();
+  applyChrome();
+  render(false, true);
+}
+
+/* Jobs carry .id; funding records don't, so derive one the same way twice. */
+function cogKey(rec) { return state.cog === "raised" ? fundId(rec) : rec.id; }
+
+/* ── moving ── */
+function step(d) {
+  const deck = cogDeck();
+  if (!deck.length) return;
+  const next = state.cogI + d;
+  if (next < 0 || next >= deck.length) return;   // the ends are hard stops
+  state.cogI = next;
+  cogDir = d;
+  hideToast();
+  renderCog();
+}
+
+/* ── deciding ── */
+/* Filing removes the card from the deck, so the cursor stays put and the
+   next one arrives in its place. Nothing is lost: the toast holds the way
+   back until you move on. */
+function cogAct(act) {
+  const rec = cogDeck()[state.cogI];
+  if (!rec) return;
+  const id = cogKey(rec);
+  if (act === "apply")        { setApplied([id], true);  toast("Filed to Applied", id); }
+  else if (act === "trash")   { pushUndo({ type: "trash", ids: [id] }); TRASH.add(id); saveTrash(); toast("Moved to Trash", id); }
+  else if (act === "dismiss") { pushUndo({ type: "dismiss", ids: [id] }); DISMISSED.add(id); saveDismissed(); toast("Dismissed", id); }
+  else return;
+  cogDir = 1;
+  render(false, true);        // rebuilds LISTS, then syncCog draws the next card
+}
+function clampCog() {
+  const n = cogDeck().length;
+  state.cogI = n ? Math.min(state.cogI, n - 1) : 0;
+}
+
+/* ── the toast: one action, one way back ── */
+let toastT = 0;
+function toast(msg, restoreId) {
+  const el = $("#cogToast");
+  el.innerHTML = `<span>${esc(msg)}</span><button type="button">Undo</button>`;
+  el.querySelector("button").onclick = () => {
+    undoLast();                                  // also re-renders the board
+    hideToast();
+    const i = cogDeck().findIndex((r) => cogKey(r) === restoreId);
+    if (i > -1) state.cogI = i;                  // land back on the card you undid
+    renderCog();
+  };
+  el.classList.add("on");
+  clearTimeout(toastT);
+  toastT = setTimeout(hideToast, 5000);
+}
+function hideToast() { clearTimeout(toastT); const el = $("#cogToast"); if (el) el.classList.remove("on"); }
+
+/* ── the card ── */
+function cogJobHTML(j) {
+  const badges =
+    (j.is_new_grad ? '<span class="badge">New Grad</span>' : "") +
+    (j.is_big_tech ? '<span class="badge">Big Tech</span>' : "") +
+    (j.visa === "yes" ? '<span class="badge visa-yes">Visa ✓</span>'
+     : j.visa === "no" ? '<span class="badge visa-no">No visa</span>' : "");
+  return `<article class="cog-card">
+      <div class="cog-src">${sourceLabel(j.source)}<span class="sep">/</span>Posted ${postedAgo(j)}</div>
+      <div class="cog-co">${esc(j.company || "—")}</div>
+      <h3 class="cog-title">${esc(j.title)}</h3>
+      <div class="cog-meta">${esc(j.location || "—")}<span class="sep">/</span>${esc(j.salary || "Salary not listed")}</div>
+      ${badges ? `<div class="badges">${badges}</div>` : ""}
+      ${outreachHTML(j)}
+      <div class="cog-acts">
+        <a class="cog-open" href="${esc(j.url || "#")}" target="_blank" rel="noopener">Open posting <kbd>&crarr;</kbd></a>
+        <button class="cog-act" type="button" data-cog-act="apply">Applied <kbd>A</kbd></button>
+        <button class="cog-act del" type="button" data-cog-act="trash">Trash <kbd>X</kbd></button>
+      </div>
+    </article>`;
+}
+function cogRaiseHTML(f) {
+  const roles = f.roles || [];
+  const amt = val(f.amount), stage = val(f.stage);
+  const headline = amt ? esc(amt) + (stage ? " · " + esc(stage) : "") : (stage ? esc(stage) : "Undisclosed round");
+  const badges =
+    ((f.priority || 0) >= 8 ? '<span class="badge">Tier-1 VC</span>' : "") +
+    (roles.length ? `<span class="badge">${roles.length} design role${roles.length > 1 ? "s" : ""}</span>` : "");
+  const rolesLine = roles.length
+    ? `<div class="roles">` + roles.map((r) =>
+        `<a class="role" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>`).join("") + `</div>`
+    : `<div class="roles none">No design roles posted yet — DM the founder.</div>`;
+  return `<article class="cog-card">
+      <div class="cog-src">${esc(f.source || "—")}<span class="sep">/</span>Raised ${ago(f.first_seen)}</div>
+      <a class="cog-co" href="${esc(outreachUrls.company(f.company))}" target="_blank" rel="noopener">${esc(f.company)}</a>
+      <h3 class="cog-title">${headline}</h3>
+      <div class="cog-meta">${esc(val(locOf(f)) || "—")}<span class="sep">/</span>${esc(val(f.investors) || "Investors undisclosed")}</div>
+      ${badges ? `<div class="badges">${badges}</div>` : ""}
+      ${rolesLine}
+      ${outreachHTML(f)}
+      <div class="cog-acts">
+        ${f.url ? `<a class="cog-open" href="${esc(f.url)}" target="_blank" rel="noopener">Read article <kbd>&crarr;</kbd></a>` : ""}
+        <button class="cog-act del" type="button" data-cog-act="dismiss">Dismiss <kbd>X</kbd></button>
+      </div>
+    </article>`;
+}
+function cogDoneHTML() {
+  const others = COG_COLS.filter((c) => c !== state.cog && (LISTS[c] || []).length);
+  return `<div class="cog-done">
+      <h3>${esc(COG_LABEL[state.cog])} is clear.</h3>
+      <p>Nothing left to work through in this pile.</p>
+      <div class="cog-jump">
+        ${others.map((c) => `<button class="cog-act" type="button" data-focus="${c}">${esc(COG_LABEL[c])} <em>${LISTS[c].length}</em></button>`).join("")}
+        <button class="cog-act" type="button" id="cogDoneBack">Back to board</button>
+      </div>
+    </div>`;
+}
+
+/* The 60s poll calls render(); without this guard it would restart the
+   card's slide animation every minute for no reason. */
+let COG_SIG = "";
+function cogSig() {
+  const deck = cogDeck(), rec = deck[state.cogI];
+  return state.cog + "|" + (rec ? cogKey(rec) : "-") + "|" + deck.length;
+}
+let COG_RESTORED = false;
+function syncCog() {
+  if (state.mode !== "cognition") return;
+  // A reload restores the mode from localStorage but goes through neither
+  // enterCog nor its resume step, so do that here on the first loaded pass.
+  if (!COG_RESTORED && LOADED) {
+    COG_RESTORED = true;
+    const at = localStorage.getItem("cogAt:" + state.cog);
+    const i = at ? cogDeck().findIndex((r) => cogKey(r) === at) : -1;
+    if (i > -1) state.cogI = i;
+  }
+  clampCog();
+  if (cogSig() !== COG_SIG) renderCog();
+}
+
+function renderCog() {
+  if (state.mode !== "cognition" || !LOADED) return;
+  const deck = cogDeck();
+  clampCog();
+  const rec = deck[state.cogI];
+  const stage = $("#cogStage");
+
+  $("#cogCol").textContent = COG_LABEL[state.cog];
+  $("#cogLeft").textContent = deck.length ? `${deck.length} left` : "";
+  $("#cogPrev").disabled = !rec || state.cogI === 0;
+  $("#cogNext").disabled = !rec || state.cogI >= deck.length - 1;
+
+  stage.classList.remove("to-next", "to-prev");
+  void stage.offsetWidth;                        // restart the slide
+  stage.innerHTML = rec
+    ? (state.cog === "raised" ? cogRaiseHTML(rec) : cogJobHTML(rec))
+    : cogDoneHTML();
+  stage.classList.add(cogDir < 0 ? "to-prev" : "to-next");
+
+  // Just Raised has no Applied state, so it gets a different legend.
+  $("#cogKeys").innerHTML = rec
+    ? '<kbd>&larr;</kbd><kbd>&rarr;</kbd> move <span class="sep">/</span>'
+      + (state.cog === "raised"
+          ? '<kbd>X</kbd> dismiss <span class="sep">/</span><kbd>&crarr;</kbd> read'
+          : '<kbd>A</kbd> applied <span class="sep">/</span><kbd>X</kbd> trash <span class="sep">/</span><kbd>&crarr;</kbd> open')
+      + ' <span class="sep">/</span><kbd>Esc</kbd> board'
+    : '<kbd>Esc</kbd> board';
+
+  COG_SIG = cogSig();
+  if (rec) localStorage.setItem("cogAt:" + state.cog, cogKey(rec));
+  else     localStorage.removeItem("cogAt:" + state.cog);
+
+  // the end card offers the other piles
+  $$("[data-focus]", stage).forEach((b) => b.addEventListener("click", () => enterCog(b.dataset.focus)));
+  const back = $("#cogDoneBack"); if (back) back.addEventListener("click", exitCog);
+}
+
+/* ── keyboard: the whole point of a focus mode ── */
+function bindCogKeys() {
+  document.addEventListener("keydown", (e) => {
+    if (state.mode !== "cognition") return;
+    if (e.metaKey || e.ctrlKey || e.altKey) return;
+    const t = e.target;
+    if (t && (t.tagName === "INPUT" || t.tagName === "TEXTAREA" || t.isContentEditable)) return;
+    const k = e.key.toLowerCase();
+    if (e.key === "ArrowLeft")  { e.preventDefault(); step(-1); }
+    else if (e.key === "ArrowRight") { e.preventDefault(); step(1); }
+    else if (k === "a") {
+      e.preventDefault();
+      if (state.cog === "raised") return;      // raises are read or dismissed, not applied
+      cogAct("apply");
+    }
+    else if (k === "x") { e.preventDefault(); cogAct(state.cog === "raised" ? "dismiss" : "trash"); }
+    else if (e.key === "Enter") { e.preventDefault(); const a = $(".cog-open"); if (a) a.click(); }
+    else if (e.key === "Escape") { e.preventDefault(); exitCog(); }
+  });
+}
+
+/* ── touch: edge arrows are a desktop idea ── */
+function bindCogSwipe() {
+  const stage = $("#cogStage");
+  let x0 = null, y0 = null;
+  stage.addEventListener("touchstart", (e) => {
+    const t = e.changedTouches[0]; x0 = t.clientX; y0 = t.clientY;
+  }, { passive: true });
+  stage.addEventListener("touchend", (e) => {
+    if (x0 === null) return;
+    const t = e.changedTouches[0], dx = t.clientX - x0, dy = t.clientY - y0;
+    x0 = null;
+    if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy)) step(dx < 0 ? 1 : -1);
+  }, { passive: true });
+}
+
 /* ── apply persisted size/theme/sort to the DOM ────────────────── */
 function applyChrome() {
   if (!THEMES.includes(state.theme)) state.theme = "dark";
   if (!SORTS.includes(state.sort)) state.sort = "new";
   // a mode saved before it shipped (or after one is removed) falls back
   if (!MODES.includes(state.mode)) state.mode = "board";
+  if (!COG_COLS.includes(state.cog)) state.cog = "today";
   document.documentElement.setAttribute("data-theme", state.theme);
   document.documentElement.setAttribute("data-mode", state.mode);
   $$('[data-mode]').forEach((b) => {
@@ -480,12 +747,29 @@ function bind() {
       b.addEventListener(ev, () => { if (!tipHold) showTip(b); }));
     ["pointerleave", "blur"].forEach((ev) => b.addEventListener(ev, hideTip));
   });
-  $$('[data-mode]').forEach((b) => b.addEventListener("click", () => {
+  $$('[data-mode]').forEach((b) => b.addEventListener("click", (e) => {
     const m = b.dataset.mode;
-    if (SOON_MODES.includes(m)) { flashTip(b, "Coming soon"); return; }
-    if (!MODES.includes(m) || m === state.mode) return;
-    state.mode = m; localStorage.setItem("mode", m); applyChrome();
+    // The brain is a doorway, not a switch: it asks which pile to work.
+    if (m === "cognition") { e.stopPropagation(); togglePicker(b); return; }
+    if (m === "board") exitCog();
   }));
+
+  // picker + per-column shortcuts
+  $$('.cog-pick-opt').forEach((b) => b.addEventListener("click", () => enterCog(b.dataset.col)));
+  $$('[data-focus]').forEach((b) => b.addEventListener("click", () => enterCog(b.dataset.focus)));
+  document.addEventListener("click", (e) => {
+    if (!$("#cogPick").hidden && !e.target.closest("#cogPick")) closePicker();
+  });
+
+  $("#cogPrev").addEventListener("click", () => step(-1));
+  $("#cogNext").addEventListener("click", () => step(1));
+  $("#cogExit").addEventListener("click", exitCog);
+  $("#cogStage").addEventListener("click", (e) => {
+    const a = e.target.closest("[data-cog-act]");
+    if (a) cogAct(a.dataset.cogAct);
+  });
+  bindCogKeys();
+  bindCogSwipe();
 
   $$('.sw').forEach((b) => b.addEventListener("click", () => {
     state.theme = b.dataset.theme; localStorage.setItem("theme", state.theme); applyChrome();
@@ -651,6 +935,7 @@ function sigOf(jobs, fund) {
   return jobs.length + "|" + newest + "|" + fund.length;
 }
 let SIG = "";
+let LOADED = false;             // no card, and no "pile is clear", before data
 
 /* no-cache revalidates rather than re-downloads: the browser sends the
    ETag and the server answers 304 when the file has not changed. The old
@@ -664,9 +949,11 @@ function load(animate) {
     const sig = sigOf(jobs, fund);
     if (sig === SIG && !animate) {                 // nothing new — don't repaint
       $("#status").textContent = "Updated " + new Date().toLocaleTimeString();
+      syncCog();
       return;
     }
     SIG = sig;
+    LOADED = true;
     JOBS = jobs; FUND = fund;
     if (!JOBS.length) $("#status").textContent = "No data yet";
     populateSources(); render(animate, true);
