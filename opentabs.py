@@ -53,6 +53,13 @@ CONFIG = {
     "PUBLISH_TO_GIT": True,                   # auto commit+push the dashboard each cycle
     "GITHUB_USER":  "Shruthi423",             # GitHub username (for the dashboard URL)
     "GITHUB_REPO":  "OpenTabs",               # repo name
+    # ── Laptop-half watchdog ──
+    # The laptop (MODE=local) stamps this heartbeat into docs/ every cycle; it
+    # rides along in the normal publish push. The always-on cloud runner
+    # (MODE=cloud) watches it and pings Telegram when it goes quiet.
+    "LOCAL_HEARTBEAT_FILE":      "docs/local_heartbeat.json",
+    "LOCAL_WATCH_STATE":         "local_watch.cloud.json",  # cloud alert state (committed)
+    "LOCAL_SILENT_ALERT_HOURS":  3,           # ping if the laptop half is silent this long
 }
 
 # ── Backfill flags (per-mode below) ──
@@ -1426,10 +1433,53 @@ def notify_funding(item: dict, roles: list = None, reminder: bool = False):
             f"💡 <i>Fresh raise = design hiring mode. Reach out within 48 hrs!</i>"
         )
 
+# Jobs and raises older than this never reach the website. The stores keep
+# the full history; the published files stay small so the page loads fast.
+MAX_PUBLISH_AGE_DAYS = 30
+
+# The Just Raised column filters to San Francisco / Bay Area, so every other
+# raise is downloaded by the browser and never rendered. Publish only what
+# the site can show. Set to False to publish every raise again.
+PUBLISH_SF_RAISES_ONLY = True
+_SF_RE = re.compile(r"san francisco|bay area|palo alto|mountain view|san jose|oakland|"
+                    r"menlo park|sunnyvale|berkeley|redwood city|san mateo|santa clara|\bsf\b", re.I)
+
+def _is_sf(rec: dict) -> bool:
+    """Mirrors isSF() in docs/app.js — keep the two in step."""
+    roles = rec.get("roles") or [{}]
+    where = rec.get("location") or (roles[0] or {}).get("location") or ""
+    return bool(_SF_RE.search(where))
+
+# Only these reach docs/jobs*.json; anything else is bot-side bookkeeping.
+WEB_JOB_FIELDS = ("id", "title", "company", "location", "salary", "url", "source",
+                  "is_new_grad", "is_big_tech", "visa", "founders", "posted_at",
+                  "priority", "first_seen", "status")
+
+def _web_job(rec: dict) -> dict:
+    return {k: rec[k] for k in WEB_JOB_FIELDS if k in rec}
+
+def _fresh_enough(rec: dict) -> bool:
+    """True if rec.first_seen is within MAX_PUBLISH_AGE_DAYS (undated = keep)."""
+    v = (rec or {}).get("first_seen")
+    if not v:
+        return True
+    try:
+        t = datetime.fromisoformat(str(v).replace("Z", "+00:00"))
+    except Exception:
+        return True                      # unparseable stamp: keep, don't guess
+    # first_seen is written by now_pt(), so compare in the same zone
+    now = now_pt()
+    if t.tzinfo is None:
+        t = t.replace(tzinfo=now.tzinfo)
+    return (now - t).days <= MAX_PUBLISH_AGE_DAYS
+
+
 def publish_funding():
     try:
         store = load_json(CONFIG["FUNDING_STORE_FILE"], {})
-        published = [v for v in store.values() if v.get("status") != "dismissed"]
+        published = [v for v in store.values()
+                     if v.get("status") != "dismissed" and _fresh_enough(v)
+                     and (not PUBLISH_SF_RAISES_ONLY or _is_sf(v))]
         published.sort(key=lambda f: f.get("first_seen", ""), reverse=True)
         os.makedirs(CONFIG["SITE_DIR"], exist_ok=True)
         save_json(CONFIG["FUNDING_WEB_FILE"], published)
@@ -1572,8 +1622,10 @@ def git_publish():
 def publish_site():
     try:
         store = load_store()
-        # Website shows everything except dismissed jobs; newest first
-        published = [v for v in store.values() if v.get("status") != "dismissed"]
+        # Website shows undismissed jobs from the last MAX_PUBLISH_AGE_DAYS,
+        # newest first. Older postings stay in the store but are not published.
+        published = [_web_job(v) for v in store.values()
+                     if v.get("status") != "dismissed" and _fresh_enough(v)]
         published.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
         os.makedirs(CONFIG["SITE_DIR"], exist_ok=True)
         save_json(CONFIG["WEB_FILE"], published)
@@ -1581,6 +1633,82 @@ def publish_site():
             git_publish()
     except Exception as e:
         log.error(f"publish_site: {e}")
+
+# ─────────────────────────────────────────────────────────────────
+#  🩺  LAPTOP-HALF WATCHDOG
+#  The laptop (MODE=local) scrapes LinkedIn/Indeed/Glassdoor/ZipRecruiter/
+#  Google and can only run while the Mac is awake, logged in and online. If
+#  the Mac sleeps or drops offline the site silently loses those sources.
+#  So the laptop stamps a heartbeat every cycle, and the always-on cloud
+#  runner (MODE=cloud, on GitHub Actions) watches it — pinging Telegram once
+#  when it goes quiet for > LOCAL_SILENT_ALERT_HOURS, and once when it's back.
+# ─────────────────────────────────────────────────────────────────
+RESTART_HELP = (
+    "🖥 <b>How to bring the laptop half back</b>\n"
+    "1. Wake your Mac and make sure it's online.\n"
+    "2. Usually that's enough — it restarts itself when you log in.\n\n"
+    "If it's still quiet, open <b>Terminal</b> "
+    "(Cmd+Space → type “Terminal” → Enter) and paste:\n\n"
+    "<b>Check if it's running:</b>\n"
+    "<code>launchctl list | grep com.opentabs.jobbot</code>\n"
+    "→ a number on the left = alive; a “-” or nothing = not running.\n\n"
+    "<b>Restart it:</b>\n"
+    "<code>launchctl kickstart -k gui/$(id -u)/com.opentabs.jobbot</code>\n"
+    "→ no output means it worked.\n\n"
+    "<b>See what it's been doing:</b>\n"
+    "<code>tail -20 ~/Library/Logs/opentabs/out.log</code>"
+)
+
+def write_local_heartbeat():
+    """Laptop half: stamp 'I'm alive' into docs/ so the cloud sees it via git."""
+    try:
+        save_json(CONFIG["LOCAL_HEARTBEAT_FILE"], {
+            "ts":   int(now_pt().timestamp()),
+            "iso":  now_pt().strftime("%b %d, %I:%M %p %Z"),
+            "host": "laptop",
+        })
+    except Exception as e:
+        log.warning(f"write_local_heartbeat: {e}")
+
+def check_local_health():
+    """Cloud half: alert once when the laptop half goes silent past the
+    threshold, and once when it recovers. State persists in a committed
+    .cloud.json file so we never double-ping across the 15-min cloud runs."""
+    try:
+        hb    = load_json(CONFIG["LOCAL_HEARTBEAT_FILE"], None)
+        st    = load_json(CONFIG["LOCAL_WATCH_STATE"], {"alerted": False})
+        limit = CONFIG["LOCAL_SILENT_ALERT_HOURS"] * 3600
+        now   = int(now_pt().timestamp())
+        # No heartbeat committed yet → the laptop half hasn't published its
+        # first stamp. Don't false-alarm before it's ever run.
+        if not hb or "ts" not in hb:
+            return
+        age     = now - int(hb["ts"])
+        already = bool(st.get("alerted"))
+        if age > limit and not already:
+            send_telegram(
+                f"⚠️ <b>Your laptop scraper is quiet.</b>\n\n"
+                f"The local half — <b>LinkedIn · Indeed · Glassdoor · "
+                f"ZipRecruiter · Google</b> — hasn't checked in for "
+                f"<b>{age/3600:.1f} hours</b> (last seen {hb.get('iso','?')}).\n\n"
+                f"Those job boards are frozen on the site until it's back. "
+                f"The cloud half (funding radar + API boards) is still running "
+                f"fine, so the site isn't dead — just missing the big boards.\n\n"
+                + RESTART_HELP
+            )
+            save_json(CONFIG["LOCAL_WATCH_STATE"],
+                      {"alerted": True, "down_since": int(hb["ts"]), "notified_at": now})
+            log.warning(f"⚠️ laptop half silent {age/3600:.1f}h — Telegram alert sent.")
+        elif age <= limit and already:
+            send_telegram(
+                "✅ <b>Your laptop scraper is back.</b>\n\n"
+                "The local half just checked in — LinkedIn / Indeed / Glassdoor "
+                "/ ZipRecruiter / Google are refreshing again. Nothing to do. 🎉"
+            )
+            save_json(CONFIG["LOCAL_WATCH_STATE"], {"alerted": False})
+            log.info("✅ laptop half recovered — Telegram recovery sent.")
+    except Exception as e:
+        log.warning(f"check_local_health: {e}")
 
 # ─────────────────────────────────────────────────────────────────
 #  🔄  MAIN CHECK
@@ -1713,7 +1841,13 @@ def run_check():
     save_seen(seen)
     save_pending(still)
     save_store(store)
+    # 🩺 Laptop half stamps a fresh heartbeat into docs/ so it rides along in
+    #    this cycle's publish push; the cloud runner watches that stamp.
+    if DO_SCRAPERS:
+        write_local_heartbeat()
     publish_site()
+    if MODE == "cloud":
+        check_local_health()
     if silent:
         open(CONFIG["BACKFILL_FLAG"], "w").close()
         log.info(f"🔇 Silent backfill: seeded {new_count} jobs to the board (no Telegram alerts).")
