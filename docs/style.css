@@ -176,55 +176,14 @@ input[type="range"]::-moz-range-thumb {
 .undo-all:hover:not(:disabled) { color: var(--fg); }
 .undo-all:disabled { opacity: .3; cursor: default; }
 
-.raise {
-  min-width: 0; padding: 18px 20px;
-  border-right: 1px solid var(--line); border-bottom: 1px solid var(--line);
-}
-.read {
-  display: inline-block; margin-top: 14px; font-size: 12px; color: var(--spec);
-  border-bottom: 1px solid transparent;
-}
-.read:hover { border-bottom-color: var(--spec); }
-.raise-top {
-  display: flex; align-items: baseline; gap: 8px;
-  color: var(--mut); font-size: 11px; margin-bottom: 9px;
-}
-.raise-top .amt {
-  color: var(--spec); font-weight: 700; font-size: 15px; letter-spacing: -.01em;
-}
-.raise-top .badge.t1 { color: var(--fg); }
-.raise-top .src { margin-left: auto; }
 /* Highlighted facts: how much they raised + where they're based */
-.raise-highlight {
-  display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 11px;
-}
-.hl {
-  display: inline-flex; align-items: center; gap: 5px;
-  border: 1px solid var(--line); border-radius: 20px;
-  padding: 4px 11px; font-size: 13px; line-height: 1;
-}
-.hl-amt { color: var(--spec); font-weight: 700; letter-spacing: -.01em; border-color: var(--spec); }
-.hl-loc { color: var(--fg); }
-.hl-loc .ico-pin { flex: none; opacity: .8; }
-.raise-co {
-  display: block; color: var(--fg); font-family: var(--font-title);
-  font-size: calc(var(--spec-size, 24px) * .8); line-height: 1.12;
-  font-weight: 600; letter-spacing: -.02em; word-break: break-word;
-}
-.raise-co:hover { opacity: .78; }
-.raise-meta { margin-top: 8px; color: var(--mut); font-size: 11px; }
-.raise-meta .sep { opacity: .45; margin: 0 5px; }
 .roles { margin-top: 12px; display: flex; flex-direction: column; gap: 6px; }
-.roles-lbl {
-  color: var(--mut); font-size: 10px; text-transform: uppercase; letter-spacing: .06em;
-}
 .roles.none { color: var(--mut); font-size: 11px; font-style: italic; }
 a.role {
   color: var(--spec); font-size: 12px;
   border-bottom: 1px solid transparent; align-self: flex-start;
 }
 a.role:hover { border-bottom-color: var(--spec); }
-a.role .role-loc { color: var(--mut); }
 
 /* Outreach row: company site + LinkedIn + founder deep-links (free layer) */
 .outreach {
@@ -287,6 +246,7 @@ a.role .role-loc { color: var(--mut); }
   display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 12px;
 }
 .badge {
+  white-space: nowrap;            /* "1 design role" was wrapping to 2 lines */
   font-size: 10px; letter-spacing: 0;
   border: 1px solid var(--line); border-radius: 20px; padding: 2px 8px; color: var(--fg);
 }
@@ -298,6 +258,7 @@ a.role .role-loc { color: var(--mut); }
   transition: opacity .15s ease, color .15s ease, border-color .15s ease;
 }
 /* Done = primary filled pill */
+.act.done, .act.ghost { display: inline-flex; align-items: center; line-height: 1; }
 .act.done {
   background: var(--active-bg); color: var(--active-fg);
   border: 0; border-radius: 20px; padding: 5px 13px;
@@ -501,12 +462,23 @@ body.drawer-trash #drawerTrash {
 .job:hover .job-top .co { text-decoration: underline; text-underline-offset: 3px; }
 
 /* ── Just Raised column ────────────────────────────────────────── */
-.ico-fire { flex: none; color: var(--co); }
-.col-raised .raise { border-right: 0; padding: 16px 18px; }
-.col-raised .raise-co { font-size: calc(var(--spec-size, 24px) * .82); }
-.raise-top { position: relative; }
-.raise-top .act.icon.del { margin-left: 8px; font-size: 13px; line-height: 1; }
 .act.done { font-size: 11px; padding: 5px 13px; }
+/* one line of role links, then a "+N" for the rest */
+/* baseline alignment inflated this row to 4x its content height; centre
+   alignment plus a fixed height keeps it to exactly one line */
+.roles {
+  margin-top: 8px; display: flex; align-items: center; gap: 7px;
+  min-width: 0; height: 18px; overflow: hidden;
+}
+.roles .sep { color: var(--mut); opacity: .5; }
+.roles .more-roles { color: var(--mut); font-size: 11px; flex: none; }
+a.role {
+  color: var(--fg); font-size: 11px; min-width: 0;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  border-bottom: 1px solid var(--line);
+}
+a.role:hover { border-bottom-color: var(--co); }
+.roles.none { color: var(--mut); font-size: 11px; font-style: italic; }
 
 /* ── Right-hand panels: Applied · Trash ────────────────────────── */
 .drawer-right { right: 0; left: auto; border-left: 1px solid var(--line); transform: translateX(100%); }
@@ -534,7 +506,6 @@ body.drawer-open .drawer-tabs { opacity: 0; pointer-events: none; }
 }
 
 @media (max-width: 1024px) {
-  .col-raised .raise-co { font-size: calc(var(--spec-size, 24px) * .95); }
 }
 
 /* ── Permanent left rail: brand + settings, 64px, always on screen ──
@@ -548,10 +519,16 @@ body { padding-left: var(--rail); }
   display: flex; flex-direction: column; align-items: center; gap: 22px;
   padding: 16px 0 20px; overflow-y: auto;
 }
+/* Wordmark lives at the foot of the rail, reading bottom-to-top. */
 .rail-brand {
-  color: var(--fg); display: inline-flex; padding: 6px;
-  border-bottom: 1px solid var(--line); width: 100%; justify-content: center;
-  padding-bottom: 16px;
+  margin-top: auto; width: 100%; padding-top: 16px;
+  color: var(--fg); display: flex; flex-direction: column;
+  align-items: center; gap: 10px;
+}
+.rail-brand .wordmark {
+  writing-mode: vertical-rl; transform: rotate(180deg);
+  font-size: 11px; font-weight: 700; letter-spacing: .16em;
+  text-transform: uppercase;
 }
 .rail-brand:hover { color: var(--co); }
 .rail-group {
@@ -598,67 +575,67 @@ body { padding-left: var(--rail); }
 }
 
 /* ── Uniform rows ──────────────────────────────────────────────────
-   Every card in every column is exactly one row tall, so the three
-   columns line up rank for rank. The height tracks the card-size
-   slider. Content that cannot fit is clamped — never allowed to push
-   the action button out of the card. */
-:root { --row-h: calc(var(--spec-size, 24px) * 3.6 + 128px); }
+   Every card in every column is one row tall and built from the same
+   parts, so the columns line up rank for rank. Anything that cannot fit
+   is truncated on its own line — never allowed to spill past the card
+   edge or push the action row out. */
+:root { --row-h: calc(var(--spec-size, 24px) * 3.6 + 104px); }
 
-.col .job, .col-raised .raise {
+.col .job {
   height: var(--row-h);
   display: flex; flex-direction: column;
   overflow: hidden;
 }
-/* job: title clamps to two lines, the action row is pinned to the bottom */
-.col .job > .job-top, .col .job > .job-meta { flex: none; }
+.col .job > .job-top, .col .job > .job-meta, .col .job > .roles { flex: none; }
+
+/* top line: index · company (truncates) · source (never shrinks) */
+.job-top { min-width: 0; }
+.job-top .idx { flex: none; }
+.job-top .co {
+  min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.job-top .src { flex: none; max-width: 45%; overflow: hidden; white-space: nowrap; }
+
+/* headline: at most two lines */
+/* flex: none — as a shrinkable item the browser was collapsing the
+   headline to zero height when a card ran long */
 .col .job > .job-title {
-  flex: 0 1 auto; min-height: 0;
+  flex: none;
   display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2;
   overflow: hidden;
 }
-.col .job > .outreach { flex: none; max-height: 30px; overflow: hidden; }
-.col .job > .job-foot { margin-top: auto; flex: none; }
+/* meta and roles: strictly one line each, ellipsis rather than a wrap that
+   would eat the room the action row needs */
+.col .job > .job-meta, .col .job > .roles {
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+/* a funding headline is short ("$250.0M · Series C"), so one line is enough
+   and the roles line it carries still fits the shared row height */
+.col-raised .job > .job-title { -webkit-line-clamp: 1; }
+/* One bottom row: outreach chips on the left, badges and the action on the
+   right, all on the same baseline. Every other child of the card has a
+   bounded height, so this row always lands at the same place and nothing
+   can print underneath it. */
+.col .job > .job-foot {
+  margin-top: auto; flex: none;
+  display: flex; align-items: center; gap: 10px;
+  flex-wrap: nowrap;              /* wrapping dropped the button to a 2nd line */
+  min-width: 0;
+  height: 46px;                   /* fixed, so a link-pill and a button-pill
+                                     can't land 4px apart between columns */
+  padding-top: 0;
+}
+.col .job > .job-foot > .outreach {
+  margin: 0; padding: 0; border: 0; flex: 0 1 auto;
+  min-width: 0; overflow: hidden; flex-wrap: nowrap; max-height: 24px;
+}
+/* badges keep their size; the chip row is the one that gives way. A
+   shrinkable badges box overflowed its own bounds and printed on top of
+   the Website/Company chips. */
+.col .job > .job-foot > .badges { flex: none; flex-wrap: nowrap; }
+.col .job > .job-foot > .actions { flex: none; margin-left: auto; }
 
-/* raise: the open-roles list absorbs the squeeze and fades out at the cut */
-.col-raised .raise > .raise-top,
-.col-raised .raise > .raise-co,
-.col-raised .raise > .raise-highlight,
-.col-raised .raise > .raise-meta,
-.col-raised .raise > .outreach,
-.col-raised .raise > .read { flex: none; }
-.col-raised .raise > .raise-co {
-  display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 1;
-  overflow: hidden; word-break: break-word;
-}
-.col-raised .raise > .roles {
-  flex: 1 1 auto; min-height: 0; overflow: hidden;
-  -webkit-mask-image: linear-gradient(to bottom, #000 62%, transparent 100%);
-          mask-image: linear-gradient(to bottom, #000 62%, transparent 100%);
-}
-/* trimmed so a funding card's fixed parts fit the shared row height and
-   the roles list keeps a line of its own */
-.col-raised .raise > .read { margin-top: 6px; }
-.col-raised .raise > .roles { margin-top: 0; }
-/* in a fixed-height row the label would eat the space the role names need */
-.col-raised .roles-lbl { display: none; }
-.col-raised .raise > .outreach { margin-top: 9px; max-height: 28px; }
-/* long location strings would otherwise wrap the chip row onto three lines */
-.col-raised .raise-highlight { flex-wrap: nowrap; }
-.col-raised .hl { min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.col-raised .hl-amt { flex: none; }
-
-/* ── Entrance + exit, CSS only (GSAP was 2 CDN requests for this) ──── */
-@keyframes rowIn { from { opacity: 0; transform: translateY(9px); } to { opacity: 1; transform: none; } }
-.rows.anim > .job:nth-child(-n+8),
-.rows.anim > .raise:nth-child(-n+8) { animation: rowIn .3s ease both; }
-.job.leaving { opacity: 0; transition: opacity .16s ease; }
-@media (prefers-reduced-motion: reduce) {
-  .rows.anim > .job, .rows.anim > .raise { animation: none; }
-  .job.leaving { transition: none; }
-}
-
-/* the "keep scrolling" sentinel that pulls in the next page of rows */
-.more {
-  padding: 16px 18px; color: var(--mut); font-size: 11px;
-  border-bottom: 1px solid var(--line); letter-spacing: .04em;
-}
+/* The Applied / Trash edge tabs float over the right edge of the board, so
+   the last column keeps a lane clear for them instead of letting them sit
+   on top of a card's source label. */
+.col:last-child .job { padding-right: 46px; }

@@ -79,10 +79,6 @@ function ago(when) {
   if (d < 86400) return Math.floor(d / 3600) + "h ago";
   return Math.floor(d / 86400) + "d ago";
 }
-function fmtDate(d) {
-  try { return new Date(d).toLocaleDateString(undefined, { month: "short", day: "numeric" }); }
-  catch { return ""; }
-}
 // best available timestamp in ms — real posted_at if present, else first_seen
 function jobTime(j) {
   if (j.posted_at && j.posted_at !== "Recently") {
@@ -181,7 +177,7 @@ const LI_SVG = '<svg class="ico-li" width="14" height="14" fill="currentColor" v
 const MONEY_SVG = '<svg class="ico-money" width="14" height="14" fill="currentColor" viewBox="0 0 256 256" aria-label="Just raised"><path d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm0,192a88,88,0,1,1,88-88A88.1,88.1,0,0,1,128,216Zm40-68a28,28,0,0,1-28,28h-4v8a8,8,0,0,1-16,0v-8H104a8,8,0,0,1,0-16h36a12,12,0,0,0,0-24H116a28,28,0,0,1,0-56h4V72a8,8,0,0,1,16,0v8h16a8,8,0,0,1,0,16H116a12,12,0,0,0,0,24h24A28,28,0,0,1,168,148Z"></path></svg>';
 const WEB_SVG = '<svg width="12" height="12" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24ZM101.63,168h52.74C149,186.34,140,202.87,128,215.89,116,202.87,107,186.34,101.63,168ZM98,152a145.72,145.72,0,0,1,0-48h60a145.72,145.72,0,0,1,0,48ZM40,128a87.61,87.61,0,0,1,3.33-24H81.79a161.79,161.79,0,0,0,0,48H43.33A87.61,87.61,0,0,1,40,128ZM154.37,88H101.63C107,69.66,116,53.13,128,40.11,140,53.13,149,69.66,154.37,88Zm19.84,16h38.46a88.15,88.15,0,0,1,0,48H174.21a161.79,161.79,0,0,0,0-48Zm32.16-16H170.94a142.39,142.39,0,0,0-20.26-45A88.37,88.37,0,0,1,206.37,88ZM105.32,43A142.39,142.39,0,0,0,85.06,88H49.63A88.37,88.37,0,0,1,105.32,43ZM49.63,168H85.06a142.39,142.39,0,0,0,20.26,45A88.37,88.37,0,0,1,49.63,168Zm101.05,45a142.39,142.39,0,0,0,20.26-45h35.43A88.37,88.37,0,0,1,150.68,213Z"></path></svg>';
 const LI_MINI = '<svg width="12" height="12" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M216,24H40A16,16,0,0,0,24,40V216a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V40A16,16,0,0,0,216,24ZM96,176a8,8,0,0,1-16,0V112a8,8,0,0,1,16,0Zm-8-80a12,12,0,1,1,12-12A12,12,0,0,1,88,96Zm96,80a8,8,0,0,1-16,0V140a20,20,0,0,0-40,0v36a8,8,0,0,1-16,0V112a8,8,0,0,1,15.79-1.78A36,36,0,0,1,184,140Z"></path></svg>';
-const PIN_SVG = '<svg class="ico-pin" width="13" height="13" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M200,224H150.54A266.56,266.56,0,0,0,174,200.25c27.45-31.57,42-64.85,42-96.25a88,88,0,0,0-176,0c0,31.4,14.51,64.68,42,96.25A266.56,266.56,0,0,0,105.46,224H56a8,8,0,0,0,0,16H200a8,8,0,0,0,0-16ZM128,72a32,32,0,1,1-32,32A32,32,0,0,1,128,72Z"></path></svg>';
+const CLOSE_SVG = '<svg width="16" height="16" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M205.66,194.34a8,8,0,0,1-11.32,11.32L128,139.31,61.66,205.66a8,8,0,0,1-11.32-11.32L116.69,128,50.34,61.66A8,8,0,0,1,61.66,50.34L128,116.69l66.34-66.35a8,8,0,0,1,11.32,11.32L139.31,128Z"></path></svg>';
 const TRASH_SVG = '<svg width="16" height="16" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M216,48H176V40a24,24,0,0,0-24-24H104A24,24,0,0,0,80,40v8H40a8,8,0,0,0,0,16h8V208a16,16,0,0,0,16,16H192a16,16,0,0,0,16-16V64h8a8,8,0,0,0,0-16ZM96,40a8,8,0,0,1,8-8h48a8,8,0,0,1,8,8v8H96Zm96,168H64V64H192ZM112,104v64a8,8,0,0,1-16,0V104a8,8,0,0,1,16,0Zm48,0v64a8,8,0,0,1-16,0V104a8,8,0,0,1,16,0Z"></path></svg>';
 
 /* Outreach deep-links — free layer (no scraping, no API keys). */
@@ -195,7 +191,7 @@ const outreachUrls = {
     encodeURIComponent('site:linkedin.com/in "' + (nm || "") + '" ' + (co || "")),
 };
 function outreachHTML(rec) {
-  const founders = (rec.founders || []).map((nm) =>
+  const founders = (rec.founders || []).slice(0, 2).map((nm) =>
     `<a class="founder" href="${esc(outreachUrls.founder(nm, rec.company))}" target="_blank" rel="noopener" ` +
     `title="Find ${esc(nm)} on LinkedIn">${esc(nm)}${LI_MINI}</a>`).join("");
   return `<div class="outreach">
@@ -250,40 +246,59 @@ function jobHTML(j, n, mode) {
       <div class="job-meta">
         ${esc(j.location || "—")}<span class="sep">/</span>${esc(j.salary || "—")}<span class="sep">/</span>Posted ${postedAgo(j)}
       </div>
-      ${mode === "trash" ? "" : outreachHTML(j)}
       <div class="job-foot">
+        ${mode === "trash" ? "" : outreachHTML(j)}
         <span class="badges">${badges}</span>
         <span class="actions">${actions}</span>
       </div>
     </div>`;
 }
 
-/* A funding record, rendered as a list row in the Just Raised section. */
+/* A funding record, built on exactly the same skeleton as a job card:
+   index + company + source on top, one headline line, one meta line, the
+   outreach chips, then badges left / action right in the foot. Only the
+   content differs, so the three columns line up and read the same way. */
+/* the funding extractor writes "?" / "-" for fields it could not read */
+function val(v) {
+  const t = (v || "").trim();
+  return /^(\?|-|—|n\/a|unknown|undisclosed\?)$/i.test(t) ? "" : t;
+}
 function raiseHTML(f, n) {
   const idx   = String(n).padStart(2, "0");
-  const tier1 = (f.priority || 0) >= 8;
   const loc   = locOf(f);
-  const roles = (f.roles || []).map((r) =>
-    `<a class="role" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}` +
-    (r.location ? `<span class="role-loc"> · ${esc(r.location)}</span>` : "") + `</a>`).join("");
-  return `<article class="raise" data-id="${esc(fundId(f))}">
-      <div class="raise-top">
+  const roles = f.roles || [];
+  const badges =
+    ((f.priority || 0) >= 8 ? '<span class="badge">Tier-1 VC</span>' : "") +
+    (roles.length ? `<span class="badge">${roles.length} design role${roles.length > 1 ? "s" : ""}</span>` : "");
+  // headline = what happened, the way a job card's headline is the role
+  const amt = val(f.amount), stage = val(f.stage);
+  const headline = amt ? esc(amt) + (stage ? " · " + esc(stage) : "")
+                       : (stage ? esc(stage) : "Undisclosed round");
+  const rolesLine = roles.length
+    ? `<div class="roles">` + roles.slice(0, 2).map((r) =>
+        `<a class="role" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>`).join('<span class="sep">·</span>') +
+      (roles.length > 2 ? `<span class="more-roles">+${roles.length - 2}</span>` : "") + `</div>`
+    : '<div class="roles none">No design roles posted yet — DM the founder.</div>';
+  return `<div class="job raise" data-id="${esc(fundId(f))}">
+      <div class="job-top">
         <span class="idx">${idx}</span>
-        ${tier1 ? '<span class="badge t1">Tier-1 VC</span>' : ""}
-        <span class="src">${esc(f.source || "")} · ${esc(fmtDate(f.first_seen))}</span>
-        <button class="act icon del" data-act="dismiss" title="Dismiss" aria-label="Dismiss">✕</button>
+        <a class="co" href="${esc(outreachUrls.company(f.company))}" target="_blank" rel="noopener" title="${esc(f.company)} on LinkedIn">${esc(f.company)}</a>
+        <span class="src">${esc(f.source || "")}</span>
       </div>
-      <a class="raise-co" href="${esc(outreachUrls.company(f.company))}" target="_blank" rel="noopener" title="Open on LinkedIn">${esc(f.company)}</a>
-      <div class="raise-highlight">
-        <span class="hl hl-amt">${esc(f.amount || "Undisclosed")}</span>
-        ${loc ? `<span class="hl hl-loc">${PIN_SVG}${esc(loc)}</span>` : ""}
+      <div class="job-title">${headline}</div>
+      <div class="job-meta">
+        ${esc(val(loc) || "—")}<span class="sep">/</span>${esc(val(f.investors) || "—")}<span class="sep">/</span>Raised ${ago(f.first_seen)}
       </div>
-      <div class="raise-meta">${esc(f.stage || "—")}<span class="sep">/</span>${esc(f.investors || "—")}</div>
-      ${roles ? `<div class="roles"><span class="roles-lbl">Open design roles</span>${roles}</div>`
-              : `<div class="roles none">No design roles posted yet — DM the founder.</div>`}
-      ${outreachHTML(f)}
-      ${f.url ? `<a class="read" href="${esc(f.url)}" target="_blank" rel="noopener">Read article →</a>` : ""}
-    </article>`;
+      ${rolesLine}
+      <div class="job-foot">
+        ${outreachHTML(f)}
+        <span class="badges">${badges}</span>
+        <span class="actions">
+          ${f.url ? `<a class="act done" href="${esc(f.url)}" target="_blank" rel="noopener">Read article</a>` : ""}
+          <button class="act icon del" data-act="dismiss" title="Dismiss" aria-label="Dismiss">${CLOSE_SVG}</button>
+        </span>
+      </div>
+    </div>`;
 }
 
 /* ── rendering ────────────────────────────────────────────────────
