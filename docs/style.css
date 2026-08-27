@@ -6,6 +6,10 @@
    ════════════════════════════════════════════════════════════════ */
 
 :root {
+  /* Card headline size. Fixed: it used to be a slider, which bought one
+     adjustable font at the cost of a control, a stored setting and a row
+     height that had to be recomputed from it. */
+  --spec-size: 24px;
   --font-title: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --font-ui: "DM Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
 }
@@ -50,9 +54,8 @@ body {
 }
 main { flex: 1 0 auto; }
 a { color: inherit; text-decoration: none; }
-sup { font-size: .5em; vertical-align: super; }
 
-.lbl, .hint, .status, .count, .seg button {
+.lbl, .hint, .status, .seg button {
   font-size: 12px; letter-spacing: 0;
 }
 
@@ -75,9 +78,6 @@ sup { font-size: .5em; vertical-align: super; }
    Styled in harmony with the board: theme vars, inherited font, the same
    pill/chip language used elsewhere. */
 .dd { position: relative; display: inline-flex; }
-/* `display` would otherwise beat the hidden attribute when a section
-   hides a filter that means nothing there. */
-.dd[hidden] { display: none; }
 .dd-btn {
   display: inline-flex; align-items: center; gap: 8px;
   background: none; border: 0; outline: 0; cursor: pointer;
@@ -117,22 +117,7 @@ sup { font-size: .5em; vertical-align: super; }
 /* keep the controls row from clipping an open panel */
 .controls .row { overflow: visible; }
 
-.field.size { gap: 12px; }
-.field.size .lbl { color: var(--fg); min-width: 42px; }
-input[type="range"] {
-  -webkit-appearance: none; appearance: none; width: 150px; height: 1px;
-  background: var(--fg); outline: 0;
-}
-input[type="range"]::-webkit-slider-thumb {
-  -webkit-appearance: none; width: 13px; height: 13px; border-radius: 50%;
-  background: var(--bg); border: 1.5px solid var(--fg); cursor: pointer;
-}
-input[type="range"]::-moz-range-thumb {
-  width: 13px; height: 13px; border-radius: 50%;
-  background: var(--bg); border: 1.5px solid var(--fg); cursor: pointer;
-}
 
-.count { color: var(--fg); font-weight: 500; }
 .seg { display: flex; gap: 16px; }
 .seg button {
   background: none; border: 0; color: var(--mut); cursor: pointer;
@@ -178,7 +163,11 @@ input[type="range"]::-moz-range-thumb {
 
 /* Highlighted facts: how much they raised + where they're based */
 .roles { margin-top: 12px; display: flex; flex-direction: column; gap: 6px; }
-.roles.none { color: var(--mut); font-size: 11px; font-style: italic; }
+/* block, not flex: as a flex container its text became an anonymous item
+   and sat indented from the rest of the card */
+.roles.none {
+  display: block; color: var(--mut); font-size: 11px; font-style: italic;
+}
 a.role {
   color: var(--spec); font-size: 12px;
   border-bottom: 1px solid transparent; align-self: flex-start;
@@ -273,13 +262,6 @@ a.role:hover { border-bottom-color: var(--spec); }
 .col-empty { padding: 18px; color: var(--mut); font-size: 12px; }
 
 /* Applied column reads as a struck-through checklist */
-#sec-app .job-title {
-  text-decoration: line-through;
-  text-decoration-thickness: 2px;
-  text-decoration-color: var(--spec);
-  color: var(--mut);
-}
-#sec-app .job:hover .job-title { opacity: 1; color: var(--fg); }
 
 /* whole tile is clickable (opens the posting + "did you apply?") */
 .job { cursor: pointer; position: relative; }
@@ -310,14 +292,7 @@ a.role:hover { border-bottom-color: var(--spec); }
 }
 .act.icon svg { display: block; }
 .act.icon:hover { color: var(--fg); }
-.act.icon.remove:hover { color: var(--danger); }   /* destructive hint on hover */
 
-/* ── "N hidden · Restore" link in the footer ───────────────────── */
-.restore {
-  background: none; border: 0; cursor: pointer; color: var(--mut);
-  font-family: var(--font-ui); font-size: 13px; border-bottom: 1px solid transparent;
-}
-.restore:hover { color: var(--fg); border-bottom-color: var(--fg); }
 
 /* ── Applied drawer — collapsible panel from the right edge ────── */
 .drawer-scrim {
@@ -433,9 +408,12 @@ body.drawer-trash #drawerTrash {
 /* ── One horizontal settings row ───────────────────────────────── */
 .controls { position: sticky; top: 0; z-index: 20; background: var(--bg); }
 .row { gap: 20px; }
-.row .count { color: var(--mut); font-size: 12px; margin-left: auto; white-space: nowrap; }
-.row .count b { color: var(--fg); font-weight: 700; }
-.row .status { color: var(--mut); font-size: 12px; white-space: nowrap; margin-left: auto; }
+/* one right-hand group: source · location · posted · visa · sort */
+.settings-group {
+  display: flex; align-items: center; gap: 20px; flex-wrap: wrap;
+  margin-left: auto;
+}
+.row .status { color: var(--mut); font-size: 12px; white-space: nowrap; }
 /* Sort now sits with the other top-bar settings */
 .row .seg-sort { display: inline-flex; align-items: center; gap: 14px; }
 /* the group label must escape the hover-reveal rule the item labels use */
@@ -443,7 +421,11 @@ body.drawer-trash #drawerTrash {
 .row .seg-sort .sort { color: var(--mut); }
 .row .seg-sort .sort.is-on { color: var(--fg); }
 /* narrow, fixed field — it no longer eats a third of the bar */
-.field.search { flex: 0 0 210px; min-width: 0; }
+.field.search { flex: 0 0 auto; min-width: 0; gap: 12px; }
+.field.search input { flex: 0 0 210px; }
+.field.search .lbl,
+.dd-btn .lbl,
+.row .seg-sort > .lbl { text-transform: uppercase; letter-spacing: .08em; font-size: 11px; }
 .field.search input { width: 100%; font-size: 13px; }
 
 .iconbtn {
@@ -460,6 +442,8 @@ body.drawer-trash #drawerTrash {
   letter-spacing: .01em; text-transform: uppercase;
 }
 .job:hover .job-top .co { text-decoration: underline; text-underline-offset: 3px; }
+
+.col-ico { flex: none; color: var(--co); }
 
 /* ── Just Raised column ────────────────────────────────────────── */
 .act.done { font-size: 11px; padding: 5px 13px; }
@@ -478,7 +462,11 @@ a.role {
   border-bottom: 1px solid var(--line);
 }
 a.role:hover { border-bottom-color: var(--co); }
-.roles.none { color: var(--mut); font-size: 11px; font-style: italic; }
+/* block, not flex: as a flex container its text became an anonymous item
+   and sat indented from the rest of the card */
+.roles.none {
+  display: block; color: var(--mut); font-size: 11px; font-style: italic;
+}
 
 /* ── Right-hand panels: Applied · Trash ────────────────────────── */
 .drawer-right { right: 0; left: auto; border-left: 1px solid var(--line); transform: translateX(100%); }
@@ -537,17 +525,8 @@ body { padding-left: var(--rail); }
 .rail-lbl {
   font-size: 9px; letter-spacing: .1em; text-transform: uppercase; color: var(--mut);
 }
-.rail-val { font-size: 10px; color: var(--mut); }
-/* A rotated horizontal slider: the only vertical-range approach that
-   renders identically in every browser. The wrapper reserves the space
-   the rotation itself would not claim in layout. */
-.rail-slider { position: relative; height: 96px; width: 22px; flex: none; }
 /* absolute + translate is what actually centres a rotated element: grid
    centring measures the pre-rotation box, which is wider than the rail. */
-.rail-slider input[type="range"] {
-  position: absolute; top: 50%; left: 50%; width: 96px; height: 2px; margin: 0;
-  transform: translate(-50%, -50%) rotate(-90deg); transform-origin: center;
-}
 /* theme swatches stack down the rail instead of running across a toolbar */
 .rail-group.swatches { flex-direction: column; gap: 9px; }
 .rail-group.swatches .sw,
@@ -564,13 +543,9 @@ body { padding-left: var(--rail); }
   :root { --rail: 52px; }
   .rail { gap: 16px; }
   .rail-lbl { display: none; }
-  .rail-slider { height: 76px; }
-  .rail-slider input[type="range"] { width: 76px; }
 }
 @media (max-width: 600px) {
   .rail { gap: 12px; padding: 10px 0 14px; }
-  .rail-slider { height: 64px; }
-  .rail-slider input[type="range"] { width: 64px; }
   .rail-group.swatches .sw { width: 15px; height: 15px; }
 }
 
@@ -579,7 +554,7 @@ body { padding-left: var(--rail); }
    parts, so the columns line up rank for rank. Anything that cannot fit
    is truncated on its own line — never allowed to spill past the card
    edge or push the action row out. */
-:root { --row-h: calc(var(--spec-size, 24px) * 3.6 + 104px); }
+:root { --row-h: calc(var(--spec-size) * 3.6 + 104px); }
 
 .col .job {
   height: var(--row-h);

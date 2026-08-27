@@ -14,7 +14,6 @@ let FUND = [];                          // raw data from funding.json
 const state = {
   q: "", source: [], loc: [], date: "", visa: [],   // source/loc/visa = multi
   sort: localStorage.getItem("sort") || "new",      // new | city | pay
-  size: +(localStorage.getItem("size") || 24),
   theme: localStorage.getItem("theme") || "dark",
   drawer: null,                                     // null | "app" | "trash"
 };
@@ -177,8 +176,8 @@ const LI_SVG = '<svg class="ico-li" width="14" height="14" fill="currentColor" v
 const MONEY_SVG = '<svg class="ico-money" width="14" height="14" fill="currentColor" viewBox="0 0 256 256" aria-label="Just raised"><path d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm0,192a88,88,0,1,1,88-88A88.1,88.1,0,0,1,128,216Zm40-68a28,28,0,0,1-28,28h-4v8a8,8,0,0,1-16,0v-8H104a8,8,0,0,1,0-16h36a12,12,0,0,0,0-24H116a28,28,0,0,1,0-56h4V72a8,8,0,0,1,16,0v8h16a8,8,0,0,1,0,16H116a12,12,0,0,0,0,24h24A28,28,0,0,1,168,148Z"></path></svg>';
 const WEB_SVG = '<svg width="12" height="12" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24ZM101.63,168h52.74C149,186.34,140,202.87,128,215.89,116,202.87,107,186.34,101.63,168ZM98,152a145.72,145.72,0,0,1,0-48h60a145.72,145.72,0,0,1,0,48ZM40,128a87.61,87.61,0,0,1,3.33-24H81.79a161.79,161.79,0,0,0,0,48H43.33A87.61,87.61,0,0,1,40,128ZM154.37,88H101.63C107,69.66,116,53.13,128,40.11,140,53.13,149,69.66,154.37,88Zm19.84,16h38.46a88.15,88.15,0,0,1,0,48H174.21a161.79,161.79,0,0,0,0-48Zm32.16-16H170.94a142.39,142.39,0,0,0-20.26-45A88.37,88.37,0,0,1,206.37,88ZM105.32,43A142.39,142.39,0,0,0,85.06,88H49.63A88.37,88.37,0,0,1,105.32,43ZM49.63,168H85.06a142.39,142.39,0,0,0,20.26,45A88.37,88.37,0,0,1,49.63,168Zm101.05,45a142.39,142.39,0,0,0,20.26-45h35.43A88.37,88.37,0,0,1,150.68,213Z"></path></svg>';
 const LI_MINI = '<svg width="12" height="12" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M216,24H40A16,16,0,0,0,24,40V216a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V40A16,16,0,0,0,216,24ZM96,176a8,8,0,0,1-16,0V112a8,8,0,0,1,16,0Zm-8-80a12,12,0,1,1,12-12A12,12,0,0,1,88,96Zm96,80a8,8,0,0,1-16,0V140a20,20,0,0,0-40,0v36a8,8,0,0,1-16,0V112a8,8,0,0,1,15.79-1.78A36,36,0,0,1,184,140Z"></path></svg>';
-const CLOSE_SVG = '<svg width="16" height="16" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M205.66,194.34a8,8,0,0,1-11.32,11.32L128,139.31,61.66,205.66a8,8,0,0,1-11.32-11.32L116.69,128,50.34,61.66A8,8,0,0,1,61.66,50.34L128,116.69l66.34-66.35a8,8,0,0,1,11.32,11.32L139.31,128Z"></path></svg>';
-const TRASH_SVG = '<svg width="16" height="16" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M216,48H176V40a24,24,0,0,0-24-24H104A24,24,0,0,0,80,40v8H40a8,8,0,0,0,0,16h8V208a16,16,0,0,0,16,16H192a16,16,0,0,0,16-16V64h8a8,8,0,0,0,0-16ZM96,40a8,8,0,0,1,8-8h48a8,8,0,0,1,8,8v8H96Zm96,168H64V64H192ZM112,104v64a8,8,0,0,1-16,0V104a8,8,0,0,1,16,0Zm48,0v64a8,8,0,0,1-16,0V104a8,8,0,0,1,16,0Z"></path></svg>';
+/* Broom — the "sweep this off the board" action on every card */
+const BROOM_SVG = '<svg width="16" height="16" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M235.5,216.81c-22.56-11-35.5-34.58-35.5-64.8V134.73a15.94,15.94,0,0,0-10.09-14.87L165,110a8,8,0,0,1-4.48-10.34l21.32-53a28,28,0,0,0-16.1-37,28.14,28.14,0,0,0-35.82,16,.61.61,0,0,0,0,.12L108.9,79a8,8,0,0,1-10.37,4.49L73.11,73.14A15.89,15.89,0,0,0,55.74,76.8C34.68,98.45,24,123.75,24,152a111.45,111.45,0,0,0,31.18,77.53A8,8,0,0,0,61,232H232a8,8,0,0,0,3.5-15.19ZM67.14,88l25.41,10.3a24,24,0,0,0,31.23-13.45l21-53c2.56-6.11,9.47-9.27,15.43-7a12,12,0,0,1,6.88,15.92L145.69,93.76a24,24,0,0,0,13.43,31.14L184,134.73V152c0,.33,0,.66,0,1L55.77,101.71A108.84,108.84,0,0,1,67.14,88Zm48,128a87.53,87.53,0,0,1-24.34-42,8,8,0,0,0-15.49,4,105.16,105.16,0,0,0,18.36,38H64.44A95.54,95.54,0,0,1,40,152a85.9,85.9,0,0,1,7.73-36.29l137.8,55.12c3,18,10.56,33.48,21.89,45.16Z"></path></svg>';
 
 /* Outreach deep-links — free layer (no scraping, no API keys). */
 const coDomain = (co) => (co || "").toLowerCase().replace(/\([^)]*\)/g, " ").replace(/[^a-z0-9]/g, "");
@@ -233,9 +232,9 @@ function jobHTML(j, n, mode) {
   const actions =
     mode === "trash" ? '<button class="act done" data-act="restore">Restore</button>'
     : mode === "app" ? '<button class="act ghost" data-act="unapply">Un-apply</button>' +
-                       `<button class="act icon del" data-act="delete" title="Move to Trash" aria-label="Move to Trash">${TRASH_SVG}</button>`
+                       `<button class="act icon del" data-act="delete" title="Move to Trash" aria-label="Move to Trash">${BROOM_SVG}</button>`
     : '<button class="act done" data-act="apply">Applied</button>' +
-      `<button class="act icon del" data-act="delete" title="Move to Trash" aria-label="Move to Trash">${TRASH_SVG}</button>`;
+      `<button class="act icon del" data-act="delete" title="Move to Trash" aria-label="Move to Trash">${BROOM_SVG}</button>`;
   return `<div class="job" data-id="${esc(j.id)}" data-url="${esc(j.url || "#")}" data-title="${esc(j.title)}" data-flip-id="${esc(j.id)}">
       <div class="job-top">
         <span class="idx">${idx}</span>
@@ -295,7 +294,7 @@ function raiseHTML(f, n) {
         <span class="badges">${badges}</span>
         <span class="actions">
           ${f.url ? `<a class="act done" href="${esc(f.url)}" target="_blank" rel="noopener">Read article</a>` : ""}
-          <button class="act icon del" data-act="dismiss" title="Dismiss" aria-label="Dismiss">${CLOSE_SVG}</button>
+          <button class="act icon del" data-act="dismiss" title="Dismiss" aria-label="Dismiss">${BROOM_SVG}</button>
         </span>
       </div>
     </div>`;
@@ -395,9 +394,6 @@ function applyChrome() {
   document.documentElement.setAttribute("data-theme", state.theme);
   $$('.sw').forEach((b) => b.classList.toggle("is-on", b.dataset.theme === state.theme));
   $$('[data-sort]').forEach((b) => b.classList.toggle("is-on", b.dataset.sort === state.sort));
-  document.documentElement.style.setProperty("--spec-size", state.size + "px");
-  $("#size").value = state.size;
-  $("#sizeVal").textContent = state.size;
   refreshUndo();
 }
 
@@ -440,12 +436,6 @@ function bind() {
     $$('[data-sort]').forEach((x) => x.classList.toggle("is-on", x === b));
     render(true, true);
   }));
-
-  $("#size").addEventListener("input", (e) => {
-    state.size = +e.target.value; localStorage.setItem("size", state.size);
-    document.documentElement.style.setProperty("--spec-size", state.size + "px");
-    $("#sizeVal").textContent = state.size;
-  });
 
   $$('.sw').forEach((b) => b.addEventListener("click", () => {
     state.theme = b.dataset.theme; localStorage.setItem("theme", state.theme); applyChrome();
@@ -612,11 +602,13 @@ function sigOf(jobs, fund) {
 }
 let SIG = "";
 
+/* no-cache revalidates rather than re-downloads: the browser sends the
+   ETag and the server answers 304 when the file has not changed. The old
+   ?_=timestamp buster made every 60s poll a full re-download. */
+const GET = (f) => fetch(f, { cache: "no-cache" }).then((r) => (r.ok ? r.json() : [])).catch(() => []);
+
 function load(animate) {
-  Promise.all([
-    ...JOB_FILES.map((f) => fetch(f + "?_=" + Date.now()).then((r) => (r.ok ? r.json() : [])).catch(() => [])),
-    fetch("./funding.json?_=" + Date.now()).then((r) => (r.ok ? r.json() : [])).catch(() => []),
-  ]).then((lists) => {
+  Promise.all([...JOB_FILES.map(GET), GET("./funding.json")]).then((lists) => {
     const jobs = mergeJobs(lists.slice(0, 2));
     const fund = (Array.isArray(lists[2]) ? lists[2] : []).filter(fresh);
     const sig = sigOf(jobs, fund);
