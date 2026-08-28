@@ -1,326 +1,128 @@
 [
   {
     "item": {
-      "company": "Arrival",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": "Fuel Ventures to expand its fintech platform for household utility bill payments and management",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/arrival-raises-500000-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-28T07:54:29.015968-07:00"
-  },
-  {
-    "item": {
-      "company": "Handshaik",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/handshaik-raises-1-7m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-28T07:54:31.265978-07:00"
-  },
-  {
-    "item": {
-      "company": "Funding Orbits New Highs",
-      "amount": "$20.3B",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-28T07:54:34.474087-07:00"
-  },
-  {
-    "item": {
-      "company": "FinTax",
-      "amount": "$40.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/yzi-labs-leads-fintax-s-seed-round-establishing-long-term-ecosystem-collaboration/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-28T07:54:36.732393-07:00"
-  },
-  {
-    "item": {
-      "company": "Facet Amtech",
-      "amount": "$2.1M",
+      "company": "CubeFabs",
+      "amount": "$6.6M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOXhCMGFDSUsyWUp1emQwODNxd2RXM3ppUzJYTWpBeWZQOVVmYzhMMjNJaTdobE5QejM3c0czWUxpRWwwOFQwYW0yODBNS0Y5ZmxqcTlYYnlpRllPajJ1bGVCYWJ2bjRUQkhhMV9fbUlZZzVvbWxLc1lySVROb0x2XzVGRmx6N0xiUDlMMQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWDl2UDNNWUFLMGtldjVtY2psX1dxWkxxdmlpc3hMak4zYzh3Z1lyUzgwaG1LUUJBLUtydno3emRLblJXTXVtS2s5c1RQMjdhVHpScURkei1GODBLclJtSGxQaTJrRFNGc1dBQTdjYk5fc1NtYzdOdE9LcFo0VmZaeTVkMjhQcFFlYXA2aGZWUWhNVkE4cXFtUS1RZGs?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-08-28T07:54:39.923228-07:00"
+    "remind_at": "2026-08-28T17:07:34.097083-07:00"
   },
   {
     "item": {
-      "company": "OpenCheck",
-      "amount": "$3.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WdnZXVU4tbVlRbnp4cjl6Mnl6eUliMzdxdVlCRTNVTGE0UnBXM1dtUm5MT0RNZ1ZJcVB2RVNMMlZBeUE2YjlDYVFmM3JEZmZrc3oyTjA1WVNrOEVOZGQySnA3WTJNNHFadHVVc0kxSVc?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-08-28T07:54:42.269130-07:00"
-  },
-  {
-    "item": {
-      "company": "eComID",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwSjdYUlNScGgxaU1ISkxHSkYyOW5pWkZUb2hzaGNHNWNZdE81cGNENDlmNExXN1FtTjZUVmxBeUVyOVJhM0Z1S0ktYlkzUmg1REExT3hYNklyNzhvZFp6OENZdXZuakVza255T1Q0UzJVcXJvUkdYOHVjdERfUQ?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-08-28T07:54:44.540820-07:00"
-  },
-  {
-    "item": {
-      "company": "InstaAstro",
-      "amount": "$12.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/instaastro-raises-12m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-08-28T07:54:46.804070-07:00"
-  },
-  {
-    "item": {
-      "company": "Cloverleaf AI",
-      "amount": "$8.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/cloverleaf-ai-raises-8m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-08-28T07:54:49.250961-07:00"
-  },
-  {
-    "item": {
-      "company": "Warpify Robotics",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHFuZ2NRaXhzZ2dxZ3ViQmJoTjBQQ2Q2YUFGUzdZTTNvSVRaRUI4WmVYSnpUTnRYRmdvRVNkVExTSGxCZUloZTlZZTNhUG5MSGNlU2pHY0F6ZXItYmlBR2NKMWducEtWM1paWFAwS00xM2VERFNud2IxWTNaOHNsZVlJd2lOanQ1UFpJME5pZm9DQlFVU3Jfb3VIZXU?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-28T07:54:52.525941-07:00"
-  },
-  {
-    "item": {
-      "company": "InspeCity",
-      "amount": "$12.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa09UVFM2QXh3ZnlKTDJpVWNBdVh2QXhFcnQ2NVR4Qm50azYyQWM4TTJha2I4cTJBdXowZnpIVXhmZDNLVXNJRGxNQkZkTUtxTURJd2tkZUJ0ZGctLUtUUnJnd2gxYzB5SElkVkhpU3R4aGlxbXVZZUpYZlVXVzdiYU9nSVRWOEhhNXVBSQ?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-28T07:54:54.809863-07:00"
-  },
-  {
-    "item": {
-      "company": "Levanta",
-      "amount": "$22.0M",
-      "stage": "Series B",
-      "investors": "Volition Capital to expand its creator affiliate platform and infrastructure for Creator Commerce Media",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/levanta-raises-22m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-08-28T07:54:57.379253-07:00"
-  },
-  {
-    "item": {
-      "company": "Funding News Today",
-      "amount": "$120.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/28/startup-funding-news-today-august-28-2026-ausperbio-civilgrid-transfyr-yardstik-more/",
-      "priority": 6
-    },
-    "remind_at": "2026-08-28T07:55:00.507322-07:00"
-  },
-  {
-    "item": {
-      "company": "OneDome",
-      "amount": "$25.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/onedome-raises-25m-pre-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-08-28T07:55:02.805761-07:00"
-  },
-  {
-    "item": {
-      "company": "Flash",
-      "amount": "$29.0M",
-      "stage": "Series D",
-      "investors": "Battery Ventures and Kevin Efrusy to expand its AI capabilities and workforce management platform",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/flash-raises-29m-series-d/",
-      "priority": 5
-    },
-    "remind_at": "2026-08-28T07:55:05.268102-07:00"
-  },
-  {
-    "item": {
-      "company": "Chip riches flood through AI universe",
-      "amount": "$60.0B",
+      "company": "\u2018That\u2019s life\u2019",
+      "amount": "$7.0B",
       "stage": null,
       "investors": null,
       "location": null,
-      "founders": [
-        "Jensen Huang"
-      ],
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/28/panda-express-cofounder-andrew-cherng-work-life-balance-hard-work-created-seven-billion-dollar-asian-american-chain-career-success/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-28T17:07:37.201457-07:00"
+  },
+  {
+    "item": {
+      "company": "Andreessen Horowitz",
+      "amount": "$1.1B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/28/andreessen-horowitz-raises-1-1b-ai-infrastructure-fund/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-28T17:07:40.154277-07:00"
+  },
+  {
+    "item": {
+      "company": "China",
+      "amount": "$45.8B",
+      "stage": null,
+      "investors": null,
+      "location": "Silicon Valley",
+      "founders": [],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/08/28/nvidia-ai-chip-circular-finance-startups",
+      "url": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
       "priority": 3
     },
-    "remind_at": "2026-08-28T07:55:08.477782-07:00"
+    "remind_at": "2026-08-28T17:07:42.352554-07:00"
   },
   {
     "item": {
-      "company": "SoftBank in talks",
-      "amount": "$6.0B",
+      "company": "The case",
+      "amount": null,
+      "stage": null,
+      "investors": "new technologies, comes with its own risks",
+      "location": "Washington",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/28/us-dollar-stablecoins-usdc",
+      "priority": 3
+    },
+    "remind_at": "2026-08-28T17:07:45.249609-07:00"
+  },
+  {
+    "item": {
+      "company": "as AI Racks Near 1 Megawatt",
+      "amount": "$1.1B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/softbank-in-talks-to-buy-majority-stake-in-1x-at-6b-valuation/",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa1BWYVRxY0k4Q2tuVlRzS2ZCWFB6bnNGOG93VC05M2lNS1lCdkZSQnhZSlM2NWplVzdFWXJmRWQ0c2NjdnU0TUFldW9QOWdKYkFyLXhzM0EzSFNHUlJHaFo5UnlLVUMtYTdxSU12bWFha3cxbTF6UkU2Rm9MeHE1aThHb2lfbDY0N3Z3WF85NnNIVmt2Q3pnaFB1azVwSUlvbnotalpORXh1bE9OdFdRcXROTVpGaUJMRDR2TmMtY01wWHluZHRfUlBkdVkydw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-28T07:55:11.582074-07:00"
+    "remind_at": "2026-08-28T17:07:48.188453-07:00"
   },
   {
     "item": {
-      "company": "Handshake",
-      "amount": "$3.2M",
+      "company": "a16z",
+      "amount": "$1.1B",
       "stage": null,
       "investors": null,
-      "location": "Funding London",
+      "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/handshake-raises-3-2m-other/",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHJoQkVNcWloM1ZmRm5wcjF3UUxpTEF2Nlh1LVFsNTNwTEFfUnNLR2tFSklpSms4NlpFNWlpWGlraTU3dmhNemNsbGY2V3F3dl9hU3hGRlJtSlJhNjBJVDBhNHRGNmZvd3lQQ1NXZXJXcFRTYmJsZGs5bEZUS1VwNTg0SjdsSkQtZlFVRkhBaGFpRkMxVDZR?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-28T07:55:13.880553-07:00"
+    "remind_at": "2026-08-28T17:07:50.370831-07:00"
   },
   {
     "item": {
-      "company": "Lokal",
+      "company": "Funding Tracker '26",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/lokal-raises-700k-other/",
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFJTdWtYZzBuMHVULWhJWFV3dVB3d0NfeEE1V0RMcV82Z2VFZ2ZtV2x2ZDBYTG1ZUnQ1RGFsZ0pFWmNFZW1rczNCOFRDUjFCTlFvUEplLVFuZmpHRVpfS2pZX3M1ZjZDaFUzZVV3QURjclpScmZlVndpaWlaN3hBNU11dWRpMkxmamp5ZXhR?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-28T07:55:16.325123-07:00"
+    "remind_at": "2026-08-28T17:07:53.269047-07:00"
   },
   {
     "item": {
-      "company": "CAPER",
+      "company": "Brussels-based Motion",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "Brussels",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/caper-raises-funding-from-pksha-algorithm-fund/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORjVBVGRXa0NkTXN0bnk0MjZ0d1AzemYzUUwyLTVoejQ1ZjF0TnJldF9vZWpOMUI2dWFWUVFLSnMwbVhpRnVhbFFQV2s0NnFkTmdpa2tNSU5kU2xLSmw5ZW9OdGthd1BkcEhHanFNRFFKeFA3bXlfOHBoRjRhZXdDeXBYWHVhYmtxdTRwTEVEOUZmWHRFRnVBMFozc25YR2tCR3RVdmRNU2Y2VmRyVEFVOVUyODRGb0pSaVdF?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-28T07:55:18.722554-07:00"
-  },
-  {
-    "item": {
-      "company": "Nekkyo Co.",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/nekkyo-co-ltd-raises-200m-seed/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-28T07:55:29.272449-07:00"
-  },
-  {
-    "item": {
-      "company": "fileAI",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/fileai-secures-investment/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-28T07:55:31.696974-07:00"
-  },
-  {
-    "item": {
-      "company": "Socure",
-      "amount": "$156.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/socure-raises-156m-growth-capital/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-28T07:55:34.111522-07:00"
+    "remind_at": "2026-08-28T17:07:56.182936-07:00"
   }
 ]

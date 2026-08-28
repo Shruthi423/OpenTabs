@@ -15139,5 +15139,41 @@
     "first_seen": "2026-08-28T07:23:51.739999-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "f84d695a6ed9df3e66cacb9002c346ec": {
+    "id": "f84d695a6ed9df3e66cacb9002c346ec",
+    "title": "UX Designer II",
+    "company": "See posting",
+    "location": "San Francisco Bay Area, CA",
+    "salary": "Not listed",
+    "url": "https://www.builtinsf.com/job/ux-designer-ii/10917030",
+    "source": "BuiltIn SF",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-08-28T16:37:12.080864-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "f57eb4b3ff5a39432845deb1e4c16dcc": {
+    "id": "f57eb4b3ff5a39432845deb1e4c16dcc",
+    "title": "Product Designer, Growth",
+    "company": "Stripe",
+    "location": "New York, NY",
+    "salary": "Not listed",
+    "url": "https://stripe.com/jobs/search?gh_jid=8164479",
+    "source": "Stripe",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-08-28T16:37:13.634894-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
