@@ -15193,5 +15193,41 @@
     "first_seen": "2026-08-28T21:19:46.564890-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "5834d0cf34a5beb1c87228b04421c75d": {
+    "id": "5834d0cf34a5beb1c87228b04421c75d",
+    "title": "UX Researcher",
+    "company": "Accenture Federal Services",
+    "location": "Washington, DC",
+    "salary": "$69,900 - $153,000",
+    "url": "https://uiuxjobsboard.com/job/1582526-ux-researcher-washington-dc-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "3h",
+    "priority": 4,
+    "first_seen": "2026-08-29T04:17:21.204277-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "6dc27b7e4409224fe6078419c20bdaa4": {
+    "id": "6dc27b7e4409224fe6078419c20bdaa4",
+    "title": "UI Product Designer",
+    "company": "Proton",
+    "location": "Remote",
+    "salary": "$80,000 - $100,000",
+    "url": "https://uiuxjobsboard.com/job/1582326-remote-europe-ui-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "6h",
+    "priority": 5,
+    "first_seen": "2026-08-29T04:17:22.783449-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
