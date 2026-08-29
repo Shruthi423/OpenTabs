@@ -1,128 +1,44 @@
 [
   {
     "item": {
-      "company": "CubeFabs",
-      "amount": "$6.6M",
+      "company": "Sonic Fire Tech",
+      "amount": "$15.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWDl2UDNNWUFLMGtldjVtY2psX1dxWkxxdmlpc3hMak4zYzh3Z1lyUzgwaG1LUUJBLUtydno3emRLblJXTXVtS2s5c1RQMjdhVHpScURkei1GODBLclJtSGxQaTJrRFNGc1dBQTdjYk5fc1NtYzdOdE9LcFo0VmZaeTVkMjhQcFFlYXA2aGZWUWhNVkE4cXFtUS1RZGs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TR2JDOFd2Sm9lUmVBTHI0V19JN2dxMVNfMy02S1NETkQyRkU5X2pEcmhaa1RuQ2pIdW9TeGttSzBSc1g4LUF1M0lYc0hIVXNUZDdLTkNSQVBaMU5oVE1yeWNLM3BUWkNmZ3FvR0Rhd25VNkhNV0E?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-08-28T17:07:34.097083-07:00"
+    "remind_at": "2026-08-28T21:50:08.611013-07:00"
   },
   {
     "item": {
-      "company": "\u2018That\u2019s life\u2019",
-      "amount": "$7.0B",
-      "stage": null,
+      "company": "India\u2019s InspeCity",
+      "amount": "$10.5M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/28/panda-express-cofounder-andrew-cherng-work-life-balance-hard-work-created-seven-billion-dollar-asian-american-chain-career-success/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmJaVUhEVTdzYS1JUFhNWUFwOTRUQTRoMV9xVWxrTC13akNNNjRCWTIzbS1rNjZ3QURONGJDbG1WT2JONlBYUEhVcmNUOUNVVi1yTUpWZTZlTVg3NGZzcC1obXVBMFVTY0hwel85UFY1VVZrOXBfWXpuSE5LMzQ5Xzk4aU5UREkzYnhWQ3RCYk41VVJabGEzT0Z5QjU3Q0NaYTctQw?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-28T17:07:37.201457-07:00"
+    "remind_at": "2026-08-28T21:50:11.836586-07:00"
   },
   {
     "item": {
-      "company": "Andreessen Horowitz",
-      "amount": "$1.1B",
-      "stage": null,
+      "company": "Owner",
+      "amount": "$240.0M",
+      "stage": "Series D",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/28/andreessen-horowitz-raises-1-1b-ai-infrastructure-fund/",
-      "priority": 3
+      "url": "https://siliconangle.com/2026/08/28/owner-raises-240m-for-its-restaurant-management-platform/",
+      "priority": 5
     },
-    "remind_at": "2026-08-28T17:07:40.154277-07:00"
-  },
-  {
-    "item": {
-      "company": "China",
-      "amount": "$45.8B",
-      "stage": null,
-      "investors": null,
-      "location": "Silicon Valley",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
-      "priority": 3
-    },
-    "remind_at": "2026-08-28T17:07:42.352554-07:00"
-  },
-  {
-    "item": {
-      "company": "The case",
-      "amount": null,
-      "stage": null,
-      "investors": "new technologies, comes with its own risks",
-      "location": "Washington",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/28/us-dollar-stablecoins-usdc",
-      "priority": 3
-    },
-    "remind_at": "2026-08-28T17:07:45.249609-07:00"
-  },
-  {
-    "item": {
-      "company": "as AI Racks Near 1 Megawatt",
-      "amount": "$1.1B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa1BWYVRxY0k4Q2tuVlRzS2ZCWFB6bnNGOG93VC05M2lNS1lCdkZSQnhZSlM2NWplVzdFWXJmRWQ0c2NjdnU0TUFldW9QOWdKYkFyLXhzM0EzSFNHUlJHaFo5UnlLVUMtYTdxSU12bWFha3cxbTF6UkU2Rm9MeHE1aThHb2lfbDY0N3Z3WF85NnNIVmt2Q3pnaFB1azVwSUlvbnotalpORXh1bE9OdFdRcXROTVpGaUJMRDR2TmMtY01wWHluZHRfUlBkdVkydw?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-28T17:07:48.188453-07:00"
-  },
-  {
-    "item": {
-      "company": "a16z",
-      "amount": "$1.1B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHJoQkVNcWloM1ZmRm5wcjF3UUxpTEF2Nlh1LVFsNTNwTEFfUnNLR2tFSklpSms4NlpFNWlpWGlraTU3dmhNemNsbGY2V3F3dl9hU3hGRlJtSlJhNjBJVDBhNHRGNmZvd3lQQ1NXZXJXcFRTYmJsZGs5bEZUS1VwNTg0SjdsSkQtZlFVRkhBaGFpRkMxVDZR?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-28T17:07:50.370831-07:00"
-  },
-  {
-    "item": {
-      "company": "Funding Tracker '26",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFJTdWtYZzBuMHVULWhJWFV3dVB3d0NfeEE1V0RMcV82Z2VFZ2ZtV2x2ZDBYTG1ZUnQ1RGFsZ0pFWmNFZW1rczNCOFRDUjFCTlFvUEplLVFuZmpHRVpfS2pZX3M1ZjZDaFUzZVV3QURjclpScmZlVndpaWlaN3hBNU11dWRpMkxmamp5ZXhR?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-28T17:07:53.269047-07:00"
-  },
-  {
-    "item": {
-      "company": "Brussels-based Motion",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Brussels",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORjVBVGRXa0NkTXN0bnk0MjZ0d1AzemYzUUwyLTVoejQ1ZjF0TnJldF9vZWpOMUI2dWFWUVFLSnMwbVhpRnVhbFFQV2s0NnFkTmdpa2tNSU5kU2xLSmw5ZW9OdGthd1BkcEhHanFNRFFKeFA3bXlfOHBoRjRhZXdDeXBYWHVhYmtxdTRwTEVEOUZmWHRFRnVBMFozc25YR2tCR3RVdmRNU2Y2VmRyVEFVOVUyODRGb0pSaVdF?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-28T17:07:56.182936-07:00"
+    "remind_at": "2026-08-28T21:50:14.308744-07:00"
   }
 ]
