@@ -85,6 +85,9 @@ a { color: inherit; text-decoration: none; }
 }
 .dd-btn .lbl { color: var(--mut); }
 .dd-btn .dd-sum {
+  /* Never let flex shrink chew into the value — the 150px cap below is for
+     genuinely long selections, not for rendering "All" as "A…". */
+  flex: none;
   color: var(--fg); max-width: 150px; overflow: hidden;
   text-overflow: ellipsis; white-space: nowrap;
   text-transform: uppercase; letter-spacing: .04em;
@@ -125,16 +128,6 @@ a { color: inherit; text-decoration: none; }
 }
 .seg button.is-on { color: var(--fg); }
 .seg button:hover { color: var(--fg); }
-/* Sort-by buttons: icon only; label slides in on hover (active = lit icon) */
-.seg-sort .sort { display: inline-flex; align-items: center; gap: 0; }
-.seg-sort .sort svg { display: block; opacity: .9; width: 18px; height: 18px; }
-.seg-sort .lbl {
-  max-width: 0; opacity: 0; overflow: hidden; white-space: nowrap;
-  transition: max-width .22s ease, opacity .22s ease, margin .22s ease;
-}
-.seg-sort .sort:hover .lbl {
-  max-width: 90px; opacity: 1; margin-left: 6px;
-}
 
 /* colour-theme swatches — collapsed to the active colour, fan out on hover */
 .swatches { display: flex; align-items: center; }
@@ -414,18 +407,11 @@ body.drawer-trash #drawerTrash {
   margin-left: auto;
 }
 .row .status { color: var(--mut); font-size: 12px; white-space: nowrap; }
-/* Sort now sits with the other top-bar settings */
-.row .seg-sort { display: inline-flex; align-items: center; gap: 14px; }
-/* the group label must escape the hover-reveal rule the item labels use */
-.row .seg-sort > .lbl { color: var(--mut); max-width: none; opacity: 1; margin: 0; }
-.row .seg-sort .sort { color: var(--mut); }
-.row .seg-sort .sort.is-on { color: var(--fg); }
 /* narrow, fixed field — it no longer eats a third of the bar */
 .field.search { flex: 0 0 auto; min-width: 0; gap: 12px; }
 .field.search input { flex: 0 0 210px; }
 .field.search .lbl,
 .dd-btn .lbl,
-.row .seg-sort > .lbl { text-transform: uppercase; letter-spacing: .08em; font-size: 11px; }
 .field.search input { width: 100%; font-size: 13px; }
 
 .iconbtn {

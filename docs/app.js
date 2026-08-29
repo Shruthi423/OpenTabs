@@ -13,7 +13,6 @@ let FUND = [];                          // raw data from funding.json
 
 const state = {
   q: "", source: [], loc: [], date: "", visa: [],   // source/loc/visa = multi
-  sort: localStorage.getItem("sort") || "new",      // new | city | pay
   mode: localStorage.getItem("mode") || "board",    // board | cognition
   cog: localStorage.getItem("cogCol") || "today",   // which column cognition mode works
   cogI: 0,                                          // cursor into that column's deck
@@ -22,7 +21,6 @@ const state = {
 };
 /* Labels for the confirm dialog and the empty states. */
 const LABELS = { today: "Today", prev: "Previous", raised: "Just Raised", app: "Applied", trash: "Trash" };
-const SORTS = ["new", "city", "pay"];
 /* Rail modes. "board" is this three-column triage surface; "brain" is
    cognition mode — the icon is in the rail but the mode does not exist
    yet, so it is listed here and deliberately not switchable. */
@@ -95,11 +93,6 @@ function jobTime(j) {
   return new Date(j.first_seen).getTime() || 0;
 }
 function postedAgo(j) { const t = jobTime(j); return t ? ago(t) : "recently"; }
-function salaryNum(s) {
-  const m = (s || "").replace(/,/g, "").match(/\$(\d+)(k)?/i);
-  if (!m) return -1;
-  return parseInt(m[1], 10) * (m[2] ? 1000 : 1);
-}
 // which location group a job falls in (for the Location filter)
 function locGroup(j) {
   const t = (j.location || "").toLowerCase(), p = j.priority || 9;
@@ -128,13 +121,7 @@ function visible() {
     if (state.visa.length && !state.visa.includes(j.visa || "unknown")) return false;
     return true;
   });
-  out.sort((a, b) => {
-    if (state.sort === "new") return jobTime(b) - jobTime(a);         // newest on top
-    if (state.sort === "pay") return salaryNum(b.salary) - salaryNum(a.salary);
-    const pa = a.priority || 9, pb = b.priority || 9;                 // city
-    if (pa !== pb) return pa - pb;
-    return (b.first_seen || "").localeCompare(a.first_seen || "");
-  });
+  out.sort((a, b) => jobTime(b) - jobTime(a));      // always newest first
   return out;
 }
 
@@ -145,12 +132,6 @@ function isSF(f) {
   return /san francisco|bay area|palo alto|mountain view|san jose|oakland|menlo park|sunnyvale|berkeley|redwood city|san mateo|santa clara|\bsf\b/.test(t);
 }
 function locOf(f) { return f.location || (f.roles && f.roles[0] && f.roles[0].location) || ""; }
-// "$24.0M" → 24, "$1.5B" → 1500, "Undisclosed" → -1
-function amtNum(a) {
-  const m = (a || "").match(/\$?\s*([\d.]+)\s*([MB])/i);
-  if (!m) return -1;
-  return parseFloat(m[1]) * (m[2].toUpperCase() === "B" ? 1000 : 1);
-}
 function visibleRaises() {
   const out = FUND.filter((f) => {
     if (f.status === "dismissed") return false;
@@ -166,16 +147,7 @@ function visibleRaises() {
     }
     return true;
   });
-  const byNew = (a, b) => (b.first_seen || "").localeCompare(a.first_seen || "");
-  out.sort((a, b) => {
-    if (state.sort === "pay") return amtNum(b.amount) - amtNum(a.amount) || byNew(a, b);
-    if (state.sort === "city") {
-      const la = locOf(a), lb = locOf(b);
-      if (!la !== !lb) return la ? -1 : 1;
-      return la.localeCompare(lb) || byNew(a, b);
-    }
-    return byNew(a, b);
-  });
+  out.sort((a, b) => (b.first_seen || "").localeCompare(a.first_seen || ""));  // newest first
   return out;
 }
 
@@ -684,7 +656,6 @@ function bindCogSwipe() {
 /* ── apply persisted size/theme/sort to the DOM ────────────────── */
 function applyChrome() {
   if (!THEMES.includes(state.theme)) state.theme = "dark";
-  if (!SORTS.includes(state.sort)) state.sort = "new";
   // a mode saved before it shipped (or after one is removed) falls back
   if (!MODES.includes(state.mode)) state.mode = "board";
   if (!COG_COLS.includes(state.cog)) state.cog = "today";
@@ -696,7 +667,6 @@ function applyChrome() {
     b.setAttribute("aria-pressed", on ? "true" : "false");
   });
   $$('.sw').forEach((b) => b.classList.toggle("is-on", b.dataset.theme === state.theme));
-  $$('[data-sort]').forEach((b) => b.classList.toggle("is-on", b.dataset.sort === state.sort));
   refreshUndo();
 }
 
@@ -733,12 +703,6 @@ function bind() {
     qT = setTimeout(() => render(false, true), 180);
   });
   ddInit();
-
-  $$('[data-sort]').forEach((b) => b.addEventListener("click", () => {
-    state.sort = b.dataset.sort; localStorage.setItem("sort", state.sort);
-    $$('[data-sort]').forEach((x) => x.classList.toggle("is-on", x === b));
-    render(true, true);
-  }));
 
   // Mode switch. Modes that aren't built yet stay inert — clicking one
   // says so rather than half-switching into a surface that isn't there.
