@@ -1,47 +1,44 @@
 [
   {
     "item": {
-      "company": "Lupin Dental",
-      "amount": null,
+      "company": "Photo service Retro",
+      "amount": "$21.0M",
       "stage": "Series A",
       "investors": null,
-      "location": "Montpellier",
+      "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2JQY09wd1l6U0pOWmFQeC00UGRRdnljTjFQRGY3eGZhOWlWQlVJX0Y0UDB4RV9DRGV2UWxUWTVvQVIyWWhqSzY5ajZ6YnBLX1R5ejZtUEhBdy11TUpFWXIxRnFQNzg2N2RqMnRLSXp3Zi01NTVZRmRkd1dpN0szNGhfMUI3eS1uaVBUa25BSDNSTGl6NjVRdGVrQmJXY2lfNTRqWG5hOHVGZ010UTRESWdWbk9QMGp3clk0RzNyeHBFLUU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzB1Q3hFTzcwN0RTNkZOMDVjeHRZVjRRaWpDRVlBa2ZRcU5Vdk9qRE14V0gzT2JUYzRLX0VnWWdjTjZyMWZjQmFHRWRQNnJzY1BVVlM5OVJXRHpKNVVROEotVVZRM3RrdDNsWC02bXFEa21BbXFEU1VGYW9uSmdjeHl0em9EeEFDdWJ4aU8xVmdIY1h6ckh1TVdJQTJ4cENT?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-08-29T12:23:55.833456-07:00"
+    "remind_at": "2026-08-29T14:59:52.784150-07:00"
   },
   {
     "item": {
-      "company": "Music publishers sue Anthropic",
-      "amount": "$1.5B",
+      "company": "Wall Street used",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "founders": [
-        "Benjamin Mann",
-        "Dario Amodei"
-      ],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/29/us-debt-reverse-crowding-out-effect-ai-hyperscaler-bonds-treasury-yields/",
       "priority": 3
     },
-    "remind_at": "2026-08-29T12:23:58.809373-07:00"
+    "remind_at": "2026-08-29T14:59:55.770564-07:00"
   },
   {
     "item": {
-      "company": "Maastricht-based Clementine",
-      "amount": null,
+      "company": "Owner",
+      "amount": "$2.3B",
       "stage": null,
       "investors": null,
-      "location": "Maastricht",
+      "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcXBTcFMzcWJ0NDJCQlBRTlBnOHFfSnA5TXZHbGY5T1dlOVV0N2V5MWRmRDJRZmJ4elp6S1NVVFc5QzRCbU9wTE5aVjNqclV0VWVGV29QT3dOQUUxNWUwTTR1ZW9aeHBxWlR1SFI4YzdWb3BRaEJrcDZwNXkwSVRHV2ZxaV96S3dIbkxPMmRHOFphcFdZdWxucTYtdGNibTcyeTFTeTBwU0ZURXQyWGlvMk56by1XeG1Vb2FUY21hMXNac3RSUlE4MFhR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZXRWaERUOFh1VE9IOXVYLXBfSmU2MmpDbkdTNDNERVpnbmV5V3k0UGtZZ09zN2ZDbU9sSTFKeUU1dG5naklzMm40WVVNSmpoRU1wZmhQZTNGTmM1M0ZuOXhSand4dW4weTJnWDZlWklTcFdkTjNUa0NvRXpTaWZ3TFZ5eHlZRzRlR0ZRUGRRTE10NW8?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-29T12:24:02.687997-07:00"
+    "remind_at": "2026-08-29T14:59:57.924761-07:00"
   }
 ]

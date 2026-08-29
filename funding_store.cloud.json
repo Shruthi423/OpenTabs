@@ -51003,5 +51003,50 @@
     "roles": [],
     "first_seen": "2026-08-29T11:54:03.688137-07:00",
     "status": "active"
+  },
+  "c2949cd5393a6fc586b78b2b5d84a3b3": {
+    "id": "c2949cd5393a6fc586b78b2b5d84a3b3",
+    "company": "Photo service Retro",
+    "amount": "$21.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzB1Q3hFTzcwN0RTNkZOMDVjeHRZVjRRaWpDRVlBa2ZRcU5Vdk9qRE14V0gzT2JUYzRLX0VnWWdjTjZyMWZjQmFHRWRQNnJzY1BVVlM5OVJXRHpKNVVROEotVVZRM3RrdDNsWC02bXFEa21BbXFEU1VGYW9uSmdjeHl0em9EeEFDdWJ4aU8xVmdIY1h6ckh1TVdJQTJ4cENT?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-29T14:29:53.784304-07:00",
+    "status": "active"
+  },
+  "b8f209050b77d21a1a9f789b17ab7278": {
+    "id": "b8f209050b77d21a1a9f789b17ab7278",
+    "company": "Wall Street used",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/29/us-debt-reverse-crowding-out-effect-ai-hyperscaler-bonds-treasury-yields/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-29T14:29:56.770721-07:00",
+    "status": "active"
+  },
+  "f850d76de80f6b0dcd511ac03feb526b": {
+    "id": "f850d76de80f6b0dcd511ac03feb526b",
+    "company": "Owner",
+    "amount": "$2.3B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZXRWaERUOFh1VE9IOXVYLXBfSmU2MmpDbkdTNDNERVpnbmV5V3k0UGtZZ09zN2ZDbU9sSTFKeUU1dG5naklzMm40WVVNSmpoRU1wZmhQZTNGTmM1M0ZuOXhSand4dW4weTJnWDZlWklTcFdkTjNUa0NvRXpTaWZ3TFZ5eHlZRzRlR0ZRUGRRTE10NW8?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-29T14:29:58.924943-07:00",
+    "status": "active"
   }
 }
