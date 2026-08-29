@@ -1,86 +1,47 @@
 [
   {
     "item": {
-      "company": "HubX",
-      "amount": "$75.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGNyeklJTFdzQlRCOEhpOC1NTTNzcnlQMXJ0ZG5ia045MG5YMlY3NTk2SmVaOHBpLTRBQWdZMldKSTAtdUtaTFFMSV9abnVWQVBxSGo2cmJPRm5ENl82MHg4Qi1Pb3F4aTFacUhDUldqMjJYQnctWXBKWlpINUN6ctIBgAFBVV95cUxPaGNyeklJTFdzQlRCOEhpOC1NTTNzcnlQMXJ0ZG5ia045MG5YMlY3NTk2SmVaOHBpLTRBQWdZMldKSTAtdUtaTFFMSV9abnVWQVBxSGo2cmJPRm5ENl82MHg4Qi1Pb3F4aTFacUhDUldqMjJYQnctWXBKWlpINUN6cg?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-29T09:14:50.774003-07:00"
-  },
-  {
-    "item": {
-      "company": "Private photo app Retro",
-      "amount": "$21.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yWGtTU2tZWlAtazBKLXJaemZDSThDRURzVEdIMGdBQjB2bTlGM1VqRnV3RkU1YWpLVk0wYXJXUHl2Rm5tUkFuLXgwbXFiNWd1YkxFcHFmZVYwdzBCVFpUNEttUXVJQQ?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-29T09:14:53.938963-07:00"
-  },
-  {
-    "item": {
-      "company": "For his latest tariffs",
-      "amount": "$20.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/29/trump-tariffs-canada-trade-war-smoot-hawley-act-1930/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-29T09:14:56.959453-07:00"
-  },
-  {
-    "item": {
-      "company": "Why Nepal's rare",
+      "company": "Lupin Dental",
       "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": "Montpellier",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2JQY09wd1l6U0pOWmFQeC00UGRRdnljTjFQRGY3eGZhOWlWQlVJX0Y0UDB4RV9DRGV2UWxUWTVvQVIyWWhqSzY5ajZ6YnBLX1R5ejZtUEhBdy11TUpFWXIxRnFQNzg2N2RqMnRLSXp3Zi01NTVZRmRkd1dpN0szNGhfMUI3eS1uaVBUa25BSDNSTGl6NjVRdGVrQmJXY2lfNTRqWG5hOHVGZ010UTRESWdWbk9QMGp3clk0RzNyeHBFLUU?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-08-29T12:23:55.833456-07:00"
+  },
+  {
+    "item": {
+      "company": "Music publishers sue Anthropic",
+      "amount": "$1.5B",
       "stage": null,
       "investors": null,
-      "location": "New York",
-      "founders": [],
+      "location": null,
+      "founders": [
+        "Benjamin Mann",
+        "Dario Amodei"
+      ],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/08/29/nepal-flood-cause-warning-alert-system",
+      "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
       "priority": 3
     },
-    "remind_at": "2026-08-29T09:14:59.957341-07:00"
+    "remind_at": "2026-08-29T12:23:58.809373-07:00"
   },
   {
     "item": {
-      "company": "Temporal",
+      "company": "Maastricht-based Clementine",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1I4UElvU2Q0MXZVd1BwR2pNVm90cGZocE9sbUR3ZHBKQUZ4N1gtR0hkeHdSNndVbXFiZ1Q3eHRhU2FDbWZaNjVLYXZSZzNsbW8wX211WWMwVmgtT21xQ3BvbWJjaW1YNGVOck1VZXJKUjY3bVdfbHhqNHQ3WkktQzhfSnAweVVWTVJpN0IwUVNoN19EMWpCaVJBRmoxRjFhbTgtMXV0dkNLcDQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-29T09:15:02.335075-07:00"
-  },
-  {
-    "item": {
-      "company": "Indian Skincare Brand Asaya",
-      "amount": "$9.2M",
-      "stage": null,
-      "investors": null,
-      "location": null,
+      "location": "Maastricht",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYVRweXhBMnViSXBTVUFqa2VXSW1Ea0lyQkNlS1ZDMWN5ZDhYQzBjWk16Y3dqWHJBdUVwcDV1Z21YV0VSbUhfeER3ck43NWl0TU8taWJoeTJQdWI5MkxseXpNNk4wVm1uMjhFQkxxcjBsSUUyWEJTZTZibk9aenRhSVRfTG5XQ0U?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcXBTcFMzcWJ0NDJCQlBRTlBnOHFfSnA5TXZHbGY5T1dlOVV0N2V5MWRmRDJRZmJ4elp6S1NVVFc5QzRCbU9wTE5aVjNqclV0VWVGV29QT3dOQUUxNWUwTTR1ZW9aeHBxWlR1SFI4YzdWb3BRaEJrcDZwNXkwSVRHV2ZxaV96S3dIbkxPMmRHOFphcFdZdWxucTYtdGNibTcyeTFTeTBwU0ZURXQyWGlvMk56by1XeG1Vb2FUY21hMXNac3RSUlE4MFhR?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-29T09:15:05.506580-07:00"
+    "remind_at": "2026-08-29T12:24:02.687997-07:00"
   }
 ]
