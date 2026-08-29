@@ -1,58 +1,86 @@
 [
   {
     "item": {
-      "company": "Roma AI",
-      "amount": "$1.2M",
-      "stage": "Seed",
+      "company": "HubX",
+      "amount": "$75.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vOVAzckRYNklRRmNzOFM2dHF1UV9Va2o0d0NTdW1aZWdHMTFTdW5fejFtdVlUbDFjdnZYZ3BYOHpVdkN5cWZGcXRKR1lCZ01reW5NZ3ZTRkllVC1XczZoZWh5b9IBaEFVX3lxTE5Sc2RoSXBLODdDLUJLd1dPN3o2b0xOUkd4Rndjd21vWUlKSGI4Qy1lX2lRR2E1Y0pjc3JhRWFQTGpBS1JjTjlBU29jRnhfMVBhaXdHckxvRjN6VE9tUnhiTHEwMng0RXVk?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGNyeklJTFdzQlRCOEhpOC1NTTNzcnlQMXJ0ZG5ia045MG5YMlY3NTk2SmVaOHBpLTRBQWdZMldKSTAtdUtaTFFMSV9abnVWQVBxSGo2cmJPRm5ENl82MHg4Qi1Pb3F4aTFacUhDUldqMjJYQnctWXBKWlpINUN6ctIBgAFBVV95cUxPaGNyeklJTFdzQlRCOEhpOC1NTTNzcnlQMXJ0ZG5ia045MG5YMlY3NTk2SmVaOHBpLTRBQWdZMldKSTAtdUtaTFFMSV9abnVWQVBxSGo2cmJPRm5ENl82MHg4Qi1Pb3F4aTFacUhDUldqMjJYQnctWXBKWlpINUN6cg?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-29T04:47:45.896704-07:00"
+    "remind_at": "2026-08-29T09:14:50.774003-07:00"
   },
   {
     "item": {
-      "company": "Sharpi",
-      "amount": "$4.0M",
-      "stage": "Seed",
+      "company": "Private photo app Retro",
+      "amount": "$21.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY0s4RGpSY2dVamlLNmVNajJ4cXhJbDNtcVRXZlctWHV6eXI2VURKLWN4YXppcXU0TEVUaDBGdVZmc19YaUpBYTFxZ1BRTVZhcEJDVlZFZElqUDZDZEowTW9LSkN2OGRyMWdpVW9LdmlQUEhjYTZyQVpVNm5hLUllSzBQMnY1M0dJQXkxdWFEYy02RmE2cFhjbnFn?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yWGtTU2tZWlAtazBKLXJaemZDSThDRURzVEdIMGdBQjB2bTlGM1VqRnV3RkU1YWpLVk0wYXJXUHl2Rm5tUkFuLXgwbXFiNWd1YkxFcHFmZVYwdzBCVFpUNEttUXVJQQ?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-29T04:47:48.212478-07:00"
+    "remind_at": "2026-08-29T09:14:53.938963-07:00"
   },
   {
     "item": {
-      "company": "Instinct AI assistant",
-      "amount": "$250.0M",
-      "stage": "Series B",
+      "company": "For his latest tariffs",
+      "amount": "$20.0B",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZGt4UlN4VU5NQW91S0tsYWp4S3F6LVJjTFdCeGoyWm54V1dKcVNJc3dsWjA0cXVEeEJpV1lfdVNjYTM5MExJN2Q5RDMxc2FqWHNfRE9GelV0MG9GcVlnT0RCY2VFSm9oREF4eG9VMXcyZkI3bVZaV21JNlBFUXVYa2FRUzJUOGx4UmVfQlFOUU9CRXRLVkFJc0twZWc?oc=5",
-      "priority": 7
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/29/trump-tariffs-canada-trade-war-smoot-hawley-act-1930/",
+      "priority": 3
     },
-    "remind_at": "2026-08-29T04:47:51.608344-07:00"
+    "remind_at": "2026-08-29T09:14:56.959453-07:00"
   },
   {
     "item": {
-      "company": "Andreessen Horowitz",
+      "company": "Why Nepal's rare",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "New York",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/29/nepal-flood-cause-warning-alert-system",
+      "priority": 3
+    },
+    "remind_at": "2026-08-29T09:14:59.957341-07:00"
+  },
+  {
+    "item": {
+      "company": "Temporal",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTmlzRnl0VDBESTg4ZTg3eUtOWER2WWE2SkhzZHVvVXRydXZzV0k2a21GZ0NhcUUzazFVNWpFODVIcEpQUzZPa0Mzc0oySDdnaDl2NEZ6NXNYVnhrN2dpV1VxUDhKRUFJTVRweHJhRWREelBVN2t1dUQ1Y2FpWlNUTFRYdTMwSkhBRy16azJkVFI1ZDU2NFEwaWF2eFVEYllad2twOWg0MmdqcU5OY1FYUXFaSklwUVg3OVhFRjRiclQ4d1hFcnVaMWJCem1LUVVTNE5VZ2w4SGE3b2VELVd3aDk1TnNqQdIB7AFBVV95cUxOd2hmbHlEMGRySXBBMWJMeXBvem1LQjd1OFI2Y1YyYlozSlR0aEl4SU15YkVoRnlUMkQwbGxzRkFxZnBpRTEwYjNtWWF1bUlFMVMwUm0wd0ZFOTVuRk5KaFRYbkFLZE82Y19sV2FOZVhVU2NBRmNWbEpmTV9yZU5LeHZPS3ZuSU9FbGttekpOMUs5eXY5aTNGLXVzVFJpbmdyVEg2ODZ2dHhJTnNpNTFFUFJOUVlQWldrdVBnRUFUZEJ6cXFPcHZrakJRbXc2Y18tbXN4UzNoSDAwLS1NU21fRU52RVRlLUN5aFFNdQ?oc=5",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1I4UElvU2Q0MXZVd1BwR2pNVm90cGZocE9sbUR3ZHBKQUZ4N1gtR0hkeHdSNndVbXFiZ1Q3eHRhU2FDbWZaNjVLYXZSZzNsbW8wX211WWMwVmgtT21xQ3BvbWJjaW1YNGVOck1VZXJKUjY3bVdfbHhqNHQ3WkktQzhfSnAweVVWTVJpN0IwUVNoN19EMWpCaVJBRmoxRjFhbTgtMXV0dkNLcDQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-29T04:47:54.757151-07:00"
+    "remind_at": "2026-08-29T09:15:02.335075-07:00"
+  },
+  {
+    "item": {
+      "company": "Indian Skincare Brand Asaya",
+      "amount": "$9.2M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYVRweXhBMnViSXBTVUFqa2VXSW1Ea0lyQkNlS1ZDMWN5ZDhYQzBjWk16Y3dqWHJBdUVwcDV1Z21YV0VSbUhfeER3ck43NWl0TU8taWJoeTJQdWI5MkxseXpNNk4wVm1uMjhFQkxxcjBsSUUyWEJTZTZibk9aenRhSVRfTG5XQ0U?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-29T09:15:05.506580-07:00"
   }
 ]
