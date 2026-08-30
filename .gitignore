@@ -37,3 +37,6 @@ env/
 
 # temp files from atomic json writes (save_json)
 *.json.tmp
+
+# publish watchdog state (per-runner, never published)
+publish_watch*.json

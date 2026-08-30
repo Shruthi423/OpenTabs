@@ -47,6 +47,7 @@ CONFIG = {
     "SITE_DIR":     "docs",                  # GitHub Pages serves from /docs on main
     "TG_OFFSET_FILE": "tg_offset.json",      # last processed Telegram update id
     "QUERY_OFFSET_FILE": "query_offset.json",  # rotating cursor into SEARCH_QUERIES
+    "PUBLISH_WATCH_FILE": "publish_watch.json",   # consecutive push failures
     "LOG_FILE":     "job_bot.log",
     "TIMEZONE":     "America/Los_Angeles",
     "NEW_HOURS":      24,                     # jobs newer than this show under "New"
@@ -99,6 +100,7 @@ if MODE != "all":
     CONFIG["FUNDING_STORE_FILE"]  = f"funding_store.{_sx}.json"
     CONFIG["QUERY_OFFSET_FILE"]   = f"query_offset.{_sx}.json"
     CONFIG["TG_OFFSET_FILE"]      = f"tg_offset.{_sx}.json"
+    CONFIG["PUBLISH_WATCH_FILE"]  = f"publish_watch.{_sx}.json"
     CONFIG["BACKFILL_FLAG"]        = f"backfill_done.{_sx}.flag"
     CONFIG["FUNDING_BACKFILL_FLAG"]= f"funding_backfill_done.{_sx}.flag"
     # Funding only runs cloud-side; keep the single published filename so the
@@ -1180,6 +1182,60 @@ def extract_location(text: str):
             return city
     return None
 
+# ── Investors ────────────────────────────────────────────────────
+#  The old pattern only caught "led by / backed by / investors:", which
+#  fired on 7% of live funding items — so almost no raise could show who
+#  wrote the cheque. These add the other common phrasings, plus a
+#  fallback that recognises firm names by their suffix. Precision matters
+#  more than recall here: a wrong investor name feeds the VC badge, so
+#  bare suffixes ("Ventures"), sentence fragments and lowercase leads are
+#  all rejected. Measured on 41 live items: 7% -> 36%.
+_INV_LEAD_RE = re.compile(
+    r'(?:co-)?led by\s+(.{3,80}?)(?:[.;]|,\s+(?:with|and)\s|\swith participation|$)'
+    r'|backed by\s+(.{3,80}?)(?:[.;]|,\s+\w+\s+said|$)'
+    r'|with participation from\s+(.{3,80}?)(?:[.;]|$)'
+    r'|(?:investment|funding|round)\s+from\s+(.{3,80}?)(?:[.;]|$)', re.I)
+# One capitalised word at least BEFORE the suffix: "Cherry Ventures" yes,
+# a bare "Ventures" no.
+_INV_FIRM_RE = re.compile(
+    r'\b((?:[A-Z][\w&.\'-]+\s+){1,3}(?:Capital|Ventures|Partners|Growth|Equity|Fund))\b')
+_INV_KNOWN_RE = re.compile(
+    r'\b(a16z|Andreessen Horowitz|Sequoia|Benchmark|Greylock|Accel|Kleiner Perkins|'
+    r'Lightspeed|General Catalyst|Founders Fund|Index Ventures|Y Combinator|First Round|'
+    r'Bessemer|Spark Capital|Thrive Capital|Khosla|Lux Capital|Coatue|Tiger Global|'
+    r'DST Global|Insight Partners|Greenoaks|Battery Ventures|Bain Capital|NEA)\b')
+_INV_SUFFIX_ONLY = {"capital", "ventures", "partners", "growth", "equity", "fund", "funds"}
+_INV_STOP_RE = re.compile(
+    r'\b(have|has|had|poured|reaching|which|that|said|according|down|up|more|than)\b', re.I)
+
+def _inv_clean(x: str) -> str:
+    x = re.sub(r'\s+', ' ', x or '').strip(" ,;:–—-")
+    x = re.split(r'\s+(?:to|which|that|as|for|reaching|after|following)\s+', x)[0]
+    x = re.split(r'[$\d]', x)[0]                    # drop "reaching a $6B valuation"
+    return x.strip(" ,;:.-")
+
+def _inv_ok(x: str) -> bool:
+    if not x or not (3 <= len(x) <= 80):        return False
+    if x.lower() in _INV_SUFFIX_ONLY:            return False
+    if _INV_STOP_RE.search(x):                   return False
+    if not re.match(r'^[A-Z]', x):               return False
+    words = [w for w in x.replace(",", " ").split() if w]
+    return not all(w.lower() in _INV_SUFFIX_ONLY for w in words)
+
+def extract_investors(text: str):
+    """Who backed the round — or None when we genuinely can't tell."""
+    m = _INV_LEAD_RE.search(text or "")
+    if m:
+        c = _inv_clean(next((g for g in m.groups() if g), ""))
+        if _inv_ok(c):
+            return c
+    names, seen = [], set()
+    for n in _INV_KNOWN_RE.findall(text or "") + [_inv_clean(x) for x in _INV_FIRM_RE.findall(text or "")]:
+        n = _inv_clean(n)
+        if _inv_ok(n) and n.lower() not in seen:
+            seen.add(n.lower()); names.append(n)
+    return ", ".join(names[:3]) or None
+
 def extract_funding(text: str) -> dict:
     result = {"amount": None, "stage": None, "investors": None, "priority": 3, "location": None}
     result["location"] = extract_location(text)
@@ -1193,10 +1249,8 @@ def extract_funding(text: str) -> dict:
         stage = m.group(0).lower().strip()
         result["stage"]    = stage.title()
         result["priority"] = STAGE_PRIORITY.get(stage, 3)
-    inv_m = re.search(r'(?:led by|backed by|investors?[:\s]+)([\w\s,]+?)(?:\.|,\s+\w+\s+said|\n)',
-                      text, re.IGNORECASE)
-    if inv_m:
-        investors = inv_m.group(1).strip().rstrip(",")
+    investors = extract_investors(text)
+    if investors:
         result["investors"] = investors
         if any(t in investors.lower() for t in TIER1_VCS):
             result["priority"] += 3
@@ -1680,6 +1734,50 @@ def _pull_rebase() -> bool:
     log.warning(f"pull --rebase failed, aborted cleanly: {(r.stderr or '')[:160]}")
     return False
 
+# ── Publish watchdog ──────────────────────────────────────────────
+#  A silent push failure took the laptop half off the site for six weeks:
+#  it kept scraping and committing, but nothing ever said the publish had
+#  stopped. Alert after a few consecutive failures, and once on recovery.
+PUBLISH_FAIL_ALERT_AFTER = 3      # consecutive failed pushes (~45 min)
+
+def _note_publish(ok: bool, err: str = ""):
+    try:
+        st = load_json(CONFIG["PUBLISH_WATCH_FILE"], {"fails": 0, "alerted": False})
+        if ok:
+            if st.get("alerted"):
+                send_telegram(
+                    "\u2705 <b>Publishing is working again.</b>\n\n"
+                    "The dashboard is back in sync with GitHub \u2014 nothing to do."
+                )
+                log.info("\u2705 publishing recovered \u2014 Telegram sent.")
+            save_json(CONFIG["PUBLISH_WATCH_FILE"], {"fails": 0, "alerted": False})
+            return
+        st["fails"] = int(st.get("fails", 0)) + 1
+        if st["fails"] >= PUBLISH_FAIL_ALERT_AFTER and not st.get("alerted"):
+            send_telegram(
+                f"\u26a0\ufe0f <b>The dashboard has stopped publishing.</b>\n\n"
+                f"The bot is still finding jobs, but the last <b>{st['fails']}</b> "
+                f"pushes to GitHub failed, so the website is frozen at its last "
+                f"good update.\n\n"
+                f"<b>Error:</b> <code>{html.escape(err[:180]) or 'unknown'}</code>\n\n"
+                f"{PUBLISH_HELP}"
+            )
+            st["alerted"] = True
+            log.warning(f"\u26a0\ufe0f publishing failed {st['fails']}x \u2014 Telegram alert sent.")
+        save_json(CONFIG["PUBLISH_WATCH_FILE"], st)
+    except Exception as e:
+        log.warning(f"_note_publish: {e}")
+
+PUBLISH_HELP = (
+    "Most often this is the GitHub token. Open <b>Terminal</b> and run:\n\n"
+    "<code>cd ~/opentabs && git push origin main</code>\n\n"
+    "\u00b7 <b>403</b> \u2192 the token is valid but lacks write access. Give it "
+    "<i>Contents: Read and write</i> on the OpenTabs repo.\n"
+    "\u00b7 <b>401</b> \u2192 the token expired. Make a new one, then:\n"
+    "<code>printf 'protocol=https\\nhost=github.com\\n\\n' | git credential-osxkeychain erase</code>\n"
+    "\u00b7 <b>rejected / behind</b> \u2192 <code>git pull --rebase &amp;&amp; git push</code>"
+)
+
 def git_publish():
     if not os.path.isdir(".git"):
         return  # repo/remote not set up yet — nothing to publish to
@@ -1700,9 +1798,11 @@ def git_publish():
                 push = _push()
             if push is not None and push.returncode == 0:
                 log.info("\U0001F4E4 Dashboard published to GitHub")
+                _note_publish(True)
             else:
-                err = (push.stderr[:120] if push is not None else "rebase conflict")
-                log.warning(f"git push failed (will retry next cycle): {err}")
+                err = (push.stderr.strip() if push is not None else "rebase conflict")
+                log.warning(f"git push failed (will retry next cycle): {err[:120]}")
+                _note_publish(False, err)
     except FileNotFoundError:
         log.warning("git not found \u2014 skipping publish")
     except Exception as e:
@@ -1824,6 +1924,17 @@ UNCHECKABLE_SOURCES = {"Indeed", "Glassdoor", "ZipRecruiter", "Google"}
 EXPIRY_BATCH        = 25      # links probed per cycle
 EXPIRY_MIN_AGE_DAYS = 3       # don't bother probing fresh finds
 EXPIRY_STRIKES      = 2       # consecutive dead reads before retiring
+EXPIRY_RECHECK_HOURS = 4      # wait this long before confirming a strike
+
+def _checked_before(rec: dict, hours: int) -> bool:
+    """True if this record was last probed more than `hours` ago."""
+    ts = rec.get("checked_at")
+    if not ts:
+        return True
+    try:
+        return (now_pt() - datetime.fromisoformat(ts)).total_seconds() > hours * 3600
+    except Exception:
+        return True
 
 def check_posting_alive(url: str):
     """True = still open · False = definitely gone · None = can't tell."""
@@ -1854,7 +1965,18 @@ def expire_dead_postings(store: dict) -> int:
         except Exception:
             continue
         cands.append(rec)
-    cands.sort(key=lambda r: r.get("checked_at") or "")   # never-checked first
+    # Confirm pending strikes BEFORE probing new ground. Sorting purely by
+    # "never checked first" meant a struck record was not revisited until the
+    # whole ~3000-posting sweep finished, so after 250 probes and 93 strikes
+    # nothing had actually retired. Re-check is held off for a few hours so
+    # the second reading is independent of the first, not the same bad minute.
+    def _order(r):
+        if r.get("dead_strikes") and _checked_before(r, EXPIRY_RECHECK_HOURS):
+            return (0, r.get("checked_at") or "")     # confirm these first
+        if not r.get("checked_at"):
+            return (1, "")                            # then never-seen
+        return (2, r.get("checked_at"))               # then stalest
+    cands.sort(key=_order)
     closed = 0
     for rec in cands[:EXPIRY_BATCH]:
         alive = check_posting_alive(rec.get("url", ""))
