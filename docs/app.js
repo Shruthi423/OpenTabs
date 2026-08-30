@@ -158,12 +158,14 @@ const STARTUP_SOURCES = ["Startups.Gallery", "OpenDoors", "Y Combinator", "YC",
 function scoreJob(j) {
   const why = [];
   let n = 0;
-  const p = j.priority || 9;
-  if (p === 1)      { n += 50; why.push("SF"); }
-  else if (p === 2) { n += 40; why.push("Bay Area"); }
-  else if (p === 5) { n += 12; why.push("Remote"); }
-  else if (p === 3) { n += 10; }
-  else if (p === 4) { n += 6; }
+  // Location order Shruthi set: SF/Bay, then New York, then Remote, then
+  // everywhere else. Scored off locGroup so it matches the Location filter
+  // exactly — location_rank has no New York tier of its own.
+  const g = locGroup(j);
+  if (g === "sfbay")       { n += 50; why.push((j.priority || 9) === 1 ? "SF" : "Bay Area"); }
+  else if (g === "ny")     { n += 38; why.push("New York"); }
+  else if (g === "remote") { n += 28; why.push("Remote"); }
+  else                     { n += 18; }
 
   if (j.is_new_grad) { n += 25; why.push("New grad"); }
   if (/founding/i.test(j.title || "")) { n += 15; why.push("Founding"); }
