@@ -107,6 +107,40 @@ function bucket(j) {                      // which column a job belongs to
   return age <= NEW_MS ? "today" : "prev";
 }
 
+/* ── collapse multi-city reposts ───────────────────────────────────
+   Companies post one role across many cities — Epic runs the same "User
+   Experience Designer" in 25 of them. job_id hashes title+company+location,
+   so those never collapse on the scraper side and a fifth of the board ends
+   up being a handful of jobs repeated. Group them here into one card that
+   carries every member's id, so filing it files all of them. */
+const normTitle = (t) => (t || "").toLowerCase().replace(/[^a-z0-9 ]/g, " ").replace(/\s+/g, " ").trim();
+const normCo    = (c) => (c || "").toLowerCase().replace(/\b(inc|llc|ltd|corp|co)\b\.?/g, "").replace(/[^a-z0-9]/g, "");
+
+/* Placeholder company names ("See posting", blank) are not identities —
+   clustering on them would merge unrelated jobs that happen to share a
+   title. Those stay individual. */
+const NO_CO = new Set(["", "seeposting", "unknown", "confidential", "undisclosed"]);
+
+function groupDupes(list) {
+  const by = new Map();
+  list.forEach((j) => {
+    const co = normCo(j.company);
+    const k = NO_CO.has(co) ? "solo|" + j.id : co + "|" + normTitle(j.title);
+    (by.get(k) || by.set(k, []).get(k)).push(j);
+  });
+  return [...by.values()].map((members) => {
+    if (members.length === 1) return members[0];
+    // Represent the cluster with its best-located copy, newest as tiebreak —
+    // if one of the 25 cities is San Francisco, that's the one worth showing.
+    const rep = members.slice().sort((a, b) =>
+      (a.priority || 9) - (b.priority || 9) || jobTime(b) - jobTime(a))[0];
+    const locs = [...new Set(members.map((m) => m.location).filter(Boolean))];
+    return { ...rep, _ids: members.map((m) => m.id), _locs: locs, _n: members.length };
+  });
+}
+/* Every id a card stands for — one for a normal job, many for a cluster. */
+function idsOf(j) { return j._ids || [j.id]; }
+
 /* ── filtering + sorting: jobs ────────────────────────────────── */
 function visible() {
   let out = JOBS.filter((j) => {
@@ -121,6 +155,9 @@ function visible() {
     if (state.visa.length && !state.visa.includes(j.visa || "unknown")) return false;
     return true;
   });
+  // group AFTER filtering, so a Location filter narrows a cluster to the
+  // cities that actually match rather than hiding the whole thing
+  out = groupDupes(out);
   out.sort((a, b) => jobTime(b) - jobTime(a));      // always newest first
   return out;
 }
@@ -237,7 +274,7 @@ function jobHTML(j, n, mode) {
                        `<button class="act icon del" data-act="delete" title="Move to Trash" aria-label="Move to Trash">${BROOM_SVG}</button>`
     : '<button class="act done" data-act="apply">Applied</button>' +
       `<button class="act icon del" data-act="delete" title="Move to Trash" aria-label="Move to Trash">${BROOM_SVG}</button>`;
-  return `<div class="job" data-id="${esc(j.id)}" data-url="${esc(j.url || "#")}" data-title="${esc(j.title)}" data-flip-id="${esc(j.id)}">
+  return `<div class="job" data-id="${esc(j.id)}"${j._ids ? ` data-ids="${esc(j._ids.join(" "))}"` : ""} data-url="${esc(j.url || "#")}" data-title="${esc(j.title)}" data-flip-id="${esc(j.id)}">
       <div class="job-top">
         <span class="idx">${idx}</span>
         <span class="co">${esc(j.company)}</span>
@@ -245,7 +282,7 @@ function jobHTML(j, n, mode) {
       </div>
       <div class="job-title">${esc(j.title)}</div>
       <div class="job-meta">
-        ${esc(j.location || "—")}<span class="sep">/</span>${esc(j.salary || "—")}<span class="sep">/</span>Posted ${postedAgo(j)}
+        ${esc(j.location || "—")}${j._n ? `<span class="dupe" title="${esc(j._locs.slice(0, 12).join(" · "))}${j._locs.length > 12 ? " …" : ""}">+${j._n - 1} more ${j._n - 1 === 1 ? "city" : "cities"}</span>` : ""}<span class="sep">/</span>${esc(j.salary || "—")}<span class="sep">/</span>Posted ${postedAgo(j)}
       </div>
       <div class="job-foot">
         ${mode === "trash" ? "" : outreachHTML(j)}
@@ -351,15 +388,16 @@ function render(animate, reset) {
   jobs.forEach((j) => groups[bucket(j)].push(j));
   groups.app.sort((a, b) => jobTime(b) - jobTime(a));   // most recently applied first
 
-  // unfiltered totals, so a column head can say "showing 3 of 76"
+  // unfiltered totals, so a column head can say "showing 3 of 76" — grouped
+  // the same way as the cards, else the two numbers disagree
   const totals = { today: 0, prev: 0, app: 0 };
-  JOBS.forEach((j) => { if (!TRASH.has(j.id)) totals[bucket(j)]++; });
+  groupDupes(JOBS.filter((j) => !TRASH.has(j.id))).forEach((j) => totals[bucket(j)]++);
 
   LISTS.today  = groups.today;
   LISTS.prev   = groups.prev;
   LISTS.raised = visibleRaises();
   LISTS.app    = groups.app;
-  LISTS.trash  = JOBS.filter((j) => TRASH.has(j.id));
+  LISTS.trash  = groupDupes(JOBS.filter((j) => TRASH.has(j.id)));
 
   const raisesTotal = FUND.filter((f) => f.status !== "dismissed" && !DISMISSED.has(fundId(f)) && isSF(f)).length;
 
@@ -470,8 +508,9 @@ function cogAct(act) {
   const rec = cogDeck()[state.cogI];
   if (!rec) return;
   const id = cogKey(rec);
-  if (act === "apply")        { setApplied([id], true);  toast("Filed to Applied", id); }
-  else if (act === "trash")   { pushUndo({ type: "trash", ids: [id] }); TRASH.add(id); saveTrash(); toast("Moved to Trash", id); }
+  const ids = state.cog === "raised" ? [id] : idsOf(rec);
+  if (act === "apply")        { setApplied(ids, true);  toast(ids.length > 1 ? `Filed ${ids.length} postings to Applied` : "Filed to Applied", id); }
+  else if (act === "trash")   { pushUndo({ type: "trash", ids }); ids.forEach((x) => TRASH.add(x)); saveTrash(); toast(ids.length > 1 ? `Moved ${ids.length} postings to Trash` : "Moved to Trash", id); }
   else if (act === "dismiss") { pushUndo({ type: "dismiss", ids: [id] }); DISMISSED.add(id); saveDismissed(); toast("Dismissed", id); }
   else return;
   cogDir = 1;
@@ -511,7 +550,7 @@ function cogJobHTML(j) {
       <div class="cog-src">${sourceLabel(j.source)}<span class="sep">/</span>Posted ${postedAgo(j)}</div>
       <div class="cog-co">${esc(j.company || "—")}</div>
       <h3 class="cog-title">${esc(j.title)}</h3>
-      <div class="cog-meta">${esc(j.location || "—")}<span class="sep">/</span>${esc(j.salary || "Salary not listed")}</div>
+      <div class="cog-meta">${esc(j.location || "—")}${j._n ? `<span class="dupe">+${j._n - 1} more ${j._n - 1 === 1 ? "city" : "cities"}</span>` : ""}<span class="sep">/</span>${esc(j.salary || "Salary not listed")}</div>
       ${badges ? `<div class="badges">${badges}</div>` : ""}
       ${outreachHTML(j)}
       <div class="cog-acts">
@@ -784,16 +823,19 @@ function bind() {
     const card = e.target.closest(".job"); if (!card) return;
     if (e.target.closest(".outreach")) return;   // outreach links open on their own
     const id = card.dataset.id, url = card.dataset.url;
+    // A collapsed card stands for every city it absorbed — filing one copy
+    // and leaving the other 24 on the board would defeat the point.
+    const ids = (card.dataset.ids || id).split(" ").filter(Boolean);
 
-    if (e.target.closest('[data-act="apply"]'))   { setApplied([id], true);  render(false); return; }
-    if (e.target.closest('[data-act="unapply"]')) { setApplied([id], false); render(false); return; }
+    if (e.target.closest('[data-act="apply"]'))   { setApplied(ids, true);  render(false); return; }
+    if (e.target.closest('[data-act="unapply"]')) { setApplied(ids, false); render(false); return; }
     if (e.target.closest('[data-act="restore"]')) {
-      pushUndo({ type: "restore", ids: [id] }); TRASH.delete(id); saveTrash(); render(true); return;
+      pushUndo({ type: "restore", ids }); ids.forEach((x) => TRASH.delete(x)); saveTrash(); render(true); return;
     }
     if (e.target.closest('[data-act="delete"]')) {
-      pushUndo({ type: "trash", ids: [id] });
+      pushUndo({ type: "trash", ids });
       card.classList.add("leaving");
-      setTimeout(() => { TRASH.add(id); saveTrash(); render(false); }, 160);
+      setTimeout(() => { ids.forEach((x) => TRASH.add(x)); saveTrash(); render(false); }, 160);
       return;
     }
     // anywhere else on the card → open the posting

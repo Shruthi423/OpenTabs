@@ -561,6 +561,16 @@ body { padding-left: var(--rail); }
   overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
 }
 
+/* "+24 more cities" — a collapsed multi-city repost. Quiet: it is a
+   footnote about one job, not a second job. */
+.dupe {
+  display: inline-block; margin-left: 8px; padding: 1px 6px;
+  border: 1px solid var(--line); border-radius: 999px;
+  font-size: 10px; letter-spacing: .03em; color: var(--mut);
+  white-space: nowrap; cursor: default;
+}
+.cog-card .dupe { font-size: 11px; padding: 2px 8px; }
+
 /* ── Cognition mode ────────────────────────────────────────────────
    The opposite of the board: one listing, centred, with everything else
    out of the room. Entering swaps the whole surface via data-mode on
