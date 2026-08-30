@@ -1287,18 +1287,49 @@ _ROUNDUP_RE = re.compile(
     r'report|rises?|grew|grows|list of|top \d|deals?|acquisitions?|edition|frenzy|'
     r'race|investments?|takes the bulk)\b', re.I)
 
+# Headline lead-ins. "How Paris-based ColibriTD raised…" leaves "How
+# Paris-based ColibriTD" behind, which is a sentence, not a company.
+_LEADIN_RE = re.compile(
+    r'^(how|why|what|when|where|who|this|these|those|the|its|his|her|their|'
+    r'tonight|today|former|inside|meet|join|exclusive|after|before|now|new|'
+    r'top|best|first|last|more|most|amid|as|is|are|was|were|will|can|could|should)\b', re.I)
+# We want the company that RAISED, not the firm that wrote the cheque.
+_VCWORD_RE = re.compile(r'\b(capital|ventures?|partners|funds?|equity|holdings|advisors)\b', re.I)
+# "Join theCUBE Aug. 31-Sept. 2" — an event listing, not a raise.
+_DATEY_RE = re.compile(
+    r'\b(jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)\b\.?\s*\d|'
+    r'\b\d{1,2}\s*[-–]\s*\d{1,2}\b', re.I)
+_PARTICLES = {"de", "da", "van", "der", "von", "of", "for", "by", "la", "le", "el"}
+
+def _all_capitalised(name: str) -> bool:
+    """Every word of a real multi-word company name is capitalised or an
+    acronym — 'Ellis AI', 'Deep Cogito'. A stray lowercase verb means we
+    caught a sentence instead: 'Nvidia agrees', 'Instinct has'."""
+    words = [w.strip("'‘’\"()[]{}.,:;-–—") for w in name.split()]
+    words = [w for w in words if w]
+    if len(words) < 2:
+        return True
+    return all(w.lower() in _PARTICLES or w[0].isupper() or w[0].isdigit()
+               for w in words[1:])
+
 def _is_company_like(name: str) -> bool:
-    """Heuristic: does this look like a real company name vs. a news headline?"""
-    n = (name or "").strip()
+    """Heuristic: does this look like a real company name vs. a news headline?
+
+    Tuned against the 3267 records the radar had actually stored, where 15%+
+    of names were fragments like 'Ribbit Capital looks' or 'CrowdStrike and
+    Okta shares jump'. Rejects a third of them; what survives reads clean."""
+    n = (name or "").strip(" '‘’\"•·-–—:")
     if not (2 <= len(n) <= 40):           return False
     if re.match(r'^\d', n):               return False   # "30", "3 top VCs"
     if any(c in n for c in "%[]{}"):      return False
-    if len(n.split()) > 6:                return False
+    if len(n.split()) > 4:                return False   # names are 1-3 words
     if _ROUNDUP_RE.search(n):             return False
-    if n.lower().endswith(("startup", "startups", "founder", "founders",
-                           "ventures", "partners", "capital")):
-        return False                                     # descriptor / VC firm, not a raiser
+    if _LEADIN_RE.match(n):               return False
+    if _VCWORD_RE.search(n):              return False
+    if _DATEY_RE.search(n):               return False
+    if re.search(r'\band\b', n, re.I):    return False   # two entities, not one
     if n.lower() == n and " " in n:       return False   # all-lowercase multiword ≠ a name
+    if not _all_capitalised(n):           return False
     return True
 
 def scrape_funding_rss(name: str, url: str) -> list:
@@ -1381,8 +1412,8 @@ def _ats_slugs(company: str):
 def find_company_design_roles(company: str) -> list:
     """Best-effort: try the company's Greenhouse/Ashby board for US design roles."""
     found = []
-    for slug in _ats_slugs(company)[:2]:        # cap lookups per company
-        for fetch in (_greenhouse_jobs, _ashby_jobs):
+    for slug in _ats_slugs(company)[:3]:        # cap lookups per company
+        for fetch in (_greenhouse_jobs, _ashby_jobs, _lever_jobs):
             try:
                 for j in fetch(slug):
                     if not j.get("title") or not j.get("url"):
@@ -1489,8 +1520,11 @@ def _fresh_enough(rec: dict) -> bool:
 def publish_funding():
     try:
         store = load_json(CONFIG["FUNDING_STORE_FILE"], {})
+        # Re-apply the company-name check on publish, not just on ingest, so
+        # tightening it also cleans records the old looser rule let through.
         published = [v for v in store.values()
                      if v.get("status") != "dismissed" and _fresh_enough(v)
+                     and _is_company_like(v.get("company", ""))
                      and (not PUBLISH_SF_RAISES_ONLY or _is_sf(v))]
         published.sort(key=lambda f: f.get("first_seen", ""), reverse=True)
         os.makedirs(CONFIG["SITE_DIR"], exist_ok=True)
@@ -1669,7 +1703,7 @@ def publish_site():
         # Website shows undismissed jobs from the last MAX_PUBLISH_AGE_DAYS,
         # newest first. Older postings stay in the store but are not published.
         published = [_web_job(v) for v in store.values()
-                     if v.get("status") != "dismissed" and _fresh_enough(v)]
+                     if v.get("status") not in ("dismissed", "closed") and _fresh_enough(v)]
         published.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
         os.makedirs(CONFIG["SITE_DIR"], exist_ok=True)
         save_json(CONFIG["WEB_FILE"], published)
@@ -1755,6 +1789,78 @@ def check_local_health():
         log.warning(f"check_local_health: {e}")
 
 # ─────────────────────────────────────────────────────────────────
+#  ⏳  DEAD-POSTING EXPIRY
+#  Nothing ever checked whether a listing was still open, so the board
+#  accumulated weeks of filled roles. Link-checking is only trustworthy
+#  where a failure actually means "gone":
+#    · 404 / 410            — definitive (Workable, Greenhouse, Lever…)
+#    · an explicit phrase   — LinkedIn answers 200 but does say
+#                             "no longer accepting applications"
+#    · 401 / 403 / 429 / 5xx / timeouts — a BLOCK, not a death. Indeed
+#      401s every request; treating that as dead would wipe the board.
+#  Two consecutive dead readings are required before a job is retired, so
+#  one bad night on a flaky host cannot hide live listings.
+# ─────────────────────────────────────────────────────────────────
+DEAD_PHRASES = (
+    "no longer accepting applications",
+    "this job is no longer available",
+    "this position has been filled",
+    "this posting has expired",
+    "job posting is closed",
+)
+# Bot-walled: they answer 401/403 whether the job is alive or dead.
+UNCHECKABLE_SOURCES = {"Indeed", "Glassdoor", "ZipRecruiter", "Google"}
+EXPIRY_BATCH        = 25      # links probed per cycle
+EXPIRY_MIN_AGE_DAYS = 3       # don't bother probing fresh finds
+EXPIRY_STRIKES      = 2       # consecutive dead reads before retiring
+
+def check_posting_alive(url: str):
+    """True = still open · False = definitely gone · None = can't tell."""
+    if not url or url == "#":
+        return None
+    try:
+        r = requests.get(url, headers=H, timeout=12, allow_redirects=True)
+    except Exception:
+        return None                      # network trouble is not evidence
+    if r.status_code in (404, 410):
+        return False
+    if r.status_code != 200:
+        return None                      # 401/403/429/5xx → blocked, not dead
+    if any(p in r.text.lower() for p in DEAD_PHRASES):
+        return False
+    return True
+
+def expire_dead_postings(store: dict) -> int:
+    """Probe the least-recently-checked postings and retire the dead ones."""
+    now = now_pt()
+    cands = []
+    for rec in store.values():
+        if rec.get("status") != "active":            continue
+        if rec.get("source") in UNCHECKABLE_SOURCES: continue
+        try:
+            if (now - datetime.fromisoformat(rec["first_seen"])).days < EXPIRY_MIN_AGE_DAYS:
+                continue
+        except Exception:
+            continue
+        cands.append(rec)
+    cands.sort(key=lambda r: r.get("checked_at") or "")   # never-checked first
+    closed = 0
+    for rec in cands[:EXPIRY_BATCH]:
+        alive = check_posting_alive(rec.get("url", ""))
+        rec["checked_at"] = now.isoformat()
+        if alive is False:
+            rec["dead_strikes"] = rec.get("dead_strikes", 0) + 1
+            if rec["dead_strikes"] >= EXPIRY_STRIKES:
+                rec["status"] = "closed"
+                closed += 1
+        elif alive is True:
+            rec["dead_strikes"] = 0
+        time.sleep(0.4)
+    if closed:
+        log.info(f"⏳ retired {closed} closed posting(s)")
+    return closed
+
+# ─────────────────────────────────────────────────────────────────
 #  🔄  MAIN CHECK
 # ─────────────────────────────────────────────────────────────────
 def run_check():
@@ -1770,6 +1876,7 @@ def run_check():
             del store[_jid]
         else:
             _rec["priority"] = _rank
+    expire_dead_postings(store)      # retire listings that have since closed
     new_count = 0
     all_jobs  = []
 
