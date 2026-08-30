@@ -16,6 +16,7 @@ const state = {
   mode: localStorage.getItem("mode") || "board",    // board | cognition
   cog: localStorage.getItem("cogCol") || "today",   // which column cognition mode works
   cogI: 0,                                          // cursor into that column's deck
+  rank: JSON.parse(localStorage.getItem("rank") || '{"today":false,"prev":false,"raised":false}'),
   theme: localStorage.getItem("theme") || "dark",
   drawer: null,                                     // null | "app" | "trash"
 };
@@ -140,6 +141,63 @@ function groupDupes(list) {
 }
 /* Every id a card stands for — one for a normal job, many for a cluster. */
 function idsOf(j) { return j._ids || [j.id]; }
+
+/* ── fit score ─────────────────────────────────────────────────────
+   A ranking, not a filter: every card stays on the board and the count is
+   identical either way — only the order changes. Weights come from what
+   Shruthi actually said matters:
+     · SF and the Bay first, everything else after
+     · startups preferred, but big tech stays visible (a small plus, never
+       a penalty — the point is not to miss those roles)
+     · early-career roles up top
+     · salary is noise right now, so it scores nothing
+   Each contribution carries a label so the card can show its reasoning. */
+const STARTUP_SOURCES = ["Startups.Gallery", "OpenDoors", "Y Combinator", "YC",
+                         "Greenhouse", "Lever", "Ashby", "UIUXJobsBoard"];
+
+function scoreJob(j) {
+  const why = [];
+  let n = 0;
+  const p = j.priority || 9;
+  if (p === 1)      { n += 50; why.push("SF"); }
+  else if (p === 2) { n += 40; why.push("Bay Area"); }
+  else if (p === 5) { n += 12; why.push("Remote"); }
+  else if (p === 3) { n += 10; }
+  else if (p === 4) { n += 6; }
+
+  if (j.is_new_grad) { n += 25; why.push("New grad"); }
+  if (/founding/i.test(j.title || "")) { n += 15; why.push("Founding"); }
+
+  const src = j.source || "";
+  if (/just raised/i.test(src))                        { n += 22; why.push("Just raised"); }
+  else if (STARTUP_SOURCES.some((x) => src.includes(x))) { n += 18; why.push("Startup board"); }
+  if (j.is_big_tech) { n += 5; why.push("Big tech"); }   // visible, never penalised
+
+  if (j.visa === "yes") { n += 10; why.push("Visa"); }
+
+  // recency, tapering off over a week
+  const days = (Date.now() - jobTime(j)) / 864e5;
+  if (days <= 7) n += Math.round(20 * (1 - days / 7));
+  if (days <= 1) why.push("Fresh");
+
+  return { n, why: why.slice(0, 3) };
+}
+
+/* Raises rank on how actionable they are, not how big the round was. */
+function scoreRaise(f) {
+  const why = [];
+  let n = 0;
+  const roles = (f.roles || []).length;
+  if (roles)               { n += 40 + Math.min(roles, 4) * 5; why.push(`${roles} role${roles > 1 ? "s" : ""}`); }
+  if ((f.priority || 0) >= 8) { n += 20; why.push("Tier-1 VC"); }
+  if ((f.founders || []).length) { n += 12; why.push("Founder known"); }
+  const days = (Date.now() - (new Date(f.first_seen).getTime() || 0)) / 864e5;
+  if (days <= 14) n += Math.round(25 * (1 - days / 14));   // reach out inside 2 weeks
+  if (days <= 2) why.push("Fresh");
+  return { n, why: why.slice(0, 3) };
+}
+
+function rankOn(col) { return !!state.rank[col]; }
 
 /* ── filtering + sorting: jobs ────────────────────────────────── */
 function visible() {
@@ -284,6 +342,7 @@ function jobHTML(j, n, mode) {
       <div class="job-meta">
         ${esc(j.location || "—")}${j._n ? `<span class="dupe" title="${esc(j._locs.slice(0, 12).join(" · "))}${j._locs.length > 12 ? " …" : ""}">+${j._n - 1} more ${j._n - 1 === 1 ? "city" : "cities"}</span>` : ""}<span class="sep">/</span>${esc(j.salary || "—")}<span class="sep">/</span>Posted ${postedAgo(j)}
       </div>
+      ${j._why && j._why.length ? `<div class="score-trace">${j._why.map((w) => `<b>${esc(w)}</b>`).join("")}</div>` : ""}
       <div class="job-foot">
         ${mode === "trash" ? "" : outreachHTML(j)}
         <span class="badges">${badges}</span>
@@ -317,6 +376,7 @@ function raiseHTML(f, n) {
         `<a class="role" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>`).join('<span class="sep">·</span>') +
       (roles.length > 2 ? `<span class="more-roles">+${roles.length - 2}</span>` : "") + `</div>`
     : '<div class="roles none">No design roles posted yet — DM the founder.</div>';
+  const trace = f._why && f._why.length ? `<div class="score-trace">${f._why.map((w) => `<b>${esc(w)}</b>`).join("")}</div>` : "";
   return `<div class="job raise" data-id="${esc(fundId(f))}">
       <div class="job-top">
         <span class="idx">${idx}</span>
@@ -327,7 +387,7 @@ function raiseHTML(f, n) {
       <div class="job-meta">
         ${esc(val(loc) || "—")}<span class="sep">/</span>${esc(val(f.investors) || "—")}<span class="sep">/</span>Raised ${ago(f.first_seen)}
       </div>
-      ${rolesLine}
+      ${rolesLine}${trace}
       <div class="job-foot">
         ${outreachHTML(f)}
         <span class="badges">${badges}</span>
@@ -397,6 +457,25 @@ function render(animate, reset) {
   LISTS.prev   = groups.prev;
   LISTS.raised = visibleRaises();
   LISTS.app    = groups.app;
+
+  // Ranking is per column, so Previous can sort by fit (where "newest" of
+  // 1600 old jobs means little) while Today stays chronological.
+  ["today", "prev"].forEach((k) => {
+    if (!rankOn(k)) { LISTS[k].forEach((j) => delete j._why); return; }
+    LISTS[k].forEach((j) => { const r = scoreJob(j); j._score = r.n; j._why = r.why; });
+    LISTS[k].sort((a, b) => b._score - a._score || jobTime(b) - jobTime(a));
+  });
+  if (rankOn("raised")) {
+    LISTS.raised.forEach((f) => { const r = scoreRaise(f); f._score = r.n; f._why = r.why; });
+    LISTS.raised.sort((a, b) => b._score - a._score);
+  } else {
+    LISTS.raised.forEach((f) => delete f._why);
+  }
+  $$('[data-rank]').forEach((b) => {
+    const on = rankOn(b.dataset.rank);
+    b.classList.toggle("is-on", on);
+    b.setAttribute("aria-pressed", on ? "true" : "false");
+  });
   LISTS.trash  = groupDupes(JOBS.filter((j) => TRASH.has(j.id)));
 
   const raisesTotal = FUND.filter((f) => f.status !== "dismissed" && !DISMISSED.has(fundId(f)) && isSF(f)).length;
@@ -758,6 +837,13 @@ function bind() {
   }));
 
   // picker + per-column shortcuts
+  $$('[data-rank]').forEach((b) => b.addEventListener("click", () => {
+    const k = b.dataset.rank;
+    state.rank[k] = !state.rank[k];
+    localStorage.setItem("rank", JSON.stringify(state.rank));
+    render(true, true);
+  }));
+
   $$('.cog-pick-opt').forEach((b) => b.addEventListener("click", () => enterCog(b.dataset.col)));
   $$('[data-focus]').forEach((b) => b.addEventListener("click", () => enterCog(b.dataset.focus)));
   document.addEventListener("click", (e) => {

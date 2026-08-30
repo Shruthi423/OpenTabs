@@ -64,6 +64,10 @@ a { color: inherit; text-decoration: none; }
 .row { display: flex; align-items: center; gap: 28px; padding: 15px 24px; flex-wrap: wrap; row-gap: 12px; }
 .field { display: flex; align-items: center; gap: 10px; cursor: pointer; }
 .field .lbl { color: var(--mut); }
+/* Nav labels read as uppercase, matching the values beside them. */
+.controls .lbl {
+  text-transform: uppercase; letter-spacing: .08em; font-size: 11px;
+}
 .field.search { flex: 1; }
 .field.search input {
   flex: 1; background: var(--field-bg); border: 0; outline: 0;
@@ -753,6 +757,27 @@ a.cog-co:hover { text-decoration: underline; }
 .cog-pick-opt:disabled:hover { background: none; }
 
 /* Per-column shortcut into cognition mode, next to Clear all. */
+/* Rank toggle — sits beside the brain in the column head. It reorders,
+   it never hides: the count is identical either way. */
+.col-rank {
+  display: inline-grid; place-items: center; width: 24px; height: 24px;
+  margin-left: auto; padding: 0; border: 0; border-radius: 6px;
+  background: none; color: var(--mut); cursor: pointer;
+}
+.col-rank:hover { color: var(--fg); background: color-mix(in srgb, var(--fg) 10%, transparent); }
+.col-rank.is-on { color: var(--active-fg); background: var(--active-bg); }
+/* once one button owns the right edge the next must not claim it too */
+.col-rank + .col-focus { margin-left: 6px; }
+/* Why this card ranked where it did — ranking should not be a black box. */
+.score-trace {
+  display: inline-flex; flex-wrap: wrap; gap: 5px; margin-left: 8px;
+}
+.score-trace b {
+  font-weight: 500; font-size: 10px; letter-spacing: .03em;
+  padding: 1px 6px; border-radius: 999px;
+  border: 1px solid var(--line); color: var(--mut); white-space: nowrap;
+}
+
 .col-focus {
   display: inline-grid; place-items: center; width: 24px; height: 24px;
   margin-left: auto; padding: 0; border: 0; border-radius: 6px;
