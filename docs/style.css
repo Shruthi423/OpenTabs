@@ -567,6 +567,9 @@ body { padding-left: var(--rail); }
 
 /* "+24 more cities" — a collapsed multi-city repost. Quiet: it is a
    footnote about one job, not a second job. */
+/* A major VC on the round is the strongest signal on a raise card. */
+.badge.vc { border-color: var(--co); color: var(--co); }
+
 .dupe {
   display: inline-block; margin-left: 8px; padding: 1px 6px;
   border: 1px solid var(--line); border-radius: 999px;

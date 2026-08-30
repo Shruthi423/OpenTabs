@@ -48,6 +48,27 @@ function saveTrash() { localStorage.setItem("trash", JSON.stringify([...TRASH]))
 let DISMISSED = loadSet("raisedDismissed");        // Set<fundingId>
 function saveDismissed() { localStorage.setItem("raisedDismissed", JSON.stringify([...DISMISSED])); }
 
+/* Major VCs worth naming on the card. Matched against the investors text
+   client-side so it also works on records already stored, which never had a
+   tier-1 field written. Keep in step with TIER1_VCS in opentabs.py. */
+const TIER1_VCS = [
+  ["andreessen", "a16z"], ["a16z", "a16z"], ["sequoia", "Sequoia"],
+  ["benchmark", "Benchmark"], ["greylock", "Greylock"], ["accel", "Accel"],
+  ["kleiner", "Kleiner Perkins"], ["lightspeed", "Lightspeed"],
+  ["general catalyst", "General Catalyst"], ["founders fund", "Founders Fund"],
+  ["index ventures", "Index"], ["y combinator", "Y Combinator"],
+  ["ycombinator", "Y Combinator"], ["first round", "First Round"],
+  ["bessemer", "Bessemer"], ["spark capital", "Spark"],
+  ["thrive capital", "Thrive"], ["khosla", "Khosla"], ["lux capital", "Lux"],
+  ["coatue", "Coatue"], ["tiger global", "Tiger Global"], ["dst global", "DST"],
+  ["insight partners", "Insight"], ["greenoaks", "Greenoaks"],
+];
+function tier1Of(f) {
+  const hay = (f.investors || "").toLowerCase();
+  const hit = TIER1_VCS.find(([k]) => hay.includes(k));
+  return hit ? hit[1] : null;
+}
+
 /* Funding records have no stable id field — derive one the same way twice. */
 function fundId(f) { return (f.id || (f.company || "") + "|" + (f.url || f.first_seen || "")); }
 
@@ -233,7 +254,9 @@ function visibleRaises() {
   const out = FUND.filter((f) => {
     if (f.status === "dismissed") return false;
     if (DISMISSED.has(fundId(f))) return false;
-    if (!isSF(f)) return false;
+    // Mirrors _sf_or_unknown() in opentabs.py: show the raise when it's
+    // SF/Bay, or when no location could be read at all.
+    if (locOf(f).trim() && !isSF(f)) return false;
     if (state.q) {
       const hay = (f.company + " " + (f.investors || "") + " " + (f.stage || "")).toLowerCase();
       if (!hay.includes(state.q.toLowerCase())) return false;
@@ -366,8 +389,9 @@ function raiseHTML(f, n) {
   const idx   = String(n).padStart(2, "0");
   const loc   = locOf(f);
   const roles = f.roles || [];
+  const vc = tier1Of(f);
   const badges =
-    ((f.priority || 0) >= 8 ? '<span class="badge">Tier-1 VC</span>' : "") +
+    (vc ? `<span class="badge vc">${esc(vc)}</span>` : "") +
     (roles.length ? `<span class="badge">${roles.length} design role${roles.length > 1 ? "s" : ""}</span>` : "");
   // headline = what happened, the way a job card's headline is the role
   const amt = val(f.amount), stage = val(f.stage);
@@ -387,7 +411,7 @@ function raiseHTML(f, n) {
       </div>
       <div class="job-title">${headline}</div>
       <div class="job-meta">
-        ${esc(val(loc) || "—")}<span class="sep">/</span>${esc(val(f.investors) || "—")}<span class="sep">/</span>Raised ${ago(f.first_seen)}
+        ${esc(val(loc) || "Location unknown")}<span class="sep">/</span>${esc(val(f.investors) || "—")}<span class="sep">/</span>Raised ${ago(f.first_seen)}
       </div>
       ${rolesLine}${trace}
       <div class="job-foot">
@@ -480,7 +504,8 @@ function render(animate, reset) {
   });
   LISTS.trash  = groupDupes(JOBS.filter((j) => TRASH.has(j.id)));
 
-  const raisesTotal = FUND.filter((f) => f.status !== "dismissed" && !DISMISSED.has(fundId(f)) && isSF(f)).length;
+  const raisesTotal = FUND.filter((f) => f.status !== "dismissed" && !DISMISSED.has(fundId(f))
+                                        && (!locOf(f).trim() || isSF(f))).length;
 
   ["today", "prev", "raised", "app", "trash"].forEach(drawRows);
   watchMore();
@@ -645,8 +670,9 @@ function cogRaiseHTML(f) {
   const roles = f.roles || [];
   const amt = val(f.amount), stage = val(f.stage);
   const headline = amt ? esc(amt) + (stage ? " · " + esc(stage) : "") : (stage ? esc(stage) : "Undisclosed round");
+  const vc = tier1Of(f);
   const badges =
-    ((f.priority || 0) >= 8 ? '<span class="badge">Tier-1 VC</span>' : "") +
+    (vc ? `<span class="badge vc">${esc(vc)}</span>` : "") +
     (roles.length ? `<span class="badge">${roles.length} design role${roles.length > 1 ? "s" : ""}</span>` : "");
   const rolesLine = roles.length
     ? `<div class="roles">` + roles.map((r) =>
@@ -656,7 +682,7 @@ function cogRaiseHTML(f) {
       <div class="cog-src">${esc(f.source || "—")}<span class="sep">/</span>Raised ${ago(f.first_seen)}</div>
       <a class="cog-co" href="${esc(outreachUrls.company(f.company))}" target="_blank" rel="noopener">${esc(f.company)}</a>
       <h3 class="cog-title">${headline}</h3>
-      <div class="cog-meta">${esc(val(locOf(f)) || "—")}<span class="sep">/</span>${esc(val(f.investors) || "Investors undisclosed")}</div>
+      <div class="cog-meta">${esc(val(locOf(f)) || "Location unknown")}<span class="sep">/</span>${esc(val(f.investors) || "Investors undisclosed")}</div>
       ${badges ? `<div class="badges">${badges}</div>` : ""}
       ${rolesLine}
       ${outreachHTML(f)}

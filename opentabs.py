@@ -1487,11 +1487,22 @@ PUBLISH_SF_RAISES_ONLY = True
 _SF_RE = re.compile(r"san francisco|bay area|palo alto|mountain view|san jose|oakland|"
                     r"menlo park|sunnyvale|berkeley|redwood city|san mateo|santa clara|\bsf\b", re.I)
 
+def _raise_where(rec: dict) -> str:
+    roles = rec.get("roles") or [{}]
+    return (rec.get("location") or (roles[0] or {}).get("location") or "").strip()
+
 def _is_sf(rec: dict) -> bool:
     """Mirrors isSF() in docs/app.js — keep the two in step."""
-    roles = rec.get("roles") or [{}]
-    where = rec.get("location") or (roles[0] or {}).get("location") or ""
-    return bool(_SF_RE.search(where))
+    return bool(_SF_RE.search(_raise_where(rec)))
+
+def _sf_or_unknown(rec: dict) -> bool:
+    """Publish a raise when it's SF/Bay OR when we simply couldn't tell.
+
+    extract_location only fires when the headline names a city, which it
+    usually doesn't — 87% of stored raises have no location, and dropping
+    them silently hid Anyscale ($1.65B), Function Health ($450M) and 670
+    others. Better to publish and label them than to lose them."""
+    return (not _raise_where(rec)) or _is_sf(rec)
 
 # Only these reach docs/jobs*.json; anything else is bot-side bookkeeping.
 WEB_JOB_FIELDS = ("id", "title", "company", "location", "salary", "url", "source",
@@ -1525,7 +1536,7 @@ def publish_funding():
         published = [v for v in store.values()
                      if v.get("status") != "dismissed" and _fresh_enough(v)
                      and _is_company_like(v.get("company", ""))
-                     and (not PUBLISH_SF_RAISES_ONLY or _is_sf(v))]
+                     and (not PUBLISH_SF_RAISES_ONLY or _sf_or_unknown(v))]
         published.sort(key=lambda f: f.get("first_seen", ""), reverse=True)
         os.makedirs(CONFIG["SITE_DIR"], exist_ok=True)
         save_json(CONFIG["FUNDING_WEB_FILE"], published)
