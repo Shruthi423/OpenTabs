@@ -51213,5 +51213,35 @@
     "roles": [],
     "first_seen": "2026-08-30T10:28:59.226004-07:00",
     "status": "active"
+  },
+  "6841c605f8e617a7d4640eeef185c660": {
+    "id": "6841c605f8e617a7d4640eeef185c660",
+    "company": "Startup",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96ckpuMzFIdW52T0FFb1R1c0FUZVJNWk92MVdKZC05OUhOTG1FeWZOZlVEQzY4TlQyMk50YXk4OGZlMjE1aFJJYk5KRzQ1QWN3WGlfQl9FZXBPV1lvWVBqM1pncXc?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-30T12:58:59.401521-07:00",
+    "status": "active"
+  },
+  "1d958e71c5b98828e116c7b53ce69e8e": {
+    "id": "1d958e71c5b98828e116c7b53ce69e8e",
+    "company": "Onos",
+    "amount": "$17.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd1ZqSWlmRXZabDI1ZzFGbWRSMFVpWE9GVUk5cEFoNVByUlM3anBrY3hGTV9QWFJUaHNKcGxOOFkzLXg3eG9VcmpsQklxLTQzcEkzZnVBZUtDQ2lnaXN5WVNjbFNfUXRfdEl0Z3FwVVhLbWc4endnRGRJaXRPaWFteFFqMXBWc0M4Mlg4Tl9JdVl4RE9NT2YyYXRoYw?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-08-30T12:59:02.316926-07:00",
+    "status": "active"
   }
 }
