@@ -1,184 +1,86 @@
 [
   {
     "item": {
-      "company": "Motion",
-      "amount": "$2.0M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/motion-raises-2m-to-bring-robots-to-european-factories/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-27T00:58:32.975067-07:00"
-  },
-  {
-    "item": {
-      "company": "Oliver AI",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/oliver-ai-raises-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-27T00:58:35.401942-07:00"
-  },
-  {
-    "item": {
-      "company": "Raff",
-      "amount": "$1.7M",
-      "stage": "Pre-Seed",
-      "investors": "Vision Ventures to expand its retail technology platform and AI capabilities across the GCC region",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/raff-raises-1-7m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-27T00:58:37.992931-07:00"
-  },
-  {
-    "item": {
-      "company": "How Paris-based ColibriTD",
+      "company": "Weifan",
       "amount": null,
       "stage": "Seed",
-      "investors": null,
-      "location": "How Paris",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/peek-inside-the-pitch-deck-colibritd-used-to-raise-e4m-to-build-quantum-software/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-27T00:58:41.923865-07:00"
-  },
-  {
-    "item": {
-      "company": "MiiHealth AI",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "Russell Glass to scale its agentic AI medical assistant platform for automated patient intake in healthcare",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/miihealth-ai-raises-undisclosed-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-27T00:58:44.513361-07:00"
-  },
-  {
-    "item": {
-      "company": "Pluggy",
-      "amount": "$3.5M",
-      "stage": "Series A",
-      "investors": "DGF to expand its Open Finance infrastructure and develop new embedded financial services for business platforms",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pluggy-raises-3-5m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-08-27T00:59:02.044348-07:00"
-  },
-  {
-    "item": {
-      "company": "InspeCity",
-      "amount": null,
-      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa2ZXNHh0Vm95MjFjaHpzRkEzMTBPMmpWOGRoU25zcHJBSVQ2QkhIUUlXQmFWTEhwSVRkSlR5clM1VUk3OWhsLTVkX0xTelBQWUY5Rlc2YUJlUjdydDlDQVU5NXNrN05ab2w2bnp0V08yU3IydDJHMThmQTByTzA0UUlDMVoybWgwUkswMDhFLUExdnR1SXNWMDQtcS1tVThLVmxrSVExSG9jY05HSTBHdGhEMEc1Ml90b00tNTZBaERsbUFfdzhOSTZrMmVLQdIB1AFBVV95cUxOOVRTZk1CS0ZrRkpXQjE2NkU4N1NkUlEyR2ZlUldnWnNYYU5fekFKaWd5SFJtODhFTjVkZjJ0dkNyX2xLdGxPc0pYQTF5OG5jbUxZY3ZLbVlHRGE2UGlIVnRhbE12alIyVlY3d05oVUVWRmhFb3VtR3NjTGpNVzFFMlVXdzlaOW5vSnd3bDFZbV9oN002eXJFUk9HQ2NGZ0pMMzVPSGIwNWphaVVDblhKTnFKSjViTGtKUExGLVpoVnNXQjNaQlppV0szZ093YmFyY2hkOQ?oc=5",
-      "priority": 8
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTEtYk56YWpCTEhaLTF2V185anQ1YXdReUY2WUtkeThWalJPR3F4QXdWbEtQNGJOMV9xNElfT1EyYjdGU0hoQTdjSGcyT2RQbWR1b0xpci1NLWt6X0UydEdWb0ktR1NReFc0OU1Gb0RNQUZhSVM3WGlIUDlVdHVNeXctcDBPOElGUFJtb3JEVFlHWHZGRm9N?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-08-27T00:59:04.637789-07:00"
+    "remind_at": "2026-08-30T10:58:42.419036-07:00"
   },
   {
     "item": {
-      "company": "Instinct has",
-      "amount": "$350.0M",
-      "stage": null,
+      "company": "Even Healthcare",
+      "amount": null,
+      "stage": "Series B",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMVFQWTN6a0s3MHFmd3NTcU1Nd3BzMml6MmhiX3dQZmtERjI4enQ0T1hOS2dnMWZiMHE1MzZSUmNFTTVUaU43cTdPR3hISkwtMXJoYmxMOXRQTFBYQUl1OVhMN2cxbFZDRGJuWXdDaFdLcWJXa09QemRDRHJvMjktMTdNcGg4WGdCc2h6eHY0aHItVmRiWnF5YjE5Mk5JY2JxazJndmJ6bng0d3NOYVdycGQ1aF9VdmswU1FpTDNTWDVXb1VTVWsxMndKakFxRy1lZ1FsSlR2ejlZb0hUQjE4Y3VqTnNxeklzZWt0NVV1VW1rLUsyV0h4NUg1MDdGZ9IB_gFBVV95cUxQMVFQWTN6a0s3MHFmd3NTcU1Nd3BzMml6MmhiX3dQZmtERjI4enQ0T1hOS2dnMWZiMHE1MzZSUmNFTTVUaU43cTdPR3hISkwtMXJoYmxMOXRQTFBYQUl1OVhMN2cxbFZDRGJuWXdDaFdLcWJXa09QemRDRHJvMjktMTdNcGg4WGdCc2h6eHY0aHItVmRiWnF5YjE5Mk5JY2JxazJndmJ6bng0d3NOYVdycGQ1aF9VdmswU1FpTDNTWDVXb1VTVWsxMndKakFxRy1lZ1FsSlR2ejlZb0hUQjE4Y3VqTnNxeklzZWt0NVV1VW1rLUsyV0h4NUg1MDdGZw?oc=5",
+      "priority": 7
     },
-    "remind_at": "2026-08-27T00:59:07.879297-07:00"
+    "remind_at": "2026-08-30T10:58:45.795822-07:00"
   },
   {
     "item": {
-      "company": "SpaceX",
-      "amount": "$100.0B",
+      "company": "Top economist",
+      "amount": "$195.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/08/27/spacex-largest-spaceport-100-billion-louisiana-expansion/",
+      "url": "https://fortune.com/article/panic-season-epic-financial-disaster-owen-lamont-stocks/",
       "priority": 3
     },
-    "remind_at": "2026-08-27T00:59:10.631359-07:00"
+    "remind_at": "2026-08-30T10:58:49.110189-07:00"
   },
   {
     "item": {
-      "company": "Nvidia agrees",
-      "amount": "$12.9B",
+      "company": "Owner.com Did an AI Rebuild",
+      "amount": "$100.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/26/nvidia-agrees-to-buy-hugging-face-for-12-9-billion-in-major-ai-deal-taking-control-of-the-github-of-ai/",
+      "source": "SaaStr",
+      "url": "https://www.saastr.com/owner-com-did-an-ai-rebuild-to-accelerate-past-100m-arr-6-lessons-and-what-it-costs-to-apply-them/",
       "priority": 3
     },
-    "remind_at": "2026-08-27T00:59:13.896122-07:00"
+    "remind_at": "2026-08-30T10:58:52.459929-07:00"
   },
   {
     "item": {
-      "company": "Kalshi",
-      "amount": "$1.12B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnNXZUlsQ0paN3pJbzQ5TGtKSVg5aDRfdTFGY1hxX0Npb2hhQzVTdUpmUVZ3TDZIMW1yS3RmdkhFSkdYdXpPSDZlZjU5VXF1cG9sckcwSTYxQVM1TUxCQUpwNGhUaUdFSjdqOXI3OS1mQm9XOGFYQWxLRmI1LXFmdkZQRzdMblItaWFsYWthU2FQWTdDSXo4d1V4SE9xa2JxZ09XWkRwMTdMZW90NFY4ejlBcTVBVm1xMWlndXRLaFVLYl80OVFCdg?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-27T00:59:21.895822-07:00"
-  },
-  {
-    "item": {
-      "company": "Ellis AI",
-      "amount": "$11.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlg4dS16VTVhWWxJZXh4aDQwYWNlMHdNX2RJQ3dsNVJtU1dHTlVoMlJPXzBCWlNaekZ6R1lMVHZiQ2t0OFFiemR4R1lnSGY2N21jekFJWDRwYkhKMllic2JhNjhuVkdNVGphY1Z0MFdFdHY2OE9QXzRkNzVlQ0hxZUQ2YloxcE5RbE5Ccm9JYUNZNGN2d2VuV0JmMW5mVUFnNWJGM3VqX0xqLWtWX3RfdUN6VTVlTjdfT3Vv?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-27T00:59:24.347934-07:00"
-  },
-  {
-    "item": {
-      "company": "Adaptyv",
-      "amount": "$40.0M",
+      "company": "Edgeverse",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcmhWTDBfdDNZSE9abnRob1E4czRsalktY0JvNS1GUGtZSUgxLVpoNDhWYW9WWm83b19MeFVVUUtTTVc4QkExQUluZUNWOHNETGVNbVJjeF8zeTlKeHZxbnVNNEdsaTF1SVBGWll1cXotZUtCOE03dXRCVG1pdVBucUx2OGlMbVhkMFpLdTJaUC01X0NoWGFMc1hBNUJNYUk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzFmSVNCMW1YbTFaVExXd3J0RE9rb2htbXlXUkg4VVh1YmphcmZZT1drdGQySlJNTmljMkN4cDNGSjFLYXFCY280a18zZ2Nnb3lhb05BeVUzRVUwcFIzRVNLWmRhTzVQMmVBUFJfVTdjNmJsR19sQjlyQnZtelI1a01hajd1NXNMdHpQdjhla2NsR2JhYnBFeHBYVXdXc2U3SU9uMm11YUM0REt6MFN0SU530gGyAUFVX3lxTFBHMWZJU0IxbVhtMVpUTFd3cnRET2tvaG1teVdSSDhVWHViamFyZllPV2t0ZDJKUk1OaWMyQ3hwM0ZKMUthcUJjbzRrXzNnY2dveWFvTkF5VTNFVTBwUjNFU0taZGFPNVAyZUFQUl9VN2M2YmxHX2xCOXJCdm16UjVrTWFqN3U1c0x0elB2OGVrY2xHYmFicEV4cFhVd1dzZTdJT24ybXVhQzRES3owU3RJTnc?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-27T00:59:26.725656-07:00"
+    "remind_at": "2026-08-30T10:58:54.886820-07:00"
+  },
+  {
+    "item": {
+      "company": "From Third Wave Coffee",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUJtajZqeTEzZEdfSzlMaGpqczcxVmp5LWtnckd1QU4xc1RpaGpiYUVhNkV3eTJwam1sTDdnX0pGaEpuXzRqV2E5SDlwVVFmTW5tNExqaTg0eVE4Y1Eza1Z3Uk9SZ1RKVzVuWW1xZkdIMGcwcnowb3lYSmZWTjBZeFJlRDNPUlQ4T3BfQmIwaS1aOGtoZ1pvdFE5RU5DYi1EeDBv?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-08-30T10:58:58.225851-07:00"
   }
 ]
