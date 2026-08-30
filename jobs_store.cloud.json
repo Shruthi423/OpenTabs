@@ -504,7 +504,9 @@
     "first_seen": "2026-06-11T15:51:07.672646-07:00",
     "status": "active",
     "applied_at": null,
-    "priority": 5
+    "priority": 5,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "07ef20b3f68cdcf963d53bee021a11bc": {
     "id": "07ef20b3f68cdcf963d53bee021a11bc",
@@ -522,7 +524,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T21:54:54.755575-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 1
   },
   "d9aaf30619c849b997246487812f61bb": {
     "id": "d9aaf30619c849b997246487812f61bb",
@@ -540,7 +544,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T21:54:54.755758-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "c704a4192ea64d93174ba90db47cdfd6": {
     "id": "c704a4192ea64d93174ba90db47cdfd6",
@@ -558,7 +564,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.756501-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "ef32e058a8793c9f5cc6d2650d91c280": {
     "id": "ef32e058a8793c9f5cc6d2650d91c280",
@@ -576,7 +584,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.756628-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "fdd0df3ea691e5b3f1be8bd5d71a7f72": {
     "id": "fdd0df3ea691e5b3f1be8bd5d71a7f72",
@@ -594,7 +604,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.756951-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "c8d0032aca9cbae5597bad24eeb2e8f8": {
     "id": "c8d0032aca9cbae5597bad24eeb2e8f8",
@@ -612,7 +624,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.757333-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "9706da814bd2b76dbb73017f16b3196c": {
     "id": "9706da814bd2b76dbb73017f16b3196c",
@@ -630,7 +644,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.757429-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "40724b25701baeac3a40d02bb447d570": {
     "id": "40724b25701baeac3a40d02bb447d570",
@@ -648,7 +664,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.757784-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "b457f7f693e8589d3329c449b33362d0": {
     "id": "b457f7f693e8589d3329c449b33362d0",
@@ -666,7 +684,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.757149-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "8b56d624fc26f40b83b1d38df175776d": {
     "id": "8b56d624fc26f40b83b1d38df175776d",
@@ -682,7 +702,9 @@
     "first_seen": "2026-06-11T15:51:07.673073-07:00",
     "status": "active",
     "applied_at": null,
-    "priority": 1
+    "priority": 1,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "fba126f7ca3c721e4279126231c24ff4": {
     "id": "fba126f7ca3c721e4279126231c24ff4",
@@ -700,7 +722,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.757873-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "89d5233055334ddb4a726fa3245a7526": {
     "id": "89d5233055334ddb4a726fa3245a7526",
@@ -716,7 +740,9 @@
     "first_seen": "2026-06-11T15:51:07.673249-07:00",
     "status": "active",
     "applied_at": null,
-    "priority": 1
+    "priority": 1,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "573ca92cc4e1cca14dab46b44f0c323a": {
     "id": "573ca92cc4e1cca14dab46b44f0c323a",
@@ -732,7 +758,9 @@
     "first_seen": "2026-06-11T15:51:07.673274-07:00",
     "status": "active",
     "applied_at": null,
-    "priority": 1
+    "priority": 1,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "6e8232909110c242f84eb9efd1a052a3": {
     "id": "6e8232909110c242f84eb9efd1a052a3",
@@ -748,7 +776,9 @@
     "first_seen": "2026-06-11T15:51:07.673494-07:00",
     "status": "active",
     "applied_at": null,
-    "priority": 5
+    "priority": 5,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "6b05e1ef10a003caccd6fcfa0944eb6b": {
     "id": "6b05e1ef10a003caccd6fcfa0944eb6b",
@@ -764,7 +794,9 @@
     "first_seen": "2026-06-11T15:51:07.673548-07:00",
     "status": "active",
     "applied_at": null,
-    "priority": 5
+    "priority": 5,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "3f850a9961d43ef43ffc907e0dbc3677": {
     "id": "3f850a9961d43ef43ffc907e0dbc3677",
@@ -780,7 +812,9 @@
     "first_seen": "2026-06-11T15:51:07.673572-07:00",
     "status": "active",
     "applied_at": null,
-    "priority": 5
+    "priority": 5,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "69003527479df9a2bee23ebe71bc93a4": {
     "id": "69003527479df9a2bee23ebe71bc93a4",
@@ -796,7 +830,9 @@
     "first_seen": "2026-06-11T15:51:07.673728-07:00",
     "status": "active",
     "applied_at": null,
-    "priority": 5
+    "priority": 5,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "3f48522c95336bf97ef5d9a882beb363": {
     "id": "3f48522c95336bf97ef5d9a882beb363",
@@ -812,7 +848,9 @@
     "first_seen": "2026-06-11T15:51:07.673755-07:00",
     "status": "active",
     "applied_at": null,
-    "priority": 1
+    "priority": 1,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "0c0d3a6c5cbbdeb4297940a15db07d10": {
     "id": "0c0d3a6c5cbbdeb4297940a15db07d10",
@@ -828,7 +866,9 @@
     "first_seen": "2026-06-11T15:51:07.673861-07:00",
     "status": "active",
     "applied_at": null,
-    "priority": 1
+    "priority": 1,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "9b57e5629e3af14ccf596e65057c647f": {
     "id": "9b57e5629e3af14ccf596e65057c647f",
@@ -844,7 +884,9 @@
     "first_seen": "2026-06-11T15:51:07.673948-07:00",
     "status": "active",
     "applied_at": null,
-    "priority": 5
+    "priority": 5,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "1b032a392779570625e2469255e4a68f": {
     "id": "1b032a392779570625e2469255e4a68f",
@@ -860,7 +902,9 @@
     "first_seen": "2026-06-11T15:51:07.674003-07:00",
     "status": "active",
     "applied_at": null,
-    "priority": 1
+    "priority": 1,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "d78c4bc8643f024434ce08c758b4da44": {
     "id": "d78c4bc8643f024434ce08c758b4da44",
@@ -876,7 +920,9 @@
     "first_seen": "2026-06-11T15:51:07.676184-07:00",
     "status": "active",
     "applied_at": null,
-    "priority": 5
+    "priority": 5,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "3a5ddd2210dc0af9d1f0e9745242371e": {
     "id": "3a5ddd2210dc0af9d1f0e9745242371e",
@@ -892,7 +938,9 @@
     "first_seen": "2026-06-13T10:44:03.417249-07:00",
     "status": "active",
     "applied_at": null,
-    "priority": 5
+    "priority": 5,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "754e0a27cf967c71b8d4a07b6cc82126": {
     "id": "754e0a27cf967c71b8d4a07b6cc82126",
@@ -908,7 +956,9 @@
     "first_seen": "2026-06-13T14:51:59.825446-07:00",
     "status": "active",
     "applied_at": null,
-    "priority": 5
+    "priority": 5,
+    "checked_at": "2026-08-30T15:26:32.011827-07:00",
+    "dead_strikes": 0
   },
   "a5898779a0774c949e9d1e5f82d1324b": {
     "id": "a5898779a0774c949e9d1e5f82d1324b",
@@ -15290,6 +15340,24 @@
     "posted_at": "8h",
     "priority": 5,
     "first_seen": "2026-08-30T06:05:54.652065-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "5083cee68307d82bf668be3cf2556a8f": {
+    "id": "5083cee68307d82bf668be3cf2556a8f",
+    "title": "Product designer",
+    "company": "Watershed",
+    "location": "San Francisco",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/Watershed/5e09aefe-1336-464c-a41f-541dc1cb5474",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-08-30T15:27:27.834230-07:00",
     "status": "active",
     "applied_at": null
   }
