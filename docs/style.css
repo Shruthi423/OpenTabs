@@ -821,7 +821,7 @@ a.cog-co:hover { text-decoration: underline; }
    parts, so the columns line up rank for rank. Anything that cannot fit
    is truncated on its own line — never allowed to spill past the card
    edge or push the action row out. */
-:root { --row-h: calc(var(--spec-size) * 3.6 + 104px); }
+:root { --row-h: calc(var(--spec-size) * 3.6 + 110px); }   /* +6px for the title's descender padding */
 
 .col .job {
   height: var(--row-h);
@@ -845,6 +845,12 @@ a.cog-co:hover { text-decoration: underline; }
   flex: none;
   display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2;
   overflow: hidden;
+  /* line-height 1.12 gives a 26.9px line box, but Manrope at 24px needs 33px
+     (ascent 26 + descent 7). overflow:hidden clips at the padding edge, so
+     descenders in g/y/p/q/j were being cut off. Pad the bottom rather than
+     opening up line-height: this costs the card ~6px once, not per line.
+     In em so it tracks --spec-size. */
+  padding-bottom: .26em;
 }
 /* meta and roles: strictly one line each, ellipsis rather than a wrap that
    would eat the room the action row needs */
