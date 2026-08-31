@@ -1,5 +1,22 @@
 [
   {
+    "id": "2b8bfa44c4f9ef6d7b6246074d5c5b81",
+    "title": "UX Designer-4",
+    "company": "Realign",
+    "location": "Jersey City, NJ, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=a97ab59201e0c670",
+    "source": "Indeed",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "2026-08-30",
+    "priority": 4,
+    "first_seen": "2026-08-31T11:00:01.359012-07:00",
+    "status": "active"
+  },
+  {
     "id": "5cab2bdde2915179d5fdda6e6b8cdabe",
     "title": "User Researcher",
     "company": "PTR Global",
@@ -32637,23 +32654,6 @@
     "posted_at": "2026-07-29",
     "priority": 4,
     "first_seen": "2026-07-31T11:34:38.987151-07:00",
-    "status": "active"
-  },
-  {
-    "id": "90833782bc2e23200fc0e49921fe07f5",
-    "title": "Junior Product Designer",
-    "company": "Costa & Abreu",
-    "location": "Junior, WV",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4446984549",
-    "source": "Linkedin",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "visa": null,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-07-31T10:55:42.151082-07:00",
     "status": "active"
   }
 ]
