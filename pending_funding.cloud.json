@@ -1,100 +1,58 @@
 [
   {
     "item": {
-      "company": "Clipto",
-      "amount": "$15.0M",
-      "stage": "Seed",
-      "investors": null,
+      "company": "Andreessen Horowitz",
+      "amount": "$1.75B",
+      "stage": null,
+      "investors": "Andreessen Horowitz, Fifth Growth Fund",
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHF4eHIzNmlNYUtZTTNtT3hxRGY5YUpGZ2lodEI5bHNxc2ZnM0JOUHowdEtwUU1IN3Z4bXZNYjdXMDRKTTBYb2EzV1FIekJjSXdyNl9qSmNRb1JEMzlUUDNlUDZRSVB5azNKVjZ6T1AtVHhvWjdCVFlhaXNUQkZtTUdTZDZQdnNLdGU2MmNwd2pRM3NGd1VjTVpDek1oZjlmYmVN?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-08-31T13:38:49.542623-07:00"
-  },
-  {
-    "item": {
-      "company": "Cleveland's Aeris Biosciences",
-      "amount": "$3.4M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHB3Zm1WdDYzb1V0Z2hJN1paMWhxRkxleXpEZXAzV3ZsU0pPMnFweEFoM3RrVWJ2dEdZX0tEbGJDb29DMkVRVEk3VXJJZkJvQWFVZEFDMjBLbHgwNjRUN3ZFc3p5OERFcjk3SGxsRHJWcHJWWTJXSUVzMnFNTmp4QUx2LW5nOEI1MGYxUHRnVkxxVVdMMW1fbWFkNjl4cWJVS19lS0ozb1BMdnprUV9N?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-08-31T13:38:57.371767-07:00"
-  },
-  {
-    "item": {
-      "company": "Ryan Breslow",
-      "amount": "$27.0M",
-      "stage": "Bridge",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUNaRGxWODVtaDBhcWVRWVB5c25obDR4UjlxcXFoM3lmYTdfejRJY0hzMkRZRVc2Tm85SzJkLVhWNGJHY1Q0M0gxemNSTGJnUWdnZEg1ci1FQkxrNDRTRU9Fb1JpVWMzbUtuNFRFaWdzY1ZWQ0xyOW1GODJOMWpSbXZINTRzXzNUbUNBZ3NxdXdhcGJZT2Zlem5lT2RIZ2w0TjZwRlBWZ0ZtUmlORUE?oc=5",
       "priority": 6
     },
-    "remind_at": "2026-08-31T13:39:04.763474-07:00"
+    "remind_at": "2026-08-31T17:21:04.307674-07:00"
   },
   {
     "item": {
-      "company": "Ray Dalio",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/31/ray-dalio-borrow-4000-dad-lessons-becoming-billionaire-humility-diversification/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-31T13:39:10.619897-07:00"
-  },
-  {
-    "item": {
-      "company": "Enterprises",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/31/private-ai-cloud-shift-pulls-workloads-back-premises-vmwareexplore/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-31T13:39:13.613311-07:00"
-  },
-  {
-    "item": {
-      "company": "OpenAI\u2019s ChatGPT Ads",
+      "company": "OpenAI",
       "amount": "$1.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/31/openais-chatgpt-ads-hit-1-billion-revenue-run-rate-in-under-200-days/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/31/openai-says-its-ad-business-has-already-hit-1b-in-annualized-revenue/",
       "priority": 3
     },
-    "remind_at": "2026-08-31T13:39:19.567716-07:00"
+    "remind_at": "2026-08-31T17:21:07.792395-07:00"
   },
   {
     "item": {
-      "company": "Reframe",
-      "amount": null,
+      "company": "Nvidia",
+      "amount": "$3.5B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFdMWXZhRkN1ZFVVSXZLZmNzQXZxc0tvZWoyenlrU19NMWtHRzFIQkVYR1dTbFdGbmczZ0tnTFJ6TW9yQnEzRmhQbWRieFZ4NTd1ZWdCOEhtWTBGWjRDR3IxblpPdFdjUWM2MjJVUXNZc0QwM2dIa2JCRGhQZUM2N1NTWHFmZWhiM05vd1I3Y2NDMmJGRGd4ZThtWW9COC1faXQzcjlhb2tQc2RqRzBfZnhGRV9pclFoU2N6Ymp2Wnl3Zw?oc=5",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/31/nvidia-invests-3-5b-in-mediatek-as-part-of-expanded-ai-chip-partnership/",
       "priority": 3
     },
-    "remind_at": "2026-08-31T13:39:22.597381-07:00"
+    "remind_at": "2026-08-31T17:21:10.861001-07:00"
+  },
+  {
+    "item": {
+      "company": "fomo Acquires Mobula",
+      "amount": "$17.0M",
+      "stage": null,
+      "investors": "In-House Amid Explosive Growth",
+      "location": "New York",
+      "founders": [],
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/08/fomo-acquisition-mobula-on-chain-data-crypto-trading-infrastructure-web3-price/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-31T17:21:26.760302-07:00"
   }
 ]

@@ -2628,7 +2628,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T21:54:54.749932-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 1
   },
   "703e24b5a9cb945fd62b8bd4341a9193": {
     "id": "703e24b5a9cb945fd62b8bd4341a9193",
@@ -2646,7 +2648,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T21:54:54.758377-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "ca22536715c5071c4b0db1d72fcb5210": {
     "id": "ca22536715c5071c4b0db1d72fcb5210",
@@ -2664,7 +2668,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.753276-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "d15ae006c8bae6d893d24290019ca4fb": {
     "id": "d15ae006c8bae6d893d24290019ca4fb",
@@ -2680,7 +2686,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T09:26:19.038380-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "46162043d14526521cb0968d639cd506": {
     "id": "46162043d14526521cb0968d639cd506",
@@ -2698,7 +2706,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.756865-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "0c5dadfb85adb7410ad605bd4194d868": {
     "id": "0c5dadfb85adb7410ad605bd4194d868",
@@ -2716,7 +2726,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.756739-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "1345d1a84cbbdfd8470084a9368d499a": {
     "id": "1345d1a84cbbdfd8470084a9368d499a",
@@ -2734,7 +2746,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.757672-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "9a9f9da1d8dce33b69613589f265fe32": {
     "id": "9a9f9da1d8dce33b69613589f265fe32",
@@ -2750,7 +2764,9 @@
     "priority": 4,
     "first_seen": "2026-06-18T17:49:21.009195-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "ad1e444124e5119aaf1c2c3faf6378fd": {
     "id": "ad1e444124e5119aaf1c2c3faf6378fd",
@@ -2766,7 +2782,9 @@
     "priority": 3,
     "first_seen": "2026-06-18T17:49:22.753717-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 1
   },
   "1bfa7d9095f03f924c2b5204bdf91ba6": {
     "id": "1bfa7d9095f03f924c2b5204bdf91ba6",
@@ -2782,7 +2800,9 @@
     "priority": 3,
     "first_seen": "2026-06-18T17:49:24.368543-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "f2abcef82eb184ebf292d06ca3ff347a": {
     "id": "f2abcef82eb184ebf292d06ca3ff347a",
@@ -2798,7 +2818,9 @@
     "priority": 3,
     "first_seen": "2026-06-18T17:49:26.165726-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 1
   },
   "c8f56f4588c0f74c0910321ac3d05823": {
     "id": "c8f56f4588c0f74c0910321ac3d05823",
@@ -2814,7 +2836,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T17:49:27.768460-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "4e184d6c8f63ff7068d74b9204d2ba29": {
     "id": "4e184d6c8f63ff7068d74b9204d2ba29",
@@ -2830,7 +2854,9 @@
     "priority": 4,
     "first_seen": "2026-06-18T17:49:29.629027-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "86e6094e5e78981973526adf6f22795d": {
     "id": "86e6094e5e78981973526adf6f22795d",
@@ -2846,7 +2872,9 @@
     "priority": 4,
     "first_seen": "2026-06-18T17:49:31.493692-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "8bb2b0ba1fa26a295122ed10ac9814fa": {
     "id": "8bb2b0ba1fa26a295122ed10ac9814fa",
@@ -2862,7 +2890,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T17:49:33.316019-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "eb4bacca8e74f1db74d3537ef7597c6a": {
     "id": "eb4bacca8e74f1db74d3537ef7597c6a",
@@ -2878,7 +2908,9 @@
     "priority": 4,
     "first_seen": "2026-06-18T17:49:35.126522-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "29826e9332e4d484e1371c6e6d75825f": {
     "id": "29826e9332e4d484e1371c6e6d75825f",
@@ -2894,7 +2926,9 @@
     "priority": 4,
     "first_seen": "2026-06-18T17:49:36.800578-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "d03e41a0b71954321f92c2a6031d4caf": {
     "id": "d03e41a0b71954321f92c2a6031d4caf",
@@ -2910,7 +2944,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T17:49:38.435097-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "be4a4393198043c6ea18d7ead7ad9b8d": {
     "id": "be4a4393198043c6ea18d7ead7ad9b8d",
@@ -2926,7 +2962,9 @@
     "priority": 4,
     "first_seen": "2026-06-18T17:49:40.136002-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "8661afb01474f0b3f01f1f721309b9ff": {
     "id": "8661afb01474f0b3f01f1f721309b9ff",
@@ -2942,7 +2980,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T17:49:41.976355-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "233c8bf3080fb098c70e223f12f192d3": {
     "id": "233c8bf3080fb098c70e223f12f192d3",
@@ -2958,7 +2998,9 @@
     "priority": 3,
     "first_seen": "2026-06-18T17:49:43.752194-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "843d349cc8573d41e10ecf16c80c15ac": {
     "id": "843d349cc8573d41e10ecf16c80c15ac",
@@ -2974,7 +3016,9 @@
     "priority": 4,
     "first_seen": "2026-06-18T17:49:45.466156-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 1
   },
   "b845c77ac045283d432c7e70ba66c1ba": {
     "id": "b845c77ac045283d432c7e70ba66c1ba",
@@ -2990,7 +3034,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T17:49:47.214221-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "45f80b031637ececbdfdf0f335f39de6": {
     "id": "45f80b031637ececbdfdf0f335f39de6",
@@ -3006,7 +3052,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T17:49:49.004326-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "97fb377c4caa375ca2d5e4d95f0176ad": {
     "id": "97fb377c4caa375ca2d5e4d95f0176ad",
@@ -3022,7 +3070,9 @@
     "priority": 3,
     "first_seen": "2026-06-18T17:49:50.598331-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T16:49:28.716939-07:00",
+    "dead_strikes": 0
   },
   "32f985f0849b0b7e9d95e187a1e28b32": {
     "id": "32f985f0849b0b7e9d95e187a1e28b32",
@@ -15908,6 +15958,24 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-31T13:08:26.214714-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "de0b2bffd640c9f8198b1c489215df6f": {
+    "id": "de0b2bffd640c9f8198b1c489215df6f",
+    "title": "Product Designer",
+    "company": "Brainco",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/brainco/2d637c98-2622-4cc8-b083-f94f6e520669",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-08-31T16:50:36.027815-07:00",
     "status": "active",
     "applied_at": null
   }
