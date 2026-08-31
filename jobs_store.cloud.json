@@ -1498,10 +1498,10 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-06-13T16:20:49.896553-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-08-30T23:15:33.833410-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 2
   },
   "7fd6e74bed75ece79d42bda39bd7efdb": {
     "id": "7fd6e74bed75ece79d42bda39bd7efdb",
@@ -1518,10 +1518,10 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-06-13T16:20:51.432651-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-08-30T23:15:33.833410-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 2
   },
   "4a0503e4559a7a8a74c9e3ca633aa594": {
     "id": "4a0503e4559a7a8a74c9e3ca633aa594",
@@ -1687,10 +1687,10 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-06-18T21:54:54.755004-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-08-30T23:15:33.833410-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 2
   },
   "e3becdfe58fc4f1c9c5654c69d1e2fe4": {
     "id": "e3becdfe58fc4f1c9c5654c69d1e2fe4",
@@ -1705,10 +1705,10 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-06-15T08:03:32.667111-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-08-30T23:15:33.833410-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 2
   },
   "a6c212ae07c3de9cd712966ae1670e35": {
     "id": "a6c212ae07c3de9cd712966ae1670e35",
@@ -1778,7 +1778,9 @@
     "priority": 4,
     "first_seen": "2026-06-15T08:03:38.594504-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "0b5065a31479157c00c9aadcb16fb274": {
     "id": "0b5065a31479157c00c9aadcb16fb274",
@@ -1797,7 +1799,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T21:57:17.784214-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "aada5071db33985f04a735dc6a01ec17": {
     "id": "aada5071db33985f04a735dc6a01ec17",
@@ -1813,7 +1817,9 @@
     "priority": 3,
     "first_seen": "2026-06-15T08:03:41.584300-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "7e1eabfa6b5720eea203059061cfa36b": {
     "id": "7e1eabfa6b5720eea203059061cfa36b",
@@ -1829,7 +1835,9 @@
     "priority": 1,
     "first_seen": "2026-06-15T08:03:43.050616-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "18bb9c937a7a5991cfaee9ce4743efe3": {
     "id": "18bb9c937a7a5991cfaee9ce4743efe3",
@@ -1845,7 +1853,9 @@
     "priority": 3,
     "first_seen": "2026-06-15T08:03:44.533734-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "357ac0e546b41064009be07e73d9661a": {
     "id": "357ac0e546b41064009be07e73d9661a",
@@ -1861,7 +1871,9 @@
     "priority": 3,
     "first_seen": "2026-06-15T08:03:45.975337-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "c0ac877b6fbdbdb004ca9e7a2dd4d71a": {
     "id": "c0ac877b6fbdbdb004ca9e7a2dd4d71a",
@@ -1877,7 +1889,9 @@
     "priority": 5,
     "first_seen": "2026-06-15T08:53:46.197495-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "7b622687af24b6fa99d2cbad96812dfb": {
     "id": "7b622687af24b6fa99d2cbad96812dfb",
@@ -1893,7 +1907,9 @@
     "priority": 3,
     "first_seen": "2026-06-15T08:53:47.637895-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "dd02d82ac3c4b00f8da954138d4a4a00": {
     "id": "dd02d82ac3c4b00f8da954138d4a4a00",
@@ -1912,7 +1928,9 @@
     "priority": 4,
     "first_seen": "2026-06-18T21:55:37.223459-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "e393f0f2d3568ba9938c449e9196418f": {
     "id": "e393f0f2d3568ba9938c449e9196418f",
@@ -1930,7 +1948,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T21:54:54.781353-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "49d2204f439eaf403cf17814fea0ee73": {
     "id": "49d2204f439eaf403cf17814fea0ee73",
@@ -1948,7 +1968,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.758297-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "3180ce770794406d0efe00e2edbaba8a": {
     "id": "3180ce770794406d0efe00e2edbaba8a",
@@ -1966,7 +1988,9 @@
     "priority": 1,
     "first_seen": "2026-06-15T12:04:02.734416-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "6af3a15560a0a0ad15b59d8a34c9274e": {
     "id": "6af3a15560a0a0ad15b59d8a34c9274e",
@@ -1982,7 +2006,9 @@
     "priority": 1,
     "first_seen": "2026-06-15T23:31:37.066439-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "cb443c4b4cc0c55844421beb52935046": {
     "id": "cb443c4b4cc0c55844421beb52935046",
@@ -2000,7 +2026,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.758203-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "d1c31aefd26fa91394c43d7a6784f0a6": {
     "id": "d1c31aefd26fa91394c43d7a6784f0a6",
@@ -2016,7 +2044,9 @@
     "priority": 5,
     "first_seen": "2026-06-15T23:53:51.062427-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 1
   },
   "581415ae5b15a3853edc9e6d8bfc5e25": {
     "id": "581415ae5b15a3853edc9e6d8bfc5e25",
@@ -2034,7 +2064,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T21:54:54.758563-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "2d515e7eda7e920b36b4965acd4513ab": {
     "id": "2d515e7eda7e920b36b4965acd4513ab",
@@ -2052,7 +2084,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T21:54:54.758592-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "e961da2ae2d08a1c8b2ea30bed496107": {
     "id": "e961da2ae2d08a1c8b2ea30bed496107",
@@ -2070,7 +2104,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T21:54:54.758626-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "f606582d3c5b3dfd88c224a9997f5040": {
     "id": "f606582d3c5b3dfd88c224a9997f5040",
@@ -2088,7 +2124,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T21:54:54.758656-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "657dca84581b6e2912c027b8cb74ccca": {
     "id": "657dca84581b6e2912c027b8cb74ccca",
@@ -2106,7 +2144,9 @@
     "priority": 3,
     "first_seen": "2026-06-18T21:54:54.758686-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "a5fa021e380c431582742ee6c77e8098": {
     "id": "a5fa021e380c431582742ee6c77e8098",
@@ -2124,7 +2164,9 @@
     "priority": 4,
     "first_seen": "2026-06-18T21:54:54.758719-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-08-31T07:14:07.220039-07:00",
+    "dead_strikes": 0
   },
   "3df86aa51a200461e8fbe341e431c113": {
     "id": "3df86aa51a200461e8fbe341e431c113",
@@ -15441,6 +15483,349 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-08-30T15:27:27.834230-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "3f4c6a7ccfe972f0ab12dc15168b03c4": {
+    "id": "3f4c6a7ccfe972f0ab12dc15168b03c4",
+    "title": "UX Designer II",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://himalayas.app/companies/bellese/jobs/ux-designer-ii",
+    "source": "Himalayas",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-08-31T07:15:19.201920-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "b309c84b3fe3a57a8f8cf0c4f63d3f3f": {
+    "id": "b309c84b3fe3a57a8f8cf0c4f63d3f3f",
+    "title": "UX Copywriter",
+    "company": "Bask Health",
+    "location": "Remote (Remote)",
+    "salary": "Not listed",
+    "url": "https://jobs.workable.com/view/kNGeahmrk3mxwh8gefBxDZ/remote-ux-copywriter-in-spain-at-bask-health",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-08-31T07:15:20.896557-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "c1b88996aa28b91c1b666ee2e584df51": {
+    "id": "c1b88996aa28b91c1b666ee2e584df51",
+    "title": "UX Designer, YouTube, Language Experiences",
+    "company": "Google",
+    "location": "New York, NY, United States",
+    "salary": "Not listed",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/107035597834461894-ux-designer",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-08-31T07:15:22.940042-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "88cc19d411746af468d41b8667342ab4": {
+    "id": "88cc19d411746af468d41b8667342ab4",
+    "title": "Platform Product Designer - TikTok Design",
+    "company": "TikTok",
+    "location": "San Jose, United States",
+    "salary": "Not listed",
+    "url": "https://lifeattiktok.com/search/7676315362905491717",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 2,
+    "first_seen": "2026-08-31T07:15:24.752713-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "522a01dedb0a26aba9d1493ead59068c": {
+    "id": "522a01dedb0a26aba9d1493ead59068c",
+    "title": "UX Design Engineer",
+    "company": "Accenture",
+    "location": "Multiple, United States",
+    "salary": "Not listed",
+    "url": "https://www.accenture.com/us-en/careers/jobdetails?id=14617051_en&title=UX+Design+Engineer+-+6429050",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-08-31T07:15:26.481404-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "d0bb54337e4e56f5914d26e73127432d": {
+    "id": "d0bb54337e4e56f5914d26e73127432d",
+    "title": "Product Designer Multichannel",
+    "company": "Super Technologies",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://job-boards.eu.greenhouse.io/super/jobs/4908313101",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-08-31T07:15:28.406268-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "e77d7be72e178549b7e50c6ac15da8fe": {
+    "id": "e77d7be72e178549b7e50c6ac15da8fe",
+    "title": "UI/UX Designer",
+    "company": "Clarity Innovations",
+    "location": "Tampa, FL",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1583226-ui-ux-designer-tampa-fl-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "4h",
+    "priority": 4,
+    "first_seen": "2026-08-31T07:15:30.296189-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "47469c455b128f9fadfeaf59414aebb7": {
+    "id": "47469c455b128f9fadfeaf59414aebb7",
+    "title": "Product Designer",
+    "company": "Takeda",
+    "location": "Lexington, MA",
+    "salary": "$103,500 - $162,690",
+    "url": "https://uiuxjobsboard.com/job/1584526-product-designer-lexington-ma-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "5h",
+    "priority": 4,
+    "first_seen": "2026-08-31T07:15:32.168792-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "a122c3d04e3d0f190d04b5aade31cf48": {
+    "id": "a122c3d04e3d0f190d04b5aade31cf48",
+    "title": "UI/UX Designer",
+    "company": "Guidehouse",
+    "location": "Remote",
+    "salary": "$98,000 - $163,000",
+    "url": "https://uiuxjobsboard.com/job/1585626-remote-united-states-ui-ux-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "5h",
+    "priority": 5,
+    "first_seen": "2026-08-31T07:15:34.036435-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "30b426ea553234a95312a15565af8510": {
+    "id": "30b426ea553234a95312a15565af8510",
+    "title": "UX Designer",
+    "company": "Marketcloud",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1585926-remote-europe-ux-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "6h",
+    "priority": 5,
+    "first_seen": "2026-08-31T07:15:35.867903-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "053662c80c754e5d2ce183ddd01a9e2a": {
+    "id": "053662c80c754e5d2ce183ddd01a9e2a",
+    "title": "Product Designer",
+    "company": "Virtusan",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1585726-remote-europe-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "6h",
+    "priority": 5,
+    "first_seen": "2026-08-31T07:15:37.754801-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "5514f99375b4db95fe005913852ddde1": {
+    "id": "5514f99375b4db95fe005913852ddde1",
+    "title": "Product Designer",
+    "company": "Hudl",
+    "location": "Remote",
+    "salary": "\u00a351,000 - \u00a386,000",
+    "url": "https://uiuxjobsboard.com/job/1583126-remote-united-kingdom-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "6h",
+    "priority": 5,
+    "first_seen": "2026-08-31T07:15:39.452339-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "8ba054f2d353cb43b8c756c0be2dfccd": {
+    "id": "8ba054f2d353cb43b8c756c0be2dfccd",
+    "title": "UX Design Internship",
+    "company": "Uline",
+    "location": "Pleasant Prairie, WI",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1584926-ux-design-internship-pleasant-prairie-wi-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "7h",
+    "priority": 4,
+    "first_seen": "2026-08-31T07:15:41.205377-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "4b77c345f1e0e2d77be17666bd16c2b9": {
+    "id": "4b77c345f1e0e2d77be17666bd16c2b9",
+    "title": "Product Design Intern",
+    "company": "Palantir",
+    "location": "Palo Alto, CA",
+    "salary": "$102,000",
+    "url": "https://uiuxjobsboard.com/job/1583526-product-design-intern-palo-alto-ca-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "posted_at": "7h",
+    "priority": 2,
+    "first_seen": "2026-08-31T07:15:43.043309-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "88ef212320e57b1df5039f35641422de": {
+    "id": "88ef212320e57b1df5039f35641422de",
+    "title": "Visual Designer",
+    "company": "Snap",
+    "location": "Santa Monica, CA",
+    "salary": "$190,000 - $284,000",
+    "url": "https://uiuxjobsboard.com/job/1584826-visual-designer-santa-monica-ca-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "posted_at": "8h",
+    "priority": 4,
+    "first_seen": "2026-08-31T07:15:44.892894-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "eebe83c758648ba5ea2a561431e6e4fe": {
+    "id": "eebe83c758648ba5ea2a561431e6e4fe",
+    "title": "UX Analyst Intern",
+    "company": "Tombras",
+    "location": "Knoxville, TN",
+    "salary": "$23,400",
+    "url": "https://uiuxjobsboard.com/job/1584026-ux-analyst-intern-knoxville-tn-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "8h",
+    "priority": 4,
+    "first_seen": "2026-08-31T07:15:46.776852-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "592345d1923235be942d8f7e34bef4d7": {
+    "id": "592345d1923235be942d8f7e34bef4d7",
+    "title": "UX/UI Designer",
+    "company": "Robots & Pencils",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1583326-remote-canada-ux-ui-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "9h",
+    "priority": 5,
+    "first_seen": "2026-08-31T07:15:48.697949-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "8b4b5a9ee9635de30b350731c29782b2": {
+    "id": "8b4b5a9ee9635de30b350731c29782b2",
+    "title": "Brand Designer, Web",
+    "company": "Lovable",
+    "location": "New York",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/lovable/76f4a64e-b343-4c0e-b5f1-ea7686001346",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-08-31T07:15:50.566315-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "d83bed54e9875e2626eab95f4b64675f": {
+    "id": "d83bed54e9875e2626eab95f4b64675f",
+    "title": "Product Design",
+    "company": "Metriport",
+    "location": "San Francisco",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/metriport/74560472-7d6a-44a6-82d3-0152119a9578",
+    "source": "\ud83d\udcb0 Metriport (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Metriport raised $26.0M",
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-08-31T07:17:04.237225-07:00",
     "status": "active",
     "applied_at": null
   }
