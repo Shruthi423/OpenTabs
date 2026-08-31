@@ -1,254 +1,100 @@
 [
   {
     "item": {
-      "company": "Arca Digital",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": "Robin Capital",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/arca-digital-raises-1m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-31T07:46:16.702293-07:00"
-  },
-  {
-    "item": {
-      "company": "Principle",
-      "amount": "$2.0M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/principle-raises-2m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-31T07:46:19.638992-07:00"
-  },
-  {
-    "item": {
-      "company": "Advisar",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/advisar-raises-750k-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-08-31T07:46:23.259880-07:00"
-  },
-  {
-    "item": {
-      "company": "S-Transistors",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS2puWWpCdXlYdjlpRGRxZ1VEU0FTcnVQN0NEc0U1WGtYc1pPMlQxVmRSV0VPV0hKV0FtZ3JjMDNvY2VTMlZNNDV3OElwMWRLZ05mR2tyRDJQMVY4Y1FLQXEyd0plemdfNTAzdk5YWE9yWjFhQ3ZqZnlQa25aanlQLUpwTzZHbm4yLWhUTy1CY0NDVWU4UTNkNVlyQXFzb3FHTDVQdm4tS24xcmpUZUlqYUoxODJUYmIzZTZTRzlZX1hfbGhBQy1XZG1kUkxyS3pyaUVhc2hB?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-08-31T07:46:26.398885-07:00"
-  },
-  {
-    "item": {
-      "company": "Apate.AI",
-      "amount": "$11.4M",
-      "stage": "Seed",
-      "investors": "Lobby Capital",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/apate-ai-raises-11-4m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-08-31T07:46:29.302103-07:00"
-  },
-  {
-    "item": {
-      "company": "Leanwatts",
-      "amount": "$2.0M",
+      "company": "Clipto",
+      "amount": "$15.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX1VYTHFaZjBtS2trR2pWXzhpZjhRVGZoQ19oY3VWYjdYTEtsa2FjLUVtUW9OSGlpTjVycEtENHhWSWNjbnBnY0w1X3V2NXptQWdKMXJHcFNCNVdQNEExTEJCeVFhdmduOEhYdXU3VVV4b3BXTW9sQ3NQZEFwc2R5M2tvTUdzdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHF4eHIzNmlNYUtZTTNtT3hxRGY5YUpGZ2lodEI5bHNxc2ZnM0JOUHowdEtwUU1IN3Z4bXZNYjdXMDRKTTBYb2EzV1FIekJjSXdyNl9qSmNRb1JEMzlUUDNlUDZRSVB5azNKVjZ6T1AtVHhvWjdCVFlhaXNUQkZtTUdTZDZQdnNLdGU2MmNwd2pRM3NGd1VjTVpDek1oZjlmYmVN?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-08-31T07:46:32.240097-07:00"
+    "remind_at": "2026-08-31T13:38:49.542623-07:00"
   },
   {
     "item": {
-      "company": "Payload",
-      "amount": "$9.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/payload-raises-9m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-08-31T07:46:35.207814-07:00"
-  },
-  {
-    "item": {
-      "company": "ABLE Labs",
-      "amount": "$8.7M",
-      "stage": "Series A",
+      "company": "Cleveland's Aeris Biosciences",
+      "amount": "$3.4M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvQ25oY3NXdlMzOGllWnVTRE5lV3hCa0lzcFpoLXUwTGVfdUFwQXlFVFlzN0ExcmlhMjhieGhxUkpVNkRIRmp1d0FyOWJTMjRaQk1F?oc=5",
-      "priority": 8
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHB3Zm1WdDYzb1V0Z2hJN1paMWhxRkxleXpEZXAzV3ZsU0pPMnFweEFoM3RrVWJ2dEdZX0tEbGJDb29DMkVRVEk3VXJJZkJvQWFVZEFDMjBLbHgwNjRUN3ZFc3p5OERFcjk3SGxsRHJWcHJWWTJXSUVzMnFNTmp4QUx2LW5nOEI1MGYxUHRnVkxxVVdMMW1fbWFkNjl4cWJVS19lS0ozb1BMdnprUV9N?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-08-31T07:46:38.305327-07:00"
+    "remind_at": "2026-08-31T13:38:57.371767-07:00"
   },
   {
     "item": {
-      "company": "YOGa Clean Air",
-      "amount": null,
-      "stage": "Series A",
-      "investors": "Info Edge",
+      "company": "Ryan Breslow",
+      "amount": "$27.0M",
+      "stage": "Bridge",
+      "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMF96andQRU5LUGxQeWlGTFlJdVRIUHp2dUFEb2kzN2xYaTJSUjQxVElTSmdHelFCNE1lLTl6X3h4MFZ5LXM1YWo5SkNPMUtGMUFpN2dFRE4xSUp0NmRDXzV1Y282b2RFeEtNcDkxemcyQVBRYjFVTVBZc1NJM2ZuQ19xMjJiV1pOZzJXV2pwLXBXVHBpUWw5MUFHdEdLbU5pRmY4NnppRi11ck50UjhJb0w5S1Y?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-31T07:46:44.021747-07:00"
-  },
-  {
-    "item": {
-      "company": "Jagdish Farshan",
-      "amount": null,
-      "stage": "Series A",
-      "investors": "Sharrp Ventures - BW Disrupt Jagdish Farshan Raises Rs",
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNW1jQi1vT1lpaDA4S0RnMXp2R2F1MlJUUERwZks4MVlnUXFYbXBjdTBSY2JIVnA3RUJWMzdOVmZJNThnMkQ2VDFBVGxwTnVfUWVwLUpiSlB4QlFpSnpDaGxpRC0wbmRXSUJ4S3RKQXZPcWFmVW5qdFVSQjFFV25QeUVrRjVIUVBjRExZZnkwMVVKUW82djVUOEtIb1RJbnlUTV9jTDdNLW1nS0VlSmc?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-08-31T07:46:53.294919-07:00"
-  },
-  {
-    "item": {
-      "company": "Ajaib",
-      "amount": "$270.0M",
-      "stage": "Series C",
-      "investors": "SBI Holdings",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ajaib-raises-270m-series-c/",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
       "priority": 6
     },
-    "remind_at": "2026-08-31T07:46:56.224461-07:00"
+    "remind_at": "2026-08-31T13:39:04.763474-07:00"
   },
   {
     "item": {
-      "company": "Funding News Today",
+      "company": "Ray Dalio",
       "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/31/ray-dalio-borrow-4000-dad-lessons-becoming-billionaire-humility-diversification/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-31T13:39:10.619897-07:00"
+  },
+  {
+    "item": {
+      "company": "Enterprises",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/31/private-ai-cloud-shift-pulls-workloads-back-premises-vmwareexplore/",
+      "priority": 3
+    },
+    "remind_at": "2026-08-31T13:39:13.613311-07:00"
+  },
+  {
+    "item": {
+      "company": "OpenAI\u2019s ChatGPT Ads",
+      "amount": "$1.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/08/31/startup-funding-news-today-august-31-2026-apate-ai-s-transistors-yoga-clean-air-more/",
+      "url": "https://techstartups.com/2026/08/31/openais-chatgpt-ads-hit-1-billion-revenue-run-rate-in-under-200-days/",
       "priority": 3
     },
-    "remind_at": "2026-08-31T07:47:01.931029-07:00"
+    "remind_at": "2026-08-31T13:39:19.567716-07:00"
   },
   {
     "item": {
-      "company": "Metriport",
-      "amount": "$26.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/metriport-raises-26m-unknown/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-31T07:47:06.661415-07:00"
-  },
-  {
-    "item": {
-      "company": "USD.AI",
-      "amount": "$100.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/usd-ai-raises-100m-debt-financing/",
-      "priority": 3
-    },
-    "remind_at": "2026-08-31T07:47:09.620314-07:00"
-  },
-  {
-    "item": {
-      "company": "Linear",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZjlfQTdHeHRRWTlfRWNKX3czX0djYUlodkg1elJHNEVhem5xbFJCMGVrU0dXSmNlV3pkc090dVFVRWowQURoWGs3bVgzYjVmOU95cmZabTNsNkt5LXFCeEg2dF80THppdnZobUVERVVyMWFLVlZqVUZ2bk9PS2Q3RlRMSkk1UlFDWGdfOU5PWFJMd1JDOHlFQkhGcjNwUWlwNEEwcVZvZWg?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-31T07:47:13.044911-07:00"
-  },
-  {
-    "item": {
-      "company": "Blank Street Coffee",
-      "amount": "$105.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnktZVY0SGQtN2RaazNwWHRFN0FJWEVoUldhcG4zLTlPYVlYa2haVDByeUFLRnpfMlV4VlhzRDQtMzAxQmZzWk4tWmxjYlJBZGVTX25wZFBWeGlTSDVmaXhpSG1FWk84QkZMNU5hdnpxSUJSTGYzYThkbmpZVVBOaV95WDlxNWR0UTlMdzFNSEtLTnduX19HQWtaSQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-31T07:47:18.679421-07:00"
-  },
-  {
-    "item": {
-      "company": "Finland\u2019s S-Transistors",
+      "company": "Reframe",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzloNmE1NlhPNURFSHZjNnZScFhrYzlBTTJHNnFnOS1BZ0JwSEtpWklOTUlXVEpNY3VxX01kc1BHdi03aEJCVk5WUk5FQ0poZnBGUWgyOGdKc3YwQ3Y0VWIyNHJudjUyczM3MDRrZzl4cHR1WkZRbzkzUEduSUFYdmNNcm1HWXh0dkhOdF9reGFNODgtSzJlT25SQnZiVjhHU3NSVVlXLTZIMm10aWJRZEJQQTgtYnJwd21jaF8xRjJ4T2s?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFdMWXZhRkN1ZFVVSXZLZmNzQXZxc0tvZWoyenlrU19NMWtHRzFIQkVYR1dTbFdGbmczZ0tnTFJ6TW9yQnEzRmhQbWRieFZ4NTd1ZWdCOEhtWTBGWjRDR3IxblpPdFdjUWM2MjJVUXNZc0QwM2dIa2JCRGhQZUM2N1NTWHFmZWhiM05vd1I3Y2NDMmJGRGd4ZThtWW9COC1faXQzcjlhb2tQc2RqRzBfZnhGRV9pclFoU2N6Ymp2Wnl3Zw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-08-31T07:47:25.203103-07:00"
-  },
-  {
-    "item": {
-      "company": "TrustedRouter",
-      "amount": "$1.25M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY29KUUlWMGtGR1o0NnpPSHRPWXA4dUZkazB0QmtPdlZfZUYyMU1yWXU1VmJvNjYxSU1VTmVrMmtBSWZqV3JQaGdpZVdhOHI0YjB6eTdyaUNKa2xXUV90LW1SQTM1SlpWeXdraktOdkxaWlh0b2M0TVZIekpreHR4bDB3eFkzM0FWSjdKaW5Rdw?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-08-31T07:47:28.501471-07:00"
+    "remind_at": "2026-08-31T13:39:22.597381-07:00"
   }
 ]
