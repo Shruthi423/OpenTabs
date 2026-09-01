@@ -3653,10 +3653,10 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-06-19T08:26:30.887013-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-09-01T01:36:18.500706-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 2
   },
   "e7ac97f4299d0b6c56f797099da34433": {
     "id": "e7ac97f4299d0b6c56f797099da34433",
@@ -3873,7 +3873,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.765353-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "4aa6052c521b91e5ed54b069b54f49c4": {
     "id": "4aa6052c521b91e5ed54b069b54f49c4",
@@ -3891,7 +3893,9 @@
     "priority": 3,
     "first_seen": "2026-06-18T21:54:54.765885-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "0654536a4cf1360fdfbfacde6faa5af9": {
     "id": "0654536a4cf1360fdfbfacde6faa5af9",
@@ -3909,7 +3913,9 @@
     "priority": 2,
     "first_seen": "2026-06-18T21:54:54.769311-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "51fbe2cb958ec5048acecf9919519be0": {
     "id": "51fbe2cb958ec5048acecf9919519be0",
@@ -3927,7 +3933,9 @@
     "priority": 2,
     "first_seen": "2026-06-18T21:54:54.769506-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "97739d4b271ec121f40069ed6c1d5858": {
     "id": "97739d4b271ec121f40069ed6c1d5858",
@@ -3945,7 +3953,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.770194-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "436d409cc0c8e7d3a64b3bd42498315e": {
     "id": "436d409cc0c8e7d3a64b3bd42498315e",
@@ -3963,7 +3973,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.770228-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "415394f8059b43ad0deb086c75c71a7f": {
     "id": "415394f8059b43ad0deb086c75c71a7f",
@@ -3981,7 +3993,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T21:54:54.774325-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "84a9eae29e0fd4e611460e75d371cf35": {
     "id": "84a9eae29e0fd4e611460e75d371cf35",
@@ -3999,7 +4013,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T21:54:54.775867-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "4be87316e32285402903c994cee3e51f": {
     "id": "4be87316e32285402903c994cee3e51f",
@@ -4017,7 +4033,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T21:54:54.777303-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "66ecd28a3c361ee41dec34ab3d59b51a": {
     "id": "66ecd28a3c361ee41dec34ab3d59b51a",
@@ -4035,7 +4053,9 @@
     "priority": 5,
     "first_seen": "2026-06-18T21:54:54.777442-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "0954f29ee0bac6b84147c817843b086f": {
     "id": "0954f29ee0bac6b84147c817843b086f",
@@ -4053,7 +4073,9 @@
     "priority": 5,
     "first_seen": "2026-06-19T20:25:38.799525-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "954c2dea1e7c9d709d39fc3e27f492ac": {
     "id": "954c2dea1e7c9d709d39fc3e27f492ac",
@@ -4071,7 +4093,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.765578-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "b7fbc48ead1ab60b1881b711649205cd": {
     "id": "b7fbc48ead1ab60b1881b711649205cd",
@@ -4089,7 +4113,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.778463-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "adccd012900bd1c2667a8523a53d7503": {
     "id": "adccd012900bd1c2667a8523a53d7503",
@@ -4107,7 +4133,9 @@
     "priority": 1,
     "first_seen": "2026-06-18T21:54:54.785585-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "36e050c842d6c3f4af437e2b5b850962": {
     "id": "36e050c842d6c3f4af437e2b5b850962",
@@ -4125,7 +4153,9 @@
     "priority": 5,
     "first_seen": "2026-06-20T04:12:39.635898-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "a9601eae4bc684092edd89bc468511d4": {
     "id": "a9601eae4bc684092edd89bc468511d4",
@@ -4143,7 +4173,9 @@
     "priority": 5,
     "first_seen": "2026-06-20T08:05:59.817587-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "204b04d5f4e65a5f63f1e3c86262517b": {
     "id": "204b04d5f4e65a5f63f1e3c86262517b",
@@ -4161,7 +4193,8 @@
     "priority": 5,
     "first_seen": "2026-06-20T14:12:19.033867-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00"
   },
   "976cb6dae8e128e69ae6a352eaf930f2": {
     "id": "976cb6dae8e128e69ae6a352eaf930f2",
@@ -4179,7 +4212,9 @@
     "priority": 1,
     "first_seen": "2026-06-20T20:31:33.385253-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "8ade9d518b8c42eb282a18b0f0bcef79": {
     "id": "8ade9d518b8c42eb282a18b0f0bcef79",
@@ -4197,7 +4232,9 @@
     "priority": 3,
     "first_seen": "2026-06-21T11:49:30.115329-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "b3c0d9aec56cf2f1764f463ba605eb12": {
     "id": "b3c0d9aec56cf2f1764f463ba605eb12",
@@ -4215,7 +4252,9 @@
     "priority": 1,
     "first_seen": "2026-06-21T11:49:31.590596-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "24872f746a279468be878389a2704f8c": {
     "id": "24872f746a279468be878389a2704f8c",
@@ -4233,7 +4272,9 @@
     "priority": 3,
     "first_seen": "2026-06-21T11:49:33.157815-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "00c771e63a8e06dcd863ded02da61b6c": {
     "id": "00c771e63a8e06dcd863ded02da61b6c",
@@ -4251,7 +4292,9 @@
     "priority": 3,
     "first_seen": "2026-06-21T11:49:34.689067-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "840bb174c77591feb6c77db497c0bb0c": {
     "id": "840bb174c77591feb6c77db497c0bb0c",
@@ -4269,7 +4312,9 @@
     "priority": 5,
     "first_seen": "2026-06-21T11:49:36.359188-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "a9baa78a3c19a8c3b6c0a5661e2fc6dd": {
     "id": "a9baa78a3c19a8c3b6c0a5661e2fc6dd",
@@ -4287,7 +4332,9 @@
     "priority": 3,
     "first_seen": "2026-06-22T04:22:11.520066-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T06:41:06.056958-07:00",
+    "dead_strikes": 0
   },
   "ec82d76e6a3a8a5d9fc578cd22eac80f": {
     "id": "ec82d76e6a3a8a5d9fc578cd22eac80f",
@@ -16059,6 +16106,114 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-31T16:50:36.027815-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "496252d119c60d3dd7f1cea79a8ea04a": {
+    "id": "496252d119c60d3dd7f1cea79a8ea04a",
+    "title": "UI/UX Artist",
+    "company": "Side",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1588126-remote-brazil-ui-ux-artist",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "5h",
+    "priority": 5,
+    "first_seen": "2026-09-01T06:42:06.872030-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "62926fecfe30572bf1c36bc5f775a1b2": {
+    "id": "62926fecfe30572bf1c36bc5f775a1b2",
+    "title": "UI/UX Designer",
+    "company": "C9Staff",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1588326-remote-philippines-ui-ux-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "6h",
+    "priority": 5,
+    "first_seen": "2026-09-01T06:42:08.554471-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "7c567aa6697c6575afb0f3a1f04d4d0b": {
+    "id": "7c567aa6697c6575afb0f3a1f04d4d0b",
+    "title": "UI/UX Designer",
+    "company": "SOSi",
+    "location": "Reston, VA",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1586826-ui-ux-designer-reston-va-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "7h",
+    "priority": 4,
+    "first_seen": "2026-09-01T06:42:10.433901-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "8e0d68ab00ce14cec79b6d2f3e5b57b8": {
+    "id": "8e0d68ab00ce14cec79b6d2f3e5b57b8",
+    "title": "Brand Designer",
+    "company": "Metaview",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/metaview/6d0422e3-5308-4416-8b7c-072e88d2440f",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-09-01T06:42:12.342241-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "f817dfe0c4b4ce40e08d12dd43207d46": {
+    "id": "f817dfe0c4b4ce40e08d12dd43207d46",
+    "title": "Founding Product Designer",
+    "company": "Listenlabs",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/listenlabs/a8d40c4f-2367-493e-bd41-f3987abb4d4b",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-09-01T06:42:14.276724-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "3c7896acae95f081c5c1f75d1aec98de": {
+    "id": "3c7896acae95f081c5c1f75d1aec98de",
+    "title": "Developer Relations",
+    "company": "Hcompany",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/hcompany/f2b05276-e448-477e-b807-2b6adeae3bd5",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-09-01T06:42:16.020275-07:00",
     "status": "active",
     "applied_at": null
   }

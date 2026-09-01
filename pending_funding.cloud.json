@@ -1,226 +1,244 @@
 [
   {
     "item": {
-      "company": "BrightAI",
-      "amount": "$51.0M",
-      "stage": "Series A",
-      "investors": "Khosla, Khosla Ventures, Inspired Capital",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/brightai-raises-51m-series-a/",
-      "priority": 11
-    },
-    "remind_at": "2026-09-01T02:07:38.265103-07:00"
-  },
-  {
-    "item": {
-      "company": "Oppex AI",
-      "amount": null,
+      "company": "DataAgent",
+      "amount": "$10.0M",
       "stage": "Pre-Seed",
-      "investors": "InfoEdge Ventures",
+      "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/oppex-ai-raises-4-2cr-pre-seed/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/01/dataagent-raises-10m-to-let-ai-fix-production-faults-inside-kubernetes-clusters/",
       "priority": 10
     },
-    "remind_at": "2026-09-01T02:07:41.250493-07:00"
+    "remind_at": "2026-09-01T07:12:37.296445-07:00"
   },
   {
     "item": {
-      "company": "Remedium Network",
+      "company": "Remedium",
       "amount": "$1.5M",
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/remedium-network-raises-1-5m-pre-seed/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWJuNUJiOFVlcG9ld2NDZUZlRGozb3ZTUTAwSDR3SWJKSnNwVTJIa2lWVzhRTk1GX0t1TWR3dXdpT0ZadGhQM1R6QnNjWUs5Q01JdGp0dVNkdFJ6b1o1eUllUUREZERYM3MySEVlelVCeVlwYzl4S0pwOC1zb0JiUzBKZ25KeGdiQVRsV19iS0hKUQ?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-09-01T02:07:47.161324-07:00"
+    "remind_at": "2026-09-01T07:12:40.287983-07:00"
   },
   {
     "item": {
-      "company": "Entity",
-      "amount": "$5.8M",
+      "company": "SciFin",
+      "amount": "$44.0M",
       "stage": "Seed",
-      "investors": null,
+      "investors": "Foundation Capital",
       "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/entity-raises-5-8m-seed/",
+      "founders": [
+        "Mohit Aron"
+      ],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/01/scifin-launches-with-44m-to-help-revenue-teams-close-the-context-gap/",
       "priority": 9
     },
-    "remind_at": "2026-09-01T02:07:50.160915-07:00"
+    "remind_at": "2026-09-01T07:12:43.189312-07:00"
   },
   {
     "item": {
-      "company": "Blue Voice",
-      "amount": "$6.0M",
+      "company": "Orchestra",
+      "amount": "$3.3M",
       "stage": "Seed",
-      "investors": null,
+      "investors": "Differential Ventures",
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/blue-voice-raises-6m-seed/",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/orchestra-raises-3-3m-10x-growth-differential-ventures/",
       "priority": 9
     },
-    "remind_at": "2026-09-01T02:07:56.579607-07:00"
+    "remind_at": "2026-09-01T07:12:46.062975-07:00"
   },
   {
     "item": {
-      "company": "xorlab",
+      "company": "Spacelab",
       "amount": null,
-      "stage": "Series A",
-      "investors": "Spicehaus Partners",
+      "stage": "Seed",
+      "investors": "Bluepoint Partners",
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/xorlab-raises-eur5m-series-a-extension/",
-      "priority": 8
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FVkxfTmpEcnFYbHYwYVYtN0ZMRFdacjZ6dGhtZ19rYzZ4eE9XYTZuVjJUS01ZZU0xQms2MDZhbzZwOWRHV0lDcXFsSWtyLUJGaGdB?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-09-01T02:07:59.740469-07:00"
+    "remind_at": "2026-09-01T07:12:48.935826-07:00"
   },
   {
     "item": {
-      "company": "MFast",
-      "amount": "$6.0M",
-      "stage": "Series A",
-      "investors": "Wavemaker Partners",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/mfast-raises-6m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-09-01T02:08:02.732668-07:00"
-  },
-  {
-    "item": {
-      "company": "Yuma Energy",
-      "amount": "$35.0M",
+      "company": "Zenergize Technologies",
+      "amount": "$4.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEZmNkVtSzJtV3ZtTUFEb2NMcVRNWTAtZlZMRlI5TEp4RGY3eDdnU2xFMURmbWJNMDZ6QnFKeUk5dkNZcnpUaG91T1UtdGxEZ0xBb09Wdk9xWnhibEpkU1lrck54eGV3MUV2X2dGT1o1QnBNeVo5bzJYR0kwbURVdG1yU3ZSeThqcVdMY2RYX2FCSFVtN1VuOHlMNTVhdjF3WXhoag?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUXl5NUJydmNMQ254NGNpS3NxOFl3bXdObTRyNnVwZ0dzQjYxWDhXVmtsMXVfMjVxSjFhaTJOVno3UkdVSlJFWUJhQk41ZlJrQnpseVFUWkFCVWoyT2xVc0M1a1dyb3B4NE9JaU44Und6cGJpZlh5aUtoRUp0dHI4R3B1M2NHWDF5TE9oQlQ3OXdFcWx6MmMwQ3FTSFhqUmt6ZnVxaUdUODlGbS1YZzZxR1laUURhcURZSjJwUzJaZ1Y1N2gyVDRReWdPX1N3ZzdFSWJr0gHTAUFVX3lxTE5ReXk1QnJ2Y0xDbng0Y2lLc3E4WXdtd05tNHI2dXBnR3NCNjFYOFdWa2wxdV8yNXFKMWFpMk5WejdSR1VKUkVZQmFCTjVmUmtCemx5UVRaQUJVajJPbFVzQzVrV3JvcHg0T0lpTjhSd3pwYmlmWHlpS2hFSnR0cjhHcHUzY0dYMXlMT2hCVDc5d0VxbHoyYzBDcVNIWGpSa3pmdXFpR1Q4OUZtLVhnNnFHWVpRRGFxRFlKMnBTMlpnVjU3aDJUNFF5Z09fU3dnN0VJYms?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-09-01T02:08:12.558068-07:00"
+    "remind_at": "2026-09-01T07:12:51.827231-07:00"
   },
   {
     "item": {
-      "company": "VAST",
-      "amount": null,
-      "stage": "Series B",
-      "investors": "Matrix Partners",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/vast-raises-3b-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-09-01T02:08:15.447237-07:00"
-  },
-  {
-    "item": {
-      "company": "Gridsight",
-      "amount": "$26.0M",
-      "stage": "Series B",
-      "investors": "Insight Partners",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/gridsight-raises-26m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-09-01T02:08:18.430479-07:00"
-  },
-  {
-    "item": {
-      "company": "China's VAST",
-      "amount": null,
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEpxVkt5aWExb2VMMklxZWlob0N4ckRCX0lmaWNlYUs3M0lHVERFRzlBWkxvUzA0SEpaeFdwT0tMclZ5WmZhdlcwVDRkbTVxcFZMYU9ZVDBKMHgyZVFTak9OQUlSS3RBUzg2eEJyNTAxeGRUSWZScFlUdDdudVE0RW9TY2ZjNDY0ZlppWGVyTUJmRFFReUVXUlFqYkpwNTFNY051SA?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-09-01T02:08:24.137259-07:00"
-  },
-  {
-    "item": {
-      "company": "Scan.com",
-      "amount": "$220.0M",
-      "stage": "Series C",
-      "investors": "Noteus Partners",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/scan-com-raises-220m-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-09-01T02:08:26.995157-07:00"
-  },
-  {
-    "item": {
-      "company": "Paytner",
-      "amount": null,
-      "stage": "Series D",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/paytner-co-ltd-raises-2-3b-series-d/",
-      "priority": 5
-    },
-    "remind_at": "2026-09-01T02:08:30.817109-07:00"
-  },
-  {
-    "item": {
-      "company": "EarnIn",
-      "amount": "$75.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/earnin-raises-75m-debt-financing/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-01T02:08:33.771439-07:00"
-  },
-  {
-    "item": {
-      "company": "Happy Smile",
-      "amount": null,
-      "stage": null,
-      "investors": "Innovation Creation Support Fund",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/happy-smile-raises-funding-round/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-01T02:08:39.485914-07:00"
-  },
-  {
-    "item": {
-      "company": "Yuma Energy",
+      "company": "Proptech Funding Holds Up",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXRvZFBCUVVxY2t3S2FKTnBnQ1VpZnVUQ3VfaU1OWFNPV3hzM1gxWUtUbjhmT01Qc0FGZ2J0clVrZlZRQ2hxYU1HMWM3bl9mMDk0Z3VwWUR4aWJXSzdmcUwtSFVzS1RLSkhjWG5DUUtwSVNkMmZHaTJ2T3FPQnpfMlNJbGpXMnVNM3BsWjI2bUFMV1ZHdWM1RkltbGI5V2xlSDdSNzltSDA5N25hVnfSAa4BQVVfeXFMTnl0b2RQQlFVcWNrd0thSk5wZ0NVaWZ1VEN1X2lNTlhTT1d4czNYMVlLVG44Zk9NUHNBRmdidHJVa2ZWUUNocWFNRzFjN25fZjA5NGd1cFlEeGliV0s3ZnFMLUhVc0tUS0pIY1huQ1FLcElTZDJmR2kydk9xT0J6XzJTSWxqVzJ1TTNwbFoyNm1BTFdWR3VjNUZJbWxiOVdsZUg3Ujc5bUgwOTduYVZ3?oc=5",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/proptech-funding-holds-exits-ipo-ai-green-steel-2026/",
       "priority": 3
     },
-    "remind_at": "2026-09-01T02:08:45.256996-07:00"
+    "remind_at": "2026-09-01T07:12:57.755481-07:00"
+  },
+  {
+    "item": {
+      "company": "Nvidia CEO Jensen Huang",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/01/nvidia-ceo-jensen-huang-ai-will-create-hundreds-of-thousands-of-jobs-skilled-trade-workers-data-centers/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T07:13:18.108865-07:00"
+  },
+  {
+    "item": {
+      "company": "Apple",
+      "amount": "$6.4B",
+      "stage": null,
+      "investors": null,
+      "location": "San Francisco",
+      "founders": [
+        "Sam Altman"
+      ],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/01/apple-openai-lawsuit-ai-gpt-devices",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T07:13:20.940677-07:00"
+  },
+  {
+    "item": {
+      "company": "Polymarket",
+      "amount": "$300.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/polymarket-lands-300m-from-trump-jr-linked-1789-capital-at-21b-valuation/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T07:13:23.789780-07:00"
+  },
+  {
+    "item": {
+      "company": "INLEAP Photonics",
+      "amount": null,
+      "stage": null,
+      "investors": "UVC Partners",
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/inleap-photonics-raises-20m-eye-safe-anti-drone-lasers/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T07:13:35.792182-07:00"
+  },
+  {
+    "item": {
+      "company": "Nscale",
+      "amount": "$3.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/nscale-closes-3b-debt-package-to-power-ai-infrastructure-buildout-across-the-us/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T07:13:38.657548-07:00"
+  },
+  {
+    "item": {
+      "company": "Premia",
+      "amount": "$5.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/premia-raises-r5m-first-investment/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T07:13:41.720088-07:00"
+  },
+  {
+    "item": {
+      "company": "Vultus",
+      "amount": "$8.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/vultus-raises-r-8m-unknown/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T07:13:44.746335-07:00"
+  },
+  {
+    "item": {
+      "company": "SweetAg",
+      "amount": "$7.4M",
+      "stage": null,
+      "investors": "Cooperative Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/sweetag-raises-7-4m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T07:13:47.734875-07:00"
+  },
+  {
+    "item": {
+      "company": "Attentive Mobile",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUjhpU05FZk1OWXJYdGJxSERjVkhfdV9ILXczeV9Ga3dXdVpFWlRlYzVpeVhjSWU2YU5jR285eS0tSmR4aks0MFd5enUwa1prM25lanJhX2o5SzNET2FUUFcwVk5iT2ZjcmtVSHU5V093aUxveUZ3b0VmUXhqLXVQSHN0ajlrN0pwWnV3em0xNW8xLThWb0h0emY3dkZjWlU1LWRURlpvaFVoc1ViVjRBc0t4cjF0dw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T07:13:53.168560-07:00"
+  },
+  {
+    "item": {
+      "company": "MemeBitcoin",
+      "amount": "$8.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkF3bnNEWE9CX1NnVXZfd1VDMUJTN3NqN1lNejBiN1ZFdnRfN0syZ2tnWDRrUVlnQTFRLW8wbnRrV1hKVllKXy1WT1dmakE3SjBYbUNoaU5RLWJXZzlQc2NERXh2Vko1S0RQM3pCR1Jucm44WFoyNE1fcGhCb3czWUItbEdJZVpZRk5YOVpWSURhbl9LZW94Z1lGc3A3Q00?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T07:13:56.008379-07:00"
   }
 ]
