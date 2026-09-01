@@ -1,5 +1,20 @@
 [
   {
+    "id": "fd1bb5cfc9f6541a1e23d8050fc0af17",
+    "company": "IKEA",
+    "amount": "$1.4B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/01/ikea-1-4-billion-lower-prices-target-walmart/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-01T13:03:48.021635-07:00",
+    "status": "active"
+  },
+  {
     "id": "31618699065c33fde9c22f024057604e",
     "company": "Israel's AIR",
     "amount": "$50.0M",
@@ -11072,51 +11087,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-01T14:38:33.096250-07:00",
-    "status": "active"
-  },
-  {
-    "id": "2a6384b535cae83f66221f4f098232f3",
-    "company": "plans",
-    "amount": "$19.0M",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMW0zU1pjN0NZRkFpS1B0cXN3UEREQjRPMWNMRlFiUVhDa0dtYVpMeE4yTy1ZQTk1SWMwdDFVcUhZck1pUTBkOUk0S2J2djF0bEMtS1R6a3U2Y2NJSXhQQmhxeGpRTVFfOEpHLTN5czRUbG5uc2NOOE15ajhrNEN5X19Rc0I2UmRRbDBXZmV1aEpjWU5kMkZrVVpfVHQzSDlKS05LTXhxRjFhMnVuMTM4YzlHYUszTlEzNXdaaQ?oc=5",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-01T11:40:21.631043-07:00",
-    "status": "active"
-  },
-  {
-    "id": "95384948b5352f3477201923c333060b",
-    "company": "Intropy",
-    "amount": "Undisclosed",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGw5TUZSdnd2WWJBS283VExtVUZLRWNfLTFwQ2lveU1jUG9DdG1aVDgxV0xkaWpIdWgzdFhjNFJ3c1dKSm5DdzFLREoyUElBbHNkTVhBLWlxRjQ2OVc4TURDcXlkSmhCVE5kWjl5Y2stZlpabzJ4VzBwUkh2eklGUWZjamdDS2xIQjUtcUNjSXBNbzc3Q0xNUnFMem5tdWZ6QXR0dlNKbVg?oc=5",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-01T10:34:00.727491-07:00",
-    "status": "active"
-  },
-  {
-    "id": "2528f4372a07824be3d27693af862502",
-    "company": "UNX",
-    "amount": "Undisclosed",
-    "stage": "Seed",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54QVRubEpTVlJfeGtyN2t1R2tkZGRHU2pORXhCT29PUlkwOG1WUlVaVDBnQ3lYQ2NPWEw3MUcwWkVuSkNxTlV4aGxxaGJHUnU0OXBN?oc=5",
-    "priority": 9,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-01T10:33:58.524728-07:00",
     "status": "active"
   }
 ]

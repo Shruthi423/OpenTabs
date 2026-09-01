@@ -1,142 +1,16 @@
 [
   {
     "item": {
-      "company": "F\u00e9lix",
-      "amount": "$200.0M",
-      "stage": "Series C",
-      "investors": "Andreessen Horowitz and General Catalyst",
-      "location": "Miami",
-      "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-01T10:58:22.716439-07:00"
-  },
-  {
-    "item": {
-      "company": "Guickly",
-      "amount": "$4.2M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGF4SHkzUUs2ZEFuRHhTZHpiRUJlaGxzR1Zub1B2N3IxM010T2FoaGczNk5WN1p1TERUaGFMOFR6bDY4MnFuTkN1LWo1ZHV2cHhEeE9pWHI2eXNERFE5bV9DVml4RzlwdkJwMXBheHJRZkdrZ3FWRGpjTGU1SWJONmVvNzFKWWt2cGRxUHJaR2hVdGJhOURQRmM0bUE0NWVu?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-09-01T10:58:27.764834-07:00"
-  },
-  {
-    "item": {
-      "company": "Light",
-      "amount": "$46.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": "Austin",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/01/plaid-alums-energy-startup-light-raises-46m-to-make-electricity-an-embedded-service/",
-      "priority": 8
-    },
-    "remind_at": "2026-09-01T10:58:30.637218-07:00"
-  },
-  {
-    "item": {
-      "company": "Felix Pago",
-      "amount": "$200.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOFdfcVhndEx5ck1vQjVxWFhKVnJ5dC1uLUhsdGU4Sll4eElVTzhEdEd3azR0aXV2a2xUMkNLZTRIZ3QzVkRibXBLNHdLam84VUJHOUVBWWhkQnNaTnFJdW44dHFKSXpweUZzTnZnaHBLRmZnQnRyQ29HdnREUFpKYV9RZkFWeVk?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-09-01T10:58:36.435099-07:00"
-  },
-  {
-    "item": {
-      "company": "Sequoia-Backed Empirik",
-      "amount": "$21.0M",
-      "stage": null,
-      "investors": "Sequoia",
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQWVqZDFtZDRtdXd2OVJZRzRucTg5Q256QVlLeHE3a0dQenFQT3VuTnUyc2JaVlFvWjlYYlpGaGVXRTZJU0Z5Ml9WLWZYWHFmWWhhSWJjNHZwWnVYbmw4TzZBdWxGMDFwZ1g0YlNodVRqSGM1NGk5OHpwbnVBa0JQSnUtbi1nQW41aTIzbXBqNTAtbU9oR28ta1V6QlgzV0tZNF95TzBsblhwb0dDa240bnFCWGh3bUpuUTloVU5xVXpQdHhMMjZKVGl4MENZVkdUc2RJNlFXSjhoWTF3ekE?oc=5",
-      "priority": 6
-    },
-    "remind_at": "2026-09-01T10:58:42.317901-07:00"
-  },
-  {
-    "item": {
-      "company": "AIR",
-      "amount": "$50.0M",
+      "company": "IKEA",
+      "amount": "$1.4B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/01/ikea-1-4-billion-lower-prices-target-walmart/",
       "priority": 3
     },
-    "remind_at": "2026-09-01T10:58:55.978087-07:00"
-  },
-  {
-    "item": {
-      "company": "Phonely",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/01/phonely-launches-alma-a-voice-ai-model-trained-on-over-10-million-phone-conversations/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-01T10:59:03.857625-07:00"
-  },
-  {
-    "item": {
-      "company": "Aranya",
-      "amount": "$11.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/01/aranya-raises-11m-to-turn-bare-metal-servers-into-ai-clusters-in-less-than-48-hours/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-01T10:59:06.814741-07:00"
-  },
-  {
-    "item": {
-      "company": "Six-month-old AIR Security",
-      "amount": "$50.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lVFlrNmF0ZjJRS0FQRlNiaElMNHkzdXZyUldUOGxjanZHY1lYenpOSGNHd2cwNlBSSlcwejlLN0RsWHJ2clpXOGZSWTdJZkcteE9GUmVRVG9NZ2UtWEl6UGNtbEd5NzlW?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-01T10:59:30.402838-07:00"
-  },
-  {
-    "item": {
-      "company": "Israel's AIR",
-      "amount": "$50.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQm1CVW9zZEdxcFBFWHhGb2tjb0lQV01BVHIxb3hHVS1fdV9XYTRlMFhrMGZEUjNXVlJxMng1WWdxNGltMkRaSWJ1N0V0VUZRa1hCQU51WERjV2V0RTdQcERleWEyUkNjM3NkbUduZEppeHVmVFoxanRiNU1Iakx0dDVjb01CVE5aaWJuWlNSUUdST1hXTlRWMHlYY2FnY2c4c3dDTGVBbjI3UjRfazgxRjcwS1pLdGNLNHBRcUNIbTh6V0k2aGNNRUFEMXpPcnJaVHRtU3pTSQ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-01T10:59:36.276879-07:00"
+    "remind_at": "2026-09-01T13:33:47.021469-07:00"
   }
 ]

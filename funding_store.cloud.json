@@ -52496,5 +52496,20 @@
     "roles": [],
     "first_seen": "2026-09-01T10:29:37.277033-07:00",
     "status": "active"
+  },
+  "fd1bb5cfc9f6541a1e23d8050fc0af17": {
+    "id": "fd1bb5cfc9f6541a1e23d8050fc0af17",
+    "company": "IKEA",
+    "amount": "$1.4B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/01/ikea-1-4-billion-lower-prices-target-walmart/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-01T13:03:48.021635-07:00",
+    "status": "active"
   }
 }
