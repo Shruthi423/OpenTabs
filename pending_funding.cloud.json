@@ -1,58 +1,44 @@
 [
   {
     "item": {
-      "company": "Andreessen Horowitz",
-      "amount": "$1.75B",
-      "stage": null,
-      "investors": "Andreessen Horowitz, Fifth Growth Fund",
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUNaRGxWODVtaDBhcWVRWVB5c25obDR4UjlxcXFoM3lmYTdfejRJY0hzMkRZRVc2Tm85SzJkLVhWNGJHY1Q0M0gxemNSTGJnUWdnZEg1ci1FQkxrNDRTRU9Fb1JpVWMzbUtuNFRFaWdzY1ZWQ0xyOW1GODJOMWpSbXZINTRzXzNUbUNBZ3NxdXdhcGJZT2Zlem5lT2RIZ2w0TjZwRlBWZ0ZtUmlORUE?oc=5",
-      "priority": 6
-    },
-    "remind_at": "2026-08-31T17:21:04.307674-07:00"
-  },
-  {
-    "item": {
-      "company": "OpenAI",
-      "amount": "$1.0B",
-      "stage": null,
+      "company": "Diffraqtion Adds",
+      "amount": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/31/openai-says-its-ad-business-has-already-hit-1b-in-annualized-revenue/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVGJWZDVNREE4c09ocExtbGNVUlNtVVVtcnVPc0FNRlVKY0EtLTZ6RFNRbDBOSi1xRXVUdE44WUpRZm9DS2d4YWwxZF9GbXVobHJXOWN3NVFNT1ZCRnFNTl9mMDBOTlJ0TzVqczhJaGZINjlDR3FTd1JaU2JjTjlvdEVyNDZ6dWd3YzZXSA?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-08-31T17:21:07.792395-07:00"
+    "remind_at": "2026-08-31T20:35:42.566700-07:00"
   },
   {
     "item": {
-      "company": "Nvidia",
-      "amount": "$3.5B",
-      "stage": null,
+      "company": "Insera Solutions",
+      "amount": "$9.9M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/08/31/nvidia-invests-3-5b-in-mediatek-as-part-of-expanded-ai-chip-partnership/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVZ1TXNDQzdRa28zOWx0ZmVDaDVJSVVGTndFYXZZazNIa3Bhc2JweXNzWWJ6RVlyNlNEZDJPLUhEUTM3SjZNS0FjUDBRelRCb3dObFhpLTNuQ0tsNExpU3BrM0hZcDlyeDVhUFRQRm5aZGgtZ1NtSjdNeV85NGg2WDktTS1CbUFVcDRCZUxVV3lOZV9pcXFraEdLQ1NBSXJY?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-31T17:21:10.861001-07:00"
+    "remind_at": "2026-08-31T20:35:48.184411-07:00"
   },
   {
     "item": {
-      "company": "fomo Acquires Mobula",
-      "amount": "$17.0M",
-      "stage": null,
-      "investors": "In-House Amid Explosive Growth",
-      "location": "New York",
+      "company": "Zenergize",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
       "founders": [],
-      "source": "AlleyWatch",
-      "url": "https://www.alleywatch.com/2026/08/fomo-acquisition-mobula-on-chain-data-crypto-trading-infrastructure-web3-price/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWmJRMmlBejItaTNnV1NIZTNfT2thc1Mzd3Zmc3lMVzk5eERmNkVLbWYtWVFiM0dDMUtZaEI4Qy1OWFpnN2NLTnl1SzZtVVVZSV9HQTUzbFFHNWwwSUlZaElaMUJVOERuN1hnbnFkcXNpTFA0T1VCeHN0WTRteGsxRE53NDdRejJiZGFHYmZUY1N3V0N0VXhjQnc3R19KbGZCRUNMeVBfUlZrRXZERlY0cW1Xbm1hQ3VvZWlwV1pWTWlSTV90XzVMQ1J4cUZia3F5LXg2S0YtYy1kZ19KRk1R0gHkAUFVX3lxTE5jaDZNb3YwZi1pYzNwNkhmSlN6ZnBvcElONDFwVVhIcmFHUk5WUXpEMng1ZDI5VURnZUdWQ2trUzU4WDdsejFWdTdfVEUxR3RHVEdsVmZVYTBVUXc2dmQyS3hFUkFlWDUxbWtHUEY1UUtMbTVFcVktMGQ1bTZsb2UzSkRDZnpMRVVjamp6YjV5ME5YVWYyOFQ5Z20taFRCSUJpUGVWY3N6VU9TOHI1SUp0cElQeTJxeExoVTBYb2ZvcDVqa1M3N0x0a01Pek1FX0hROVRFTjFfMnp5Y2NfSF9EdGJVUg?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-08-31T17:21:26.760302-07:00"
+    "remind_at": "2026-08-31T20:35:51.031798-07:00"
   }
 ]
