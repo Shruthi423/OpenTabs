@@ -1,16 +1,58 @@
 [
   {
     "item": {
-      "company": "IKEA",
-      "amount": "$1.4B",
+      "company": "Sequoia Spinout Empirik",
+      "amount": "$21.0M",
+      "stage": null,
+      "investors": "Sequoia",
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ2ZCUnVzMFpNeF9FMFFHa3FJTmpVbHlUSHZ0S3JLd0piSjV2ZmxrbGFPRnFtdnF4RkJYWm1YaHd0a21nTnVZMVN0ekcyVWhWemdXR2lBaE41UUE0bllDMGFXWmdKMjM1TUJtay11dFFhbGlVeEdlOHVoQVc2dW9CWC11ZHNLbF8wMXJ4aFdNdVIyM3ZveTNhRllDcVNCMzYydnJfbFIwLW11NjlLT25TdDQtRE1wQkRLNmtBUmtpbC05TlFpWWREMUxR?oc=5",
+      "priority": 6
+    },
+    "remind_at": "2026-09-01T16:07:23.455683-07:00"
+  },
+  {
+    "item": {
+      "company": "Chevron",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/09/01/ikea-1-4-billion-lower-prices-target-walmart/",
+      "url": "https://fortune.com/2026/09/01/chevron-venezuela-oil-trump-65-billion-barrels/",
       "priority": 3
     },
-    "remind_at": "2026-09-01T13:33:47.021469-07:00"
+    "remind_at": "2026-09-01T16:07:26.381626-07:00"
+  },
+  {
+    "item": {
+      "company": "HiBob",
+      "amount": "$166.0M",
+      "stage": null,
+      "investors": "Farallon Capital",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/01/hr-software-startup-hibob-raises-166m-after-annualized-revenue-tops-400m/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T16:07:30.520000-07:00"
+  },
+  {
+    "item": {
+      "company": "Anthropic",
+      "amount": "$35.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/01/anthropic-launches-claude-fable-5-1-inking-35b-cloud-deal-with-lambda/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T16:07:33.540312-07:00"
   }
 ]
