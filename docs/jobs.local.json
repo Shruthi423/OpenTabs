@@ -1,5 +1,39 @@
 [
   {
+    "id": "a549e37afd73087f938cb1889ce6460a",
+    "title": "User Experience Design Apprenticeship, February 2027 Start",
+    "company": "Google",
+    "location": "New York, NY, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=0065908c0da1f527",
+    "source": "Indeed",
+    "is_new_grad": true,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "posted_at": "2026-08-31",
+    "priority": 3,
+    "first_seen": "2026-09-01T14:26:22.145939-07:00",
+    "status": "active"
+  },
+  {
+    "id": "32c092cee7b0cbdea96718b3329373f8",
+    "title": "Graphic Artist With UI/UX Experience",
+    "company": "Scientific Research Corporation",
+    "location": "North Charleston, SC",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4460091874",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-01T14:26:20.373715-07:00",
+    "status": "active"
+  },
+  {
     "id": "cd8637b865787b85cbc792da7c753955",
     "title": "User Experience Designer",
     "company": "Charles Schwab",
@@ -33436,23 +33470,6 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-01T14:36:08.154429-07:00",
-    "status": "active"
-  },
-  {
-    "id": "e2b00bcd73e7e903a62db0e21d67b001",
-    "title": "UI Engineer - AI Trainer",
-    "company": "DataAnnotation",
-    "location": "Washington, DC",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4309806001",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "visa": null,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-01T14:17:11.463859-07:00",
     "status": "active"
   }
 ]
