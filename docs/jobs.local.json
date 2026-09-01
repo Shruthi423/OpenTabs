@@ -1,5 +1,22 @@
 [
   {
+    "id": "38306fab02cd1a474d2291ce734ddc3d",
+    "title": "UX Researcher",
+    "company": "Cloudious LLC",
+    "location": "San Jose, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4462076155",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 2,
+    "first_seen": "2026-09-01T15:37:50.002947-07:00",
+    "status": "active"
+  },
+  {
     "id": "0d5e1f7bd19790233550580d678d2926",
     "title": "UI/UX Designer",
     "company": "Blockchain council",
@@ -31,23 +48,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T15:09:55.286597-07:00",
-    "status": "active"
-  },
-  {
-    "id": "14be9fd172df998fa6755bdd22351b34",
-    "title": "ServiceNow Developer",
-    "company": "Cloudwave Inc",
-    "location": "Tysons Corner, VA, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=b285de4226bf10b2",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "visa": null,
-    "founders": [],
-    "posted_at": "2026-09-01",
-    "priority": 4,
-    "first_seen": "2026-09-01T15:09:53.342556-07:00",
     "status": "active"
   },
   {
