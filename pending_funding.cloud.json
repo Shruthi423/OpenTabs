@@ -1,244 +1,142 @@
 [
   {
     "item": {
-      "company": "DataAgent",
-      "amount": "$10.0M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/01/dataagent-raises-10m-to-let-ai-fix-production-faults-inside-kubernetes-clusters/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-01T07:12:37.296445-07:00"
-  },
-  {
-    "item": {
-      "company": "Remedium",
-      "amount": "$1.5M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWJuNUJiOFVlcG9ld2NDZUZlRGozb3ZTUTAwSDR3SWJKSnNwVTJIa2lWVzhRTk1GX0t1TWR3dXdpT0ZadGhQM1R6QnNjWUs5Q01JdGp0dVNkdFJ6b1o1eUllUUREZERYM3MySEVlelVCeVlwYzl4S0pwOC1zb0JiUzBKZ25KeGdiQVRsV19iS0hKUQ?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-09-01T07:12:40.287983-07:00"
-  },
-  {
-    "item": {
-      "company": "SciFin",
-      "amount": "$44.0M",
-      "stage": "Seed",
-      "investors": "Foundation Capital",
-      "location": null,
-      "founders": [
-        "Mohit Aron"
-      ],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/01/scifin-launches-with-44m-to-help-revenue-teams-close-the-context-gap/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-01T07:12:43.189312-07:00"
-  },
-  {
-    "item": {
-      "company": "Orchestra",
-      "amount": "$3.3M",
-      "stage": "Seed",
-      "investors": "Differential Ventures",
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/orchestra-raises-3-3m-10x-growth-differential-ventures/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-01T07:12:46.062975-07:00"
-  },
-  {
-    "item": {
-      "company": "Spacelab",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "Bluepoint Partners",
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FVkxfTmpEcnFYbHYwYVYtN0ZMRFdacjZ6dGhtZ19rYzZ4eE9XYTZuVjJUS01ZZU0xQms2MDZhbzZwOWRHV0lDcXFsSWtyLUJGaGdB?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-09-01T07:12:48.935826-07:00"
-  },
-  {
-    "item": {
-      "company": "Zenergize Technologies",
-      "amount": "$4.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUXl5NUJydmNMQ254NGNpS3NxOFl3bXdObTRyNnVwZ0dzQjYxWDhXVmtsMXVfMjVxSjFhaTJOVno3UkdVSlJFWUJhQk41ZlJrQnpseVFUWkFCVWoyT2xVc0M1a1dyb3B4NE9JaU44Und6cGJpZlh5aUtoRUp0dHI4R3B1M2NHWDF5TE9oQlQ3OXdFcWx6MmMwQ3FTSFhqUmt6ZnVxaUdUODlGbS1YZzZxR1laUURhcURZSjJwUzJaZ1Y1N2gyVDRReWdPX1N3ZzdFSWJr0gHTAUFVX3lxTE5ReXk1QnJ2Y0xDbng0Y2lLc3E4WXdtd05tNHI2dXBnR3NCNjFYOFdWa2wxdV8yNXFKMWFpMk5WejdSR1VKUkVZQmFCTjVmUmtCemx5UVRaQUJVajJPbFVzQzVrV3JvcHg0T0lpTjhSd3pwYmlmWHlpS2hFSnR0cjhHcHUzY0dYMXlMT2hCVDc5d0VxbHoyYzBDcVNIWGpSa3pmdXFpR1Q4OUZtLVhnNnFHWVpRRGFxRFlKMnBTMlpnVjU3aDJUNFF5Z09fU3dnN0VJYms?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-09-01T07:12:51.827231-07:00"
-  },
-  {
-    "item": {
-      "company": "Proptech Funding Holds Up",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
+      "company": "F\u00e9lix",
+      "amount": "$200.0M",
+      "stage": "Series C",
+      "investors": "Andreessen Horowitz and General Catalyst",
+      "location": "Miami",
       "founders": [],
       "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/proptech-funding-holds-exits-ipo-ai-green-steel-2026/",
-      "priority": 3
+      "url": "https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst/",
+      "priority": 9
     },
-    "remind_at": "2026-09-01T07:12:57.755481-07:00"
+    "remind_at": "2026-09-01T10:58:22.716439-07:00"
   },
   {
     "item": {
-      "company": "Nvidia CEO Jensen Huang",
+      "company": "Guickly",
+      "amount": "$4.2M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGF4SHkzUUs2ZEFuRHhTZHpiRUJlaGxzR1Zub1B2N3IxM010T2FoaGczNk5WN1p1TERUaGFMOFR6bDY4MnFuTkN1LWo1ZHV2cHhEeE9pWHI2eXNERFE5bV9DVml4RzlwdkJwMXBheHJRZkdrZ3FWRGpjTGU1SWJONmVvNzFKWWt2cGRxUHJaR2hVdGJhOURQRmM0bUE0NWVu?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-01T10:58:27.764834-07:00"
+  },
+  {
+    "item": {
+      "company": "Light",
+      "amount": "$46.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": "Austin",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/09/01/plaid-alums-energy-startup-light-raises-46m-to-make-electricity-an-embedded-service/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-01T10:58:30.637218-07:00"
+  },
+  {
+    "item": {
+      "company": "Felix Pago",
+      "amount": "$200.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOFdfcVhndEx5ck1vQjVxWFhKVnJ5dC1uLUhsdGU4Sll4eElVTzhEdEd3azR0aXV2a2xUMkNLZTRIZ3QzVkRibXBLNHdLam84VUJHOUVBWWhkQnNaTnFJdW44dHFKSXpweUZzTnZnaHBLRmZnQnRyQ29HdnREUFpKYV9RZkFWeVk?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-09-01T10:58:36.435099-07:00"
+  },
+  {
+    "item": {
+      "company": "Sequoia-Backed Empirik",
+      "amount": "$21.0M",
+      "stage": null,
+      "investors": "Sequoia",
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQWVqZDFtZDRtdXd2OVJZRzRucTg5Q256QVlLeHE3a0dQenFQT3VuTnUyc2JaVlFvWjlYYlpGaGVXRTZJU0Z5Ml9WLWZYWHFmWWhhSWJjNHZwWnVYbmw4TzZBdWxGMDFwZ1g0YlNodVRqSGM1NGk5OHpwbnVBa0JQSnUtbi1nQW41aTIzbXBqNTAtbU9oR28ta1V6QlgzV0tZNF95TzBsblhwb0dDa240bnFCWGh3bUpuUTloVU5xVXpQdHhMMjZKVGl4MENZVkdUc2RJNlFXSjhoWTF3ekE?oc=5",
+      "priority": 6
+    },
+    "remind_at": "2026-09-01T10:58:42.317901-07:00"
+  },
+  {
+    "item": {
+      "company": "AIR",
+      "amount": "$50.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T10:58:55.978087-07:00"
+  },
+  {
+    "item": {
+      "company": "Phonely",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/01/nvidia-ceo-jensen-huang-ai-will-create-hundreds-of-thousands-of-jobs-skilled-trade-workers-data-centers/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/01/phonely-launches-alma-a-voice-ai-model-trained-on-over-10-million-phone-conversations/",
       "priority": 3
     },
-    "remind_at": "2026-09-01T07:13:18.108865-07:00"
+    "remind_at": "2026-09-01T10:59:03.857625-07:00"
   },
   {
     "item": {
-      "company": "Apple",
-      "amount": "$6.4B",
-      "stage": null,
-      "investors": null,
-      "location": "San Francisco",
-      "founders": [
-        "Sam Altman"
-      ],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/01/apple-openai-lawsuit-ai-gpt-devices",
-      "priority": 3
-    },
-    "remind_at": "2026-09-01T07:13:20.940677-07:00"
-  },
-  {
-    "item": {
-      "company": "Polymarket",
-      "amount": "$300.0M",
+      "company": "Aranya",
+      "amount": "$11.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/polymarket-lands-300m-from-trump-jr-linked-1789-capital-at-21b-valuation/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/01/aranya-raises-11m-to-turn-bare-metal-servers-into-ai-clusters-in-less-than-48-hours/",
       "priority": 3
     },
-    "remind_at": "2026-09-01T07:13:23.789780-07:00"
+    "remind_at": "2026-09-01T10:59:06.814741-07:00"
   },
   {
     "item": {
-      "company": "INLEAP Photonics",
-      "amount": null,
-      "stage": null,
-      "investors": "UVC Partners",
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/inleap-photonics-raises-20m-eye-safe-anti-drone-lasers/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-01T07:13:35.792182-07:00"
-  },
-  {
-    "item": {
-      "company": "Nscale",
-      "amount": "$3.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/nscale-closes-3b-debt-package-to-power-ai-infrastructure-buildout-across-the-us/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-01T07:13:38.657548-07:00"
-  },
-  {
-    "item": {
-      "company": "Premia",
-      "amount": "$5.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/premia-raises-r5m-first-investment/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-01T07:13:41.720088-07:00"
-  },
-  {
-    "item": {
-      "company": "Vultus",
-      "amount": "$8.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/vultus-raises-r-8m-unknown/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-01T07:13:44.746335-07:00"
-  },
-  {
-    "item": {
-      "company": "SweetAg",
-      "amount": "$7.4M",
-      "stage": null,
-      "investors": "Cooperative Ventures",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sweetag-raises-7-4m-other/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-01T07:13:47.734875-07:00"
-  },
-  {
-    "item": {
-      "company": "Attentive Mobile",
-      "amount": null,
+      "company": "Six-month-old AIR Security",
+      "amount": "$50.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUjhpU05FZk1OWXJYdGJxSERjVkhfdV9ILXczeV9Ga3dXdVpFWlRlYzVpeVhjSWU2YU5jR285eS0tSmR4aks0MFd5enUwa1prM25lanJhX2o5SzNET2FUUFcwVk5iT2ZjcmtVSHU5V093aUxveUZ3b0VmUXhqLXVQSHN0ajlrN0pwWnV3em0xNW8xLThWb0h0emY3dkZjWlU1LWRURlpvaFVoc1ViVjRBc0t4cjF0dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lVFlrNmF0ZjJRS0FQRlNiaElMNHkzdXZyUldUOGxjanZHY1lYenpOSGNHd2cwNlBSSlcwejlLN0RsWHJ2clpXOGZSWTdJZkcteE9GUmVRVG9NZ2UtWEl6UGNtbEd5NzlW?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-09-01T07:13:53.168560-07:00"
+    "remind_at": "2026-09-01T10:59:30.402838-07:00"
   },
   {
     "item": {
-      "company": "MemeBitcoin",
-      "amount": "$8.0M",
+      "company": "Israel's AIR",
+      "amount": "$50.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkF3bnNEWE9CX1NnVXZfd1VDMUJTN3NqN1lNejBiN1ZFdnRfN0syZ2tnWDRrUVlnQTFRLW8wbnRrV1hKVllKXy1WT1dmakE3SjBYbUNoaU5RLWJXZzlQc2NERXh2Vko1S0RQM3pCR1Jucm44WFoyNE1fcGhCb3czWUItbEdJZVpZRk5YOVpWSURhbl9LZW94Z1lGc3A3Q00?oc=5",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQm1CVW9zZEdxcFBFWHhGb2tjb0lQV01BVHIxb3hHVS1fdV9XYTRlMFhrMGZEUjNXVlJxMng1WWdxNGltMkRaSWJ1N0V0VUZRa1hCQU51WERjV2V0RTdQcERleWEyUkNjM3NkbUduZEppeHVmVFoxanRiNU1Iakx0dDVjb01CVE5aaWJuWlNSUUdST1hXTlRWMHlYY2FnY2c4c3dDTGVBbjI3UjRfazgxRjcwS1pLdGNLNHBRcUNIbTh6V0k2aGNNRUFEMXpPcnJaVHRtU3pTSQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-09-01T07:13:56.008379-07:00"
+    "remind_at": "2026-09-01T10:59:36.276879-07:00"
   }
 ]
