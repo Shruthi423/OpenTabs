@@ -1,44 +1,226 @@
 [
   {
     "item": {
-      "company": "Diffraqtion Adds",
+      "company": "BrightAI",
+      "amount": "$51.0M",
+      "stage": "Series A",
+      "investors": "Khosla, Khosla Ventures, Inspired Capital",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/brightai-raises-51m-series-a/",
+      "priority": 11
+    },
+    "remind_at": "2026-09-01T02:07:38.265103-07:00"
+  },
+  {
+    "item": {
+      "company": "Oppex AI",
       "amount": null,
+      "stage": "Pre-Seed",
+      "investors": "InfoEdge Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/oppex-ai-raises-4-2cr-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-09-01T02:07:41.250493-07:00"
+  },
+  {
+    "item": {
+      "company": "Remedium Network",
+      "amount": "$1.5M",
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVGJWZDVNREE4c09ocExtbGNVUlNtVVVtcnVPc0FNRlVKY0EtLTZ6RFNRbDBOSi1xRXVUdE44WUpRZm9DS2d4YWwxZF9GbXVobHJXOWN3NVFNT1ZCRnFNTl9mMDBOTlJ0TzVqczhJaGZINjlDR3FTd1JaU2JjTjlvdEVyNDZ6dWd3YzZXSA?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/remedium-network-raises-1-5m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-08-31T20:35:42.566700-07:00"
+    "remind_at": "2026-09-01T02:07:47.161324-07:00"
   },
   {
     "item": {
-      "company": "Insera Solutions",
-      "amount": "$9.9M",
-      "stage": "Series A",
+      "company": "Entity",
+      "amount": "$5.8M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVZ1TXNDQzdRa28zOWx0ZmVDaDVJSVVGTndFYXZZazNIa3Bhc2JweXNzWWJ6RVlyNlNEZDJPLUhEUTM3SjZNS0FjUDBRelRCb3dObFhpLTNuQ0tsNExpU3BrM0hZcDlyeDVhUFRQRm5aZGgtZ1NtSjdNeV85NGg2WDktTS1CbUFVcDRCZUxVV3lOZV9pcXFraEdLQ1NBSXJY?oc=5",
-      "priority": 8
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/entity-raises-5-8m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-08-31T20:35:48.184411-07:00"
+    "remind_at": "2026-09-01T02:07:50.160915-07:00"
   },
   {
     "item": {
-      "company": "Zenergize",
+      "company": "Blue Voice",
+      "amount": "$6.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/blue-voice-raises-6m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-01T02:07:56.579607-07:00"
+  },
+  {
+    "item": {
+      "company": "xorlab",
       "amount": null,
       "stage": "Series A",
+      "investors": "Spicehaus Partners",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/xorlab-raises-eur5m-series-a-extension/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-01T02:07:59.740469-07:00"
+  },
+  {
+    "item": {
+      "company": "MFast",
+      "amount": "$6.0M",
+      "stage": "Series A",
+      "investors": "Wavemaker Partners",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/mfast-raises-6m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-01T02:08:02.732668-07:00"
+  },
+  {
+    "item": {
+      "company": "Yuma Energy",
+      "amount": "$35.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWmJRMmlBejItaTNnV1NIZTNfT2thc1Mzd3Zmc3lMVzk5eERmNkVLbWYtWVFiM0dDMUtZaEI4Qy1OWFpnN2NLTnl1SzZtVVVZSV9HQTUzbFFHNWwwSUlZaElaMUJVOERuN1hnbnFkcXNpTFA0T1VCeHN0WTRteGsxRE53NDdRejJiZGFHYmZUY1N3V0N0VXhjQnc3R19KbGZCRUNMeVBfUlZrRXZERlY0cW1Xbm1hQ3VvZWlwV1pWTWlSTV90XzVMQ1J4cUZia3F5LXg2S0YtYy1kZ19KRk1R0gHkAUFVX3lxTE5jaDZNb3YwZi1pYzNwNkhmSlN6ZnBvcElONDFwVVhIcmFHUk5WUXpEMng1ZDI5VURnZUdWQ2trUzU4WDdsejFWdTdfVEUxR3RHVEdsVmZVYTBVUXc2dmQyS3hFUkFlWDUxbWtHUEY1UUtMbTVFcVktMGQ1bTZsb2UzSkRDZnpMRVVjamp6YjV5ME5YVWYyOFQ5Z20taFRCSUJpUGVWY3N6VU9TOHI1SUp0cElQeTJxeExoVTBYb2ZvcDVqa1M3N0x0a01Pek1FX0hROVRFTjFfMnp5Y2NfSF9EdGJVUg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEZmNkVtSzJtV3ZtTUFEb2NMcVRNWTAtZlZMRlI5TEp4RGY3eDdnU2xFMURmbWJNMDZ6QnFKeUk5dkNZcnpUaG91T1UtdGxEZ0xBb09Wdk9xWnhibEpkU1lrck54eGV3MUV2X2dGT1o1QnBNeVo5bzJYR0kwbURVdG1yU3ZSeThqcVdMY2RYX2FCSFVtN1VuOHlMNTVhdjF3WXhoag?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-08-31T20:35:51.031798-07:00"
+    "remind_at": "2026-09-01T02:08:12.558068-07:00"
+  },
+  {
+    "item": {
+      "company": "VAST",
+      "amount": null,
+      "stage": "Series B",
+      "investors": "Matrix Partners",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/vast-raises-3b-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-09-01T02:08:15.447237-07:00"
+  },
+  {
+    "item": {
+      "company": "Gridsight",
+      "amount": "$26.0M",
+      "stage": "Series B",
+      "investors": "Insight Partners",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/gridsight-raises-26m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-09-01T02:08:18.430479-07:00"
+  },
+  {
+    "item": {
+      "company": "China's VAST",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEpxVkt5aWExb2VMMklxZWlob0N4ckRCX0lmaWNlYUs3M0lHVERFRzlBWkxvUzA0SEpaeFdwT0tMclZ5WmZhdlcwVDRkbTVxcFZMYU9ZVDBKMHgyZVFTak9OQUlSS3RBUzg2eEJyNTAxeGRUSWZScFlUdDdudVE0RW9TY2ZjNDY0ZlppWGVyTUJmRFFReUVXUlFqYkpwNTFNY051SA?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-09-01T02:08:24.137259-07:00"
+  },
+  {
+    "item": {
+      "company": "Scan.com",
+      "amount": "$220.0M",
+      "stage": "Series C",
+      "investors": "Noteus Partners",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/scan-com-raises-220m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-09-01T02:08:26.995157-07:00"
+  },
+  {
+    "item": {
+      "company": "Paytner",
+      "amount": null,
+      "stage": "Series D",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/paytner-co-ltd-raises-2-3b-series-d/",
+      "priority": 5
+    },
+    "remind_at": "2026-09-01T02:08:30.817109-07:00"
+  },
+  {
+    "item": {
+      "company": "EarnIn",
+      "amount": "$75.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/earnin-raises-75m-debt-financing/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T02:08:33.771439-07:00"
+  },
+  {
+    "item": {
+      "company": "Happy Smile",
+      "amount": null,
+      "stage": null,
+      "investors": "Innovation Creation Support Fund",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/happy-smile-raises-funding-round/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T02:08:39.485914-07:00"
+  },
+  {
+    "item": {
+      "company": "Yuma Energy",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXRvZFBCUVVxY2t3S2FKTnBnQ1VpZnVUQ3VfaU1OWFNPV3hzM1gxWUtUbjhmT01Qc0FGZ2J0clVrZlZRQ2hxYU1HMWM3bl9mMDk0Z3VwWUR4aWJXSzdmcUwtSFVzS1RLSkhjWG5DUUtwSVNkMmZHaTJ2T3FPQnpfMlNJbGpXMnVNM3BsWjI2bUFMV1ZHdWM1RkltbGI5V2xlSDdSNzltSDA5N25hVnfSAa4BQVVfeXFMTnl0b2RQQlFVcWNrd0thSk5wZ0NVaWZ1VEN1X2lNTlhTT1d4czNYMVlLVG44Zk9NUHNBRmdidHJVa2ZWUUNocWFNRzFjN25fZjA5NGd1cFlEeGliV0s3ZnFMLUhVc0tUS0pIY1huQ1FLcElTZDJmR2kydk9xT0J6XzJTSWxqVzJ1TTNwbFoyNm1BTFdWR3VjNUZJbWxiOVdsZUg3Ujc5bUgwOTduYVZ3?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T02:08:45.256996-07:00"
   }
 ]
