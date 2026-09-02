@@ -149,15 +149,6 @@ a { color: inherit; text-decoration: none; }
 .swatches:not(:hover) .sw.is-on { margin-left: 0; }
 .sw.is-on { box-shadow: 0 0 0 2px var(--bg), 0 0 0 3px var(--fg); }
 
-/* Global Undo (reverts the previous action), next to the colour swatches */
-.undo-all {
-  background: none; border: 0; padding: 2px; color: var(--mut);
-  display: inline-flex; align-items: center; line-height: 0; cursor: pointer;
-}
-.undo-all svg { display: block; width: 21px; height: 21px; }
-.undo-all:hover:not(:disabled) { color: var(--fg); }
-.undo-all:disabled { opacity: .3; cursor: default; }
-
 /* Highlighted facts: how much they raised + where they're based */
 .roles { margin-top: 12px; display: flex; flex-direction: column; gap: 6px; }
 /* block, not flex: as a flex container its text became an anonymous item
