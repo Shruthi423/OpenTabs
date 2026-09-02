@@ -52571,5 +52571,41 @@
     "roles": [],
     "first_seen": "2026-09-01T15:37:34.540497-07:00",
     "status": "active"
+  },
+  "a9a968a8a2c75436ef2091123e63b16b": {
+    "id": "a9a968a8a2c75436ef2091123e63b16b",
+    "company": "AIR Security",
+    "amount": "$50.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/01/air-security-launches-with-50m-to-build-a-firewall-for-ai-agents/",
+    "priority": 3,
+    "founders": [],
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://job-boards.greenhouse.io/air/jobs/4330554009",
+        "location": "Pittsburgh, Pennsylvania, United States"
+      }
+    ],
+    "first_seen": "2026-09-01T17:33:14.369016-07:00",
+    "status": "active"
+  },
+  "016085764804a21e5e9cd7d87c85f7c5": {
+    "id": "016085764804a21e5e9cd7d87c85f7c5",
+    "company": "Clay",
+    "amount": "$7.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzNlYllqeFBUdjhDNkJyaHBRVDZ0dzI0ZlNCTHVLT0VCcXdaZHBxemJaZkNqSURGbEtPWDRvdGNZek5vLWdzNEN1RmVVcXBQN0R6YnhqaFY3V0pGUldjXzF0UHhkMDg1YUFKMXZVaWhTQ2NuTE40ZlAxSFM5SlBmbU5wbllrZTMteU8xLWRVUVFZMnU5bEpBSFV1X1lET1pIcjMta3NWeFDSAa4BQVVfeXFMTl9sa0F2VHNvdVJoVVBKNnlaTFFaMVZzUXRYNWdZaUR0NjlWQ2tLNEhJWGZaN1ZqbkduNDBCZUZ6aVZkSzFnZElmSE51cDRBN2hYRVZuOENUbzhaN0xjdFpMU280cGFFSm0zZkJDMUJNbTViZ2k0ZzBxMWNwZHBOcG9hb2tiVUYxVXNUVVFnNkl2dFZ0a2VxUW1qN1hWS3kwR09jaEZpblNpMzNlRWx3?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-01T17:33:17.182016-07:00",
+    "status": "active"
   }
 }

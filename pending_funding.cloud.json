@@ -1,58 +1,30 @@
 [
   {
     "item": {
-      "company": "Sequoia Spinout Empirik",
-      "amount": "$21.0M",
-      "stage": null,
-      "investors": "Sequoia",
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ2ZCUnVzMFpNeF9FMFFHa3FJTmpVbHlUSHZ0S3JLd0piSjV2ZmxrbGFPRnFtdnF4RkJYWm1YaHd0a21nTnVZMVN0ekcyVWhWemdXR2lBaE41UUE0bllDMGFXWmdKMjM1TUJtay11dFFhbGlVeEdlOHVoQVc2dW9CWC11ZHNLbF8wMXJ4aFdNdVIyM3ZveTNhRllDcVNCMzYydnJfbFIwLW11NjlLT25TdDQtRE1wQkRLNmtBUmtpbC05TlFpWWREMUxR?oc=5",
-      "priority": 6
-    },
-    "remind_at": "2026-09-01T16:07:23.455683-07:00"
-  },
-  {
-    "item": {
-      "company": "Chevron",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/01/chevron-venezuela-oil-trump-65-billion-barrels/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-01T16:07:26.381626-07:00"
-  },
-  {
-    "item": {
-      "company": "HiBob",
-      "amount": "$166.0M",
-      "stage": null,
-      "investors": "Farallon Capital",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/01/hr-software-startup-hibob-raises-166m-after-annualized-revenue-tops-400m/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-01T16:07:30.520000-07:00"
-  },
-  {
-    "item": {
-      "company": "Anthropic",
-      "amount": "$35.0B",
+      "company": "AIR Security",
+      "amount": "$50.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/01/anthropic-launches-claude-fable-5-1-inking-35b-cloud-deal-with-lambda/",
+      "url": "https://siliconangle.com/2026/09/01/air-security-launches-with-50m-to-build-a-firewall-for-ai-agents/",
       "priority": 3
     },
-    "remind_at": "2026-09-01T16:07:33.540312-07:00"
+    "remind_at": "2026-09-01T18:03:13.368899-07:00"
+  },
+  {
+    "item": {
+      "company": "Clay",
+      "amount": "$7.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzNlYllqeFBUdjhDNkJyaHBRVDZ0dzI0ZlNCTHVLT0VCcXdaZHBxemJaZkNqSURGbEtPWDRvdGNZek5vLWdzNEN1RmVVcXBQN0R6YnhqaFY3V0pGUldjXzF0UHhkMDg1YUFKMXZVaWhTQ2NuTE40ZlAxSFM5SlBmbU5wbllrZTMteU8xLWRVUVFZMnU5bEpBSFV1X1lET1pIcjMta3NWeFDSAa4BQVVfeXFMTl9sa0F2VHNvdVJoVVBKNnlaTFFaMVZzUXRYNWdZaUR0NjlWQ2tLNEhJWGZaN1ZqbkduNDBCZUZ6aVZkSzFnZElmSE51cDRBN2hYRVZuOENUbzhaN0xjdFpMU280cGFFSm0zZkJDMUJNbTViZ2k0ZzBxMWNwZHBOcG9hb2tiVUYxVXNUVVFnNkl2dFZ0a2VxUW1qN1hWS3kwR09jaEZpblNpMzNlRWx3?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-01T18:03:16.181856-07:00"
   }
 ]

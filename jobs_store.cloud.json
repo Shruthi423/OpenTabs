@@ -5034,10 +5034,10 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-06-24T21:43:26.848982-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-09-01T13:01:46.327011-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 2
   },
   "8adb07498dd60a698e498fcf722ce472": {
     "id": "8adb07498dd60a698e498fcf722ce472",
@@ -5054,10 +5054,10 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-06-24T21:43:28.611707-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-09-01T13:01:46.327011-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 2
   },
   "44a6d5dcb0a0a89fdd33f2b15b093aa4": {
     "id": "44a6d5dcb0a0a89fdd33f2b15b093aa4",
@@ -5815,7 +5815,9 @@
     "priority": 4,
     "first_seen": "2026-06-29T07:07:24.980328-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "5ab6a4f43d2e2a90423c6a56d5b8316e": {
     "id": "5ab6a4f43d2e2a90423c6a56d5b8316e",
@@ -5833,7 +5835,9 @@
     "priority": 4,
     "first_seen": "2026-06-29T07:07:26.810797-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "06a435c4e181975cba46d8f7483bcca6": {
     "id": "06a435c4e181975cba46d8f7483bcca6",
@@ -5851,7 +5855,9 @@
     "priority": 5,
     "first_seen": "2026-06-29T07:07:28.828988-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "f47d80b53fb01aaf997a2bdc178d8ccb": {
     "id": "f47d80b53fb01aaf997a2bdc178d8ccb",
@@ -5869,7 +5875,9 @@
     "priority": 5,
     "first_seen": "2026-06-29T07:07:30.654228-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "d7ba5c90b7869df89977f701c39922f0": {
     "id": "d7ba5c90b7869df89977f701c39922f0",
@@ -5887,7 +5895,9 @@
     "priority": 5,
     "first_seen": "2026-06-29T07:07:32.481298-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "86511472b887364323d720c63f5886cb": {
     "id": "86511472b887364323d720c63f5886cb",
@@ -5905,7 +5915,9 @@
     "priority": 5,
     "first_seen": "2026-06-29T07:07:34.300650-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "527cc73b5d295b1cd02c16c44776ce46": {
     "id": "527cc73b5d295b1cd02c16c44776ce46",
@@ -5923,7 +5935,9 @@
     "priority": 5,
     "first_seen": "2026-06-29T07:07:36.178514-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "b9c41236916073d1a3499f27fdfa458d": {
     "id": "b9c41236916073d1a3499f27fdfa458d",
@@ -5942,7 +5956,9 @@
     "priority": 4,
     "first_seen": "2026-06-29T07:08:30.618117-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "b529cce3747efd55afe3f40968ada656": {
     "id": "b529cce3747efd55afe3f40968ada656",
@@ -5961,7 +5977,9 @@
     "priority": 3,
     "first_seen": "2026-06-29T07:08:35.759247-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "69085a14ea67fcd436ee04922462b8e2": {
     "id": "69085a14ea67fcd436ee04922462b8e2",
@@ -5980,7 +5998,9 @@
     "priority": 3,
     "first_seen": "2026-06-29T07:08:37.496199-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "b13dd210264b46c05daf0d01a4162f51": {
     "id": "b13dd210264b46c05daf0d01a4162f51",
@@ -5999,7 +6019,9 @@
     "priority": 3,
     "first_seen": "2026-06-29T07:08:39.192853-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "558aec64c258eaf27fee70a72abdb0f2": {
     "id": "558aec64c258eaf27fee70a72abdb0f2",
@@ -6018,7 +6040,9 @@
     "priority": 3,
     "first_seen": "2026-06-29T07:08:40.957517-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "d1181c3a5331c1aac4eb229fbd268628": {
     "id": "d1181c3a5331c1aac4eb229fbd268628",
@@ -6036,7 +6060,9 @@
     "priority": 1,
     "first_seen": "2026-06-29T12:16:24.296213-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "4da3b61a97a5505ac5222eac005ef783": {
     "id": "4da3b61a97a5505ac5222eac005ef783",
@@ -6054,7 +6080,9 @@
     "priority": 1,
     "first_seen": "2026-06-29T15:20:42.513833-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "87c0b54951f18db226dc4bfa979cc670": {
     "id": "87c0b54951f18db226dc4bfa979cc670",
@@ -6072,7 +6100,9 @@
     "priority": 1,
     "first_seen": "2026-06-29T18:37:28.351566-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "979f5182742a4e469796dea0e6f2d660": {
     "id": "979f5182742a4e469796dea0e6f2d660",
@@ -6090,7 +6120,9 @@
     "priority": 1,
     "first_seen": "2026-06-29T22:56:06.220828-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "2ff9eaa72e76e008ac0cf997d0fb337f": {
     "id": "2ff9eaa72e76e008ac0cf997d0fb337f",
@@ -6108,7 +6140,9 @@
     "priority": 5,
     "first_seen": "2026-06-30T02:25:18.170019-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "3293f4e9f9ec20d9bb2fe7e8a8ce8c1f": {
     "id": "3293f4e9f9ec20d9bb2fe7e8a8ce8c1f",
@@ -6127,7 +6161,9 @@
     "priority": 3,
     "first_seen": "2026-06-30T02:25:44.793926-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "ef578cb99b6ee1ad3d4ee6471b5ece87": {
     "id": "ef578cb99b6ee1ad3d4ee6471b5ece87",
@@ -6145,7 +6181,9 @@
     "priority": 1,
     "first_seen": "2026-06-30T04:58:17.242965-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "7c2c67a4baa7c8b3e5d3aaef974ab9a0": {
     "id": "7c2c67a4baa7c8b3e5d3aaef974ab9a0",
@@ -6163,7 +6201,9 @@
     "priority": 5,
     "first_seen": "2026-06-30T04:58:18.791825-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "003ece874f914527c6f8ae2acf58f6a4": {
     "id": "003ece874f914527c6f8ae2acf58f6a4",
@@ -6181,7 +6221,9 @@
     "priority": 5,
     "first_seen": "2026-06-30T04:58:20.532803-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "01573b6895ff1d5c1d3ba5eff562bb24": {
     "id": "01573b6895ff1d5c1d3ba5eff562bb24",
@@ -6199,7 +6241,9 @@
     "priority": 5,
     "first_seen": "2026-06-30T14:56:22.442370-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "e73df69ec230e24f3edb2976af10e140": {
     "id": "e73df69ec230e24f3edb2976af10e140",
@@ -6217,7 +6261,9 @@
     "priority": 1,
     "first_seen": "2026-06-30T14:56:24.011597-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-01T17:31:56.816001-07:00",
+    "dead_strikes": 0
   },
   "dbcaa63c4676e070536782952452e6ea": {
     "id": "dbcaa63c4676e070536782952452e6ea",
