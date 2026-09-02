@@ -1,5 +1,65 @@
 [
   {
+    "id": "16ecf5ed302d178d75f5f8616f03f0a0",
+    "company": "PeopleX",
+    "amount": "$34.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeVJGZEVTeFBiX0N2c3QzUElGRHd1UEdRVlZlaDFzZU5lb1duU01WQ3FFM3QzRHVrejJ4alhmRzV0dUNJVmRUVWVOYkZhMjhSak1aVkx2eFNhSlNDaUxkSnFQdlVQRWltZmE2Uk1wQ3JsLXFOWDNwY0dEbEdKVFd2N1duRzA1T1daMnhOMGxIc0hhZnfSAZMBQVVfeXFMTnlSRmRFU3hQYl9DdnN0M1BJRkR3dVBHUVZWZWgxc2VOZW9XblNNVkNxRTN0M0R1a3oyeGpYZkc1dHVDSVZkVFVlTmJGYTI4UmpNWlZMdnhTYUpTQ2lMZEpxUHZVUEVpbWZhNlJNcENybC1xTlgzcGNHRGxHSlRXdjdXbkcwNU9XWjJ4TjBsSHNIYWZ3?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-02T06:53:34.888395-07:00",
+    "status": "active"
+  },
+  {
+    "id": "3f3aadd08d6eab329a1010d8724dc2ca",
+    "company": "Aeron Systems",
+    "amount": "Undisclosed",
+    "stage": "Series B",
+    "investors": "Riverwalk And MGF Kavachh&nbsp",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHhPTkFQZ2dydVBkelQ5NUUzbjhkY0ZlYldWdjd5NHVWM3N3SGVzdDBGRDZrUkZtWkh2dGktNmphVUN0MVlKX1ljUUVLT05sNTR1ejhRQ29pQmNsQTh6YTlOdXEwVXBKTXFaT01DT2ZTeFByYzVrcnVOOWZ1YTJrUUJIWmJTNmUyeFZOOS1PaEt6Z0tUX1RQUHhSY0lJaDRlSVhFMkNQMWY0X3BkOU54NXBlVGhsdG5HTDFZ?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-02T06:53:26.495485-07:00",
+    "status": "active"
+  },
+  {
+    "id": "8d5a4df6e7a8da99fd90340118107849",
+    "company": "Tripo",
+    "amount": "$447.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUjNpbk83NnhuR1I4c25URjlRaE1IMmxPRVVRMG5sOWdUd2RWMm41V3dqdmJVb0FQMVAzT2ZIeDNzblRUOVRBUzNmV2tmU1lVS0paRzFMNDRqTi1OZVd4dWtFVmRvSVA1M29Jby1ySDRwZFpJajZDaS03amxQMUdSNE5DVXg?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-02T06:53:20.527661-07:00",
+    "status": "active"
+  },
+  {
+    "id": "c69626c03abd3b963ff62fc17a396d05",
+    "company": "HyImpulse",
+    "amount": "Undisclosed",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTZ1Ulg3TUV2WThyemkxd0NfLTBzckxvdXNrSUV2LVN6MXZ6SHA5RTVrTUJiMER3Y25fZVRKUTFxZTM5WDZmUVRjbWJacnM2Q1BYQzMxWXAwSUpYSnFjX2w0bFZmUHNvNDlJbXk4V2ZFOUF6Nl9ycXRMRXZEZHJ5OXBXN1J2N3BQeUdsaHkwcXhHTWZRWTIwOS1LdlVZdUhlXzVVZFFXR2Z5X3ZJd3h4MEFIeWJvSVluQW01NGVicjBraWRqX2ZUUkx3?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-02T06:53:17.685185-07:00",
+    "status": "active"
+  },
+  {
     "id": "c5ae875b27c346b45f6e46efb5723d49",
     "company": "Lasso Security",
     "amount": "$30.0M",
@@ -11374,21 +11434,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-02T08:01:35.003462-07:00",
-    "status": "active"
-  },
-  {
-    "id": "9368e888c1469fb51fd579e597f6e4bb",
-    "company": "He",
-    "amount": "$1.0B",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "Fortune",
-    "url": "https://fortune.com/2026/08/02/hudson-leogrande-comfrt-homeless-16-david-beckham-board-business-1-billion-revenue/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-02T05:15:27.421538-07:00",
     "status": "active"
   }
 ]

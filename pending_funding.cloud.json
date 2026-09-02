@@ -1,200 +1,72 @@
 [
   {
     "item": {
-      "company": "Metal",
-      "amount": "$4.5M",
-      "stage": "Seed",
-      "investors": "Y Combinator",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/metal-raises-4-5m-seed/",
-      "priority": 12
-    },
-    "remind_at": "2026-09-02T03:06:54.984351-07:00"
-  },
-  {
-    "item": {
-      "company": "PassHub",
-      "amount": "$1.5M",
-      "stage": "Pre-Seed",
-      "investors": "Parceiro Ventures",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/passhub-raises-1-5m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-02T03:06:58.021825-07:00"
-  },
-  {
-    "item": {
-      "company": "Fambot",
-      "amount": "$3.5M",
-      "stage": "Pre-Seed",
-      "investors": "NextView Ventures",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/fambot-raises-3-5m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-02T03:07:01.091088-07:00"
-  },
-  {
-    "item": {
-      "company": "Visko",
-      "amount": "$10.0M",
-      "stage": "Pre-Seed",
-      "investors": "Llama Ventures",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/visko-raises-10m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-02T03:07:04.146174-07:00"
-  },
-  {
-    "item": {
-      "company": "Monid",
-      "amount": "$2.1M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/monid-raises-2-1m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-02T03:07:07.899600-07:00"
-  },
-  {
-    "item": {
-      "company": "Stack Health",
-      "amount": "$21.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/stack-health-raises-21m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-02T03:07:14.688117-07:00"
-  },
-  {
-    "item": {
-      "company": "Holifya",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "Next Age",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/holifya-raises-2m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-02T03:07:17.691144-07:00"
-  },
-  {
-    "item": {
-      "company": "Aslan Protects",
-      "amount": "$20.8M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY2wyWnpEWU95VW1iV083MUhfMUZKZWNQTVVidUs4NktzeEFmT1BlSzFLdkc3Ylk4eTJ6dmprMHllMGotM0s0a1h3WmpRdGw1QlNOaTlnSHZjS2tUU2t0bWx3RWdqeVlMLU1zam9EazVDbjhPVFF0d3VWTjkzeTY5RUJMUlRndkU?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-09-02T03:07:23.887051-07:00"
-  },
-  {
-    "item": {
-      "company": "Usman Gul\u2019s Metal",
-      "amount": "$4.5M",
-      "stage": "Seed",
-      "investors": "Phaze Ventures",
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUTdoQVR3cEk5SkVXc05tdGNaWkp4NnFmMlBIWUNWUmNrOC1oY0RqSmFfbnlNVTBnaVlxMHlodmJDdWFLR3I1dm5MU21DRVlNd0c1cC13R0E5QzlCVEhpMVNXZF9XSmpDUHNLZTUtaG1PeHFjVGQwWTVlVjF1U09rTWJQaTRvbVhYQy1abG40NTlmV24yZjFMYUI4UzVtYzFWazlmRE1Fak8xeE5GREVNa1F3cXVETENHWFF0VnBTSldyNFR1?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-09-02T03:07:29.705489-07:00"
-  },
-  {
-    "item": {
-      "company": "Metal",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [
-        "Usman Gul"
-      ],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ydGpmX0kzVW1aQ2dlS2tpUVV0Q21BV2trd3g5YlFEdkd0TTZvazcwY18zNmJhd2o4b0ZWYmNiNUFmVlRxcWtzRWRMbEpHZmxwWWVyM2130gFWQVVfeXFMTnJ0amZfSTNVbVpDZ2VLa2lRVXRDbUFXa2t3eDliUUR2R3RNNm9rNzBjXzM2YmF3ajhvRlZiY2I1QWZWVHFxa3NFZExsSkdmbHBZZXIzbXc?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-09-02T03:07:32.516508-07:00"
-  },
-  {
-    "item": {
-      "company": "Intellicia",
+      "company": "HyImpulse",
       "amount": null,
       "stage": "Series A",
-      "investors": "Kakao Ventures",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/intellicia-raises-3-4b-pre-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-09-02T03:07:35.390333-07:00"
-  },
-  {
-    "item": {
-      "company": "Wafer",
-      "amount": "$40.0M",
-      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/wafer-raises-40m-series-a/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTZ1Ulg3TUV2WThyemkxd0NfLTBzckxvdXNrSUV2LVN6MXZ6SHA5RTVrTUJiMER3Y25fZVRKUTFxZTM5WDZmUVRjbWJacnM2Q1BYQzMxWXAwSUpYSnFjX2w0bFZmUHNvNDlJbXk4V2ZFOUF6Nl9ycXRMRXZEZHJ5OXBXN1J2N3BQeUdsaHkwcXhHTWZRWTIwOS1LdlVZdUhlXzVVZFFXR2Z5X3ZJd3h4MEFIeWJvSVluQW01NGVicjBraWRqX2ZUUkx3?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-09-02T03:07:38.401438-07:00"
+    "remind_at": "2026-09-02T07:23:16.685060-07:00"
   },
   {
     "item": {
-      "company": "Lasso Security",
-      "amount": "$30.0M",
+      "company": "Tripo",
+      "amount": "$447.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUjNpbk83NnhuR1I4c25URjlRaE1IMmxPRVVRMG5sOWdUd2RWMm41V3dqdmJVb0FQMVAzT2ZIeDNzblRUOVRBUzNmV2tmU1lVS0paRzFMNDRqTi1OZVd4dWtFVmRvSVA1M29Jby1ySDRwZFpJajZDaS03amxQMUdSNE5DVXg?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-09-02T07:23:19.527501-07:00"
+  },
+  {
+    "item": {
+      "company": "Aeron Systems",
+      "amount": null,
+      "stage": "Series B",
+      "investors": "Riverwalk And MGF Kavachh&nbsp",
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHhPTkFQZ2dydVBkelQ5NUUzbjhkY0ZlYldWdjd5NHVWM3N3SGVzdDBGRDZrUkZtWkh2dGktNmphVUN0MVlKX1ljUUVLT05sNTR1ejhRQ29pQmNsQTh6YTlOdXEwVXBKTXFaT01DT2ZTeFByYzVrcnVOOWZ1YTJrUUJIWmJTNmUyeFZOOS1PaEt6Z0tUX1RQUHhSY0lJaDRlSVhFMkNQMWY0X3BkOU54NXBlVGhsdG5HTDFZ?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-09-02T07:23:25.495296-07:00"
+  },
+  {
+    "item": {
+      "company": "Funding News Today",
+      "amount": "$200.0M",
+      "stage": null,
+      "investors": null,
+      "location": "WhatsApp",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/09/02/startup-funding-news-today-september-2-2026-felix-hyimpulse-lasso-peoplex-more/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-02T07:23:31.065937-07:00"
+  },
+  {
+    "item": {
+      "company": "PeopleX",
+      "amount": "$34.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/02/lasso-security-launches-cpu-only-ai-guardrail-raises-30m/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeVJGZEVTeFBiX0N2c3QzUElGRHd1UEdRVlZlaDFzZU5lb1duU01WQ3FFM3QzRHVrejJ4alhmRzV0dUNJVmRUVWVOYkZhMjhSak1aVkx2eFNhSlNDaUxkSnFQdlVQRWltZmE2Uk1wQ3JsLXFOWDNwY0dEbEdKVFd2N1duRzA1T1daMnhOMGxIc0hhZnfSAZMBQVVfeXFMTnlSRmRFU3hQYl9DdnN0M1BJRkR3dVBHUVZWZWgxc2VOZW9XblNNVkNxRTN0M0R1a3oyeGpYZkc1dHVDSVZkVFVlTmJGYTI4UmpNWlZMdnhTYUpTQ2lMZEpxUHZVUEVpbWZhNlJNcENybC1xTlgzcGNHRGxHSlRXdjdXbkcwNU9XWjJ4TjBsSHNIYWZ3?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-09-02T03:07:44.235259-07:00"
-  },
-  {
-    "item": {
-      "company": "Instarc",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Strategic Investment Tallinn",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/instarc-raises-1-25m-strategic-investment/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-02T03:07:47.197212-07:00"
+    "remind_at": "2026-09-02T07:23:33.888235-07:00"
   }
 ]

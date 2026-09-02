@@ -7222,7 +7222,9 @@
     "priority": 1,
     "first_seen": "2026-07-07T04:43:11.263615-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "9fc21dbfeb8624def423b266b1a297a2": {
     "id": "9fc21dbfeb8624def423b266b1a297a2",
@@ -7240,7 +7242,9 @@
     "priority": 5,
     "first_seen": "2026-07-07T04:43:13.017498-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "36dd1774f99269771a177bd0c8df0034": {
     "id": "36dd1774f99269771a177bd0c8df0034",
@@ -7259,7 +7263,9 @@
     "priority": 1,
     "first_seen": "2026-07-07T04:43:43.507085-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "8c8b08dbea0b30e5705156abb7a3b0f9": {
     "id": "8c8b08dbea0b30e5705156abb7a3b0f9",
@@ -7277,7 +7283,9 @@
     "priority": 5,
     "first_seen": "2026-07-07T06:53:21.853279-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "b80867708fe76ab50d66e3355494a074": {
     "id": "b80867708fe76ab50d66e3355494a074",
@@ -7295,7 +7303,9 @@
     "priority": 5,
     "first_seen": "2026-07-07T09:24:39.499366-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "ed1c81e6494f66ca942e0ed93b26681f": {
     "id": "ed1c81e6494f66ca942e0ed93b26681f",
@@ -7313,7 +7323,9 @@
     "priority": 4,
     "first_seen": "2026-07-07T14:52:47.976008-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "66a823afae05b8834120e8181b092b7a": {
     "id": "66a823afae05b8834120e8181b092b7a",
@@ -7331,7 +7343,9 @@
     "priority": 5,
     "first_seen": "2026-07-07T16:54:17.482764-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "83f0e13b49e242cb4bec07005e0bb7f0": {
     "id": "83f0e13b49e242cb4bec07005e0bb7f0",
@@ -7349,7 +7363,8 @@
     "priority": 5,
     "first_seen": "2026-07-07T19:06:52.950138-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00"
   },
   "f6ece1b7b7f3ca6c9724ea12a5bc8223": {
     "id": "f6ece1b7b7f3ca6c9724ea12a5bc8223",
@@ -7367,7 +7382,8 @@
     "priority": 5,
     "first_seen": "2026-07-08T03:21:04.116229-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00"
   },
   "f1428a0f0bc3935216f1b7d79145c1ed": {
     "id": "f1428a0f0bc3935216f1b7d79145c1ed",
@@ -7385,7 +7401,9 @@
     "priority": 5,
     "first_seen": "2026-07-08T05:02:54.492093-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "70dbc2e2a5c7fbdae815003237d4b53a": {
     "id": "70dbc2e2a5c7fbdae815003237d4b53a",
@@ -7403,7 +7421,9 @@
     "priority": 5,
     "first_seen": "2026-07-08T05:02:55.986294-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "fbaec7c25c51bf7665153b066969eb9b": {
     "id": "fbaec7c25c51bf7665153b066969eb9b",
@@ -7421,7 +7441,9 @@
     "priority": 1,
     "first_seen": "2026-07-08T05:02:57.670484-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "b9205644b148291eacd36711d9e7c3bc": {
     "id": "b9205644b148291eacd36711d9e7c3bc",
@@ -7439,7 +7461,9 @@
     "priority": 5,
     "first_seen": "2026-07-08T05:02:59.360322-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "623ff7397b426878599e48f0b09b7f99": {
     "id": "623ff7397b426878599e48f0b09b7f99",
@@ -7457,7 +7481,9 @@
     "priority": 5,
     "first_seen": "2026-07-08T05:03:01.054560-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "ecc9968b11d46279376dd696bcd17153": {
     "id": "ecc9968b11d46279376dd696bcd17153",
@@ -7475,7 +7501,9 @@
     "priority": 5,
     "first_seen": "2026-07-08T07:39:55.448578-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "dfa3f3ca59cf014976806c5da84111a1": {
     "id": "dfa3f3ca59cf014976806c5da84111a1",
@@ -7493,7 +7521,9 @@
     "priority": 5,
     "first_seen": "2026-07-08T07:39:56.969198-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "32bfa06f507f121b5f8e1dba0e96c8c6": {
     "id": "32bfa06f507f121b5f8e1dba0e96c8c6",
@@ -7511,7 +7541,9 @@
     "priority": 5,
     "first_seen": "2026-07-08T09:21:00.829659-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "d52696e380e1cccbac80e792e521c840": {
     "id": "d52696e380e1cccbac80e792e521c840",
@@ -7530,7 +7562,9 @@
     "priority": 1,
     "first_seen": "2026-07-08T09:21:48.059585-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "f9a9c42759807f8ded7a23aac1a1046d": {
     "id": "f9a9c42759807f8ded7a23aac1a1046d",
@@ -7548,7 +7582,9 @@
     "priority": 2,
     "first_seen": "2026-07-08T10:58:17.603538-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "276a8522e6c9b1d4f7dc77e5dbe77716": {
     "id": "276a8522e6c9b1d4f7dc77e5dbe77716",
@@ -7566,7 +7602,9 @@
     "priority": 1,
     "first_seen": "2026-07-08T12:26:14.633884-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "3ae5660d06f91bd055309aab1af2e4d3": {
     "id": "3ae5660d06f91bd055309aab1af2e4d3",
@@ -7585,7 +7623,9 @@
     "priority": 1,
     "first_seen": "2026-07-08T13:43:39.666736-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "82b6816804eabfaecd92e99dbad1a443": {
     "id": "82b6816804eabfaecd92e99dbad1a443",
@@ -7604,7 +7644,9 @@
     "priority": 1,
     "first_seen": "2026-07-08T13:43:41.198965-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "b6cf5ae0f222706552acaab2e127021c": {
     "id": "b6cf5ae0f222706552acaab2e127021c",
@@ -7623,7 +7665,9 @@
     "priority": 1,
     "first_seen": "2026-07-08T13:43:42.878543-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "f0ec2ae3ef140108485d47dd3f2dc2e4": {
     "id": "f0ec2ae3ef140108485d47dd3f2dc2e4",
@@ -7641,7 +7685,9 @@
     "priority": 5,
     "first_seen": "2026-07-09T00:55:22.218237-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "67ed114a6647813c2dfa04dde9b65d20": {
     "id": "67ed114a6647813c2dfa04dde9b65d20",
@@ -7659,7 +7705,9 @@
     "priority": 5,
     "first_seen": "2026-07-09T06:45:54.990629-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T06:51:55.868526-07:00",
+    "dead_strikes": 0
   },
   "4f1024de80f9b25ba0a4ec2856401036": {
     "id": "4f1024de80f9b25ba0a4ec2856401036",
@@ -16605,6 +16653,60 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-09-01T22:05:32.050944-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "39fdd1c877816bb1937fddffa6e54dce": {
+    "id": "39fdd1c877816bb1937fddffa6e54dce",
+    "title": "Product Designer",
+    "company": "Bland",
+    "location": "San Francisco, CA",
+    "salary": "$150,000 - $200,000",
+    "url": "https://uiuxjobsboard.com/job/1590026-product-designer-san-francisco-ca-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "4h",
+    "priority": 1,
+    "first_seen": "2026-09-02T06:52:51.211236-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "812bc65d12e308a786b95c2bc69c9fb4": {
+    "id": "812bc65d12e308a786b95c2bc69c9fb4",
+    "title": "UX Designer",
+    "company": "Sand Cherry Associates",
+    "location": "Remote",
+    "salary": "$75,000 - $85,000",
+    "url": "https://uiuxjobsboard.com/job/1589026-remote-united-states-ux-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "5h",
+    "priority": 5,
+    "first_seen": "2026-09-02T06:52:52.739616-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "d1ccee4d5a7e1206cdc115e70ef48fb0": {
+    "id": "d1ccee4d5a7e1206cdc115e70ef48fb0",
+    "title": "User Experience Design",
+    "company": "Stradit",
+    "location": "Dallas, TX",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1589326-user-experience-design-dallas-tx-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "5h",
+    "priority": 4,
+    "first_seen": "2026-09-02T06:52:54.447363-07:00",
     "status": "active",
     "applied_at": null
   }
