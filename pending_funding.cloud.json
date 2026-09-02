@@ -1,72 +1,156 @@
 [
   {
     "item": {
-      "company": "HyImpulse",
+      "company": "Alteon",
       "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RkNTl6eEVYclBXWmJDdVBoTmVGYzE4cjZhVlZjbnJQLVhJZnlLZGpqUGRBOU9ncjNJUHNzMUQ4Y2VXWHdlaHBCM3ZLOURZS2Z5dU1aUkxWZTBqU0daSnZobHkyZmxiMXZlQTliRnRiYTFIU21CWk8zTEJvYkZ2U3FWZjg?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-09-02T11:04:28.564456-07:00"
+  },
+  {
+    "item": {
+      "company": "Empirik.ai",
+      "amount": "$21.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdDFZaHAweFRPeDNiUUJlWVd3ZU9ma0VubnBMVVFlQVdFajA3ZTBXZ1dDaUo5X3JILW55NzNEOFFySkhLV0pGSVZEMlZYWXkzU1Nka2F5eVI0aUp5cHNheUNCSjlteS04Xzc2X2lEckpmNHlERTdPWmhreV9TdGdHRk5LNlYybnV5LW9paHRXTEVzNElqMTVhVElRRkQ3UlFybEc0YV9R0gGrAUFVX3lxTFBDNzQxUnBsY3gwdEhQVjRoWHNTa2pIQ2hOQl9RTFZtUWsyc3pPZlh6RHBBeDZvMGJ5dzhuektEZDUxYmMwLXU3TjREYi1IaTRpM1h6LWZzcXZZdTN6TFdGY1dUWDdmelVJNTgtMXBHaGxEMzBDbGN4STAzekd2Ujdzc1RFekRySkU4SGhseVo2M0lGRHFEbk9kN1hWeURFejRZSVA0SlNYMXpoUQ?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-02T11:04:36.432680-07:00"
+  },
+  {
+    "item": {
+      "company": "Catch",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvOFBCdXZmV3RXQUtaZ3lGNm9tVWh4anpXclFNMXdqd0FvaHZhMDJmZHVlUjV2ZUl3Y0FSNjEtQlYwZHdjd1c1Nm1tMVhCb0dyU0FZUjM0c2V0Q0RoQjNMeUZRT3JRTTZa?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-02T11:04:39.354291-07:00"
+  },
+  {
+    "item": {
+      "company": "Creedom",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "Scale AI Growth",
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPendBTFlaZGNyeFQ2NXNXZEJqVGVoNnVnZ2lFZVhQOU11RlJzaThIX05zblNyZ0pHbnE5LXFMN0ctWk8xTDFiMlRHQ3JJVWJmWUJ0U3M1b0RKdEtsZFJDdlI5N0YtdUUxZjNJOS11MU9zNzVaTUtiOWZSZVB1SlcxZ0VxRmhab0E4RWVPNXhoQ0JVQVZHd0EzMEtKQ0ltcFpVWmxlcktyVlRqbWpabGNTSU5nM2ZXWHdRald2VzhEb3JGRHVUZUp5ZEtpcE5tSlYxWHJxQW9UQ2hYMWIwR0ItcFFsVE1RNE1rdnF2WlVB?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-02T11:04:42.215422-07:00"
+  },
+  {
+    "item": {
+      "company": "Newlight",
+      "amount": "$9.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByMDgtbnlwVHNudXgyWnFnSEdUSk10eFUxQWNyS1ZqZWtWbE5fTnQ5RjktdVNqVmZXOWVMeDBwQnNhMW93blp4bmhnNHF5b3UxMXU3eFpZanlQeXJKSC1pY3NyOWVueDRKcU0tMHNVNVNDZkR3LTBqRFNCaw?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-02T11:04:45.159454-07:00"
+  },
+  {
+    "item": {
+      "company": "Ki 13",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByTWNtZlAtUnprNk1ZWHI4V1dpS2VUR0QxRVQybFBkcUdmVlliVWRkVEhjSENjcW8yZ2RMS0hGMzJVYzJySEdRLWZucXRlNnl1QXZoYXVwc2s1N01YMzU4QWtfYVdYM241MHp6RGNYQ1FEMnlfajRj?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-02T11:04:54.000126-07:00"
+  },
+  {
+    "item": {
+      "company": "Intellicia",
+      "amount": "$2.6M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTZ1Ulg3TUV2WThyemkxd0NfLTBzckxvdXNrSUV2LVN6MXZ6SHA5RTVrTUJiMER3Y25fZVRKUTFxZTM5WDZmUVRjbWJacnM2Q1BYQzMxWXAwSUpYSnFjX2w0bFZmUHNvNDlJbXk4V2ZFOUF6Nl9ycXRMRXZEZHJ5OXBXN1J2N3BQeUdsaHkwcXhHTWZRWTIwOS1LdlVZdUhlXzVVZFFXR2Z5X3ZJd3h4MEFIeWJvSVluQW01NGVicjBraWRqX2ZUUkx3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JbUo4UnVJUjdTTEo0a21OYnNZdEhtUW1USzlVMnhKMGNrZ2tESXJkcVp3WVdqX0pORmt4eWNfQnhqaFZyVmdYMlp4enZaSUhnNElJ?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-09-02T07:23:16.685060-07:00"
+    "remind_at": "2026-09-02T11:04:56.939592-07:00"
   },
   {
     "item": {
-      "company": "Tripo",
-      "amount": "$447.0M",
-      "stage": "Series B",
-      "investors": null,
+      "company": "Lyte",
+      "amount": "$165.0M",
+      "stage": "Series C",
+      "investors": "Maverick Silicon, bringing the company\u2019s post-money valuation",
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUjNpbk83NnhuR1I4c25URjlRaE1IMmxPRVVRMG5sOWdUd2RWMm41V3dqdmJVb0FQMVAzT2ZIeDNzblRUOVRBUzNmV2tmU1lVS0paRzFMNDRqTi1OZVd4dWtFVmRvSVA1M29Jby1ySDRwZFpJajZDaS03amxQMUdSNE5DVXg?oc=5",
-      "priority": 7
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/02/lyte-raises-165m-at-1-6b-valuation-to-bring-accurate-perception-to-robots/",
+      "priority": 6
     },
-    "remind_at": "2026-09-02T07:23:19.527501-07:00"
+    "remind_at": "2026-09-02T11:04:59.759195-07:00"
   },
   {
     "item": {
-      "company": "Aeron Systems",
-      "amount": null,
-      "stage": "Series B",
-      "investors": "Riverwalk And MGF Kavachh&nbsp",
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHhPTkFQZ2dydVBkelQ5NUUzbjhkY0ZlYldWdjd5NHVWM3N3SGVzdDBGRDZrUkZtWkh2dGktNmphVUN0MVlKX1ljUUVLT05sNTR1ejhRQ29pQmNsQTh6YTlOdXEwVXBKTXFaT01DT2ZTeFByYzVrcnVOOWZ1YTJrUUJIWmJTNmUyeFZOOS1PaEt6Z0tUX1RQUHhSY0lJaDRlSVhFMkNQMWY0X3BkOU54NXBlVGhsdG5HTDFZ?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-09-02T07:23:25.495296-07:00"
-  },
-  {
-    "item": {
-      "company": "Funding News Today",
-      "amount": "$200.0M",
+      "company": "Italy",
+      "amount": "$23.0M",
       "stage": null,
       "investors": null,
-      "location": "WhatsApp",
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/02/italy-invasive-blue-crab-fishing-business/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-02T11:05:02.563413-07:00"
+  },
+  {
+    "item": {
+      "company": "Celigo",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/02/celigo-launches-intelligent-enterprise-automation-builder-into-general-availability/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-02T11:05:05.417573-07:00"
+  },
+  {
+    "item": {
+      "company": "Wonderful",
+      "amount": "$550.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/02/startup-funding-news-today-september-2-2026-felix-hyimpulse-lasso-peoplex-more/",
+      "url": "https://techstartups.com/2026/09/02/wonderful-raises-550m-at-5-billion-valuation-just-20-months-after-launch/",
       "priority": 3
     },
-    "remind_at": "2026-09-02T07:23:31.065937-07:00"
-  },
-  {
-    "item": {
-      "company": "PeopleX",
-      "amount": "$34.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeVJGZEVTeFBiX0N2c3QzUElGRHd1UEdRVlZlaDFzZU5lb1duU01WQ3FFM3QzRHVrejJ4alhmRzV0dUNJVmRUVWVOYkZhMjhSak1aVkx2eFNhSlNDaUxkSnFQdlVQRWltZmE2Uk1wQ3JsLXFOWDNwY0dEbEdKVFd2N1duRzA1T1daMnhOMGxIc0hhZnfSAZMBQVVfeXFMTnlSRmRFU3hQYl9DdnN0M1BJRkR3dVBHUVZWZWgxc2VOZW9XblNNVkNxRTN0M0R1a3oyeGpYZkc1dHVDSVZkVFVlTmJGYTI4UmpNWlZMdnhTYUpTQ2lMZEpxUHZVUEVpbWZhNlJNcENybC1xTlgzcGNHRGxHSlRXdjdXbkcwNU9XWjJ4TjBsSHNIYWZ3?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-02T07:23:33.888235-07:00"
+    "remind_at": "2026-09-02T11:05:08.281172-07:00"
   }
 ]
