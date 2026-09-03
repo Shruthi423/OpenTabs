@@ -9233,7 +9233,9 @@
     "priority": 4,
     "first_seen": "2026-07-18T03:58:14.115315-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "1100065fe9a52f5140310b5600ec0a34": {
     "id": "1100065fe9a52f5140310b5600ec0a34",
@@ -9251,7 +9253,9 @@
     "priority": 1,
     "first_seen": "2026-07-18T06:03:06.152296-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "d0fd9485ac7455c2d85eaea3305980df": {
     "id": "d0fd9485ac7455c2d85eaea3305980df",
@@ -9269,7 +9273,9 @@
     "priority": 1,
     "first_seen": "2026-07-18T06:03:07.849153-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "6e746076ebc3ae88f52dce30af00acdd": {
     "id": "6e746076ebc3ae88f52dce30af00acdd",
@@ -9287,7 +9293,9 @@
     "priority": 5,
     "first_seen": "2026-07-18T06:03:09.732712-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "4b25c52a2f0eb5deca92f7ece09d9742": {
     "id": "4b25c52a2f0eb5deca92f7ece09d9742",
@@ -9305,7 +9313,9 @@
     "priority": 3,
     "first_seen": "2026-07-18T10:40:01.893330-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "62436ad1726716324f5404089bd7d61c": {
     "id": "62436ad1726716324f5404089bd7d61c",
@@ -9323,7 +9333,9 @@
     "priority": 5,
     "first_seen": "2026-07-19T03:51:27.842107-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "055c5929071119e655ad648e9ede7d9c": {
     "id": "055c5929071119e655ad648e9ede7d9c",
@@ -9342,7 +9354,9 @@
     "priority": 1,
     "first_seen": "2026-07-19T08:37:14.919835-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "c20b5c519ab8b56ad32cc63464dac0c1": {
     "id": "c20b5c519ab8b56ad32cc63464dac0c1",
@@ -9360,7 +9374,8 @@
     "priority": 5,
     "first_seen": "2026-07-19T21:53:19.727541-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00"
   },
   "32a09472d427f52a6266f6d1d0410ea0": {
     "id": "32a09472d427f52a6266f6d1d0410ea0",
@@ -9378,7 +9393,9 @@
     "priority": 4,
     "first_seen": "2026-07-20T03:46:11.176686-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "e891a13cf8f01dfbb8ed86fcaaa2d2cf": {
     "id": "e891a13cf8f01dfbb8ed86fcaaa2d2cf",
@@ -9396,7 +9413,9 @@
     "priority": 3,
     "first_seen": "2026-07-20T03:46:12.888008-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "ae6dab18d8fc8bf63cc30ea0d8f8d333": {
     "id": "ae6dab18d8fc8bf63cc30ea0d8f8d333",
@@ -9414,7 +9433,9 @@
     "priority": 5,
     "first_seen": "2026-07-20T03:46:14.734868-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "f2f00b01cbebf3827190c609a4ac17fa": {
     "id": "f2f00b01cbebf3827190c609a4ac17fa",
@@ -9432,7 +9453,9 @@
     "priority": 4,
     "first_seen": "2026-07-20T03:46:16.586043-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "3caa10b49d5503158389baffb37fa800": {
     "id": "3caa10b49d5503158389baffb37fa800",
@@ -9450,7 +9473,9 @@
     "priority": 5,
     "first_seen": "2026-07-20T03:46:18.445714-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "3d9fbeb4d684e84d2fdef1211e6bc9cc": {
     "id": "3d9fbeb4d684e84d2fdef1211e6bc9cc",
@@ -9468,7 +9493,9 @@
     "priority": 4,
     "first_seen": "2026-07-20T03:46:20.322146-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "ad589175566f1aeea25c33630d70509b": {
     "id": "ad589175566f1aeea25c33630d70509b",
@@ -9486,7 +9513,9 @@
     "priority": 3,
     "first_seen": "2026-07-20T03:46:22.181200-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "b7a594a0e0531c87a39291076eff9dc3": {
     "id": "b7a594a0e0531c87a39291076eff9dc3",
@@ -9505,7 +9534,9 @@
     "priority": 4,
     "first_seen": "2026-07-20T03:47:07.779191-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "fe2f4ddca44f087d5b166af3a5cdfbad": {
     "id": "fe2f4ddca44f087d5b166af3a5cdfbad",
@@ -9523,7 +9554,9 @@
     "priority": 5,
     "first_seen": "2026-07-20T05:57:41.576819-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "43dab8c3e853f87a3969f0c79ae0888c": {
     "id": "43dab8c3e853f87a3969f0c79ae0888c",
@@ -9541,7 +9574,9 @@
     "priority": 5,
     "first_seen": "2026-07-20T05:57:43.141076-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "96c7f4591c65c46e12027e6b1234533f": {
     "id": "96c7f4591c65c46e12027e6b1234533f",
@@ -9559,7 +9594,9 @@
     "priority": 5,
     "first_seen": "2026-07-20T13:12:57.963687-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "d9a692d7d6de9b1689ea8158d2d1863e": {
     "id": "d9a692d7d6de9b1689ea8158d2d1863e",
@@ -9579,7 +9616,9 @@
     "priority": 5,
     "first_seen": "2026-07-20T13:12:59.673317-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "f9f23f6283715295f59724fa59e8e528": {
     "id": "f9f23f6283715295f59724fa59e8e528",
@@ -9597,7 +9636,9 @@
     "priority": 5,
     "first_seen": "2026-07-20T13:13:01.569492-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "fa448be823c307a6aee2ddb4b78c08f4": {
     "id": "fa448be823c307a6aee2ddb4b78c08f4",
@@ -9615,7 +9656,9 @@
     "priority": 5,
     "first_seen": "2026-07-20T13:13:03.396830-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "31ab8b330c965a9cd9fda453cbfb6a7e": {
     "id": "31ab8b330c965a9cd9fda453cbfb6a7e",
@@ -9633,7 +9676,9 @@
     "priority": 1,
     "first_seen": "2026-07-20T18:07:42.590742-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "830c36f89ce70eed1b2349b5e0b4d50b": {
     "id": "830c36f89ce70eed1b2349b5e0b4d50b",
@@ -9651,7 +9696,9 @@
     "priority": 1,
     "first_seen": "2026-07-21T00:13:35.308305-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "874cd9abfb698bf1d5999b182b908b2f": {
     "id": "874cd9abfb698bf1d5999b182b908b2f",
@@ -9669,7 +9716,9 @@
     "priority": 4,
     "first_seen": "2026-07-21T04:29:35.682244-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-02T17:39:47.129361-07:00",
+    "dead_strikes": 0
   },
   "7b2407ae209ea7c7ae0822bfc8dba5c7": {
     "id": "7b2407ae209ea7c7ae0822bfc8dba5c7",
@@ -16564,7 +16613,8 @@
     "priority": 5,
     "first_seen": "2026-08-31T13:08:26.214714-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Who We Are?\n\nNovoEd\u2019s talent development platform empowers organizations to design and deliver experiential learning that accelerates business performance on a global scale. Since the company\u2019s founding at Stanford\u2019s social algorithm laboratory in 2012, global corporations, executive education providers, and training firms have relied on NovoEd to develop high-value capabilities through purposeful practice and application, coaching and mentorship, and group collaboration. NovoEd\u2019s proven approach to learning connects diverse groups of learners, mentors, and leaders in a high-impact online environment, unlocking your organization\u2019s collective knowledge and driving measurable outcomes.\n\nWho Are You?\n\nAre you passionate about building meaningful digital products that solve hard problems and delight users? Do you believe in the power of learning to transform careers and companies? Are you interested in working with a talented, mission-driven team?\n\nMore importantly, do you thrive with ownership and autonomy? As a small, agile team, we\u2019re looking for a Senior UX Designer who can independently lead design initiatives from exploration through implementation. Design is one of NovoEd\u2019s key differentiators. You\u2019ll partner with a cross-functional team that values craft, collaboration, and outcomes. If you\u2019re excited by user-centered design, fast iteration, and having a strategic seat at the table, we\u2019d love to talk.\n\nWhat Will You Do?\n\nDesign scalable, collaborative, and social online learning experiences used by Fortune 500 companies, universities, and training organizations\n\nOwn 1-2 major projects at any time, serving as the design lead who shapes solutions from initial problem exploration through final implementation\n\nPartner closely with the product management team to frame problems, define project scope, explore multiple design approaches, and make well-reasoned recommendations\n\nProvide production-ready mocks and assets, and work closely with engineers to balance quality and feasibility\n\nConduct user research and usability testing to validate design decisions and understand user goals\n\nWhen challenges arise, proactively align stakeholders, propose solutions, and adjust scope as needed\n\nHelp shape the future of our product by contributing to product strategy and roadmap discussions\n\nWhat Skills Are Needed For This Role?\n\nExperience & Skills\n\n5+ years of experience designing products that have been used by end users and clients at scale\n\nProven track record of solving complex real-world problems with strategic thinking and elegant, user-centered solutions\n\nProficiency with the full design toolkit: wireframing, user flows, high-fidelity mocks, prototyping, user interviews, and usability testing\n\nExpert-level skills with design tools like Figma, including advanced features like components and design libraries\n\nExperience maintaining visual and interaction consistency by working within established design systems and contributing to their evolution\n\nStrong visual design foundation with attention to detail and pixel-perfect execution\n\nUnderstanding of accessibility standards (WCAG 2.1) and inclusive design principles\n\nExperience designing responsive Web/Mobile experiences\n\nUnderstanding of HTML/CSS and development constraints\n\nExperience designing AI-powered features that enhance user workflows and personalize experiences is a plus\n\nFamiliarity with GenAI tools to accelerate workflows is a plus\n\nPreferred Qualifications\n\nIndependent ownership : You can take projects from problem definition through execution, managing stakeholder relationships and driving decisions without constant guidance. You\u2019re comfortable navigating ambiguity during early exploration phases and can synthesize unclear requirements into actionable design directions\n\nCollaborative leadership : You excel at building productive relationships with cross-functional partners of varying experience levels, from PMs to engineers\n\nStrategic communication : You present complex idea"
   },
   "de0b2bffd640c9f8198b1c489215df6f": {
     "id": "de0b2bffd640c9f8198b1c489215df6f",
@@ -16582,7 +16632,8 @@
     "priority": 5,
     "first_seen": "2026-08-31T16:50:36.027815-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Our Mission\nRebuild how the world works, to make institutions work better for the people they serve.\n\nAbout Brain Co.\nBrain Co. builds AI-native operating systems for large, regulated institutions. Each system is built for a specific industry, powered by agents that push real workflows forward. Underneath it all is Atlas, our proprietary platform that keeps customers in control, secure by design, and never locked into one model.\n\nWhy Now\nBrain Co. is entering its next phase of production deployments on a national scale with an elite team built from Palantir, Google, Meta, and Nvidia, and a growing footprint across government, insurance, health, and financial services.\nJoining now means shaping both the company and a new category of applied AI. Every project here ships to production and is expected to create measurable customer value and impact.\nYou'll work alongside exceptional peers on some of the hardest problems in applied AI. It\u2019s the kind of work you'll still be proud of in ten years from now.\n\nAbout The Role\nWe are looking for a passionate and experienced Product Designer. You will play a critical role in shaping both the visual and structural design of complex, AI-driven software products. Your contributions will directly influence the company\u2019s trajectory and the success of our innovative product suite.\n\nWhat You'll Do\nLead end-to-end design efforts, including UX research, interaction design, visual design, prototyping, and testing.\n\nExperiment with new AI design tools like Lovable, v0, and more to define how Product Design\u2019s function on product teams is changing.\n\nCollaborate closely with product managers, engineers, and stakeholders to understand user requirements and translate them into elegant, intuitive solutions.\n\nDesign sophisticated software experiences tailored for enterprise and governmental environments, prioritizing usability, scalability, and aesthetics.\n\nHelp establish and evolve the design system and guidelines to ensure consistency, quality, and efficiency across all products.\n\nAdvocate for the user, continuously seeking insights and data to iterate and refine our product experiences.\n\nQualifications\n10+ years of professional experience in software product design, with a strong portfolio demonstrating elegant solutions for complex enterprise software.\n\nProven experience designing visually appealing, workflow-oriented products that significantly improve user productivity.\n\nExceptional skills in design tools (Figma, Adobe Creative Suite, etc.) and familiarity with prototyping tools (e.g., Rive, Framer).\n\nStrong understanding of UX principles, design thinking, and accessibility standards.\n\nExperience working collaboratively in fast-paced, agile, and multidisciplinary teams.\n\nExcellent communication and presentation skills, with the ability to clearly articulate design decisions and rationale.\n\nPrior experience in AI-driven or data-intensive software solutions is a significant plus.\n\nWhy Join Us\nShip quickly, iterate constantly and see your work deployed at global scale\n\nCollaborate with industry veterans from Airbnb, Apple, Google and more\n\nAccelerate your career with ownership based on impact, not tenure\n\nEarn competitive compensation + meaningful equity in a high-growth company\n\nThrive in a culture built on speed, curiosity, and impact\n\nIf you want to see your work deployed at scale with real impact, Brain Co. is the place to build.\nAt Brain Co., we believe in transparent, data-driven compensation that attracts and retains top talent. Our compensation framework is built on market research from leading platforms including Pave and Carta, ensuring our offers are competitive and equitable across all roles. We regularly benchmark our compensation packages against technology companies to maintain our position as an employer of choice."
   },
   "496252d119c60d3dd7f1cea79a8ea04a": {
     "id": "496252d119c60d3dd7f1cea79a8ea04a",
@@ -16600,7 +16651,8 @@
     "priority": 5,
     "first_seen": "2026-09-01T06:42:06.872030-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "We're looking for a talented UI/UX Artist with experience creating intuitive, player-focused interfaces for games, helping shape the user experience of an immersive VR flight simulation project from concept through to implementation.\nAs these are project-based opportunities, positions may be amended, postponed, or withdrawn as a result of changing client requirements and project priorities.\nRequirements\nProven experience as a UI/UX Artist on game development projects, with a strong portfolio demonstrating user-centred design, interface design, and player experience solutions.\nStrong understanding of UX principles, player flows, information architecture, and usability, with the ability to create intuitive and engaging user experiences.\nExperience designing high-quality game interfaces, HUDs, menus, and supporting UI elements from concept through to implementation.\nExperience collaborating closely with designers, engineers, and artists to ensure UI designs are both visually compelling and technically achievable.\nStrong communication skills and an iterative mindset, comfortable gathering feedback and refining designs throughout development.\nExperience designing UI/UX for VR experiences, with an understanding of immersion, spatial interfaces, player comfort, and interaction design.\nExperience on first-person experiences, simulation titles, or flight simulation projects.\nFamiliarity with Unreal Engine 5 and implementing or supporting UI workflows using UMG.\nYou will be working for the world's leading provider of game services.\nWe empower our people and offer regular progression opportunities to ensure our employees flourish.\nSide\u00a0(formerly PTW) is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world. Founded in 2009 and drawing on 30+ years' experience from our parent company in Japan, Side has since grown to become a global force with 20 studios in 14 countries across North America, Europe, South America, and Asia.\nOur industry-leading services include game development, art production, audio production, quality assurance, localization, localization QA, player support, community management, and datasets.\nExperience our side of life. For more information, visit\u00a0 www.side.inc\nO Product Designer at OOCA D UI/UX Designer at DVI Solutions S User Experience Design at Stradit I UI/UX Product Designer at INDICO S UI/UX Designer at Stradit\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUI/UX Design Salary Guide UI/UX Design Salary in Brazil\nApply for this job Please let Side know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nAlternative Payments is hiring Product Designer\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "62926fecfe30572bf1c36bc5f775a1b2": {
     "id": "62926fecfe30572bf1c36bc5f775a1b2",
@@ -16618,7 +16670,8 @@
     "priority": 5,
     "first_seen": "2026-09-01T06:42:08.554471-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "\u26a0\ufe0f We Prioritize Candidates from the Republic of the Philippines \ud83c\uddf5\ud83c\udded\n\u26a0\ufe0f And those who actually read the full job description \ud83e\udde0\nWork Schedule:\u00a09:00 AM - 6:00 PM Central Standard Time ( 10:00 PM - 7:00 AM Philippine Time )\nWe\u2019re looking for a creative and detail-oriented Web Designer to craft engaging, user-centered website experiences for a diverse portfolio of brands. This is a design-focused role for someone who enjoys solving visual and usability challenges, collaborating with cross-functional teams, and creating websites that are both aesthetically compelling and conversion-focused.\nThe ideal candidate has a strong portfolio of modern website designs, understands user experience best practices, and thrives in a collaborative, fast-paced remote environment.\nPlease note: This is a design-only position and does not involve front-end or back-end web development.\nDesign visually compelling, user-friendly websites for a variety of industries and business sizes.\nCreate wireframes, user flows, mockups, and high-fidelity designs from concept through final approval.\nDesign responsive experiences that perform seamlessly across desktop, tablet, and mobile devices.\nCollaborate closely with developers to ensure design intent is accurately translated into the final website.\nWork within project requirements, timelines, and established brand guidelines.\nApply UX and conversion optimization principles to improve usability and user engagement.\nOrganize and maintain clean, scalable design systems and project files.\nIncorporate stakeholder feedback while maintaining design quality and consistency.\nManage multiple design projects simultaneously while meeting deadlines.\nQualifications\n3 to 4 years of professional experience in web design.\nStrong portfolio demonstrating modern, responsive websites that have been launched successfully.\nAdvanced proficiency in Figma, including Auto Layout, Components, Variants, and design systems.\nStrong understanding of responsive web design and mobile-first design principles.\nSolid knowledge of user experience (UX), user interface (UI), and conversion-focused design.\nExperience designing websites for Shopify and WordPress platforms.\nFamiliarity with website structure, layouts, and theme customization from a designer\u2019s perspective.\nUnderstanding of accessibility best practices, including color contrast, typography, navigation, and inclusive design.\nExcellent visual design skills, including typography, spacing, composition, color theory, and hierarchy.\nStrong organizational skills with meticulous attention to detail.\nExcellent communication, collaboration, and time management skills.\nAbility to work independently while contributing effectively to a remote team.\nPreferred Qualifications\nExperience creating design systems and reusable UI component libraries.\nFamiliarity with website analytics or conversion rate optimization (CRO) principles.\nBasic understanding of HTML and CSS to facilitate collaboration with developers.\nExperience working in a digital agency or managing multiple client brands simultaneously.\nKnowledge of current web design trends, interaction patterns, and emerging UX best practices.\nWe\u2019re seeking a designer who combines creativity with strategic thinking. The ideal candidate understands that great web design goes beyond aesthetics. It creates intuitive experiences, supports business objectives, and helps users accomplish their goals effortlessly. If you\u2019re passionate about crafting thoughtful digital experiences and enjoy working on a wide variety of projects, we\u2019d love to hear from you.\nO Product Designer at OOCA D UI/UX Designer at DVI Solutions S User Experience Design at Stradit I UI/UX Product Designer at INDICO S UI/UX Designer at Stradit\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nApply for this job Please let C9Staff know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nBalsam"
   },
   "7c567aa6697c6575afb0f3a1f04d4d0b": {
     "id": "7c567aa6697c6575afb0f3a1f04d4d0b",
@@ -16636,7 +16689,8 @@
     "priority": 4,
     "first_seen": "2026-09-01T06:42:10.433901-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Founded in 1989 and headquartered in Reston, Virginia, SOSi is a private defense and government solutions business specializing in advanced technology systems and mission support. Its capabilities include data science, software development, network engineering, intelligence, surveillance, and reconnaissance (ISR), and logistics.\nJob Description\n*Position is contingent upon contract award*\nSOSi is seeking a UI/UX Designer. The UI/UX Designer will provide user interface/user experience to design, research, and development plans in support of the Sponsor's applications. The Contractor shall leverage expertise in UI/UX design principles, human-centered design, and user research to create intuitive and user-friendly digital experiences.\nConduct\u00a0user research to understand user needs and behaviors, including interviews, surveys, and usability testing.\nCreate\u00a0user personas, user flows, and wireframes to inform design decisions.\nDeveloping and conceptualizing a comprehensive UI/UX design strategy for Sponsor's digital assets.\nDesign\u00a0UI elements such as navigation menus, search boxes, and CTAs, to enhance user experience.\nCreate\u00a0high-fidelity prototypes and testing designs to validate user experience.\nCollaborate\u00a0with development teams, stakeholders, and Sponsor's representatives to ensure design requirements are being met.\nProvide\u00a0guidance on the implementation of UX research methodologies and testing activities.\nMaintain\u00a0a competitive edge by staying up to date with industry trends and emerging technologies.\nQualifications\nDemonstrated professional experience with the following tools, systems, services, and data types: User research methodologies, including user interviews, surveys, and usability testing, to inform design decisions and validate user experience.\nProficiency in UI/UX design tools, such as Sketch, InVision, and Adobe Creative Suite, to create high-quality design solutions.\nExperience with wireframing and prototyping tools, such as Figma and Axure, to develop and test design concepts.\nStrong understanding of human-centered design principles and design thinking to create intuitive and user-friendly digital experiences.\nKnowledge of HTML, CSS, and JavaScript fundamentals to effectively communicate design requirements to development teams.\nExperience with design systems and style guides to ensure consistency and coherence across Sponsor\u2019s digital assets.\nPreferred Qualifications\nExperience with mobile and web application design, including responsive design principles and mobile-specific design considerations.\nFamiliarity with Sponsor\u2019s existing design systems and brand guidelines to ensure alignment with Sponsor\u2019s overall visual identity.\nKnowledge of emerging trends and technologies in UI/UX design, such as AR/VR and voice UI, to stay ahead of the curve and identity new opportunities.\nExperience with usability testing and user feedback analysis to inform design decisions and iterate on design solutions.\nWorking conditions are normal for an office environment.\nAll interested individuals will receive consideration and will not be discriminated against for any reason.\nO Product Designer at OOCA D UI/UX Designer at DVI Solutions S User Experience Design at Stradit I UI/UX Product Designer at INDICO S UI/UX Designer at Stradit\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUI/UX Design Salary Guide UI/UX Design Salary in United States UI/UX Design Salary in Virginia\nApply for this job Please let SOSi know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nRelated Jobs See more jobs from United States\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "8e0d68ab00ce14cec79b6d2f3e5b57b8": {
     "id": "8e0d68ab00ce14cec79b6d2f3e5b57b8",
@@ -16654,7 +16708,8 @@
     "priority": 5,
     "first_seen": "2026-09-01T06:42:12.342241-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Metaview is an AI company focused on recruiting. We build AI agents that help world-class companies hire with radically more speed and precision. We automate the toil, and augment the human for companies like Brex, Affirm, Deel, ElevenLabs, and Airtable.\nFounded by Siadhal and Shahriar after their experiences scaling Uber and Palantir, we\u2019ve raised over $50m from top-tier investors. Most recently, Google Ventures led our series B. We\u2019re growing 5x YoY, our customers are raving fans of the product, and our story has been covered in Fortune, Forbes, TechCrunch, and The Times.\nIt\u2019s still day 0: Now is the time to re-engineer how work gets done with AI at the core, and our toughest challenges still lie ahead. We\u2019re looking for people seeking the hardest, most fulfilling work of their lives.\n\nHow we work\nWe operate with one core principle: velocity. In practice, this means we:\nOptimize everything we do around accelerating rate of learning.\n\nDo truly great work\n\nCommunicate openly and directly, and with full context.\n\nAll while maintaining a hard-earned reputation for craft and quality.\n\nThe role:\nWe\u2019re looking for a Brand Designer to shape how Metaview shows up in the world.\n\nYou\u2019ll work across every expression of our brand, from our website and product launches to campaigns, events, video, and everything in between. You\u2019ll work closely with Design, Marketing, Product, and our founders to turn complex products and ideas into work that feels simple, distinctive, and unmistakably Metaview.\n\nWe care deeply about craft, but also about how we produce it. We\u2019re looking for someone who thinks in systems, gets close to the technology, and builds foundations that help us move faster without lowering the bar.\n\nWhat you'll do:\nWebsite: Maintain and evolve our public site, keeping it sharp, fresh, and differentiated.\n\nBrand system: Evolve Metaview\u2019s visual identity and turn it into scalable systems and toolkits across typography, color, illustration, icons, photography, and motion.\n\nCampaigns & collateral: Create standout work across digital, social, print, events, swag, and other brand moments, from concept through production.\n\nIllustration & graphics: Develop distinctive visuals for our website, product experiences, campaigns, and other channels.\n\nVideo: Storyboard and direct the visual style of product explainers and brand videos. Animation skills are a bonus, not a requirement.\n\nPresentations: Design compelling decks and assets that bring Metaview\u2019s story to life.\n\nCollaboration: Partner closely with Marketing, Product Design, Video, Events, and Operations from initial brief through final delivery.\n\nWhat you bring:\nA strong portfolio showing exceptional brand thinking, visual storytelling, typography, layout, and art direction across digital and physical touchpoints.\n\nExcellent creative judgment: you can take an ambiguous brief, find the sharpest idea, and turn it into polished, distinctive work.\n\nHigh standards and high velocity: you care deeply about craft, sweat the details, and know when to move quickly.\n\nHigh agency and low ego: you take ownership, work autonomously, collaborate well, and stay hands-on from concept through production.\n\nA first-principles mindset and appetite for solving hard creative problems rather than defaulting to what\u2019s been done before.\n\nGenuine curiosity about AI and excitement to help define the visual language of a company building at the frontier.\n\nWhat we offer:\nHigh compensation, through cash and equity.\n\nWe'll pay for any AI tools & books/resources you need as part of your role.\n\nUnlimited PTO.\n\nA ramp card for your WFH setup and the freedom to buy lunch & dinner any time you're in the office.\n\nThe best co-workers you\u2019ll ever have, in an environment that fosters cohesion, collaboration, and performance.\n\nSupreme rate-of-learning as we re-orient how the world works with AI."
   },
   "f817dfe0c4b4ce40e08d12dd43207d46": {
     "id": "f817dfe0c4b4ce40e08d12dd43207d46",
@@ -16672,7 +16727,8 @@
     "priority": 1,
     "first_seen": "2026-09-01T06:42:14.276724-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "1e416d58c61377fbda241c744fe736ca": {
     "id": "1e416d58c61377fbda241c744fe736ca",
@@ -16690,7 +16746,8 @@
     "priority": 5,
     "first_seen": "2026-09-01T10:27:56.742820-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "ddf20e3089e907ef9fff6ef12a683526": {
     "id": "ddf20e3089e907ef9fff6ef12a683526",
@@ -16708,7 +16765,8 @@
     "priority": 5,
     "first_seen": "2026-09-01T10:27:58.356974-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "About Clerk\n\nClerk is on a mission to solve the user identity layer once and for all. We are a globally distributed team dedicated to providing best-in-class developer infrastructure to build the next generation of AI software. Today, we provide developers with full-stack React components and hooks like , , , useUser, and useOrganization. These APIs allow developers to build hard-to-get-right infrastructure for user identity, organization management and billing flows. We believe that a component is worth a thousand APIs.\n\nWhat you will do\n\nYou\u2019ll join Visual Designers, UI Engineers, and fellow Product Designers on the Clerk Design team to own and uplevel the Clerk brand. You\u2019ll optimize for customer delight, flexibility, and ease-of-use within a complicated, technical domain.\n\nWe will expect you to:\n\nUplevel the Clerk brand . Lead creative direction and design to personally ship brand assets including brand identity, .com, product launches and more\n\nCollaborate with a cross-disciplinary team . You\u2019ll work with UI engineers, animators, product designers and more to create an elevated brand identity.\n\nBring innovative approaches to brand design . Use new approaches to bring digital experiences to life and create scalable tools that increase high quality brand output\n\nNot settle for less than pixel-perfection . You\u2019ll work with a world-class UI Engineering team to bring your Figma frames to life. You set the bar for quality.\n\nElevate our design culture . You\u2019ll support and expand the Clerk Design visual language, asset library, brand design system, and design processes.\n\nWho you are\n\nYou\u2019re a Senior(+) level Brand Designer or Visual Designer with experience working in deverloper tools, AI or infra related brands. You love your craft. You push UI Engineers to build experiences they\u2019re unsure if they\u2019re capable of (and you expect them to do the same for you).\n\nYou\u2019re in the Americas. The Clerk Design team is spread across the globe; Product Design currently spans UTC+1 to UTC+5:30. You live in a location that is \u00b13 hours within U.S. Mountain Time (MDT, UTC\u221206:00).\n\nYou have technical fluency. You have a deep understanding of designing interactive software on the web. You don\u2019t need to author production-ready front-end code, but it\u2019s a big plus if you can.\n\nYou work iteratively . Your process embodies a \u201cship and iterate\u201d mentality. You value the quick pace of a growing startup like Clerk.\n\nYou own your time. You\u2019re a self-starter who would rather find a tough problem to solve instead of waiting for a new task. To be successful at Clerk, you need to make the most of the autonomy you\u2019re given.\n\nBenefits\n\nCompetitive Salary \u2013 We want you to know that we value the skills and experience you bring to the table. We go out of our way to make sure that you feel fairly compensated.\n\nEquity Ownership \u2013 At Clerk, we believe in shared success. That\u2019s why we offer a stock option plan so that everyone can benefit from the growth and prosperity of the company.\n\nHealth Coverage \u2013 We care about your well-being. That\u2019s why we offer top-tier health insurance to ensure that your health needs are fully met.\n\nWork Gear - Set up your ideal home office with the gear of your choice. At Clerk, we want to ensure that you have everything you need to perform at your best.\n\nFlexible Vacation Policy \u2013 We believe in work-life balance and trust you to take the time you need. Although we recommend 25 days per year, our vacation policy is unlimited. This is in addition to observing national holidays specific to your country of residence.\n\nDiverse and Inclusive Team \u2013 Join our exceptional, diverse, and globally distributed team at Clerk. We are committed to fostering an inclusive environment where everyone can contribute their best in building impactful products and tools for the modern web."
   },
   "1348c1853ca44c0f9dbb8051d2da6b18": {
     "id": "1348c1853ca44c0f9dbb8051d2da6b18",
@@ -16726,7 +16784,8 @@
     "priority": 5,
     "first_seen": "2026-09-01T10:28:00.087908-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "About Gusto\n\nAt Gusto, we\u2019re on a mission to grow the small business economy. We handle the hard stuff \u2014 payroll, health insurance, 401(k)s, and HR \u2014 so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve.\n\nAll full-time employees receive competitive base pay, benefits, and equity (RSUs) \u2014 because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy.\n\nAI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.\n\nAbout the Opportunity\n\nBrand design is how Gusto earns trust, builds recognition and insight, and makes people feel something before they ever read a word. Our Brand is about how we show up in every moment and this team owns some of its most important attributes from how we use language to typography, from color and composition to illustration, motion.These aren\u2019t finishing touches. They\u2019re critical to how we \u00a0show who we are and why we\u2019re different.\n\nGusto is expanding our in-house creative studio inside a fast-moving, late-stage startup. We launch products, educate customers, run brand campaigns, and show up at events\u2014and we do all of it with a consistent visual language and voice that needs to work across digital channels, motion formats, physical environments and everything in between. In the same week, you might be designing the visual system for a product launch and art directing an illustration library that will scale across the entire brand.\n\nWe\u2019re looking for a Brand & Motion Designer who is a hands-on maker: someone who loves the craft of visual design and motion, takes real ownership of creative output, and wants to help define how Gusto looks, feels, and moves across our brand. This is a senior individual contributor role focused on brand craft, motion design systems, and the variety of deeply considered visual work that makes a B2B brand feel genuinely human.\n\nIn this role, you\u2019ll own creative work from early concept through final delivery. You\u2019ll make judgment calls about typography, composition, color, and motion, and increasingly, that judgment extends to the AI-assisted work happening around you. You\u2019ll know when a generated output is right for the brand and when it isn\u2019t, and you\u2019ll be able to say why. You\u2019ll help introduce motion as a foundational part of how we build brand as someone who thinks in motion and ensures it\u2019s part of the creative process from the start.\n\nAI is part of how this team works. We use it to advance faster, explore more territory, and reduce the distance between a concept and something real. What we\u2019re looking for isn\u2019t just someone who uses these tools but someone who can direct them. Someone who sets the creative standard for what AI output is and isn\u2019t acceptable for the Gusto brand, and who helps us build the guardrails and workflows that let the whole team produce at a higher level.\n\nIf you\u2019re energized by being close to the work, care deeply about craft & preference, and enjoy improving both the output and the process, this role will be a impressive fit.\n\nHere\u2019s what you\u2019ll do day-to-day\n\nDesign and execute visual and motion work across product launches, product education, brand campaigns, events, and digital channels\n\nDesign and evolve brand systems, including motion guidelines, templates, and guardrails, that help the broader organization produce on-brand work consistently\n\nIntegrate motion into the brand design process, establishing principles and patterns for animation that extend our visual identity into dynamic and digital formats\n\nDirect and evaluate AI-generated creativ"
   },
   "40031bcc35ed2c1004dde2b767abf7f4": {
     "id": "40031bcc35ed2c1004dde2b767abf7f4",
@@ -16745,7 +16804,8 @@
     "priority": 4,
     "first_seen": "2026-09-01T10:28:53.853345-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Air is the leader in Enterprise Readiness. Our mission is to establish readiness as a real-time condition that is continuously achieved. Today, a dangerous Readiness Gap exists between what the front line needs and what is delivered. Our AI-native platform, Air Enterprise Readiness, aligns development, production, delivery, and sustainment into one coordinated execution system for government agencies and industrial suppliers. By revealing true capacity, exposing real constraints, coordinating resources, and executing at the speed of operational demands, the front line gets what it needs to succeed.\nJob Description\nWe are looking for a highly experienced Product Designer to continue growing our Design team and help shape the future of the Air Enterprise Readiness Platform. This role is highly embedded: you will work directly alongside our forward-deployed engineers and end-users, requiring a designer who values speed of delivery over perfection and rapid iteration. You must be a critical thinker and problem solver who can take ownership of feature strategy and development. A strong candidate can not only convert ambiguous objectives into empowering and enjoyable experiences but also helps facilitate all parts of the process, including rapid, low-fidelity prototyping, interaction design, and on-site client engagement to drive continuous UX research and ensure we are building for user needs.\nOur product team is a collaborative group of product managers, implementation, and engineers. We operate in integrated deployments, each focused on key user workflows and needs we have identified in the defense space. You will join a deployment depending on your background and take charge of the tasks for that track.\nIn a typical week, the individual who fills this position could expect to:\nCollaborate directly with end-users and forward-deployed engineers to understand mission-critical workflows.\nGather real-time feedback and iterate rapidly on design solutions within the operational environment.\nCollaborate with product managers and engineers to scope, architect, and deliver 0-to-1 product initiatives and prototypes.\nAssess, prioritize, and address the most critical gaps in prototype solutions under development, based on user feedback and in partnership with product managers.\nThis role is a full-time position located out of our offices in Pittsburgh, PA.\nAct as an embedded UX expert, collaborating closely with forward-deployed engineers, data analysts, go-to-market teams, and end-users to rapidly understand user needs and apply UX best practices to translate them into validated product features and user experiences.\nExecute rapid prototyping cycles by quickly designing and documenting user flows, wireframes, and interactive prototypes, prioritizing speed and iterative testing to optimize data visualization and facilitate data exploration.\nCollaborate directly with embedded product and engineering teams to support design implementation, engaging in productive cost-benefit discussions that balance speed and delivery with design integrity for future iteration.\nPresent designs and key milestones to clients, peers, and executive-level stakeholders, grounding all decisions in UX research best practices and validated user needs.\nContribute to the development and maintenance of an established design system and UI component library.\nBecome an expert on Air.ai itself and the commercial and publicly sourced data it contains.\nQualifications\nBachelor's degree in HCD, HCI, Graphic Design, Interaction Design, or related field.\n3-5+ years of experience designing and shipping complex, intuitive, and successful web-based products - ideally with a data component.\nProven experience working in a highly agile, embedded development process, demonstrating an ability to prioritize speed of delivery and rapid iteration while ensuring quality.\nPortfolio with revenue-generating case studies.\nInterest in defense tech, analysis, and data visualization.\nAbility to work i"
   },
   "2b53a99d09a5d991ae8cd369586a08af": {
     "id": "2b53a99d09a5d991ae8cd369586a08af",
@@ -16763,7 +16823,8 @@
     "priority": 5,
     "first_seen": "2026-09-01T13:03:23.471766-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "75656ae02e0e350ce5334ef9993c3134": {
     "id": "75656ae02e0e350ce5334ef9993c3134",
@@ -16781,7 +16842,8 @@
     "priority": 1,
     "first_seen": "2026-09-01T22:05:30.166119-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "644658092c49d34af574ac5371541a8a": {
     "id": "644658092c49d34af574ac5371541a8a",
@@ -16799,7 +16861,8 @@
     "priority": 5,
     "first_seen": "2026-09-01T22:05:32.050944-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "About HappyRobot\nHappyRobot is the infrastructure for enterprises to build and orchestrate AI workforces. Our AI workers don't just communicate through voice and email - they make decisions, take action, and run operations autonomously across entire enterprise systems. Born in Y Combinator (S23) and backed by a16z, Base10, Prysm Capital and Eurazeo with over $150M raised, we power critical operations for global enterprises worldwide.\nOur platform is battle-tested in the most demanding environments, where AI has real consequences. We started in logistics, built our own voice stack, models, and orchestration layer from the ground up, and are now bringing that infrastructure to every enterprise that runs the real economy. Learn more about our vision in our manifesto.\n\nRole Overview\nWe are looking for a Brand Designer to join our creative team. You will maintain and evolve HappyRobot's visual language across a high volume of brand and marketing work \u2014 bringing our brand to life consistently across every touchpoint while finding fresh, compelling ways to make it better.\nThis is a hands-on production role for someone who loves great design and takes pride in craft. Your deepest strength is execution: turning briefs into polished, on-brand assets at pace, without sacrificing quality. That said, you operate with a creative eye \u2014 not just producing work to spec, but actively making it better at every step. You'll iterate on ideas, solve real design problems, and help shape how HappyRobot shows up in the world.\n\nWhat You'll Do\nBrand & Marketing Design Design a wide range of assets across digital, social, print, and physical formats \u2014 social graphics, carousels, ads, banners, presentations, OOH, merch, and more. Deliver polished, consistent work at high volume and quick turnaround without letting quality slip.\n\nBrand System Stewardship Maintain and evolve our established brand system. Keep everything consistent and on-brand while finding fresh ways to push the visual language forward. Be the person who raises the bar, not just holds the line.\n\nVisual Communication Design assets that communicate complex AI and enterprise concepts in a simple, engaging way. Clarity and craft are not in tension here \u2014 both are expected.\n\nSocial & Campaign Support Support brand awareness and social growth through strong, consistent visual storytelling. Understand what performs on each platform and design accordingly.\n\nPresentation Design Support deck and presentation design for key company moments \u2014 all-hands, fundraising, partnerships, and executive communications.\n\nDesign Library & Templates Help build and organize our design library, templates, and reusable assets so the team moves faster without reinventing the wheel.\n\nAI-Integrated Workflow Integrate AI tools \u2014 Claude, generative AI, and AI-assisted design tools \u2014 into your production and ideation process. Use them to move faster and explore more, not to cut corners.\n\nMust Have\n5+ years of professional experience in brand or marketing design.\n\nA strong portfolio showing range, polish, and consistency across brand and marketing work.\n\nDeep command of design fundamentals: typography, hierarchy, composition, and layout.\n\nFluency in Figma and the Adobe Creative Suite.\n\nAbility to design across multiple formats: social, digital, print, and campaign assets.\n\nThrives on production volume and quick turnarounds without sacrificing quality.\n\nClear, concise communicator and strong collaborator across a distributed team.\n\nComfortable working in a fast-paced, high-ownership environment.\n\nComfortable integrating AI tools into a modern design and production workflow.\n\nNice to Have\nMotion design, video editing, After Effects, or 3D rendering experience.\n\nExperience at a startup or fast-paced in-house team.\n\nGenuine interest in AI, technology, or the future of work.\n\nWhy join us?\nJoin a world-class team of engineers and builders.\n\nBacked by top investors including a16z, Y Combinator, Base10, Prysm Capital and Eurazeo.\n\n"
   },
   "39fdd1c877816bb1937fddffa6e54dce": {
     "id": "39fdd1c877816bb1937fddffa6e54dce",
@@ -16817,7 +16880,8 @@
     "priority": 1,
     "first_seen": "2026-09-02T06:52:51.211236-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Voice AI is a nascent space with no established design conventions. The patterns that define how people build, configure, and interact with AI agents are being written right now by a small number of companies, including us. We have a strong, creative brand and a rapidly expanding product surface.\nThe role\nYou'd own how the product looks and how it behaves: the interaction model, the visual language, and the design system that establishes both in the codebase.\nYou'd work day to day with our lead designer and PM. They live in product direction and there's no shortage of opinion there, so you won't be starting from a blank page on what to build. This role is responsible for how users interact with the product and how it looks when it ships. This role reports to our Design Lead.\nThe design system. Architecture, components, and motion. You should be familiar with design.md files and enforcing usage in an AI-driven environment.\nInteraction design for major surfaces, from how something should behave through the shipped UI.\nEstablishing the product\u2019s visual direction and evolving it as the product surfaces expand.\nPushing PRs of frontend polish in the codebase (don\u2019t worry, we\u2019re very AI-friendly).\nContribute to solving product problems with the lead designer and PM, then taking the craft the rest of the way.\nCustomers use our dashboard to build, test, evaluate, and run LLM voice agents. Behavior gets configured instead of scripted, none of the outputs are deterministic. Our users are technical and non-technical, from CIOs and call center experts to our in-house FDE team.\nWe're most of the way through a ground-up redesign of the dashboard and we\u2019ll be landing it in the next quarter, so this role will be a major contributor early and meaningfully.\nOpening a PR in the morning and merging it that afternoon is completely normal, and it's one of the better things about working here.\nPriorities move around. You might start the week on one surface and spend Wednesday somewhere else, and you'll usually have three or more things going at once.\nThat pace depends on AI tools. Running several Claude sessions at once to keep your PRs moving is an ordinary day around here, and we expect you to keep pushing on how you work.\nThe bar is high and we're not shy about it. We want the design held to the same standard as the model: good enough that other people in voice AI look at what we ship and copy it.\nVisual work that stands on its own. We want to open your portfolio, look at something you shipped, and be genuinely impressed. You have opinions about how software should look in the age of generative design.\nA design system you built that made it into production. A clean Figma library matters less to us than how it was adopted and used in a product.\nReal depth in interaction design. Snappy hover state animations, what happens in the gap between a click and a result, how a dense table behaves while it's loading or empty or wrong.\nComfortability with AI coding tools. You aren\u2019t afraid to implement frontend polish.\n4+ years shipping web products, including time as the designer at an early-stage B2B SaaS company. You've worked on hard surfaces: data-heavy dashboards, workflow tools, anything where the user configures behavior instead of filling in fields.\nCuriosity about the product itself. You ask engineers how things work, you want to know how the agents behave a level below the screens, and you go get that context rather than waiting for it in a ticket. We\u2019re a lean team and each of us needs to know the product well enough to prioritize which features get built or not.\nFluency with current tools. Figma mastery is assumed. Past that, you're using Weave, Flora, or whatever comes after them, along with modern prototyping tools, as part of how you normally work.\nBrand-level thinking\u2014Product has the opportunity to both work with and make changes to our brand.\nP Lead Product Designer at Paired I Product Designer at Isla H Product Designer at Harvey D Product D"
   },
   "812bc65d12e308a786b95c2bc69c9fb4": {
     "id": "812bc65d12e308a786b95c2bc69c9fb4",
@@ -16835,7 +16899,8 @@
     "priority": 5,
     "first_seen": "2026-09-02T06:52:52.739616-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Help maintain consistency across digital experiences, social content, and brand materials.\nParticipate in design reviews and collaborate with marketing, social, content, and digital teams.\nSupport basic quality assurance to ensure designs are accurate and ready for digital publication.\nRequirements\n2\u20134 years of experience in UX design, digital design, graphic design, or a related creative role.\nPortfolio demonstrating experience with UX, web/digital design, and social media content .\nWorking knowledge of Figma and Adobe Creative Suite or similar design tools.\nUnderstanding of fundamental UX/UI principles , including layout, hierarchy, usability, and responsive design.\nExperience creating digital and social media assets preferred.\nStrong visual design skills with attention to typography, imagery, and brand consistency.\nStrong communication, collaboration, and organizational skills.\nAbility to take creative direction, incorporate feedback, and manage multiple assignments.\nInterest in continuing to develop skills across UX, digital, and social media design\nSand Cherry Associates is required by Colorado law to include a reasonable estimate of the compensation range for this role. This compensation range considers a wide range of factors considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and delivery model. This is a 6 month consulting engagement with an annual salary of $75,000-$85,000. Years of experience, level of education, geographic location, unique skills/qualifications for the specific role and potential certifications can be key factors in the final compensation for this role.\nOur team is unique \u2014 we are passionate about what we do. At Sand Cherry, our Consultants know they are impacting and shaping our clients\u2019 industries. We recognize our employees for their contributions. Our culture is one of the most friendly and communicative in the consulting industry. Sand Cherry is not a top-heavy organization. We offer the opportunity to be part of a digital workforce. Discover the experience that only comes with self-responsibility in the workplace. Our team members manage their own workloads and are expected to deliver exceptional work for our clients. Professional career growth is one of our main priorities, as we affirm that investing in our Consultants and empowering our people will also deliver the best results and value for our clients.\nC Senior UX Strategist at Clear Digital M UX Designer at Mightier F Senior UX Designer at Flexstaf IT F UX Designer at FPT Asia Pacific S Senior UX Designer at Source Code\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUX Design Salary Guide UX Design Salary in United States\nApply for this job Please let Sand Cherry Associates know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "d1ccee4d5a7e1206cdc115e70ef48fb0": {
     "id": "d1ccee4d5a7e1206cdc115e70ef48fb0",
@@ -16853,7 +16918,8 @@
     "priority": 4,
     "first_seen": "2026-09-02T06:52:54.447363-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Ensure consistency across web and mobile platforms.\nPartner with Product Managers, Business Analysts, and Engineering teams throughout the product lifecycle.\nParticipate in Agile ceremonies and support product discovery activities.\nTranslate business requirements into design specifications for development teams.\nReview implementations to ensure adherence to approved designs.\nRequirements\nBachelor's degree in Human-Computer Interaction, Design, Computer Science, or related field.\n10+ years of UI/UX design experience for enterprise web or mobile applications.\nStrong portfolio demonstrating end-to-end UX and UI design work.\nProficiency with Figma, Adobe XD, Sketch, or similar design tools.\nExperience creating wireframes, prototypes, user journeys, and design systems.\nSolid understanding of accessibility, responsive design, and usability principles.\nStrong communication and stakeholder management skills.\nExperience working in Agile/Scrum environments.\nO Product Designer at OOCA D UI/UX Designer at DVI Solutions I UI/UX Product Designer at INDICO S UI/UX Designer at Stradit d Senior UI/UX Designer at dexmate\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUI/UX Design Salary Guide UI/UX Design Salary in United States UI/UX Design Salary in Texas UI/UX Design Salary in Dallas\nApply for this job Please let Stradit know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nRelated Jobs See more jobs from United States\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "ca2909f451757ea43e86dfef3c078d9d": {
     "id": "ca2909f451757ea43e86dfef3c078d9d",
@@ -16871,7 +16937,8 @@
     "priority": 5,
     "first_seen": "2026-09-02T10:33:50.396550-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "About Clerk\nClerk is on a mission to solve the user identity layer once and for all. We are a globally distributed team dedicated to providing best-in-class developer infrastructure to build the next generation of AI software. Today, we provide developers with full-stack React components and hooks like , , , useUser , and useOrganization . These APIs allow developers to build hard-to-get-right infrastructure for user identity, organization management and billing flows. We believe that a component is worth a thousand APIs .\nWhat you will do\nYou\u2019ll join Visual Designers, UI Engineers, and fellow Product Designers on the Clerk Design team to own and uplevel the Clerk brand. You\u2019ll optimize for customer delight, flexibility, and ease-of-use within a complicated, technical domain.\nWe will expect you to:\nUplevel the Clerk brand . Lead creative direction and design to personally ship brand assets including brand identity, .com, product launches and more\n\nCollaborate with a cross-disciplinary team . You\u2019ll work with UI engineers, animators, product designers and more to create an elevated brand identity.\n\nBring innovative approaches to brand design . Use new approaches to bring digital experiences to life and create scalable tools that increase high quality brand output\n\nNot settle for less than pixel-perfection . You\u2019ll work with a world-class UI Engineering team to bring your Figma frames to life. You set the bar for quality.\n\nElevate our design culture . You\u2019ll support and expand the Clerk Design visual language, asset library, brand design system, and design processes.\n\nWho you are\nYou\u2019re a Senior(+) level Brand Designer or Visual Designer with experience working in deverloper tools, AI or infra related brands. You love your craft. You push UI Engineers to build experiences they\u2019re unsure if they\u2019re capable of (and you expect them to do the same for you).\nYou\u2019re in the Americas. The Clerk Design team is spread across the globe; Product Design currently spans UTC+1 to UTC+5:30. You live in a location that is \u00b13 hours within U.S. Mountain Time (MDT, UTC\u221206:00).\n\nYou have technical fluency. You have a deep understanding of designing interactive software on the web. You don\u2019t need to author production-ready front-end code, but it\u2019s a big plus if you can.\n\nYou work iteratively . Your process embodies a \u201cship and iterate\u201d mentality. You value the quick pace of a growing startup like Clerk.\n\nYou own your time. You\u2019re a self-starter who would rather find a tough problem to solve instead of waiting for a new task. To be successful at Clerk, you need to make the most of the autonomy you\u2019re given.\n\nBenefits\nCompetitive Salary \u2013 We want you to know that we value the skills and experience you bring to the table. We go out of our way to make sure that you feel fairly compensated.\n\nEquity Ownership \u2013 At Clerk, we believe in shared success. That's why we offer a stock option plan so that everyone can benefit from the growth and prosperity of the company.\n\nHealth Coverage \u2013 We care about your well-being. That's why we offer top-tier health insurance to ensure that your health needs are fully met.\n\nWork Gear - Set up your ideal home office with the gear of your choice. At Clerk, we want to ensure that you have everything you need to perform at your best.\n\nFlexible Vacation Policy \u2013 We believe in work-life balance and trust you to take the time you need. Although we recommend 25 days per year, our vacation policy is unlimited. This is in addition to observing national holidays specific to your country of residence.\n\nDiverse and Inclusive Team \u2013 Join our exceptional, diverse, and globally distributed team at Clerk. We are committed to fostering an inclusive environment where everyone can contribute their best in building impactful products and tools for the modern web."
   },
   "d63908431e413bb58f54dcc0c4682b78": {
     "id": "d63908431e413bb58f54dcc0c4682b78",
@@ -16889,7 +16956,8 @@
     "priority": 5,
     "first_seen": "2026-09-02T10:33:51.871057-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "About AllTrails\n\nAllTrails is the app for exploring the outdoors. We help people spend more time outside by connecting them to their next adventure. Home to the world\u2019s largest outdoor community, with members and trails around the globe, you can find AllTrails in the Apple App Store, Google Play Store, and at alltrails.com.\n\nEvery day, our team works to get more people outside and help our members have better experiences on the trail. We lead with our values\u2013positivity, innovation, humility, adaptability, inclusivity, and stewardship\u2013in everything we do. Join us!\n\nThis is a U.S. based remote position. While this role does not require in-person attendance, we have a strong preference for candidates based in or near one of these cities: San Francisco CA, Portland OR, Seattle WA, Denver CO, and New York NY. Being in one of these cities creates opportunities to connect with teammates through Trail Days, co-working sessions, and local gatherings while still having the flexibility to work remotely. San Francisco employees are highly encouraged to come to the office one day per week.\n\nAbout the role\n\nAllTrails is where the outdoors comes to life and this role is for a designer who thinks the same way. As part of our product design team, you\u2019ll work at the intersection of craft, product thinking, and technical curiosity. You\u2019ll move fluidly between mapping user behaviors, iterating features, and using code and AI as creative tools to explore what\u2019s possible. You\u2019ll own work end-to-end and ship things that matter to millions of people who spend their lives outside.\n\nDue to high candidate volume and to ensure our hiring team has sufficient time to give every application the attention it deserves, we have set a closing date of September 14th for this position.\n\nWhat you\u2019ll be doing\n\nWork in highly collaborative cross-functional teams to identify opportunities, make bets and decisions, and ship meaningful product updates\n\nIdeate on behavioral loops that create value and encourage participation. Design experiences that leverage organic growth mechanics like social sharing, challenges, achievements, and user-generated content to foster community\n\nCraft experiences that effectively communicate membership value and scale across different markets with local relevance\n\nSystemize motions and transition effects to guide user attention and confirm actions\n\nLeverage AI tools with sound judgment, using front-end code as a medium to explore, communicate, and advance the work\n\nLeverage and contribute to our evolving design system\n\nWhat you bring\n\n2-4 years years of professional experience researching, designing, and shipping consumer-facing digital product features across iOS, Android, and web\n\nDemonstrated experience taking ideas from concept through release and learning from post-launch performance\n\nSolid product execution driven by sharp visual, interaction, and motion design judgment\n\nBuilder mentality: you see code as another medium for design exploration and feel right at home diving into technical implementation, code, or AI-generated prototypes\n\nAI Fluency: you are skilled at creating effective prompts, supplying useful context, evaluating AI-generated output critically, and iteratively steer the result toward a high-quality product\n\nStrong design systems thinking: you know when to use an existing pattern, extend it, or create something new; you balance speed with long-term system health\n\nA strong digital presence with a demonstrated ability to engage and grow communities online\n\nBonus points\n\nActively participate in outdoor activities (e.g. hiking, running, camping, climbing, etc) and understand the mindset of people who spend time outside\n\nExperience designing for subscription-based business models\n\nHands-on experience developing AI-native products, agentic workflows, or multimodal user interfaces\n\nExperienced designing for international audiences or experience living, working, or studying in global markets\n\nPossess illustration skills with "
   },
   "4515e361ef9fd5ff92dd25fc8824522a": {
     "id": "4515e361ef9fd5ff92dd25fc8824522a",
@@ -16906,6 +16974,45 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-09-02T13:07:11.472363-07:00",
+    "status": "active",
+    "applied_at": null,
+    "description": "Company Introduction WorldStrides\u00a0is the global leader in educational travel and experiential learning. The company was founded in 1967 to provide middle school travel programs to Washington, D.C. and has grown to provide a wide range of programs for more than half a million students annually to over 100 countries around the world. WorldStrides offers experiential learning programs in educational travel, performing arts, language immersion, career exploration, service-learning, study abroad, and sports. Each of these experiences helps students to see beyond the classroom and to see the world \u2013 and themselves \u2013 in new ways.\nJob Description:\nPre-trip is where families decide whether to trust us with their kids and where students decide whether they are excited or anxious about the trip ahead. It is one of the highest-leverage digital experiences in the company. We are building a focused in-house UX/UI design capability and this is a founding hire. You will build core components of the WorldStrides interactive design system: the visual language, component library, and interaction patterns to be leverage more broadly across experiences.\nYou will work across multiple pods in the pre-trip space, partnering closely with product managers and engineers. You will own the look, feel, and design execution of what we ship: clear flows, well-crafted screens, a consistent visual language, and prototypes that help us answer questions quickly. You will also work closely with our Voice of Customer (VoC) team, leveraging their stakeholder research, experience evaluation, and insights infrastructure to answer the \u201cis it usable\u201d question as it relates to UX/UI design craft.\nHere is how we are building product. You don't need to lead this \u2014 you do need to thrive in it.\nDiscovery is the moat. AI makes generation cheap. The bottleneck is no longer \"what do we build\" but \"are we solving the right problem.\" Sharp problem framing beats ten solutions chasing a fuzzy one.\nPortfolios over roadmaps. We run broad, lightweight experiments in parallel and double down on what's working. We do not defend a 12-month roadmap; we defend a thesis and a learning velocity.\nPrioritize attention, not resources. Human judgment on what's worth testing and what the results mean is the scarce resource. We spend it deliberately.\nGenerate fast, judge slow. Use AI to produce many candidate problem frames, concepts, and prototypes quickly. Apply rigorous, deliberate user validation and strategic bets before scaling.\nSmaller teams, bigger ownership. Autonomous pods own full problem spaces end-to-end. PMs are accountable for outcomes, not feature counts.\nRaise the quality bar. Speed-to-generate must not substitute for depth-of-value. We tighten outcome thresholds, not loosen them.\nStrategic sequencing. Cheap experiments must compound into defensible architecture, not pile up as disconnected features.\nThe UX and UI interaction design for features across the pods you support \u2014 flows, screens, component patterns, interaction details, and visual polish.\nFigma work product: clean files, reusable components, sensible naming, ready handoff to engineering.\nEstablishing the foundation for the WorldStrides digital interaction design system, including the component library, type scale, color system, spacing rules, and patterns for the pre-trip experience, respecting alignment with existing brand and digital marketing treatments while ensuring what you build is optimized for your use cases.\nQuick, low-fidelity prototypes when we need to test an idea, and high-fidelity screens when we are ready to build.\nHonest, transparent prioritization of your time across the pods you support \u2014 in partnership with the PMs.\nWhat you will do\nTurn problems into screens. Take a problem statement or a rough idea from a PM and produce flows, wireframes, and high-fidelity designs that are usable, accessible, and on-brand.\nUse AI to move faster. Use AI tools to generate variations, draft copy, explore visual direc"
+  },
+  "1efb6b7db405e6b855081eb1f60bac72": {
+    "id": "1efb6b7db405e6b855081eb1f60bac72",
+    "title": "UI / Visual Designer Specialist",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://himalayas.app/companies/micro1/jobs/ui-visual-designer-specialist",
+    "source": "Himalayas",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Role Title: UI / Visual Designer \u2014 Design Systems & Written Rationale Role Type: ContractorLocation: Remotemicro1 is engaging UI / Visual Designer experts to contribute to a writing-intensive design project for a customer.",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-09-02T17:40:36.697152-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "e59282d8b325e1eed7230b4d3d6c3b30": {
+    "id": "e59282d8b325e1eed7230b4d3d6c3b30",
+    "title": "UX Researcher at Fundraise Up",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "$2,700 - $3,500",
+    "url": "https://remotefirstjobs.com/companies/fundraise-up/jobs/ux-researcher-856041",
+    "source": "JobsCollider",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Highlights\n\n\nLocation: Arminia Remote\nLanguages: Fluent in Russian and English\n\n\nAbout Fundraise Up\n\nWe\u2019re Fundraise Up - a global fundraising platform built to make donating to nonprofits fast, seamless, and accessible to all. Every month, our technology powers tens of millions of dollars in donati",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-09-02T17:40:38.338190-07:00",
     "status": "active",
     "applied_at": null
   }
