@@ -1577,7 +1577,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T17:55:33.650453-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "d038219cd8aa882e45da6d89163c73ea",
@@ -1627,7 +1628,8 @@
     "posted_at": "2026-07-27",
     "priority": 4,
     "first_seen": "2026-09-01T16:31:30.446872-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2cb56338e63b715f9f2af415178a00b7",
@@ -1643,7 +1645,8 @@
     "posted_at": "2026-08-11",
     "priority": 4,
     "first_seen": "2026-09-01T16:31:21.075392-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "8b28e22738ab49e7023b65048c54b8cb",
@@ -1659,7 +1662,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T16:31:11.706335-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f2f5278ec2038e3b7ff90d78fbebc229",
@@ -1675,7 +1679,8 @@
     "posted_at": "2026-07-27",
     "priority": 1,
     "first_seen": "2026-09-01T16:31:02.304888-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "38306fab02cd1a474d2291ce734ddc3d",
@@ -1708,7 +1713,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T15:09:57.241223-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "34a8978703e3089d7a4ef01d5834ac62",
@@ -1953,7 +1959,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-09-01T13:27:47.893094-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "051658ad4c15aa368b1639229118c8b3",
@@ -1969,7 +1976,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-09-01T13:27:46.135873-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d481fa0f99d9375ca37207de849a0e2a",
@@ -1985,7 +1993,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-09-01T13:27:44.346932-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b9b8a46bbf7cff781ff20b9c3c907c00",
@@ -2001,7 +2010,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T13:07:11.411877-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "205296fe9bebab5c6f6a056b66db0959",
@@ -2017,7 +2027,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T12:25:03.411842-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2deaa3d69c684ca6417e44c2fdd71f4b",
@@ -30033,22 +30044,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-03T06:28:20.523540-07:00",
-    "status": "active"
-  },
-  {
-    "id": "bb249d6aa2512b577f70e628e8798ae9",
-    "title": "User Experience Researcher (Bothell, WA)",
-    "company": "UXR Hunt",
-    "location": "Bothell, WA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4447694051",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-02T22:54:15.993880-07:00",
     "status": "active"
   }
 ]
