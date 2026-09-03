@@ -1,5 +1,73 @@
 [
   {
+    "id": "8318c9d9493041024d29f16e178c45f7",
+    "title": "Brand Designer, Growth",
+    "company": "Maven",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4462846661",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 1,
+    "first_seen": "2026-09-03T11:41:05.844840-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "95abe82faee72843f7ea9265df8a3d6b",
+    "title": "Brand Designer, Foundations - Instagram Brand Studio",
+    "company": "Instagram",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4441090964",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 1,
+    "first_seen": "2026-09-03T11:41:03.894954-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "c6006ddf102c29ed236a0a85a0aa66ad",
+    "title": "Product Designer",
+    "company": "Communify",
+    "location": "Tampa, FL",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4462819904",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-03T11:41:01.879019-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "daf47a65dea0306bfde75d720ae673fb",
+    "title": "User Interface Designer",
+    "company": "Akkodis",
+    "location": "Dearborn, MI",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4460722182",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-03T11:41:00.074194-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "8027f8555000a2f24f064e14aa325511",
     "title": "Product Design Engineer",
     "company": "New York Technology Partners",
@@ -2990,7 +3058,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-09-01T09:18:14.236038-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8232baa23bdcc33f68d8dd9995b0669d",
@@ -3006,7 +3075,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-09-01T09:18:12.122678-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "48f837fe3a0b83f112b0fdd83299d809",
@@ -3054,7 +3124,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-09-01T09:18:05.786844-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5f561e93e6559ba79379fc0a81f76a6f",
@@ -29934,38 +30005,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-03T11:51:22.411586-07:00",
-    "status": "active"
-  },
-  {
-    "id": "296dd24a99c2999663acaed9a16849b7",
-    "title": "Interaction Designer - AI Trainer",
-    "company": "DataAnnotation",
-    "location": "Massachusetts, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4338427594",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-03T11:26:46.822168-07:00",
-    "status": "active"
-  },
-  {
-    "id": "248ace86a3b3cf8f30dbb343c709883c",
-    "title": "Interaction Designer - AI Trainer",
-    "company": "DataAnnotation",
-    "location": "Illinois, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4338447612",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-03T11:26:44.845243-07:00",
     "status": "active"
   }
 ]
