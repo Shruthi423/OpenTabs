@@ -1,1 +1,198 @@
-[]
+[
+  {
+    "item": {
+      "company": "Scopia Surgical",
+      "amount": "$2.65M",
+      "stage": "Pre-Seed",
+      "investors": "Linearis Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/scopia-surgical-raises-2-65m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-09-03T03:17:36.090408-07:00"
+  },
+  {
+    "item": {
+      "company": "Maison Safqa",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/maison-safqa-raises-620000-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-09-03T03:17:41.900215-07:00"
+  },
+  {
+    "item": {
+      "company": "Physical Superintelligence",
+      "amount": "$58.0M",
+      "stage": "Seed",
+      "investors": "Breakthrough Energy Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/physical-superintelligence-raises-58m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-03T03:17:47.679082-07:00"
+  },
+  {
+    "item": {
+      "company": "Abwab.ai",
+      "amount": "$4.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/abwab-ai-raises-4m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-03T03:17:50.677732-07:00"
+  },
+  {
+    "item": {
+      "company": "Huskeys",
+      "amount": "$27.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/huskeys-raises-27m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-03T03:17:53.768247-07:00"
+  },
+  {
+    "item": {
+      "company": "Conveo",
+      "amount": "$50.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/conveo-raises-50m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-03T03:17:56.741610-07:00"
+  },
+  {
+    "item": {
+      "company": "WeTravel",
+      "amount": "$92.0M",
+      "stage": "Series C",
+      "investors": "Sapphire Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/wetravel-raises-92m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-09-03T03:17:59.810726-07:00"
+  },
+  {
+    "item": {
+      "company": "DataHow",
+      "amount": null,
+      "stage": "Bridge",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/datahow-secures-bridge-financing/",
+      "priority": 6
+    },
+    "remind_at": "2026-09-03T03:18:02.810190-07:00"
+  },
+  {
+    "item": {
+      "company": "Altman",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/03/altman-government-scrutiny-ai-g20",
+      "priority": 3
+    },
+    "remind_at": "2026-09-03T03:18:05.752892-07:00"
+  },
+  {
+    "item": {
+      "company": "Alaska",
+      "amount": "$50.0B",
+      "stage": null,
+      "investors": "Alaska Permanent Fund",
+      "location": "Washington",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/03/alaska-oil-revival-warming-future",
+      "priority": 3
+    },
+    "remind_at": "2026-09-03T03:18:08.616324-07:00"
+  },
+  {
+    "item": {
+      "company": "HubX",
+      "amount": "$50.0M",
+      "stage": null,
+      "investors": "Point",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hubx-raises-50m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-03T03:18:11.863029-07:00"
+  },
+  {
+    "item": {
+      "company": "COFE Tech",
+      "amount": "$178.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/cofe-tech-raises-178m-pre-ipo/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-03T03:18:17.480021-07:00"
+  },
+  {
+    "item": {
+      "company": "Konko AI",
+      "amount": "$6.0M",
+      "stage": null,
+      "investors": "Hi Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/konko-ai-raises-6m-unknown/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-03T03:18:20.525318-07:00"
+  },
+  {
+    "item": {
+      "company": "Backbone",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR2J2Tzg5MWk1amhhMXdROEhoQ2diTjBmRUZBZW1aWVJQM0wxYm1wMTVtVUthTVZyWnV1UUFFUlE4QlZYQ1otTVM0YzdRMnA4SFdJdXI1bnpzdHFJcU1QdVpxZkhEa25MRzFxdjE5YU1GVjJaV0F0cFU1MUV0NGNtNFdoWGN1UFh1eEVKQW9FeEdWOVVYc1E?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-03T03:18:23.496593-07:00"
+  }
+]
