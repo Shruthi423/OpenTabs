@@ -10396,10 +10396,10 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-07-28T01:05:56.991497-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-09-03T07:02:38.783068-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 2
   },
   "990ce1efbd7206bc37771af2e383dd11": {
     "id": "990ce1efbd7206bc37771af2e383dd11",
@@ -10758,10 +10758,10 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-07-30T00:10:03.244240-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-09-03T07:02:38.783068-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 2
   },
   "cb48007e6230a0062a7b6af9c8138255": {
     "id": "cb48007e6230a0062a7b6af9c8138255",
@@ -11300,7 +11300,9 @@
     "priority": 5,
     "first_seen": "2026-08-04T03:31:27.780520-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "924095ba21b98d707b5e290e80a19fb1": {
     "id": "924095ba21b98d707b5e290e80a19fb1",
@@ -11318,7 +11320,9 @@
     "priority": 5,
     "first_seen": "2026-08-04T03:31:29.418317-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "3febd67a07bf02560d3ea7895577b4ba": {
     "id": "3febd67a07bf02560d3ea7895577b4ba",
@@ -11336,7 +11340,9 @@
     "priority": 5,
     "first_seen": "2026-08-04T03:31:31.090689-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "b4d66b424e04c290a4afe26ea15b07fc": {
     "id": "b4d66b424e04c290a4afe26ea15b07fc",
@@ -11354,7 +11360,9 @@
     "priority": 1,
     "first_seen": "2026-08-04T03:31:32.782583-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "e37115e02cf8f88e5e7d623642654c90": {
     "id": "e37115e02cf8f88e5e7d623642654c90",
@@ -11372,7 +11380,9 @@
     "priority": 1,
     "first_seen": "2026-08-04T03:31:34.438623-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "143c086856a2eb7a50cfbb7cc793abda": {
     "id": "143c086856a2eb7a50cfbb7cc793abda",
@@ -11391,7 +11401,9 @@
     "priority": 5,
     "first_seen": "2026-08-04T05:30:25.156707-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "b612f86f252ac1ebacc5395e1bf35d07": {
     "id": "b612f86f252ac1ebacc5395e1bf35d07",
@@ -11410,7 +11422,9 @@
     "priority": 5,
     "first_seen": "2026-08-04T05:30:26.609699-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "b9f132c76d270f17d7ec9410e44f435d": {
     "id": "b9f132c76d270f17d7ec9410e44f435d",
@@ -11428,7 +11442,9 @@
     "priority": 5,
     "first_seen": "2026-08-04T11:50:50.275119-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "772a23b004b1997f1fc38fe05bd802b5": {
     "id": "772a23b004b1997f1fc38fe05bd802b5",
@@ -11446,7 +11462,9 @@
     "priority": 5,
     "first_seen": "2026-08-04T13:21:07.978043-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "95e7a898799eeea723bde3062fd6f9cf": {
     "id": "95e7a898799eeea723bde3062fd6f9cf",
@@ -11464,7 +11482,9 @@
     "priority": 5,
     "first_seen": "2026-08-04T13:21:09.766449-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "25e097cbe4e6b53a168d9984bbfacc40": {
     "id": "25e097cbe4e6b53a168d9984bbfacc40",
@@ -11482,7 +11502,9 @@
     "priority": 5,
     "first_seen": "2026-08-04T19:57:10.625920-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "5eb25eb8bbe1ed79ef5b07f4317fc93e": {
     "id": "5eb25eb8bbe1ed79ef5b07f4317fc93e",
@@ -11501,7 +11523,9 @@
     "priority": 1,
     "first_seen": "2026-08-04T19:57:35.831345-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "34a3acc55c0108c69fa41538fd6667e2": {
     "id": "34a3acc55c0108c69fa41538fd6667e2",
@@ -11520,7 +11544,9 @@
     "priority": 1,
     "first_seen": "2026-08-04T19:57:37.570755-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "2561ae3f6bbacf8bfd54fdd8c7570d11": {
     "id": "2561ae3f6bbacf8bfd54fdd8c7570d11",
@@ -11538,7 +11564,9 @@
     "priority": 5,
     "first_seen": "2026-08-05T03:46:28.145745-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "11f91b4448cbe8216fe3d3b188367c24": {
     "id": "11f91b4448cbe8216fe3d3b188367c24",
@@ -11556,7 +11584,9 @@
     "priority": 2,
     "first_seen": "2026-08-05T03:46:29.836990-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "5240439b7cc005d10ee4dde976b3e757": {
     "id": "5240439b7cc005d10ee4dde976b3e757",
@@ -11574,7 +11604,9 @@
     "priority": 3,
     "first_seen": "2026-08-05T03:46:31.888300-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "d0b946e3adcfcb3a16aa161d031ff9f7": {
     "id": "d0b946e3adcfcb3a16aa161d031ff9f7",
@@ -11592,7 +11624,9 @@
     "priority": 1,
     "first_seen": "2026-08-05T03:46:33.761104-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "15b780e769c7c0fb4a5507ed4f671618": {
     "id": "15b780e769c7c0fb4a5507ed4f671618",
@@ -11610,7 +11644,9 @@
     "priority": 2,
     "first_seen": "2026-08-05T03:46:35.613433-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "51ce401c4d9f5f692a8c3859d289da77": {
     "id": "51ce401c4d9f5f692a8c3859d289da77",
@@ -11628,7 +11664,9 @@
     "priority": 5,
     "first_seen": "2026-08-05T03:46:37.854726-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "c7b28b3c854bbce3907cd3f934887f6c": {
     "id": "c7b28b3c854bbce3907cd3f934887f6c",
@@ -11646,7 +11684,9 @@
     "priority": 5,
     "first_seen": "2026-08-05T03:46:39.733187-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "96ccf9fe5a98e637381d824e4aec6683": {
     "id": "96ccf9fe5a98e637381d824e4aec6683",
@@ -11664,7 +11704,9 @@
     "priority": 5,
     "first_seen": "2026-08-05T11:16:57.120318-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "41c14bef36d1c7c8b0db83743e13ca62": {
     "id": "41c14bef36d1c7c8b0db83743e13ca62",
@@ -11682,7 +11724,9 @@
     "priority": 5,
     "first_seen": "2026-08-05T15:42:09.670457-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "03c382a626d4b3cd8774492b6d9b3198": {
     "id": "03c382a626d4b3cd8774492b6d9b3198",
@@ -11700,7 +11744,9 @@
     "priority": 5,
     "first_seen": "2026-08-06T05:17:34.936197-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T13:22:58.493596-07:00",
+    "dead_strikes": 0
   },
   "ffba423d5d77485bc0b6b4208ee86716": {
     "id": "ffba423d5d77485bc0b6b4208ee86716",
@@ -14750,7 +14796,8 @@
     "priority": 5,
     "first_seen": "2026-08-21T11:54:33.038202-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "3f28ac7680a77707741a7f9d304be455": {
     "id": "3f28ac7680a77707741a7f9d304be455",
@@ -14768,7 +14815,8 @@
     "priority": 5,
     "first_seen": "2026-08-21T20:08:00.447459-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Integrated, open source developer tools for product engineers: analytics, testing, and data management.\nAnalytics Open Source Product Analytics Product Data\nJob Description\nProduct development used to mean manually writing code, running analysis, diagnosing bugs, and rolling out changes using dozens of tools.\nPostHog is the only platform that acts like a co-pilot for you (and your AI agents) to do it all \u2013 autonomously.\nWe started with open-source product analytics, launched out of Y Combinator\u2019s W20 cohort. We\u2019ve since shipped more than a dozen products, including:\nPostHog Code, the only AI devtool that understands your product, not just your codebase.\nA built-in data warehouse, so users can query product and customer data together using custom SQL insights.\nPostHog AI, an AI-powered analyst that answers product questions, helps users find useful session recordings, and writes custom SQL queries.\nProduct-led . More than 450,000 organizations have installed PostHog, mostly driven by word-of-mouth. We have intensely strong product-market fit.\nDefault alive . Revenue is growing incredibly quickly, and we\u2019re very efficient. We raise money to push ambition and grow faster, not to keep the lights on.\nWell-funded. We\u2019ve raised more than $180m from some of the world\u2019s top investors. We\u2019re set up for a long, ambitious journey.\nWe\u2019re focused on building an awesome product for end users, hiring exceptional teammates, shipping fast, and being as weird as possible.\nTransparency: Everyone can read about our roadmap, how we pay (or even let go of) people, our strategy, and how we work, in our public company handbook. Internally, we share revenue, notes and slides from board meetings, and fundraising plans, so everyone has the context they need to make good decisions.\nAutonomy: We don\u2019t tell anyone what to do. Everyone chooses what to work on next based on what\u2019s going to have the biggest impact on our customers, and what they find interesting and motivating to work on. Engineers lead product teams and make product decisions. Teams are flexible and easy to change when needed.\nShipping fast: Why not now? We want to build a lot of products; we can\u2019t do that shipping at a normal pace. We\u2019ve built the company around small teams \u2013 autonomous, highly-efficient groups of cracked engineers who can outship much larger companies because they own their products end-to-end.\nTime for building: Nothing gets shipped in a meeting. We\u2019re a natively remote company. We default to async communication \u2013 PRs > Issues > Slack. Tuesdays and Thursdays are meeting-free days, and we prioritize heads down building time over perfect coordination. This will be the most productive job you\u2019ve ever had.\nAmbition: We want to solve big problems. We strongly believe that aiming for the best possible upside, and sometimes missing, is better than never trying. We\u2019re optimistic about what\u2019s possible and our ability to get there.\nBeing weird: Weird means redesigning an already world-class website for the 5th time. It means shipping literally every product that relates to customer data. It means building an objectively unnecessary developer toy with dubious shareholder value. Doing weird stuff is a competitive advantage. And it\u2019s fun.\nThe Platform UX team helps developers develop better products for developers by creating a UX that people won\u2019t forget. We\u2019re a small team where you get to work with our own self proclaimed beacon of user-focused-light, Adam Leith\nWe are looking for a rare breed: a builder who sits at the exact intersection of pixel-perfect design and high-velocity engineering . You aren\u2019t just a \u201ccoder\u201d. You are a product owner who uses the latest tools to ship ambitious features faster than most teams think possible.\nYou are someone who speaks \u2018Designer intuition\u2019, understands typography, whitespace, visual hierarchy, and color theory.\nYou look at a Figma file and see why a 4px shift in padding matters, and you speak Developer Logic: understanding the DOM, component"
   },
   "fc4136581edfe5d96dc78f5557cbfb83": {
     "id": "fc4136581edfe5d96dc78f5557cbfb83",
@@ -14786,7 +14834,8 @@
     "priority": 1,
     "first_seen": "2026-08-22T00:26:35.325256-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Cloud Apis Speech-To-Text (Stt) Text-To-Speech (Tts) Voice Agents Voice Ai\nSupports product strategy and roadmap execution by shaping Epics, prioritizing and refining backlogs into Stories, negotiating requirements, and communicating product vision. Collaborates with product managers, development, design, marketing, support, professional services, and customers to provide context, align stakeholders, manage risks, and maintain delivery transparency. Requires technical product ownership, project coordination, customer empathy, and effective use of collaboration, analytics, documentation, and AI productivity tools.\nAgile Asana Confluence Figma Google Workspace Iam JIRA Pendo Power BI Role-Based Access Control Salesforce Sketch\nDesign end-to-end HCI experiences for AI-driven web and mobile products. Create interaction patterns for multi-step human-AI workflows (prompting, review, correction, recovery). Produce wireframes, prototypes, and high-fidelity designs; run lightweight usability tests; collaborate with product, engineering, and ML teams to ship reliable, controllable AI features.\nAbout A1 There are over 5 billion users using basic applications today such email, notes, tasks that are not AI-native. Our mission is to build a proactive smart assistant for everyday users to bring intelligence to conversations, errands, organising and workflows, with minimal prompting.\nOur product focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. The system must handle multi-step reasoning, interact with external tools, and remain reliable despite non-deterministic model behavior. Our objective is to help users complete tasks daily enjoyable with over ~90%* reduced time.\nRole Design how people use AI in real product workflows. This role focuses on building HCI interfaces where users can understand, guide, correct, and stay in control of AI systems that reason and act across multiple steps.\nCurrent UX patterns are not enough for proactive AI products. You will help define new interaction models for how users work with AI, review progress, recover from mistakes, and build trust in the system.\nWhat You'll Be Doing Design end-to-end user experiences for AI product surfaces, from concept to shipped product.\nCreate interaction patterns for human-AI workflows, including prompting, review, confirmation, correction, handoff, and recovery.\nDesign interfaces that help users understand what the AI is doing, what it knows, what it is unsure about, and what will happen next.\nTurn complex, multi-step AI capabilities into flows that are clear, controllable, and usable in everyday contexts.\nWork closely with product, engineering, and ML teams to define problems, test ideas, and ship quickly.\nProduce wireframes, flows, prototypes, and high-fidelity designs for web and mobile.\nRun lightweight user research and usability tests to identify friction, trust issues, and failure points.\nHelp define reusable HCI design patterns as the product and design system mature.\nWhat You Will Need Experience as a product designer or UX designer, with a portfolio across web or mobile products.\nStrong skills in interaction design, information hierarchy, and prototyping.\nProficiency in Figma and fast iteration workflows.\nAbility to simplify complex systems and turn unclear product behavior into clear user experiences.\nExperience working closely with product managers and engineers in fast-moving teams.\nComfort working with ambiguity and shaping solutions before requirements are fully defined.\nGood judgment on usability, edge cases, and failure handling.\nClear thinking about trust, control, feedback, and transparency in AI-driven experiences.\nHow We Work The best products today in the world were built by small, world class teams. We are a high talent density and hands-on team. We make decisions collectively, move at rapid speed, striking a balance between shipping high quality work and learning. Joining our team requir"
   },
   "7ccf435b636ce53fa06c1d0c3aae6550": {
     "id": "7ccf435b636ce53fa06c1d0c3aae6550",
@@ -14804,7 +14853,8 @@
     "priority": 3,
     "first_seen": "2026-08-22T03:48:03.826031-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Ensure internal web and mobile user-interface design consistency across the organization by collaborating with marketers and other designers, documenting best practices, and organizing design files and working folders to promote team efficiency and synergy.\nMaintain current knowledge on industry and design trends (with a focus on user-interface design) to keep the team at the industry\u2019s forefront in content and design spaces.\nRequired Qualifications\nBA/BS Degree (4-year) in Art, Design or related field\n2-4 years of digital creative design experience (e.g., in UX/UI)\nProficient in Adobe Creative Suite, including Photoshop, InDesign and Illustrator and Microsoft Office\nStrong understanding of web optimization and digital file types\nExperience creating digital collateral (i.e., Websites, mobile apps, banners, social media assets, outdoor, etc.)\nStrong communication and organizational skills and proven ability to communicate effectively with nondesigners on projects\nMust be organized, detail-oriented and able to multi-task and work in a fast-paced high-pressure environment\nSelf-starter, able to think creatively to solve problems\nStrong knowledge and interest in design and demonstrated ability to think creatively\nCommitment to continuous learning and personal development\nBonus: This position is eligible for a bonus under the current bonus plan requirements.\nBenefits: Full-time: We offer a comprehensive benefits package that includes: medical, dental and vision insurance, paid holidays, vacation and sick time, company paid basic life insurance, voluntary life insurance, parental leave, 401k Plan (with a current employer match of 3%), flexible spending and health savings account options, and wellness offerings.\nAEG reserves the right to change or modify the employee\u2019s job description whether orally or in writing, at any time during the employment relationship.\u00a0 AEG may require an employee to perform duties outside their normal description.\nAEG's policy is to hire the most qualified applicants, and we comply with all applicable federal, state and local employment laws in making hiring and employee decisions. \u00a0We are an equal opportunity employer and do not discriminate against applicants or employees on the basis of race, color, marital status, disability, religion, age, sex, sexual orientation, national origin, genetic information, veteran status, or any other legally protected status recognized by applicable federal, state or local law.\nEmployer does not offer work visa sponsorship for this position.\nA UI Designer at ActAI S Visual Designer at Snap R Senior UI Designer at Robusta U Visual Designer at UpCloud H Graphics and UI Designer at H&M Group\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUI Design Salary Guide UI Design Salary in United States UI Design Salary in California UI Design Salary in Los Angeles\nApply for this job Please let AEG know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nRelated Jobs See more jobs from United States\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "e189f35edad7e63a98ad319da24230bf": {
     "id": "e189f35edad7e63a98ad319da24230bf",
@@ -14822,7 +14872,8 @@
     "priority": 5,
     "first_seen": "2026-08-22T05:33:35.768828-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Inkitt\u00a0is building the Operating System for Storytellers, standing at the forefront of technology and entertainment.\n\nLeveraging AI and predictive algorithms, Inkitt discovers unknown stories and turns them into blockbuster hits, producing a new $1M ebook every 7 days and selling directly to consumers through its\u00a0Inkitt Galatea\u00a0app. Bestsellers are then translated onto the screen through\u00a0Inkitt CandyJar, the #1 US-based microdrama platform with billions of episodes streamed to date, and\u00a0Inkitt Ironblood, the world\u2019s first streaming app for superhero, sci-fi and action stories.\n\nInkitt has become the 11th most bestseller-generating publisher in the world, boasting a 40x higher hit-rate than traditional publishers.\n\nBacked by some of the top VC\u2019s such as: Khosla, Kleiner Perkins, and NEA Ventures, our recent expansion into Ironblood, the first AI Native streaming platform for action and adventure, is only the beginning of our journey to becoming the next-gen entertainment powerhouse.\n\nWhat You\u2019ll Do:\n\nIronBlood is a new AI-native streaming app from Inkitt, built exclusively around action, sci-fi, and superhero content \u2014 bold, cinematic, and mobile-first. We\u2019re building out our freelance creative roster and looking for video editors and designers who can turn raw footage and AI-generated assets into scroll-stopping social ads and content, fast.\n\nThis is ongoing work for the right freelancer(s) \u2014 we\u2019re looking to build a reliable roster, not a one-off gig.\n\nYou\u2019ll be creating content across formats including:\n\nEpisodic/longform cutdowns with cliffhanger endings\n\nDialogue trailers (twist reveals, villain POV, power-scaling/versus edits, lore drops, fight-choreo montages)\n\nComment-overlay hook edits\n\nFan-edit style content (thirst traps, theory breakdowns, trend-driven cuts)\n\nStreamer/reactor-cam reaction overlays\n\n\u201cXL headline\u201d trailers layering in social proof (rankings, trending call-outs, etc.)\n\nWhat You\u2019ll Bring:\n\nProven short-form/vertical video editing experience (TikTok, Reels, Shorts, or similar)\n\nAble to turn around finished edits in 1\u20133 days\n\nComfortable working across multiple content formats and styles within the same week\n\nWorking knowledge of AI video generation tools (Runway, Kling, Sora, Pika, Luma, etc.) \u2014 or a fast learner who\u2019s genuinely excited to pick them up\n\nStrong sense of hook, pacing, and what makes someone stop scrolling in the first 1\u20132 seconds\n\nReliable communication and file delivery (Frame.io, Drive, Dropbox, etc.)\n\nNice To Have:\n\nBackground in action, anime, gaming, or superhero content/fandoms\n\nMotion graphics / VFX / After Effects skills\n\nExperience with AI voice, image, or video tools beyond basic prompting\n\nPast work on trailer cuts, dialogue edits, or reaction-style content\n\n$40 - $50 an hour\n\nSalary is determined based on the candidate\u2019s experience, skills, and alignment with the requirements of the role, as well as internal equity and market benchmarks."
   },
   "4b99ef318c038ab762b8c32aaeb07fd4": {
     "id": "4b99ef318c038ab762b8c32aaeb07fd4",
@@ -14840,7 +14891,8 @@
     "priority": 5,
     "first_seen": "2026-08-22T08:44:56.648426-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "f8baede69556a199d042217d0485b512": {
     "id": "f8baede69556a199d042217d0485b512",
@@ -14858,7 +14910,8 @@
     "priority": 1,
     "first_seen": "2026-08-22T10:38:24.861812-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "b821dc1c614d4ed6842daa773a919bde": {
     "id": "b821dc1c614d4ed6842daa773a919bde",
@@ -14876,7 +14929,8 @@
     "priority": 5,
     "first_seen": "2026-08-22T16:14:35.972991-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "e0862ebeb6a6a10c48a66a2c1ad07872": {
     "id": "e0862ebeb6a6a10c48a66a2c1ad07872",
@@ -14894,7 +14948,8 @@
     "priority": 5,
     "first_seen": "2026-08-23T01:00:45.353264-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "edac31980d79e3913839d5059a9bfbc4": {
     "id": "edac31980d79e3913839d5059a9bfbc4",
@@ -14912,7 +14967,8 @@
     "priority": 5,
     "first_seen": "2026-08-23T12:57:57.652345-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "13cdf54717b677fa81d7b12fb59491d1": {
     "id": "13cdf54717b677fa81d7b12fb59491d1",
@@ -14930,7 +14986,8 @@
     "priority": 1,
     "first_seen": "2026-08-23T14:44:42.438299-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Are you passionate about user experience and curious about cybersecurity? We're a fast-growing cybersecurity startup building tools that help security teams detect and respond to threats smarter and faster. We're looking for a UX Designer Trainee to join our product team and learn hands-on while designing intuitive, high-impact user interfaces for real-world security challenges.\nWhat You\u2019ll Do\nCollaborate with designers, product managers, and engineers to shape UX for our security platform\nCreate wireframes, prototypes, and visual mockups using Figma\nParticipate in user research and testing to uncover insights that drive design decisions\nHelp simplify complex cybersecurity workflows into clear, user-friendly interfaces\nContribute to our design system and maintain visual consistency across the product\nRequirements What We\u2019re Looking For\nFreshers(0-1yr exp) with kickass design portfolio\nBasic understanding of UX/UI principles and user-centered design\nCurious, open to feedback, and excited to work in a fast-moving startup\nStrong communication and collaboration skills\nAn interest in cybersecurity, cloud, or enterprise software\nExposure to B2B SaaS or dashboard/product design\nMentorship from experienced designers and product leads\nA chance to work on a product used by real security teams\nA foot in the door of a booming industry with tons of growth opportunity\nArtificial Intelligence \u2022 Machine Learning \u2022 Natural Language Processing \u2022 Software \u2022 Conversational AI\nDrive new customer acquisition and revenue growth across Fortune 500 accounts in the greater New York area. Build executive relationships through in-person engagement, self-prospect for new opportunities, manage complex enterprise sales cycles, exceed targets, and expand existing accounts. Partner with Marketing, SDR, Partner, Sales Operations, Sales Engineering, and Customer Success teams while developing expertise in Deepgram\u2019s Voice AI products and competitive landscape.\nCloud Apis Speech-To-Text (Stt) Text-To-Speech (Tts) Voice Agents Voice Ai\nSupports product strategy and roadmap execution by shaping Epics, prioritizing and refining backlogs into Stories, negotiating requirements, and communicating product vision. Collaborates with product managers, development, design, marketing, support, professional services, and customers to provide context, align stakeholders, manage risks, and maintain delivery transparency. Requires technical product ownership, project coordination, customer empathy, and effective use of collaboration, analytics, documentation, and AI productivity tools.\nAgile Asana Confluence Figma Google Workspace Iam JIRA Pendo Power BI Role-Based Access Control Salesforce Sketch\nArtificial Intelligence \u2022 Machine Learning \u2022 Natural Language Processing \u2022 Software \u2022 Conversational AI\nPartner with the SVP of Customer Success to improve executive effectiveness and organizational operating rigor. Responsibilities include calendar and meeting management, forecasting and business analytics, executive and board reporting, cross-functional initiative coordination, operating-rhythm management, action tracking, process improvement, and synthesizing data into insights, risks, decisions, and recommendations. The role combines executive support, business operations, project management, and analytical judgment.\nAi Tools Automation Business Intelligence Platforms CRM Customer Success Platforms Financial Systems Slack Spreadsheets\nWhat you need to know about the San Francisco Tech Scene\nSan Francisco and the surrounding Bay Area attracts more startup funding than any other region in the world. Home to Stanford University and UC Berkeley, leading VC firms and several of the world\u2019s most valuable companies, the Bay Area is the place to go for anyone looking to make it big in the tech industry. That said, San Francisco has a lot to offer beyond technology thanks to a thriving art and music scene, excellent food and a short drive to several of the country\u2019s most beautiful recreati"
   },
   "cb8db6cc69a91978bd869a5ec33434dc": {
     "id": "cb8db6cc69a91978bd869a5ec33434dc",
@@ -14948,7 +15005,8 @@
     "priority": 5,
     "first_seen": "2026-08-24T00:44:52.806465-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "71119b896e6f59720c1c7bb7d5bb8e46": {
     "id": "71119b896e6f59720c1c7bb7d5bb8e46",
@@ -14966,7 +15024,8 @@
     "priority": 5,
     "first_seen": "2026-08-24T03:52:48.759870-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Maintain consistency with the game's visual style, information hierarchy, and interaction patterns\nTest, debug, and iterate on UI implementation to improve quality and usability\nCreate documentation that communicates UI changes, constraints, and best practices\nRequirements\n3+ years of professional UI/UX experience in game development with a strong focus on technical implementation\nHands-on experience with Scaleform, including layout, data binding, animation, and debugging\nExperience supporting ports or platform transitions for UI-heavy games\nStrong understanding of controller-first UX, focus management, and cross-platform interface design\nExperience building UI that scales across multiple resolutions and aspect ratios\nStrong technical problem-solving skills and the ability to work independently\nExcellent collaboration and communication skills with engineers, designers, artists, and QA\nExperience refactoring legacy UI while preserving an established player experience\nBackground in UI animation, motion, or visual polish\nInterest in accessibility, usability, and player comfort\nExperience working within technical constraints to deliver elegant UI solutions\nE Lead AI Experience Designer at Eliza O Product Designer at OOCA D UI/UX Designer at DVI Solutions S User Experience Design at Stradit I UI/UX Product Designer at INDICO\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUI/UX Design Salary Guide UI/UX Design Salary in Canada\nApply for this job Please let Blackbird Interactive know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "fd2869e059b5ed6b244ce0d3f935d644": {
     "id": "fd2869e059b5ed6b244ce0d3f935d644",
@@ -14984,7 +15043,8 @@
     "priority": 4,
     "first_seen": "2026-08-24T03:52:50.416680-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Target's Global UX team is a group of design, content, research, and accessibility practitioners and experts, with a passion for improving and innovating our digital experiences for Target's guests, team members, and partners. Here, we pride ourselves on designing tangible, inspiring, and impactful solutions that serve all aspects of our business - and being a part of the team means you will play a critical role in Target's digital experience by increasing ease, simplicity, value, and delight for every touc hpoint.\nAbout the Role:\nAs a UX Researcher - AI Enablement, you will contribute research that helps Target understand and improve AI-enabled and agentic experiences for technical and product practitioners and other enterprise team members. This individual-contributor role focuses on scoped projects with immediate impact at the project and team level.\nYou will work with Lead and Director-level researchers, applying established qualitative and quantitative methods to well-defined questions and contributing to larger programs and pilots. With direction and guidance, you will contribute to research planning, conduct straightforward studies, participate in analysis and synthesis, and communicate findings that support product and experience decisions.\nYou will also support responsible AI enablement within UX Research by helping test new tools, document effective workflows, and keep research knowledge organized and reusable. You will collaborate with cross-functional partners across UX, Product, Technology, Data Science, Analytics, and the business while building your craft and technical understanding.\nApply established qualitative and quantitative methods to well-defined questions about AI-enabled products, tools, and workflows.\nContribute to research plans, protocols, recruitment, fieldwork, and study logistics with guidance from senior researchers.\nConduct straightforward interviews, usability tests, concept evaluations, and other assigned studies using standard practices.\nSupport surveys, UX metrics, pilots, benchmarks, and longitudinal research through data collection, quality checks, and basic analysis.\nParticipate in analysis and synthesis, organize evidence, and communicate clear findings to project partners.\nCollaborate with cross-functional partners on research methods, measures, and decisions that affect the immediate work.\nContribute evidence to personas, journey maps, service blueprints, and shared research knowledge.\nHelp test and document responsible AI-enabled research workflows while meeting project goals, constraints, timelines, and quality standards.\nCore responsibilities of this job are described within this job description. Job duties may change at any time due to business needs.\nAbout You:\n2+ years of relevant UX, product, academic, or applied research experience, or equivalent demonstrated skills.\nWorking knowledge of qualitative and quantitative research methods and when to use them.\nExperience conducting straightforward interviews, usability tests, or similar studies with guidance.\nAbility to organize qualitative data and perform basic analysis of simple quantitative data.\nClear communication and collaboration skills with peers and cross-functional partners.\nAbility to work independently on well-defined problems, manage assigned work, and meet project deadlines.\nCuriosity about AI/ML and willingness to build technical literacy; prior AI experience is helpful but not required .\nCommitment to inclusive research, accessibility, participant privacy, ethics, and high-quality craft.\nThis position will operate as a Hybrid/Flex for Your Day work arrangement based on Target\u2019s needs. A Hybrid/Flex for Your Day work arrangement means the team member\u2019s core role will need to be performed both onsite at the Target HQ MN lo cation the role is assigned to and virtually , depending upon what your role, team and tasks require for that day. Work duties cannot be performed outside of the country of the primary work location,"
   },
   "d621eb282d6f7ec6d61a60d9485fe22c": {
     "id": "d621eb282d6f7ec6d61a60d9485fe22c",
@@ -15002,7 +15062,8 @@
     "priority": 3,
     "first_seen": "2026-08-24T03:52:52.262143-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "After years of working as integrators for PeopleSoft Inc. and Big 5 consulting firms, Noblesoft was formed as consulting firm with a model of delivering high profile solutions for our clients across the country.\nJob Description\nQualifications\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0At least 3\u00a0years of relevant work experience in user interface design, human factors and usability engineering.\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Creative thinking and the ability to explore and solve complex user experience and interaction design problems\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Solid experience with site architecture and user interface design\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0You will be working in a rapid and iterative environment. You must be able to manage a dynamic workload to balance priorities with deadlines to effectively meet project needs.\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Must be able to work and communicate effectively with other members of the\u00a0UX\u00a0team, technical teams, and business partners.\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Familiar with HTML, CSS, and Photoshop\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Must be proficient with rapid prototyping or wireframing tools.\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Strong digital portfolio required.\u00a0\u00a0Please submit examples with application and be prepared to show and review during an interview.\nQualifications\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0User experience research in a lab setting a plus.\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Rapid prototyping and extended skills with HTML, CSS, JavaScript/jQuery, Photoshop, and cross-browser compatibility a plus.\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Experience with mobile design (native and mobile web) a plus.\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Experience with responsive grid systems a plus.\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Experience with web accessibility guidelines and requirements a plus\nAll your information will be kept confidential according to EEO guidelines.\nS UX Designer at Sand Cherry Associates C Senior UX Strategist at Clear Digital M UX Designer at Mightier F Senior UX Designer at Flexstaf IT F UX Designer at FPT Asia Pacific\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUX Design Salary Guide UX Design Salary in United States UX Design Salary in Pennsylvania\nApply for this job Please let Noblesoft Solutions know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nRelated Jobs See more jobs from United States\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "fde3ef1020e1a1a7b450e388bb53e9ae": {
     "id": "fde3ef1020e1a1a7b450e388bb53e9ae",
@@ -15020,7 +15081,8 @@
     "priority": 5,
     "first_seen": "2026-08-24T03:52:54.144266-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Our team values curiosity, collaboration, experimentation, \u00a0 strong design \u00a0 craft, and customer empathy. This is an opportunity to solve complex problems for security professionals while helping shape the evolving Splunk experience within Cisco.\nYour Impact\nAs a Product Designer, you will focus primarily on Splunk Security experiences supporting Security Operations Center (SOC) users. You will partner closely with product managers, engineers, researchers, and other designers to understand complex security workflows, \u00a0 identify \u00a0 gaps and opportunities, explore concepts, and translate them into intuitive product experiences. Success in this role means bringing a strong user perspective to complex problems and helping cross-functional teams move from requirements and technical capabilities to thoughtful, usable solutions.\nDevelop user flows, wireframes, interactive prototypes, and high-fidelity designs for Splunk Security experiences.\nPartner with Product Management and Engineering to understand product requirements, technical capabilities, and constraints and translate them into effective user experiences.\nEvaluate complex workflows from the user\u2019s perspective, \u00a0 identify \u00a0 gaps and opportunities, and develop design options that help teams arrive at well-informed solutions.\nIterate on designs using feedback from users, research, designers, product partners, and engineers, and collaborate with Engineering through implementation.\nApply established design systems and use modern design and AI-assisted tools to explore concepts and accelerate prototyping.\nMinimum Qualifications\nBachelor\u2019s degree with 5+ years of related experience or \u00a0 Master\u2019s \u00a0 degree with 3+ years of related experience.\n3+ years of professional experience in product design, UX design, or UI/UX design creating digital product experiences.\nExperience creating user flows, wireframes, interactive prototypes, and high-fidelity product designs using Figma or similar design and prototyping tools.\nExperience designing complex workflows or data-rich experiences and translating product requirements and technical capabilities into user-centered design solutions.\nExperience using AI-enabled design or prototyping tools to develop, iterate, or enhance product design concepts.\nPreferred Qualifications\nExperience designing enterprise software, SaaS, cybersecurity, IT, or other technically complex products.\nFamiliarity with Security Operations Center (SOC) workflows or security concepts such as threat detection, investigation, triage, intelligence, or incident response.\nStrong visual and interaction design skills, including \u00a0 experienc e evaluating end-to-end workflows and \u00a0 identifying \u00a0 usability or experience gaps.\nDemonstrated critical thinking and curiosity when exploring complex product \u00a0 or use r problems, including the ability to \u00a0 identify \u00a0 gaps and ask questions that improve the solution.\nExperience working with or contributing to \u00a0 established \u00a0 design systems and exploring emerging AI-assisted design approache s such a s Figma Make, Claude, MCP-based workflows, or similar technologies.\nAt Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\nMessage to applicants applying to work in the U.S. and/or Canada:\nThe starting salary range posted for this"
   },
   "62b543f7ea589de1641d181908985b58": {
     "id": "62b543f7ea589de1641d181908985b58",
@@ -15038,7 +15100,8 @@
     "priority": 4,
     "first_seen": "2026-08-24T03:52:56.006346-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Ensure brand consistency across all digital touchpoints and user experiences\nStay up to date on UI/UX trends, e-commerce best practices, and emerging technologies\nContribute to the development and evolution of internal design systems and workflows\nQualifications\n3\u20135 years of UI/UX design experience, preferably within e-commerce, retail, or fashion brands\nStrong portfolio demonstrating digital design work across web and mobile experiences\nExperience designing for Shopify or similar e-commerce platforms preferred\nStrong understanding of user-centered design principles and conversion-focused UX\nExperience using analytics, A/B testing, heatmaps, and customer behavior data to inform design decisions\nProficiency in Figma, Adobe Creative Suite, and other modern design tools\nStrong understanding of responsive design and mobile-first experiences\nHighly self-motivated with the ability to operate independently and take ownership\nComfortable working in ambiguous environments and adapting quickly to evolving priorities\nStrong communication and cross-functional collaboration skills\nStrong attention to detail with the ability to balance creativity and business objectives\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\nE Lead AI Experience Designer at Eliza O Product Designer at OOCA D UI/UX Designer at DVI Solutions S User Experience Design at Stradit I UI/UX Product Designer at INDICO\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUI/UX Design Salary Guide UI/UX Design Salary in United States UI/UX Design Salary in California\nApply for this job Please let DNAM Brands know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nRelated Jobs See more jobs from United States\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "ad910282f06dcaf977f78d2d593124dc": {
     "id": "ad910282f06dcaf977f78d2d593124dc",
@@ -15209,7 +15272,7 @@
     "first_seen": "2026-08-24T13:47:26.159066-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "84730ba5057dc5d3596e160b74424a17": {
     "id": "84730ba5057dc5d3596e160b74424a17",
@@ -15228,7 +15291,7 @@
     "first_seen": "2026-08-24T13:47:27.971865-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "13d8bf7280c9a1fac0ebe0655855537d": {
     "id": "13d8bf7280c9a1fac0ebe0655855537d",
@@ -15400,7 +15463,7 @@
     "first_seen": "2026-08-25T18:26:42.171018-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "6ecb6703c48ff60663b75b9ddee6d6d5": {
     "id": "6ecb6703c48ff60663b75b9ddee6d6d5",
@@ -16712,6 +16775,25 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-09-03T10:51:18.026020-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "8608805542250e0153ef6be6fb2d580b": {
+    "id": "8608805542250e0153ef6be6fb2d580b",
+    "title": "Experienced Full Stack Engineer at Taboola",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://remotefirstjobs.com/companies/taboola/jobs/experienced-full-stack-engineer-856521",
+    "source": "JobsCollider",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Realize your potential by joining the leading performance-driven advertising company!\n\nAs a Full Stack Engineer on the R&amp;D team in our Tel Aviv office, you\u2019ll play a vital role in building and evolving Taboola\u2019s recommendation ad formats and user experience. You\u2019ll build features end-to-end acro",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-09-03T13:24:02.322942-07:00",
     "status": "active",
     "applied_at": null
   }
