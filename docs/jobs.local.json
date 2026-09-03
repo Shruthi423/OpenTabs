@@ -3379,7 +3379,8 @@
     "posted_at": "2026-08-30",
     "priority": 4,
     "first_seen": "2026-09-01T09:05:58.103620-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "26ed29948e1ce6eb7028b77ff43e4e39",
@@ -3429,7 +3430,8 @@
     "posted_at": "2026-08-31",
     "priority": 1,
     "first_seen": "2026-08-31T20:11:50.755345-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "44751641ca2773d89f48a8c25f56391b",
@@ -3462,7 +3464,8 @@
     "posted_at": "2026-08-30",
     "priority": 4,
     "first_seen": "2026-08-31T19:12:32.430985-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "e6f2bb52d1899e984754eb382ffda944",
@@ -3478,7 +3481,8 @@
     "posted_at": "2026-08-30",
     "priority": 4,
     "first_seen": "2026-08-31T18:33:24.884580-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "97a1df4ffa392614df128caae8377870",
@@ -3494,7 +3498,8 @@
     "posted_at": "2026-08-30",
     "priority": 1,
     "first_seen": "2026-08-31T18:33:22.998916-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7bc1b645ec70bde8685df99f04f31147",
@@ -3510,7 +3515,8 @@
     "posted_at": "2026-08-30",
     "priority": 4,
     "first_seen": "2026-08-31T18:13:50.314942-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2dc740f086b3372d4cf9a5d654b3699b",
@@ -30007,70 +30013,6 @@
     "posted_at": "2026-08-02",
     "priority": 4,
     "first_seen": "2026-08-03T13:13:11.637113-07:00",
-    "status": "active"
-  },
-  {
-    "id": "96e32633c6a723ca5da9037cdc9958a4",
-    "title": "Product Designer",
-    "company": "inMusic",
-    "location": "Cumberland, RI",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448606674",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-03T12:54:43.016638-07:00",
-    "status": "active"
-  },
-  {
-    "id": "d53cf83566c701712038f5dcd33c0fcd",
-    "title": "Associate Product Designer- Business Banking",
-    "company": "Candescent (Digital First Holdings LLC)",
-    "location": "Atlanta, GA, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=195a6e14365bc716",
-    "source": "Indeed",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-02",
-    "priority": 4,
-    "first_seen": "2026-08-03T12:54:40.784738-07:00",
-    "status": "active"
-  },
-  {
-    "id": "dc01303837cdf6afd3c72514a6e99925",
-    "title": "UX Designer III",
-    "company": "Verily",
-    "location": "Boston, MA, US",
-    "salary": "$123,500 \u2013 $185,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=7494bcf5314098c6",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-02",
-    "priority": 4,
-    "first_seen": "2026-08-03T12:54:38.817596-07:00",
-    "status": "active"
-  },
-  {
-    "id": "0f583f7a2fc0fc8783043ca13cc2d962",
-    "title": "UX Designer with UI (React)",
-    "company": "Ampstek",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448226858",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-03T12:54:33.782432-07:00",
     "status": "active"
   }
 ]
