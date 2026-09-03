@@ -4433,7 +4433,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T14:04:15.545943-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "4d0809acb4007c231f739c6cccdca70a",
@@ -4616,7 +4617,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T10:40:30.920056-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a827abd2503fdee6a53ec1d88f048dbb",
@@ -4632,7 +4634,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T10:40:28.965504-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8f4e20994155c91c16297fcc5086fe41",
@@ -4648,7 +4651,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T10:40:26.971628-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ba5611c1e7afe70f3c370e7a026e2f71",
@@ -4664,7 +4668,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T10:40:24.067975-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "34bb6a22248808ca8d31c1dd4822f3db",
@@ -4680,7 +4685,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-31T10:19:48.390469-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5d73e9482bf4512b475590d6343b5825",
@@ -4696,7 +4702,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T10:19:46.371187-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "bdd27d9928b80ec0d0e7d01c2749dc38",
@@ -4712,7 +4719,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T10:19:44.417626-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d560de370108138030123e48b0a8a20d",
@@ -4760,7 +4768,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T10:19:36.612163-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "585ab93b7876806d898888c5587f8476",
@@ -4776,7 +4785,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T10:19:34.855597-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "37f7677825fcb1cd22c36c818faf60a7",
@@ -4792,7 +4802,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-31T10:00:04.469797-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "884d21e52fb2e275cb7e002faf6f518b",
@@ -4808,7 +4819,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T10:00:02.477289-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d1d520a51b2604b15fcbc07e148561bb",
@@ -4824,7 +4836,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T10:00:00.492372-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "028cf80da3adfd82777798e62e56b921",
@@ -4840,7 +4853,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T09:59:57.880987-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "37da03675370ec28645e15ed440d8bec",
