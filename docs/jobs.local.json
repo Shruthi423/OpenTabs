@@ -1,5 +1,39 @@
 [
   {
+    "id": "578e73bc987f9a0aea9757e6947c8e2e",
+    "title": "Internship - Front-End UX Intern",
+    "company": "Dynamic Catholic",
+    "location": "Erlanger, KY, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=7d4d7e5ae26579bf",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-01",
+    "priority": 4,
+    "first_seen": "2026-09-02T18:06:02.525055-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "1732b8fcb352d89b3f495f06f037c6a6",
+    "title": "Associate UX Designer (R-19487)",
+    "company": "Dun & Bradstreet",
+    "location": "Austin, TX, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=bc3351878b344c74",
+    "source": "Indeed",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-01",
+    "priority": 4,
+    "first_seen": "2026-09-02T18:06:00.768285-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "c9416e581bf13a4495321868f1dd0095",
     "title": "Product Designer (Bothell, WA)",
     "company": "Philips",
@@ -353,7 +387,8 @@
     "posted_at": "2026-09-01",
     "priority": 4,
     "first_seen": "2026-09-02T12:35:54.321812-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "81a7dadc6c78cee28e4d38eb7ebd853f",
@@ -386,7 +421,8 @@
     "posted_at": "2026-09-01",
     "priority": 3,
     "first_seen": "2026-09-02T12:16:37.418186-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f79bbc7993c2e5ec04305c791e6eb2a6",
@@ -402,7 +438,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-02T12:16:35.512608-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "1577bda2dd3975374e4794ed7166e7f8",
@@ -502,7 +539,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-02T11:13:29.419526-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "21de3c0773a5a609b5f28ae1da3e3be1",
@@ -518,7 +556,8 @@
     "posted_at": "None",
     "priority": 2,
     "first_seen": "2026-09-02T11:13:25.246539-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c3c69e0e8fd86ef29687fbb6921c0519",
@@ -534,7 +573,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-09-02T11:13:20.271496-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ea7391ba8b99ce3b476136f13c01fdcd",
@@ -550,7 +590,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-09-02T11:13:18.096053-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "12bd99effe1ff136d8efa61083df2074",
@@ -566,7 +607,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-09-02T11:13:16.037463-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "43ede85435f74bfe3e5df3cc228dd7e3",
@@ -582,7 +624,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-09-02T11:13:11.398380-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7e0d36657f93f1c5598faea717a50bba",
@@ -598,7 +641,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-02T11:13:09.230853-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5e905fd2bdb885b08d9a8cf3423a231e",
@@ -614,7 +658,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-02T11:13:07.257913-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a101d55642b236388d00c73c0ef29d4c",
@@ -662,7 +707,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-09-02T11:12:44.176350-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7976c9a19c462fee3610431bbe01d57c",
@@ -678,7 +724,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-09-02T11:12:42.194451-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5f152dec3f092cd2672d1044358a7922",
@@ -694,7 +741,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-09-02T11:12:40.087399-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "cc6d710536c7cfa19405ff12f19d0b47",
@@ -710,7 +758,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-09-02T11:12:35.506740-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "4fd1847e48dffbd076144a8d0847dd38",
@@ -742,7 +791,8 @@
     "posted_at": "None",
     "priority": 1,
     "first_seen": "2026-09-02T11:12:31.765594-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "09c39dfe3741f29d1da13570d0faf027",
