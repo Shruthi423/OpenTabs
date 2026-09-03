@@ -1,5 +1,107 @@
 [
   {
+    "id": "5f2a3ee0ec0e89800477e1f7a2e5353e",
+    "title": "User Experience Designer",
+    "company": "Deloitte",
+    "location": "McLean, VA, US",
+    "salary": "$82,600 \u2013 $162,800 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=97e6c462f6f2b789",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-01",
+    "priority": 4,
+    "first_seen": "2026-09-02T21:34:26.744322-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "6c28c6451610b287ac2bd77585b729a8",
+    "title": "User Experience Designer",
+    "company": "Deloitte",
+    "location": "Rosslyn, VA, US",
+    "salary": "$82,600 \u2013 $162,800 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=d458b1987821f857",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-01",
+    "priority": 4,
+    "first_seen": "2026-09-02T21:34:24.637604-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "4b7ced26ad483388d5d38c5b19ec7df2",
+    "title": "User Experience Designer",
+    "company": "Deloitte",
+    "location": "Washington, DC, US",
+    "salary": "$82,600 \u2013 $162,800 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=6284a1c8e742a752",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-01",
+    "priority": 4,
+    "first_seen": "2026-09-02T21:34:22.504227-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "b6d7be6b4a2db0e9b05c515822461935",
+    "title": "User Experience Designer",
+    "company": "Deloitte",
+    "location": "Richmond, VA, US",
+    "salary": "$82,600 \u2013 $162,800 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=be74586607f8c9ac",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-01",
+    "priority": 4,
+    "first_seen": "2026-09-02T21:32:11.673614-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "14e276dcd79f066cd886c62cbacc346b",
+    "title": "Product Designer, Meta",
+    "company": "Meta",
+    "location": "New York, NY",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4460462005",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-02T21:32:09.458208-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "be6198d657d13da9051ee6efab24799f",
+    "title": "Product Designer, Meta",
+    "company": "Meta",
+    "location": "Menlo Park, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4460455049",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 2,
+    "first_seen": "2026-09-02T21:32:07.289934-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "578e73bc987f9a0aea9757e6947c8e2e",
     "title": "Internship - Front-End UX Intern",
     "company": "Dynamic Catholic",
@@ -676,7 +778,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-02T11:12:51.592738-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "d3306553cda6ae9b5cbafe5abe4c4654",
@@ -692,7 +795,8 @@
     "posted_at": "2026-09-01",
     "priority": 4,
     "first_seen": "2026-09-02T11:12:49.411785-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f996bb20215a9189407189a17c037f3f",
@@ -776,7 +880,8 @@
     "posted_at": "2026-09-01",
     "priority": 2,
     "first_seen": "2026-09-02T11:12:33.604907-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0c4a21279257a4a276cede9249fe5968",
@@ -1088,7 +1193,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-09-01T19:34:01.649116-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b91696f63a68a073a8df387dd5c0a3da",
@@ -1136,7 +1242,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T18:54:38.708893-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "efe83be66a98931c29f4857c13adc2f9",
@@ -1152,7 +1259,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T18:34:40.091810-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "14191f3b765291d0a38a9607307edfd7",
@@ -1184,7 +1292,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T18:34:34.469715-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b89f4857e82d4daecf4b22aff8470286",
@@ -29936,86 +30045,6 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-02T21:39:11.022937-07:00",
-    "status": "active"
-  },
-  {
-    "id": "be328f596bac1ad343f9a0d45bb5780d",
-    "title": "Product Design Engineering Supervisor",
-    "company": "OPW, a Dover Company",
-    "location": "Oxnard, CA, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=194f992969a0f36f",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-01",
-    "priority": 4,
-    "first_seen": "2026-08-02T21:20:55.224778-07:00",
-    "status": "active"
-  },
-  {
-    "id": "fd3f10039234fab02f44307e4b32a44e",
-    "title": "Applied UX Researcher (Messaging Apps)",
-    "company": "UXR Hunt",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4447694053",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-02T21:20:53.109813-07:00",
-    "status": "active"
-  },
-  {
-    "id": "6ed14e2835a4197fedea52976cb050b7",
-    "title": "UX Researcher AI & Quantitative Specialist",
-    "company": "UXR Hunt",
-    "location": "Campbell, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4447691099",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-02T21:20:51.123798-07:00",
-    "status": "active"
-  },
-  {
-    "id": "e64b626a2b9bc935b3efc6e23241cc52",
-    "title": "User Experience Researcher",
-    "company": "UXR Hunt",
-    "location": "Natick, MA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4447687208",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-02T21:20:49.336601-07:00",
-    "status": "active"
-  },
-  {
-    "id": "f58f37be0cf1c1ca5836d264c50bfb21",
-    "title": "UX Researcher - Digital Experience (Corporate & Institutional Banking)",
-    "company": "UXR Hunt",
-    "location": "Atlanta, GA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4447675585",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-02T21:20:47.445643-07:00",
     "status": "active"
   }
 ]
