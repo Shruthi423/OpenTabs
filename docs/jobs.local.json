@@ -1,5 +1,107 @@
 [
   {
+    "id": "019fba9391915ea971b18082a226ce0e",
+    "title": "PRODUCT DESIGN ENGINEER II - MOTORIZED",
+    "company": "SharkNinja France",
+    "location": "Needham, MA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463136632",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-03T16:48:33.084180-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "be2628ba84a3903096522aa597041ff5",
+    "title": "Manufacturing Equipment Engineer, Roadster",
+    "company": "Tesla",
+    "location": "Fremont, CA, US",
+    "salary": "$84,000 \u2013 $216,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=a1bdeee3fcacc9ea",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 2,
+    "first_seen": "2026-09-03T16:48:31.252424-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "e4deab97dbbac1fbb442c6265a00410b",
+    "title": "UX Designer, D3 (Design, Development & Delivery) Team",
+    "company": "Amazon Web Services",
+    "location": "Seattle, WA, US",
+    "salary": "$117,800 \u2013 $160,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=cb5c806fbf03a6ad",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-08-09",
+    "priority": 3,
+    "first_seen": "2026-09-03T16:48:29.306385-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "02851ede3418266f54f126dfb5944223",
+    "title": "UX Designer, D3 (Design, Development & Delivery) Team",
+    "company": "Amazon Web Services",
+    "location": "New York, NY, US",
+    "salary": "$117,800 \u2013 $160,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=af61c8e75f277133",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-08-09",
+    "priority": 3,
+    "first_seen": "2026-09-03T16:48:27.581252-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "d0fe0df98aa92fdb3b9efbe7e4ae4fe1",
+    "title": "UX Designer, D3 (Design, Development & Delivery) Team",
+    "company": "Amazon Web Services",
+    "location": "Arlington, VA, US",
+    "salary": "$117,800 \u2013 $160,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=7c81adf959d1c6c8",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-08-09",
+    "priority": 4,
+    "first_seen": "2026-09-03T16:48:15.589250-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "b00c265f66477c53c3a89f2e1b4de779",
+    "title": "Founding Product Designer",
+    "company": "Change Order",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4460763843",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 1,
+    "first_seen": "2026-09-03T16:48:03.841929-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "67d939c08697f0060e046eaf412c4963",
     "title": "Early Career Computer Aided Design Technologist - Design Engineering, Onsite",
     "company": "Sandia National Laboratories",
@@ -4501,7 +4603,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T12:17:44.730644-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "a59156e04bfcedb930813329a600f4f8",
@@ -4902,7 +5005,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-31T09:59:50.205290-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7448046806af49a6be9818031dac13c5",
@@ -4918,7 +5022,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-31T09:59:48.313442-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d95b6ca5c02476008b4aef7a56112b91",
@@ -4950,7 +5055,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T09:59:44.232841-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "afe73d27e2509f3277c059f7d7138f7c",
@@ -4966,7 +5072,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T09:59:42.417761-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8eded70b1e03d3afbf6435ca154c00dc",
@@ -4982,7 +5089,8 @@
     "posted_at": "None",
     "priority": 4,
     "first_seen": "2026-08-30T17:31:35.121083-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "4da29709d2be72a6e7464db756a3f229",
@@ -4998,7 +5106,8 @@
     "posted_at": "None",
     "priority": 4,
     "first_seen": "2026-08-30T17:31:33.427832-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "09e170813a7be5d1f8450677748578b4",
@@ -5014,7 +5123,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-30T16:11:07.348669-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d88c2fb504d2428947b2fe7ada2d1ca7",
@@ -5030,7 +5140,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-30T11:34:10.096423-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b5c9dfc525a3a0076e1289e030d8c124",
@@ -5046,7 +5157,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-30T10:54:20.299774-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b972753ba9b0fb0169aefe3d205203d8",
@@ -5062,7 +5174,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-30T10:54:18.513820-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "baf67a03b452dc2a850a7f47eb03c7a5",
@@ -5078,7 +5191,8 @@
     "posted_at": "None",
     "priority": 3,
     "first_seen": "2026-08-30T10:47:48.486036-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "72218729e77b9ba8e6cbfcbac38d6519",
@@ -5094,7 +5208,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-30T10:28:01.557666-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "3700ef13cf2b144fe4e58b216e0f5105",
@@ -30086,182 +30201,6 @@
     "posted_at": "2026-08-02",
     "priority": 4,
     "first_seen": "2026-08-03T18:33:00.082240-07:00",
-    "status": "active"
-  },
-  {
-    "id": "2438ed5b1a2c4217c808804ce40794e2",
-    "title": "eCommerce User Experience (UX) Designer",
-    "company": "thyssenkrupp",
-    "location": "Southfield, MI",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448231903",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-03T16:15:16.797168-07:00",
-    "status": "active"
-  },
-  {
-    "id": "83a86f314f716acace3e0f1f6961d5ba",
-    "title": "UX Designer III",
-    "company": "Verily Health",
-    "location": "Boston, MA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448253256",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-03T16:15:14.562695-07:00",
-    "status": "active"
-  },
-  {
-    "id": "3f501650ecd9c3684612e65f1324f556",
-    "title": "Interaction Designer, Support Platform",
-    "company": "Google",
-    "location": "Irvine, CA, US",
-    "salary": "$132,000 \u2013 $189,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=d304e9bc55e4e7fe",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-08-02",
-    "priority": 4,
-    "first_seen": "2026-08-03T16:15:12.576028-07:00",
-    "status": "active"
-  },
-  {
-    "id": "6b2b1a1e5c466eb0c14f6d5eb0ae6e39",
-    "title": "Product Designer, LSP44",
-    "company": "Convey",
-    "location": "Chicago, IL, US",
-    "salary": "$112,000 \u2013 $168,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=72da61897e23ff0e",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-02",
-    "priority": 4,
-    "first_seen": "2026-08-03T16:15:10.162442-07:00",
-    "status": "active"
-  },
-  {
-    "id": "36adceeff6893d901b5ef53f8bd2d172",
-    "title": "Visual Designer, Kiro",
-    "company": "Amazon Web Services",
-    "location": "Seattle, WA, US",
-    "salary": "$120,500 \u2013 $163,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=49e806fcc9891768",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-08-02",
-    "priority": 3,
-    "first_seen": "2026-08-03T16:15:07.930471-07:00",
-    "status": "active"
-  },
-  {
-    "id": "5edff44ed12465b7ce7070d464ab03f1",
-    "title": "UX Researcher \u2013 AI Experiences",
-    "company": "Blueprint Technologies",
-    "location": "Redmond, WA, US",
-    "salary": "$35 \u2013 $38 / hourly",
-    "url": "https://www.indeed.com/viewjob?jk=c00a84810143ae26",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-02",
-    "priority": 4,
-    "first_seen": "2026-08-03T16:15:05.939183-07:00",
-    "status": "active"
-  },
-  {
-    "id": "442763170c9d7a1aeca1acb65de7e877",
-    "title": "Product Designer",
-    "company": "Motion Recruitment",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448635234",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-03T16:15:03.818511-07:00",
-    "status": "active"
-  },
-  {
-    "id": "257524184de0d94882012aa9d1827773",
-    "title": "Innovation Architect, Product Design",
-    "company": "Mercer",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448626980",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-03T16:15:01.747783-07:00",
-    "status": "active"
-  },
-  {
-    "id": "c6eae522fb69310e1820139d7845f3e6",
-    "title": "Product Design Engineer",
-    "company": "Programmers.io",
-    "location": "Cupertino, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448232940",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-03T16:14:59.789585-07:00",
-    "status": "active"
-  },
-  {
-    "id": "9e9e19fff5c57e2d4ae81e67b633f91a",
-    "title": "Visual Designer - San Francisco/ Los Angeles",
-    "company": "Plaud",
-    "location": "San Francisco, CA, US",
-    "salary": "$110,000 \u2013 $155,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=d5f00eb13abe739c",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-02",
-    "priority": 1,
-    "first_seen": "2026-08-03T16:14:57.835117-07:00",
-    "status": "active"
-  },
-  {
-    "id": "28e8f3fffdf49d30e39ee8fd24cd8bf4",
-    "title": "Motion Designer - San Francisco/ Los Angeles",
-    "company": "Plaud",
-    "location": "San Francisco, CA, US",
-    "salary": "$110,000 \u2013 $155,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=7878fad3d6a81060",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-02",
-    "priority": 1,
-    "first_seen": "2026-08-03T16:14:55.913606-07:00",
     "status": "active"
   }
 ]
