@@ -53449,5 +53449,37 @@
     "roles": [],
     "first_seen": "2026-09-03T07:04:57.392827-07:00",
     "status": "active"
+  },
+  "47366ca1b6ffa1ff9f377f3d5043cea6": {
+    "id": "47366ca1b6ffa1ff9f377f3d5043cea6",
+    "company": "Guardio",
+    "amount": "$40.0M",
+    "stage": "?",
+    "investors": "ION Crossover Partners, Union Tech Ventures, Vintage Investment Partners",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/03/guardio-raises-40m-at-1-1b-valuation-to-enhance-consumer-cybersecurity/",
+    "priority": 3,
+    "founders": [
+      "Assaf Rappaport"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-03T10:51:43.598919-07:00",
+    "status": "active"
+  },
+  "18381730f2a0d6274191693beb47e3de": {
+    "id": "18381730f2a0d6274191693beb47e3de",
+    "company": "NVIDIA",
+    "amount": "$12.93B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "AlleyWatch",
+    "url": "https://www.alleywatch.com/2026/09/nvidia-acquisition-hugging-face-price-open-source-ai-models/",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-09-03T10:51:46.426758-07:00",
+    "status": "active"
   }
 }

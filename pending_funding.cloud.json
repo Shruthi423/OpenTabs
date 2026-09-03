@@ -1,128 +1,32 @@
 [
   {
     "item": {
-      "company": "Funding News Today",
-      "amount": "$10.5M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": "Munich",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/03/startup-funding-news-today-september-3-2026-backbone-plenti-rightcharge-outlier-space-zeit-ai-more/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-03T07:34:30.460529-07:00"
-  },
-  {
-    "item": {
-      "company": "Souk",
-      "amount": "$1.6M",
-      "stage": "Pre-Seed",
-      "investors": "Sure Valley Ventures",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/souk-raises-1-6m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-03T07:34:33.294066-07:00"
-  },
-  {
-    "item": {
-      "company": "askpolly",
-      "amount": "$3.0M",
-      "stage": "Seed",
-      "investors": "Differential Ventures and saw participation from The",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/03/market-research-startup-askpolly-raises-3m-to-transform-social-media-chatter-into-verifiable-insights/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-03T07:34:36.130608-07:00"
-  },
-  {
-    "item": {
-      "company": "Plenti",
-      "amount": "$3.0M",
-      "stage": "Seed",
-      "investors": "Tether",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/plenti-raises-3m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-03T07:34:39.392868-07:00"
-  },
-  {
-    "item": {
-      "company": "Atira",
-      "amount": "$17.5M",
+      "company": "Guardio",
+      "amount": "$40.0M",
       "stage": null,
-      "investors": null,
+      "investors": "ION Crossover Partners, Union Tech Ventures, Vintage Investment Partners",
       "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/03/exclusive-german-ai-startup-atira-raises-17-5-million-to-unclog-the-paperwork-bottleneck-in-industrial-dealmaking/",
+      "founders": [
+        "Assaf Rappaport"
+      ],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/03/guardio-raises-40m-at-1-1b-valuation-to-enhance-consumer-cybersecurity/",
       "priority": 3
     },
-    "remind_at": "2026-09-03T07:34:42.242631-07:00"
+    "remind_at": "2026-09-03T11:21:42.598742-07:00"
   },
   {
     "item": {
-      "company": "Gloria Steinem",
-      "amount": null,
+      "company": "NVIDIA",
+      "amount": "$12.93B",
       "stage": null,
       "investors": null,
       "location": "New York",
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/03/gloria-steinem-dies-92-feminist-icon",
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/09/nvidia-acquisition-hugging-face-price-open-source-ai-models/",
       "priority": 3
     },
-    "remind_at": "2026-09-03T07:34:47.913972-07:00"
-  },
-  {
-    "item": {
-      "company": "Ex-Deel",
-      "amount": "$1.6M",
-      "stage": null,
-      "investors": null,
-      "location": "London",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/souk-raises-1-6m-ai-b2b-partnerships-agent-coco/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-03T07:34:50.729876-07:00"
-  },
-  {
-    "item": {
-      "company": "Google",
-      "amount": "$12.93B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/03/top-tech-news-today-september-3-2026-google-hugging-face-meta-moonshot-ai-nvidia-more/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-03T07:34:53.581443-07:00"
-  },
-  {
-    "item": {
-      "company": "FlyAkeed",
-      "amount": "$25.2M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/flyakeed-raises-25-2m-growth-capital/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-03T07:34:56.392688-07:00"
+    "remind_at": "2026-09-03T11:21:45.426577-07:00"
   }
 ]
