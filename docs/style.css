@@ -220,30 +220,39 @@ a.role:hover { border-bottom-color: var(--spec); }
    Controls are words, so they inherit the card's voice instead of importing
    a button's. A rule above them separates what the job *is* from what you
    can *do* about it, which is the only hierarchy this card needs. */
+/* No rule above the verbs: the card already has a border under it, and a
+   second line ten pixels away made every card read as two boxes. Spacing
+   separates the job from what you can do about it. */
 .verbs {
-  display: flex; align-items: baseline; gap: 7px; flex-wrap: wrap;
-  margin-top: 12px; padding-top: 11px; border-top: 1px solid var(--line);
-  font-family: var(--font-ui); font-size: 12px;
+  display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap;
+  margin-top: 16px;
+  font-family: var(--font-ui); font-size: 11px;
+  text-transform: uppercase; letter-spacing: .09em;
 }
+/* Underline is the hover state, not the resting one — at rest the line is
+   just words, and the row stops striping. */
 .verb {
   background: none; border: 0; padding: 2px 0; cursor: pointer;
-  font: inherit; color: var(--fg); letter-spacing: .01em;
-  border-bottom: 1px solid color-mix(in srgb, var(--fg) 18%, transparent);
+  font: inherit; color: var(--fg);
+  /* Restated rather than inherited: form controls don't take
+     text-transform from an ancestor. */
+  text-transform: uppercase; letter-spacing: inherit;
+  border-bottom: 1px solid transparent;
 }
 .verb:hover { color: var(--co); border-bottom-color: var(--co); }
 /* Finished work stops asking for attention but stays legible and clickable. */
-.verb.is-done { color: var(--mut); border-bottom-color: transparent; }
+.verb.is-done { color: var(--mut); }
 .verb.is-done:hover { color: var(--fg); border-bottom-color: var(--fg); }
 /* The one verb that is genuinely your move right now. */
-.verb.is-live { color: var(--co); border-bottom-color: var(--co); font-weight: 600; }
+.verb.is-live { color: var(--co); font-weight: 600; }
 /* Filing is always available and never the point, so it sits apart from the
    verbs that move a job forward. One rule for all three card types. */
 .verbs-tail { margin-left: auto; display: inline-flex; align-items: baseline; gap: 14px; }
-.verb.quiet { color: var(--mut); border-bottom-color: transparent; }
+.verb.quiet { color: var(--mut); }
 .verb.quiet:hover { color: var(--danger); border-bottom-color: var(--danger); }
 .vsep { color: var(--mut); opacity: .5; }
 /* The focused card is read from further back, so its verbs scale up. */
-.verbs-lg { font-size: 15px; gap: 9px; padding-top: 18px; margin-top: 22px; }
+.verbs-lg { font-size: 13px; gap: 14px; margin-top: 26px; letter-spacing: .1em; }
 .verbs-lg .verb { padding: 4px 0; }
 .verbs-lg kbd { margin-left: 6px; }
 .verb kbd {
