@@ -308,9 +308,6 @@ a.role:hover { border-bottom-color: var(--spec); }
 .act, .clear-all, .drawer-close { cursor: pointer; }   /* keep buttons obvious */
 .act.icon.del:hover { color: var(--danger); }
 
-/* visa badges */
-.badge.visa-yes { color: #2e9e6b; border-color: #2e9e6b; }
-.badge.visa-no  { color: var(--mut); }
 
 /* animated strike that draws left→right when you click Done (GSAP sets --strike) */
 
@@ -448,7 +445,7 @@ body.drawer-trash #drawerTrash {
 /* ── One horizontal settings row ───────────────────────────────── */
 .controls { position: sticky; top: 0; z-index: 20; background: var(--bg); }
 .row { gap: 20px; }
-/* one right-hand group: source · location · posted · visa · sort */
+/* one right-hand group: source · location · posted · sort */
 .settings-group {
   display: flex; align-items: center; gap: 20px; flex-wrap: wrap;
   margin-left: auto;

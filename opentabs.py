@@ -184,10 +184,24 @@ EXCLUDE = [
     "mechanical", "cad designer", "footwear designer",
     "apparel designer", "furniture designer", "soft goods designer",
     "packaging designer",
-    # seniority — we want roles for ≤4 years of experience
-    "senior", "staff", "principal", "lead", "director", "head of",
-    "vp ", "vice president", "manager",
+    # seniority lives in SENIOR_TITLE below — plain substrings couldn't
+    # express "Sr." without also matching innocent words.
 ]
+
+# Seniority in the title. Word-boundaried because the miss that mattered was
+# "Sr." — "senior" was already excluded, but 294 of the 295 senior roles that
+# reached the board were the abbreviation, and they kept arriving daily.
+# "architect" is deliberately absent: Information Architect is an IC UX role.
+SENIOR_TITLE = re.compile(
+    r'\b(sr|snr|senior|staff|principal|distinguished|lead|leader|head|'
+    r'director|dir|vp|vice\s+president|manager|mgr|chief)\b', re.I)
+
+# Security clearance means US citizenship, not just work authorisation, so
+# these are closed regardless of fit. Checked against the description too —
+# most postings only mention it in the body.
+CLEARANCE = re.compile(
+    r'(security clearance|active clearance|ts/sci|top secret|\bpolygraph\b|'
+    r'\bsecret clearance\b|public trust clearance|dod clearance|q clearance)', re.I)
 # Physical / industrial product design is NOT UI/UX. These terms are near-
 # exclusive to hardware/industrial work, so a hit anywhere in the posting is a
 # reliable signal even when the title is just "Product Designer" / "Design
@@ -269,6 +283,10 @@ def classify(title: str, company: str = "", description: str = "") -> dict:
     for ex in EXCLUDE:
         if ex in tl:
             return {"relevant": False}
+    if SENIOR_TITLE.search(tl):
+        return {"relevant": False}
+    if CLEARANCE.search(text):
+        return {"relevant": False}
     if _physical_design(text):          # drop physical/industrial product design
         return {"relevant": False}
     if _too_senior(text):
@@ -665,7 +683,9 @@ RSS_FEEDS = [
     ("Himalayas",      "https://himalayas.app/jobs/rss"),
     ("JobsCollider",   "https://jobscollider.com/remote-design-jobs.rss"),
     ("JobsCollider-Product", "https://jobscollider.com/remote-product-jobs.rss"),
-    ("HackerNews",     "https://hnrss.org/newest?q=ux+designer"),
+    # HackerNews removed: hnrss "newest" is a posts feed, not a jobs feed —
+    # it only ever produced blog chatter ("A UX designer walks into a Tesla
+    # Bar"), never something to apply to.
 ]
 
 # ─────────────────────────────────────────────────────────────────
@@ -1717,8 +1737,11 @@ def publish_jds(store: dict):
         log.error(f"publish_jds: {e}")
 
 # Only these reach docs/jobs*.json; anything else is bot-side bookkeeping.
+# "visa" is intentionally absent — no sponsorship needed, so the badge was
+# noise on every card. extract_visa() still runs and the field is still
+# stored; only the publish is dropped, so re-enabling is a one-word change.
 WEB_JOB_FIELDS = ("id", "title", "company", "location", "salary", "url", "source",
-                  "is_new_grad", "is_big_tech", "visa", "founders", "posted_at",
+                  "is_new_grad", "is_big_tech", "founders", "posted_at",
                   "priority", "first_seen", "status")
 
 def _web_job(rec: dict) -> dict:

@@ -12,7 +12,7 @@ let JOBS = [];                          // raw data from jobs*.json
 let FUND = [];                          // raw data from funding.json
 
 const state = {
-  q: "", source: [], loc: [], date: "", visa: [],   // source/loc/visa = multi
+  q: "", source: [], loc: [], date: "",              // source/loc = multi
   mode: localStorage.getItem("mode") || "board",    // board | cognition
   cog: localStorage.getItem("cogCol") || "today",   // which column cognition mode works
   cogI: 0,                                          // cursor into that column's deck
@@ -228,7 +228,6 @@ function scoreJob(j) {
   else if (STARTUP_SOURCES.some((x) => src.includes(x))) { n += 18; why.push("Startup board"); }
   if (j.is_big_tech) { n += 5; why.push("Big tech"); }   // visible, never penalised
 
-  if (j.visa === "yes") { n += 10; why.push("Visa"); }
 
   // recency, tapering off over a week
   const days = (Date.now() - jobTime(j)) / 864e5;
@@ -265,7 +264,6 @@ function visible() {
     if (state.source.length && !state.source.includes(j.source)) return false;
     if (state.loc.length && !state.loc.includes(locGroup(j))) return false;
     if (state.date && Date.now() - jobTime(j) > (+state.date) * 3600 * 1000) return false;
-    if (state.visa.length && !state.visa.includes(j.visa || "unknown")) return false;
     return true;
   });
   // group AFTER filtering, so a Location filter narrows a cluster to the
@@ -767,9 +765,7 @@ function jobHTML(j, n, mode) {
   const badges =
     (j.is_new_grad ? '<span class="badge">New Grad</span>' : "") +
     (j.is_big_tech ? '<span class="badge">Big Tech</span>' : "") +
-    (j.visa === "yes" ? '<span class="badge visa-yes">Visa ✓</span>'
-     : j.visa === "no" ? '<span class="badge visa-no">No visa</span>' : "")
-    + thinJD(j);
+    thinJD(j);
   // One obvious control per state: file it, un-file it, or bring it back.
   const actions =
     mode === "trash" ? '<button class="act done" data-act="restore">Restore</button>'
@@ -1157,8 +1153,7 @@ function cogJobHTML(j) {
   const badges =
     (j.is_new_grad ? '<span class="badge">New Grad</span>' : "") +
     (j.is_big_tech ? '<span class="badge">Big Tech</span>' : "") +
-    (j.visa === "yes" ? '<span class="badge visa-yes">Visa ✓</span>'
-     : j.visa === "no" ? '<span class="badge visa-no">No visa</span>' : "");
+    thinJD(j);
   const rui = RESUME_UI[RESUMES[j.id]] || RESUME_UI.undefined;
   const oui = outreachUI(j);
   return `<article class="cog-card">

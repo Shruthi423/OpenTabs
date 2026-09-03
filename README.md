@@ -50,6 +50,33 @@ page stays current. Set `PUBLISH_TO_GIT` to `False` to disable auto-publish.
 > Note: a free GitHub Pages site is **public** — anyone with the link can see
 > the listings (no personal data, just public job posts).
 
+## What the filter keeps
+
+US only, and strictly. `location_rank` drops anything matching `NON_US`
+(India, UK, Canada, EU, Gulf and the rest) before a posting can reach the
+board; JobSpy is only ever queried for San Francisco, the Bay Area and the
+United States. Bare `Remote` postings are kept at the lowest priority — most
+US design boards mean US-remote, and dropping them lost real roles.
+
+Also excluded, on top of the existing non-UX and 5+-years rules:
+
+- **Seniority in the title** — `SENIOR_TITLE` catches Sr / Snr / Senior /
+  Staff / Principal / Lead / Head / Director / VP / Manager / Chief. It is a
+  word-boundary regex rather than a substring because the miss that mattered
+  was **"Sr."**: `EXCLUDE` already held `"senior"`, yet 294 of the 295 senior
+  roles that reached the board were the abbreviation, arriving daily.
+  *Architect* is deliberately absent — Information Architect is an IC role.
+- **Security clearance** — TS/SCI, polygraph, Secret, DoD. These need US
+  citizenship rather than work authorisation, so they're closed regardless of
+  fit. Matched against the description too, since most postings only say so
+  in the body.
+
+Internships and contract roles are kept on purpose.
+
+Visa sponsorship is no longer published or shown. `extract_visa()` still runs
+and the field is still stored — only `WEB_JOB_FIELDS` drops it, so putting the
+badge back is a one-word change.
+
 ## Résumé hand-off
 
 Every job card has a **Résumé** button that copies the full job description
