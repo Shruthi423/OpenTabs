@@ -37,9 +37,16 @@ const esc = (s) => (s || "").replace(/[&<>"]/g, (c) =>
   ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
 /* ── Applied marks + Trash + dismissed raises + Undo (per-browser) ── */
+/* Résumé hand-off state, per job: "sent" = pasted into Claude, "done" =
+   the tailored résumé is downloaded. There is no way to see into the Claude
+   tab, so "done" is a mark you flip — same contract as Applied. */
+function loadResumes() { try { return JSON.parse(localStorage.getItem("resumes") || "{}"); } catch { return {}; } }
+function saveResumes() { localStorage.setItem("resumes", JSON.stringify(RESUMES)); }
+
 function loadMarks() { try { return JSON.parse(localStorage.getItem("marks") || "{}"); } catch { return {}; } }
 function saveMarks(m) { localStorage.setItem("marks", JSON.stringify(m)); }
 let MARKS = loadMarks();                           // { jobId: "done" }
+let RESUMES = loadResumes();                       // { jobId: "sent" | "done" }
 function isApplied(j) { return MARKS[j.id] === "done" || j.status === "applied"; }
 
 function loadSet(key) { try { return new Set(JSON.parse(localStorage.getItem(key) || "[]")); } catch { return new Set(); } }
@@ -89,11 +96,27 @@ function undoLast() {
   render(true);
 }
 /* Mark / un-mark a set of jobs as applied, recording one undo entry. */
+/* MARKS has always been {id: "done"} with no date, so the drawer could only
+   ever show one undifferentiated pile. Dates live in a parallel map rather
+   than inside the mark: marks already in your browser stay valid, they just
+   have no date and fall under "Earlier". */
+function loadAppliedAt() { try { return JSON.parse(localStorage.getItem("appliedAt") || "{}"); } catch { return {}; } }
+function saveAppliedAt() { localStorage.setItem("appliedAt", JSON.stringify(APPLIED_AT)); }
+let APPLIED_AT = loadAppliedAt();            // { jobId: ISO date }
+
+function appliedWhen(j) {
+  return APPLIED_AT[j.id] || j.applied_at || "";
+}
+
 function setApplied(ids, applied) {
   if (!ids.length) return;
   pushUndo({ type: "mark", ids, prev: ids.map((id) => MARKS[id]) });
-  ids.forEach((id) => { if (applied) MARKS[id] = "done"; else delete MARKS[id]; });
-  saveMarks(MARKS);
+  const now = new Date().toISOString();
+  ids.forEach((id) => {
+    if (applied) { MARKS[id] = "done"; APPLIED_AT[id] = now; }
+    else { delete MARKS[id]; delete APPLIED_AT[id]; }
+  });
+  saveMarks(MARKS); saveAppliedAt();
 }
 
 /* ── helpers ──────────────────────────────────────────────────── */
@@ -113,6 +136,17 @@ function jobTime(j) {
   return new Date(j.first_seen).getTime() || 0;
 }
 function postedAgo(j) { const t = jobTime(j); return t ? ago(t) : "recently"; }
+
+/* Roughly one posting in five is behind a login (YC, a few boards) and the
+   bot gave up fetching its text. Those still hand off fine — you just get
+   the title and the link — but you should know that before you click, not
+   after Claude writes a résumé off two lines. "jd" is absent while a
+   posting is still queued, so only an explicit "no" warns. */
+function thinJD(j) {
+  return j.jd === "no"
+    ? '<span class="badge thin" title="This posting is behind a login, so the bot couldn\'t read it. Résumé will hand over the title and link only — copy the description yourself for a better one.">no description</span>'
+    : "";
+}
 // which location group a job falls in (for the Location filter)
 function locGroup(j) {
   const t = (j.location || "").toLowerCase(), p = j.priority || 9;
@@ -275,6 +309,7 @@ const MONEY_SVG = '<svg class="ico-money" width="14" height="14" fill="currentCo
 const WEB_SVG = '<svg width="12" height="12" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24ZM101.63,168h52.74C149,186.34,140,202.87,128,215.89,116,202.87,107,186.34,101.63,168ZM98,152a145.72,145.72,0,0,1,0-48h60a145.72,145.72,0,0,1,0,48ZM40,128a87.61,87.61,0,0,1,3.33-24H81.79a161.79,161.79,0,0,0,0,48H43.33A87.61,87.61,0,0,1,40,128ZM154.37,88H101.63C107,69.66,116,53.13,128,40.11,140,53.13,149,69.66,154.37,88Zm19.84,16h38.46a88.15,88.15,0,0,1,0,48H174.21a161.79,161.79,0,0,0,0-48Zm32.16-16H170.94a142.39,142.39,0,0,0-20.26-45A88.37,88.37,0,0,1,206.37,88ZM105.32,43A142.39,142.39,0,0,0,85.06,88H49.63A88.37,88.37,0,0,1,105.32,43ZM49.63,168H85.06a142.39,142.39,0,0,0,20.26,45A88.37,88.37,0,0,1,49.63,168Zm101.05,45a142.39,142.39,0,0,0,20.26-45h35.43A88.37,88.37,0,0,1,150.68,213Z"></path></svg>';
 const LI_MINI = '<svg width="12" height="12" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M216,24H40A16,16,0,0,0,24,40V216a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V40A16,16,0,0,0,216,24ZM96,176a8,8,0,0,1-16,0V112a8,8,0,0,1,16,0Zm-8-80a12,12,0,1,1,12-12A12,12,0,0,1,88,96Zm96,80a8,8,0,0,1-16,0V140a20,20,0,0,0-40,0v36a8,8,0,0,1-16,0V112a8,8,0,0,1,15.79-1.78A36,36,0,0,1,184,140Z"></path></svg>';
 /* Broom — the "sweep this off the board" action on every card */
+const CHECK_SVG = '<svg viewBox="0 0 256 256" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M232.49,80.49l-128,128a12,12,0,0,1-17,0l-56-56a12,12,0,1,1,17-17L96,183,215.51,63.51a12,12,0,0,1,17,17Z"></path></svg>';
 const BROOM_SVG = '<svg width="16" height="16" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true"><path d="M235.5,216.81c-22.56-11-35.5-34.58-35.5-64.8V134.73a15.94,15.94,0,0,0-10.09-14.87L165,110a8,8,0,0,1-4.48-10.34l21.32-53a28,28,0,0,0-16.1-37,28.14,28.14,0,0,0-35.82,16,.61.61,0,0,0,0,.12L108.9,79a8,8,0,0,1-10.37,4.49L73.11,73.14A15.89,15.89,0,0,0,55.74,76.8C34.68,98.45,24,123.75,24,152a111.45,111.45,0,0,0,31.18,77.53A8,8,0,0,0,61,232H232a8,8,0,0,0,3.5-15.19ZM67.14,88l25.41,10.3a24,24,0,0,0,31.23-13.45l21-53c2.56-6.11,9.47-9.27,15.43-7a12,12,0,0,1,6.88,15.92L145.69,93.76a24,24,0,0,0,13.43,31.14L184,134.73V152c0,.33,0,.66,0,1L55.77,101.71A108.84,108.84,0,0,1,67.14,88Zm48,128a87.53,87.53,0,0,1-24.34-42,8,8,0,0,0-15.49,4,105.16,105.16,0,0,0,18.36,38H64.44A95.54,95.54,0,0,1,40,152a85.9,85.9,0,0,1,7.73-36.29l137.8,55.12c3,18,10.56,33.48,21.89,45.16Z"></path></svg>';
 
 /* Outreach deep-links — free layer (no scraping, no API keys). */
@@ -291,9 +326,14 @@ function outreachHTML(rec) {
   const founders = (rec.founders || []).slice(0, 2).map((nm) =>
     `<a class="founder" href="${esc(outreachUrls.founder(nm, rec.company))}" target="_blank" rel="noopener" ` +
     `title="Find ${esc(nm)} on LinkedIn">${esc(nm)}${LI_MINI}</a>`).join("");
+  // Website and Company are reference, not action: they became bare icons
+  // so the two things this board is actually for — reaching someone and
+  // tailoring a résumé — are the only labelled controls on the card.
   return `<div class="outreach">
-        <a class="ol" href="${esc(outreachUrls.site(rec.company))}" target="_blank" rel="noopener">${WEB_SVG}Website</a>
-        <a class="ol" href="${esc(outreachUrls.company(rec.company))}" target="_blank" rel="noopener">${LI_MINI}Company</a>
+        <a class="ol ol-site" href="${esc(outreachUrls.site(rec.company))}" target="_blank" rel="noopener"
+           title="${esc(rec.company || "Company")} website">${WEB_SVG}<span class="ol-t">Website</span></a>
+        <a class="ol ol-co" href="${esc(outreachUrls.company(rec.company))}" target="_blank" rel="noopener"
+           title="${esc(rec.company || "Company")} on LinkedIn">${LI_MINI}<span class="ol-t">Company</span></a>
         ${founders ? `<span class="ol-lbl">Founders</span>${founders}` : ""}
       </div>`;
 }
@@ -313,12 +353,21 @@ function railTip() {
   if (!TIP) { TIP = document.createElement("div"); TIP.className = "rail-tip"; document.body.appendChild(TIP); }
   return TIP;
 }
+/* A detached element reports a 0,0 rect, which pins the tip to the corner —
+   fall back to the rail button so the message still lands somewhere sane. */
+function tipAnchor(el) {
+  return el && el.isConnected ? el : ($("#projBtn") || $(".rail"));
+}
 function showTip(el, msg) {
+  el = tipAnchor(el);
+  if (!el) return;
   const t = railTip(), r = el.getBoundingClientRect();
   t.textContent = msg || el.dataset.tip || "";
-  t.style.left = (r.right + 10) + "px";
-  t.style.top = (r.top + r.height / 2) + "px";
-  t.classList.add("on");
+  t.classList.add("on");                       // measurable before placing it
+  // Prefer the right, flip left when the element is near the right edge.
+  const w = t.offsetWidth, right = r.right + 10;
+  t.style.left = (right + w > window.innerWidth - 12 ? Math.max(12, r.left - w - 10) : right) + "px";
+  t.style.top = Math.min(Math.max(12, r.top + r.height / 2), window.innerHeight - 12) + "px";
 }
 function hideTip() { if (TIP && !tipHold) TIP.classList.remove("on"); }
 /* Briefly pin a different label to a rail button, then release it. */
@@ -341,19 +390,393 @@ function reveal() {
 
 /* ── card markup ──────────────────────────────────────────────── */
 /* mode: today | prev (board) · app | trash (right panels) */
+/* ────────────────────────────────────────────────────────────────
+   📄  RÉSUMÉ HAND-OFF
+   One click puts the full job description on the clipboard and opens
+   the Claude project that already knows how to write the résumé, so
+   the loop is click → ⌘V → enter instead of open-posting, select-all,
+   copy, switch tab, new chat, paste.
+
+   Deliberately NOT automated end-to-end: the project's preloaded
+   instructions are what make the résumé good, and there is no API
+   that can start a chat inside one. Anything that generated résumés
+   on the side would be a second set of instructions drifting away
+   from the ones actually being tuned.
+   ──────────────────────────────────────────────────────────────── */
+
+/* Descriptions are one write-once file per posting, published under the
+   directory of the runner that found it — see publish_jds() in
+   opentabs.py. Fetching 4KB on click beats loading a megabyte on boot. */
+const JD_DIRS = { local: "./jd/local/", cloud: "./jd/cloud/", all: "./jd/all/" };
+const JD_CACHE = new Map();                    // id → Promise<string>
+
+function jdText(job) {
+  if (JD_CACHE.has(job.id)) return JD_CACHE.get(job.id);
+  const dirs = [JD_DIRS[job._src] || JD_DIRS.all, JD_DIRS.all];
+  const p = (async () => {
+    for (const d of [...new Set(dirs)]) {
+      try {
+        const r = await fetch(d + encodeURIComponent(job.id) + ".txt", { cache: "force-cache" });
+        if (r.ok) return (await r.text()).trim();
+      } catch { /* try the next directory */ }
+    }
+    return "";                                 // login-walled posting: link only
+  })();
+  JD_CACHE.set(job.id, p);
+  return p;
+}
+
+/* Neither Claude nor ChatGPT has a public way to open a *new chat inside a
+   project* by URL. What works is the project's own page: it carries a
+   composer, so landing there and pasting starts a fresh chat in the project
+   — which is exactly the loop we want. Link to a single conversation
+   instead and every job would pile into that one chat, so warnProject()
+   calls that out rather than letting it fail quietly. */
+function projectUrl() { return localStorage.getItem("projectUrl") || ""; }
+/* Résumé tailoring and a 300-character intro are different instruction sets
+   and one project doing both does neither well — but that's a preference,
+   not a requirement, so an empty outreach link just reuses the other. */
+function outreachProjectUrl() { return localStorage.getItem("outreachUrl") || projectUrl(); }
+function projectName(u) {
+  return /claude\.ai/i.test(u) ? "Claude"
+    : /chatgpt\.com|openai\.com/i.test(u) ? "ChatGPT"
+    : "your project";
+}
+
+const CHAT_URL = /(claude\.ai\/chat\/|chatgpt\.com\/c\/|chat\.openai\.com\/c\/)/i;
+function warnProject(u) {
+  if (!u) return "";
+  if (!/^https?:\/\//i.test(u)) return "That doesn't look like a link — it should start with https://";
+  if (CHAT_URL.test(u)) return "That's a link to one conversation, not a project. Every job would land in the same chat.";
+  return "";
+}
+
+/* What lands on the clipboard: enough for the project's instructions to
+   work with, and nothing that pretends to be a prompt — the prompt already
+   lives in the project. */
+function resumeBlock(job, jd) {
+  const head = [
+    job.title,
+    [job.company, job.location, job.salary].filter((v) => v && v !== "Unknown" && v !== "Not listed").join(" · "),
+    job.url,
+  ].filter(Boolean).join("\n");
+  return jd ? head + "\n\n" + jd + "\n" : head + "\n";
+}
+
+async function handoff(job, btn) {
+  const url = projectUrl();
+  // Deferred by a tick: this same click is still bubbling toward the
+  // outside-click handler, which would shut the panel as it opened.
+  if (!url) { setTimeout(() => openProjPanel(job), 0); return; }
+  let jd = "";
+  try { jd = await jdText(job); } catch { /* link-only is still useful */ }
+  const text = resumeBlock(job, jd);
+  try {
+    await navigator.clipboard.writeText(text);
+  } catch {
+    flashTip(tipAnchor(btn), "Clipboard blocked — allow it in Safari/Chrome settings");
+    return;
+  }
+  window.open(url, "_blank", "noopener");
+  flashTip(tipAnchor(btn), jd
+    ? `Job description copied — paste it in ${projectName(url)}`
+    : "No description found — title + link copied");
+  RESUMES[job.id] = RESUMES[job.id] === "done" ? "done" : "sent";
+  saveResumes();
+}
+
+/* ── the project-link panel ──
+   Opened from the rail, or automatically by the first Résumé click. In that
+   second case the job rides along so the click finishes itself on Save
+   instead of making you hunt for the button again. */
+let projPending = null;                        // job waiting on a link
+let projPendingKind = "";                      // "resume" | "outreach"
+
+function openProjPanel(job, forOutreach) {
+  projPending = job || null;
+  projPendingKind = job ? (forOutreach ? "outreach" : "resume") : "";
+  const el = $("#projPick"), btn = $("#projBtn"), inp = $("#projInput"), out = $("#outInput");
+  const r = btn.getBoundingClientRect();
+  el.hidden = false;
+  el.style.left = (r.right + 10) + "px";
+  el.style.top = Math.min(r.top, window.innerHeight - el.offsetHeight - 12) + "px";
+  btn.setAttribute("aria-expanded", "true");
+  inp.value = projectUrl();
+  out.value = localStorage.getItem("outreachUrl") || "";
+  inp.classList.remove("bad"); out.classList.remove("bad");
+  const hint = $("#projHint");
+  hint.classList.remove("warn");
+  hint.textContent = projPending
+    ? "Paste your project link and we'll pick up where you left off."
+    : "Open your Claude or ChatGPT project, copy the address bar, paste it here.";
+  // Land the cursor on the field the click was actually blocked on.
+  const first = projPendingKind === "outreach" && !localStorage.getItem("outreachUrl") ? out : inp;
+  first.focus(); first.select();
+}
+
+function closeProjPanel() {
+  $("#projPick").hidden = true;
+  $("#projBtn").setAttribute("aria-expanded", "false");
+  projPending = null;
+  projPendingKind = "";
+}
+
+function saveProject() {
+  const inp = $("#projInput"), out = $("#outInput"), hint = $("#projHint");
+  const u = inp.value.trim(), o = out.value.trim();
+  if (!u && !o) return clearProject();
+  // A malformed link can't work, so it's refused; a chat link *can* work,
+  // it just isn't what you want — say so once, and save it if you insist.
+  for (const [el, v] of [[inp, u], [out, o]]) {
+    const warn = warnProject(v);
+    if (warn && !el.classList.contains("bad")) {
+      el.classList.add("bad");
+      hint.classList.add("warn");
+      hint.textContent = warn + " Press Save again to use it anyway.";
+      el.focus();
+      return;
+    }
+  }
+  if (u) localStorage.setItem("projectUrl", u); else localStorage.removeItem("projectUrl");
+  if (o) localStorage.setItem("outreachUrl", o); else localStorage.removeItem("outreachUrl");
+  const job = projPending, kind = projPendingKind;
+  closeProjPanel();
+  if (!job) return;
+  if (kind === "outreach") stepOutreach(job, null);
+  else handoff(job).then(() => render(false));
+}
+
+function clearProject() {
+  localStorage.removeItem("projectUrl");
+  localStorage.removeItem("outreachUrl");
+  closeProjPanel();
+}
+
+/* ────────────────────────────────────────────────────────────────
+   🤝  LINKEDIN OUTREACH
+   Same hand-off shape as the résumé button — copy, open, come back
+   and mark — but stretched over days, because a connection request
+   has to be accepted before the follow-up makes sense.
+
+   Nothing here sends anything. LinkedIn's terms forbid automated
+   activity and an account restriction would cost far more than the
+   clicks save, so every message is one you paste and send yourself.
+
+   State is keyed by company, not by job: two open roles at the same
+   place are one conversation, and reaching out twice is worse than
+   not reaching out at all.
+   ──────────────────────────────────────────────────────────────── */
+function coKey(co) { return coSlug(co) || (co || "").trim().toLowerCase(); }
+function loadOutreach() { try { return JSON.parse(localStorage.getItem("outreach") || "{}"); } catch { return {}; } }
+function saveOutreach() { localStorage.setItem("outreach", JSON.stringify(OUTREACH)); }
+let OUTREACH = loadOutreach();     // { coKey: { stage, at, company } }
+
+const OUT_STAGES = ["drafted", "requested", "accepted", "followed"];
+function outOf(j) { return OUTREACH[coKey(j.company)] || null; }
+function daysSince(iso) {
+  const t = new Date(iso).getTime();
+  return t ? Math.floor((Date.now() - t) / 86400000) : 0;
+}
+
+/* The company's People tab, already filtered — the "search the company,
+   scroll for someone relevant" step, collapsed into one click. Falls back
+   to a plain people search when the slug guess is too thin to trust. */
+const OUT_ROLES = "design";
+function peopleUrl(co) {
+  const slug = coSlug(co);
+  return slug && slug.length > 2
+    ? `https://www.linkedin.com/company/${slug}/people/?keywords=${encodeURIComponent(OUT_ROLES)}`
+    : "https://www.linkedin.com/search/results/people/?keywords=" +
+      encodeURIComponent(`${co || ""} ${OUT_ROLES}`.trim());
+}
+
+/* Connection notes cap at 300 characters and LinkedIn truncates silently,
+   so the ask carries its own limit rather than trusting it to be
+   remembered in the project instructions. */
+function outreachBlock(job, jd, followUp) {
+  const head = [
+    followUp
+      ? "Follow-up message — they accepted my connection request."
+      : "LinkedIn connection request — 300 characters maximum.",
+    "",
+    job.title,
+    [job.company, job.location].filter((v) => v && v !== "Unknown").join(" · "),
+    job.url,
+  ].filter((v) => v !== undefined).join("\n");
+  return jd ? head + "\n\n" + jd + "\n" : head + "\n";
+}
+
+async function outreachHandoff(job, btn, followUp) {
+  const url = outreachProjectUrl();
+  if (!url) { setTimeout(() => openProjPanel(job, true), 0); return false; }
+  let jd = "";
+  try { jd = await jdText(job); } catch { /* the role and link are enough */ }
+  try {
+    await navigator.clipboard.writeText(outreachBlock(job, jd, followUp));
+  } catch {
+    flashTip(tipAnchor(btn), "Clipboard blocked — allow it in Safari/Chrome settings");
+    return false;
+  }
+  window.open(url, "_blank", "noopener");
+  flashTip(tipAnchor(btn), followUp
+    ? `Follow-up brief copied — paste it in ${projectName(url)}`
+    : `Connection note brief copied — paste it in ${projectName(url)}`);
+  return true;
+}
+
+/* One button walking the whole arc. Every step except the two that draft
+   a message is you telling the board what happened on LinkedIn — the same
+   contract as Applied, for the same reason: nothing here can see your
+   inbox. */
+function outreachUI(j) {
+  const st = outOf(j);
+  if (!st) return { cls: "go", label: "People", title: `Find designers and design hiring at ${j.company}` };
+  if (st.stage === "looking")  return { cls: "go", label: "Note", title: `Draft a connection note for ${j.company}` };
+  if (st.stage === "drafted")  return { cls: "sent", label: "Sent?", title: "Mark the connection request as sent" };
+  if (st.stage === "requested") {
+    const d = daysSince(st.at);
+    return { cls: "waiting", label: d ? `${d}d · Accepted?` : "Accepted?",
+             title: `Requested ${d ? d + " days ago" : "today"} — click when they accept` };
+  }
+  if (st.stage === "accepted") return { cls: "due", label: "Follow up", title: "Draft your follow-up message" };
+  return { cls: "ready", label: "Reached ✓", title: `Followed up with ${j.company} — click to draft again` };
+}
+function outreachBtn(j) {
+  if (!j.company || j.company === "Unknown") return "";   // nothing to search on
+  const ui = outreachUI(j);
+  return `<button class="act reach ${ui.cls}" data-act="reach" title="${esc(ui.title)}">${esc(ui.label)}</button>`;
+}
+
+/* Advance one step. The two drafting steps also copy-and-open; the rest
+   just record what you did. */
+function stepOutreach(job, btn) {
+  const k = coKey(job.company), st = OUTREACH[k];
+  // Step one just opens LinkedIn. It records "looking" so the button knows
+  // to offer the note next, but the drawer ignores that stage — opening a
+  // search is not a commitment and shouldn't show up as a pending thread.
+  if (!st) {
+    OUTREACH[k] = { stage: "looking", at: new Date().toISOString(), company: job.company };
+    saveOutreach();
+    window.open(peopleUrl(job.company), "_blank", "noopener");
+    render(false);
+    return;
+  }
+  // The drafting steps only advance once the note is really on the
+  // clipboard — a click that stopped to ask for a project link must not
+  // leave the card claiming a request was drafted.
+  if (st.stage === "looking") {
+    outreachHandoff(job, btn, false).then((ok) => {
+      if (!ok) return;
+      st.stage = "drafted"; st.at = new Date().toISOString();
+      saveOutreach(); render(false);
+    });
+    return;
+  }
+  if (st.stage === "drafted")   { st.stage = "requested"; st.at = new Date().toISOString(); }
+  else if (st.stage === "requested") { st.stage = "accepted"; st.at = new Date().toISOString(); }
+  else if (st.stage === "accepted")  {
+    outreachHandoff(job, btn, true).then((ok) => {
+      if (!ok) return;
+      st.stage = "followed"; st.at = new Date().toISOString();
+      saveOutreach(); render(false);
+    });
+    return;
+  }
+  else { outreachHandoff(job, btn, true); return; }       // already done: draft again
+  saveOutreach();
+  render(false);
+}
+
+/* The drawer is the whole point of tracking any of this: a connection
+   request you sent nine days ago is invisible on a job board sorted by
+   posting date, and that's exactly the one you'd forget. Grouped by what
+   you'd do next, oldest first inside each group. */
+const OUT_GROUPS = [
+  { key: "accepted",  title: "Ready to follow up", note: "They accepted — send your message." },
+  { key: "requested", title: "Waiting on",         note: "Request sent. Click a card when they accept." },
+  { key: "drafted",   title: "Drafted, not sent",  note: "Note written but the request hasn't gone out." },
+  // Browsing a company's people isn't a commitment, so it doesn't count
+  // toward the tab — but it has to be listed, because the card is now
+  // showing "Note" and the ✕ here is the only way back to "People".
+  { key: "looking",   title: "Just looking",       note: "Opened a people search. No note drafted yet." },
+  { key: "followed",  title: "Done",               note: "" },
+];
+/* Anything needing a move from you — the number on the tab. "Done" and
+   drafts you haven't sent aren't chores, so they don't nag. */
+function outreachDue() {
+  return Object.values(OUTREACH).filter((r) => r.stage === "accepted" || r.stage === "requested").length;
+}
+const OUT_TRACKED = OUT_GROUPS.map((g) => g.key);
+function outreachRows() {
+  const byCo = new Map();
+  JOBS.forEach((j) => { const k = coKey(j.company); if (!byCo.has(k)) byCo.set(k, j); });
+  return Object.entries(OUTREACH)
+    .filter(([, r]) => OUT_TRACKED.includes(r.stage))
+    .map(([k, r]) => ({ k, ...r, job: byCo.get(k) || null }));
+}
+function renderOutreach() {
+  const rows = outreachRows();
+  const host = $("#rows-out");
+  if (!rows.length) {
+    host.innerHTML = '<div class="col-empty">No outreach yet. Hit <b>People</b> on a job card to start one.</div>';
+    return;
+  }
+  host.innerHTML = OUT_GROUPS.map((g) => {
+    const list = rows.filter((r) => r.stage === g.key)
+                     .sort((a, b) => (a.at || "").localeCompare(b.at || ""));
+    if (!list.length) return "";
+    return `<div class="out-group">
+        <div class="out-head">${esc(g.title)}<em>${list.length}</em></div>
+        ${g.note ? `<div class="out-note">${esc(g.note)}</div>` : ""}
+        ${list.map((r) => {
+          const d = daysSince(r.at);
+          const when = d === 0 ? "today" : d === 1 ? "yesterday" : `${d} days ago`;
+          const stale = r.stage === "requested" && d >= 7;
+          return `<div class="out-row${g.key === "accepted" ? " due" : ""}${stale ? " stale" : ""}"${r.job ? ` data-out-id="${esc(r.job.id)}"` : ""}>
+              <span class="out-co">${esc(r.company || r.k)}</span>
+              <span class="out-when">${esc(when)}</span>
+              <button class="out-reset" data-out-reset="${esc(r.k)}" title="Forget this thread" aria-label="Forget this thread">✕</button>
+              ${r.job ? `<span class="out-role">${esc(r.job.title)}</span>` : '<span class="out-role gone">posting has aged off the board</span>'}
+            </div>`;
+        }).join("")}
+      </div>`;
+  }).join("");
+}
+
+/* Three states, one button. Primary → in progress → highlighted, which is
+   as close to "it knows the résumé is ready" as a static site can honestly
+   get: the middle click is you telling it. */
+const RESUME_UI = {
+  undefined: { cls: "", label: "Résumé", title: "Copy this job description and open your Claude project" },
+  sent:      { cls: "sent", label: "Downloaded?", title: "Mark the tailored résumé as saved" },
+  done:      { cls: "ready", label: "Résumé ✓", title: "Résumé saved — click to copy and open the project again" },
+};
+/* Middle state is the only one that doesn't re-open the project: it's you
+   confirming the résumé came back, which is what turns the button on. */
+function stepResume(job, btn) {
+  if (RESUMES[job.id] === "sent") { RESUMES[job.id] = "done"; saveResumes(); render(false); return; }
+  handoff(job, btn).then(() => render(false));
+}
+function resumeBtn(j) {
+  const ui = RESUME_UI[RESUMES[j.id]] || RESUME_UI.undefined;
+  return `<button class="act resume ${ui.cls}" data-act="resume" title="${esc(ui.title)}">${esc(ui.label)}</button>`;
+}
+
 function jobHTML(j, n, mode) {
   const idx = String(n).padStart(2, "0");
   const badges =
     (j.is_new_grad ? '<span class="badge">New Grad</span>' : "") +
     (j.is_big_tech ? '<span class="badge">Big Tech</span>' : "") +
     (j.visa === "yes" ? '<span class="badge visa-yes">Visa ✓</span>'
-     : j.visa === "no" ? '<span class="badge visa-no">No visa</span>' : "");
+     : j.visa === "no" ? '<span class="badge visa-no">No visa</span>' : "")
+    + thinJD(j);
   // One obvious control per state: file it, un-file it, or bring it back.
   const actions =
     mode === "trash" ? '<button class="act done" data-act="restore">Restore</button>'
-    : mode === "app" ? '<button class="act ghost" data-act="unapply">Un-apply</button>' +
+    : mode === "app" ? outreachBtn(j) + resumeBtn(j) + '<button class="act ghost" data-act="unapply">Un-apply</button>' +
                        `<button class="act icon del" data-act="delete" title="Move to Trash" aria-label="Move to Trash">${BROOM_SVG}</button>`
-    : '<button class="act done" data-act="apply">Applied</button>' +
+    : outreachBtn(j) + resumeBtn(j) +
+      `<button class="act icon tick" data-act="apply" title="Mark as applied" aria-label="Mark as applied">${CHECK_SVG}</button>` +
       `<button class="act icon del" data-act="delete" title="Move to Trash" aria-label="Move to Trash">${BROOM_SVG}</button>`;
   return `<div class="job" data-id="${esc(j.id)}"${j._ids ? ` data-ids="${esc(j._ids.join(" "))}"` : ""} data-url="${esc(j.url || "#")}" data-title="${esc(j.title)}" data-flip-id="${esc(j.id)}">
       <div class="job-top">
@@ -416,7 +839,7 @@ function raiseHTML(f, n) {
         ${outreachHTML(f)}
         <span class="badges">${badges}</span>
         <span class="actions">
-          ${f.url ? `<a class="act done" href="${esc(f.url)}" target="_blank" rel="noopener">Read article</a>` : ""}
+          ${f.url ? `<a class="act read" href="${esc(f.url)}" target="_blank" rel="noopener">Read article</a>` : ""}
           <button class="act icon del" data-act="dismiss" title="Dismiss" aria-label="Dismiss">${BROOM_SVG}</button>
         </span>
       </div>
@@ -432,6 +855,78 @@ const LIMITS = { today: PAGE, prev: PAGE, raised: PAGE, app: PAGE, trash: PAGE }
 const LISTS  = { today: [], prev: [], raised: [], app: [], trash: [] };
 let MORE_IO = null;
 
+/* "Applied" as one long pile answers "did I apply?" but never "what did I
+   send this week?" — so it breaks on the day you applied. Undated marks
+   from before this existed collect under Earlier rather than pretending to
+   a date they never had. */
+function dayBucket(iso) {
+  if (!iso) return "Earlier";
+  const t = new Date(iso); if (isNaN(t)) return "Earlier";
+  const startOf = (d) => { const x = new Date(d); x.setHours(0,0,0,0); return x.getTime(); };
+  const days = Math.round((startOf(Date.now()) - startOf(t)) / 86400000);
+  if (days <= 0) return "Today";
+  if (days === 1) return "Yesterday";
+  if (days < 7) return t.toLocaleDateString(undefined, { weekday: "long" });
+  if (days < 14) return "Last week";
+  return t.toLocaleDateString(undefined, { month: "long", year: "numeric" });
+}
+function datedCards(list) {
+  let out = "", last = null, n = 0;
+  list.forEach((j) => {
+    const b = dayBucket(appliedWhen(j));
+    if (b !== last) {
+      const count = list.filter((x) => dayBucket(appliedWhen(x)) === b).length;
+      out += `<div class="day-head">${esc(b)}<em>${count}</em></div>`;
+      last = b;
+    }
+    out += jobHTML(j, ++n, "app");
+  });
+  return out;
+}
+
+/* ── CSV export ──
+   The durable half of the answer to "my state lives in one browser". Every
+   mark, date and outreach stage in one file you can keep in Drive or Excel
+   — opening it in a spreadsheet is also the fastest way to see the whole
+   search at once, which the three-column board deliberately doesn't do. */
+/* sourceLabel() builds an icon + label for the card; a CSV wants the label
+   on its own, or the whole cell is an inlined <svg>. */
+function sourceText(src) {
+  const d = document.createElement("div");
+  d.innerHTML = sourceLabel(src);
+  return (d.textContent || "").trim();
+}
+function csvCell(v) {
+  const s = v === undefined || v === null ? "" : String(v);
+  return /[",\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+}
+function exportCSV() {
+  const head = ["Company", "Role", "Location", "Salary", "Source", "Posted",
+                "Status", "Applied on", "Résumé", "Outreach", "Outreach updated", "URL"];
+  const stamp = (v) => (v ? new Date(v).toISOString().slice(0, 10) : "");
+  const rows = JOBS.filter((j) => !TRASH.has(j.id)).map((j) => {
+    const o = outOf(j) || {};
+    return [
+      j.company, j.title, j.location, j.salary, sourceText(j.source), stamp(jobTime(j)),
+      isApplied(j) ? "Applied" : "Open",
+      stamp(appliedWhen(j)),
+      { sent: "Downloaded?", done: "Saved" }[RESUMES[j.id]] || "",
+      { looking: "Looking", drafted: "Drafted", requested: "Requested",
+        accepted: "Accepted", followed: "Followed up" }[o.stage] || "",
+      stamp(o.at), j.url,
+    ].map(csvCell).join(",");
+  });
+  // BOM so Excel reads the accents in "Résumé" instead of mojibake
+  const blob = new Blob(["\uFEFF" + [head.join(","), ...rows].join("\r\n")],
+                        { type: "text/csv;charset=utf-8" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = `opentabs-${new Date().toISOString().slice(0, 10)}.csv`;
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  return rows.length;
+}
+
 function drawRows(k) {
   const items = LISTS[k], limit = LIMITS[k];
   const rows = $("#rows-" + k);
@@ -443,7 +938,9 @@ function drawRows(k) {
   const slice = items.slice(0, limit);
   const cards = k === "raised"
     ? slice.map((f, i) => raiseHTML(f, i + 1)).join("")
-    : slice.map((j, i) => jobHTML(j, i + 1, k)).join("");
+    : k === "app"
+      ? datedCards(slice)
+      : slice.map((j, i) => jobHTML(j, i + 1, k)).join("");
   rows.innerHTML = cards + (items.length > limit
     ? `<div class="more" data-more="${k}">${limit} of ${items.length} — keep scrolling</div>` : "");
 }
@@ -470,7 +967,11 @@ function render(animate, reset) {
   const jobs = visible();                        // filter row applies to all
   const groups = { today: [], prev: [], app: [] };
   jobs.forEach((j) => groups[bucket(j)].push(j));
-  groups.app.sort((a, b) => jobTime(b) - jobTime(a));   // most recently applied first
+  // Sort by when you applied, not when the job was posted — the comment
+  // always claimed the former and the code did the latter, which the day
+  // headings would have exposed as jumbled dates.
+  groups.app.sort((a, b) => (appliedWhen(b) || "").localeCompare(appliedWhen(a) || "")
+                            || jobTime(b) - jobTime(a));
 
   // unfiltered totals, so a column head can say "showing 3 of 76" — grouped
   // the same way as the cards, else the two numbers disagree
@@ -514,7 +1015,12 @@ function render(animate, reset) {
   setCount("app",    LISTS.app.length,    totals.app);
   setCount("trash",  LISTS.trash.length,  LISTS.trash.length);
 
-  $$('.clear-all').forEach((b) => (b.hidden = !LISTS[b.dataset.clear].length));
+  renderOutreach();
+  const due = outreachDue();
+  $$('[data-count="out"]').forEach((el) => (el.textContent = due));
+  $("#tabOutreach").classList.toggle("has-due", due > 0);
+
+  $$('[data-clear]').forEach((b) => (b.hidden = !(LISTS[b.dataset.clear] || []).length));
 
   $("#status").textContent = JOBS.length ? "Updated " + new Date().toLocaleTimeString() : "No data yet";
   setNum($("#statOpen"), totals.today + totals.prev);
@@ -612,6 +1118,10 @@ function cogAct(act) {
   if (!rec) return;
   const id = cogKey(rec);
   const ids = state.cog === "raised" ? [id] : idsOf(rec);
+  // These two don't file the card away, so they don't advance the deck —
+  // you draft the note, then decide what to do with the job.
+  if (act === "resume")       { stepResume(rec, $(".cog-card [data-cog-act='resume']")); return; }
+  if (act === "reach")        { stepOutreach(rec, $(".cog-card [data-cog-act='reach']")); return; }
   if (act === "apply")        { setApplied(ids, true);  toast(ids.length > 1 ? `Filed ${ids.length} postings to Applied` : "Filed to Applied", id); }
   else if (act === "trash")   { pushUndo({ type: "trash", ids }); ids.forEach((x) => TRASH.add(x)); saveTrash(); toast(ids.length > 1 ? `Moved ${ids.length} postings to Trash` : "Moved to Trash", id); }
   else if (act === "dismiss") { pushUndo({ type: "dismiss", ids: [id] }); DISMISSED.add(id); saveDismissed(); toast("Dismissed", id); }
@@ -649,6 +1159,8 @@ function cogJobHTML(j) {
     (j.is_big_tech ? '<span class="badge">Big Tech</span>' : "") +
     (j.visa === "yes" ? '<span class="badge visa-yes">Visa ✓</span>'
      : j.visa === "no" ? '<span class="badge visa-no">No visa</span>' : "");
+  const rui = RESUME_UI[RESUMES[j.id]] || RESUME_UI.undefined;
+  const oui = outreachUI(j);
   return `<article class="cog-card">
       <div class="cog-src">${sourceLabel(j.source)}<span class="sep">/</span>Posted ${postedAgo(j)}</div>
       <div class="cog-co">${esc(j.company || "—")}</div>
@@ -658,6 +1170,8 @@ function cogJobHTML(j) {
       ${outreachHTML(j)}
       <div class="cog-acts">
         <a class="cog-open" href="${esc(j.url || "#")}" target="_blank" rel="noopener">Open posting <kbd>&crarr;</kbd></a>
+        <button class="cog-act" type="button" data-cog-act="reach" title="${esc(oui.title)}">${esc(oui.label)} <kbd>P</kbd></button>
+        <button class="cog-act" type="button" data-cog-act="resume" title="${esc(rui.title)}">${esc(rui.label)} <kbd>R</kbd></button>
         <button class="cog-act" type="button" data-cog-act="apply">Applied <kbd>A</kbd></button>
         <button class="cog-act del" type="button" data-cog-act="trash">Trash <kbd>X</kbd></button>
       </div>
@@ -706,7 +1220,11 @@ function cogDoneHTML() {
 let COG_SIG = "";
 function cogSig() {
   const deck = cogDeck(), rec = deck[state.cogI];
-  return state.cog + "|" + (rec ? cogKey(rec) : "-") + "|" + deck.length;
+  // The card's buttons now carry state, so that state belongs in the
+  // signature — without it the label stays "Résumé" after you've already
+  // handed the job off, and the mode looks broken.
+  const st = rec ? (RESUMES[rec.id] || "-") + (outOf(rec) || {}).stage : "";
+  return state.cog + "|" + (rec ? cogKey(rec) : "-") + "|" + deck.length + "|" + st;
 }
 let COG_RESTORED = false;
 function syncCog() {
@@ -776,6 +1294,8 @@ function bindCogKeys() {
       cogAct("apply");
     }
     else if (k === "x") { e.preventDefault(); cogAct(state.cog === "raised" ? "dismiss" : "trash"); }
+    else if (k === "r" && state.cog !== "raised") { e.preventDefault(); cogAct("resume"); }
+    else if (k === "p" && state.cog !== "raised") { e.preventDefault(); cogAct("reach"); }
     else if (e.key === "Enter") { e.preventDefault(); const a = $(".cog-open"); if (a) a.click(); }
     else if (e.key === "Escape") { e.preventDefault(); exitCog(); }
   });
@@ -815,7 +1335,7 @@ function applyChrome() {
 /* ── right-hand panels (Applied · Trash) ───────────────────────── */
 function openDrawer(which) {
   state.drawer = which || null;
-  ["app", "trash"].forEach((k) => document.body.classList.toggle("drawer-" + k, which === k));
+  ["app", "trash", "out"].forEach((k) => document.body.classList.toggle("drawer-" + k, which === k));
   document.body.classList.toggle("drawer-open", !!which);
 }
 
@@ -872,6 +1392,27 @@ function bind() {
   $$('[data-focus]').forEach((b) => b.addEventListener("click", () => enterCog(b.dataset.focus)));
   document.addEventListener("click", (e) => {
     if (!$("#cogPick").hidden && !e.target.closest("#cogPick")) closePicker();
+    if (!$("#projPick").hidden && !e.target.closest("#projPick") && !e.target.closest("#projBtn")) closeProjPanel();
+  });
+
+  $("#projBtn").addEventListener("click", () => ($("#projPick").hidden ? openProjPanel() : closeProjPanel()));
+  $("#projSave").addEventListener("click", saveProject);
+  $("#projClear").addEventListener("click", clearProject);
+  $$('[data-export]').forEach((b) => b.addEventListener("click", (e) => {
+    e.stopPropagation();
+    flashTip(b, `Exported ${exportCSV()} jobs to CSV`);
+  }));
+  $("#projInput").addEventListener("keydown", (e) => {
+    if (e.key === "Enter") saveProject();
+    if (e.key === "Escape") closeProjPanel();
+  });
+  // Editing after a warning clears it, so the next Save is a fresh judgement
+  // rather than "press again" carrying over onto a different link.
+  $("#projInput").addEventListener("input", () => {
+    if (!$("#projHint").classList.contains("warn")) return;
+    $("#projInput").classList.remove("bad");
+    $("#projHint").classList.remove("warn");
+    $("#projHint").textContent = "Open your Claude or ChatGPT project, copy the address bar, paste it here.";
   });
 
   $("#cogPrev").addEventListener("click", () => step(-1));
@@ -890,7 +1431,23 @@ function bind() {
 
   // right-hand panels
   $("#tabApplied").addEventListener("click", () => openDrawer(state.drawer === "app" ? null : "app"));
+  $("#tabOutreach").addEventListener("click", () => openDrawer(state.drawer === "out" ? null : "out"));
   $("#tabTrash").addEventListener("click", () => openDrawer(state.drawer === "trash" ? null : "trash"));
+  // A row is a shortcut back to the job it belongs to, not a control of its
+  // own: the stage still advances from the card, where the context is.
+  $("#drawerOutreach").addEventListener("click", (e) => {
+    const rst = e.target.closest("[data-out-reset]");
+    if (rst) {                                 // mis-click, or the thread died
+      delete OUTREACH[rst.dataset.outReset];
+      saveOutreach(); render(false);
+      return;
+    }
+    const row = e.target.closest("[data-out-id]");
+    if (!row) return;
+    openDrawer(null);
+    const card = $(`.job[data-id="${row.dataset.outId}"]`);
+    if (card) { card.scrollIntoView({ behavior: "smooth", block: "center" }); card.classList.add("pinged"); setTimeout(() => card.classList.remove("pinged"), 1200); }
+  });
   $$('.drawer-close').forEach((b) => b.addEventListener("click", () => openDrawer(null)));
   $("#drawerScrim").addEventListener("click", () => openDrawer(null));
 
@@ -935,6 +1492,16 @@ function bind() {
     // and leaving the other 24 on the board would defeat the point.
     const ids = (card.dataset.ids || id).split(" ").filter(Boolean);
 
+    if (e.target.closest('[data-act="resume"]')) {
+      const job = JOBS.find((x) => x.id === id);
+      if (job) stepResume(job, e.target.closest('[data-act="resume"]'));
+      return;
+    }
+    if (e.target.closest('[data-act="reach"]')) {
+      const job = JOBS.find((x) => x.id === id);
+      if (job) stepOutreach(job, e.target.closest('[data-act="reach"]'));
+      return;
+    }
     if (e.target.closest('[data-act="apply"]'))   { setApplied(ids, true);  render(false); return; }
     if (e.target.closest('[data-act="unapply"]')) { setApplied(ids, false); render(false); return; }
     if (e.target.closest('[data-act="restore"]')) {
@@ -1030,9 +1597,11 @@ function fresh(rec) {
   const t = new Date(rec.first_seen).getTime();
   return !t || Date.now() - t <= MAX_AGE_MS;    // undated records are kept
 }
+const JOB_SRCS = ["local", "cloud"];        // parallel to JOB_FILES
 function mergeJobs(lists) {
   const byId = new Map();
-  lists.forEach((arr) => (Array.isArray(arr) ? arr : []).forEach((j) => {
+  lists.forEach((arr, i) => (Array.isArray(arr) ? arr : []).forEach((j) => {
+    if (j) j._src = JOB_SRCS[i] || "all";
     if (!j || !j.id || !fresh(j)) return;
     const prev = byId.get(j.id);
     // keep the freshest copy if the same posting shows up in both files

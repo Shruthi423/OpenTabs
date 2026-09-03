@@ -38,11 +38,36 @@
       <button class="sw" data-theme="cream" style="--c:#f1efbe" title="Cream"></button>
     </div>
 
+    <div class="rail-group" id="projGroup">
+      <span class="rail-lbl">Résumé</span>
+      <button class="mode" id="projBtn" type="button" aria-haspopup="true" aria-expanded="false"
+              data-tip="Résumé project link">
+        <svg viewBox="0 0 256 256" width="19" height="19" fill="currentColor" aria-hidden="true"><path d="M137.54,186.36a8,8,0,0,1,0,11.31l-9.94,10A56,56,0,0,1,48.38,128.4L72.5,104.28A56,56,0,0,1,149.31,102a8,8,0,1,1-10.64,12A40,40,0,0,0,83.81,115.6L59.7,139.71a40,40,0,0,0,56.58,56.58l9.94-9.93A8,8,0,0,1,137.54,186.36Zm70.08-138a56.08,56.08,0,0,0-79.22,0l-9.94,9.95a8,8,0,0,0,11.32,11.31l9.94-9.94a40,40,0,0,1,56.58,56.58L172.19,140.4A40,40,0,0,1,117.33,142,8,8,0,1,0,106.69,154a56,56,0,0,0,76.81-2.26l24.12-24.12A56.08,56.08,0,0,0,207.62,48.38Z"></path></svg>
+        <span class="sr">Set your résumé project link</span>
+      </button>
+    </div>
+
     <a class="rail-brand" href="#top" title="OpenTabs" aria-label="OpenTabs">
       <span class="wordmark">OpenTabs</span>
       <svg viewBox="0 0 256 256" width="19" height="19" fill="currentColor" aria-hidden="true"><path d="M232,216H208V40a16,16,0,0,0-16-16H64A16,16,0,0,0,48,40V216H24a8,8,0,0,0,0,16H232a8,8,0,0,0,0-16Zm-64,0H64V40H168Zm-40-84a12,12,0,1,1,12,12A12,12,0,0,1,128,132Z"></path></svg>
     </a>
   </aside>
+
+  <!-- ── Where the Résumé button sends each job description ────────── -->
+  <div class="cog-pick proj-pick" id="projPick" role="dialog" aria-label="Résumé project link" hidden>
+    <span class="cog-pick-lbl">Résumé project</span>
+    <input class="proj-input" id="projInput" type="url" spellcheck="false"
+           placeholder="https://claude.ai/project/…" aria-label="Project link">
+    <p class="proj-hint" id="projHint">Open your Claude or ChatGPT project, copy the address bar, paste it here.</p>
+    <span class="cog-pick-lbl">Outreach project <i>optional</i></span>
+    <input class="proj-input" id="outInput" type="url" spellcheck="false"
+           placeholder="https://claude.ai/project/…" aria-label="Outreach project link">
+    <p class="proj-hint">Where connection notes are drafted. Leave blank to use the résumé project for both.</p>
+    <div class="proj-row">
+      <button class="act ghost" id="projClear" type="button">Clear</button>
+      <button class="act done" id="projSave" type="button">Save</button>
+    </div>
+  </div>
 
   <!-- ── Which column do you want to work through? ─────────────────── -->
   <div class="cog-pick" id="cogPick" role="menu" aria-label="Focus a column" hidden>
@@ -181,6 +206,7 @@
   <!-- ── Right panels: Applied · Trash (collapse and open) ──────────── -->
   <div class="drawer-tabs" id="drawerTabs">
     <button class="drawer-tab" id="tabApplied" aria-label="Open Applied"><span>Applied</span><em data-count="app">0</em></button>
+    <button class="drawer-tab" id="tabOutreach" aria-label="Open Outreach"><span>Outreach</span><em data-count="out">0</em></button>
     <button class="drawer-tab" id="tabTrash" aria-label="Open Trash"><span>Trash</span><em data-count="trash">0</em></button>
   </div>
   <div class="drawer-scrim" id="drawerScrim"></div>
@@ -188,10 +214,19 @@
   <aside class="drawer drawer-right" id="drawerApplied" aria-label="Applied jobs">
     <div class="drawer-head">
       <h2>Applied <em data-count="app">0</em></h2>
+      <button class="clear-all neutral" data-export="all" title="Download every job, mark and outreach stage as a spreadsheet">Export CSV</button>
       <button class="clear-all" data-clear="app">Clear all</button>
       <button class="drawer-close" data-close aria-label="Close">✕</button>
     </div>
     <div class="rows" id="rows-app"></div>
+  </aside>
+
+  <aside class="drawer drawer-right" id="drawerOutreach" aria-label="LinkedIn outreach">
+    <div class="drawer-head">
+      <h2>Outreach <em data-count="out">0</em></h2>
+      <button class="drawer-close" data-close aria-label="Close">✕</button>
+    </div>
+    <div class="rows" id="rows-out"></div>
   </aside>
 
   <aside class="drawer drawer-right" id="drawerTrash" aria-label="Deleted jobs">

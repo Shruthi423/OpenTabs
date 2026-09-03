@@ -39,6 +39,7 @@ CONFIG = {
     "PENDING_FILE": "pending_jobs.json",
     "STORE_FILE":   "jobs_store.json",      # authoritative job records + status (local)
     "WEB_FILE":     "docs/jobs.json",        # derived data the website reads (published)
+    "JD_DIR":       "docs/jd/all",           # one <id>.txt per posting, fetched lazily by the site
     # ── Funding pipeline state (local) + published data file ──
     "SEEN_FUNDING_FILE":    "seen_funding.json",
     "PENDING_FUNDING_FILE": "pending_funding.json",
@@ -92,6 +93,7 @@ DO_APIS     = MODE in ("all", "cloud")    # API/RSS/ATS sources + funding radar
 if MODE != "all":
     _sx = MODE                            # "local" | "cloud"
     CONFIG["WEB_FILE"]             = f"docs/jobs.{_sx}.json"
+    CONFIG["JD_DIR"]               = f"docs/jd/{_sx}"
     CONFIG["SEEN_FILE"]            = f"seen_jobs.{_sx}.json"
     CONFIG["PENDING_FILE"]        = f"pending_jobs.{_sx}.json"
     CONFIG["STORE_FILE"]          = f"jobs_store.{_sx}.json"
@@ -1558,13 +1560,177 @@ def _sf_or_unknown(rec: dict) -> bool:
     others. Better to publish and label them than to lose them."""
     return (not _raise_where(rec)) or _is_sf(rec)
 
+# ─────────────────────────────────────────────────────────────────
+#  📄  JOB DESCRIPTIONS — the text the résumé prompt is built from
+#  Cards carry only title/company/salary, so the site can't hand a
+#  posting to Claude on its own. Each description is published as its
+#  own docs/jd/<runner>/<id>.txt, fetched only when a Résumé button is
+#  clicked — see publish_jds() for why it isn't one combined file.
+# ─────────────────────────────────────────────────────────────────
+JD_MAX_CHARS       = 4000   # enough for a résumé prompt, small enough to store
+JD_FETCH_PER_CYCLE = 20     # cap the extra requests one cycle can make
+JD_MIN_CHARS       = 200    # shorter than this is a cookie wall, not a posting
+JD_MAX_TRIES       = 3      # give up on a posting that won't yield text
+
+_JD_LD    = re.compile(r'(?is)<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>')
+_JD_DROP  = re.compile(r"(?is)<(script|style|noscript|svg|head|nav|footer|header|form)\b.*?</\1>")
+_JD_BREAK = re.compile(r"(?i)<(br\s*/?|/p|/div|/li|/h[1-6]|/tr)\s*>")
+_JD_TAG   = re.compile(r"(?s)<[^>]+>")
+_JD_SPACE = re.compile(r"[ \t\r\f\v]+")
+_JD_BLANK = re.compile(r"\n\s*\n\s*\n+")
+
+# The headings every posting has and no site footer does — used to find where
+# the actual job text starts on pages that bury it under nav chrome.
+_JD_ANCHOR = re.compile(
+    r"(?i)\b(about the role|about this role|the role|responsibilit|what you.{0,3}ll do"
+    r"|what you will do|qualifications|requirements|who you are|about you"
+    r"|job description|position summary|your impact|minimum qualifications)\b")
+
+def jd_from_jsonld(raw: str) -> str:
+    """Most boards emit a schema.org JobPosting with a clean description.
+    When it's there and substantial it beats anything scraped off the page —
+    but some boards emit a one-line stub, so the caller length-checks it."""
+    best = ""
+    for blob in _JD_LD.findall(raw or ""):
+        try:
+            data = json.loads(blob.strip())
+        except Exception:
+            continue
+        for node in (data if isinstance(data, list) else [data]):
+            if not isinstance(node, dict):
+                continue
+            for cand in (node.get("@graph") or [node]):
+                if not isinstance(cand, dict):
+                    continue
+                if "JobPosting" in str(cand.get("@type", "")) and cand.get("description"):
+                    txt = jd_from_html(str(cand["description"]))
+                    if len(txt) > len(best):
+                        best = txt
+    return best
+
+def jd_trim(text: str) -> str:
+    """Cut the site chrome off the front. Nav bars and city lists are short
+    lines; the posting itself is long ones. Drop the stub lines, then start
+    at the first real job heading if the page has one — otherwise the 4000
+    char cap would spend itself on BuiltIn's footer instead of the job."""
+    lines = [ln for ln in text.split("\n")
+             if len(ln) >= 45 or _JD_ANCHOR.search(ln) or ln.strip().startswith(("-", "•", "*"))]
+    body = "\n".join(lines).strip()
+    m = _JD_ANCHOR.search(body)
+    if m and m.start() > 400:
+        # Keep a little lead-in for context, but start on a line boundary —
+        # a fixed offset lands mid-word and the paste opens on "ge immersion".
+        cut = body.rfind("\n", 0, max(0, m.start() - 200)) + 1
+        body = body[cut:]
+    return body
+
+def jd_from_html(raw: str) -> str:
+    """Flatten a posting page to readable text. Regex rather than a parser:
+    the repo already leans on re/html elsewhere and this keeps the
+    dependency list at five lines."""
+    t = _JD_DROP.sub(" ", raw or "")
+    t = _JD_BREAK.sub("\n", t)
+    t = _JD_TAG.sub(" ", t)
+    t = html.unescape(t)
+    t = _JD_SPACE.sub(" ", t)
+    t = "\n".join(ln.strip() for ln in t.split("\n"))
+    return _JD_BLANK.sub("\n\n", t).strip()
+
+def fetch_jd(url: str) -> str:
+    """Best-effort description for one posting. Returns "" on anything that
+    isn't clearly a description — an empty string means "try again later",
+    never "this job has no description"."""
+    if not url or not url.startswith("http"):
+        return ""
+    host = re.sub(r"^www\.", "", (url.split("/")[2] if "://" in url else url))
+    r = _http_get(f"jd:{host}", url, timeout=12)
+    if r is None or "html" not in r.headers.get("Content-Type", "text/html").lower():
+        return ""
+    # Structured data first, page scrape second.
+    text = jd_from_jsonld(r.text)
+    if len(text) < 600:                          # stub or absent → scrape the page
+        text = jd_trim(jd_from_html(r.text))
+    if len(text) < JD_MIN_CHARS:
+        return ""                      # login wall, JS shell, or a 200-page error
+    return text[:JD_MAX_CHARS]
+
+def backfill_jds(store: dict, limit: int = JD_FETCH_PER_CYCLE) -> int:
+    """Fill in descriptions the scrapers didn't already supply, newest first
+    and a few per cycle, so a 300-job board fills in over a day or so instead
+    of hammering every board at once."""
+    # Same gate publish_jds uses: fetching text for a posting that has aged
+    # off the board would spend the cycle's budget on a card nobody can see.
+    todo = [r for r in store.values()
+            if r.get("status") not in ("dismissed", "closed")
+            and _fresh_enough(r)
+            and not (r.get("description") or "").strip()
+            and int(r.get("jd_failed", 0)) < JD_MAX_TRIES
+            and r.get("url")]
+    todo.sort(key=lambda r: r.get("first_seen", ""), reverse=True)
+    got = 0
+    for rec in todo[:limit]:
+        text = fetch_jd(rec["url"])
+        if text:
+            rec["description"] = text
+            got += 1
+        else:
+            # Don't retry a dead posting forever; the card still works, the
+            # button just hands Claude the title + link instead.
+            rec["jd_failed"] = int(rec.get("jd_failed", 0)) + 1
+        time.sleep(0.5)
+    if got:
+        log.info(f"📄 Fetched {got} job description{'s' if got != 1 else ''}.")
+    return got
+
+def publish_jds(store: dict):
+    """One <id>.txt per posting, under this runner's own directory.
+
+    Write-once and per-runner for the same reason _owned_paths exists: a
+    single id→text blob would be a megabyte rewritten into git every 15
+    minutes, and both runners would be editing the same file. Separate
+    files mean each cycle commits only the handful of postings it fetched,
+    and the site pays 4KB on click instead of 1MB on load."""
+    try:
+        os.makedirs(CONFIG["JD_DIR"], exist_ok=True)
+        live, written = set(), 0
+        for rec in store.values():
+            jid, text = rec.get("id"), (rec.get("description") or "").strip()
+            if not jid or not text:
+                continue
+            if rec.get("status") in ("dismissed", "closed") or not _fresh_enough(rec):
+                continue
+            live.add(jid)
+            path = os.path.join(CONFIG["JD_DIR"], f"{jid}.txt")
+            if os.path.exists(path):
+                continue                       # write-once: no needless git churn
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(text)
+            written += 1
+        # Drop text for postings that have aged off the board, so the
+        # directory tracks the site instead of growing forever.
+        for name in os.listdir(CONFIG["JD_DIR"]):
+            if name.endswith(".txt") and name[:-4] not in live:
+                os.remove(os.path.join(CONFIG["JD_DIR"], name))
+        if written:
+            log.info(f"\U0001F4C4 Published {written} job description{'s' if written != 1 else ''}.")
+    except Exception as e:
+        log.error(f"publish_jds: {e}")
+
 # Only these reach docs/jobs*.json; anything else is bot-side bookkeeping.
 WEB_JOB_FIELDS = ("id", "title", "company", "location", "salary", "url", "source",
                   "is_new_grad", "is_big_tech", "visa", "founders", "posted_at",
                   "priority", "first_seen", "status")
 
 def _web_job(rec: dict) -> dict:
-    return {k: rec[k] for k in WEB_JOB_FIELDS if k in rec}
+    out = {k: rec[k] for k in WEB_JOB_FIELDS if k in rec}
+    # Three states, not two: "yes" we have the text, "no" we tried and the
+    # posting is walled, and absent — still queued. The card can only warn
+    # about a thin paste if it can tell the last two apart.
+    if (rec.get("description") or "").strip():
+        out["jd"] = "yes"
+    elif int(rec.get("jd_failed", 0)) >= JD_MAX_TRIES:
+        out["jd"] = "no"
+    return out
 
 def _fresh_enough(rec: dict) -> bool:
     """True if rec.first_seen is within MAX_PUBLISH_AGE_DAYS (undated = keep)."""
@@ -1646,6 +1812,7 @@ def run_funding_check(job_seen: set, job_store: dict, job_pending: list,
                 "is_funded": True,
                 "funding_note": f"{company} raised {amount or 'a round'}",
                 "founders": item.get("founders") or [],
+                "description": (r.get("description") or "").strip()[:JD_MAX_CHARS],
                 "posted_at": "Recently", "priority": rank,
                 "first_seen": first_seen.isoformat(), "status": "active", "applied_at": None,
             }
@@ -1713,7 +1880,8 @@ def _owned_paths() -> list:
     jobs.cloud.json every cycle, so the two runners were never editing
     "different files" the way git_publish assumed, and every pull conflicted.
     It also swept up any hand-edited source sitting in docs/."""
-    paths = [CONFIG["WEB_FILE"]]                       # jobs.{local,cloud}.json
+    paths = [CONFIG["WEB_FILE"],                       # jobs.{local,cloud}.json
+             CONFIG["JD_DIR"]]                         # jd/{local,cloud}/<id>.txt
     if DO_APIS:
         paths.append(CONFIG["FUNDING_WEB_FILE"])       # funding radar is cloud-side
     if MODE == "local":
@@ -1818,6 +1986,7 @@ def publish_site():
         published.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
         os.makedirs(CONFIG["SITE_DIR"], exist_ok=True)
         save_json(CONFIG["WEB_FILE"], published)
+        publish_jds(store)
         if CONFIG.get("PUBLISH_TO_GIT"):
             git_publish()
     except Exception as e:
@@ -2087,6 +2256,9 @@ def run_check():
             "is_big_tech": bool(job.get("is_big_tech")),
             "visa":        job.get("visa"),          # "yes" | "no" | None
             "founders":    extract_founders(job.get("description", ""), job.get("company", "")),
+            # Scrapers that already hand us the posting text save a fetch;
+            # backfill_jds() fills in the rest a few per cycle.
+            "description": (job.get("description") or "").strip()[:JD_MAX_CHARS],
             "posted_at":   job.get("posted_at", "Recently"),
             "priority":    rank,
             "first_seen":  first_seen.isoformat(),
@@ -2121,6 +2293,10 @@ def run_check():
             notify(j, reminder=True, jid=rjid)
         else:
             still.append(item)
+
+    # 📄 Top up missing job descriptions so the Résumé button always has
+    #    something real to hand Claude. A few per cycle, newest first.
+    backfill_jds(store)
 
     save_seen(seen)
     save_pending(still)
