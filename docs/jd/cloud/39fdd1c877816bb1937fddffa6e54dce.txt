@@ -1,0 +1,24 @@
+Voice AI is a nascent space with no established design conventions. The patterns that define how people build, configure, and interact with AI agents are being written right now by a small number of companies, including us. We have a strong, creative brand and a rapidly expanding product surface.
+The role
+You'd own how the product looks and how it behaves: the interaction model, the visual language, and the design system that establishes both in the codebase.
+You'd work day to day with our lead designer and PM. They live in product direction and there's no shortage of opinion there, so you won't be starting from a blank page on what to build. This role is responsible for how users interact with the product and how it looks when it ships. This role reports to our Design Lead.
+The design system. Architecture, components, and motion. You should be familiar with design.md files and enforcing usage in an AI-driven environment.
+Interaction design for major surfaces, from how something should behave through the shipped UI.
+Establishing the product’s visual direction and evolving it as the product surfaces expand.
+Pushing PRs of frontend polish in the codebase (don’t worry, we’re very AI-friendly).
+Contribute to solving product problems with the lead designer and PM, then taking the craft the rest of the way.
+Customers use our dashboard to build, test, evaluate, and run LLM voice agents. Behavior gets configured instead of scripted, none of the outputs are deterministic. Our users are technical and non-technical, from CIOs and call center experts to our in-house FDE team.
+We're most of the way through a ground-up redesign of the dashboard and we’ll be landing it in the next quarter, so this role will be a major contributor early and meaningfully.
+Opening a PR in the morning and merging it that afternoon is completely normal, and it's one of the better things about working here.
+Priorities move around. You might start the week on one surface and spend Wednesday somewhere else, and you'll usually have three or more things going at once.
+That pace depends on AI tools. Running several Claude sessions at once to keep your PRs moving is an ordinary day around here, and we expect you to keep pushing on how you work.
+The bar is high and we're not shy about it. We want the design held to the same standard as the model: good enough that other people in voice AI look at what we ship and copy it.
+Visual work that stands on its own. We want to open your portfolio, look at something you shipped, and be genuinely impressed. You have opinions about how software should look in the age of generative design.
+A design system you built that made it into production. A clean Figma library matters less to us than how it was adopted and used in a product.
+Real depth in interaction design. Snappy hover state animations, what happens in the gap between a click and a result, how a dense table behaves while it's loading or empty or wrong.
+Comfortability with AI coding tools. You aren’t afraid to implement frontend polish.
+4+ years shipping web products, including time as the designer at an early-stage B2B SaaS company. You've worked on hard surfaces: data-heavy dashboards, workflow tools, anything where the user configures behavior instead of filling in fields.
+Curiosity about the product itself. You ask engineers how things work, you want to know how the agents behave a level below the screens, and you go get that context rather than waiting for it in a ticket. We’re a lean team and each of us needs to know the product well enough to prioritize which features get built or not.
+Fluency with current tools. Figma mastery is assumed. Past that, you're using Weave, Flora, or whatever comes after them, along with modern prototyping tools, as part of how you normally work.
+Brand-level thinking—Product has the opportunity to both work with and make changes to our brand.
+P Lead Product Designer at Paired I Product Designer at Isla H Product Designer at Harvey D Product D
