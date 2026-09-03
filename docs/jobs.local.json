@@ -1,5 +1,124 @@
 [
   {
+    "id": "1a19c71f55ccf3da871f4daa5ee7d81e",
+    "title": "User Experience Consultant",
+    "company": "24 Seven Talent",
+    "location": "St Paul, MN",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4461917302",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-03T15:12:06.894720-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "b87e1f62f4f325b97fb84cf932899a36",
+    "title": "Strategic UX Designer, Ecosystem Growth",
+    "company": "Google",
+    "location": "Kirkland, WA, US",
+    "salary": "$159,000 \u2013 $230,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=f14421ca6191df14",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 4,
+    "first_seen": "2026-09-03T15:12:05.014784-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "f4a5daf8303a86b738b7bdca49f65ce1",
+    "title": "Strategic UX Designer, Ecosystem Growth",
+    "company": "Google",
+    "location": "New York, NY, US",
+    "salary": "$159,000 \u2013 $230,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=e31e384db11014dc",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 3,
+    "first_seen": "2026-09-03T15:12:02.930886-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "a0f68a54b5e8fcbedbd2b25531a30b8c",
+    "title": "User Experience Designer, Mid",
+    "company": "Booz Allen Hamilton",
+    "location": "Bremerton, WA, US",
+    "salary": "$69,400 \u2013 $158,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=9f92f9944afc039f",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 4,
+    "first_seen": "2026-09-03T15:12:00.936062-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "38b61457f3ff717450a331074b090f22",
+    "title": "UI/UX Designer Intern",
+    "company": "Trainify Labs Inc",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4461924046",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 1,
+    "first_seen": "2026-09-03T15:11:59.025952-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "bdbe9500f0ed904e6b34273059aaf045",
+    "title": "UX Designer II - Technology",
+    "company": "Edward Jones",
+    "location": "St Louis, MO",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4461656517",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-03T15:11:57.073472-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "8dade9a01a839449a2d2cd708199a44c",
+    "title": "Part-Time Graphic and UX Designer",
+    "company": "University of Texas at Austin",
+    "location": "Austin, TX, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=bba3e02b214230d0",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 4,
+    "first_seen": "2026-09-03T15:11:55.340016-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "7e2018d6f82573abb93711ae7413f52e",
     "title": "Product Designer, Payments",
     "company": "Whatnot",
@@ -3974,7 +4093,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-31T14:25:00.172555-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "e19dda93326828d339103f3165348571",
@@ -3990,7 +4110,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-31T14:24:58.227636-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b5426221cb3de23cc223071c308cab54",
@@ -4006,7 +4127,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-31T14:24:56.233753-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "8f2b789264bf4b956d83ed03014b17d0",
@@ -4022,7 +4144,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-31T14:24:44.264534-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7dbffb42f2bf10474923ee69fbe0f1ad",
@@ -4038,7 +4161,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-31T14:24:42.228748-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "1c37026db6f4ba42cfd9e61d2d0e8c4c",
@@ -4054,7 +4178,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-31T14:24:40.306896-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "eecbfd14b3427aed3f65b2f3c66341a5",
@@ -4295,7 +4420,8 @@
     "posted_at": "None",
     "priority": 1,
     "first_seen": "2026-08-31T14:04:11.616766-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "3f5966c0815019fcda536f301a8d6900",
