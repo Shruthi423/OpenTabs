@@ -1,5 +1,124 @@
 [
   {
+    "id": "6e915e8b084fce0ae29558148a5d49e7",
+    "title": "UX/UI Designer, User Experience Team",
+    "company": "Realty Partners",
+    "location": "Seattle, WA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4462792158",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-03T08:37:07.353000-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "38dc545dae3e69bdacf76a355e69eb3b",
+    "title": "UX Designer II",
+    "company": "Edward Jones",
+    "location": "Tempe, AZ, US",
+    "salary": "$86,300 \u2013 $146,700 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=b2bc7e41b7fb093d",
+    "source": "Indeed",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-01",
+    "priority": 4,
+    "first_seen": "2026-09-03T08:20:00.187224-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "2a77cb23faf2bfb205e30afccb885a05",
+    "title": "UX Designer II",
+    "company": "Edward Jones",
+    "location": "St. Louis, MO, US",
+    "salary": "$86,300 \u2013 $146,700 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=17ba350d5435b7fc",
+    "source": "Indeed",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-01",
+    "priority": 4,
+    "first_seen": "2026-09-03T08:19:58.005069-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "ec350ec7a978ef8d0644f0b0f5a4e57f",
+    "title": "Product Designer, Web, Digital",
+    "company": "Cardless",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4462818626",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 1,
+    "first_seen": "2026-09-03T08:19:55.449862-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "52667d8885ccd1e2fda72c5264030206",
+    "title": "UI Developer",
+    "company": "Virtusa",
+    "location": "Northbrook, IL",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4460701338",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-03T08:19:50.878121-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "c224c634bf7605593c57d86f59465639",
+    "title": "Visual Designer",
+    "company": "ActAI",
+    "location": "New York, United States",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4460462663",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-03T08:19:48.942193-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "85c3881fb4d4a78375771fd39adc071a",
+    "title": "User Experience Design (UX) Intern",
+    "company": "Shure",
+    "location": "Niles, IL, US",
+    "salary": "$23 \u2013 $43 / hourly",
+    "url": "https://www.indeed.com/viewjob?jk=727be3c347f7428e",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-01",
+    "priority": 4,
+    "first_seen": "2026-09-03T07:48:39.883711-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "8e872d306b0258c70dfac3e3a17d541c",
     "title": "Design Systems Designer",
     "company": "TEKsystems",
@@ -1747,7 +1866,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T15:09:51.388940-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "8af783516944d42e7b527d8fbc285101",
@@ -1763,7 +1883,8 @@
     "posted_at": "2026-08-31",
     "priority": 3,
     "first_seen": "2026-09-01T14:50:36.755567-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "47774fc743e4870be1a92fa6f5e0c369",
@@ -1779,7 +1900,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T14:50:34.806943-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "999f96c1e3b5d49186f522dda1c32a7a",
@@ -1795,7 +1917,8 @@
     "posted_at": "2026-09-01",
     "priority": 4,
     "first_seen": "2026-09-01T14:50:33.051511-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "a549e37afd73087f938cb1889ce6460a",
@@ -1811,7 +1934,8 @@
     "posted_at": "2026-08-31",
     "priority": 3,
     "first_seen": "2026-09-01T14:26:22.145939-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "32c092cee7b0cbdea96718b3329373f8",
@@ -1878,7 +2002,8 @@
     "posted_at": "2026-08-31",
     "priority": 3,
     "first_seen": "2026-09-01T13:47:10.719456-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "4504d73daa7925187184cc6d20036517",
@@ -1894,7 +2019,8 @@
     "posted_at": "2026-08-31",
     "priority": 3,
     "first_seen": "2026-09-01T13:47:08.938729-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3b25a2939893293f0f0645e219086fb2",
@@ -2044,7 +2170,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T12:04:31.924722-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "900c512e6c8f66710562519b797b78f7",
@@ -2060,7 +2187,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T12:04:29.975446-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ae04d9faf591adb2acd1ee1715cc6c8f",
@@ -2076,7 +2204,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-09-01T12:04:27.638179-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "953d747c68752aa5615500249b968e7f",
@@ -2108,7 +2237,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T12:04:23.819816-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "cffc63512a607a462cc5e559332fd72b",
@@ -2124,7 +2254,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T12:04:19.645857-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d1f74cf2a11a021b59b4cf16621e9da4",
@@ -2140,7 +2271,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T11:44:49.836435-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "4c8d35852c8e06e8f301addee324c15b",
@@ -2156,7 +2288,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-09-01T11:44:47.622768-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "491fcff428cd6cb25164d5c7bf2d7a7d",
@@ -2172,7 +2305,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T11:44:45.669686-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7de6a7227bf2c3a70b64588569947835",
@@ -2188,7 +2322,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T11:44:43.607731-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7c3dbb65b9ac99142614e859c40ed0a8",
@@ -2204,7 +2339,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T11:44:41.645093-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7411a8907fc1fa7a8408f631d3042e6b",
@@ -29964,86 +30100,6 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-03T10:10:16.258509-07:00",
-    "status": "active"
-  },
-  {
-    "id": "53011a143eb0db241e6f46eb505e6139",
-    "title": "Product Design Engineer",
-    "company": "HappyRobot",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4355550124",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-03T06:43:12.699272-07:00",
-    "status": "active"
-  },
-  {
-    "id": "fb4c270e73697aa99ecc7a6ce00453d8",
-    "title": "UX Designer II",
-    "company": "Synopsys",
-    "location": "Canonsburg, PA, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=ff276c6714237191",
-    "source": "Indeed",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-06-27",
-    "priority": 4,
-    "first_seen": "2026-08-03T06:43:10.733248-07:00",
-    "status": "active"
-  },
-  {
-    "id": "fec674808bd2c0f6befbde28d955a2b2",
-    "title": "UI Engineer - AI Trainer",
-    "company": "DataAnnotation",
-    "location": "Nevada, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4309687868",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-03T06:43:08.462426-07:00",
-    "status": "active"
-  },
-  {
-    "id": "b3285b1d67fdec41591706c3d6e924fa",
-    "title": "UI Engineer - AI Trainer",
-    "company": "DataAnnotation",
-    "location": "Tennessee, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4309804042",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-03T06:43:03.742644-07:00",
-    "status": "active"
-  },
-  {
-    "id": "814104aacd48202f067821a4239d1714",
-    "title": "UI Engineer - AI Trainer",
-    "company": "DataAnnotation",
-    "location": "Washington, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4309809018",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-03T06:28:20.523540-07:00",
     "status": "active"
   }
 ]
