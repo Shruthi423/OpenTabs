@@ -10819,10 +10819,10 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-07-30T16:41:52.739125-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-09-03T10:50:06.268144-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 2
   },
   "ddaccbfafb7a3d80352c123e45fed834": {
     "id": "ddaccbfafb7a3d80352c123e45fed834",
@@ -11764,7 +11764,9 @@
     "priority": 5,
     "first_seen": "2026-08-06T05:17:36.473817-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "2cef9cfb0335ea534248c768e4b7ed5d": {
     "id": "2cef9cfb0335ea534248c768e4b7ed5d",
@@ -11782,7 +11784,9 @@
     "priority": 5,
     "first_seen": "2026-08-06T07:44:54.437640-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "7ef710f5ab8cccdff3724b8756f6df15": {
     "id": "7ef710f5ab8cccdff3724b8756f6df15",
@@ -11800,7 +11804,9 @@
     "priority": 1,
     "first_seen": "2026-08-06T17:14:34.516638-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "2e3595eb0c8ac2d98fa88362d070f793": {
     "id": "2e3595eb0c8ac2d98fa88362d070f793",
@@ -11818,7 +11824,9 @@
     "priority": 5,
     "first_seen": "2026-08-06T17:14:36.261491-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "35481664b7366dc9859d948a6b5367f3": {
     "id": "35481664b7366dc9859d948a6b5367f3",
@@ -11836,7 +11844,9 @@
     "priority": 5,
     "first_seen": "2026-08-06T17:14:37.844323-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "3e3d795f339264759b3492dc42f3b4b1": {
     "id": "3e3d795f339264759b3492dc42f3b4b1",
@@ -11854,7 +11864,9 @@
     "priority": 5,
     "first_seen": "2026-08-06T17:14:39.406829-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "a9c36f28937b76a7e8a169c378f7040d": {
     "id": "a9c36f28937b76a7e8a169c378f7040d",
@@ -11872,7 +11884,9 @@
     "priority": 5,
     "first_seen": "2026-08-07T00:51:26.446563-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "97317e1b0183979b34c039c2c57c2f29": {
     "id": "97317e1b0183979b34c039c2c57c2f29",
@@ -11890,7 +11904,9 @@
     "priority": 5,
     "first_seen": "2026-08-07T10:44:06.541946-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "f2e6ce62c0cf3f362b6a6059d68561ae": {
     "id": "f2e6ce62c0cf3f362b6a6059d68561ae",
@@ -11908,7 +11924,9 @@
     "priority": 5,
     "first_seen": "2026-08-07T10:44:08.203088-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "9e18275d8fccafee3d05938c2db210b0": {
     "id": "9e18275d8fccafee3d05938c2db210b0",
@@ -11926,7 +11944,9 @@
     "priority": 3,
     "first_seen": "2026-08-07T16:47:31.105977-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "7b225fbc497bfb418a2497b23123dcb9": {
     "id": "7b225fbc497bfb418a2497b23123dcb9",
@@ -11944,7 +11964,9 @@
     "priority": 5,
     "first_seen": "2026-08-08T04:00:11.180589-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "ab566e3e9e9915c47cae75d5f6a3c56a": {
     "id": "ab566e3e9e9915c47cae75d5f6a3c56a",
@@ -11962,7 +11984,9 @@
     "priority": 3,
     "first_seen": "2026-08-08T04:00:12.724755-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "ca12835a5d305d76535e75cf44cdfda5": {
     "id": "ca12835a5d305d76535e75cf44cdfda5",
@@ -11980,7 +12004,9 @@
     "priority": 5,
     "first_seen": "2026-08-08T04:00:14.277067-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "ec8e4c045702f34191a46c9c9c74b9dc": {
     "id": "ec8e4c045702f34191a46c9c9c74b9dc",
@@ -11998,7 +12024,9 @@
     "priority": 1,
     "first_seen": "2026-08-08T05:01:27.602806-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "01afb274b7a0f7ecf364abaaf738b8bc": {
     "id": "01afb274b7a0f7ecf364abaaf738b8bc",
@@ -12016,7 +12044,9 @@
     "priority": 2,
     "first_seen": "2026-08-08T05:01:29.080691-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "ec596e3c0d6f8a64d271564c446d6ea6": {
     "id": "ec596e3c0d6f8a64d271564c446d6ea6",
@@ -12034,7 +12064,9 @@
     "priority": 1,
     "first_seen": "2026-08-08T05:01:30.739583-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "ddd6024f118d207c0df30331d09a945e": {
     "id": "ddd6024f118d207c0df30331d09a945e",
@@ -12052,7 +12084,8 @@
     "priority": 5,
     "first_seen": "2026-08-08T08:57:16.836847-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00"
   },
   "08617c1709dc51eb568a5454d310e519": {
     "id": "08617c1709dc51eb568a5454d310e519",
@@ -12070,7 +12103,9 @@
     "priority": 5,
     "first_seen": "2026-08-08T13:02:22.827641-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "60e343c69fbdf61882150534c5eb91fd": {
     "id": "60e343c69fbdf61882150534c5eb91fd",
@@ -12088,7 +12123,9 @@
     "priority": 5,
     "first_seen": "2026-08-08T13:02:24.330090-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "c88bff77bc556617db9697584cab3445": {
     "id": "c88bff77bc556617db9697584cab3445",
@@ -12106,7 +12143,8 @@
     "priority": 5,
     "first_seen": "2026-08-08T20:08:46.970611-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00"
   },
   "a50665c483a53e6002bced2b41589545": {
     "id": "a50665c483a53e6002bced2b41589545",
@@ -12124,7 +12162,9 @@
     "priority": 4,
     "first_seen": "2026-08-09T04:01:53.233107-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "8118966b570d092efd67e1f4a36fbc55": {
     "id": "8118966b570d092efd67e1f4a36fbc55",
@@ -12142,7 +12182,8 @@
     "priority": 5,
     "first_seen": "2026-08-09T19:33:01.943678-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00"
   },
   "603186a16748f6ec03ee4bd5369ff73e": {
     "id": "603186a16748f6ec03ee4bd5369ff73e",
@@ -12160,7 +12201,9 @@
     "priority": 1,
     "first_seen": "2026-08-09T19:33:03.568777-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00",
+    "dead_strikes": 0
   },
   "eb0261a2835f0ed942ef8f68b8045d2e": {
     "id": "eb0261a2835f0ed942ef8f68b8045d2e",
@@ -12178,7 +12221,8 @@
     "priority": 5,
     "first_seen": "2026-08-09T22:53:44.511247-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T15:41:24.003610-07:00"
   },
   "43111f75c87b8eedd58547471038d31c": {
     "id": "43111f75c87b8eedd58547471038d31c",
@@ -14595,7 +14639,8 @@
     "priority": 5,
     "first_seen": "2026-08-20T22:47:20.117651-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "UI/UX Designer \u2013 Creative & Visual Storyteller\n\nWe\u2019re looking for a talented UI/UX Designer who goes beyond designing screens. You should have a strong aesthetic sense, modern design thinking, and the ability to turn ideas into compelling visual stories and confidently present/sell your design concepts to customers and stakeholders.\n\nWhat You\u2019ll Do\n\nDesign modern, intuitive and visually impressive web & mobile experiences.\n\nTranslate complex business/product ideas into simple visual stories and experiences.\n\nPresent designs confidently to customers, executives, product owners and development teams.\n\nExplain and defend design decisions while being open to feedback, criticism and iteration.\n\nWork closely with developers from concept through implementation.\n\nHandle multiple projects in parallel when required.\n\nTake ownership and show strong self-initiative \u2014 don\u2019t wait for tasks to be assigned.\n\nMaintain design consistency through design systems and reusable components.\n\nMust Have\n\nStrong professional experience with Figma and Adobe Creative Suite.\n\nExcellent UI aesthetics, UX thinking and visual storytelling skills.\n\nStrong communication and customer-facing presentation skills.\n\nUnderstanding of modern design trends and AI-assisted workflows.\n\nHands-on familiarity with AI tools such as Claude Code, Codex or similar tools.\n\nOnline portfolio is mandatory.\n\nAdded Advantage\n\nBasic video editing / motion design\n\nHTML & CSS knowledge\n\nMobile application design\n\nExperience designing enterprise / industrial solutions\n\nWe\u2019re looking for a creative thinker, storyteller and problem solver \u2014 not just someone who can design screens."
   },
   "fab649135a8af2132a99dc5a6236b8e9": {
     "id": "fab649135a8af2132a99dc5a6236b8e9",
@@ -14613,7 +14658,8 @@
     "priority": 1,
     "first_seen": "2026-08-21T00:28:20.681013-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Design intuitive and user-friendly interfaces that enhance the demo creation experience for sales and business users.\nCreate wireframes, user flows, journey maps, prototypes, and high-fidelity designs based on business and user requirements.\nLead the design of drag-and-drop interactions and workflow-driven experiences that enable users to create demos efficiently.\nConduct user research, stakeholder interviews, and usability studies to understand user needs and pain points.\nDevelop user personas and customer journey maps to guide product design decisions.\nCollaborate with Product Managers and Engineering teams to define user experience requirements and product functionality.\nValidate design concepts through usability testing and user feedback sessions.\nEnsure consistency across the platform by contributing to and maintaining design systems and UI standards.\nAnalyze user behavior and usage patterns to recommend experience improvements.\nOptimize workflows to reduce complexity and improve platform usability and adoption.\nWork closely with development teams to ensure successful implementation of UX designs.\nAdvocate for user-centered design best practices throughout the product lifecycle.\nRequired Qualifications\nBachelor's degree in UX Design, Human-Computer Interaction (HCI), Interaction Design, Graphic Design, Computer Science, or a related field.\n6+ years of experience in UX Design, Product Design, or Interaction Design.\nStrong portfolio showcasing user-centered design processes and successful digital product experiences.\nProven experience designing intuitive web-based applications and workflow-oriented platforms.\nExperience designing drag-and-drop interfaces and highly interactive applications.\nStrong understanding of accessibility, usability, and responsive design principles.\nAbility to translate business requirements into user-centric design solutions.\nExcellent visual communication and storytelling skills\nCompensation is based on actual experience and qualifications of the candidate. The above is a reasonable and a good faith estimate for the role.\nMedical, vision, and dental benefits, 401k retirement plan, variable pay/incentives, paid time off, and paid holidays are available for full time employees.\nThis position is not available for independent contractors\nNo applications will be considered if received more than 120 days after the date of this post.\nDesign HCI standards for Agentic AI products: create transparency and human-in-the-loop workflows, dynamic/generative and multi-modal interfaces, trust/error UX for hallucinations, prototype autonomous sequences with tools like Figma/Protopie, and organize dense information for auditability and oversight.\nAngular Canvas-Based Uis CSS Figma HTML Llms Low-Code Ai Frameworks Protopie Token Streaming\nDesign and deliver high-fidelity interfaces and interactive prototypes for transactional retail workflows (search, quoting, inventory, payments). Adapt designs for varied retail hardware, contribute to a centralized design system, collaborate with developers to ensure feasibility within routing-layer architecture, and iterate based on discovery and pilot feedback to reduce friction in payment and quoting tasks.\nAi-Driven Sdlc Api-Based Integrations Design System Routing Layer\nDesign and iterate user-centered web and mobile experiences through user research, wireframes, prototypes, visual designs, and design systems. Collaborate with product, engineering, and stakeholders to ensure pixel-perfect implementation and accessibility, using testing and analytics to refine solutions.\nAdobe Xd After Effects CSS Figma Framer HTML Illustrator Invision JavaScript Photoshop Protopie Sketch\nWhat you need to know about the San Francisco Tech Scene\nSan Francisco and the surrounding Bay Area attracts more startup funding than any other region in the world. Home to Stanford University and UC Berkeley, leading VC firms and several of the world\u2019s most valuable companies, the Bay Area is the place to go "
   },
   "f2616d78d394573b26b82e811301ec5f": {
     "id": "f2616d78d394573b26b82e811301ec5f",
@@ -14631,7 +14677,8 @@
     "priority": 5,
     "first_seen": "2026-08-21T02:32:40.986040-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "3fc66437e5b061413bd33630a6f41d3e": {
     "id": "3fc66437e5b061413bd33630a6f41d3e",
@@ -14650,7 +14697,8 @@
     "priority": 5,
     "first_seen": "2026-08-21T03:06:17.238866-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors to first responders , soldiers in battlefield scenarios , and beyond .\nAbout the role:\nAs a member of the Product Design Team, you will work on meaningful projects that add value to Skydio and our users. You will solve complex, interesting problems and learn from a team of world-class engineers and researchers.\n\nOn the job you will:\nConquer challenges creatively with a scrappy mindset\n\nDesign parts for next generation prototypes\n\nChase down the root cause of mission critical issues on existing or developing products\n\nFind solutions with engineering design or manufacturing process changes\n\nValidate your solutions with hands-on prototyping, testing, and data collection\n\nCommunicate with a cross functional team of engineers and suppliers around the globe\n\nPresent your work in design reviews and learn from senior members of our team\n\nWe are looking for you to have:\nRelentless curiosity\n\nAbility to leverage rock solid fundamentals to create exceptional designs for complicated products\n\nPassion for elegant mechanical design at the highest and lowest levels of detail that will delight customers\n\nExperience with 3D CAD. Familiarity with CATIA is highly valued.\n\nBonus skills for the job (This experience is great to have, but we are also happy to teach you):\nHow to design for a broad array of manufacturing processes including: injection molding, metal casting, CNC machining, sheet metal forming, and composites.\n\nHow to complete DFM (design-for-manufacturing) with local and foreign suppliers\n\nHow to design and integrate circuit boards, antennas, and connectors into mechanical assemblies\n\nSome examples of past projects include:\nGimbal Isolation: Design, simulate, re-design, DFM, and kick-off tooling for Skydio X10 gimbal vibration isolators\n\nScrappy Wind Tunnel: Exactly what it sounds like. Research what it takes to make a wind tunnel. Build a wind tunnel. Use the wind tunnel to learn about aerodynamic forces on a drone to inform design improvements.\n\nDrone Battery Charger: Create prototypes for the battery charger for Skydio 2. Perform user studies, come up with a thermal solution, architect the product, and work on cosmetic surfacing.\n\nCompensation Range: The annual base salary range for this position is $41/hr for Undergrad, $53/hr for Graduate students, and $58 for PhD students*. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. In addition to base salary, Skydio full-time employees are eligible to enroll in our benefit plans and take advantage of a variety of incentives and stipends.\n\n*For some positions the pay may be dependent upon the individual's regional location.\n#LI-DK1\nAt Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.\nQualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or other characteristics protected by federal, state or local anti-discrimination laws.\nFor positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/"
   },
   "ab7e91e112db1d28875b7a0f55dbd03d": {
     "id": "ab7e91e112db1d28875b7a0f55dbd03d",
@@ -14669,7 +14717,8 @@
     "priority": 2,
     "first_seen": "2026-08-21T03:06:19.076723-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors to first responders , soldiers in battlefield scenarios , and beyond .\nAbout the role:\nSkydio\u2019s mechanical systems are the backbone of reliable autonomous flight. An intelligent flying machine depends on world-class engineering and an eye for detail while optimizing for simplicity; you will help architect, develop, and refine the structures, mechanisms and solutions that bring autonomous flight to a broad audience in a highly collaborative environment.\nHow you'll make an impact:\nDesign mechanical parts and assemblies for our aircraft, ground stations, and other key accessories from the ground-up as part of new architectures.\n\nCollaborate closely with electrical engineers to shape and integrate custom PCBAs, flex circuits, antennas, and cable harnesses.\n\nInterface with and own technical activity at vendors in partnership with operations and supply chain teams.\n\nDefine and execute engineering tests and utilize analysis to evaluate system trade-offs and prove your design.\n\nDrive designs throughout the development cycle from prototyping to pre-production and into mass production. Support our internal manufacturing and factory teams with assembly processes, quality and inspection criteria, etc.\n\nDebug and investigate failures with an eye for the smallest details and a commitment to reach the deepest causes.\n\nWhat makes you a good fit:\nPrior experience of product development experience with a proven track record of execution, enthusiasm, and cooperation. This role could be a senior-level depending on experience.\n\nBachelor's degree in mechanical engineering or equivalent with demonstrated academic excellence.\n\nAbility to apply analytical problem solving skills and engineering fundamentals to create high-quality designs for a sophisticated electromechanical system.\n\nMastery of 3D CAD, specifically as used in developing complex assemblies along with an acute sense of when to hack and when to build elegant parametrics. Experience with CATIA strongly preferred.\n\nAbility to design for a broad array of manufacturing processes (injection molding, metal casting, and CNC machining required, sheet metal forming and composites desired).\n\nExcellent sense of how best to prototype quickly and efficiently in a fast-paced environment.\n\nAbility to produce well-constructed, thorough mechanical part and assembly drawings.\n\nPassion for elegant mechanical design at the highest and lowest levels of detail.\n\nA strategic mind across the full design, source, build, validate, and ship process. Proven ability to make considered decisions at various stages.\n\nObtaining FAA Part 107 certification within the first 60 days of employment is strongly encouraged for all Skydio employees and required for certain positions.\n\nCompensation: At Skydio, our compensation packages for regular, full-time employees include competitive base salaries, equity in the form of stock options, and comprehensive benefits packages. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. Relocation assistance may also be provided for eligible roles. The annual base salary range for this position is $115,000- $235,000*. Fundamentally, we believe that equity is the key to long-term financial growth, and we ensure all regular, full-time employees have the opportunity to significantly benefit from the company's success. Regular, full-time employees are eligible to enroll in the Company\u2019s group health insurance plans. Regular, full-time employees are eligible to receive the following benefits: Paid vacation time, sick leave, holiday pay"
   },
   "fc5ceda91a2ae7800a983cc677f45276": {
     "id": "fc5ceda91a2ae7800a983cc677f45276",
@@ -14688,7 +14737,8 @@
     "priority": 5,
     "first_seen": "2026-08-21T03:06:20.873302-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from utility inspectors to first responders , soldiers in battlefield scenarios , and beyond .\nAbout the role\nSkydio\u2019s cameras are critical to autonomous navigation, situational awareness, and capturing high-quality imagery in demanding environments. As a Product Design Engineer, you will help design, prototype, test, and refine the mechanical systems that enable our camera modules to perform reliably.\nYou will work hands-on with camera components and assemblies, collaborating closely with mechanical, optical, electrical, reliability, manufacturing, and supplier engineering teams. This is an individual-contributor role suited to an engineer who enjoys detailed mechanical design, rapid prototyping, laboratory work, and methodical problem-solving.\n\nHow you\u2019ll make an impact\nCreate 3D CAD models and production-ready 2D drawings for camera parts, assemblies, test equipment, and related mechanical systems.\n\nSupport the mechanical design and integration of camera modules, lenses, image sensors, actuators, thermal solutions, electronics, flex circuits, seals, and structural components.\n\nDesign and build prototypes to evaluate new concepts, integration approaches, and mechanical architectures.\n\nDesign test jigs, fixtures, and measurement setups for camera development, characterization, assembly, and validation.\n\nPerform tolerance analyses to evaluate fit, alignment, optical positioning, assembly variation, and mechanical performance.\n\nPrototype components and assemblies using methods such as 3D printing, CNC machining, and hands-on assembly.\n\nSupport finite element analysis, including the preparation of models, definition of boundary conditions, correlation with physical testing, and interpretation of results.\n\nPlan and conduct laboratory testing, analyze results, and communicate findings through clear engineering reports.\n\nCharacterize camera components and assemblies, including dimensions, torque, force, stiffness, thermal performance, and resistance to heat, water, and other environmental conditions.\n\nInvestigate mechanical and electromechanical failures, identify root causes, and help develop and validate corrective actions.\n\nSupport reliability and optical testing, including test setup development, sample preparation, execution, data collection, and failure analysis.\n\nWork with manufacturing, quality, supply chain, and external vendors to support component fabrication, inspection, assembly, and design improvements.\n\nContribute throughout the product-development cycle, from early concepts and prototypes through design validation, pre-production, and mass-production support.\n\nWhat Makes You a Good Fit:\nMaster\u2019s degree in mechanical engineering or a related discipline, or equivalent practical experience.\n\nExperience applying mechanical-engineering fundamentals and analytical problem-solving to the development of physical products or electromechanical systems.\n\nProficiency in 3D CAD and the ability to create clear, well-constructed mechanical part and assembly drawings. Experience with CATIA is strongly preferred.\n\nWorking knowledge of geometric dimensioning and tolerancing, tolerance analysis, materials, and common manufacturing processes.\n\nExperience with rapid prototyping methods such as 3D printing, CNC machining, and hands-on mechanical assembly.\n\nFamiliarity with designing parts for processes such as injection molding, CNC machining, metal forming, or casting.\n\nPractical laboratory skills and confidence using mechanical measurement and test equipment.\n\nAbility to document test methods, analyze data, and communicate conclusions clearly.\n\nA detail-oriented a"
   },
   "76ae5353ca1971a602b6a3d075afae0f": {
     "id": "76ae5353ca1971a602b6a3d075afae0f",
@@ -14706,7 +14756,8 @@
     "priority": 4,
     "first_seen": "2026-08-21T03:46:06.392747-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.\nDesign at Gusto is made up of over 80 creative, collaborative people who care deeply about our mission to empower small businesses and their employees. We're a cross-functional group that is always looking for opportunities to build understanding and empathy for the people who use Gusto. We don't care much about swim lanes and though we care deeply about quality and craft, we are never precious about it. We work closely with cross-functional partners in Product, Engineering, Data, and Marketing to design, build, and ship experiences that make a real difference. We believe great design can make hard things possible, even delightful.\nWe are building an AI-native design organization \u2014 and we mean that seriously. We're looking for designers who are already working this way: using AI to prototype ideas quickly, shorten customer feedback loops, and ship quality UX directly to customers. This isn't a future aspiration \u2014 it's how we work now, and it's changing what the design role looks like at Gusto and across the industry.\nAbout the role\nGusto is building the financial platform that small businesses will rely on for the next decade, and AI is at the center of that. From how businesses move money, to how Gusto manages risk and verifies identity, AI is changing what's possible across every part of the experience. The design challenge is defining what it looks like to build those products right: not just faster and smarter, but genuinely trustworthy for the hundreds of thousands of businesses and employees who depend on them.\nAs the Product Designer, Finance, you'll set the UX vision and strategy across four interconnected product areas: Business Money, Consumer Money, Payments, and Risk. Your role is to see what individual teams can't, identifying opportunities and systemic gaps that span the full financial experience, and to drive the work that makes Gusto's financial products feel clear, trustworthy, and empowering for hundreds of thousands of small businesses and their employees. Nobody has fully figured out what AI-first financial UX looks like at scale. This role is the chance to define it at Gusto. This role's level is similar to Senior Staff.\nYour work will span the full scope: defining a long-term UX vision that connects financial and trust experiences across teams, identifying and driving high-impact opportunities that no single pod could tackle alone, and shaping product strategy alongside product directors and engineering leaders. You'll step in as a direct IC on the highest-priority projects, develop other designers, and contribute platform patterns that scale beyond the Money and Risk teams.\nThe Money team builds the financial products that help small businesses and their employees move, manage, and access money\u2014from the tools owners use to run their business finances, to the financial benefits available to their teams. As Gusto deepens its financial ecosystem, this team sits at the center of making money movement faster, simpler, and more empowering for hundreds of thousands of small businesses and the people who work for them.\nThe Risk team is the trust layer that makes all of it possible. They build the systems that protect customers and Gusto from fraud and financial exposure, and the identity infrastructure that determines how customers verify who they are and how they access Gusto's financial products. It's foundational work: quiet when it's working, critical when it's not.\nTogether, these two teams own one of the broadest and most consequential design scopes at Gusto.\nHere\u2019s what you\u2019ll do day-to-day:\nSet the UX vision and strategy across the Money and Risk teams, connecting the dots across multiple pods and ensuring a cohesive experience "
   },
   "23add7bad6af7f3ebc212fe2bfc92de1": {
     "id": "23add7bad6af7f3ebc212fe2bfc92de1",
@@ -14724,7 +14775,8 @@
     "priority": 5,
     "first_seen": "2026-08-21T04:20:13.099727-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Security Privacy Log Processing Connectivity Remote Access\nJob Description\nTailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We\u2019re building a future for the Internet that\u2019s easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we\u2019re backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.\nAbout the Role\nThis role is a hybrid of UX research and research operations: you\u2019ll conduct research, primarily usability and quality-validation testing, and you\u2019ll maintain the social and technical systems that make research at Tailscale repeatable and scalable.\nYou\u2019ll report to the design manager and work closely with the current UX researcher, who will remain the team\u2019s strategic research lead. Day to day, you\u2019ll also work with product designers, product managers, and engineers across the organization. Initially, you will be focused on handling a backlog of studies, with a heavy focus on one large ongoing project. Over time, you will grow towards owning the research direction for one or more product areas with increasing autonomy.\nYou\u2019ll have significant autonomy on what to prioritize, with support and partnership from the staff researcher and design leadership. Initially your work will be more reactive, and dependent on teams that are currently shifting their planning and delivery rhythms, and reorganizing and re-scoping work. You will have more autonomy with operations work, which runs on a longer rhythm and has several initiatives where you can drive impact on your own. Both require flexibility as the organization evolves.\nRun and scale usability research. Your core research responsibility is usability and quality-validation testing. You will evaluate shipped features, validate design assumptions, and expand the team\u2019s testing capacity.\nOwn the full study lifecycle, from recruiting and scoping through analysis, communicating results, and identifying and collaborating on opportunities.\nOver time, grow from testing what others identify toward owning the research direction for one or more product areas.\nStakeholder enablement. Product teams are increasingly expected to understand what their users are experiencing and what problems need attention. You\u2019ll support this transition.\nCoach designers and PMs through study design, reviewing whether their approach will produce a clear signal, and helping them interpret results and decide on next steps.\nBuild reusable enablement assets, such as templates, reference guides, research skills and workflows, so that your support scales.\nMaintain research infrastructure. As more people run studies and work with research data, the underlying systems need to hold up.\nMaintain and improve the research library: standardizing how studies are documented, keeping tags and project organization healthy, ensuring past research is findable and useful.\nManage and maintain the research tool stack, which includes the tools we use, templates and guides, and other resources that enable non-stakeholders to engage with or do some limited research themselves.\nWork with staff and other researchers to review continuous feedback and ensure issues and friction points get tracked by the relevant EPD pods.\nManage logistics. Running research at a small team means doing the logistical work yourself. In collaboration with the staff researcher, you will:\nManage the participant panel \u2014 maintaining list quality, handling invitations, cleaning up between projects. Process study compensation, file receipts, and track budget utilization for studies you run.\nHandle vendor renewals and procurement coordination, working with legal, finance, and the senior researcher to keep contracts current and paperwork moving.\n5+ years of experience in"
   },
   "d5049367df0d0de18a85c26b48ba925a": {
     "id": "d5049367df0d0de18a85c26b48ba925a",
@@ -14742,7 +14794,8 @@
     "priority": 5,
     "first_seen": "2026-08-21T04:20:14.759150-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "About Tailscale\n\nTailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We\u2019re building a future for the Internet that\u2019s easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we\u2019re backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.\n\nAbout the Role\n\nThis is a dedicated growth research role. You\u2019ll run studies \u2014 usability testing, survey research, experimental studies \u2014 and collaborate on findings with the Product Growth team. The role is specifically focused on growth-related product surfaces, onboarding flows, acquisition and activation funnels, and the questions that emerge from the growth team\u2019s experiment pipeline. It is not focused on generative research for new product development; you will be helping tune and refine delivery of value, though you will partner with other researchers to identify and address fundamental product issues that limit product-led growth.\n\nYou\u2019ll report to the design manager and work most closely with the Growth PM and Growth Designers on a day-to-day basis. The staff UX researcher will be your primary resource for methods and bigger-picture research context. The role is designed to grow from running studies from the team\u2019s pipeline and building domain expertise, towards owning the research agenda for growth-related areas with increasing independence.\n\nKey Responsibilities\n\nResearch\n\nRun growth research studies. Your core responsibility is conducting research that supports the growth team\u2019s experiment pipeline and tactical questions.\n\nOwn the full study lifecycle for growth research: scoping, recruiting, conducting, analyzing, and communicating results.\n\nDesign studies and instruments to conduct evaluation and diagnostic discovery for adoption experiences. This includes:\n\nBehavioural research: moderated and unmoderated usability tests for both formative and evaluative goals. You should be comfortable with experimental methods and able to navigate quantitative statistics for user research.\n\nInterviews, mixed methods, and longitudinal studies (eg diary studies) with users and representative populations.\n\nStandalone surveys and feedback forms (triggered at different parts of the adoption lifecycle)\n\nAnalyse behavioural data available from logs and use that to inform research thinking, validate hypotheses, and triangulate with experimental/unmoderated test data.\n\nLook through other data (community forums, feedback forms, etc.) to proactively identify research opportunities\n\nIdentify user needs during trial, proof of concept, and adoption phases\n\nModel and map adoption behaviours, and define personas accordingly\n\nOver time, work towards surfacing research opportunities independently and managing a research program for the growth team.\n\nPartner with the growth team. You\u2019ll work directly with the Growth PM and Growth Designers to translate hypotheses into study designs and bring findings back in actionable formats.\n\nHelp the growth team test and validate designs.\n\nIdentify frictions and problems with product adoption.\n\nBased on research insights, suggest experiment and design ideas.\n\nWork in tandem with the growth team\u2019s experiment and A/B testing cadence.\n\nCommunicate often and quickly about ongoing work, and involve them deeply in the research process as appropriate\n\nDomain expertise\n\nBuild growth domain expertise. The first six months are primarily about learning the product, the growth model, and what the team has already tested and learned.\n\nDevelop expertise and deep knowledge in how users find, try, and adopt Tailscale\n\nOver time, extend into adjacent revenue-facing areas: pricing and packaging research, billing and SKU questions.\n\nCollaborate with other researchers to find and address research "
   },
   "f22c90f60230f10ee6bb1df38e5265e7": {
     "id": "f22c90f60230f10ee6bb1df38e5265e7",
@@ -14760,7 +14813,8 @@
     "priority": 5,
     "first_seen": "2026-08-21T04:51:01.724705-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "b97ac9a209f2cf21ae834434a52daf7b": {
     "id": "b97ac9a209f2cf21ae834434a52daf7b",
@@ -14778,7 +14832,8 @@
     "priority": 5,
     "first_seen": "2026-08-21T09:25:22.350541-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "ec482744a5fd4142a03d6b29e60c532b": {
     "id": "ec482744a5fd4142a03d6b29e60c532b",
@@ -14797,7 +14852,7 @@
     "first_seen": "2026-08-21T11:54:33.038202-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "3f28ac7680a77707741a7f9d304be455": {
     "id": "3f28ac7680a77707741a7f9d304be455",
@@ -14892,7 +14947,7 @@
     "first_seen": "2026-08-22T08:44:56.648426-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "f8baede69556a199d042217d0485b512": {
     "id": "f8baede69556a199d042217d0485b512",
@@ -14911,7 +14966,7 @@
     "first_seen": "2026-08-22T10:38:24.861812-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "b821dc1c614d4ed6842daa773a919bde": {
     "id": "b821dc1c614d4ed6842daa773a919bde",
@@ -14930,7 +14985,7 @@
     "first_seen": "2026-08-22T16:14:35.972991-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "e0862ebeb6a6a10c48a66a2c1ad07872": {
     "id": "e0862ebeb6a6a10c48a66a2c1ad07872",
@@ -14949,7 +15004,7 @@
     "first_seen": "2026-08-23T01:00:45.353264-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "edac31980d79e3913839d5059a9bfbc4": {
     "id": "edac31980d79e3913839d5059a9bfbc4",
@@ -14968,7 +15023,7 @@
     "first_seen": "2026-08-23T12:57:57.652345-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "13cdf54717b677fa81d7b12fb59491d1": {
     "id": "13cdf54717b677fa81d7b12fb59491d1",
@@ -15006,7 +15061,7 @@
     "first_seen": "2026-08-24T00:44:52.806465-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "71119b896e6f59720c1c7bb7d5bb8e46": {
     "id": "71119b896e6f59720c1c7bb7d5bb8e46",
@@ -15272,7 +15327,7 @@
     "first_seen": "2026-08-24T13:47:26.159066-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "84730ba5057dc5d3596e160b74424a17": {
     "id": "84730ba5057dc5d3596e160b74424a17",
@@ -15291,7 +15346,7 @@
     "first_seen": "2026-08-24T13:47:27.971865-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "13d8bf7280c9a1fac0ebe0655855537d": {
     "id": "13d8bf7280c9a1fac0ebe0655855537d",
@@ -16775,25 +16830,6 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-09-03T10:51:18.026020-07:00",
-    "status": "active",
-    "applied_at": null
-  },
-  "8608805542250e0153ef6be6fb2d580b": {
-    "id": "8608805542250e0153ef6be6fb2d580b",
-    "title": "Experienced Full Stack Engineer at Taboola",
-    "company": "Unknown",
-    "location": "Remote",
-    "salary": "See posting",
-    "url": "https://remotefirstjobs.com/companies/taboola/jobs/experienced-full-stack-engineer-856521",
-    "source": "JobsCollider",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "visa": null,
-    "founders": [],
-    "description": "Realize your potential by joining the leading performance-driven advertising company!\n\nAs a Full Stack Engineer on the R&amp;D team in our Tel Aviv office, you\u2019ll play a vital role in building and evolving Taboola\u2019s recommendation ad formats and user experience. You\u2019ll build features end-to-end acro",
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-09-03T13:24:02.322942-07:00",
     "status": "active",
     "applied_at": null
   }
