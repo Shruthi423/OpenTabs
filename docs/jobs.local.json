@@ -1,5 +1,39 @@
 [
   {
+    "id": "500e4d39b806cf234f4acdd2732fbad4",
+    "title": "UX Design Intern",
+    "company": "Allied Solutions",
+    "location": "Carmel, IN, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=5ff9c430b39780bf",
+    "source": "Indeed",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "2026-09-01",
+    "priority": 4,
+    "first_seen": "2026-09-02T17:10:38.621231-07:00",
+    "status": "active"
+  },
+  {
+    "id": "95a15df2562232a6b67de35a9e33b6a8",
+    "title": "Product Designer- Hardlines (Sporting Goods)",
+    "company": "conquest sport group",
+    "location": "Brooklyn, NY, US",
+    "salary": "$55,000 \u2013 $85,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=b94b1588adedbc6e",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 3,
+    "first_seen": "2026-09-02T17:10:36.845560-07:00",
+    "status": "active"
+  },
+  {
     "id": "67a61480d145c8aa8088c59d0e3059d5",
     "title": "Product Designer, Meta",
     "company": "Meta",
@@ -14,23 +48,6 @@
     "posted_at": "2025-06-22",
     "priority": 3,
     "first_seen": "2026-09-02T16:49:10.741690-07:00",
-    "status": "active"
-  },
-  {
-    "id": "48415614ab3164d0cf0d3633251b8c8b",
-    "title": "Shopify website builder",
-    "company": "nan",
-    "location": "TX, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=39eac1635d090e8d",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "visa": null,
-    "founders": [],
-    "posted_at": "2026-09-02",
-    "priority": 4,
-    "first_seen": "2026-09-02T16:49:08.764869-07:00",
     "status": "active"
   },
   {
@@ -34711,23 +34728,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-02T21:20:47.445643-07:00",
-    "status": "active"
-  },
-  {
-    "id": "fa6d819ea9c43b9b460912110e3ec4f2",
-    "title": "UI Engineer - AI Trainer",
-    "company": "DataAnnotation",
-    "location": "Oregon, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4309801107",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "visa": null,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-02T16:54:55.727334-07:00",
     "status": "active"
   }
 ]
