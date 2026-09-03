@@ -1,5 +1,107 @@
 [
   {
+    "id": "8e5297afce3d479567872dde0e754d55",
+    "title": "Strategic UX Designer, Ecosystem Growth",
+    "company": "Google",
+    "location": "Kirkland, WA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4461687092",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-03T12:01:12.520990-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "bd7ae4f60d7caa514f764539dce0516d",
+    "title": "UI/UX Developer",
+    "company": "GRVTY",
+    "location": "Chantilly, VA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4462898077",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-03T12:01:10.536941-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "fa280eb8669fe4c12d9404b3c03a5043",
+    "title": "UX Designer and Developer",
+    "company": "Vaco by Highspring",
+    "location": "Durham, NC",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4462858062",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-03T12:01:08.626175-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "7ecc0d3139b69d494e93ea1cb26dc9b0",
+    "title": "UI/UX Designer",
+    "company": "Mindlance",
+    "location": "New York, NY",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4462847848",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-03T12:01:06.720188-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "f6c118fbf77a101a38a69e651b80367e",
+    "title": "Intern - Product Design",
+    "company": "Harman",
+    "location": "New York, NY, US",
+    "salary": "$19 \u2013 $28 / hourly",
+    "url": "https://www.indeed.com/viewjob?jk=d9995b1dd371ba61",
+    "source": "Indeed",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-01",
+    "priority": 3,
+    "first_seen": "2026-09-03T12:01:04.602004-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "765d3b3686823ff7e92026a13c7c3c7b",
+    "title": "Product Design Engineer II - Motorized",
+    "company": "SharkNinja",
+    "location": "Needham, MA, US",
+    "salary": "$78,000 \u2013 $110,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=80bed535c6ee4b63",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 4,
+    "first_seen": "2026-09-03T12:01:02.840446-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "8318c9d9493041024d29f16e178c45f7",
     "title": "Brand Designer, Growth",
     "company": "Maven",
@@ -2818,7 +2920,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T11:23:48.047795-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "6326fb400d98ba1ebe3d44261e0f082d",
@@ -2834,7 +2937,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T11:23:46.176099-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "5ea3a73c212efa0090e46280766eb69c",
@@ -2850,7 +2954,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T11:23:43.763830-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "1c61d1d4bcf5bb2f28494135f1b6575f",
@@ -2866,7 +2971,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T11:23:41.896356-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ea2b9007eb38c4401ea5e7892642e973",
@@ -2882,7 +2988,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T11:23:39.982556-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7d3dfc05e9a0b29a1fede306a76b0050",
@@ -2898,7 +3005,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T11:23:37.856033-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "88a2a673505d4d6a2386b41aaa5c7917",
@@ -2914,7 +3022,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T11:23:35.876576-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3a025817579b2a042f4f05fe1fd96c8d",
@@ -3141,7 +3250,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-09-01T09:17:10.657057-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a1468ae9e7ef75ee0f0a25cd40bff641",
@@ -3157,7 +3267,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T09:17:08.448886-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "98d35f908fc6dd432317edff21e691a9",
@@ -3173,7 +3284,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-09-01T09:17:05.504714-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d0b553dce3e22145bf156662d59fc02a",
@@ -29989,22 +30101,6 @@
     "posted_at": "2026-08-02",
     "priority": 4,
     "first_seen": "2026-08-03T12:15:13.049314-07:00",
-    "status": "active"
-  },
-  {
-    "id": "9295d374361ee45290e1fde7bdb9e3a7",
-    "title": "UX Engineer",
-    "company": "Cloud and Things",
-    "location": "Albany, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4446232311",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-03T11:51:22.411586-07:00",
     "status": "active"
   }
 ]
