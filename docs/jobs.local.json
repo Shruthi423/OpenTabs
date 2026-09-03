@@ -1,5 +1,56 @@
 [
   {
+    "id": "5a21375b9e0a0d2c2893ef867be4b3e1",
+    "title": "UX Designer II - Technology",
+    "company": "Edward Jones",
+    "location": "Tempe, AZ",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4461668201",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-03T12:21:41.389949-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "ddaaabaecb91e8eeaeb83edb8778ca68",
+    "title": "UX/UI Designer (Moscow) - 1077",
+    "company": "Lightcast",
+    "location": "Moscow, ID, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=eaa3473c232630b2",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 4,
+    "first_seen": "2026-09-03T12:21:39.520216-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "a60438604db9eaf907da5e5172cad382",
+    "title": "Experience Design (XD) IV, Product Design - Bank of America Experience Design",
+    "company": "Bank of America",
+    "location": "Pennington, NJ",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4443565956",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-03T12:21:37.685345-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "8e5297afce3d479567872dde0e754d55",
     "title": "Strategic UX Designer, Ecosystem Growth",
     "company": "Google",
@@ -3039,7 +3090,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T11:23:33.963292-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "c7313870c11cf45124070018a9f920ff",
@@ -3055,7 +3107,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T11:23:31.996619-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f991e3aca709134a826962cae683e846",
@@ -3071,7 +3124,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T11:23:29.985741-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "5545773e4afa8e14584a1f2395faf9e6",
@@ -3087,7 +3141,8 @@
     "posted_at": "2026-09-01",
     "priority": 4,
     "first_seen": "2026-09-01T11:23:27.997964-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7cdc64217c74344e644366f321c075d4",
@@ -3103,7 +3158,8 @@
     "posted_at": "2026-09-01",
     "priority": 4,
     "first_seen": "2026-09-01T11:23:26.011176-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "dd9a95e494e9db767cf1acc6b67b2678",
@@ -3119,7 +3175,8 @@
     "posted_at": "2026-09-01",
     "priority": 4,
     "first_seen": "2026-09-01T11:23:24.032914-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "998f6005459460d390b60f86d1785e6e",
@@ -3135,7 +3192,8 @@
     "posted_at": "2026-09-01",
     "priority": 4,
     "first_seen": "2026-09-01T11:23:22.067758-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b877e7cb5cd9a91a07ba40f7a9dd53b7",
@@ -3151,7 +3209,8 @@
     "posted_at": "2026-09-01",
     "priority": 4,
     "first_seen": "2026-09-01T11:23:20.303587-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ccd1303cf24d62a0ab37a1dcb7f1d7c6",
@@ -3201,7 +3260,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-09-01T09:18:10.249846-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b55fa13a6fde7f6f8f2052d32b1e4661",
@@ -3217,7 +3277,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T09:18:08.129948-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f7dac7f0badc454ed488763984b37d3f",
@@ -3301,7 +3362,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-09-01T09:06:01.215433-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "4f29f92e811535214f709d45f1916bd5",
@@ -3333,7 +3395,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-09-01T08:59:36.554099-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ecbbd992ddc49b9667361ce51df1eb29",
@@ -3349,7 +3412,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-09-01T08:59:34.553357-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7b85efaa16688c07f68c5c61888e5e19",
@@ -3381,7 +3445,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-31T19:52:12.798801-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2287a981b9b8e952159a0b2acca06b9b",
@@ -30069,38 +30134,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-03T12:35:45.162161-07:00",
-    "status": "active"
-  },
-  {
-    "id": "e1e053301244e7f48b76a8035cde0483",
-    "title": "Product Design Development Engineer (Power Electronics)",
-    "company": "Rise Technical",
-    "location": "Trevose, PA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4419617082",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-03T12:15:18.226683-07:00",
-    "status": "active"
-  },
-  {
-    "id": "17773cb24327805ecbbeda2b02b6b73e",
-    "title": "Product Designer, LSP44",
-    "company": "project44",
-    "location": "Chicago, IL, US",
-    "salary": "$112,000 \u2013 $168,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=36e32ae6fada4375",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-02",
-    "priority": 4,
-    "first_seen": "2026-08-03T12:15:13.049314-07:00",
     "status": "active"
   }
 ]
