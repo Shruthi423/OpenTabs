@@ -163,22 +163,9 @@ a.role {
 a.role:hover { border-bottom-color: var(--spec); }
 
 /* Outreach row: company site + LinkedIn + founder deep-links (free layer) */
-.outreach {
-  margin-top: 13px; padding-top: 12px; border-top: 1px dashed var(--line);
-  display: flex; flex-wrap: wrap; align-items: center; gap: 7px;
-}
-.outreach .ol-lbl {
-  color: var(--mut); font-size: 10px; text-transform: uppercase;
-  letter-spacing: .06em; margin-left: 4px;
-}
 /* Bare icons: Website and Company are lookups you take occasionally, and
    giving them the same pill as the two real actions made a seven-control
    card read as seven equal choices. */
-.col .job > .job-foot > .outreach .ol {
-  border-color: transparent; padding: 4px 5px; color: var(--mut);
-}
-.col .job > .job-foot > .outreach .ol:hover { color: var(--fg); border-color: transparent; background: none; }
-.act.icon.tick:hover { color: var(--co); }
 /* The icon buttons draw at 20px. On a touch screen that's half a fingertip,
    so they get an invisible 44px target without growing on screen. */
 @media (hover: none) and (pointer: coarse) {
@@ -188,17 +175,6 @@ a.role:hover { border-bottom-color: var(--spec); }
     width: 44px; height: 44px; transform: translate(-50%, -50%);
   }
 }
-.outreach .ol, .outreach .founder {
-  display: inline-flex; align-items: center; gap: 5px;
-  border: 1px solid var(--line); border-radius: 20px;
-  padding: 4px 10px; font-size: 12px; line-height: 1; color: var(--fg);
-  transition: border-color .18s ease, color .18s ease;
-}
-.outreach .ol { color: var(--mut); }
-.outreach .founder { color: var(--spec); border-color: var(--spec); }
-.outreach .ol:hover { color: var(--fg); border-color: var(--fg); }
-.outreach .founder:hover { background: var(--spec); color: var(--bg); }
-.outreach svg { flex: none; opacity: .85; }
 
 /* ── Three-column board (New · Older-day · Older-week; Applied = drawer) ── */
 /* ── Three-column board ────────────────────────────────────────── */
@@ -227,31 +203,69 @@ a.role:hover { border-bottom-color: var(--spec); }
 .job-top .idx { color: var(--mut); }
 .job-top .co { color: var(--fg); }
 .job-top .src { margin-left: auto; display: inline-flex; align-items: center; gap: 4px; }
-.ico-li, .ico-money { flex: none; vertical-align: middle; }
+/* Almost every icon on the card became a word. The two that survive mark
+   where a posting came from, so they get a size you can actually read
+   rather than the 14px they were drawn at. */
+.ico-li, .ico-money { flex: none; vertical-align: middle; width: 17px; height: 17px; }
+.job-top .src { font-size: 11px; gap: 6px; }
 .job-title {
   display: block; color: var(--spec); font-family: var(--font-title);
   font-size: var(--spec-size, 24px); line-height: 1.12;
   font-weight: 600; letter-spacing: -.02em; word-break: break-word;
 }
 .job:hover .job-title { opacity: .78; }
-.job-meta { margin-top: 10px; color: var(--mut); font-size: 11px; }
-.job-meta .sep { opacity: .45; margin: 0 5px; }
-.job-foot {
-  display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 12px;
+.job-meta { margin-top: 8px; color: var(--mut); font-size: 11px; }
+
+/* ── The verb line ──
+   Controls are words, so they inherit the card's voice instead of importing
+   a button's. A rule above them separates what the job *is* from what you
+   can *do* about it, which is the only hierarchy this card needs. */
+.verbs {
+  display: flex; align-items: baseline; gap: 7px; flex-wrap: wrap;
+  margin-top: 12px; padding-top: 11px; border-top: 1px solid var(--line);
+  font-family: var(--font-ui); font-size: 12px;
 }
+.verb {
+  background: none; border: 0; padding: 2px 0; cursor: pointer;
+  font: inherit; color: var(--fg); letter-spacing: .01em;
+  border-bottom: 1px solid color-mix(in srgb, var(--fg) 18%, transparent);
+}
+.verb:hover { color: var(--co); border-bottom-color: var(--co); }
+/* Finished work stops asking for attention but stays legible and clickable. */
+.verb.is-done { color: var(--mut); border-bottom-color: transparent; }
+.verb.is-done:hover { color: var(--fg); border-bottom-color: var(--fg); }
+/* The one verb that is genuinely your move right now. */
+.verb.is-live { color: var(--co); border-bottom-color: var(--co); font-weight: 600; }
+/* Filing is always available and never the point, so it sits apart from the
+   verbs that move a job forward. One rule for all three card types. */
+.verbs-tail { margin-left: auto; display: inline-flex; align-items: baseline; gap: 14px; }
+.verb.quiet { color: var(--mut); border-bottom-color: transparent; }
+.verb.quiet:hover { color: var(--danger); border-bottom-color: var(--danger); }
+.vsep { color: var(--mut); opacity: .5; }
+/* The focused card is read from further back, so its verbs scale up. */
+.verbs-lg { font-size: 15px; gap: 9px; padding-top: 18px; margin-top: 22px; }
+.verbs-lg .verb { padding: 4px 0; }
+.verbs-lg kbd { margin-left: 6px; }
+.verb kbd {
+  font-family: var(--font-ui); font-size: 10px; padding: 2px 5px;
+  border: 1px solid var(--line); border-radius: 4px; color: var(--mut); line-height: 1.4;
+}
+a.verb { text-decoration: none; }
+
+/* ── Decay ──
+   The posting ages, not your controls: --age dims what the job *is* and
+   leaves the verbs at full strength. Floors at 0.5 so a month-old listing
+   is still readable, just visibly past its moment. */
+.job-top, .job-title, .job-meta, .job .badges { opacity: var(--age, 1); }
+.job-meta .sep { opacity: .45; margin: 0 5px; }
 .badge {
   white-space: nowrap;            /* "1 design role" was wrapping to 2 lines */
   font-size: 10px; letter-spacing: 0;
   border: 1px solid var(--line); border-radius: 20px; padding: 2px 8px; color: var(--fg);
 }
 .job-title { cursor: pointer; }
-.job-foot .badges { display: flex; gap: 8px; flex-wrap: wrap; }
 /* Wraps rather than overflows: the footer gained a second button and at
    ~1100px the row was running past the card edge instead of stacking. */
-.actions {
-  display: flex; gap: 10px; margin-left: auto; align-items: center;
-  flex-wrap: wrap; justify-content: flex-end; min-width: 0;
-}
 .act {
   cursor: pointer; font-family: var(--font-ui); font-size: 11px;
   transition: opacity .15s ease, color .15s ease, border-color .15s ease;
@@ -277,21 +291,6 @@ a.role:hover { border-bottom-color: var(--spec); }
    on a job, Read article on a raise. They share a style because they hold
    the same rank — the filled pill they both used to wear now only appears
    in drawers and panels, where nothing else competes with it. */
-.act.resume, .act.read {
-  display: inline-flex; align-items: center; line-height: 1;
-  background: none; color: var(--co); border: 1px solid var(--co);
-  border-radius: 20px; padding: 4px 12px;
-}
-.act.resume:hover, .act.read:hover { background: var(--co); color: var(--bg); }
-.act.resume.sent {
-  color: var(--mut); border-style: dashed; border-color: var(--mut);
-}
-.act.resume.sent:hover { background: none; color: var(--fg); border-color: var(--fg); }
-.act.resume.ready {
-  background: var(--co); color: var(--bg); border-color: var(--co);
-  font-weight: 600;
-}
-.act.resume.ready:hover { opacity: .82; background: var(--co); color: var(--bg); }
 /* A quiet caveat, not an alarm: the card still works, it just hands over
    less. Sits at the end of the meta line with the other facts. */
 /* Dashed and muted so it reads as a caveat next to the solid badges, not
@@ -430,9 +429,7 @@ body.drawer-trash #drawerTrash {
   .row { padding: 12px 16px; gap: 14px; }
   .field.search { flex-basis: 100%; order: -1; }
   .job { padding: 16px; }
-  .job-foot { gap: 12px; }
   .act.done { padding: 7px 15px; }       /* comfortable tap target */
-  .act.resume, .act.read { padding: 6px 14px; }
   .act { font-size: 12px; }
 }
 
@@ -477,7 +474,6 @@ body.drawer-trash #drawerTrash {
 
 /* ── Just Raised column ────────────────────────────────────────── */
 .act.done { font-size: 11px; padding: 5px 13px; }
-.act.resume, .act.read { font-size: 11px; padding: 4px 12px; }
 /* one line of role links, then a "+N" for the rest */
 /* baseline alignment inflated this row to 4x its content height; centre
    alignment plus a fixed height keeps it to exactly one line */
@@ -522,9 +518,6 @@ body.drawer-open .drawer-tabs { opacity: 0; pointer-events: none; }
 .foot-brand {
   display: inline-flex; align-items: center; justify-content: center; gap: 7px;
   color: var(--fg); font-weight: 700; letter-spacing: -.01em;
-}
-
-@media (max-width: 1024px) {
 }
 
 /* ── Permanent left rail: brand + settings, 64px, always on screen ──
@@ -704,23 +697,11 @@ a.cog-co:hover { text-decoration: underline; }
 }
 .cog-card .cog-meta .sep { margin: 0 9px; opacity: .45; }
 .cog-card .badges { display: flex; flex-wrap: wrap; gap: 7px; }
-.cog-card .outreach { margin: 0; }
 .cog-card .roles { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
 
 /* Read it, then decide: open is the loud one, filing is quiet. */
 /* Five controls now, not three — tightened so the row still reads as one
    line of choices instead of leaving Trash stranded on its own. */
-.cog-acts {
-  display: flex; flex-wrap: wrap; align-items: center; gap: 6px;
-  padding-top: 20px; border-top: 1px solid var(--line);
-}
-.cog-open {
-  display: inline-flex; align-items: center; gap: 9px;
-  padding: 13px 18px; border-radius: 10px; border: 1px solid transparent;
-  background: var(--active-bg); color: var(--active-fg);
-  font: inherit; font-size: 14px; font-weight: 700; text-decoration: none;
-}
-.cog-open:hover { opacity: .88; }
 .cog-act {
   display: inline-flex; align-items: center; gap: 7px;
   padding: 12px 13px; border-radius: 10px;
@@ -729,11 +710,6 @@ a.cog-co:hover { text-decoration: underline; }
 }
 .cog-act:hover { color: var(--fg); border-color: var(--fg); }
 .cog-act.del:hover { color: var(--danger); border-color: var(--danger); }
-.cog-acts kbd, .cog-keys kbd, .cog-exit kbd {
-  font-family: var(--font-ui); font-size: 10px;
-  padding: 2px 5px; border: 1px solid var(--line); border-radius: 4px;
-  color: var(--mut); line-height: 1.4;
-}
 
 /* Nothing left in this pile. */
 .cog-done { text-align: center; display: flex; flex-direction: column; gap: 16px; align-items: center; }
@@ -823,22 +799,6 @@ a.cog-co:hover { text-decoration: underline; }
 /* ── Outreach ──────────────────────────────────────────────────── */
 /* One button walking a multi-day arc, so each stage has to say what it
    wants from you at a glance: quiet = nothing to do, accent = your move. */
-.act.reach {
-  display: inline-flex; align-items: center; line-height: 1;
-  background: none; color: var(--mut); border: 1px solid var(--line);
-  border-radius: 20px; padding: 4px 12px;
-}
-.act.reach:hover { color: var(--fg); border-color: var(--fg); }
-.act.reach.go { color: var(--fg); border-color: var(--line); }
-.act.reach.go:hover { color: var(--bg); background: var(--fg); border-color: var(--fg); }
-.act.reach.sent { border-style: dashed; }
-.act.reach.waiting { color: var(--mut); border-style: dotted; }
-.act.reach.due {                          /* they accepted — your move */
-  background: var(--co); color: var(--bg); border-color: var(--co); font-weight: 600;
-}
-.act.reach.due:hover { opacity: .82; color: var(--bg); }
-.act.reach.ready { color: var(--co); border-color: var(--co); }
-.act.reach.ready:hover { color: var(--co); border-color: var(--co); opacity: .8; }
 
 .drawer-tab.has-due em { background: var(--co); color: var(--bg); }
 
@@ -945,12 +905,15 @@ a.cog-co:hover { text-decoration: underline; }
    parts, so the columns line up rank for rank. Anything that cannot fit
    is truncated on its own line — never allowed to spill past the card
    edge or push the action row out. */
-:root { --row-h: calc(var(--spec-size) * 3.6 + 110px); }   /* +6px for the title's descender padding */
+:root { --row-h: calc(var(--spec-size) * 2.2 + 62px); }   /* a floor, not a fixed height */
 
+/* Cards size to their content now. The fixed row height existed so pill
+   footers lined up across columns, but with a verb line pinned to the
+   bottom it guaranteed a dead gap on every short card — and the columns
+   scroll independently, so that alignment was never actually read. */
 .col .job {
-  height: var(--row-h);
+  min-height: var(--row-h);
   display: flex; flex-direction: column;
-  overflow: hidden;
 }
 .col .job > .job-top, .col .job > .job-meta, .col .job > .roles { flex: none; }
 
@@ -984,56 +947,9 @@ a.cog-co:hover { text-decoration: underline; }
 /* a funding headline is short ("$250.0M · Series C"), so one line is enough
    and the roles line it carries still fits the shared row height */
 .col-raised .job > .job-title { -webkit-line-clamp: 1; }
-/* One bottom row: outreach chips on the left, badges and the action on the
-   right, all on the same baseline. Every other child of the card has a
-   bounded height, so this row always lands at the same place and nothing
-   can print underneath it. */
-.col .job > .job-foot {
-  margin-top: auto; flex: none;
-  display: flex; align-items: center; gap: 10px;
-  flex-wrap: nowrap;              /* wrapping dropped the button to a 2nd line */
-  min-width: 0;
-  height: 46px;                   /* fixed, so a link-pill and a button-pill
-                                     can't land 4px apart between columns */
-  padding-top: 0;
-}
-.col .job > .job-foot > .outreach {
-  margin: 0; padding: 0; border: 0; flex: 0 1 auto;
-  overflow: hidden; flex-wrap: nowrap; max-height: 24px;
-  /* Two bare icons wide. The row still gives way before the buttons do,
-     but it now shrinks to something whole rather than to a sliver. */
-  min-width: 62px;
-}
-/* A board column's footer is one fixed 46px row and never holds three
-   labelled chips beside the buttons — not even at 1600px — so in the
-   columns the chips are icons and the names live in their titles. The
-   cognition card is a single wide card and keeps its labels. */
-.col .job > .job-foot > .outreach .ol-t { display: none; }
-.col .job > .job-foot > .outreach .ol { padding: 4px 7px; }
-/* The narrowest band that still draws three columns: a second labelled
-   button tipped this row past the card edge, so the pills and gaps tighten
-   before anything gets cut. */
-@media (max-width: 1200px) {
-  .col .job > .job-foot { gap: 7px; }
-  .col .job > .job-foot .actions { gap: 7px; }
-  .col .job > .job-foot .act.done,
-  .col .job > .job-foot .act.resume,
-  .col .job > .job-foot .act.read,
-  .col .job > .job-foot .act.reach { padding: 4px 9px; }
-}
-/* Tightest three-column case: the reference row drops to a single icon
-   rather than let a button run off the card. */
-@media (max-width: 1120px) {
-  .col .job > .job-foot > .outreach { min-width: 30px; }
-}
-/* Badges give way before the buttons do. They used to keep their size
-   because a shrinkable box printed on top of the chips — overflow:hidden
-   is what that rule was missing, and now that a card can carry three
-   badges at once, the row needs it. */
-.col .job > .job-foot > .badges {
-  flex: 0 1 auto; flex-wrap: nowrap; min-width: 0; overflow: hidden;
-}
-.col .job > .job-foot > .actions { flex: none; margin-left: auto; }
+/* The card's own badges sit on their own line now that the footer is a
+   sentence rather than a row competing for width. */
+.job .badges { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 9px; }
 
 /* The Applied / Trash edge tabs float over the right edge of the board, so
    the last column keeps a lane clear for them instead of letting them sit

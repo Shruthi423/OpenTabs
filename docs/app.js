@@ -320,21 +320,6 @@ const outreachUrls = {
   founder: (nm, co) => "https://www.google.com/search?q=" +
     encodeURIComponent('site:linkedin.com/in "' + (nm || "") + '" ' + (co || "")),
 };
-function outreachHTML(rec) {
-  const founders = (rec.founders || []).slice(0, 2).map((nm) =>
-    `<a class="founder" href="${esc(outreachUrls.founder(nm, rec.company))}" target="_blank" rel="noopener" ` +
-    `title="Find ${esc(nm)} on LinkedIn">${esc(nm)}${LI_MINI}</a>`).join("");
-  // Website and Company are reference, not action: they became bare icons
-  // so the two things this board is actually for — reaching someone and
-  // tailoring a résumé — are the only labelled controls on the card.
-  return `<div class="outreach">
-        <a class="ol ol-site" href="${esc(outreachUrls.site(rec.company))}" target="_blank" rel="noopener"
-           title="${esc(rec.company || "Company")} website">${WEB_SVG}<span class="ol-t">Website</span></a>
-        <a class="ol ol-co" href="${esc(outreachUrls.company(rec.company))}" target="_blank" rel="noopener"
-           title="${esc(rec.company || "Company")} on LinkedIn">${LI_MINI}<span class="ol-t">Company</span></a>
-        ${founders ? `<span class="ol-lbl">Founders</span>${founders}` : ""}
-      </div>`;
-}
 
 function sourceLabel(src) {
   src = src || "";
@@ -626,24 +611,6 @@ async function outreachHandoff(job, btn, followUp) {
    a message is you telling the board what happened on LinkedIn — the same
    contract as Applied, for the same reason: nothing here can see your
    inbox. */
-function outreachUI(j) {
-  const st = outOf(j);
-  if (!st) return { cls: "go", label: "People", title: `Find designers and design hiring at ${j.company}` };
-  if (st.stage === "looking")  return { cls: "go", label: "Note", title: `Draft a connection note for ${j.company}` };
-  if (st.stage === "drafted")  return { cls: "sent", label: "Sent?", title: "Mark the connection request as sent" };
-  if (st.stage === "requested") {
-    const d = daysSince(st.at);
-    return { cls: "waiting", label: d ? `${d}d · Accepted?` : "Accepted?",
-             title: `Requested ${d ? d + " days ago" : "today"} — click when they accept` };
-  }
-  if (st.stage === "accepted") return { cls: "due", label: "Follow up", title: "Draft your follow-up message" };
-  return { cls: "ready", label: "Reached ✓", title: `Followed up with ${j.company} — click to draft again` };
-}
-function outreachBtn(j) {
-  if (!j.company || j.company === "Unknown") return "";   // nothing to search on
-  const ui = outreachUI(j);
-  return `<button class="act reach ${ui.cls}" data-act="reach" title="${esc(ui.title)}">${esc(ui.label)}</button>`;
-}
 
 /* Advance one step. The two drafting steps also copy-and-open; the rest
    just record what you did. */
@@ -744,52 +711,91 @@ function renderOutreach() {
 /* Three states, one button. Primary → in progress → highlighted, which is
    as close to "it knows the résumé is ready" as a static site can honestly
    get: the middle click is you telling it. */
-const RESUME_UI = {
-  undefined: { cls: "", label: "Résumé", title: "Copy this job description and open your Claude project" },
-  sent:      { cls: "sent", label: "Downloaded?", title: "Mark the tailored résumé as saved" },
-  done:      { cls: "ready", label: "Résumé ✓", title: "Résumé saved — click to copy and open the project again" },
-};
 /* Middle state is the only one that doesn't re-open the project: it's you
    confirming the résumé came back, which is what turns the button on. */
 function stepResume(job, btn) {
   if (RESUMES[job.id] === "sent") { RESUMES[job.id] = "done"; saveResumes(); render(false); return; }
   handoff(job, btn).then(() => render(false));
 }
-function resumeBtn(j) {
-  const ui = RESUME_UI[RESUMES[j.id]] || RESUME_UI.undefined;
-  return `<button class="act resume ${ui.cls}" data-act="resume" title="${esc(ui.title)}">${esc(ui.label)}</button>`;
+
+/* ── Verbs ──
+   Buttons were the problem. A globe, a broom and a checkmark are mute, and
+   a pill labelled "Downloaded?" is a checkbox in costume. Words are the
+   clearest affordance there is, so the card stops drawing controls and
+   writes a line instead. State lives in the tense: "tailor résumé" becomes
+   "résumé tailored" once it is. */
+const RESUME_VERB = {
+  undefined: { label: "tailor résumé", hint: "Copy the job description and open your project" },
+  sent:      { label: "saved it?",     hint: "Mark the tailored résumé as saved" },
+  done:      { label: "résumé tailored", done: true, hint: "Done — click to hand it over again" },
+};
+function outreachVerb(j) {
+  const st = outOf(j);
+  if (!j.company || j.company === "Unknown") return null;   // nothing to search
+  if (!st) return { label: "find people", hint: `Designers and design hiring at ${j.company}` };
+  if (st.stage === "looking")   return { label: "write a note", hint: "Draft a connection note" };
+  if (st.stage === "drafted")   return { label: "request sent?", hint: "Mark the connection request as sent" };
+  if (st.stage === "requested") { const d = daysSince(st.at);
+    return { label: `accepted?${d ? " · " + d + "d" : ""}`, hint: `Asked ${d || 0} days ago — click when they accept` }; }
+  if (st.stage === "accepted")  return { label: "follow up", live: true, hint: "Draft your follow-up message" };
+  return { label: "followed up", done: true, hint: "Done — click to draft another" };
+}
+function verb(act, v) {
+  if (!v) return "";
+  return `<button class="verb${v.done ? " is-done" : ""}${v.live ? " is-live" : ""}${v.quiet ? " quiet" : ""}" ` +
+         `data-act="${act}" title="${esc(v.hint)}">${esc(v.label)}</button>`;
+}
+
+/* A posting ages out. Full ink for three days, then it thins toward a floor
+   so a three-week-old listing reads as the near-miss it is — urgency you can
+   see down the column instead of a date you have to stop and read. Only the
+   posting fades; your own verbs stay live. */
+function decayOf(j) {
+  const t = jobTime(j);
+  if (!t) return 1;
+  const days = (Date.now() - t) / 86400000;
+  return Math.max(0.5, 1 - Math.min(1, Math.max(0, days - 3) / 25) * 0.5);
 }
 
 function jobHTML(j, n, mode) {
   const idx = String(n).padStart(2, "0");
   const badges =
     (j.is_new_grad ? '<span class="badge">New Grad</span>' : "") +
-    (j.is_big_tech ? '<span class="badge">Big Tech</span>' : "") +
-    thinJD(j);
-  // One obvious control per state: file it, un-file it, or bring it back.
-  const actions =
-    mode === "trash" ? '<button class="act done" data-act="restore">Restore</button>'
-    : mode === "app" ? outreachBtn(j) + resumeBtn(j) + '<button class="act ghost" data-act="unapply">Un-apply</button>' +
-                       `<button class="act icon del" data-act="delete" title="Move to Trash" aria-label="Move to Trash">${BROOM_SVG}</button>`
-    : outreachBtn(j) + resumeBtn(j) +
-      `<button class="act icon tick" data-act="apply" title="Mark as applied" aria-label="Mark as applied">${CHECK_SVG}</button>` +
-      `<button class="act icon del" data-act="delete" title="Move to Trash" aria-label="Move to Trash">${BROOM_SVG}</button>`;
-  return `<div class="job" data-id="${esc(j.id)}"${j._ids ? ` data-ids="${esc(j._ids.join(" "))}"` : ""} data-url="${esc(j.url || "#")}" data-title="${esc(j.title)}" data-flip-id="${esc(j.id)}">
+    (j.is_big_tech ? '<span class="badge">Big Tech</span>' : "")
+    + thinJD(j);
+  // The nouns carry the links: the company name goes to its site, the title
+  // to the posting. Nothing is added to the card to make that possible.
+  const site = outreachUrls.site(j.company);
+  const co = site !== "#"
+    ? `<a class="co" href="${esc(site)}" target="_blank" rel="noopener" title="${esc(j.company)} website">${esc(j.company)}</a>`
+    : `<span class="co">${esc(j.company)}</span>`;
+  const line = [
+    esc(j.location || "—") + (j._n ? ` <span class="dupe" title="${esc(j._locs.slice(0, 12).join(" · "))}">+${j._n - 1} more</span>` : ""),
+    esc(j.salary && j.salary !== "Not listed" ? j.salary : ""),
+    "posted " + esc(postedAgo(j)),
+  ].filter(Boolean).join('<span class="sep">·</span>');
+
+  const verbs = mode === "trash"
+    ? verb("restore", { label: "put it back" })
+    : [ verb("resume", RESUME_VERB[RESUMES[j.id]] || RESUME_VERB.undefined),
+        verb("reach", outreachVerb(j)),
+        mode === "app"
+          ? verb("unapply", { label: "not applied after all", quiet: true, hint: "Move back to the board" })
+          : verb("apply", { label: "mark applied", hint: "File this to Applied" }),
+      ].filter(Boolean).join('<span class="vsep">·</span>')
+      + `<span class="verbs-tail">${verb("delete", { label: "not for me", quiet: true, hint: "Move to Trash" })}</span>`;
+
+  return `<div class="job" data-id="${esc(j.id)}"${j._ids ? ` data-ids="${esc(j._ids.join(" "))}"` : ""} data-url="${esc(j.url || "#")}" data-title="${esc(j.title)}" data-flip-id="${esc(j.id)}" style="--age:${decayOf(j).toFixed(3)}">
       <div class="job-top">
         <span class="idx">${idx}</span>
-        <span class="co">${esc(j.company)}</span>
+        ${co}
         <span class="src">${sourceLabel(j.source)}</span>
       </div>
-      <div class="job-title">${esc(j.title)}</div>
-      <div class="job-meta">
-        ${esc(j.location || "—")}${j._n ? `<span class="dupe" title="${esc(j._locs.slice(0, 12).join(" · "))}${j._locs.length > 12 ? " …" : ""}">+${j._n - 1} more ${j._n - 1 === 1 ? "city" : "cities"}</span>` : ""}<span class="sep">/</span>${esc(j.salary || "—")}<span class="sep">/</span>Posted ${postedAgo(j)}
-      </div>
+      <a class="job-title" href="${esc(j.url || "#")}" target="_blank" rel="noopener">${esc(j.title)}</a>
+      <div class="job-meta">${line}</div>
+      ${badges ? `<div class="badges">${badges}</div>` : ""}
       ${j._why && j._why.length ? `<div class="score-trace">${j._why.map((w) => `<b>${esc(w)}</b>`).join("")}</div>` : ""}
-      <div class="job-foot">
-        ${mode === "trash" ? "" : outreachHTML(j)}
-        <span class="badges">${badges}</span>
-        <span class="actions">${actions}</span>
-      </div>
+      <div class="verbs">${verbs}</div>
     </div>`;
 }
 
@@ -823,7 +829,7 @@ function raiseHTML(f, n) {
   return `<div class="job raise" data-id="${esc(fundId(f))}">
       <div class="job-top">
         <span class="idx">${idx}</span>
-        <a class="co" href="${esc(outreachUrls.company(f.company))}" target="_blank" rel="noopener" title="${esc(f.company)} on LinkedIn">${esc(f.company)}</a>
+        <a class="co" href="${esc(outreachUrls.site(f.company))}" target="_blank" rel="noopener" title="${esc(f.company)} website">${esc(f.company)}</a>
         <span class="src">${esc(f.source || "")}</span>
       </div>
       <div class="job-title">${headline}</div>
@@ -831,13 +837,11 @@ function raiseHTML(f, n) {
         ${esc(val(loc) || "Location unknown")}<span class="sep">/</span>${esc(val(f.investors) || "—")}<span class="sep">/</span>Raised ${ago(f.first_seen)}
       </div>
       ${rolesLine}${trace}
-      <div class="job-foot">
-        ${outreachHTML(f)}
-        <span class="badges">${badges}</span>
-        <span class="actions">
-          ${f.url ? `<a class="act read" href="${esc(f.url)}" target="_blank" rel="noopener">Read article</a>` : ""}
-          <button class="act icon del" data-act="dismiss" title="Dismiss" aria-label="Dismiss">${BROOM_SVG}</button>
-        </span>
+      ${badges ? `<div class="badges">${badges}</div>` : ""}
+      <div class="verbs">
+        ${f.url ? `<a class="verb" href="${esc(f.url)}" target="_blank" rel="noopener">read the article</a><span class="vsep">·</span>` : ""}
+        ${verb("reach", { label: "find people", hint: `Designers and design hiring at ${f.company}` })}
+        <span class="verbs-tail">${verb("dismiss", { label: "not for me", quiet: true, hint: "Dismiss this raise" })}</span>
       </div>
     </div>`;
 }
@@ -1154,21 +1158,23 @@ function cogJobHTML(j) {
     (j.is_new_grad ? '<span class="badge">New Grad</span>' : "") +
     (j.is_big_tech ? '<span class="badge">Big Tech</span>' : "") +
     thinJD(j);
-  const rui = RESUME_UI[RESUMES[j.id]] || RESUME_UI.undefined;
-  const oui = outreachUI(j);
+  const rv = RESUME_VERB[RESUMES[j.id]] || RESUME_VERB.undefined;
+  const ov = outreachVerb(j);
   return `<article class="cog-card">
       <div class="cog-src">${sourceLabel(j.source)}<span class="sep">/</span>Posted ${postedAgo(j)}</div>
       <div class="cog-co">${esc(j.company || "—")}</div>
       <h3 class="cog-title">${esc(j.title)}</h3>
       <div class="cog-meta">${esc(j.location || "—")}${j._n ? `<span class="dupe">+${j._n - 1} more ${j._n - 1 === 1 ? "city" : "cities"}</span>` : ""}<span class="sep">/</span>${esc(j.salary || "Salary not listed")}</div>
       ${badges ? `<div class="badges">${badges}</div>` : ""}
-      ${outreachHTML(j)}
-      <div class="cog-acts">
-        <a class="cog-open" href="${esc(j.url || "#")}" target="_blank" rel="noopener">Open posting <kbd>&crarr;</kbd></a>
-        <button class="cog-act" type="button" data-cog-act="reach" title="${esc(oui.title)}">${esc(oui.label)} <kbd>P</kbd></button>
-        <button class="cog-act" type="button" data-cog-act="resume" title="${esc(rui.title)}">${esc(rui.label)} <kbd>R</kbd></button>
-        <button class="cog-act" type="button" data-cog-act="apply">Applied <kbd>A</kbd></button>
-        <button class="cog-act del" type="button" data-cog-act="trash">Trash <kbd>X</kbd></button>
+      <div class="verbs verbs-lg">
+        <a class="verb" href="${esc(j.url || "#")}" target="_blank" rel="noopener">read it <kbd>&crarr;</kbd></a>
+        <span class="vsep">·</span>
+        ${ov ? `<button class="verb${ov.done ? " is-done" : ""}${ov.live ? " is-live" : ""}" type="button" data-cog-act="reach" title="${esc(ov.hint)}">${esc(ov.label)} <kbd>P</kbd></button><span class="vsep">·</span>` : ""}
+        <button class="verb${rv.done ? " is-done" : ""}" type="button" data-cog-act="resume" title="${esc(rv.hint)}">${esc(rv.label)} <kbd>R</kbd></button>
+        <span class="verbs-tail">
+          <button class="verb" type="button" data-cog-act="apply">mark applied <kbd>A</kbd></button>
+          <button class="verb quiet" type="button" data-cog-act="trash">not for me <kbd>X</kbd></button>
+        </span>
       </div>
     </article>`;
 }
@@ -1191,10 +1197,9 @@ function cogRaiseHTML(f) {
       <div class="cog-meta">${esc(val(locOf(f)) || "Location unknown")}<span class="sep">/</span>${esc(val(f.investors) || "Investors undisclosed")}</div>
       ${badges ? `<div class="badges">${badges}</div>` : ""}
       ${rolesLine}
-      ${outreachHTML(f)}
-      <div class="cog-acts">
-        ${f.url ? `<a class="cog-open" href="${esc(f.url)}" target="_blank" rel="noopener">Read article <kbd>&crarr;</kbd></a>` : ""}
-        <button class="cog-act del" type="button" data-cog-act="dismiss">Dismiss <kbd>X</kbd></button>
+      <div class="verbs verbs-lg">
+        ${f.url ? `<a class="verb" href="${esc(f.url)}" target="_blank" rel="noopener">read the article <kbd>&crarr;</kbd></a><span class="vsep">·</span>` : ""}
+        <button class="verb" type="button" data-cog-act="dismiss">not for me <kbd>X</kbd></button>
       </div>
     </article>`;
 }
@@ -1291,7 +1296,9 @@ function bindCogKeys() {
     else if (k === "x") { e.preventDefault(); cogAct(state.cog === "raised" ? "dismiss" : "trash"); }
     else if (k === "r" && state.cog !== "raised") { e.preventDefault(); cogAct("resume"); }
     else if (k === "p" && state.cog !== "raised") { e.preventDefault(); cogAct("reach"); }
-    else if (e.key === "Enter") { e.preventDefault(); const a = $(".cog-open"); if (a) a.click(); }
+    // The primary link is a verb now; .cog-open no longer exists, so Enter
+    // was silently doing nothing.
+    else if (e.key === "Enter") { e.preventDefault(); const a = $(".cog-card a.verb"); if (a) a.click(); }
     else if (e.key === "Escape") { e.preventDefault(); exitCog(); }
   });
 }
@@ -1481,7 +1488,9 @@ function bind() {
       return;                                 // every other target is a real link
     }
     const card = e.target.closest(".job"); if (!card) return;
-    if (e.target.closest(".outreach")) return;   // outreach links open on their own
+    // The company name and the title are real links now — let the browser
+    // have them rather than intercepting and re-opening.
+    if (e.target.closest("a")) return;
     const id = card.dataset.id, url = card.dataset.url;
     // A collapsed card stands for every city it absorbed — filing one copy
     // and leaving the other 24 on the board would defeat the point.
