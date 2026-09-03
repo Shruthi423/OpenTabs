@@ -1,5 +1,107 @@
 [
   {
+    "id": "a1a53848e47a15f57d9a83a6017431ee",
+    "title": "Product Designer, Trust & Risk",
+    "company": "Whatnot",
+    "location": "Los Angeles, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4443427975",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-03T13:21:55.537467-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "06d7d12b6079ff5495dc5286f12c6a64",
+    "title": "UX/UI Designer (Moscow) - 1077",
+    "company": "Lightcast",
+    "location": "Moscow, ID",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4460752386",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-03T13:21:53.424674-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "b7793a2e0903413dfc6fc0ce14a410c5",
+    "title": "Usability Researcher (contract)",
+    "company": "Microsoft",
+    "location": "Remote, US",
+    "salary": "$44 \u2013 $49 / hourly",
+    "url": "https://www.indeed.com/viewjob?jk=0c9f563a9a136236",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 4,
+    "first_seen": "2026-09-03T13:21:51.539490-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "ebd1356f3b3941c8bce7fd1d8c7676fb",
+    "title": "Product Design Engineer",
+    "company": "Schneller",
+    "location": "Union Gap, WA, US",
+    "salary": "$75,000 \u2013 $90,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=cb18365ca8e3defd",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 4,
+    "first_seen": "2026-09-03T13:21:48.962445-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "16a1e5c3b8015ca9df604a7d08e29c66",
+    "title": "Product Design Engineering Supervisor",
+    "company": "Molex",
+    "location": "Harrisburg, PA, US",
+    "salary": "$125,000 \u2013 $150,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=de86c747deeba22d",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 4,
+    "first_seen": "2026-09-03T13:21:47.116958-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "e02531ad7fa178d30f8290c0101b1699",
+    "title": "Launch Engineer",
+    "company": "Molex",
+    "location": "Lisle, IL, US",
+    "salary": "$100,000 \u2013 $150,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=12a639e1f3df95ff",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 4,
+    "first_seen": "2026-09-03T13:21:39.628551-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "5a21375b9e0a0d2c2893ef867be4b3e1",
     "title": "UX Designer II - Technology",
     "company": "Edward Jones",
@@ -3549,7 +3651,8 @@
     "posted_at": "2026-08-30",
     "priority": 1,
     "first_seen": "2026-08-31T16:56:36.660018-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "1556be10913a083350f8fcfbbe10d50f",
@@ -3565,7 +3668,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-08-31T16:56:34.911962-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "23a134d58c0e8c1ef1a5b54a6603761a",
@@ -3581,7 +3685,8 @@
     "posted_at": "2026-08-23",
     "priority": 4,
     "first_seen": "2026-08-31T15:57:52.231056-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b94f4f47d090e610125935a82f8921e2",
@@ -3597,7 +3702,8 @@
     "posted_at": "2026-08-23",
     "priority": 3,
     "first_seen": "2026-08-31T15:57:50.281784-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "d80bf0ac4539640a863f708c4f35cd1d",
@@ -3613,7 +3719,8 @@
     "posted_at": "2026-08-30",
     "priority": 4,
     "first_seen": "2026-08-31T15:57:48.416110-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "4d5e848f3a04a4db960485a1e58195a9",
@@ -3629,7 +3736,8 @@
     "posted_at": "2026-08-23",
     "priority": 2,
     "first_seen": "2026-08-31T15:57:46.664887-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "4ce741fca6567a0f646573d5eb028557",
@@ -3645,7 +3753,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-31T15:03:55.277372-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "5f2bf75c0e1ab84ca9dc9e743dc26702",
@@ -3661,7 +3770,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-08-31T14:44:40.513851-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2af51a9bd3a17b78dd9884d10689af3e",
@@ -3677,7 +3787,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-08-31T14:44:38.777054-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0385e999bcca112357104277c6f684b8",
@@ -3693,7 +3804,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-31T14:25:10.001517-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "a04519af79d4b9d464d6fd28ce3aa49d",
@@ -3709,7 +3821,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-31T14:25:07.933520-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f11a9b701d70641dc095047602e58498",
@@ -3725,7 +3838,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-31T14:25:05.937222-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "50908b781d2005d0ca9e210e473a64b9",
@@ -3741,7 +3855,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-31T14:25:04.015233-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "c70ab522a0508c0aeb4af5c185535bb0",
@@ -29981,38 +30096,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-03T13:31:33.194192-07:00",
-    "status": "active"
-  },
-  {
-    "id": "1a6f99fa012c382323fcdc9f464f1f36",
-    "title": "Design Researcher, The Natural Infrastructure Lab - The School of Architecture",
-    "company": "University of Virginia",
-    "location": "Charlottesville, VA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448376570",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-03T13:13:13.510579-07:00",
-    "status": "active"
-  },
-  {
-    "id": "46557849369e0f1ee51bfd31261f1737",
-    "title": "Product Design Co-op \u2013 International Growth",
-    "company": "Ancestry",
-    "location": "Remote, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=5f9c601a4ab4fec3",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-02",
-    "priority": 4,
-    "first_seen": "2026-08-03T13:13:11.637113-07:00",
     "status": "active"
   }
 ]
