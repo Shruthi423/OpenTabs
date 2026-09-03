@@ -1,5 +1,73 @@
 [
   {
+    "id": "8e872d306b0258c70dfac3e3a17d541c",
+    "title": "Design Systems Designer",
+    "company": "TEKsystems",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4462432772",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "None",
+    "priority": 1,
+    "first_seen": "2026-09-02T22:25:51.450049-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "4ac1890202f2d40373c1f027c3e30f4c",
+    "title": "Merchandising & Product Design Coordinator",
+    "company": "Room & Board",
+    "location": "Golden Valley, MN, US",
+    "salary": "$61,000 \u2013 $71,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=69eb76ef91d36970",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-01",
+    "priority": 4,
+    "first_seen": "2026-09-02T22:25:39.592309-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "159d2b0f2d3eff24f830ddb5638344ff",
+    "title": "UX Design Consultant",
+    "company": "Experient",
+    "location": "Atlanta, GA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4461604038",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-02T22:25:37.653418-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "bd491161bc0cebb1d430809893d8e2b0",
+    "title": "Sentinel - Human Factors Engineer - User Experience (UX) - 19782",
+    "company": "Northrop Grumman",
+    "location": "Roy, UT",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4462744877",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-02T22:25:35.934245-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "fa06fca7cb1f2e0252c8691c7d518feb",
     "title": "UX/UI Designer I",
     "company": "Young Living Essential Oils",
@@ -1203,7 +1271,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T19:34:05.138456-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "a3f3de637de8bdd467aea0dd506371a8",
@@ -1236,7 +1305,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T19:14:13.200574-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "a9f741737f63c666e39a0d7533f0d469",
@@ -1252,7 +1322,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T18:54:40.467554-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3e6105fdc282fcd007a3654fd20361ad",
@@ -1302,7 +1373,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-09-01T18:34:36.234142-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "e695ce686d179ffdc4b144e17b54b276",
@@ -1451,7 +1523,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T17:55:39.173645-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "86c384cb599a14379d37108526178da7",
@@ -1467,7 +1540,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T17:55:37.423173-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "00cb6d7185419c6488da7f9155cadb0d",
@@ -1483,7 +1557,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T17:55:35.476935-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d7081f9fb547364e2ee7b2e973eb7c11",
@@ -1515,7 +1590,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-09-01T17:35:55.929617-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a9d7a348a033ce3afa3bcca6ff0c6f18",
@@ -1531,7 +1607,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T16:31:49.142754-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5ccce2dec4d7d662c5867182f4f1ef77",
@@ -1611,7 +1688,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-09-01T15:37:50.002947-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "0d5e1f7bd19790233550580d678d2926",
@@ -1643,7 +1721,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-01T15:09:55.286597-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d6669c24966bc702a8184496f712e761",
@@ -29963,22 +30042,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-02T22:54:15.993880-07:00",
-    "status": "active"
-  },
-  {
-    "id": "69733b06151308659ac78ba64be81da1",
-    "title": "UX Designer",
-    "company": "Siemens Digital Industries Software",
-    "location": "Mason, OH",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4447675880",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-02T22:16:55.790937-07:00",
     "status": "active"
   }
 ]
