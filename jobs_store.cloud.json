@@ -13213,7 +13213,9 @@
     "priority": 3,
     "first_seen": "2026-08-13T01:21:15.256537-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "d3c663f349bea1c81d1c33cc0e51838a": {
     "id": "d3c663f349bea1c81d1c33cc0e51838a",
@@ -13231,7 +13233,9 @@
     "priority": 4,
     "first_seen": "2026-08-13T03:44:07.240539-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "a281b03f7c3a018287e182ddecddfe9f": {
     "id": "a281b03f7c3a018287e182ddecddfe9f",
@@ -13249,7 +13253,9 @@
     "priority": 5,
     "first_seen": "2026-08-13T03:44:08.894919-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "e3ae11c26742645156e45e4e270c97b7": {
     "id": "e3ae11c26742645156e45e4e270c97b7",
@@ -13267,7 +13273,9 @@
     "priority": 2,
     "first_seen": "2026-08-13T03:44:10.746707-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "529b20e6eab3bafa7293d3874aa2f4b9": {
     "id": "529b20e6eab3bafa7293d3874aa2f4b9",
@@ -13285,7 +13293,9 @@
     "priority": 5,
     "first_seen": "2026-08-13T06:46:05.029269-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "e7f090b14ec4e41420c0185a9e964bd5": {
     "id": "e7f090b14ec4e41420c0185a9e964bd5",
@@ -13303,7 +13313,8 @@
     "priority": 5,
     "first_seen": "2026-08-13T07:46:58.452215-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00"
   },
   "60542c197ec6613e09dd5e17fc421699": {
     "id": "60542c197ec6613e09dd5e17fc421699",
@@ -13322,7 +13333,9 @@
     "priority": 3,
     "first_seen": "2026-08-13T07:47:32.890399-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "ef575dd8e4ee7983736d65465e21f3ee": {
     "id": "ef575dd8e4ee7983736d65465e21f3ee",
@@ -13340,7 +13353,9 @@
     "priority": 5,
     "first_seen": "2026-08-13T10:53:48.166560-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "99fe31ad906b582b1ca843613ecd4da3": {
     "id": "99fe31ad906b582b1ca843613ecd4da3",
@@ -13359,7 +13374,9 @@
     "priority": 1,
     "first_seen": "2026-08-13T11:55:37.398288-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "7613df955be4b1283d3001c6955f4d96": {
     "id": "7613df955be4b1283d3001c6955f4d96",
@@ -13377,7 +13394,9 @@
     "priority": 5,
     "first_seen": "2026-08-13T14:28:33.157995-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 1
   },
   "082355a0ba1d309ccdaa131b14e4810e": {
     "id": "082355a0ba1d309ccdaa131b14e4810e",
@@ -13395,7 +13414,9 @@
     "priority": 5,
     "first_seen": "2026-08-13T15:11:36.275091-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "2257c5c9d11005f4159d65256b659b84": {
     "id": "2257c5c9d11005f4159d65256b659b84",
@@ -13413,7 +13434,9 @@
     "priority": 1,
     "first_seen": "2026-08-13T18:22:22.099628-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "8b2998d7be9c611260f7b7adfad29ede": {
     "id": "8b2998d7be9c611260f7b7adfad29ede",
@@ -13431,7 +13454,9 @@
     "priority": 5,
     "first_seen": "2026-08-13T18:22:23.836297-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "e3359cea0b3efc85b8b76c92d6cae919": {
     "id": "e3359cea0b3efc85b8b76c92d6cae919",
@@ -13449,7 +13474,9 @@
     "priority": 5,
     "first_seen": "2026-08-13T22:20:02.394489-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "1011265a4b89637948fcd82fd4ce00a9": {
     "id": "1011265a4b89637948fcd82fd4ce00a9",
@@ -13467,7 +13494,8 @@
     "priority": 5,
     "first_seen": "2026-08-14T01:09:59.147455-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00"
   },
   "53bdcb63aa6d218c2d8314b5fadcfe60": {
     "id": "53bdcb63aa6d218c2d8314b5fadcfe60",
@@ -13486,7 +13514,9 @@
     "priority": 5,
     "first_seen": "2026-08-14T02:20:33.972379-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "c289f7b03412d1ab4bea4a1773816224": {
     "id": "c289f7b03412d1ab4bea4a1773816224",
@@ -13505,7 +13535,9 @@
     "priority": 3,
     "first_seen": "2026-08-14T02:20:35.584889-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "707cc6acaee048dd362cc9f98a8dcdbf": {
     "id": "707cc6acaee048dd362cc9f98a8dcdbf",
@@ -13523,7 +13555,9 @@
     "priority": 5,
     "first_seen": "2026-08-14T03:32:43.699178-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "970b839d760e8bfe6cac7d8f6080c206": {
     "id": "970b839d760e8bfe6cac7d8f6080c206",
@@ -13541,7 +13575,9 @@
     "priority": 4,
     "first_seen": "2026-08-14T03:32:45.320746-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "0b1c6216295b16343b85f7e87188f009": {
     "id": "0b1c6216295b16343b85f7e87188f009",
@@ -13559,7 +13595,9 @@
     "priority": 5,
     "first_seen": "2026-08-14T09:31:50.585989-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "ffcf496ad3b30d50a21d4b85e70e163a": {
     "id": "ffcf496ad3b30d50a21d4b85e70e163a",
@@ -13577,7 +13615,9 @@
     "priority": 5,
     "first_seen": "2026-08-14T09:31:52.181638-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "1d921be7bfe0e25e6765d48f1fe96327": {
     "id": "1d921be7bfe0e25e6765d48f1fe96327",
@@ -13595,7 +13635,9 @@
     "priority": 3,
     "first_seen": "2026-08-14T09:31:54.086482-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "22e16d73b26c44481649f7bd57a34ae9": {
     "id": "22e16d73b26c44481649f7bd57a34ae9",
@@ -13613,7 +13655,9 @@
     "priority": 5,
     "first_seen": "2026-08-14T10:37:15.536775-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "d4c19212080d671d7936e008ae7465b1": {
     "id": "d4c19212080d671d7936e008ae7465b1",
@@ -13631,7 +13675,9 @@
     "priority": 1,
     "first_seen": "2026-08-14T11:32:08.544335-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 0
   },
   "69131fbcdcc6f3785364cfca033927c1": {
     "id": "69131fbcdcc6f3785364cfca033927c1",
@@ -13649,7 +13695,9 @@
     "priority": 5,
     "first_seen": "2026-08-14T13:47:13.681803-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T02:15:57.075791-07:00",
+    "dead_strikes": 1
   },
   "8419fa62e5961d9e29fe97b2fe637559": {
     "id": "8419fa62e5961d9e29fe97b2fe637559",
@@ -14063,7 +14111,8 @@
     "priority": 5,
     "first_seen": "2026-08-16T21:25:07.846538-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "ae905cc52712db0c0815f396778be8ab": {
     "id": "ae905cc52712db0c0815f396778be8ab",
@@ -14081,7 +14130,8 @@
     "priority": 5,
     "first_seen": "2026-08-17T03:56:51.245459-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "You\u2019ll work closely with engineering and product to make the most important decisions. If you\u2019ve ever thought about how traders read a screen under pressure and want to create the product layer that makes speed tangible, this could be the right fit for you.\nWhat You\u2019ll Do\nDesign for JTX across web and mobile, including order entry, market data, charts, positions, execution visibility, onboarding, and wallet flows.\nTake features from defining the problem through UX and final UI.\nOwn and improve the design system and token library that our engineers use.\nHelp with marketing design when needed, like landing pages, social assets, and launch materials.\nJump in on design work for other Jito products when the team needs extra help.\nRelease, observe real usage, and keep improving.\nRequirements\nStrong product sense: you can explain why a decision is right, not just that it looks good.\nYou can spot issues with hierarchy and clarity on a busy screen and explain what\u2019s causing them.\nYou\u2019re comfortable working across research, UX, and UI, just like any early-stage product designer needs to.\nYou can work independently and bring the team in on important decisions, but not every single one.\nYou\u2019re a true collaborator who communicates proactively and works well with engineering and product.\nYou\u2019re comfortable giving direct feedback on others\u2019 work and receiving it on your own. Here, critique is quick and specific, never personal.\nYou\u2019re fluent in Figma and comfortable working directly with token-based design systems.\nExperience designing consumer (B2C) crypto or fintech products, or hands-on experience as a trader.\nTrading terminals, exchange or brokerage products.\nData-dense or real-time interfaces, such as dashboards, analytics, or live data visualization.\nSelf-custodial wallets, Solana or EVM products.\nExperience building or maintaining a token-based design system.\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\nC Product Designer at CodeRabbit S Founding Product Designer at Slash C Founding Product Designer at Clera P Senior Product Designer at Pointr G Staff Product Designer at Gray Swan AI\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nApply for this job Please let Jito Foundation know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "47e0b9b3c188acc3ad41de7e54071510": {
     "id": "47e0b9b3c188acc3ad41de7e54071510",
@@ -14099,7 +14149,8 @@
     "priority": 4,
     "first_seen": "2026-08-17T03:56:52.792803-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "About the Role\nWe're seeking a User Experience Designer, Specialist to design intuitive digital applications that support Financial Advisors in delivering financial planning and coaching experiences for their clients.\nIn this role, you'll partner closely with UX Strategists, Product Managers, Engineers, and business stakeholders to transform customer insights and business goals into seamless digital experiences. You'll focus on designing advisor-facing software applications, helping simplify sophisticated financial workflows while improving usability and advisor efficiency.\nDesign end-to-end experiences for advisor-facing applications and digital products.\nTranslate UX strategy, business requirements, and user needs into intuitive workflows and user interfaces.\nCreate wireframes, user flows, prototypes, and high-fidelity designs using Figma.\nPartner with UX Strategists to bring customer-centered experience strategies to life.\nCollaborate with Product, Engineering, Analytics, and business teams throughout the product lifecycle.\nLeverage user research, customer feedback, and analytics to drive design decisions.\nPresent design recommendations and concepts to stakeholders and leadership.\nContribute to design standards, best practices, and continuous improvement initiatives.\nMentor junior designers and participate in design reviews.\nRequired Qualifications\n5+ years of UX, Product Design, or UI/UX experience.\nExperience designing software applications or digital products.\nStrong understanding of user-centered design, interaction design, and information architecture.\nExperience partnering with cross-functional teams including Product and Engineering.\nStrong communication, presentation, and stakeholder management skills.\nBachelor's degree or equivalent combination of education and experience.\nPreferred Qualifications\nExperience designing B2B or B2B2C software products.\nExperience supporting financial services, fintech, wealth management, or advisor technology platforms.\nExperience designing applications that support complex workflows and power users.\nExperience partnering with UX Strategists and Researchers.\nCuriosity and interest in AI-driven design tools, agents, and emerging technologies.\nExperience incorporating AI capabilities into product experiences or design workflows.\nExperience using customer insights, analytics, and usability testing to inform design decisions.\nVanguard is not offering visa sponsorship for this position. About Vanguard\nAt Vanguard, we don't just have a mission\u2014we're on a mission.\nTo work for the long-term financial wellbeing of our clients. To lead through product and services that transform our clients' lives. To learn and develop our skills as individuals and as a team. From Malvern to Melbourne, our mission drives us forward and inspires us to be our best.\nVanguard has implemented a hybrid working model for the majority of our crew members, designed to capture the benefits of enhanced flexibility while enabling in-person learning, collaboration, and connection. We believe our mission-driven and highly collaborative culture is a critical enabler to support long-term client outcomes and enrich the employee experience.\nS UX Designer at Sand Cherry Associates C Senior UX Strategist at Clear Digital M UX Designer at Mightier F Senior UX Designer at Flexstaf IT F UX Designer at FPT Asia Pacific\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUX Design Salary Guide UX Design Salary in United States UX Design Salary in Pennsylvania\nApply for this job Please let Vanguard know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nRelated Jobs See more jobs from United States\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "06f21bb7873e71a5fdabe7640a80b3d4": {
     "id": "06f21bb7873e71a5fdabe7640a80b3d4",
@@ -14117,7 +14168,8 @@
     "priority": 5,
     "first_seen": "2026-08-17T03:56:54.695009-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "The gap we're filling is creative energy. We're looking for someone who stretches us visually with fresh, imaginative ideas and a consumer sensibility that makes B2B software feel alive. You'll work alongside a product leader, an engineering leader, and another designer who leads the Insights BU, while collaborating with designers and engineers across the company.\nWhat you'll do\nDesign AI-powered culture intelligence products from scratch: collaboration maps, engagement spotlights, organizational health dashboards. The UI has to earn trust\nShape product strategy with your product and engineering partners. You won't wait for specs. You'll help figure out what to build and why\nLead end-to-end design: research, flows, prototypes, high-fidelity visuals, and close collaboration with engineers through implementation\nBring a visual point of view. Push the craft through motion, illustration, layout, and thoughtful detail\nShip fast in ambiguity. Sometimes you lead with a concept, sometimes you refine an engineer's first pass. Designers here are partners from the first commit\nExperiment with how Bizy shows up across the experience, from conversational interfaces to proactive insights that feel helpful, not intrusive\nAI is changing what it means to be a designer. What the tools can't do is decide what's worth building, what feels right, and what will make someone pause. That's taste, and it's what we value most. We use AI tools daily and want someone with the judgment to know where they help and where they don't.\nHave 5+ years of product design experience with a portfolio that shows range across UX thinking, visual craft, and interaction design\nHave a creative streak beyond clean UI: illustration, motion, brand work, or side projects that show visual imagination\nCan take complex, data-rich problems and make them feel simple and intuitive. Not by hiding complexity, but by designing through it\nHave experience designing 0-to-1 products, especially in AI-powered environments where you had to invent the interface\nBring a consumer sensibility to B2B. You know what makes software feel good to use, not just functional\nHave strong communication skills. You can make the case for a direction and bring people along\nAre curious about AI as both a product space and a set of tools reshaping how you work\nExperience with data visualization, analytics products, or culture/HR tech\nComfort prototyping in code (HTML/CSS/JS, React) or a genuine desire to learn. Our stack makes it easy\nExperience designing conversational or AI-native interfaces\nWill I have a design manager who knows design?\nYes. You'll report to the VP of Product & Design, who has a design background and leads our product design and marketing team. Design leadership here isn't an afterthought. It's how decisions get made.\nYes. But we sell culture for a living, so we're our own best example: weekly creative warm ups, a design guild that brings product and marketing designers together, regular play sessions, and intentional team travel.\nC Product Designer at CodeRabbit S Founding Product Designer at Slash C Founding Product Designer at Clera P Senior Product Designer at Pointr G Staff Product Designer at Gray Swan AI\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nProduct Design Salary Guide Product Design Salary in United States\nApply for this job Please let Bonusly know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nGray Swan AI is hiring Staff Product Designer\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "aa3285530d90b4247744911d57872ccf": {
     "id": "aa3285530d90b4247744911d57872ccf",
@@ -14135,7 +14187,8 @@
     "priority": 5,
     "first_seen": "2026-08-17T03:56:56.426093-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "paddy is building the agentic operating system for teaching and learning.\nBorn out of our own experience in schools, our team is developing an AI platform deeply embedded in day-to-day teaching, from lesson preparation and delivery to analysis. Today, thousands of teachers and tens of thousands of students use paddy every day.\nOur mission: to meaningfully reduce teachers\u2019 workload while improving teaching quality, so students are better prepared for the future.\nBacked by strong investors such as HTGF , we are growing fast with the goal of making paddy the leading AI platform for schools in Europe.\nAs our Founding Product Designer, you will own product design across paddy and work directly with our CPO, CTO and Product Engineers.\nOwn product design from research and UX to UI, prototypes and shipped experience\nDesign and launch high-quality features with our CPO and Product Engineers, without traditional handoffs\nTurn complex AI workflows into intuitive products for teachers and students\nUse research, product data and experiments to validate decisions\nWork AI-native and use whatever tools get you to a realistic prototype fastest, ideally in code\n5+ years of product design experience, ideally in a fast-paced tech environment\nExceptional UX and UI craft, strong product judgment and a portfolio of shipped products\nExperience designing complex SaaS or AI products across complete user journeys\nA hands-on mindset, able to go from an ambiguous problem to detailed execution\nExcellent communication skills, fluent German and strong English\nPassion for understanding users and solving real problems through product design\nExperience working at a high-growth, venture-backed startup\nExperience with React, SQL or backend systems\nPrevious experience building AI-driven or EdTech products\nOwn the product experience in a founding role\nReceive competitive compensation and meaningful VSOP participation\nGet 30 vacation days and \u20ac50 in monthly tax-free benefits\nGrow with a personal learning budget and coaching\nGet dinner and travel home covered when working late\nWork fully remote, with the option to use our modern office in Bielefeld\nJoin one of Europe\u2019s best-funded early-stage B2G EdTech startups, backed by HTGF and experienced education and technology investors\nWe\u2019d love to hear from you and get to know you. Show us the problems you\u2019ve solved, the decisions you\u2019ve made and the products you\u2019ve shipped.\nWhen schedules align, our entire process can take as little as five days.\nCPO call and case study (D1): Meet our CPO and receive the case study directly afterwards\nCase study pitch (D4): Present your work and walk us through your approach\nCulture fit call with our CEO (D4): This can happen directly after your case study pitch\nFinal team call (D5): Meet the people you\u2019ll work with\nDecision (D5): Receive our final decision on the same day\nC Product Designer at CodeRabbit S Founding Product Designer at Slash C Founding Product Designer at Clera P Senior Product Designer at Pointr G Staff Product Designer at Gray Swan AI\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nProduct Design Salary Guide Product Design Salary in Germany\nApply for this job Please let paddy know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "83e66f323f8f2a9b4b6c7188be335c89": {
     "id": "83e66f323f8f2a9b4b6c7188be335c89",
@@ -14153,7 +14206,8 @@
     "priority": 4,
     "first_seen": "2026-08-17T03:56:58.157146-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Job Description Summary:\nAre you ready to jumpstart your career with a year-round internship at Tyson Foods? We are seeking driven and passionate interns to join our team and contribute to meaningful projects that drive our business forward. As an intern at Tyson Foods, you will gain hands-on experience, develop critical skills, and be part of a company that values innovation, sustainability, and excellence. This is your opportunity to experience entry level work at one of the world's largest food companies, work on impactful projects, and make a real difference!\n\u00b7 Embody Tyson Foods' RIGHT Behaviors (Respect, Integrity, Growth, Humility, and Teamwork).\n\u00b7 Contribute to impactful projects and work that develop critical skills and provide valuable insights.\n\u00b7 Communicate with and support cross-functional leaders to execute real world work, in a fast paced and dynamic environment.\n\u00b7 Support Tyson's AI Enablement efforts, including research on emerging AI tools and use cases, documentation of best practices, and assistance with governance, adoption, and training initiatives across the enterprise.\n\u00b7 Skill Development: Enhance your technical, analytical, and leadership skills through hands-on experience and project-based work.\n\u00b7 Competitive Pay: Receive competitive compensation.\n\u00b7 Networking Opportunities: Connect with professionals across various departments and gain insights from multiple business units.\n\u00b7 Focus on Sustainability: Be part of a company committed to responsible business practices and making a positive impact on the world.\n\u00b7 Participation in Company events and initiatives: Engage in company events and initiatives that foster learning and development.\nOur goal is to convert top performing interns into full-time team members post-graduation, fully equipped with the tools and experiences needed to succeed. Join Tyson Foods and be\npart of a team dedicated to innovation, sustainability, and excellence. Our internship program provides a robust foundation for a successful career in the food industry and beyond. Ready to shape the future of food? Apply now!\nREQUIREMENTS:\n\u00b7 Education: Incoming junior, senior, or higher education with at least one semester of school remaining. Degree in Information Systems preferred; User Experience (UX) a nice to have.\n\u00b7 Experience: Previous work experience in any field is preferred. Work experience within the internship discipline is strongly preferred but not required.\n\u00b7 Computer Skills: Strong computer skills with a working knowledge of Excel, familiarity with Access, Word, and PowerPoint.\n\u00b7 UX Research Skills (Nice to have): Ability to perform research with users to support AI Enablement efforts.\n\u00b7 Special Skills: Ability to multitask, motivated self-starter, and collaborative.\n\u00b7 Work Hours: Must be able to work up to 20 hours throughout the school year as classes allow. This is an in-office position.\n\u00b7 Application Requirements: Resume must state your expected graduation date and your area of study.\n\u00b7 Location: Students must be within commutable distance to the facility, which is 60 miles or less.\n1ST SHIFT (Statele Unite) Certain roles at Tyson require background checks. If you are offered a position that requires a background check you will be provided additional documentation to complete once an offer has been extended.\nHourly Applicants ONLY -You must complete the task after submitting your application to provide additional information to be considered for employment.\nThe successful candidate(s) must be willing and able to perform the physical requirements of the job with or without a reasonable accommodation.\nTyson is an Equal Opportunity Employer. All qualified applicants will be considered without regard to race, national origin, color, religion, age, genetics, sex, sexual orientation, gender identity, disability or veteran status.\nWe provide our team members and their families with paid time off; 401(k) plans; affordable health, life, dental, vision and prescription drug benefits;"
   },
   "50cfd7a8739f596f814947bed991b407": {
     "id": "50cfd7a8739f596f814947bed991b407",
@@ -14171,7 +14225,8 @@
     "priority": 3,
     "first_seen": "2026-08-17T03:56:59.872723-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Access to benefits, including Healthcare, Dental, and Vision\nTeam Happy camaraderie\u2014celebrating wins, learning from challenges, and fostering continuous career growth\nA workplace culture where you can be yourself, contribute meaningfully, and be valued for your impact\n$85,000-105,000 - This range includes base salary and bonuses and represents the total compensation range.\nBig Happy is a high-growth company that combines the next generation of DOOH + mobile focused creative with publisher media to create an interaction across publisher web pages that wows the modern-day consumer and drives brand outcomes. As the leader in highly engaging 2D and 3D DOOH and mobile ad creatives, Fortune 500 brand partners are constantly tapping into our end-to-end mobile targeting and creative platforms to reach their audiences on the go in the physical word, or at home - wherever they may be.\nS UX Designer at Sand Cherry Associates C Senior UX Strategist at Clear Digital M UX Designer at Mightier F Senior UX Designer at Flexstaf IT F UX Designer at FPT Asia Pacific\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUX Design Salary Guide UX Design Salary in United States UX Design Salary in New York City\nApply for this job Please let Big Happy know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nRelated Jobs See more jobs from United States\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "3e0c1f0a946bd82c72c4ce1dda87596a": {
     "id": "3e0c1f0a946bd82c72c4ce1dda87596a",
@@ -14189,7 +14244,8 @@
     "priority": 4,
     "first_seen": "2026-08-17T03:57:01.606136-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "PrecisionLender is Q2's relationship pricing and profitability platform trusted by commercial banks and financial institutions to win better deals, grow profitable relationships, and make smarter decisions at the point of negotiation. Our platform combines real-time pricing intelligence, market benchmarking, and AI-assisted guidance to help bankers structure deals that are good for their customers and good for their institution.\nWhat You'll Do Here\nAs a Product Designer, you'll be part of the Product team, working closely with software engineers, product managers, and product owners. You'll use your expert knowledge of design and user research to find meaningful ways to improve our product and processes.\nYou'll be empowered to listen to our clients' needs and act on them. Our Product Designers own the end-to-end user experience, including wireframing, feature definition, designing mockups, usability testing, user research, and advocating for a high-quality, accessible product.\nThe users you'll design for are commercial bankers, relationship managers, administrators, and banking leadership \u2014 professionals who work in high-stakes, fast-moving environments where every workflow decision has real business impact. Understanding their world, their constraints, and what it means to win a deal is core to doing this job well.\nYou'll be instrumental in shaping the direction of the design team \u2014 providing meaningful feedback on designs, thinking about the future of design at Q2, collaborating across the product organization, and contributing to strategy, goals, and roadmap conversations.\nWhat People Say About You\nYou have stellar written and verbal communication skills, and a gift for explaining complicated things simply. You're driven and persistent \u2014 you find ways to make processes better, and then you make it happen. Your scrappiness makes you a natural problem solver who doesn't give up when the answers aren't obvious. You have a bias toward action and never walk by a mess without cleaning it up.\nIf you like diving into complex business requirements to build simple, intuitive workflows \u2014 and working with industry experts in finance and software to build a diverse suite of tools \u2014 we think you'll find a great home at PrecisionLender. You'll have the resources and the space to continually hone your craft and grow your impact.\nBring Your Passion, Do What You Love. Here\u2019s What We\u2019re Looking For:\nYou may already have experience working in the financial industry\u202for for a software company, or you may not; what\u2019s most important is your enthusiasm to learn. To be successful in this role, you\u2019ll need to be empathetic, resourceful, and humble.\nTypically requires a Bachelor\u2019s degree, preferably in a related field to Design, and a minimum of 2 years of related experience; or an advanced degree without experience; or equivalent work experience\nExperience with\u202faccessibility, \u202fcomplex enterprise workflows,\u202f design systems, and designing for desktop applications\nStrong foundation in prototyping, wireframing, presenting your work\u202fand collaboration\nStrong foundation in usability best practices and user research\nKnowledge of Figma, Sketch, InVision , Adobe XD,\u202for similar design tools\nA portfolio of work that shows you were directly responsible for the success of high impact projects and initiatives that benefited end-users\nThis position requires fluent written and oral communication in English.\nApplicants must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.\nHealth & Wellness Benefits, including competitive health insurance offerings and generous paid parental leave for eligible new parents\nCommunity Volunteering & Company Philanthropy Programs\nEmployee Peer Recognition Programs \u2013 \u201cYou Earned it\u201d\nClick here to find out more about the benefits we offer.\nWe\u2019re proud to foster a supportive, inclusive environment where career growth, collaboration, and wellness are priori"
   },
   "020fdc4ad8575ffa89238edc590fa477": {
     "id": "020fdc4ad8575ffa89238edc590fa477",
@@ -14207,7 +14263,8 @@
     "priority": 4,
     "first_seen": "2026-08-17T03:57:03.323480-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "At WGU, it is not typical for an individual to be hired at or near the top of the range for their position, and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is:\nGrade: Professional 310Pay Range: $91,000.00 - $136,400.00 Job Description\nThe UX/UI Designer interfaces with product managers, business leaders, and internal clients to deliver an engaging user experience and products. Innovation, design, and functionality are key components to the success of this role. WGU is seeking a talented UX/UI Designer to create intuitive, engaging, and visually compelling digital experiences across web and mobile applications. In this role, you will partner with stakeholders, developers, and cross-functional teams to transform business requirements into user-centered designs that improve usability, accessibility, and customer satisfaction. You will help shape design standards, create reusable design assets, and contribute to products used across multiple lines of business.\nWhat You'll Do\nCreate visually impressive UX and UI designs for desktop, responsive web, and mobile applications.\nDrive and apply user-centered design processes throughout the product lifecycle.\nResearch and understand user needs to create intuitive and effective experiences.\nRapidly develop wireframes, mockups, prototypes, and proof-of-concepts that align with business goals.\nBuild reusable design patterns and finished screens that can be leveraged across multiple products and business areas.\nLead or participate in brainstorming sessions and stakeholder discussions to gather and refine requirements.\nPartner with developers to ensure the technical feasibility, performance, and quality of design solutions.\nIn-depth understanding of UX and UI design principles.\nUnderstanding of HTML 4/5 and CSS 2/3 across browsers and screen resolutions.\nExpertise in visual graphic design and proficiency with Adobe Creative Suite.\nMastery of color theory, typography, layout and composition, grid systems, and animation/transitions.\nStrong understanding of data visualization and data representation.\nProven ability to conceptually design multi-product UI frameworks.\nAbility to contribute to high performance and highly available web application experiences.\nExcellent verbal and written communication skills with the ability to follow oral, written, and verbal instructions in English.\nStrong attention to detail with a sense of ownership and pride in product quality.\nProficiency in design tools such as Sketch, Photoshop, Illustrator, InVision, and similar platforms.\nOutstanding design portfolio demonstrating strong UX and UI design capabilities.\nExperience designing user interfaces for high performance, high availability web and mobile applications.\nExperience designing user interfaces for enterprise-scale products.\nStrong portfolio demonstrating excellence in both design quality and functionality.\nExperience presenting design concepts, prototypes, and user-centered solutions to stakeholders and customers.\nAn equivalent combination of education and experience that demonstrates the required knowledge, skills, and abilities may be considered.\nAt WGU, our mission drives everything we do, including how we hire. Our interview experience is designed to give qualified candidates the opportunity to show their best work through meaningful conversations and collaboration.\nWe thoughtfully review every application and invite forward the candidates whose experience and potential best align with the role and our mission.\nThis is a full-time, in-office position requiring five days per week in our Salt Lake City, Utah office, designed to foster the collaboration and connection that fuel our best work.\nWhile we welcome applicants from all backgrounds, WGU is not able to provide visa sponsorship for this role.\nThis position requires occasional travel of up to 20%, including required attendance at designated company summits (typically one "
   },
   "3843897aa705d2fd641bfbb8350bc0db": {
     "id": "3843897aa705d2fd641bfbb8350bc0db",
@@ -14225,7 +14282,8 @@
     "priority": 5,
     "first_seen": "2026-08-17T03:57:05.054596-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Lisk is building a new kind of financial platform for businesses - one that brings the best of crypto infrastructure into an experience that feels modern, simple, and built for how teams actually operate. We're replacing fragmented corporate financial tooling with a single workspace across web and mobile.\nWe're looking for a Product Designer to own the design of meaningful parts of the Lisk product end-to-end - from research and problem framing through flows, high-fidelity UI, launch, and iteration. You'll work across our core surfaces and partner closely with product, engineering, sales, and marketing to ship.\nThis isn't a role where you inherit a mature design system and polish screens. We're early-stage, which means a lot of customer research still to do - you'll spend real time with users, validate patterns in the open, and turn those learnings into design direction. You'll define foundational UX patterns from first principles, design around a stack with deep third-party integrations, and make calls that shape how businesses move money globally.\nOwn design areas end-to-end: discovery, problem framing, flows, prototypes, high-fidelity UI, launch, and iteration\nBuild and maintain the design system - components, patterns, and guidelines that scale across web and mobile\nDesign complex financial workflows end-to-end, including the states and edge cases most teams skip\nMake tight scope and tradeoff calls in close partnership with product and engineering\nDesign within the capability boundaries of our integration partners, and push back where the experience demands it\nRun customer research end-to-end - interviews, usability testing, prototype testing - and turn what you learn into design direction\nDefine what good looks like for the areas you own and hold the bar on craft\nContribute to product strategy and help shape what gets built next\n5+ years of product design experience, with meaningful time spent on complex, multi-surface products (web + mobile)\nProven fintech experience - you've shipped financial products at depth\nStrong portfolio showing end-to-end work on complex products, not just finished visuals (required with application)\nExperience building or significantly contributing to a design system\nComfort with technically deep product surfaces and heavy third-party integration work\nStrong systems thinking - you design in patterns, states, and components, not just happy paths\nSharp judgment on scope, sequencing, and what's actually worth building\nExcellent written communication for a remote, async-first team\nAbility to work within European timezone and working hours\nMotion design, animation, or illustration - craft that goes beyond static UI\nExperience designing data-heavy interfaces like dashboards, tables, and charts\nHands-on experience with AI prototyping tools - you enjoy turning an idea into something people can click through\nWe're a remote-first team spread across the world. Working across time zones pushes us to communicate clearly, keep context open, and move quickly without unnecessary friction. Our working hours center around European time zones. We trust people to take ownership, make decisions, and deliver outcomes - while staying aligned through a mix of real-time teamwork and async communication.\nFlexible work schedule so you can balance life and work on your terms\nAnnual team retreats in amazing locations - not corporate offsites, but trips you'll actually look forward to\nYou'll be building at the frontier of business finance. That means no playbooks, no best practices, no old ways of doing things. You'll own design from the ground up and help define how businesses interact with money. If you want massive upside and the chance to help create a category that reshapes global finance, this is the place to be.\nC Product Designer at CodeRabbit S Founding Product Designer at Slash C Founding Product Designer at Clera P Senior Product Designer at Pointr G Staff Product Designer at Gray Swan AI\nUI/UX designer jobs Produ"
   },
   "58a3cf51d227273c3ac291c5099a731e": {
     "id": "58a3cf51d227273c3ac291c5099a731e",
@@ -14243,7 +14301,8 @@
     "priority": 5,
     "first_seen": "2026-08-17T03:57:06.768401-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "We are FIS. Our technology powers the world\u2019s economy and our teams bring innovation to life. We champion diversity to deliver the best products and solutions for our colleagues, clients and communities. If you\u2019re ready to start learning, growing and making an impact with a career in fintech, we\u2019d like to know: Are you FIS?\nAbout the Role\nYou will support the optimization of supply chain business processes by creating user-friendly digital experiences, intuitive interfaces, and engaging communication assets that drive adoption and user satisfaction. Working across operational transformation initiatives, you will help modernize supply chain operations through UX design, process improvement, and multimedia storytelling. By developing impactful presentations, product explainer videos, and visual communications, you will enable greater visibility, collaboration, and data-driven decision-making across the organization. Success in this role is measured through enhanced user engagement, streamlined processes, improved operational efficiency, and the successful adoption of digital solutions that support the future of Supply Chain at FIS.\nThe position will be fully remote, with occasional travel to the office as needed. In-person outings will be organized for the co-op students during the term and attendance is encouraged.\nThe position is available is an 8-month co-op placement.\nDesign intuitive user interfaces that improve usability, accessibility, and user adoption of digital solutions\nCreate wireframes, prototypes, workflow diagrams, and process maps to support business process optimization\nCollaborate with stakeholders to gather requirements and translate business needs into user-centered designs\nEvaluate user journeys and identify opportunities to improve operational efficiency and customer experience\nDevelop management reporting and performance measures that support process improvement initiatives\nProduce product marketing videos, tutorials, and multimedia content that communicate product value effectively\nCreate visual assets, including infographics, presentation graphics, and digital communications materials\nSupport scriptwriting, storyboarding, editing, voiceover production, and post-production activities\nMaintain digital assets and content libraries while ensuring consistency with brand standards\nPresent concepts, prototypes, and recommendations to project teams and business stakeholders\nRequired Qualifications\nCurrently enrolled in a bachelor\u2019s degree program in User Experience Design, Business, Marketing, Media Production, Communications, or a related field\nDemonstrated understanding of UX design principles and user-centered design methodologies\nPortfolio showcasing UX, graphic design, multimedia, video production, or related creative projects\nExperience using design tools such as Figma, Adobe XD, or similar platforms\nExperience using video editing tools such as Adobe Premiere Pro, After Effects, DaVinci Resolve, Final Cut Pro, or equivalent\nStrong visual communication, storytelling, and content creation skills\nAbility to analyze processes, identify improvement opportunities, and communicate findings clearly\nProficiency with Microsoft Office applications, including PowerPoint, Excel, and Word\nStrong collaboration, presentation, and stakeholder communication skills\nSelf-motivated with strong attention to detail and a commitment to continuous learning\nPreferred Qualifications\nKnowledge of design systems, accessibility standards, and responsive design principles\nExperience creating explainer videos, instructional content, or digital learning materials\nFamiliarity with process improvement, workflow optimization, or business analysis concepts\nUnderstanding of product marketing and digital engagement strategies\nExperience developing dashboards, reporting solutions, or performance metrics\nExposure to financial services, technology, supply chain, or enterprise software environments\nAt FIS, you can learn, grow and make an impact in "
   },
   "442779325b0e4fd30ebf3081cc2769b0": {
     "id": "442779325b0e4fd30ebf3081cc2769b0",
@@ -14262,7 +14321,7 @@
     "first_seen": "2026-08-17T06:25:53.888208-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "92b76cb7e0b27813d43e6743ae71d696": {
     "id": "92b76cb7e0b27813d43e6743ae71d696",
@@ -14300,7 +14359,7 @@
     "first_seen": "2026-08-17T07:34:11.181965-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "25b06f176796d76e4de839d6efe437b1": {
     "id": "25b06f176796d76e4de839d6efe437b1",
@@ -14319,7 +14378,7 @@
     "first_seen": "2026-08-17T19:41:53.741874-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "e2a88830280aed26949ee733f4c23f93": {
     "id": "e2a88830280aed26949ee733f4c23f93",
@@ -14414,7 +14473,7 @@
     "first_seen": "2026-08-18T12:07:53.175387-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "6b94da17400266cac5ce4b7a547960c2": {
     "id": "6b94da17400266cac5ce4b7a547960c2",
@@ -14452,7 +14511,7 @@
     "first_seen": "2026-08-18T18:35:20.328460-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "c15650101174067f046cebcc1f838ea7": {
     "id": "c15650101174067f046cebcc1f838ea7",
@@ -14471,7 +14530,7 @@
     "first_seen": "2026-08-18T21:10:22.945766-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "eac80ffc2348dcf998b4cac8f0b774fb": {
     "id": "eac80ffc2348dcf998b4cac8f0b774fb",
@@ -14490,7 +14549,7 @@
     "first_seen": "2026-08-18T21:10:24.585455-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "9e9bb46f713f8b6ec6bc497e573fa38c": {
     "id": "9e9bb46f713f8b6ec6bc497e573fa38c",
@@ -14509,7 +14568,7 @@
     "first_seen": "2026-08-18T22:24:04.733387-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "79e87cc75e786777fec851b78f9aaf9b": {
     "id": "79e87cc75e786777fec851b78f9aaf9b",
@@ -14718,7 +14777,7 @@
     "first_seen": "2026-08-20T11:58:38.935559-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "249b16f3104acd51972c5d4061f0041d": {
     "id": "249b16f3104acd51972c5d4061f0041d",

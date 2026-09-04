@@ -1,16 +1,212 @@
 [
   {
     "item": {
-      "company": "Hivebotics",
-      "amount": "$6.0M",
-      "stage": "Series A",
-      "investors": "Vertex Ventures&nbsp",
+      "company": "Ollie",
+      "amount": "$7.5M",
+      "stage": "Seed",
+      "investors": "Khosla, Khosla Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ollie-raises-7-5m-seed/",
+      "priority": 12
+    },
+    "remind_at": "2026-09-04T02:47:10.769003-07:00"
+  },
+  {
+    "item": {
+      "company": "Piney",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "Uni",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/piney-raises-1-6m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-04T02:47:13.744669-07:00"
+  },
+  {
+    "item": {
+      "company": "AKEDO",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/akedo-raises-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-04T02:47:16.701449-07:00"
+  },
+  {
+    "item": {
+      "company": "Oddpool",
+      "amount": "$3.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/oddpool-raises-3m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-04T02:47:26.508243-07:00"
+  },
+  {
+    "item": {
+      "company": "Zeit AI",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": "London",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/zeit-ai-raises-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-04T02:47:29.507132-07:00"
+  },
+  {
+    "item": {
+      "company": "Emberos",
+      "amount": "$5.5M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/emberos-raises-5-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-04T02:47:32.479177-07:00"
+  },
+  {
+    "item": {
+      "company": "Zeit AI",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYTVTVlhxSFdOSG1ZSE9lVFNmWmZJS2lOWVNCUXNpR3JzRDFKTm5JLU1aM3kxSHpwNTVsdFQzU1hsLUZZSkJIZi05ak5Yd3M1NnVkdDdfN2lVODdWTXRnS29hem82QjZiOEdIcFliOGd2MXczdGdidDJuWEl5NlphQkNTRU1iRE0zeDlvUWNZYmR3U05mQy1OOWVhQUtJMW1BcnFRcnU4WjU5dzlxc1ZLclUzQ3NTMjdMRnppdk9NZ0RYNE5QcVduTm13?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IVGI0Vm05NmpXUUVLOGdYYnVPanRiUVdub3FvN0YwSGVYUXJobzEzbEZIb2dTSm10aE1ac3VJNHRiT3drQ1NCRzRuNFFXUzBJSVhlSGhrVktVMkFlRHItSXdIQ1dIal80Z210dmhRQkszZmJTSm9wX25B?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-04T02:47:35.260088-07:00"
+  },
+  {
+    "item": {
+      "company": "iPremom",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05ZWZibUlac2xueWhZa0JtVzg1NVROR2dkT3hGb3o4MVRsNlFfa05xQ2hSLTBfZVlnaHJQdzd0SjRoT3BZaTNQdF9sT21FaDNfYUx3cGJWVDlFem5LM0hjT2M4YWNyczhrVU9VcG5kQ0ZtbzFHZW9WX09KTFg?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-04T02:47:38.516644-07:00"
+  },
+  {
+    "item": {
+      "company": "TakaHouse",
+      "amount": "$1.5M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVEhOMWgwemxhV1dnRmFHS2c0WEZGemJCUkVuOFZITG4zZmU5Y1FMX0hZaUxlMXdqQkdLQ3JRVktIOXEyUGxkNTdQb3ZyZDVfTzFWeGxzMWhBZXMyblFqTHR4dTRlRXlGZzR5Sk41UEZOdjRkTHlQaTdIVmlyXzBjRGoxRWFqR19Db0VtZW9RN3QzSjB2SE1pUDg5MTg0VC0wUkdqZXU3eG9PLU1G?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-04T02:47:41.345385-07:00"
+  },
+  {
+    "item": {
+      "company": "Helogen",
+      "amount": "$7.1M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iWU9JTWN6d25veHZiaW1DTlA0MFFJSVNza3RzN3lyOHdxWUlESFlNdVVMRW9rVmhXQjRoOGFQX1JoaE44d2dFT1ZNRDI1UFI5RGFQbGwwMnZtMkVkTHpjdlhKR29TN216dzQwcUFwbzhfbVhHa3BJYTYtTEE?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-04T02:47:44.261325-07:00"
+  },
+  {
+    "item": {
+      "company": "Nayla",
+      "amount": "$17.9M",
+      "stage": "Series A",
+      "investors": "Idrisi Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/nayla-raises-17-9m-pre-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-09-03T22:23:26.108098-07:00"
+    "remind_at": "2026-09-04T02:47:47.129340-07:00"
+  },
+  {
+    "item": {
+      "company": "Triver",
+      "amount": null,
+      "stage": "Series B",
+      "investors": "Calderwood Capital",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/triver-raises-8m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-09-04T02:47:50.377124-07:00"
+  },
+  {
+    "item": {
+      "company": "PatientIQ",
+      "amount": "$30.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/patientiq-raises-30m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-09-04T02:47:53.343675-07:00"
+  },
+  {
+    "item": {
+      "company": "Ultrahuman",
+      "amount": "$70.0M",
+      "stage": null,
+      "investors": "Qualcomm Ventures",
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/qualcomm-ventures-ultrahuman-70-million-ai-smart-ring/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-04T02:47:56.555833-07:00"
+  },
+  {
+    "item": {
+      "company": "Rabeh",
+      "amount": "$8.5M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/rabeh-raises-8-5m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-04T02:47:59.447938-07:00"
   }
 ]
