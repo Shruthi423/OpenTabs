@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "XDOF",
+      "amount": "$1.2B",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "priority": 7
+    },
+    "remind_at": "2026-09-04T17:09:12.419039-07:00"
+  },
+  {
+    "item": {
+      "company": "Mokobara Set",
+      "amount": null,
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckRQeDBGRnh1bzUzbE5MQjItaUlWUG83TFU2MVRCc3dDeDRMNExQTUE3aTdWTGtMOTdzRUVEVmdFamVCNVZWSTdmQmN3Q3FsYWhTNjFtQS1TVFFHMUFvLVZ0WTJEUWd6aWIyRThuaGxUY3ZLVFVvbE1JVFJoLWViRkRkbXVyU19hRGtjNElSMFZmancxcndpVXJxWkFyampwdm05UHBkbw?oc=5",
+      "priority": 6
+    },
+    "remind_at": "2026-09-04T17:09:21.086849-07:00"
+  }
+]

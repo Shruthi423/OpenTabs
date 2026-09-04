@@ -1,5 +1,35 @@
 [
   {
+    "id": "c80254ed0cdfe0a441272e45208abc93",
+    "company": "Mokobara Set",
+    "amount": "Undisclosed",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckRQeDBGRnh1bzUzbE5MQjItaUlWUG83TFU2MVRCc3dDeDRMNExQTUE3aTdWTGtMOTdzRUVEVmdFamVCNVZWSTdmQmN3Q3FsYWhTNjFtQS1TVFFHMUFvLVZ0WTJEUWd6aWIyRThuaGxUY3ZLVFVvbE1JVFJoLWViRkRkbXVyU19hRGtjNElSMFZmancxcndpVXJxWkFyampwdm05UHBkbw?oc=5",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-04T16:39:22.086969-07:00",
+    "status": "active"
+  },
+  {
+    "id": "612b994b075f34af8f30921992947785",
+    "company": "XDOF",
+    "amount": "$1.2B",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-04T16:39:13.419227-07:00",
+    "status": "active"
+  },
+  {
     "id": "3f49cd0c7d1991e2f9c038006ac82b25",
     "company": "Gimlet",
     "amount": "$3.0B",
@@ -11509,21 +11539,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-04T17:00:45.282026-07:00",
-    "status": "active"
-  },
-  {
-    "id": "56836171db89539cb0d7e762f45786ff",
-    "company": "SentinelOne",
-    "amount": "Undisclosed",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "Sequoia (news)",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWmhoUFFfV05qWE1FX1ZJRm9QeGVpWThiN1JzQ1pIclczREhRTm1DWmtKME9Pbnp2cmI5aldZRXN0dWRuc3FJdmpjV0h1a1FrV21RbXMzSmtQQWo5T2dyZjdJRVNXRkVjYUVOLUtuSTdTZ2c0d3lFRjNMd0YyNzByelBhNnlET2h1cTZ0Q2U4MmEyWEZXc0h3V2FuRnQtWHQzQjBwMnVEYkQxb0drR3I4?oc=5",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-04T15:57:40.363882-07:00",
     "status": "active"
   }
 ]
