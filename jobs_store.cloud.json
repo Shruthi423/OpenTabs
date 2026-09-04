@@ -12239,10 +12239,10 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-08-10T04:21:36.053012-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-09-03T17:24:53.644200-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 2
   },
   "751cfb2b5d1ddfeaec0fe55d51d1d94f": {
     "id": "751cfb2b5d1ddfeaec0fe55d51d1d94f",
@@ -12735,7 +12735,9 @@
     "priority": 5,
     "first_seen": "2026-08-11T03:33:08.530618-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "e41c76d34b3fa3addf4b4670b80486df": {
     "id": "e41c76d34b3fa3addf4b4670b80486df",
@@ -12753,7 +12755,9 @@
     "priority": 5,
     "first_seen": "2026-08-11T03:33:10.396634-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "188cb88872b703982c40af0b02417cfe": {
     "id": "188cb88872b703982c40af0b02417cfe",
@@ -12771,7 +12775,9 @@
     "priority": 4,
     "first_seen": "2026-08-11T03:33:12.214352-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "9f7ae3ea2fe3b2cb88564e0934dabc6c": {
     "id": "9f7ae3ea2fe3b2cb88564e0934dabc6c",
@@ -12789,7 +12795,9 @@
     "priority": 5,
     "first_seen": "2026-08-11T03:33:14.019497-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "6e0769049c5b85ce6f864ebc458c0fc1": {
     "id": "6e0769049c5b85ce6f864ebc458c0fc1",
@@ -12807,7 +12815,9 @@
     "priority": 5,
     "first_seen": "2026-08-11T03:33:15.853434-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "f6a99f88ffb9d77d0b30720c2c24afd5": {
     "id": "f6a99f88ffb9d77d0b30720c2c24afd5",
@@ -12825,7 +12835,8 @@
     "priority": 5,
     "first_seen": "2026-08-11T04:29:25.478126-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00"
   },
   "129921781dda21c9879f7435027542e6": {
     "id": "129921781dda21c9879f7435027542e6",
@@ -12843,7 +12854,9 @@
     "priority": 5,
     "first_seen": "2026-08-11T07:43:36.375657-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "8fb85f5cf717bd5378c61155e91a848b": {
     "id": "8fb85f5cf717bd5378c61155e91a848b",
@@ -12861,7 +12874,9 @@
     "priority": 1,
     "first_seen": "2026-08-11T10:39:38.039949-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "74b5da8f23711ef4dfdd18e367354d55": {
     "id": "74b5da8f23711ef4dfdd18e367354d55",
@@ -12879,7 +12894,9 @@
     "priority": 1,
     "first_seen": "2026-08-11T11:35:10.193298-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "1e489ed9174f195b354ea48b86982dfb": {
     "id": "1e489ed9174f195b354ea48b86982dfb",
@@ -12897,7 +12914,9 @@
     "priority": 5,
     "first_seen": "2026-08-11T16:01:44.549156-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "a9d2c6e79a969f01b0407e45e44dab5b": {
     "id": "a9d2c6e79a969f01b0407e45e44dab5b",
@@ -12915,7 +12934,9 @@
     "priority": 5,
     "first_seen": "2026-08-11T16:01:46.156501-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "af0d5d21a277556f5303a35c0172fe5f": {
     "id": "af0d5d21a277556f5303a35c0172fe5f",
@@ -12933,7 +12954,9 @@
     "priority": 5,
     "first_seen": "2026-08-11T16:58:43.193949-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "7c6844fc035a9085a4a06001702ced6d": {
     "id": "7c6844fc035a9085a4a06001702ced6d",
@@ -12951,7 +12974,8 @@
     "priority": 5,
     "first_seen": "2026-08-11T21:10:50.643146-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00"
   },
   "924c6938c9450102ae258369553251c5": {
     "id": "924c6938c9450102ae258369553251c5",
@@ -12969,7 +12993,9 @@
     "priority": 5,
     "first_seen": "2026-08-12T03:42:47.193975-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "c22461c8422af31b4cc6c923f79ce0d1": {
     "id": "c22461c8422af31b4cc6c923f79ce0d1",
@@ -12987,7 +13013,9 @@
     "priority": 3,
     "first_seen": "2026-08-12T03:42:48.929929-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "ec810b93ce124b2451a772e61ba28feb": {
     "id": "ec810b93ce124b2451a772e61ba28feb",
@@ -13005,7 +13033,9 @@
     "priority": 1,
     "first_seen": "2026-08-12T03:42:50.818311-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "424b096d776126d3a29cb20ca68fa35a": {
     "id": "424b096d776126d3a29cb20ca68fa35a",
@@ -13023,7 +13053,9 @@
     "priority": 1,
     "first_seen": "2026-08-12T03:42:52.639340-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "bc16b4ce52db9dc2d2101cbf08d7cc7f": {
     "id": "bc16b4ce52db9dc2d2101cbf08d7cc7f",
@@ -13041,7 +13073,9 @@
     "priority": 5,
     "first_seen": "2026-08-12T03:42:54.461591-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "ea51882f479f7612814c366bf283b914": {
     "id": "ea51882f479f7612814c366bf283b914",
@@ -13059,7 +13093,9 @@
     "priority": 5,
     "first_seen": "2026-08-12T03:42:56.351932-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "6ed575adf2b233c65e9f4b3064f5ee38": {
     "id": "6ed575adf2b233c65e9f4b3064f5ee38",
@@ -13077,7 +13113,8 @@
     "priority": 5,
     "first_seen": "2026-08-12T04:30:50.442924-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00"
   },
   "3ae991cf6cfba5b5fc570b7a5c7ccbe9": {
     "id": "3ae991cf6cfba5b5fc570b7a5c7ccbe9",
@@ -13095,7 +13132,9 @@
     "priority": 5,
     "first_seen": "2026-08-12T04:30:52.112911-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "1e4769aaf80a35330c93b41f05f02270": {
     "id": "1e4769aaf80a35330c93b41f05f02270",
@@ -13114,7 +13153,9 @@
     "priority": 3,
     "first_seen": "2026-08-12T09:52:58.719459-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "fdc2da0891487656dc2ac25df53cfdad": {
     "id": "fdc2da0891487656dc2ac25df53cfdad",
@@ -13132,7 +13173,9 @@
     "priority": 4,
     "first_seen": "2026-08-12T15:23:57.276171-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "91867ae94206ac02a2db43223dced355": {
     "id": "91867ae94206ac02a2db43223dced355",
@@ -13150,7 +13193,9 @@
     "priority": 5,
     "first_seen": "2026-08-12T22:30:00.222489-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T21:52:06.414474-07:00",
+    "dead_strikes": 0
   },
   "58ee1d3c09b584cccc5f808af580459e": {
     "id": "58ee1d3c09b584cccc5f808af580459e",
@@ -14216,7 +14261,8 @@
     "priority": 5,
     "first_seen": "2026-08-17T06:25:53.888208-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "92b76cb7e0b27813d43e6743ae71d696": {
     "id": "92b76cb7e0b27813d43e6743ae71d696",
@@ -14234,7 +14280,8 @@
     "priority": 5,
     "first_seen": "2026-08-17T07:00:29.447500-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "<p>sandan AI bringt K\u00fcnstliche Intelligenz in den deutschen Mittelstand \u2014 nicht als Folien, sondern als Systeme, die im Alltag laufen. Als Werkstudent:in im Design gestaltest du mit, wie sich unsere KI-Produkte, Interfaces und unser Auftritt anf\u00fchlen. Echte Projekte, kein Kaffeekochen ;)<br>100 % remote</p>\n<h2 id=\"aufgaben\">Aufgaben</h2>\n<ul>\n<li>UI-/UX-Konzepte und Screens f\u00fcr unsere KI-Produkte und Landingpages gestalten (Figma)</li>\n<li>Wireframes, Prototypen und Design-Varianten erstellen und iterieren</li>\n<li>Bestehende Interfaces verbessern: Usability, Struktur, Konsistenz</li>\n<li>Am Design-System und an UI-Komponenten mitarbeiten</li>\n<li>Eng mit Produkt, Entwicklung und Marketing zusammenarbeiten</li>\n</ul>\n<h2 id=\"qualifikation\">Qualifikation</h2>\n<ul>\n<li>An der Uni bis mindestens SS 2027 (Studium in Design, Interaktionsgestaltung, Medien o. \u00c4.)</li>\n<li>Sicher in Figma und ein gutes Grundverst\u00e4ndnis f\u00fcr UX-Prinzipien</li>\n<li>Ein Portfolio, das deinen Blick f\u00fcr gutes Interface-Design zeigt (Pflicht)</li>\n<li>Eigenst\u00e4ndige, sorgf\u00e4ltige Arbeitsweise</li>\n<li>Deutsch auf muttersprachlichem Niveau (C2), gutes Englisch</li>\n</ul>\n<h2 id=\"benefits\">Benefits</h2>\n<ul>\n<li>Faire Werkstudentenverg\u00fctung - je nach Erfahrung</li>\n<li>100 % remote, flexible Zeiten rund um deine Vorlesungen</li>\n<li>Echte Projekte mit Verantwortung \u2014 kein Kaffeekochen</li>\n<li>Voller Zugang zu den besten KI-Tools f\u00fcr deinen Workflow</li>\n<li>MacBook f\u00fcr deine Arbeit</li>\n<li>Lernen an der KI-Front</li>\n</ul>\n<p>Klingt nach dir? Dann zeig uns dein Portfolio. Wir freuen uns auf dich!</p>"
   },
   "0fe31310127bef5b2a0762a612452961": {
     "id": "0fe31310127bef5b2a0762a612452961",
@@ -14252,7 +14299,8 @@
     "priority": 5,
     "first_seen": "2026-08-17T07:34:11.181965-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "25b06f176796d76e4de839d6efe437b1": {
     "id": "25b06f176796d76e4de839d6efe437b1",
@@ -14270,7 +14318,8 @@
     "priority": 5,
     "first_seen": "2026-08-17T19:41:53.741874-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "e2a88830280aed26949ee733f4c23f93": {
     "id": "e2a88830280aed26949ee733f4c23f93",
@@ -14288,7 +14337,8 @@
     "priority": 1,
     "first_seen": "2026-08-17T23:32:56.968498-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Company Overview ITGOALS is a dynamic and innovative company committed to driving growth and delivering exceptional digital solutions. We foster a collaborative and inclusive work environment where creativity and technical excellence thrive.\nLocation New Cairo, Egypt (with international collaboration)\nJob Description Analysis of user needs and business requirements for mobile applications within MOAP Delivery scope.\nDesign of information architecture, user flows and interaction patterns for iOS and Android.\nCreation of wireframes, prototypes and high-fidelity UI designs in line with Client Flow, platform guidelines and accessibility requirements.\nFacilitation of UX/UI workshops with business stakeholders and, where applicable, end users; collection of feedback and iterative refinement of designs.\nPreparation and maintenance of design specifications and assets for development teams (design systems, component libraries, redlines).\nSupport for usability testing and evaluation of user feedback in order to improve new and existing applications and ensure consistent user-centred mobile experiences aligned with the Client brand.\nKey Responsibilities Analyze user needs and business requirements for mobile applications within the MOAP Delivery scope.\nDesign information architecture, user flows, and interaction patterns for iOS and Android experiences.\nCreate wireframes, clickable prototypes, and high-fidelity UI designs aligned with Client Flow, platform guidelines, and accessibility requirements.\nFacilitate UX/UI workshops with business stakeholders and, where applicable, end users to align on goals, constraints, and success criteria.\nCollect feedback, validate assumptions, and iteratively refine designs based on stakeholder input and user insights.\nPrepare and maintain design specifications and assets for development teams, including design systems, component libraries, and redlines/annotations.\nSupport usability testing activities and evaluate user feedback to improve new and existing applications.\nEnsure consistent, user-centered mobile experiences aligned with the Client brand across features and releases.\nCollaborate with developers to ensure design feasibility, clarify interactions, and support implementation quality.\nRequired Skills & Qualifications 0\u20135 years of experience in UX/UI design (including internships, freelance work, or academic projects).\nStrong understanding of UX fundamentals: user flows, information architecture, interaction design, and usability principles.\nAbility to produce wireframes, prototypes, and high-fidelity UI designs for mobile applications.\nWorking knowledge of iOS and Android design patterns and platform conventions.\nAwareness of accessibility principles and how to apply them in mobile UI design.\nExperience preparing clear handoff documentation (specs, redlines, assets) for engineering teams.\nStrong communication and facilitation skills to run or support workshops and present design rationale.\nAbility to incorporate feedback constructively and iterate quickly while maintaining design consistency.\nProficiency with common design tools (e.g., Figma, Sketch, Adobe XD, or similar).\nNice to Have Experience contributing to or maintaining a design system and reusable component library.\nExposure to usability testing methods (moderated/unmoderated), test planning, and synthesizing findings.\nBasic understanding of mobile development constraints and handoff best practices (responsive layouts, assets, states, edge cases).\nFamiliarity with analytics-informed design or measuring UX improvements through qualitative/quantitative signals.\nExperience working in Agile/Scrum delivery environments with cross-functional teams.\nWhat Success Looks Like Mobile user journeys are clear, intuitive, and aligned with both user needs and business goals.\nDesigns are consistent with Client Flow, brand standards, platform guidelines, and accessibility requirements.\nStakeholders and delivery teams are aligned through effective worksho"
   },
   "2025d1717440a4180c21dd1752901558": {
     "id": "2025d1717440a4180c21dd1752901558",
@@ -14306,7 +14356,8 @@
     "priority": 4,
     "first_seen": "2026-08-18T03:56:22.495610-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Job Description\nDesign and deliver high quality mockups, low and high-fidelity prototypes and final production visuals for various platforms (web, mobile, application).\nDemonstrate conceptual thinking, pixel perfect design and flawless delivery while meeting brand requirements.\nCollaborate with CEO to establish a design strategy for every design challenge.\nConcept several ideas with the ability to objectively filter and evolve the best ideas and drive the project through execution.\nManage multiple problem-solving tasks with little supervision.\nLead ideation sessions/design studios, design walkthroughs with development and other stakeholders.\nLead UX in all phases of the product development lifecycle, including product ideation and definition, design, user research and usability testing.\nPresent objectives, design approach, and creative solutions to stakeholders in an articulate and persuasive manner.\nCollaborate with developers in a SCRUM environment on a day-to-day basis.\nQualifications\nBachelor\u2019s degree in Design (e.g. interaction, graphic, visual communications, product, industrial), HCI, CS or a related field. Equivalent practical experience will be considered. High school diploma required.\nMinimum 3 years of progressing experience in the field of UX.\nExperience in concept ideation, design strategy, prototyping and crafting the visual interface.\nMastery of UX design and prototyping toolset (Illustrator, Photoshop, Sketch, Axure, Invision, Balsamiq, etc.) Bonus for experience in motion design or front-end coding.\nFluency in best practices for mobile and web-based UX and responsible design, with a deep and broad knowledge of usability principles and techniques. Experience with an agile development environment.\nAll your information will be kept confidential according to EEO guidelines.\nS UX Designer at Sand Cherry Associates C Senior UX Strategist at Clear Digital M UX Designer at Mightier F Senior UX Designer at Flexstaf IT F UX Designer at FPT Asia Pacific\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUX Design Salary Guide UX Design Salary in United States UX Design Salary in Massachusetts UX Design Salary in Boston\nApply for this job Please let AKAR ventures know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nRelated Jobs See more jobs from United States\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "ef8289c2b2abf12d61c0a14f5c88c40e": {
     "id": "ef8289c2b2abf12d61c0a14f5c88c40e",
@@ -14324,7 +14375,8 @@
     "priority": 5,
     "first_seen": "2026-08-18T03:56:23.962910-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "The construction industry is facing a severe labor shortage. The industry is at an inflection point where they must reimagine talent and modernize their people strategy. Bridgit is the category leader for workforce planning and working with the largest and most sophisticated US general contractors. Although we have continued to gain traction since launching in 2019, there is significant opportunity ahead as we continue to innovate and broaden our offering.\nWhat You Will Do Do\nAs a Product Designer at Bridgit, you will own the design experience across one or more product streams and work closely with product managers and engineering to conceive, define, and ship high-quality product experiences. You will play a central role in shaping the future of Bridgit and increasingly, how AI surfaces insights and takes action on behalf of our users.\nOwn end-to-end design for your product stream, from early-stage problem framing through detailed UI execution and post-launch iteration\nDesign AI-powered experiences thoughtfully including conversational interfaces, AI-generated insights and agent interactions that build trust and feel natural to construction users\nTranslate complex workflows and data-heavy domains into clear, intuitive interfaces that reduce cognitive load and drive meaningful action\nLead discovery and research activities including interviews, usability tests, workflow mapping, to develop a deep understanding of how construction professionals think, plan, and work\nCollaborate with product and engineering partners to shape product direction, contribute to roadmap decisions, iterate based on technical feasibility and monitor through execution\nBuild and contribute to a shared design system that ensures visual consistency and accelerates the team's velocity\nUse data and analytics to validate design decisions, identify friction points, and measure the impact of shipped experiences\nBecome a deep expert on Bridgit, understanding the data, workflows, and mental models that define our users' day-to-day\nRequirements\nWho you are\n3+ years of product design experience in a web-based SaaS environment, working within an agile team alongside engineers and product managers\nA compelling portfolio that demonstrates end-to-end design ownership \u2014 from research and problem framing through to polished, shipped UI\nProven experience with AI-powered products , you've shipped features where AI plays an active role and can speak confidently to the design challenges that come with it: setting user expectations, handling uncertainty gracefully, and keeping humans in control\nFluency with complex, data-dense products, you know how to take information-heavy workflows and make them feel clear, structured, and actionable\nA systems thinker who considers how individual design decisions ripple across flows, edge cases, and the broader product experience\nA collaborative, low-ego approach,\u00a0 you share work early, welcome critique, and treat iteration as part of the process, not a setback\nStrong communication skills with the ability to clearly articulate design rationale to engineers, PMs, and senior stakeholders\nComfortable with ambiguity, you thrive in a fast-paced environment where priorities evolve and not every problem comes with a clear brief\nBuild Together, Win Together: \u00a0Committed to pursuing the best outcomes and advancing toward shared goals. When faced with challenges, they maintain composure and reliability and work as a team.\u00a0 Proactively remove roadblocks to maintain momentum and achieve goals.\u00a0 As a team, they embody a solution-oriented attitude and drive to win.\nTake Action, Drive Impact: \u00a0Ensure efforts contribute directly to goals.\u00a0 Step up and offer innovative solutions to overcome obstacles and improve processes.\u00a0 Leverage the ability to think independently and strategically.\u00a0 Navigate uncharted territory effectively while also laying a foundation for sustainable growth and success.\nNo Grit, No Pearl: Embrace the gritty aspects of the journey to s"
   },
   "b199a261d932a7779c3f4dac392fd583": {
     "id": "b199a261d932a7779c3f4dac392fd583",
@@ -14342,7 +14394,8 @@
     "priority": 4,
     "first_seen": "2026-08-18T03:56:25.621179-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "- Ensure consistency and adherence to brand guidelines throughout all designs\n- Stay updated on industry trends and best practices in UI/UX design\n- Continuously seek ways to improve the user experience and make recommendations for enhancements\nQualifications:\n- Bachelor's degree in Graphic Design, Interaction Design, or a related field\n- 1-2 years of experience in UI/UX design, preferably in a fast-paced environment\n- Strong portfolio showcasing previous UI/UX design work\n- Proficient in design tools such as Adobe Creative Suite, Sketch, or Figma\n- Knowledge of HTML, CSS, and JavaScript is a plus\n- Excellent communication and collaboration skills\n- Strong attention to detail and ability to meet tight deadlines\n- Passion for creating user-centered designs and solving complex problems\n- Competitive salary\n- Comprehensive health, dental, and vision insurance\n- 401(k) retirement plan with company match\n- Paid time off and holidays\n- Professional development opportunities\n- Collaborative and dynamic work environment\nIf you are a creative and driven individual with a passion for UI/UX design and making a positive impact, we would love to hear from you! Apply now to join our dedicated team.\nE Lead AI Experience Designer at Eliza O Product Designer at OOCA D UI/UX Designer at DVI Solutions S User Experience Design at Stradit I UI/UX Product Designer at INDICO\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUI/UX Design Salary Guide UI/UX Design Salary in United States UI/UX Design Salary in Maryland\nApply for this job Please let Emergency University know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nRelated Jobs See more jobs from United States\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "7113de62c488fad7f69e2d6ac92827a1": {
     "id": "7113de62c488fad7f69e2d6ac92827a1",
@@ -14360,7 +14413,8 @@
     "priority": 5,
     "first_seen": "2026-08-18T12:07:53.175387-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "6b94da17400266cac5ce4b7a547960c2": {
     "id": "6b94da17400266cac5ce4b7a547960c2",
@@ -14378,7 +14432,8 @@
     "priority": 5,
     "first_seen": "2026-08-18T13:47:46.889197-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "<div class=\"job__description body\"><div><h3 class=\"mb-4 text-xl font-extrabold tracking-tight text-gray-900 sm:text-3xl md:text-2xl\">About the role</h3><br/><p class=\"mt-4\">At Thatch, design is one of the defining traits that sets us apart. The healthcare experience in America has long been subpar, and the bar for quality design is low \u2014 we\u2019re raising that bar, and with it, the entire health insurance industry.</p><br/><p data-end=\"913\" data-start=\"412\">As a designer at Thatch, you\u2019ll craft beautiful experiences for the people using our product every day: businesses, their teams, and brokers. You\u2019ll shape all aspects of design, including UI components for our design system, new products involving complex user interactions, and the overall strategy and vision of the design team. Your work will help create a better insurance experience that <strong data-end=\"910\" data-start=\"805\">enables members to get the healthcare benefits they need while feeling calm, fulfilled, and liberated</strong>.</p><br/><p data-end=\"1202\" data-start=\"915\">We\u2019re looking for someone who can meet users where they are in their journey and inspire trust by delivering simple, beautiful, and well-crafted end-to-end experiences. You should be comfortable owning the entire design process, from UX strategy to product design and company branding.</p><br/><div class=\"mt-10\"><br/><h3 class=\"mb-4 text-xl font-extrabold tracking-tight text-gray-900 sm:text-3xl md:text-2xl\">What you'll do</h3><br/><ul class=\"ml-4 list-disc\"><br/><li>Participate in and shape every part of the product development process, from idea inception to production</li><br/><li>Work cross-functionally with engineering, growth, product, sales, operations, and leadership to create incredible user experiences</li><br/><li>Develop and maintain the design system and brand assets we\u2019ll use across the company</li><br/><li>Write design documentation and guidelines for internal audiences</li><br/><li>Iterate on and improve our design standards, tooling, and processes</li><br/></ul><br/></div><br/><div class=\"mt-10\"><br/><h3 class=\"mb-4 text-xl font-extrabold tracking-tight text-gray-900 sm:text-3xl md:text-2xl\">Background we're looking for</h3><br/><ul class=\"ml-4 list-disc\"><br/><li>4+ years of experience in product design roles</li><br/><li>Obsession with understanding and serving users and, ultimately, making their lives better</li><br/><li>Demonstrated first principle thinking and mastery of fundamental design principles</li><br/><li>Experience operating in ambiguous environments solving complex user problems</li><br/><li>Ability to balance blue sky creativity and dedication to craft with bias to action</li><br/></ul><br/></div><br/><div class=\"mt-10\"><br/><h3 class=\"mb-4 text-xl font-extrabold tracking-tight text-gray-900 sm:text-3xl md:text-2xl\">Experience we\u2019d be particularly excited about</h3><br/><ul class=\"ml-4 mt-4 list-disc\"><br/><li>Ability to read and/or write HTML, CSS, and JavaScript</li><br/><li>Background scaling high growth technology companies in the past</li><br/><li>Experience or interest in finance, healthcare, or benefits</li><br/></ul><br/></div><br/><div class=\"mt-10\"><br/><h3 class=\"mb-4 text-xl font-extrabold text-gray-900 sm:text-3xl md:text-2xl\">What to expect</h3><br/><p>We want this process to be transparent, thoughtful, and reflective of the work you\u2019ll be doing every day. Our goal is to learn how you think, collaborate, and create \u2014 while giving you a clear sense of the team, our culture, and how we work together. Here\u2019s what the process looks like:</p><br/><ul><br/><li>30-minute video interview screen to talk through your background and interest in Thatch.</li><br/><li>30 minute first-round video interview with the hiring manager to dive deeper into your experience, approach to design, and how you work.</li><br/><li>30 minute video meetings to connect with two members of the team</li><br/><li>60-minute video meeting portfolio review with members of the design team to wa"
   },
   "873e6b2cb3c4648d9309bfba3be9bcfa": {
     "id": "873e6b2cb3c4648d9309bfba3be9bcfa",
@@ -14396,7 +14451,8 @@
     "priority": 1,
     "first_seen": "2026-08-18T18:35:20.328460-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "c15650101174067f046cebcc1f838ea7": {
     "id": "c15650101174067f046cebcc1f838ea7",
@@ -14414,7 +14470,8 @@
     "priority": 5,
     "first_seen": "2026-08-18T21:10:22.945766-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "eac80ffc2348dcf998b4cac8f0b774fb": {
     "id": "eac80ffc2348dcf998b4cac8f0b774fb",
@@ -14432,7 +14489,8 @@
     "priority": 5,
     "first_seen": "2026-08-18T21:10:24.585455-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "9e9bb46f713f8b6ec6bc497e573fa38c": {
     "id": "9e9bb46f713f8b6ec6bc497e573fa38c",
@@ -14450,7 +14508,8 @@
     "priority": 5,
     "first_seen": "2026-08-18T22:24:04.733387-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "79e87cc75e786777fec851b78f9aaf9b": {
     "id": "79e87cc75e786777fec851b78f9aaf9b",
@@ -14468,7 +14527,8 @@
     "priority": 5,
     "first_seen": "2026-08-19T03:30:41.959703-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Job description\nAlternative Payments is building the financial operating system for SMBs, consolidating the disconnected tech stack that holds service-based businesses back. Starting with MSPs, we've spent five years perfecting accounts receivable, and we're now expanding into accounts payable, AI-powered analytics, and beyond. We're at an inflection point: closing the loop on money movement and laying the foundation for a platform that will reshape how service businesses operate financially.\nWe're growing fast, thinking big, and building a global team that wants to be part of something that lasts. We believe the best solutions come from diverse perspectives, deep collaboration, and a shared obsession with customer impact. If you're energized by real problems, real customers, and real impact, we want to hear from you!\nWe're looking for a Product Designer with a research-first mindset, someone who thrives on untangling complex problems and grounding design decisions in evidence. This role blends deep UX research with end-to-end product design, from discovery to polished interface. You'll work closely with Product Managers, Engineers and stakeholders to build experiences that are visually refined and deeply aligned with our users' workflows and goals.\nWhat You'll Do\nOwn the discovery process: plan and run user research including interviews, usability testing, surveys and data analysis to uncover insights and validate design decisions;\nDefine what's worth researching: frame the questions, choose the right method for each problem and keep a continuous discovery cadence running alongside delivery;\nSynthesize findings into actionable design opportunities, and help shape the product roadmap with them;\nBuild and maintain a shared research repository so insights compound over time and stay accessible across the team;\nDesign intuitive, accessible and aesthetically consistent interfaces for web applications;\nOwn design work from low-fidelity wireframes to high-fidelity prototypes, ensuring pixel-perfect implementation;\nPartner with engineers during implementation to maintain design quality and fidelity;\nCollaborate with Product Managers to define scope, requirements and success metrics for features;\nPresent design concepts, research findings and rationale to stakeholders with clarity and confidence.\n5+ years of professional experience as a Product Designer, UX/UI Designer or similar role;\nHands-on experience leading UX research end-to-end, from study design and recruiting to synthesis and sharing results;\nFluency across qualitative and quantitative methods, and good judgment about which one a given question actually calls for;\nStrong portfolio demonstrating problem solving skills, attention to detail and the ability to design complex workflows;\nProficiency with Figma (or similar tools) for design, prototyping and collaboration;\nUnderstanding of accessibility principles and best practices in design;\nAbility to communicate clearly with both technical and non-technical audiences;\nComfortable working in a fast-paced, collaborative, remote-first environment.\nComfort turning ideas into working front-end prototypes, whether hand-coded or built with AI-assisted tools;\nFluency using AI as part of your process more broadly: accelerating exploration, generating and testing concepts faster, supporting research synthesis, and cutting the time between question and answer;\nExperience designing for B2B SaaS platforms or fintech products;\nExperience working with payment products or teams;\nKnowledge of behavioral design or cognitive psychology principles.\nCompetitive salary tailored to your experience, skills, and expertise.\nThe total compensation range for this role is 60k -84k USD, plus equity. The range displayed on each job posting reflects the approximate total target compensation for the position. Within the range, individual pay is determined by factors including relevant skills, experience, education/training.\nEquity opportunities so you can share"
   },
   "96f29d2372690d062dbb6a58fa93c7a8": {
     "id": "96f29d2372690d062dbb6a58fa93c7a8",
@@ -14486,7 +14546,8 @@
     "priority": 1,
     "first_seen": "2026-08-19T03:30:43.710743-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Produce high-quality work from wireframes and user flows to pixel-perfect prototypes with delightful interactions\nAdvocate for consumers and for user-centered process across the team\nContribute to design culture through collaboration, presenting work, and sharing feedback\nQualifications:\n4+ years creating and shipping quality digital products, with consumer experience across mobile and web\nExceptional visual and interaction craft \u2014 you can build nearly anything yourself, and the details are right\nYou've genuinely integrated AI agents into how you design and build, and can speak to what that changed\nStrong verbal and visual presentation skills and an articulate point of view about design\nA proven record of influencing team direction and planning, and of tying design to business goals and metrics\nNice to have: you ship your own code, or have worked as a design engineer\nOur mission at Plaid is to unlock financial freedom for everyone. To support that mission, we seek to build a diverse team of driven individuals who care deeply about making the financial ecosystem more equitable. We recognize that strong qualifications can come from both prior work experiences and lived experiences. We encourage you to apply to a role even if your experience doesn't fully match the job description. We are always looking for team members that will bring something unique to Plaid!\nPlaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at [email\u00a0protected] .\nPlease review our Candidate Privacy Notice here .\nAdditional compensation in the form(s) of equity and/or commission are dependent on the position offered. Plaid provides a comprehensive benefit plan, including medical, dental, vision, and 401(k). Pay is based on factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience and skillset, and location. Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans.\nC Product Designer at CodeRabbit S Founding Product Designer at Slash C Founding Product Designer at Clera P Senior Product Designer at Pointr G Staff Product Designer at Gray Swan AI\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nProduct Design Salary Guide Product Design Salary in United States Product Design Salary in California Product Design Salary in San Francisco\nApply for this job Please let Plaid know you discovered this position on UIUXjobsboard so we can keep providing you with quality design jobs.\nRelated Jobs See more jobs from United States\nCTAIMA is hiring Senior UX Researcher (Freelance \u2013 6 months)\nCTAIMA is hiring Senior Product Designer (Freelance \u2013 6 months)\nMiaplaza, Inc. is hiring Senior Product Designer"
   },
   "f07ca2409ed4249e7841ff0d07b4fce8": {
     "id": "f07ca2409ed4249e7841ff0d07b4fce8",
@@ -14657,7 +14718,7 @@
     "first_seen": "2026-08-20T11:58:38.935559-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "249b16f3104acd51972c5d4061f0041d": {
     "id": "249b16f3104acd51972c5d4061f0041d",
@@ -14733,7 +14794,7 @@
     "first_seen": "2026-08-21T02:32:40.986040-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "3fc66437e5b061413bd33630a6f41d3e": {
     "id": "3fc66437e5b061413bd33630a6f41d3e",
@@ -14869,7 +14930,7 @@
     "first_seen": "2026-08-21T04:51:01.724705-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "b97ac9a209f2cf21ae834434a52daf7b": {
     "id": "b97ac9a209f2cf21ae834434a52daf7b",
@@ -14888,7 +14949,7 @@
     "first_seen": "2026-08-21T09:25:22.350541-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "ec482744a5fd4142a03d6b29e60c532b": {
     "id": "ec482744a5fd4142a03d6b29e60c532b",

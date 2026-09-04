@@ -1815,7 +1815,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-21T09:25:22.350541-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f22c90f60230f10ee6bb1df38e5265e7",
@@ -1831,7 +1832,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-21T04:51:01.724705-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "d5049367df0d0de18a85c26b48ba925a",
@@ -1949,7 +1951,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-21T02:32:40.986040-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "fab649135a8af2132a99dc5a6236b8e9",
@@ -2168,7 +2171,8 @@
     "posted_at": "4h",
     "priority": 1,
     "first_seen": "2026-08-19T03:30:43.710743-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "79e87cc75e786777fec851b78f9aaf9b",
@@ -2184,7 +2188,8 @@
     "posted_at": "2h",
     "priority": 5,
     "first_seen": "2026-08-19T03:30:41.959703-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "9e9bb46f713f8b6ec6bc497e573fa38c",
@@ -2264,7 +2269,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-18T13:47:46.889197-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7113de62c488fad7f69e2d6ac92827a1",
@@ -2296,7 +2302,8 @@
     "posted_at": "5h",
     "priority": 4,
     "first_seen": "2026-08-18T03:56:25.621179-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ef8289c2b2abf12d61c0a14f5c88c40e",
@@ -2312,7 +2319,8 @@
     "posted_at": "2h",
     "priority": 5,
     "first_seen": "2026-08-18T03:56:23.962910-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2025d1717440a4180c21dd1752901558",
@@ -2328,7 +2336,8 @@
     "posted_at": "1h",
     "priority": 4,
     "first_seen": "2026-08-18T03:56:22.495610-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "e2a88830280aed26949ee733f4c23f93",
@@ -2344,7 +2353,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-08-17T23:32:56.968498-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "25b06f176796d76e4de839d6efe437b1",
@@ -2392,7 +2402,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-17T07:00:29.447500-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "442779325b0e4fd30ebf3081cc2769b0",
@@ -4107,22 +4118,6 @@
     "status": "active"
   },
   {
-    "id": "43111f75c87b8eedd58547471038d31c",
-    "title": "UX Designer I",
-    "company": "Varsity Brands",
-    "location": "Farmers Branch, United States",
-    "salary": "Not listed",
-    "url": "https://careers.varsitybrands.com/us/en/job/JR114425/UX-Designer-I",
-    "source": "OpenDoors",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 4,
-    "first_seen": "2026-08-10T04:21:36.053012-07:00",
-    "status": "active"
-  },
-  {
     "id": "eb0261a2835f0ed942ef8f68b8045d2e",
     "title": "Entry Level UX Research Apprenticeship",
     "company": "Unknown",
@@ -4872,22 +4867,6 @@
     "posted_at": "3h",
     "priority": 5,
     "first_seen": "2026-08-04T03:31:27.780520-07:00",
-    "status": "active"
-  },
-  {
-    "id": "0fc0e31b6ac93c03456b82deb1f20133",
-    "title": "Brand Designer",
-    "company": "Chainguard",
-    "location": "United States - Remote",
-    "salary": "Not listed",
-    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4701615006",
-    "source": "Startups.Gallery",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 4,
-    "first_seen": "2026-08-03T18:57:06.623611-07:00",
     "status": "active"
   }
 ]
