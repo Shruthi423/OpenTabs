@@ -1,5 +1,39 @@
 [
   {
+    "id": "1dd68924e42c80d74038766309ac19e8",
+    "title": "Summer 2027 Intern, Motion Designer",
+    "company": "Athena Global Advisors",
+    "location": "Philadelphia, PA, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=bde262e3082be35c",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-04",
+    "priority": 3,
+    "first_seen": "2026-09-04T12:58:57.251785-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "953765a0fb76b0ecde5e9a4eafc57f70",
+    "title": "UX Designer, D3 (Design, Development & Delivery) Team",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Arlington, VA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463138787",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-04T12:58:55.473372-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "329bb25d9279e67649bf7a28d354947f",
     "title": "UX Designer/Researcher (Accessibility Specialist)",
     "company": "VIVA",
@@ -7425,7 +7459,8 @@
     "posted_at": "2026-07-28",
     "priority": 4,
     "first_seen": "2026-08-27T18:06:36.096871-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "4a31a31528691340fe67863cb173ae66",
@@ -7441,7 +7476,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-27T18:06:34.176997-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "79a47d778a45f31817bb20fe18da5971",
@@ -7457,7 +7493,8 @@
     "posted_at": "2026-08-27",
     "priority": 4,
     "first_seen": "2026-08-27T18:06:32.434737-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "15e8d7cc581dd197f1a305af9a4ff024",
@@ -7791,7 +7828,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T14:12:13.478047-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a8312e93def8828a0a8446fca6dce404",
@@ -7807,7 +7845,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-27T14:12:11.381734-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c7062975ff479836e9e3a348f6487dd7",
@@ -7823,7 +7862,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T14:11:46.560726-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "71997f0acede5db5232e1c5eb028de62",
@@ -7871,7 +7911,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-27T14:11:40.454760-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ba42bcd1a2ca27b1895f5980586296ac",
@@ -7887,7 +7928,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T10:43:21.262441-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "adfeafabc835446f2326b9db544eda9d",
@@ -7919,7 +7961,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T10:28:49.847504-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2de613f03e5a3e466b5c569183708dc7",
@@ -7967,7 +8010,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T10:28:43.886650-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "4594807c3831b8f0ae6bbccc1c2d8152",
