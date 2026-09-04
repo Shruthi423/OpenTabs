@@ -1,5 +1,73 @@
 [
   {
+    "id": "e24aa43b1d33b3fec45b56242c81b3f5",
+    "title": "Accessories Product Design Engineer, Beats",
+    "company": "Apple",
+    "location": "Los Angeles, CA, US",
+    "salary": "$122,700 \u2013 $214,300 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=10719851d77a6536",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-08-31",
+    "priority": 3,
+    "first_seen": "2026-09-04T12:06:03.727146-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "7b7b1972119b8c7d63a36a1e62de07f9",
+    "title": "Professor of Product Design (Open Rank)",
+    "company": "University of Louisville",
+    "location": "Louisville, KY, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=63ba37079095c08b",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-03",
+    "priority": 4,
+    "first_seen": "2026-09-04T12:06:01.743174-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "3b31ed0347d355a8e57b2c8cdada4e7d",
+    "title": "UX DESIGNER / RESEARCHER - ACCESSIBILITY SPECIALIST",
+    "company": "SIDRAM TECHNOLOGIES",
+    "location": "Alabama, United States",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463389202",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-04T12:05:59.763443-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "80084d08f2d7b474c6ac042a1ab899d4",
+    "title": "Brand Designer, Creative Studio",
+    "company": "Intermedia Lab",
+    "location": "New York, NY",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4461137246",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-04T12:05:57.805036-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "adfb0aa01cbc93a30079be66546628fe",
     "title": "Product Designer",
     "company": "YouVersion",
@@ -6898,7 +6966,8 @@
     "posted_at": "2026-08-27",
     "priority": 3,
     "first_seen": "2026-08-28T09:12:39.726957-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2888285ea58e8616706321bea28a768d",
@@ -6914,7 +6983,8 @@
     "posted_at": "2026-08-27",
     "priority": 3,
     "first_seen": "2026-08-28T09:12:37.972050-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "c7cf8878bf814376ef22b8c2f69dc26b",
@@ -6930,7 +7000,8 @@
     "posted_at": "2026-08-27",
     "priority": 4,
     "first_seen": "2026-08-28T09:12:36.002743-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ce866d7715ecc0fe575761069fd83411",
@@ -6946,7 +7017,8 @@
     "posted_at": "2026-08-27",
     "priority": 1,
     "first_seen": "2026-08-28T09:12:34.087091-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "8b31afb6fbd7bf8b83cbccf9a7149a46",
@@ -6962,7 +7034,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-28T08:53:20.549819-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "c4db1ac11d05b5dab22af23892137a49",
@@ -6978,7 +7051,8 @@
     "posted_at": "2026-08-28",
     "priority": 4,
     "first_seen": "2026-08-28T08:53:18.573830-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "d66e5980936eb388ce25124864d3c57f",
@@ -6994,7 +7068,8 @@
     "posted_at": "2026-08-26",
     "priority": 1,
     "first_seen": "2026-08-28T08:53:16.755602-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "96ea12f91c49a0c2254957ff380cdb6d",
@@ -7010,7 +7085,8 @@
     "posted_at": "2026-08-27",
     "priority": 1,
     "first_seen": "2026-08-28T08:53:14.727337-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "dcb6cbc097a240e2eecdcd474f9213bf",
@@ -7060,7 +7136,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-28T08:52:58.853900-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0fe3622a171ae353cf3c5c839c1a3ef3",
@@ -7261,7 +7338,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-27T18:06:43.733101-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5ec98143a6317d1832272334e5608df2",
@@ -7277,7 +7355,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T18:06:41.852544-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "0bffc17d95eac2ce43d21ec47f8df295",
@@ -7293,7 +7372,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T18:06:39.876402-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "720abffbc4cf3f886281f8316d2d8417",
@@ -7309,7 +7389,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T18:06:37.996436-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8e583c5312faf2b5d50c30e83b606196",
@@ -7373,7 +7454,8 @@
     "posted_at": "None",
     "priority": 1,
     "first_seen": "2026-08-27T17:46:45.074584-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7688e7b40d696d45a9041e95cad84019",
@@ -7389,7 +7471,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-27T17:46:43.239300-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "227e4f5aff3b6e2a27a3eaebb705e3a7",
