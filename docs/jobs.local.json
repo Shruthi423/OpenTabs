@@ -1,5 +1,73 @@
 [
   {
+    "id": "e2210217bc748c2aab467e3e9178970e",
+    "title": "Design Systems Designer, Amazon Health",
+    "company": "Amazon",
+    "location": "Boston, MA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463140744",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-03T17:08:10.286866-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "3fee147c83ee3bebf103849872c6ca88",
+    "title": "Design Systems Designer, Amazon Health",
+    "company": "Amazon.com",
+    "location": "Boston, MA, US",
+    "salary": "$129,600 \u2013 $176,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=5bbb92a105f51d75",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-09-01",
+    "priority": 4,
+    "first_seen": "2026-09-03T17:08:08.296509-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "631d0a50fc13519e1d3f554c827325df",
+    "title": "Design Systems Designer, Amazon Health",
+    "company": "Amazon.com",
+    "location": "San Francisco, CA, US",
+    "salary": "$129,600 \u2013 $176,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=e6e93f754d75aae6",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-09-01",
+    "priority": 1,
+    "first_seen": "2026-09-03T17:08:06.495789-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "ab734cfddda45097310be1cf08823fd0",
+    "title": "Design Systems Designer, Amazon Health",
+    "company": "Amazon",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463155199",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 1,
+    "first_seen": "2026-09-03T17:08:04.671483-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "019fba9391915ea971b18082a226ce0e",
     "title": "PRODUCT DESIGN ENGINEER II - MOTORIZED",
     "company": "SharkNinja France",
@@ -13,23 +81,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-03T16:48:33.084180-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "be2628ba84a3903096522aa597041ff5",
-    "title": "Manufacturing Equipment Engineer, Roadster",
-    "company": "Tesla",
-    "location": "Fremont, CA, US",
-    "salary": "$84,000 \u2013 $216,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=a1bdeee3fcacc9ea",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-09-02",
-    "priority": 2,
-    "first_seen": "2026-09-03T16:48:31.252424-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -4688,7 +4739,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-08-31T11:39:12.475248-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2b8bfa44c4f9ef6d7b6246074d5c5b81",
@@ -4704,7 +4756,8 @@
     "posted_at": "2026-08-30",
     "priority": 4,
     "first_seen": "2026-08-31T11:00:01.359012-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "5cab2bdde2915179d5fdda6e6b8cdabe",
@@ -4839,7 +4892,8 @@
     "posted_at": "2026-08-27",
     "priority": 2,
     "first_seen": "2026-08-31T10:19:40.544769-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "111f6fedc6b7fe72bccac6215b1cc2b2",
@@ -4855,7 +4909,8 @@
     "posted_at": "2026-08-30",
     "priority": 4,
     "first_seen": "2026-08-31T10:19:38.613767-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2911825b6eaf7cec6843aa7ea0d5329b",
@@ -4973,7 +5028,8 @@
     "posted_at": "2026-08-31",
     "priority": 4,
     "first_seen": "2026-08-31T09:59:56.012379-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7b29c13dbe2b18b8e0636f1a519ec22b",
@@ -5225,7 +5281,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-30T10:27:59.284682-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "080680e1ada6b7d824d1dfb4b3d049bf",
@@ -5305,7 +5362,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-29T14:36:34.038292-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "6d568e92bcef874aac218541fd3e257e",
@@ -5321,7 +5379,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-29T13:21:14.503191-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "e5d749739983d8430f06e6a9d472639f",
@@ -5337,7 +5396,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-29T12:12:36.281765-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "1fca21c1f32c64ece3c9d6d1a998787c",
@@ -5369,7 +5429,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-29T12:12:26.869816-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8460882553eec50740f4ad2c6d3fcd51",
@@ -5385,7 +5446,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-29T12:12:25.047764-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "58f86ad38bc9572fc3f0dc70ed749d18",
@@ -5401,7 +5463,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-29T12:12:23.205726-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "47fd3fe77f69351b6f64173f7aa42e49",
@@ -5417,7 +5480,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-29T11:53:28.216867-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "3a6e6ae531aa59d4eb8de611cfc58df3",
