@@ -1,5 +1,39 @@
 [
   {
+    "id": "11ecc1c857aacc04a2ede5631df17fa0",
+    "title": "Founding Designer",
+    "company": "UniversalAGI",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463176909",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 1,
+    "first_seen": "2026-09-03T20:40:49.961167-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "c98e64a753ab28d4bd4e971a58361f88",
+    "title": "Global UX Research & Design Specialist",
+    "company": "Deckers Brands",
+    "location": "Colorado, United States",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4442964582",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-03T20:40:48.257763-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "1432ec7a14796dfd8c0a274268c9810a",
     "title": "UX Designer, D3 (Design, Development & Delivery) Team",
     "company": "Amazon Web Services (AWS)",
@@ -5946,7 +5980,8 @@
     "posted_at": "2026-08-28",
     "priority": 4,
     "first_seen": "2026-08-29T00:04:40.184967-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "fa002a5d82ee8fe68e2746428689a443",
@@ -5962,7 +5997,8 @@
     "posted_at": "2026-08-27",
     "priority": 1,
     "first_seen": "2026-08-28T23:46:48.697370-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "eb087d9d411da5b311820b49b5e4001b",
@@ -5978,7 +6014,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-28T14:53:27.992425-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3ece6ea76c28413c145ef4d3a6fdabbf",
@@ -5994,7 +6031,8 @@
     "posted_at": "2026-08-27",
     "priority": 4,
     "first_seen": "2026-08-28T14:53:23.932672-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "30eb98964e60dc41daa6da18718276ab",
@@ -6010,7 +6048,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-28T14:34:12.785654-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "d9ca0a1eece970a87a0a704be2a32a2e",
@@ -6060,7 +6099,8 @@
     "posted_at": "2026-08-27",
     "priority": 4,
     "first_seen": "2026-08-28T14:34:06.857702-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b70b8e32288274494a33d857fe9b21ba",
@@ -6093,7 +6133,8 @@
     "posted_at": "2026-08-27",
     "priority": 1,
     "first_seen": "2026-08-28T14:34:02.902151-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2256af87e900367480a95d0c1258544e",
