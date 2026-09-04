@@ -7918,7 +7918,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-27T17:01:03.322188-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "157dff16ac6437989bb98d8eedcd1dc2",
@@ -7934,7 +7935,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-27T17:01:01.453012-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "edd221c5cc653dcf0816bdbda26b4caf",
@@ -8001,7 +8003,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-27T14:11:44.579801-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "bb0ebc550db4a4c7135cab34e1f417e5",
@@ -8017,7 +8020,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-27T14:11:42.444564-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "523278fa3f3495e04ed877e9da483678",
@@ -8067,7 +8071,8 @@
     "posted_at": "2026-08-27",
     "priority": 1,
     "first_seen": "2026-08-27T10:43:19.423769-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "9d2cf9551d51e1450dff189ea9aa99ec",
@@ -8100,7 +8105,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-27T10:28:47.797667-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "c5a9e181c600c3b614504d52bd1412a3",
@@ -8116,7 +8122,8 @@
     "posted_at": "2026-08-26",
     "priority": 3,
     "first_seen": "2026-08-27T10:28:45.941403-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f8c45dba4ed2240c8e355a4bd3f07e41",
@@ -8315,7 +8322,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-27T09:26:42.317969-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "097f7ed1c0d6edd327d2b0e72d02a77c",
@@ -8331,7 +8339,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-27T09:26:40.055656-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "4e114f1d3b692df936392ea08aa73294",
@@ -8347,7 +8356,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T09:25:49.825743-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2e7613f97a861d89d46025222efc7f49",
@@ -8363,7 +8373,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T09:25:22.452412-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "703b25d1368fed512718e62bcf38aad8",
@@ -8379,7 +8390,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T09:25:20.439069-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a67572d6a6514d65e39d1cf49c1f623a",
@@ -8395,7 +8407,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T09:25:04.299122-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7eff7cbceb4fb0bf74af08688e61ccaa",
@@ -8427,7 +8440,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-27T09:24:59.998635-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "13cbc7ae32f1ee6ce785ab10c1856195",
@@ -8443,7 +8457,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T09:24:58.007178-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "571c1730f9162f3d920fe5a5612f7ca8",
@@ -29499,342 +29514,6 @@
     "posted_at": "2026-08-03",
     "priority": 4,
     "first_seen": "2026-08-04T16:36:28.506068-07:00",
-    "status": "active"
-  },
-  {
-    "id": "ae85d97b4c5eeea50f5b15c4261a1600",
-    "title": "Product Designer, AI Models",
-    "company": "Figma",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4324030117",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-04T14:26:11.443742-07:00",
-    "status": "active"
-  },
-  {
-    "id": "658c0927d607f7a9774fa631ae52c2a7",
-    "title": "UX Writer (USA Remote)",
-    "company": "Turnitin",
-    "location": "Chicago, IL",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449035304",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T14:25:47.703662-07:00",
-    "status": "active"
-  },
-  {
-    "id": "664e0c06375410ed513664e26a7f33b4",
-    "title": "UX Writer (USA Remote)",
-    "company": "Turnitin",
-    "location": "Washington, DC",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449026812",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T14:25:45.617118-07:00",
-    "status": "active"
-  },
-  {
-    "id": "8edfdb5a6b31a4ea67c7c4e5e76b971b",
-    "title": "User Researcher, AI Evaluations",
-    "company": "SONAR 360 | Estrat\u00e9gia com Precis\u00e3o",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449036151",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 1,
-    "first_seen": "2026-08-04T14:25:41.618634-07:00",
-    "status": "active"
-  },
-  {
-    "id": "f01362a78799bf4c3a47d8216ae092e1",
-    "title": "User Researcher, AI Evaluations",
-    "company": "Asiam",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449053122",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 1,
-    "first_seen": "2026-08-04T14:25:39.632895-07:00",
-    "status": "active"
-  },
-  {
-    "id": "dc4fd0d2203f9f93bc48c5d916e45262",
-    "title": "User Researcher, AI Evaluations",
-    "company": "Talkie",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449036641",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 1,
-    "first_seen": "2026-08-04T14:25:37.696859-07:00",
-    "status": "active"
-  },
-  {
-    "id": "7545e265ae908e93b2235e5744889caf",
-    "title": "Rapid User Researcher",
-    "company": "SONAR 360 | Estrat\u00e9gia com Precis\u00e3o",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449033187",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 1,
-    "first_seen": "2026-08-04T14:25:35.604314-07:00",
-    "status": "active"
-  },
-  {
-    "id": "b9fc985006dc1f8ce7967daf78d79bcd",
-    "title": "Rapid User Researcher",
-    "company": "Asiam",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449047622",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 1,
-    "first_seen": "2026-08-04T14:25:33.511043-07:00",
-    "status": "active"
-  },
-  {
-    "id": "544c0a7bcb1995770d46151f0fafd24a",
-    "title": "Rapid User Researcher",
-    "company": "Talkie",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449033683",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 1,
-    "first_seen": "2026-08-04T14:25:31.531294-07:00",
-    "status": "active"
-  },
-  {
-    "id": "53e95a05ae28752ff6a6ba77b4aee0ba",
-    "title": "UX Designer, Amazon Advertising Sales and Partners UX Team",
-    "company": "Amazon",
-    "location": "Seattle, WA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448863404",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-04T14:25:29.542154-07:00",
-    "status": "active"
-  },
-  {
-    "id": "4cefe7e0e2b076e597b047b4d3dc8ef4",
-    "title": "UI/UX Designer",
-    "company": "Forint Finance Ltd",
-    "location": "Lead, SD",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448563615",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T14:25:27.478423-07:00",
-    "status": "active"
-  },
-  {
-    "id": "d2acf39a10c72df97c63115a27e4f5d5",
-    "title": "UI/UX Developer",
-    "company": "DOWC",
-    "location": "Parsippany, NJ",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448898634",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T14:25:25.469409-07:00",
-    "status": "active"
-  },
-  {
-    "id": "9664a1dfe66984fc93dabb238107c8d9",
-    "title": "UI/UX Product Designer - AI Trainer",
-    "company": "DataAnnotation",
-    "location": "New York, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4338318041",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-04T14:25:23.558815-07:00",
-    "status": "active"
-  },
-  {
-    "id": "8bcd2dd0bec47332e5a550282badb5dd",
-    "title": "Surfaces Model UX Designer, GeminiApp, DeepMind",
-    "company": "Google DeepMind",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448577062",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-04T14:25:21.489375-07:00",
-    "status": "active"
-  },
-  {
-    "id": "77921af25766d02ff0480ce6b57657c8",
-    "title": "UX Designer",
-    "company": "eClerx",
-    "location": "Raleigh, NC",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4432245950",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T14:25:19.431268-07:00",
-    "status": "active"
-  },
-  {
-    "id": "eb76ac04ccdb2f80f5b4997896ad0eaf",
-    "title": "User Experience Designer",
-    "company": "Mindlance",
-    "location": "Jupiter, FL",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449023707",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T14:25:17.381989-07:00",
-    "status": "active"
-  },
-  {
-    "id": "69a2071c1eedd995b0b37310d1a4b110",
-    "title": "UX Designer",
-    "company": "Haystack",
-    "location": "Atlanta, GA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4446676981",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T14:25:15.281616-07:00",
-    "status": "active"
-  },
-  {
-    "id": "b524e2e68d0fed2152450c2a67caa20d",
-    "title": "User Experience Designer",
-    "company": "Walsworth",
-    "location": "Overland Park, KS, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=e7bfe01c344e2958",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-07-28",
-    "priority": 4,
-    "first_seen": "2026-08-04T14:25:13.268547-07:00",
-    "status": "active"
-  },
-  {
-    "id": "9013825f140e519e801e542ea1c7ebc0",
-    "title": "Surfaces Model UX Designer, GeminiApp, DeepMind",
-    "company": "DeepMind",
-    "location": "New York, NY, US",
-    "salary": "$159,000 \u2013 $231,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=e02ae9a0ae815b91",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-03",
-    "priority": 3,
-    "first_seen": "2026-08-04T14:25:11.237436-07:00",
-    "status": "active"
-  },
-  {
-    "id": "dbe9a5a6549abe564a30f712ec60c6e1",
-    "title": "Product Designer, Shop Everything",
-    "company": "Sarafu",
-    "location": "Menlo Park, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449044857",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-04T14:25:09.348371-07:00",
-    "status": "active"
-  },
-  {
-    "id": "073e4ba5b2dcde9ae3cdb6f39a5a6af9",
-    "title": "Surfaces Model UX Designer, GeminiApp, DeepMind",
-    "company": "DeepMind",
-    "location": "San Francisco, CA, US",
-    "salary": "$159,000 \u2013 $231,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=f3fffcbab70d437e",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-03",
-    "priority": 1,
-    "first_seen": "2026-08-04T14:25:07.435216-07:00",
     "status": "active"
   }
 ]
