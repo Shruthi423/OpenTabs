@@ -1,5 +1,39 @@
 [
   {
+    "id": "1af0798889ee9382bdf951631fb3502d",
+    "title": "Visual Designer",
+    "company": "PLACE Corporate Careers",
+    "location": "Bellingham, WA, US",
+    "salary": "$32 \u2013 $38 / hourly",
+    "url": "https://www.indeed.com/viewjob?jk=a998c18c25676a32",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 4,
+    "first_seen": "2026-09-03T18:26:22.562504-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "c141c2ee68e7983e96c13c3da29450fd",
+    "title": "Founding Product Designer",
+    "company": "Reform",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4461939756",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 1,
+    "first_seen": "2026-09-03T18:26:20.778093-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "e2210217bc748c2aab467e3e9178970e",
     "title": "Design Systems Designer, Amazon Health",
     "company": "Amazon",
@@ -5504,7 +5538,8 @@
     "posted_at": "2026-08-27",
     "priority": 4,
     "first_seen": "2026-08-29T11:53:25.959824-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "16aef9d8fb93992532855aed3f274bb7",
@@ -5520,7 +5555,8 @@
     "posted_at": "2026-08-27",
     "priority": 4,
     "first_seen": "2026-08-29T11:53:20.002114-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "8d6d373d110b984d3d1d065f0f55225b",
@@ -5536,7 +5572,8 @@
     "posted_at": "2026-08-28",
     "priority": 4,
     "first_seen": "2026-08-29T11:53:18.041911-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "515518a0f49d218036bf7b17eada12ad",
@@ -5569,7 +5606,8 @@
     "posted_at": "2026-08-27",
     "priority": 4,
     "first_seen": "2026-08-29T11:53:14.212945-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "e9e1cd82906e26f5769b01c2c9837158",
@@ -5636,7 +5674,8 @@
     "posted_at": "2026-08-27",
     "priority": 3,
     "first_seen": "2026-08-29T11:53:02.386080-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0dc3e604600e225bada682ac049c7619",
@@ -5652,7 +5691,8 @@
     "posted_at": "2026-08-27",
     "priority": 2,
     "first_seen": "2026-08-29T11:53:00.442357-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "21ceac5b5e2a7cd0111d0e96427380dc",
@@ -5702,7 +5742,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-29T00:59:00.796405-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2ad9f75e68507156ecc4bff877a55e59",
@@ -5932,7 +5973,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-28T14:34:10.846082-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a06d307d551b497842cbeba5499c43f7",
@@ -5948,7 +5990,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-28T14:34:08.816621-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "faea15ace6a46f3388e21acf76815139",
@@ -5980,7 +6023,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-28T14:34:04.903576-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "393b94080f4c3354f1a39556939a86e2",
@@ -6012,7 +6056,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-28T14:34:00.984557-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8dbdea4dd0851770a5a929b32b3959cf",
