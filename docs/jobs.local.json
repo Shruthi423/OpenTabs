@@ -1,5 +1,22 @@
 [
   {
+    "id": "c57549131f51ff6433a04939c9855f3d",
+    "title": "Product Designer V: 26-02634",
+    "company": "Akraya, Inc.",
+    "location": "Mountain View, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4461408692",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 2,
+    "first_seen": "2026-09-04T16:20:43.601414-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "d8c60032b628f35b1cbfc62af055425a",
     "title": "Design Systems Engineer II",
     "company": "HCSS",
@@ -13,23 +30,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-04T16:00:29.161431-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "d712d08c817be81512cf2f4ebde7977d",
-    "title": "UIUX Designer",
-    "company": "Inadev Corporation",
-    "location": "Reston, VA, US",
-    "salary": "$100,000 \u2013 $110,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=f6c272379b7b8cc2",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-09-03",
-    "priority": 4,
-    "first_seen": "2026-09-04T16:00:27.290441-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -8836,7 +8836,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T19:53:08.450261-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "4b7401955facefb2df428da40361daba",
@@ -8852,7 +8853,8 @@
     "posted_at": "2026-08-25",
     "priority": 1,
     "first_seen": "2026-08-26T19:53:06.438037-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "42b60c99a12fa83f4016d05410b1b25c",
@@ -8868,7 +8870,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T19:53:02.563308-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "15fa3513c1f40d4d49af5db5d2589c2c",
@@ -8884,7 +8887,8 @@
     "posted_at": "2026-07-31",
     "priority": 4,
     "first_seen": "2026-08-26T19:53:00.814523-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3c5880db2c203fa056309883489d6e9d",
@@ -8934,7 +8938,8 @@
     "posted_at": "2026-08-25",
     "priority": 3,
     "first_seen": "2026-08-26T19:14:12.015178-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "fdab207d9fb62f84717b73decbacaf8b",
@@ -8950,7 +8955,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T19:14:10.163546-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0c0d3a6c5cbbdeb4297940a15db07d10",
@@ -9017,7 +9023,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-26T18:55:02.230669-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "9b31f636ef8392983dc664d00a0067c3",
@@ -9033,7 +9040,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-26T18:35:45.206724-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a39cec2bbb2146f2060db30d38b31d39",
@@ -9097,7 +9105,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-26T16:54:49.976265-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "05636283684cadf76f8981e098d6ed5f",
@@ -9145,7 +9154,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-26T16:54:34.360225-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "fb6f600bbfd3f97320f4582720904442",
@@ -9177,7 +9187,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-26T16:54:30.672212-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "e9dc89898824ef8b2978a76febd8e5fd",
@@ -9193,7 +9204,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-26T16:54:28.662433-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "af4ba7b5f13328fb87820b9ace0782c6",
@@ -9209,7 +9221,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-26T16:54:26.665432-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "777cd716cf9b6777c47f66dfe4c3c445",
@@ -9225,7 +9238,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-26T16:02:53.862648-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "fc3e836ce3f01383c0e449ba3b9ccfaa",
