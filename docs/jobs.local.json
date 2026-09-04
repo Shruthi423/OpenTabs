@@ -1,5 +1,107 @@
 [
   {
+    "id": "adfb0aa01cbc93a30079be66546628fe",
+    "title": "Product Designer",
+    "company": "YouVersion",
+    "location": "Edmond, OK",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4425848759",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-04T11:46:08.003820-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "766634ee669b89f87bff35eb9c4a9807",
+    "title": "React UI Developer",
+    "company": "EL SHADDAI TECHNOLOGIES",
+    "location": "New York, NY, US",
+    "salary": "$55 \u2013 $60 / hourly",
+    "url": "https://www.indeed.com/viewjob?jk=134f4f8a98453159",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-04",
+    "priority": 3,
+    "first_seen": "2026-09-04T11:46:06.044616-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "6b8020c42a827675328ae0793d5c24ea",
+    "title": "UX Digital Strategist",
+    "company": "UNICON SYSTEMS",
+    "location": "US",
+    "salary": "$60 \u2013 $70 / hourly",
+    "url": "https://www.indeed.com/viewjob?jk=58ec3afb5250d3cb",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-04",
+    "priority": 4,
+    "first_seen": "2026-09-04T11:46:04.040169-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "9c1270d22a73b8099a29526a21a080a2",
+    "title": "Early Career Computer Aided Design Technologist - Design Engineering, Onsite",
+    "company": "Sandia National Laboratories",
+    "location": "Albuquerque, NM",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463186516",
+    "source": "Linkedin",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-04T11:46:02.154234-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "b2db4080a93c480eb1fde920904bef56",
+    "title": "Product Design Engineer II - Motorized",
+    "company": "SharkNinja",
+    "location": "Needham, MA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4461153063",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-04T11:46:00.153040-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "cbe3336e262db1b244117e84da63ee40",
+    "title": "Product Design Engineer, Pixel Hardware",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4461979855",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 2,
+    "first_seen": "2026-09-04T11:45:58.302184-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "5c46f9e6b964aa2bc2e9ad77c89a0a53",
     "title": "UX Researcher",
     "company": "Galent",
@@ -6711,7 +6813,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-28T09:12:49.395125-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "69afe8a47f779d53a10129e701f74896",
@@ -6727,7 +6830,8 @@
     "posted_at": "2026-08-27",
     "priority": 4,
     "first_seen": "2026-08-28T09:12:47.505655-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "8ab622b8bf4579e4ab28b73cd7153621",
@@ -6743,7 +6847,8 @@
     "posted_at": "2026-08-27",
     "priority": 3,
     "first_seen": "2026-08-28T09:12:45.633809-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "1dbf61d854d9375ff46969c86615f736",
@@ -7022,7 +7127,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T20:26:17.685253-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c9d37cea5e5b928b0928e5c0d4e604c0",
@@ -7038,7 +7144,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T20:07:00.358065-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "84f6bd463090904ff82d934e6f0bea58",
@@ -7054,7 +7161,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T19:47:18.650314-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "0438d337beef23089e32aa55c6daaf8a",
@@ -7070,7 +7178,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T19:47:16.852596-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a18a70d7d712480037b011a791807eb2",
@@ -7102,7 +7211,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-27T18:45:09.198736-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5b12431eb4cf695e211904ffb6434b73",
@@ -7134,7 +7244,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T18:25:46.066560-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "bef6449050a15a857bccc6e68f80af4f",
