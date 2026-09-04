@@ -1,5 +1,56 @@
 [
   {
+    "id": "7cabd495b768937e5ac16562804c3ce1",
+    "title": "2027 Summer Intern: Product Designer UI/UX",
+    "company": "Spectrum",
+    "location": "Greenwood Village, CO, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=1b22d5941136f418",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 4,
+    "first_seen": "2026-09-04T03:07:00.002220-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "c50f0ac1bb08887ee7863d92cbbe3576",
+    "title": "Brand Designer, Creative Studio",
+    "company": "Notion",
+    "location": "New York, NY",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463173884",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-04T03:06:57.580296-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "eeb3815434bd2e04087a01dabf751dcd",
+    "title": "Presentation Designer",
+    "company": "CELLA",
+    "location": "McLean, VA, US",
+    "salary": "$38 \u2013 $43 / hourly",
+    "url": "https://www.indeed.com/viewjob?jk=9da015d9ec332657",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 4,
+    "first_seen": "2026-09-04T02:50:59.989568-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "11ecc1c857aacc04a2ede5631df17fa0",
     "title": "Founding Designer",
     "company": "UniversalAGI",
@@ -6167,7 +6218,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-28T14:33:59.079011-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "6760c582277ca318122c594c70102e40",
@@ -6183,7 +6235,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-28T14:33:57.155468-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5bfa41e8189935800403663bc4f67b09",
@@ -6199,7 +6252,8 @@
     "posted_at": "2026-08-24",
     "priority": 4,
     "first_seen": "2026-08-28T14:33:55.235708-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "a7966e67b7d1ebe27b3555a1638bb077",
@@ -6215,7 +6269,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-28T14:33:53.436660-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "141d209a68737ff9931fde1e24aa396b",
@@ -6231,7 +6286,8 @@
     "posted_at": "2026-08-27",
     "priority": 4,
     "first_seen": "2026-08-28T14:33:51.452221-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "e9e89c228cb2687f6f17a0a7ce202b25",
@@ -6247,7 +6303,8 @@
     "posted_at": "2026-08-27",
     "priority": 4,
     "first_seen": "2026-08-28T14:33:49.503099-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "8a291c8288d4b134e595b40ec24efdb8",
@@ -6263,7 +6320,8 @@
     "posted_at": "2026-08-27",
     "priority": 4,
     "first_seen": "2026-08-28T14:33:47.688868-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "a2dc2838b8bf7a8bb0ca782d14bdfaf1",
@@ -6279,7 +6337,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-28T14:13:57.457747-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "edf56fab69d74c289d9693d55bd3d41d",
@@ -6295,7 +6354,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-28T14:13:55.578738-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "00c1c9197826c7a3ad0584847f862585",
@@ -6311,7 +6371,8 @@
     "posted_at": "2026-08-27",
     "priority": 4,
     "first_seen": "2026-08-28T14:13:53.552935-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "9ea16fcff49550b88871ea9e07fff675",
@@ -6327,7 +6388,8 @@
     "posted_at": "2026-08-27",
     "priority": 4,
     "first_seen": "2026-08-28T14:13:51.562265-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "d78491f79fbfe4160c91fb169b700411",
@@ -6343,7 +6405,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-28T14:13:49.760989-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "cf8276c168d5073088992fc36852dc1f",
@@ -6359,7 +6422,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-28T09:52:03.525898-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "1d741c6b7c789a565e63edcd994edf88",
@@ -6375,7 +6439,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-28T09:52:01.614190-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "0f9baefa2370e88b59bde5c4abf097ca",
@@ -6391,7 +6456,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-28T09:51:59.877960-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8d4ac22330f5b4ebcc49b8f061e805c5",
@@ -6423,7 +6489,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-28T09:32:08.857004-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "0de93fce867b0aa2691ad1703bd38e6c",
@@ -29863,406 +29930,6 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-04T06:19:37.011770-07:00",
-    "status": "active"
-  },
-  {
-    "id": "2418ae05887221411586ec68505422c0",
-    "title": "Product Designer",
-    "company": "Centerfield",
-    "location": "Los Angeles, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4437642377",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-04T04:38:21.614765-07:00",
-    "status": "active"
-  },
-  {
-    "id": "2e553aee78c039d9d7e2a428683bff0e",
-    "title": "Product Designer, Shop Everything",
-    "company": "Instagram",
-    "location": "Menlo Park, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4446612736",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-04T04:38:18.924333-07:00",
-    "status": "active"
-  },
-  {
-    "id": "9b86aaacd04f08c6fb75096a5f8ce495",
-    "title": "Product Designer, Shop Everything",
-    "company": "Instagram",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4446609820",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-04T04:27:57.010316-07:00",
-    "status": "active"
-  },
-  {
-    "id": "69823539e2d51d7e91fbbd93d2f8bbeb",
-    "title": "Product Designer, Shop Everything",
-    "company": "Instagram",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4446616733",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-04T04:27:54.957940-07:00",
-    "status": "active"
-  },
-  {
-    "id": "73fc48379961b92dc9b7a9a476c96ab5",
-    "title": "Product Designer, Shop Everything",
-    "company": "Meta",
-    "location": "Remote, US",
-    "salary": "$201,000 \u2013 $278,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=15801e2d2450686d",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-08-01",
-    "priority": 4,
-    "first_seen": "2026-08-04T04:27:52.939894-07:00",
-    "status": "active"
-  },
-  {
-    "id": "62ffb4b6daf0394fbc2f0880b1adf418",
-    "title": "Product Designer, Shop Everything",
-    "company": "Meta",
-    "location": "New York, NY, US",
-    "salary": "$201,000 \u2013 $278,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=e9a5c9f07e133a87",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-08-01",
-    "priority": 3,
-    "first_seen": "2026-08-04T04:27:50.844438-07:00",
-    "status": "active"
-  },
-  {
-    "id": "52debdecc029bf5afe40bba6d5fa4770",
-    "title": "Product Design",
-    "company": "Latent",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4446630131",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-04T04:27:48.921267-07:00",
-    "status": "active"
-  },
-  {
-    "id": "b6d21269ee460a4ab086241ee485aeb5",
-    "title": "UX Designer, Alexa Enterprise and Emerging Design",
-    "company": "Amazon.com",
-    "location": "Sunnyvale, CA, US",
-    "salary": "$135,500 \u2013 $184,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=895af67bde0b7869",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-07-28",
-    "priority": 2,
-    "first_seen": "2026-08-04T04:27:47.019795-07:00",
-    "status": "active"
-  },
-  {
-    "id": "ddd87d1fa7cb162ee14b9e86fc092d7f",
-    "title": "Product Designer, Meta Superintelligence Labs",
-    "company": "Meta",
-    "location": "San Francisco, CA, US",
-    "salary": "$250,000 \u2013 $312,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=0839537c549a9100",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-08-01",
-    "priority": 1,
-    "first_seen": "2026-08-04T04:27:45.013495-07:00",
-    "status": "active"
-  },
-  {
-    "id": "b2b83533814b1f09bf8e196ee4269741",
-    "title": "Product Designer, Shop Everything",
-    "company": "Meta",
-    "location": "San Francisco, CA, US",
-    "salary": "$201,000 \u2013 $278,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=19d8556ac0097bc3",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-08-01",
-    "priority": 1,
-    "first_seen": "2026-08-04T04:27:42.872283-07:00",
-    "status": "active"
-  },
-  {
-    "id": "4aa41cbaaab4574f60e57dd163968201",
-    "title": "Product Designer, Shop Everything",
-    "company": "Meta",
-    "location": "Menlo Park, CA, US",
-    "salary": "$201,000 \u2013 $278,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=caed92f63f84030c",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-08-01",
-    "priority": 2,
-    "first_seen": "2026-08-04T04:27:40.490564-07:00",
-    "status": "active"
-  },
-  {
-    "id": "5d6ae8d93ad3909781f4f3a60e809c44",
-    "title": "Design Researcher- User Experience",
-    "company": "Federal Express Corporation",
-    "location": "Plano, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448829193",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T04:27:38.401304-07:00",
-    "status": "active"
-  },
-  {
-    "id": "eccef8306427179471bd67e290f7a96c",
-    "title": "User Researcher",
-    "company": "iPEM Solutions Inc",
-    "location": "Sacramento, CA, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=0c6fb996e8b1ea64",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-03",
-    "priority": 4,
-    "first_seen": "2026-08-04T04:27:36.384430-07:00",
-    "status": "active"
-  },
-  {
-    "id": "e6141626255de21dc3964f171e9edd26",
-    "title": "Design Researcher- User Experience",
-    "company": "FedEx",
-    "location": "Plano, TX, US",
-    "salary": "$5,960 \u2013 $9,834 / monthly",
-    "url": "https://www.indeed.com/viewjob?jk=7616fbc41875f7ac",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-03",
-    "priority": 4,
-    "first_seen": "2026-08-04T04:27:34.109923-07:00",
-    "status": "active"
-  },
-  {
-    "id": "d96bf3bcc25b08d2ba0da46032dcb378",
-    "title": "Product Designer, B2B SaaS",
-    "company": "T-Mobile",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448808431",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-04T00:00:02.803552-07:00",
-    "status": "active"
-  },
-  {
-    "id": "57a0cc82a976a1aa9625637b6c35c079",
-    "title": "Interaction Designer /UI Engineer",
-    "company": "BravoTECH",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448639076",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-04T00:00:00.771421-07:00",
-    "status": "active"
-  },
-  {
-    "id": "f8794f32bd6f2a4f2e0ca64888c24af6",
-    "title": "Product Designer, B2B SaaS",
-    "company": "T-Mobile",
-    "location": "Philadelphia, PA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448697730",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-03T23:59:56.492241-07:00",
-    "status": "active"
-  },
-  {
-    "id": "8aec9af0116772562cb600e13bf73976",
-    "title": "Product Designer II, Growth - Acquisition",
-    "company": "Warner Bros. Discovery",
-    "location": "New York, NY, US",
-    "salary": "$88,900 \u2013 $165,100 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=183412c5329cfb65",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-03",
-    "priority": 3,
-    "first_seen": "2026-08-03T23:59:52.498710-07:00",
-    "status": "active"
-  },
-  {
-    "id": "ecc156a14d709825fcaa0e0a015a1cfd",
-    "title": "Internship, UX Design, Design Studio (Winter/Spring 2027)",
-    "company": "Tesla",
-    "location": "Hawthorne, CA, US",
-    "salary": "$20 \u2013 $50 / hourly",
-    "url": "https://www.indeed.com/viewjob?jk=0715d5ba995c0699",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-08-03",
-    "priority": 4,
-    "first_seen": "2026-08-03T23:59:50.543106-07:00",
-    "status": "active"
-  },
-  {
-    "id": "87b041a58994bf843f8a966f5a52ac5e",
-    "title": "Hardware UX Designer Graduate (PICO-Edge AI & Spatial Computing) - 2027 Start",
-    "company": "ByteDance",
-    "location": "San Jose, CA, US",
-    "salary": "$76,000 \u2013 $151,200 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=abcc8199ff10393a",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-08-03",
-    "priority": 2,
-    "first_seen": "2026-08-03T23:59:48.531118-07:00",
-    "status": "active"
-  },
-  {
-    "id": "ca402e3057acf3ac9aa91cd47a66df1e",
-    "title": "Product Designer - Android",
-    "company": "VARITE INC",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4440047955",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-03T23:59:43.265619-07:00",
-    "status": "active"
-  },
-  {
-    "id": "761cbb6bf4798938ac43678e4c8c5ba8",
-    "title": "Product Designer II, Growth - Acquisition",
-    "company": "CNN",
-    "location": "Atlanta, GA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448818108",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-03T23:05:22.142457-07:00",
-    "status": "active"
-  },
-  {
-    "id": "a376e475f42f0f6d75cd39e4949a40ec",
-    "title": "Product Designer II, Growth - Acquisition",
-    "company": "CNN",
-    "location": "Washington, DC",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448805739",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-03T23:05:19.924345-07:00",
-    "status": "active"
-  },
-  {
-    "id": "c16fe6b73d35a322b0ca6915b745f8a0",
-    "title": "Product Designer II, Growth - Acquisition",
-    "company": "CNN",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448813150",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-03T23:05:17.931324-07:00",
-    "status": "active"
-  },
-  {
-    "id": "0067b0c77f4f9ad61070fc5ee9bc12f2",
-    "title": "Founding Product Designer",
-    "company": "first20.io",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448698651",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-03T23:05:11.206399-07:00",
     "status": "active"
   }
 ]
