@@ -1,5 +1,22 @@
 [
   {
+    "id": "ca2d578f72bf57360b993b3beea49a1d",
+    "title": "User Experience Designer",
+    "company": "Charles Schwab",
+    "location": "Austin, TX, US",
+    "salary": "$112,300 \u2013 $155,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=9474d4aaea29306c",
+    "source": "Indeed",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-03",
+    "priority": 4,
+    "first_seen": "2026-09-04T14:54:52.210813-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "3d2bae9672a28217174986dd5dc81f30",
     "title": "UX / UI Architect",
     "company": "Wet Coast Logistics",
@@ -8173,7 +8190,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-27T10:28:37.735460-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "4caeb3d870921865f69889ca33a0f219",
@@ -8223,7 +8241,8 @@
     "posted_at": "2026-07-14",
     "priority": 4,
     "first_seen": "2026-08-27T10:09:42.867357-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "88cc19d411746af468d41b8667342ab4",
@@ -8239,7 +8258,8 @@
     "posted_at": "2026-08-26",
     "priority": 2,
     "first_seen": "2026-08-27T10:09:40.141878-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "93e3553024af8c68461a08549eccf32e",
@@ -8306,7 +8326,8 @@
     "posted_at": "2026-08-27",
     "priority": 4,
     "first_seen": "2026-08-27T09:26:44.570509-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2e799761adb5cbd49de482376aa0589f",
@@ -8474,7 +8495,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T09:24:53.994156-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "0ce037e69460d7594485d511b090df2a",
@@ -8490,7 +8512,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-27T03:45:29.219674-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "75a30c45ecf088e5104d707ad5896104",
@@ -8506,7 +8529,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-27T03:30:23.666611-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5b83fa4bad1d5c6ac319a846c34c80b5",
@@ -8602,7 +8626,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-26T20:32:04.299752-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "905899452fa50bc52a9486b4ea08b38b",
