@@ -13393,10 +13393,10 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-13T14:28:33.157995-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-09-04T02:15:57.075791-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 2
   },
   "082355a0ba1d309ccdaa131b14e4810e": {
     "id": "082355a0ba1d309ccdaa131b14e4810e",
@@ -13694,10 +13694,10 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-14T13:47:13.681803-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-09-04T02:15:57.075791-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 2
   },
   "8419fa62e5961d9e29fe97b2fe637559": {
     "id": "8419fa62e5961d9e29fe97b2fe637559",
@@ -13715,7 +13715,9 @@
     "priority": 1,
     "first_seen": "2026-08-14T17:53:55.166845-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0
   },
   "57e8dae854e5b8e43790a83afaaa39fa": {
     "id": "57e8dae854e5b8e43790a83afaaa39fa",
@@ -13733,7 +13735,8 @@
     "priority": 5,
     "first_seen": "2026-08-14T22:19:59.982053-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00"
   },
   "82fc526c4e5e03af14b0422c27ac37b0": {
     "id": "82fc526c4e5e03af14b0422c27ac37b0",
@@ -13751,7 +13754,8 @@
     "priority": 5,
     "first_seen": "2026-08-15T01:00:08.222927-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00"
   },
   "97965f4751eefef51f3a1efa95a28aca": {
     "id": "97965f4751eefef51f3a1efa95a28aca",
@@ -13769,7 +13773,9 @@
     "priority": 5,
     "first_seen": "2026-08-15T01:34:58.445190-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0
   },
   "18ff95a2334404c100606f6da4f1886d": {
     "id": "18ff95a2334404c100606f6da4f1886d",
@@ -13787,7 +13793,9 @@
     "priority": 1,
     "first_seen": "2026-08-15T01:35:00.172107-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0
   },
   "f5af7cd1c62aa1c8745a5333522c41b8": {
     "id": "f5af7cd1c62aa1c8745a5333522c41b8",
@@ -13805,7 +13813,9 @@
     "priority": 5,
     "first_seen": "2026-08-15T03:46:50.257444-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0
   },
   "f5343246557e3982f6e07ff7e4b1d3ac": {
     "id": "f5343246557e3982f6e07ff7e4b1d3ac",
@@ -13823,7 +13833,9 @@
     "priority": 5,
     "first_seen": "2026-08-15T03:46:51.979922-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0
   },
   "de15236158ebc792ec5f60ca6253b12e": {
     "id": "de15236158ebc792ec5f60ca6253b12e",
@@ -13841,7 +13853,9 @@
     "priority": 4,
     "first_seen": "2026-08-15T03:46:53.741091-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0
   },
   "5a66c6c83ef7772d3c0991ee0e62c9b7": {
     "id": "5a66c6c83ef7772d3c0991ee0e62c9b7",
@@ -13859,7 +13873,9 @@
     "priority": 3,
     "first_seen": "2026-08-15T03:46:55.497494-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0
   },
   "7025da2f10c4d646d8000f8ff9cdce76": {
     "id": "7025da2f10c4d646d8000f8ff9cdce76",
@@ -13877,7 +13893,9 @@
     "priority": 1,
     "first_seen": "2026-08-15T03:46:57.262427-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0
   },
   "6de6c15159bf51ac928fa469f4d7a98f": {
     "id": "6de6c15159bf51ac928fa469f4d7a98f",
@@ -13895,7 +13913,9 @@
     "priority": 3,
     "first_seen": "2026-08-15T04:35:37.581584-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0
   },
   "cbb0e8fe50ba2b5f3f64f20d54a1edfd": {
     "id": "cbb0e8fe50ba2b5f3f64f20d54a1edfd",
@@ -13913,7 +13933,9 @@
     "priority": 5,
     "first_seen": "2026-08-15T08:35:59.364411-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0
   },
   "7237047c2b7534bfd4b0fd2b9b3ba3a6": {
     "id": "7237047c2b7534bfd4b0fd2b9b3ba3a6",
@@ -13931,7 +13953,9 @@
     "priority": 5,
     "first_seen": "2026-08-15T09:49:18.595952-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "jd_failed": 1
   },
   "404ad9ca517937a966110f011702aed2": {
     "id": "404ad9ca517937a966110f011702aed2",
@@ -13949,7 +13973,10 @@
     "priority": 1,
     "first_seen": "2026-08-15T18:13:46.573006-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0,
+    "description": "Present design concepts, rationale, and creative thinking to stakeholders.\nClearly communicate design intent, user value, and experience vision.\nCreate concept decks, design documentation, and visual storytelling materials.\nRequired Qualifications\nBachelor\u2019s degree in Design, Interaction Design, Visual Design, or related field (or equivalent experience).\n3\u20137+ years of experience in UI/UX design, product design, or experience design.\nStrong portfolio demonstrating concept development and UX/UI design thinking.\nExperience creating wireframes, mockups, and interactive prototypes.\nStrong visual design and interaction design skills.\nProficiency in design tools such as Figma, Sketch, Adobe Creative Suite, or similar.\nPreferred Qualifications\nExperience working in early-stage product discovery, innovation, or creative teams.\nStrong conceptual thinking and creative problem-solving abilities.\nExperience collaborating with UX research and creative strategy teams.\nFamiliarity with design thinking and human-centered design methodologies.\nExperience designing for multiple platforms (web, mobile, emerging interfaces).\nCompensation is based on actual experience and qualifications of the candidate. The above is a reasonable and a good faith estimate for the role.\nMedical, vision, and dental benefits, 401k retirement plan, variable pay/incentives, paid time off, and paid holidays are available for full time employees.\nThis position is available for independent contractors\nNo applications will be considered if received more than 120 days after the date of this post\nDevelop scalable full-stack software across the complete development lifecycle. Responsibilities include building responsive front-end interfaces, designing user interactions, developing databases and back-end services, creating REST APIs, testing and debugging applications, implementing CI/CD practices, documenting solutions, and collaborating with engineering teams and product managers in an Agile/Scrum environment.\n.Net Agile Apache AWS Azure Azure Devops C# Ci/Cd CSS Git HTML Infrastructure As Code JavaScript MongoDB MySQL Node.js React Rest Apis Salesforce Scrum Typescript Uml XML\nLead full-cycle development of API and web applications, from architecture and design through deployment and support. Collaborate with product, design, and engineering teams to set technical direction, deliver secure and scalable solutions, improve developer productivity, and support Agile delivery. Responsibilities include code reviews, troubleshooting, documentation, observability, automation, quality measurement, and responsible use of AI-assisted development tools.\nApollo Graphql Chatgpt Ci/Cd Claude Docker Git Github Copilot Google Cloud Platform Jest Node.js Postgres React Typescript\nArtificial Intelligence \u2022 Fintech \u2022 Insurance \u2022 Marketing Tech \u2022 Software \u2022 Analytics\nHandles inbound calls and warm leads, advises customers on insurance needs, matches them with appropriate coverage and products, and converts prospects into policyholders. The role includes paid training and licensing, requires a Property and Casualty license after hire, and follows a weekday-plus-weekend schedule. Representatives work remotely using company-provided equipment and must maintain a dedicated workspace with wired high-speed internet.\nCable Internet Dsl Internet Fiber Internet Pc Property And Casualty Insurance License\nWhat you need to know about the San Francisco Tech Scene\nSan Francisco and the surrounding Bay Area attracts more startup funding than any other region in the world. Home to Stanford University and UC Berkeley, leading VC firms and several of the world\u2019s most valuable companies, the Bay Area is the place to go for anyone looking to make it big in the tech industry. That said, San Francisco has a lot to offer beyond technology thanks to a thriving art and music scene, excellent food and a short drive to several of the country\u2019s most beautiful recreational areas.\nNumber of Tech Workers: 365,500; 13.9% of ov"
   },
   "aa26f53143dfc13453938db81aff831d": {
     "id": "aa26f53143dfc13453938db81aff831d",
@@ -13967,7 +13994,10 @@
     "priority": 1,
     "first_seen": "2026-08-15T18:14:03.639875-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0,
+    "description": "Artificial Intelligence \u2022 Fintech \u2022 Insurance \u2022 Marketing Tech \u2022 Software \u2022 Analytics\nHandles inbound calls and warm leads, advises customers on insurance needs, matches them with appropriate coverage and products, and converts prospects into policyholders. The role includes paid training and licensing, requires a Property and Casualty license after hire, and follows a weekday-plus-weekend schedule. Representatives work remotely using company-provided equipment and must maintain a dedicated workspace with wired high-speed internet.\nCable Internet Dsl Internet Fiber Internet Pc Property And Casualty Insurance License\nDesign and deliver UI/UX solutions for web and mobile: research requirements, create wireframes, prototypes, visual designs, and test UI elements. Collaborate with marketing and designers, apply UX research methods, and ensure design system and typography standards.\nInvestigating user experience design requirements for our suite of digital assets\nDeveloping and conceptualizing a comprehensive UI/UX design strategy for the brand\nProducing high-quality UX design solutions through wireframes, visual and graphic designs, flow diagrams, storyboards, site maps, and prototypes\nDesigning UI elements and tools such as navigation menus, search boxes, tabs, and widgets for our digital assets\nTesting UI elements such as CTAs, banners, page layouts, page designs, page flows, and target links for landing pages\nCollaborating with the marketing team, and internal and external designers to ensure the creation and delivery of tailored experiences for the digital user\nProviding advice and guidance on the implementation of UX research methodologies and testing activities in order to analyze and predict user behavior\nAdhering to style standards on typography and graphic design\nRequirements Minimum of 2 years UI/UX design experience for digital products or services\nA portfolio of professional UI/UX design work for both web and mobile platforms\nWorking knowledge of the following technologies and software: Sketch, InVision, Visio, HTML, CSS (SCSS), iOS, Android, Design Systems, and Adobe Creative Suite\nExcellent written and verbal communication skills\nMulti-tasking and time-management skills, with the ability to prioritize tasks\nBenefits Opportunity to be a part of a dynamic growth focused tech startup\nGreat learning opportunities to develop new skills and understanding of cutting edge software tools and processes\nOpportunity to work closely with serial tech entrepreneurs from Silicon Valley\nFun loving environment and caring team mates and inclusive culture of the company\nWhat you need to know about the San Francisco Tech Scene\nSan Francisco and the surrounding Bay Area attracts more startup funding than any other region in the world. Home to Stanford University and UC Berkeley, leading VC firms and several of the world\u2019s most valuable companies, the Bay Area is the place to go for anyone looking to make it big in the tech industry. That said, San Francisco has a lot to offer beyond technology thanks to a thriving art and music scene, excellent food and a short drive to several of the country\u2019s most beautiful recreational areas.\nNumber of Tech Workers: 365,500; 13.9% of overall workforce (2024 CompTIA survey)\nMajor Tech Employers: Google, Apple, Salesforce, Meta\nKey Industries: Artificial intelligence , cloud computing , fintech , consumer technology , software\nFunding Landscape: $50.5 billion in venture capital funding in 2024 (Pitchbook)\nNotable Investors: Sequoia Capital, Andreessen Horowitz, Bessemer Venture Partners, Greylock Partners, Khosla Ventures, Kleiner Perkins\nResearch Centers and Universities: Stanford University; University of California, Berkeley; University of San Francisco; Santa Clara University; Ames Research Center; Center for AI Safety; California Institute for Regenerative Medicine\nBy clicking Apply Now you agree to share your profile information with the hiring\nOops, something went wrong. Please try again."
   },
   "ea70eada7387706bc2c1012aabe2539c": {
     "id": "ea70eada7387706bc2c1012aabe2539c",
@@ -13985,7 +14015,10 @@
     "priority": 5,
     "first_seen": "2026-08-15T19:35:53.746879-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0,
+    "description": "About Gusto\n\nAt Gusto, we\u2019re on a mission to grow the small business economy. We handle the hard stuff \u2014 payroll, health insurance, 401(k)s, and HR \u2014 so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve.\n\nAll full-time employees receive competitive base pay, benefits, and equity (RSUs) \u2014 because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy.\n\nAI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.\n\nAbout the Role:\n\nWe\u2019re looking for a AI-native Design Systems Designer to join Gusto\u2019s Builder Enablement team \u2014 the team responsible for Workbench, Gusto\u2019s internal design system, and for how every designer and engineer at Gusto ships high-quality work with AI assistance.\n\nThis role sits at an exciting and genuinely new intersection: deep design systems craft combined with fluency in AI-assisted workflows. You\u2019ll help evolve and maintain Workbench at a pivotal moment \u2014 we\u2019re mid-Brand Refresh, actively building AI tooling to improve how builders interact with the system, and expanding how the design system serves LLMs and AI-assisted products as much as it serves human designers. The ideal candidate is a rigorous systems thinker with strong component and token expertise who is excited about using AI tools as a core part of how they work, not just an add-on. We use Figma as a helper tool, but our deliverables are code.\u00a0The level of this role is similar to/equivalent of a Senior Staff-level.\n\nAbout the Team:\n\nThe Builder Enablement team\u2019s mission is to make high-quality, AI-assisted shipping the default for every builder at Gusto. We own Workbench, Gusto\u2019s design system, but we also own how it gets expressed to AI tools and builders. Our work spans component design and documentation, token architecture, AI tooling (including MCP servers, prompt engineering, and eval systems), and supporting the broader design and engineering org in using the system well.\n\nWe\u2019re a small, tight-knit team of designers and engineers embedded within Gusto\u2019s design organization, led by our CDO, Amy Thibodeau. We care deeply about craft, systems thinking, and making complex things feel simple for the people who depend on us.\n\nProduct Design at Gusto is made up of over 70 creative, collaborative people who care deeply about our mission to empower small businesses and their employees. We\u2019re a cross-functional bunch focused on Design, Research, Writing, Ops and Front-end Development who are always looking for opportunities to build understanding and empathy for the people who use Gusto. We don\u2019t care a whole lot about swim lanes and we work closely with our partners in Product, Engineering, Data, and Marketing to design, build and ship experiences that make a difference. We are passionate advocates for thoughtful, crafted, and inclusive experiences and we believe great design can make hard things possible, even delightful. Read more about Design at Gusto.\n\nHere\u2019s what you\u2019ll do day-to-day:\n\nDesign and maintain Workbench components and patterns, including complex components with variables, variants, and tokenized styles\n\nOwn and evolve semantic and functional token architecture as we execute the Brand Refresh and move toward theming\n\nWork closely with our engineering team to ensure component consistency including coded implementations \u2014 pairing on design decisions, reviewing implementations, contributing to technical plans, and committing your own PRs.\n\nContribute to AI tooling that helps designers and engineers use Workbench correctly \u2014 including struc"
   },
   "6b19860188b83a2cf58610021b6ddffb": {
     "id": "6b19860188b83a2cf58610021b6ddffb",
@@ -14003,7 +14036,10 @@
     "priority": 5,
     "first_seen": "2026-08-15T23:50:57.142731-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0,
+    "description": "An Enterprise Technology Management platform for end-to-end visibility and automation of IT ecosystems.\nEnterprise Software It Service Management Logistics Orchestration Cost Optimization Security Enforcement\nJob Description\nOomnitza offers the industry\u2019s most versatile Enterprise Technology Management platform that orchestrates and automates key business processes for IT. Our SaaS solution, with agentless integrations, best practices and low-code workflows, enables enterprises to leverage their existing infrastructure systems and automate processes such as offboarding, onboarding, audit readiness, refresh forecasting and more, thereby reducing reliance on error-prone manual tasks and tickets.\u00a0We help some of the most well-known and innovative companies to improve efficiency,\u00a0expedite audits, mitigate cyber risk and eliminate redundant IT spend.\nOomnitza is hiring a UX Design Engineer to own the design system, component library, and prototyping tooling that powers our Product Engineering team. In our model, Product Engineers run discovery and prototyping end-to-end; your job is to give them an opinionated, well-tested, well-documented platform so they can move fast without losing design quality.\nThis is a hands-on role. Most of your time is in code and design tooling: maintaining the system, evolving the Storybook component library, building scaffolding that makes prototyping fast, and consulting on the small number of interactions that are genuinely novel. The role can sit in the US or in Ireland since most of the work is with tooling and systems.\nWhat You\u2019ll Do\nOwn the Oomnitza design system end-to-end: visual language, interaction patterns, accessibility guardrails, and the rules that keep the product feeling like one product.\nMaintain and extend the Storybook component library. Components should be correct, documented, performant, accessible, and easy for Product Engineers to compose.\nBuild and maintain the prototyping tooling (design tokens, AI-prompt scaffolds, design markdowns, starter kits) that lets Product Engineers move from idea to validated prototype in days.\nConsult with Product Engineers on UX interactions that fall outside the patterns, and produce the new pattern, component, or guidance that adds back to the system.\nPartner with engineering to keep the design system and the implementation library aligned. Identify when a one-off interaction should be promoted into the system.\nHold the quality bar for design output across the team. Review prototypes against the system, flag drift, and make the right thing easy to do.\nTrack the design-engineering space (Figma plugins, AI design tooling, headless component libraries, accessibility standards) and propose investments that make the team faster.\nBachelor\u2019s degree in design, human-computer interaction, computer science, or a related field, or equivalent experience.\n5+ years combined across product design and front-end engineering. You are equally comfortable in Figma and in a modern front-end codebase.\nExperience owning or substantially contributing to a production design system and a Storybook or equivalent component library.\nStrong front-end skills: React, TypeScript, modern CSS including design tokens, and accessibility best practices.\nComfort with AI-enabled design and prototyping workflows. You see AI as a way to make the design system more useful, not as a replacement for it.\nStrong taste paired with the discipline to systematize it. You recognize good design and codify it into reusable patterns and components.\nStrong written and verbal communication. You can document a pattern, brief a Product Engineer, and influence without authority.\nSelf-directed and outcome-oriented. You identify the highest-leverage investments in the system and prioritize without close supervision.\nB2B SaaS or enterprise software experience is a strong plus.\nHealth Insurance for you, your spouse and dependents\nPension, Life insurance and Income protection\nA progressive, healthy work cultu"
   },
   "0d79ebf14820c0944be8a0fa643fc285": {
     "id": "0d79ebf14820c0944be8a0fa643fc285",
@@ -14021,7 +14057,10 @@
     "priority": 5,
     "first_seen": "2026-08-15T23:50:58.685161-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0,
+    "description": "An Enterprise Technology Management platform for end-to-end visibility and automation of IT ecosystems.\nEnterprise Software It Service Management Logistics Orchestration Cost Optimization Security Enforcement\nJob Description\nOomnitza offers the industry\u2019s most versatile Enterprise Technology Management platform that orchestrates and automates key business processes for IT. Our SaaS solution, with agentless integrations, best practices and low-code workflows, enables enterprises to leverage their existing infrastructure systems and automate processes such as offboarding, onboarding, audit readiness, refresh forecasting and more, thereby reducing reliance on error-prone manual tasks and tickets.\u00a0We help some of the most well-known and innovative companies to improve efficiency,\u00a0expedite audits, mitigate cyber risk and eliminate redundant IT spend.\nOomnitza is hiring a UX Design Engineer to own the design system, component library, and prototyping tooling that powers our Product Engineering team. In our model, Product Engineers run discovery and prototyping end-to-end; your job is to give them an opinionated, well-tested, well-documented platform so they can move fast without losing design quality.\nThis is a hands-on role. Most of your time is in code and design tooling: maintaining the system, evolving the Storybook component library, building scaffolding that makes prototyping fast, and consulting on the small number of interactions that are genuinely novel. The role can sit in the US or in Ireland since most of the work is with tooling and systems.\nWhat You\u2019ll Do\nOwn the Oomnitza design system end-to-end: visual language, interaction patterns, accessibility guardrails, and the rules that keep the product feeling like one product.\nMaintain and extend the Storybook component library. Components should be correct, documented, performant, accessible, and easy for Product Engineers to compose.\nBuild and maintain the prototyping tooling (design tokens, AI-prompt scaffolds, design markdowns, starter kits) that lets Product Engineers move from idea to validated prototype in days.\nConsult with Product Engineers on UX interactions that fall outside the patterns, and produce the new pattern, component, or guidance that adds back to the system.\nPartner with engineering to keep the design system and the implementation library aligned. Identify when a one-off interaction should be promoted into the system.\nHold the quality bar for design output across the team. Review prototypes against the system, flag drift, and make the right thing easy to do.\nTrack the design-engineering space (Figma plugins, AI design tooling, headless component libraries, accessibility standards) and propose investments that make the team faster.\nBachelor\u2019s degree in design, human-computer interaction, computer science, or a related field, or equivalent experience.\n5+ years combined across product design and front-end engineering. You are equally comfortable in Figma and in a modern front-end codebase.\nExperience owning or substantially contributing to a production design system and a Storybook or equivalent component library.\nStrong front-end skills: React, TypeScript, modern CSS including design tokens, and accessibility best practices.\nComfort with AI-enabled design and prototyping workflows. You see AI as a way to make the design system more useful, not as a replacement for it.\nStrong taste paired with the discipline to systematize it. You recognize good design and codify it into reusable patterns and components.\nStrong written and verbal communication. You can document a pattern, brief a Product Engineer, and influence without authority.\nSelf-directed and outcome-oriented. You identify the highest-leverage investments in the system and prioritize without close supervision.\nB2B SaaS or enterprise software experience is a strong plus.\nCareer Growth: Top performers will have an opportunity to help shape the team. Working directly with the founders to drive initiativ"
   },
   "dce4b880c4062af03fe5077ff7d6d9f0": {
     "id": "dce4b880c4062af03fe5077ff7d6d9f0",
@@ -14039,7 +14078,10 @@
     "priority": 5,
     "first_seen": "2026-08-16T03:47:35.834505-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0,
+    "description": "The Role\nWe're looking for a Product Designer to help shape the future of AI-powered marketing. You'll join the team building Polaris IQ, Wpromote's intelligent marketing platform that empowers marketers and clients to make smarter decisions across strategy, media, creative, measurement, and optimization. Working alongside the Director of Product Design and embedded within a cross-functional product squad, you'll partner closely with Product Management, Engineering, and Data Science to transform complex AI capabilities into intuitive, elegant experiences. This is an opportunity to influence the direction of a rapidly evolving platform, solve meaningful challenges at scale, and create products that have a direct impact on how our employees and clients succeed every day.\nAt Wpromote, we believe that great work is only possible with great people. Our goal is to build a better, more inclusive work environment and support our people at every stage of their careers by prioritizing a strong work-life balance through our policies and benefits listed below. As a Best Place to Work according to both Ad Age and Glassdoor and Adweek\u2019s Fastest Growing Digital Agency, we are moving fast to expand our teams and bring new experts into the fold to keep pushing the boundaries of what\u2019s possible in marketing.\n-Remote-first culture\n-Unlimited PTO\n-Extended Holiday break (Winter)\n-Flexible schedules\n-Work from anywhere options*\n-100% paid parental leave\n-401(k) matching\n-Medical, Dental, Vision, Life, Pet Insurance\n-Sponsored life insurance\n-Short Term Disability insurance and additional voluntary insurance\n-Annual Class Pass credits and more!\nThe anticipated annual salary for this role will range from $111,000 - $132,000, based on a variety of factors unique to each candidate, including skill set, years and depth of experience, education and certifications, competitive benchmarks, scope of responsibility, market dynamics, geographic location, and the respective state\u2019s salary threshold for exempt employees. At Wpromote, pay ranges are subject to change and are based on specific market medians for similar jobs according to third-party salary benchmark surveys. Individual pay within that range can vary due to skills, experience, and available budget.\u00a0 The total compensation package for this role will include benefits (listed above).\n*This position may be performed remotely in most states within the US, with some exclusions\n**While this role offers the flexibility to work remotely, we have office hubs in Los Angeles, Chicago, and New York, where you can join in on learning and development opportunities, fun events, take advantage of a space to work, and collaborate in person!\n***This position is not eligible for immigration sponsorship\nWpromote recruiting communications will only be sent through our official channels via wpromote.com email addresses. If you see a posting elsewhere that is not reflected on Wpromote.com/careers , it may be a fraudulent posting. We do not require payment or fees during the hiring process nor do we request sensitive information, such as Social Security numbers or payment details. Please safeguard yourself against possible scams and contact us if you encounter any suspicious activity.\nCreating user flows, wireframes, and high-fidelity mockups in Figma for a seamless user experience\nConducting research and testing to understand user needs and validate design concepts\nCollaborating with product managers to translate requirements into intuitive interfaces\nPartnering with engineers to ensure high-quality design implementation\nSupporting the maintenance of a \u00a0cohesive design system to enable scalability, consistency, and efficiency\nSimplifying complex AI capabilities and data sets for clarity and usability\nEngaging in design reviews and providing constructive feedback to elevate quality\nStaying current with design trends, UX practices, and AI advancements to drive innovation\n3-5 years of product design experience with a stron"
   },
   "991950c437c110d8abcdffb46c285109": {
     "id": "991950c437c110d8abcdffb46c285109",
@@ -14057,7 +14099,9 @@
     "priority": 5,
     "first_seen": "2026-08-16T09:49:09.233797-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "jd_failed": 1
   },
   "0511b261a013a32fb46118ce83154575": {
     "id": "0511b261a013a32fb46118ce83154575",
@@ -14075,7 +14119,10 @@
     "priority": 3,
     "first_seen": "2026-08-16T09:49:10.784232-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "dead_strikes": 0,
+    "description": "About DualEntry\nDualEntry is building the OS for finance.\nEvery business needs a financial system of record, yet the world's largest fintech market ($220B+) still runs on software from the 1990s. DualEntry's AI-native ERP automates accounting from data entry to close, so finance teams move faster, spend less and incur less risk.\nIn just 2 years we've raised $100M+ from Lightspeed, Khosla Ventures, Contrary and Google Ventures and earned the trust of customers from $5M ARR to publicly traded companies.\nWe hire outliers - people who have achieved difficult things, in their careers or beyond. You'll find leaders, colleagues who've competed at the highest levels of sport, performed on Broadway, trained with UFC champions and founded the country\u2019s largest Python community.\n\nWhy This Role Matters Now\n\nWhere You'll Create Impact\nDefine how DualEntry shows up in the world. You\u2019ll make decisions that shape perception with CFOs, operators and finance teams: an audience that notices when something feels cheap and responds when something feels considered\n\nLead dualentry.com as a living expression of the brand. From landing pages and feature pages to campaign moments, you\u2019ll design with an obsessive eye for hierarchy, craft and conversion\n\nDrive the creative for DualEntry\u2019s events presence: CFO dinners, conference booths, sponsored activations. You\u2019ll ensure every physical touchpoint feels as intentional as the digital ones\n\nBuild scalable systems, not one-off assets. Deck masters, social frameworks, email layouts, print templates: you\u2019ll create the infrastructure that lets brand quality compound over time\n\nPartner directly with PMM, Marketing, and Sales as a creative strategist. You know how to receive a brief, challenge it when it\u2019s wrong and translate positioning into visual storytelling that lands\n\nWhat Sets You Up for Success\nHardcore work ethic and high agency\n\n4+ years of design experience in-house at a high-growth B2B SaaS company, a top-tier agency or both. The best candidates will have seen both environments\n\nA portfolio that makes us stop scrolling. Strong work across brand identity, web, print and event or environmental design. Multidisciplinary range is essential. We\u2019re looking for craft and conviction, not volume\n\nYou\u2019ve built and evolved brand systems, not just executed within them. You understand the difference between a brand guide and a living identity\n\nYou have a point of view about what great B2B brand looks like, and the confidence to defend it. To a CEO, a PMM, or a vendor who wants to take the easy path\n\nYou operate at both strategic and executional altitude without losing quality at either end. You can define the system and then execute the asset\n\nYou\u2019re fluent in Figma and Adobe Creative Suite. Tools are not a bottleneck for you. Webflow experience is a plus\n\nHigh agency. You don\u2019t wait to be told what to do next, and you don\u2019t need creative guardrails to do your best work\n\nWhy You\u2019ll Thrive Here\nSignificant equity ownership in one of the top AI companies in the world\n\nYou\u2019re joining early and will grow with DualEntry\n\nYour feedback shapes the product directly\n\nHigh-speed, high-trust environment with high expectations\n\nMeet the team\nJan made sure we were the ones being understood. Owned marketing messaging, positioning, and voice. Redesigned the DualEntry website in her first 90 days. Also launched a bi-coastal NYC/SF campaign covering over 100+ billboards that lifted brand visibility and awareness\n\nAna took the lead and owned the community and events at DualEntry from end to end. Thousands of attendees across 15+ events in 6 months. Dinners, roundtables, poker night and much more!\n\nBenefits & Compensation\nEquity: $50,000 - $60,000\n\nBase Salary: $160,000 - $190,000\n\nMedical, dental & vision insurance\n\nOne Medical membership\n\nMental health support (Talkspace)\n\nFertility & family-building support (Kindbody)\n\nVirtual healthcare (Teladoc Health)\n\n401(k)\n\nCommuter benefits\n\nLearning & development budget for courses, cer"
   },
   "5209217ba4b7bd9af3d5f21967020368": {
     "id": "5209217ba4b7bd9af3d5f21967020368",
@@ -14093,7 +14140,9 @@
     "priority": 5,
     "first_seen": "2026-08-16T19:34:03.590569-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00",
+    "jd_failed": 1
   },
   "1053a170bbca2d576eb8998268011a48": {
     "id": "1053a170bbca2d576eb8998268011a48",
@@ -14112,7 +14161,8 @@
     "first_seen": "2026-08-16T21:25:07.846538-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2,
+    "checked_at": "2026-09-04T06:39:43.220828-07:00"
   },
   "ae905cc52712db0c0815f396778be8ab": {
     "id": "ae905cc52712db0c0815f396778be8ab",
@@ -14321,7 +14371,7 @@
     "first_seen": "2026-08-17T06:25:53.888208-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "92b76cb7e0b27813d43e6743ae71d696": {
     "id": "92b76cb7e0b27813d43e6743ae71d696",
@@ -14359,7 +14409,7 @@
     "first_seen": "2026-08-17T07:34:11.181965-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "25b06f176796d76e4de839d6efe437b1": {
     "id": "25b06f176796d76e4de839d6efe437b1",
@@ -14378,7 +14428,7 @@
     "first_seen": "2026-08-17T19:41:53.741874-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "e2a88830280aed26949ee733f4c23f93": {
     "id": "e2a88830280aed26949ee733f4c23f93",
@@ -14473,7 +14523,7 @@
     "first_seen": "2026-08-18T12:07:53.175387-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "6b94da17400266cac5ce4b7a547960c2": {
     "id": "6b94da17400266cac5ce4b7a547960c2",
@@ -14511,7 +14561,7 @@
     "first_seen": "2026-08-18T18:35:20.328460-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "c15650101174067f046cebcc1f838ea7": {
     "id": "c15650101174067f046cebcc1f838ea7",
@@ -14530,7 +14580,7 @@
     "first_seen": "2026-08-18T21:10:22.945766-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "eac80ffc2348dcf998b4cac8f0b774fb": {
     "id": "eac80ffc2348dcf998b4cac8f0b774fb",
@@ -14549,7 +14599,7 @@
     "first_seen": "2026-08-18T21:10:24.585455-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "9e9bb46f713f8b6ec6bc497e573fa38c": {
     "id": "9e9bb46f713f8b6ec6bc497e573fa38c",
@@ -14568,7 +14618,7 @@
     "first_seen": "2026-08-18T22:24:04.733387-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "79e87cc75e786777fec851b78f9aaf9b": {
     "id": "79e87cc75e786777fec851b78f9aaf9b",
@@ -17024,6 +17074,44 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-09-03T17:25:51.361979-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "70d47cadc962918d377af29b0c35c3c3": {
+    "id": "70d47cadc962918d377af29b0c35c3c3",
+    "title": "Product Designer",
+    "company": "Air",
+    "location": "Pittsburgh, PA",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1591626-product-designer-pittsburgh-pa-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Air is the leader in Enterprise Readiness. Our mission is to establish readiness as a real-time condition that is continuously achieved. Today, a dangerous Readiness Gap exists between what the front line needs and what is delivered. Our AI-native platform, Air Enterprise Readiness, aligns development, production, delivery, and sustainment into one coordinated execution system for government agencies and industrial suppliers. By revealing true capacity, exposing real constraints, coordinating resources, and executing at the speed of operational demands, the front line gets what it needs to succeed.\nJob Description\nWe are looking for a highly experienced Product Designer to continue growing our Design team and help shape the future of the Air Enterprise Readiness Platform. This role is highly embedded: you will work directly alongside our forward-deployed engineers and end-users, requiring a designer who values speed of delivery over perfection and rapid iteration. You must be a critical thinker and problem solver who can take ownership of feature strategy and development. A strong candidate can not only convert ambiguous objectives into empowering and enjoyable experiences but also helps facilitate all parts of the process, including rapid, low-fidelity prototyping, interaction design, and on-site client engagement to drive continuous UX research and ensure we are building for user needs.\nOur product team is a collaborative group of product managers, implementation, and engineers. We operate in integrated deployments, each focused on key user workflows and needs we have identified in the defense space. You will join a deployment depending on your background and take charge of the tasks for that track.\nIn a typical week, the individual who fills this position could expect to:\nCollaborate directly with end-users and forward-deployed engineers to understand mission-critical workflows.\nGather real-time feedback and iterate rapidly on design solutions within the operational environment.\nCollaborate with product managers and engineers to scope, architect, and deliver 0-to-1 product initiatives and prototypes.\nAssess, prioritize, and address the most critical gaps in prototype solutions under development, based on user feedback and in partnership with product managers.\nThis role is a full-time position located out of our offices in Pittsburgh, PA.\nAct as an embedded UX expert, collaborating closely with forward-deployed engineers, data analysts, go-to-market teams, and end-users to rapidly understand user needs and apply UX best practices to translate them into validated product features and user experiences.\nExecute rapid prototyping cycles by quickly designing and documenting user flows, wireframes, and interactive prototypes, prioritizing speed and iterative testing to optimize data visualization and facilitate data exploration.\nCollaborate directly with embedded product and engineering teams to support design implementation, engaging in productive cost-benefit discussions that balance speed and delivery with design integrity for future iteration.\nPresent designs and key milestones to clients, peers, and executive-level stakeholders, grounding all decisions in UX research best practices and validated user needs.\nContribute to the development and maintenance of an established design system and UI component library.\nBecome an expert on Air.ai itself and the commercial and publicly sourced data it contains.\nQualifications\nBachelor's degree in HCD, HCI, Graphic Design, Interaction Design, or related field.\n3-5+ years of experience designing and shipping complex, intuitive, and successful web-based products - ideally with a data component.\nProven experience working in a highly agile, embedded development process, demonstrating an ability to prioritize speed of delivery and rapid iteration while ensuring quality.\nPortfolio with revenue-generating case studies.\nInterest in defense tech, analysis, and data visualization.\nAbility to work i",
+    "posted_at": "4h",
+    "priority": 4,
+    "first_seen": "2026-09-04T06:40:34.527294-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "b0045516e3cff2ddb3ca7c6cbf3bce03": {
+    "id": "b0045516e3cff2ddb3ca7c6cbf3bce03",
+    "title": "Product Designer \u2014 AI UX / Product Experience",
+    "company": "Vapi",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/vapi/4fbfa699-a543-49da-857c-64a2c990fd06",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Vapi (/\u02c8V\u0251\u02d0pi/):\n\n - Voice AI that resolves, not transfers\n\n - Powering 1 billion calls for companies like Amazon Ring, Intuit, ServiceTitan, and New York Life\n\n - Trusted by 1 million developers building the future of voice agents\n\n - Backed by Peak XV, Bessemer, Kleiner Perkins, M12, Y Combinator,",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-09-04T06:40:36.157877-07:00",
     "status": "active",
     "applied_at": null
   }
