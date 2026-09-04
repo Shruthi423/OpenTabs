@@ -12240,7 +12240,9 @@
     "priority": 4,
     "first_seen": "2026-08-10T04:21:36.053012-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 1
   },
   "751cfb2b5d1ddfeaec0fe55d51d1d94f": {
     "id": "751cfb2b5d1ddfeaec0fe55d51d1d94f",
@@ -12258,7 +12260,9 @@
     "priority": 4,
     "first_seen": "2026-08-10T04:21:37.905010-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "67db3239619321afc054a30f3b4071b9": {
     "id": "67db3239619321afc054a30f3b4071b9",
@@ -12276,7 +12280,8 @@
     "priority": 5,
     "first_seen": "2026-08-10T04:21:39.677012-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00"
   },
   "602972a76921e6c04d3b90d51c7a81f6": {
     "id": "602972a76921e6c04d3b90d51c7a81f6",
@@ -12294,7 +12299,9 @@
     "priority": 4,
     "first_seen": "2026-08-10T04:21:41.428934-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "053b186ec26474eff75505b57c640387": {
     "id": "053b186ec26474eff75505b57c640387",
@@ -12312,7 +12319,9 @@
     "priority": 4,
     "first_seen": "2026-08-10T04:21:43.282547-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "96e32633c6a723ca5da9037cdc9958a4": {
     "id": "96e32633c6a723ca5da9037cdc9958a4",
@@ -12330,7 +12339,9 @@
     "priority": 4,
     "first_seen": "2026-08-10T04:21:45.128203-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "758ac702005746488a156fe0d639888c": {
     "id": "758ac702005746488a156fe0d639888c",
@@ -12348,7 +12359,9 @@
     "priority": 5,
     "first_seen": "2026-08-10T04:21:46.957221-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "a3a7fb857f806452dca8f348c7cfc580": {
     "id": "a3a7fb857f806452dca8f348c7cfc580",
@@ -12366,7 +12379,9 @@
     "priority": 2,
     "first_seen": "2026-08-10T04:21:48.874661-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "89484a26c245c994c8aa0d9207a44609": {
     "id": "89484a26c245c994c8aa0d9207a44609",
@@ -12384,7 +12399,9 @@
     "priority": 5,
     "first_seen": "2026-08-10T04:21:50.765198-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "f3a607b15549dad0d38bd738d5f3fcd6": {
     "id": "f3a607b15549dad0d38bd738d5f3fcd6",
@@ -12402,7 +12419,9 @@
     "priority": 5,
     "first_seen": "2026-08-10T04:21:52.669649-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "564a374164754695b05c5f4fe703c81e": {
     "id": "564a374164754695b05c5f4fe703c81e",
@@ -12420,7 +12439,9 @@
     "priority": 4,
     "first_seen": "2026-08-10T04:21:54.534272-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "d0231fc1e908b51f2b38b02de0f75ffb": {
     "id": "d0231fc1e908b51f2b38b02de0f75ffb",
@@ -12438,7 +12459,9 @@
     "priority": 3,
     "first_seen": "2026-08-10T05:07:39.543366-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "49eeee726e90a1f2ffd75e2ef76c2cb0": {
     "id": "49eeee726e90a1f2ffd75e2ef76c2cb0",
@@ -12456,7 +12479,9 @@
     "priority": 4,
     "first_seen": "2026-08-10T05:07:41.289332-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "bcae85a042a8b984b41e5470c447b826": {
     "id": "bcae85a042a8b984b41e5470c447b826",
@@ -12474,7 +12499,9 @@
     "priority": 5,
     "first_seen": "2026-08-10T05:07:43.020527-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "19affc23cf17e43c4f88f60c86a31db5": {
     "id": "19affc23cf17e43c4f88f60c86a31db5",
@@ -12492,7 +12519,9 @@
     "priority": 1,
     "first_seen": "2026-08-10T05:07:46.350919-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "2ce4733bc34f0b96d1d7aa9beacaf68a": {
     "id": "2ce4733bc34f0b96d1d7aa9beacaf68a",
@@ -12510,7 +12539,9 @@
     "priority": 1,
     "first_seen": "2026-08-10T05:07:48.084707-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "14017907b77b31accb2aeb9378cfa8eb": {
     "id": "14017907b77b31accb2aeb9378cfa8eb",
@@ -12528,7 +12559,8 @@
     "priority": 5,
     "first_seen": "2026-08-10T08:39:19.489579-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00"
   },
   "c99d12a05a3c82dee448af96e10fa8be": {
     "id": "c99d12a05a3c82dee448af96e10fa8be",
@@ -12546,7 +12578,8 @@
     "priority": 5,
     "first_seen": "2026-08-10T09:30:58.655810-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00"
   },
   "03bc4277e6f38b2e03ee47e5c4c20554": {
     "id": "03bc4277e6f38b2e03ee47e5c4c20554",
@@ -12564,7 +12597,9 @@
     "priority": 4,
     "first_seen": "2026-08-10T10:28:59.345754-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "dc63c0798fc7b5bbf738f38880a2318f": {
     "id": "dc63c0798fc7b5bbf738f38880a2318f",
@@ -12582,7 +12617,8 @@
     "priority": 5,
     "first_seen": "2026-08-10T15:31:08.773726-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00"
   },
   "c4b3633d62fab7af92de2d2811a26231": {
     "id": "c4b3633d62fab7af92de2d2811a26231",
@@ -12600,7 +12636,9 @@
     "priority": 1,
     "first_seen": "2026-08-10T19:01:29.224427-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "f98afca034a36e80cb75ed699ee86875": {
     "id": "f98afca034a36e80cb75ed699ee86875",
@@ -12618,7 +12656,8 @@
     "priority": 5,
     "first_seen": "2026-08-10T20:54:21.832078-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00"
   },
   "fa2857038802f3dfd8e75e783e7dbae5": {
     "id": "fa2857038802f3dfd8e75e783e7dbae5",
@@ -12636,7 +12675,9 @@
     "priority": 5,
     "first_seen": "2026-08-11T03:33:03.354176-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "3ca461e1a73de3f9fad691956bc5ea94": {
     "id": "3ca461e1a73de3f9fad691956bc5ea94",
@@ -12654,7 +12695,9 @@
     "priority": 5,
     "first_seen": "2026-08-11T03:33:05.059080-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "33d2052db89d3e3fd0fa4b32bc7fd5bc": {
     "id": "33d2052db89d3e3fd0fa4b32bc7fd5bc",
@@ -12672,7 +12715,9 @@
     "priority": 5,
     "first_seen": "2026-08-11T03:33:06.708448-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-03T17:24:53.644200-07:00",
+    "dead_strikes": 0
   },
   "59e1708a736b3c4c18f00e4f218eac26": {
     "id": "59e1708a736b3c4c18f00e4f218eac26",
@@ -14459,7 +14504,8 @@
     "priority": 5,
     "first_seen": "2026-08-19T04:21:55.687743-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Connects pre-vetted talent from Latin America with companies globally for software development, design, and marketing roles.\nTechnology Software Development Fullstack Development Front End Development Back End Development\nJob Description\nWe Make Remote Work Remarkable \u2022 TopTalent from LatAm\nHello! We are GoFasti, a Talent-as-a-Service. GoFasti bridges the gap between world-class developers and designers from LatAm and first-class companies around the globe.\nWe need an English-fluent Mid Level Product Designer , based in Latin America, available to work remotely.\nWe are looking for someone with exceptional communication and relationship-building skills, who embraces changes while maintaining strong attention to detail. An interested and proactive person, who\u2019s constantly learning and improving their skills.\nDesign intuitive and visually compelling user experiences for web and mobile applications.\nCreate wireframes, user flows, high-fidelity mockups, and interactive prototypes.\nDevelop and maintain components within the product\u2019s design system.\nWork closely with Product and Engineering teams to translate requirements into practical design solutions.\nCollaborate with the Senior Product Manager and VP of Product & Engineering throughout the product development lifecycle.\nEnsure consistency, usability, and visual quality across web and mobile experiences.\nParticipate in design reviews and incorporate feedback from stakeholders.\nPrepare designs and specifications that can be effectively handed off to engineering.\nUse Jira to manage design-related tasks and collaborate within the product development workflow.\nContribute to product discovery and user research as those initiatives become part of the role.\nRequirements:\n3+ years of experience in Product Design, UX/UI Design, or a similar role.\nStrong portfolio demonstrating web and mobile product design experience.\nStrong understanding of UI/UX principles, user flows, interaction design, and prototyping.\nAdvanced proficiency in Figma, including experience working with design systems and reusable components.\nExperience collaborating closely with Product Managers and Engineering teams.\nFamiliarity with Jira or similar project/task management tools.\nHighly autonomous and self-sufficient in their processes.\nStrong attention to detail and a strong visual design sensibility.\nAbility to translate product requirements and business goals into intuitive user experiences.\nStrong communication and collaboration skills.\nExperience with product discovery or user research.\nExperience designing SaaS or technology products.\nExperience working with established design systems.\nExperience collaborating with distributed or remote teams.\nThe salary range offered for this position varies from (USD) $2,300 - $3,000 per month, depending on seniority and skillset.\nThis position is for a full time contract, through a payroll platform.\nThe talent will work remotely allocated at our client.\nPortfolio > Application review/approval > Screening interview with GoFasti\u2019s team > We build and send your profile to our client > Profile review/approval by client > Interview with the client > Hiring and onboarding.\nOnce you apply for the job, our team will review your resume. If it meets the requirements, we will contact you and move forward in the process.\nIf you were contacted directly by a member of our team and are interested in this opportunity, please do not apply through this link. Instead, reach out to the person who contacted you to coordinate a meeting.\nFind your next opportunity with companies that specialize in Technology, Software Development, Fullstack Development, and Front End Development. Explore remote-first companies like GoFasti that prioritize flexible work and home-office freedom.\nConnects Latin American talent with global companies for remote staffing.\nConnecting U.S. startups and tech companies with pre-vetted, senior Latin American software engineers.\nProvides nearshore software development talent fro"
   },
   "c54768c4d2d855ab13387b3c94934571": {
     "id": "c54768c4d2d855ab13387b3c94934571",
@@ -14477,7 +14523,8 @@
     "priority": 4,
     "first_seen": "2026-08-19T12:58:41.483357-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.\nAbout the Role\nTailscale is looking for an experienced Brand Designer to help bring our brand to life across every customer touchpoint. You'll create thoughtful, high-quality creative that helps people understand our products, builds trust with technical audiences, and supports some of our most important marketing initiatives.\nThis role reports to the Team Lead and partners closely with Brand, Growth, Web, Content, Product Marketing, and Developer Relations. You'll own projects from concept through execution, contribute to the evolution of our design systems, and help us scale creative output without sacrificing quality.\nWe're looking for someone who cares deeply about craft, thrives in collaborative environments but is able to work autonomously while requiring minimal direction, and enjoys solving complex communication problems through thoughtful design.\nOwn brand design projects from creative brief through final delivery with limited guidance\nDesign high-quality creative assets across web, campaigns, events, social media, presentations, product marketing, and internal communications\nApply and thoughtfully extend Tailscale's visual identity across new formats and channels\nCreate reusable templates, design systems, and creative processes that improve consistency and efficiency\nPartner closely with Growth, Web, Product Marketing, Content, and Developer Relations to deliver cohesive customer experiences\nPresent design concepts and rationale to stakeholders and thoughtfully incorporate feedback\nBalance multiple projects while consistently delivering polished, production-ready work\nContribute ideas that improve the quality, scalability, and effectiveness of our creative work\n3+ years of professional experience in brand, marketing, or visual design\nStrong portfolio demonstrating exceptional design foundations: color theory, accessibility, typography, layout, and storytelling\nExperience designing for digital marketing, websites, campaigns, and brand systems\nStrong understanding of production-ready design across digital and print\nExcellent communication and presentation skills\nAbility to manage multiple projects and priorities with minimal oversight\nExperience collaborating cross-functionally with marketers, writers, developers, and other designers\nStrong attention to detail with a high bar for quality and consistency\nComfortable giving and receiving constructive design feedback\nActively seeks opportunities to refine processes, improve project organization, and make collaboration more effective through thoughtful recommendations.\nCurious by nature, with a desire to learn about the technical world of networking.\nExperience designing for B2B SaaS or developer-focused products\nFamiliarity with design systems and component libraries\nBasic understanding of HTML/CSS and web design constraints\nExperience supporting experimentation, conversion optimization, or growth marketing initiatives\nExperience working in fast-paced startup or scale-up environments\nExperience art-directing or mentoring junior designers\nAs a company, we strive to maintain fair and equitable compensation practices within our team across all roles and all levels. Tailscale's compensation package includes base salary, equity, and comprehensive benefits. The salary range displayed on each job posting represents the target range for a new hire's base salary. Individual offers may vary based on experience and skill set.\nFrequently cited statistics show that peopl"
   },
   "aaa4e3fadaf49530bbd006c25d7adf61": {
     "id": "aaa4e3fadaf49530bbd006c25d7adf61",
@@ -14495,7 +14542,8 @@
     "priority": 3,
     "first_seen": "2026-08-19T12:58:42.976186-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "About Nevis\nWealth management is about people and relationships. But the industry is so complex and regulated that advisors spend less than 30% of their time actually serving clients. The rest goes to paperwork and admin overhead.\nNevis exists to change that. We are building the world's first AI wealth management platform that completes work, automates workflows end-to-end and gives advisors back the time to focus on clients.\nNevis was founded by an exceptional team of ex-Revolut executives and has raised a total of $40 million from world leading investors including Sequoia Capital, ICONIQ and Ribbit.\n\nThe role\nDesign is foundational to our product. We are making complex operational workflows feel simple, and replacing the decades-old advisor software with modern AI-first tools.\nWe are looking for an exceptional Product Designer who is excited by building a category-defining product.\n\nWhat you'll do\nOwn the design in your product area, from problem definition to shipping.\n\nMove fast, ship often and see your work in the hands of real users.\n\nTalk to advisors to understand their problems and inform your design.\n\nDesign and prototype in Figma and AI tools like Claude Code and Cursor.\n\nUse and improve our design system, raising the bar for consistency and quality.\n\nGive and receive direct feedback and iterate toward the best solution.\n\nWho you are\nSystems thinking\nYou simplify complexity. You take a multi-step, high-stakes workflow and turn it into something clear and obvious.\n\nYou have prior experience designing complex multi-user products with high data density.\n\nSpeed\nYou can just do things. You don't wait for the brief to be perfect to get moving.\n\nYou work hard and ship daily. You'd rather put something in front of users than spend weeks discussing it.\n\nQuality\nYou care deeply about visual design, interactions and writing.\n\nYou believe good design is defined by clarity, simplicity and execution.\n\nWorking style\nYou are comfortable with ambiguity, and partner with Product Owners and Engineers to define what to build, not just how.\n\nYou ask hard questions, challenge ideas and advocate for what you think is right.\n\nWhy join Nevis?\nWork alongside a high-caliber team backed by some of the best investors in the world\n\nA fast-paced, high-growth environment with real ownership\n\nBe part of a mission-driven company transforming the wealth management industry with huge potential for global impact\n\nCompetitive salary and meaningful equity in one of the fastest growing startups\n\nPrivate medical insurance"
   },
   "8fca177f6cd097b3ecc7dafc6d4dc241": {
     "id": "8fca177f6cd097b3ecc7dafc6d4dc241",
@@ -14513,7 +14561,8 @@
     "priority": 5,
     "first_seen": "2026-08-19T15:18:34.449846-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Position Title: UI/UX Designer\n\nLocation: Remote in the U.S.\n\nPosition Type: Part-Time 1099\n\nWho We Are\n\nManagement Solutions LLC (MSLLC) is an award-winning management consulting firm delivering solutions for our partners\u2019 most complex challenges. Since 2002, we have supported federal and commercial clients through expertise in project and program strategy, delivery and implementation, engineering and technical advisory services, workforce solutions, and digital solutions.\n\nWe are distinguished by our reputation for managing mission-critical projects and helping organizations improve performance through innovative, people-centered solutions. MSLLC has been recognized as Small Business of the Year by the U.S. Small Business Administration, the Department of Energy, and Oak Ridge National Laboratory and has been named one of the Top Employers in the Greater Knoxville area.\n\nPosition Summary\n\nManagement Solutions is seeking a detail-oriented UI/UX Designer specialized consulting support on a\u202f1099 independent contractor basis. This opportunity is intended to create modern, accessible, and user-centered digital experiences across Microsoft Power Pages, Power Platform, SharePoint, and the broader Microsoft 365 ecosystem.\n\nThe ideal candidate will have demonstrated experience designing responsive, accessible experiences for Microsoft Power Pages, with additional expertise in Power Apps, including Canvas Apps and Model-Driven Apps. This role requires strong UI/UX fundamentals and an understanding of the capabilities, design patterns, and constraints of Power Pages and the broader Power Platform.\n\nThe successful candidate will translate complex business processes and requirements into simple, intuitive digital experiences while collaborating with Power Platform developers, Microsoft 365 solution teams, and business stakeholders. The role also requires experience designing for SharePoint and familiarity with Microsoft 365 services, integration patterns, and digital workplace experiences.\n\nThe\u202fanticipated\u202flevel of effort for this opportunity is\u202fapproximately\u202f30\u202f+ hours\u202fper week over an estimated 9-month\u202fperiod.\n\nWhat You\u2019ll Do\n\nTranslate complex business workflows, data, and requirements into clear, efficient, and user-friendly experiences.\n\nDesign accessible Power Pages portals using responsive layouts, reusable components, forms, lists, role-based access, and Dataverse integration.\n\nCreate wireframes, prototypes, mockups, user flows, and design specifications that can be effectively implemented within Power Apps and Power Platform capabilities and constraints.\n\nCollaborate closely with Power Apps developers to ensure designs are technically feasible and translate effectively into production applications.\n\nEstablish and apply reusable Power Apps design patterns, components, navigation structures, and visual standards to promote consistency across applications.\n\nDesign and implement engaging, accessible, and high-performing user interfaces for power platforms, SharePoint, and other internal and external portals.\n\nCollaborate with business and technical teams to understand user needs, gather requirements, and define design objectives.\n\nMaintain consistent branding and user experience across Power Apps, SharePoint, Microsoft 365, and related enterprise platforms.\n\nConduct user research, usability testing, and design reviews to validate design decisions and continuously improve application experiences.\n\nApply accessibility standards and inclusive design principles throughout the design process.\n\nStay current with Microsoft Power Platform capabilities, Power Apps design practices, UI/UX trends, and emerging technologies.\n\nCollaborate closely with developers, solution architects, project managers, business analysts, and content strategists to ensure seamless implementation.\n\nWhat You\u2019ll Bring\n\nBachelor\u2019s degree in Graphic Design, Web Design, Human-Computer Interaction (HCI), Computer Science, or a related field, or equivalent professional ex"
   },
   "5d7b867f192512009e0ea23ab2f03f56": {
     "id": "5d7b867f192512009e0ea23ab2f03f56",
@@ -14531,7 +14580,8 @@
     "priority": 5,
     "first_seen": "2026-08-20T03:56:20.702054-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "We believe learning is the key to unlocking opportunity, and our mission is to discover, empower, and celebrate the next generation of global expertise. Join us in shaping the future of learning and workforce development!\nAbout the Role\nDegreed's product design team shapes how people at large enterprises learn, build skills, and get coached by AI, across our learning platform, our skills data layer, and our AI coach, Maestro. You'll help extend our design system, while also rethinking what still needs a screen at all as AI takes on more of the work. That means design decisions that go beyond the visual: what should disappear into automation, and what needs to stay observable and reversible for the person using it.\nDegreed's product spans dense admin tools built for L&D teams managing large organizations and lighter, browsable experiences built for individual learners, sometimes on the same page for the same feature. You'll carry real ownership across that range, working directly with the engineers and product managers building alongside you rather than through a hand-off process. The team is distributed and remote-first, and the work itself is what sets the pace.\nProduct design craft: Able to take ambiguous or conflicting input from enterprise customers \u2014 via solutions, sales, or direct research \u2014 from framing through a scoped, buildable spec, owning the interaction model and visual execution rather than one or the other and distinguishing a stated request from the underlying need.\nAI-native design judgment: Able to evaluate whether a workflow needs a visible UI at all, weighing whether the outcome is observable, reversible, and auditable before deciding AI can handle it invisibly.\nPrototyping to validate direction: Comfortable building interactive, near-functional prototypes, using code or AI-assisted tools, to test a direction before it's fully specced.\nPrompt engineering and technical understanding. Experienced with prompt engineering to build and test conversational agents. Working understanding of what AI can and can't do reliably (accuracy, latency, context limits) \u2014 enough to judge feasibility of AI product capabilities and limitations.\nAbility to leverage AI tools and technologies: Uses AI to prototype interactions quickly, generate and compare component variations, and identify where a workflow can be delegated to AI instead of built as UI.\nDesign systems fluency: Experience extending and maintaining a component-based design system, with the judgment to know when an existing pattern should be reused and when a new one is actually justified.\nCustomer understanding and research: Strong focus on end users, key decision makers and value provided. Comfortable conducting discovery research and usability tests and using that input to inform design decisions.\nOwn end-to-end design for features across Degreed's learning and skills platform, from problem framing and discovery through specs and QA through launch and impact.\nLead customer calls or seek customer feedback directly to build design and product sense.\nConsistently push to improve quality, usability, and user experience.\nExtend and maintain Degreed\u2019s design system, evaluating when a new component is warranted versus when an existing one should be reused.\nAudit existing surfaces, such as admin settings, profile, and core learning workflows, and rework them to reduce inconsistency as the product grows.\nDecide, for every new workflow, whether it needs a visible UI at all, and what AI can handle invisibly versus what still needs to stay observable and auditable for the user.\nDesign conversational and agent-facing experiences alongside traditional UI, extending the design system and emerging AI interaction patterns rather than treating them as a separate design language.\nPartner with product and tech leads to scope work and define the requirements.\nPresent work in design review and incorporates cross-functional feedback while protecting the core interaction model from erosi"
   },
   "50587bc9449175dc20c48f747ab6c6f4": {
     "id": "50587bc9449175dc20c48f747ab6c6f4",
@@ -14549,7 +14599,8 @@
     "priority": 3,
     "first_seen": "2026-08-20T03:56:22.334164-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Apex manufactures these satellite buses at scale using a combination of software, vertical integration, and hardware that is designed for manufacturing. Our spacecraft enable the future of society: ranging from earth observation to communications and more.\nWe\u2019d love for you to join us on our mission of providing humankind access to the galaxy beyond our planet.\nAbout the Role\nApex is looking for an outstanding UX Designer to research and create the future of Octopus, our proprietary operating system for building spacecraft at scale. Octopus is an integrated suite of engineering, manufacturing, and operations software developed entirely in-house \u2014 it links inventory management, production scheduling, quality, and assembly work instructions into a single environment that adjusts dynamically to changing demand. You will be responsible for researching, designing, innovating, and prototyping the experiences that technicians, engineers, planners, and operators depend on every day to build satellites in a way that has never been done before.\nOctopus spans the full production lifecycle: part and inventory management, build planning and scheduling, shop-floor work instructions and travelers, non-conformance and quality workflows, supply chain and purchasing, integration and test, and the analytics leadership uses to run the factory. The candidate will be responsible for these internal enterprise tools end to end. Deliverables include design mockups, experience flows, prototyping, design presentations, high-fidelity visuals, and follow-up to ensure high-quality implementation.\nInternal software is where manufacturing speed is won or lost. Every extra click, ambiguous screen, and awkward handoff gets multiplied across hundreds of builds and hundreds of people. Your mandate is to make Octopus dramatically better to use: fewer clicks, clearer information hierarchy, workflows that match how the work actually happens, and a set of design standards that keeps the product coherent as it grows. You will collaborate with product managers, software engineers, manufacturing and quality engineers, supply chain, and production leadership as a key contributor and originator. We expect exceptional design skills, creative problem-solving, and a great sense of aesthetics. Octopus should feel fast, information-dense where it needs to be, and unmistakably purpose-built.\nWhat You'll Do\n\u2022 Research and define UX strategy for Octopus; contribute to the overall product and design direction from concept through implementation\n\u2022 Spend time on the factory floor and alongside engineering teams to observe real workflows, then translate what you learn into design solutions that serve users from very different backgrounds and with very different requirements\n\u2022 Relentlessly optimize existing workflows \u2014 fewer clicks, fewer screens, fewer opportunities for error \u2014 and prove the improvement in task time, error rate, and adoption\n\u2022 Design for demanding, high-density operating environments: work instructions and travelers, shop-floor terminals and tablets, cleanroom and gloved use, and desk-based planning and analytics tools\n\u2022 Constantly measure how designs are performing for the people using them; iterate and improve those experiences as needed\n\u2022 Define, build, and own the Octopus design system, UX standards, and guidelines; advocate for consistency across team members, new modules, and partner teams\n\u2022 Work in a highly collaborative environment with engineers and other partners; invest in building relationships and trust with stakeholders and leaders\n\u2022 Present work to partners, stakeholders, and senior leaders regularly\n\u2022 Follow work through implementation \u2014 review builds, catch regressions, and hold the bar on visual and interaction quality\n\u2022 Bachelor's degree in the study of design, or a portfolio that shows equivalent project experience\n\u2022 5+ years of experience designing interactive applications for web\n\u2022 An excellent portfolio showcasing user experience with a strong"
   },
   "1eba5f687e8dccb68671c2269991b866": {
     "id": "1eba5f687e8dccb68671c2269991b866",
@@ -14567,7 +14618,8 @@
     "priority": 1,
     "first_seen": "2026-08-20T04:21:39.881642-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Hey, I\u2019m Teddy , CTO & co-founder at Magic Patterns! Our product team has grown a lot over the last few months here in San Francisco.\n\nAbout Magic Patterns\nOur mission is to let anyone build delightful software. We're a lean team where everyone contributes directly to the product.\n\nWe're building a tool for designers, so you'll be building for yourself and people like you. If you're excited to shape the future of design tools, this is the role for you. You'll have enormous ownership over not just how Magic Patterns looks and feels, but what it becomes.\n\nAbout the Role\nYou'll drive the product design, UI/UX, and brand of Magic Patterns end-to-end. We also strongly believe that the designers of the future will be technical, so we expect you to be comfortable making codebase changes yourself + leveraging code as a design medium. You will have the full support and resources of the engineering team.\n\nThis role might be a fit if you...\nAre excited about AI and want to define what AI-first design tools should look and feel like\n\nLove hacking on fun, delightful, unique experiences\n\nWant ownership: own features end to end, drive decisions, ship to production\n\nWant to learn to code & ship your own work\n\nHave 2+ years of experience designing software products (bonus if you've worked on an AI product before)\n\nOur Values\nObsessive \u2014 we love exploring every corner of the hardest problems.\n\nGrowth-minded \u2014 where you are today matters less than how fast you are growing\n\nOwnership \u2014 insist on high standards and craftsmanship.\n\nSpread the magic \u2014 for many people, Magic Patterns is \u201cmagic.\u201d Be proud of your work and have fun!\n\nCompensation and Benefits\nRapid career growth at one of the fastest growing Series A companies\n\nCompetitive salary and equity package\n\n20 days off PTO\n\nHealth, dental, and vision coverage\n\nFun team offsites and events \u2014 we went to Mexico last year!"
   },
   "f5c086cf09d30e14a1a01bba1ddafe46": {
     "id": "f5c086cf09d30e14a1a01bba1ddafe46",
@@ -14585,7 +14637,8 @@
     "priority": 5,
     "first_seen": "2026-08-20T08:03:59.809067-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "About Gusto\n\nAt Gusto, we\u2019re on a mission to grow the small business economy. We handle the hard stuff \u2014 payroll, health insurance, 401(k)s, and HR \u2014 so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve.\n\nAll full-time employees receive competitive base pay, benefits, and equity (RSUs) \u2014 because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy.\n\nAI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.\n\nAbout the Role:\n\nWe\u2019re looking for a high-ownership People Business Partner to support our Product and Design organizations at Gusto. This role serves as a trusted partner to leaders across some of our most cross-functional, fast-moving teams at Gusto.\u00a0This role blends high-trust business partnership with hands-on execution. You\u2019ll partner with leaders through organizational changes, drive core People programs and operating rhythms, and act as the connective tissue between Product & Design and the broader People team. The leaders you\u2019ll support have strong points of view and deep context - you add value by stress-testing their thinking, then making it happen.\u00a0The ideal candidate is equally comfortable analyzing data to surface a team health trend, running a clean reorg end-to-end, and building a lightweight process that makes a program actually land. This role is designed for someone who operates with high ownership, has a strong bias toward action, and earns trust with follow-through, not slide decks. We\u2019re in an active build phase - this role requires someone who arrives ready to construct, not inherit.\n\nAbout the Team:\n\nGusto\u2019s People team is growing and scaling with the company! As our business scales and becomes more complex, and as we add hundreds of new Gusties each year, we need to ensure that our strategies for engagement with our employees are positive, engaging, values-driven and compliant.\n\nHere\u2019s what you\u2019ll do day-to-day:\n\nBuild trusted partnerships with Product Management and Product Design leaders - understanding what\u2019s happening in their teams, surfacing friction early, and navigating performance management, promotions, leveling, and employee relations matters with good judgment.\n\nSynthesize People data - engagement survey, performance cycles, attrition signals, headcount trends - into clear, actionable reads for Product and Design leaders before they have to ask.\n\nSupport and operationalize core talent programs including performance cycles, calibration discussions, promotion processes, and manager enablement.\n\nReinforce high performance standards, accountability, and clarity around expectations, feedback, and growth across Product Management and Product Design.\n\nServe as the liaison between Product & Design and Gusto\u2019s broader People team (Talent Acquisition, Total Rewards, L&D, People Ops), translating company-wide programs into what they mean for product and design orgs - and surfacing that context back to the center.\n\nWhen org changes are decided, own end-to-end execution - transition planning, communication sequencing, Workday updates, leader enablement, and follow-through until nothing is left unresolved.\n\nHere\u2019s what we\u2019re looking for:\n\nRelevant Experience: 10+ years of HRBP or People Partner experience, with meaningful time supporting Product Management, Product Design, or similar cross-functional product organizations in a high-growth tech company. Track record of executing complex People initiatives end-to-end - org changes, performance cycles, talent calibrations - owning the process and outcome, "
   },
   "549b2df09d44cbffb0742a749dad7565": {
     "id": "549b2df09d44cbffb0742a749dad7565",
@@ -14603,7 +14656,8 @@
     "priority": 5,
     "first_seen": "2026-08-20T11:58:38.935559-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "249b16f3104acd51972c5d4061f0041d": {
     "id": "249b16f3104acd51972c5d4061f0041d",
@@ -14621,7 +14675,8 @@
     "priority": 5,
     "first_seen": "2026-08-20T21:22:44.085792-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "description": "Provides software escrow solutions for business continuity, cyber resilience, and compliance.\nSoftware Escrow Business Continuity Cyber Resilience Software Continuity Software Resilience\nJob Description\nAre you a talented designer with a passion for product management? Do you thrive working in fast-paced, ever-changing environments where your ideas can shape real impact? If so, we want you on our team!\nJoin Codekeeper and bring your creativity, vision, and drive to a role where every day presents new challenges and opportunities to make a difference.\nApplications are open for the next two months !\nAbout the Role\nAs a designer, your primary focus will be transforming customer needs into user journeys and creating visually appealing and intuitive interfaces. Your design skills will play a pivotal role in turning ideas into tangible products that our development team will bring to life.\nTranslate customer needs into user journeys and design beautiful and intuitive interfaces.\nCollaborate with the Product Manager and/or Creative Director to conduct research, design, and prototype new user experiences.\nDevelop user cases, scenarios, wireframes, prototypes, and mockups for screens and flows.\nCreate visual assets and document design guidelines for implementation.\nPresent and effectively communicate designs and deliverables to peers and executives.\nCodekeeper was founded by tech industry professionals to revolutionize software escrow for the cloud era. We offer state-of-the-art software escrow solutions that mitigate third-party risks in business operations. As a remote-first company with a central office in The Hague, we prioritize a healthy, resilient organization to support the development of our robust app.\nStartup mindset with ample opportunities for growth\nComprehensive onboarding process with a dedicated ramp-up period\nA supportive team that values open communication and direct feedback\nA chance to excel in your career and make a difference\nAbout You\nStrong understanding of color theory and typography.\nAbility to thrive in a fast-paced, deadline-driven environment.\nDedication, enthusiasm, and a sense of humor.\nAccess to a Mac with Figma (or preference for this design tool).\nAdditional Requirements\nWorking with design systems and symbol libraries.\nJoin us to shape the future of software escrow!\nPlease send an application that speaks directly to how you would like to fill this position. There are no right answers or expectations. Show us your role in our company\u2019s future and our role in yours. Address some of the work we do. Introduce yourself as a colleague. Feel free to respond in either Dutch or English.\nExplore latest remote opportunities and join a team that values work flexibility.\nProduct Manager, Digital Assets (Digital Investment Products)\nSenior Product Designer - Product & Experience\nStaff Visual Product Designer, Design Systems\nFind your next opportunity with companies that specialize in Software Escrow, Business Continuity, Cyber Resilience, and Software Continuity. Explore remote-first companies like Codekeeper that prioritize flexible work and home-office freedom.\nProvides enterprise risk management (ERM) software to help organizations manage risks and improve business performance.\nProvides emergency management, disaster recovery, public program management, and technology solutions.\nA consulting firm specializing in data, technology solutions, and digital transformation for public and private sector clients.\nEnterprise resilience solutions and critical operations management software for public, private, and healthcare sectors\nWe source jobs directly from 21,000+ company career pages. No intermediaries.\nUnique jobs you won't find on other job boards.\nFilter by category, benefits, seniority, and more.\nGet timely alerts for new job openings every day.\nSave jobs you like and keep a simple list of your applications.\n21,000+ SOURCES remotefirstjobs.com UPDATED 24/7"
   },
   "c45be56455b851bbf6fb614f11e41f92": {
     "id": "c45be56455b851bbf6fb614f11e41f92",
@@ -14678,7 +14733,7 @@
     "first_seen": "2026-08-21T02:32:40.986040-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "3fc66437e5b061413bd33630a6f41d3e": {
     "id": "3fc66437e5b061413bd33630a6f41d3e",
@@ -14814,7 +14869,7 @@
     "first_seen": "2026-08-21T04:51:01.724705-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "b97ac9a209f2cf21ae834434a52daf7b": {
     "id": "b97ac9a209f2cf21ae834434a52daf7b",
@@ -14833,7 +14888,7 @@
     "first_seen": "2026-08-21T09:25:22.350541-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "ec482744a5fd4142a03d6b29e60c532b": {
     "id": "ec482744a5fd4142a03d6b29e60c532b",
@@ -14852,7 +14907,7 @@
     "first_seen": "2026-08-21T11:54:33.038202-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "3f28ac7680a77707741a7f9d304be455": {
     "id": "3f28ac7680a77707741a7f9d304be455",
@@ -14947,7 +15002,7 @@
     "first_seen": "2026-08-22T08:44:56.648426-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "f8baede69556a199d042217d0485b512": {
     "id": "f8baede69556a199d042217d0485b512",
@@ -14966,7 +15021,7 @@
     "first_seen": "2026-08-22T10:38:24.861812-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "b821dc1c614d4ed6842daa773a919bde": {
     "id": "b821dc1c614d4ed6842daa773a919bde",
@@ -14985,7 +15040,7 @@
     "first_seen": "2026-08-22T16:14:35.972991-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "e0862ebeb6a6a10c48a66a2c1ad07872": {
     "id": "e0862ebeb6a6a10c48a66a2c1ad07872",
@@ -15004,7 +15059,7 @@
     "first_seen": "2026-08-23T01:00:45.353264-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "edac31980d79e3913839d5059a9bfbc4": {
     "id": "edac31980d79e3913839d5059a9bfbc4",
@@ -15023,7 +15078,7 @@
     "first_seen": "2026-08-23T12:57:57.652345-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "13cdf54717b677fa81d7b12fb59491d1": {
     "id": "13cdf54717b677fa81d7b12fb59491d1",
@@ -15061,7 +15116,7 @@
     "first_seen": "2026-08-24T00:44:52.806465-07:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "71119b896e6f59720c1c7bb7d5bb8e46": {
     "id": "71119b896e6f59720c1c7bb7d5bb8e46",
@@ -16830,6 +16885,25 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-09-03T10:51:18.026020-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "5023842b90fcc4b7fc3da0f8ce28ec2b": {
+    "id": "5023842b90fcc4b7fc3da0f8ce28ec2b",
+    "title": "Brand Designer, Creative Studio",
+    "company": "Notion",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/notion/59f2246d-9cb5-4e97-879e-46c902dc276a",
+    "source": "Notion",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of indi",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-09-03T17:25:51.361979-07:00",
     "status": "active",
     "applied_at": null
   }
