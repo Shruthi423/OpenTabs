@@ -1,5 +1,22 @@
 [
   {
+    "id": "e36a1457651ceca14a60239d0c652fc9",
+    "title": "Brand Designer",
+    "company": "Posh",
+    "location": "New York City",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/posh/618fefbf-72f1-4fb9-8c7d-46e994200732",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-09-04T10:06:03.778979-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "b0045516e3cff2ddb3ca7c6cbf3bce03",
     "title": "Product Designer \u2014 AI UX / Product Experience",
     "company": "Vapi",
@@ -2648,7 +2665,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-16T21:25:07.846538-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "5209217ba4b7bd9af3d5f21967020368",
@@ -2831,7 +2849,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-15T08:35:59.364411-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "6de6c15159bf51ac928fa469f4d7a98f",
@@ -2863,7 +2882,8 @@
     "posted_at": "4h",
     "priority": 1,
     "first_seen": "2026-08-15T03:46:57.262427-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5a66c6c83ef7772d3c0991ee0e62c9b7",
@@ -2879,7 +2899,8 @@
     "posted_at": "3h",
     "priority": 3,
     "first_seen": "2026-08-15T03:46:55.497494-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "de15236158ebc792ec5f60ca6253b12e",
@@ -2895,7 +2916,8 @@
     "posted_at": "3h",
     "priority": 4,
     "first_seen": "2026-08-15T03:46:53.741091-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f5343246557e3982f6e07ff7e4b1d3ac",
@@ -2911,7 +2933,8 @@
     "posted_at": "2h",
     "priority": 5,
     "first_seen": "2026-08-15T03:46:51.979922-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f5af7cd1c62aa1c8745a5333522c41b8",
@@ -2927,7 +2950,8 @@
     "posted_at": "2h",
     "priority": 5,
     "first_seen": "2026-08-15T03:46:50.257444-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "18ff95a2334404c100606f6da4f1886d",
@@ -2943,7 +2967,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-08-15T01:35:00.172107-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "97965f4751eefef51f3a1efa95a28aca",
@@ -2959,7 +2984,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-15T01:34:58.445190-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "82fc526c4e5e03af14b0422c27ac37b0",
@@ -3007,7 +3033,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-08-14T17:53:55.166845-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d4c19212080d671d7936e008ae7465b1",
@@ -3023,7 +3050,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-08-14T11:32:08.544335-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "22e16d73b26c44481649f7bd57a34ae9",
@@ -3039,7 +3067,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-14T10:37:15.536775-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "1d921be7bfe0e25e6765d48f1fe96327",
@@ -3055,7 +3084,8 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-08-14T09:31:54.086482-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ffcf496ad3b30d50a21d4b85e70e163a",
@@ -3071,7 +3101,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-14T09:31:52.181638-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "0b1c6216295b16343b85f7e87188f009",
