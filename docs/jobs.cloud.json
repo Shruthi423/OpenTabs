@@ -2682,7 +2682,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-16T19:34:03.590569-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0511b261a013a32fb46118ce83154575",
@@ -2715,7 +2716,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-16T09:49:09.233797-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "dce4b880c4062af03fe5077ff7d6d9f0",
@@ -2833,7 +2835,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-15T09:49:18.595952-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "cbb0e8fe50ba2b5f3f64f20d54a1edfd",
@@ -3118,7 +3121,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-14T09:31:50.585989-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "970b839d760e8bfe6cac7d8f6080c206",
@@ -3134,7 +3138,8 @@
     "posted_at": "5h",
     "priority": 4,
     "first_seen": "2026-08-14T03:32:45.320746-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "707cc6acaee048dd362cc9f98a8dcdbf",
@@ -3150,7 +3155,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-14T03:32:43.699178-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c289f7b03412d1ab4bea4a1773816224",
@@ -3166,7 +3172,8 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-08-14T02:20:35.584889-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "53bdcb63aa6d218c2d8314b5fadcfe60",
@@ -3182,7 +3189,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-14T02:20:33.972379-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "1011265a4b89637948fcd82fd4ce00a9",
@@ -3214,7 +3222,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-13T22:20:02.394489-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8b2998d7be9c611260f7b7adfad29ede",
@@ -3230,7 +3239,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-13T18:22:23.836297-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2257c5c9d11005f4159d65256b659b84",
@@ -3246,7 +3256,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-08-13T18:22:22.099628-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "082355a0ba1d309ccdaa131b14e4810e",
@@ -3262,7 +3273,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-13T15:11:36.275091-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "99fe31ad906b582b1ca843613ecd4da3",
@@ -3278,7 +3290,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-08-13T11:55:37.398288-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ef575dd8e4ee7983736d65465e21f3ee",
@@ -4798,22 +4811,6 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-04T13:21:07.978043-07:00",
-    "status": "active"
-  },
-  {
-    "id": "b9f132c76d270f17d7ec9410e44f435d",
-    "title": "Product Designer",
-    "company": "Primer.Io",
-    "location": "Remote",
-    "salary": "Not listed",
-    "url": "https://jobs.ashbyhq.com/primer.io/0876a65a-4ae2-4534-8cf2-de4a34a5301f",
-    "source": "Startups.Gallery",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-08-04T11:50:50.275119-07:00",
     "status": "active"
   }
 ]

@@ -1,86 +1,44 @@
 [
   {
     "item": {
-      "company": "Nigeria\u2019s ChipMango",
-      "amount": "$1.9M",
-      "stage": "Seed",
+      "company": "Gimlet Labs",
+      "amount": "$300.0M",
+      "stage": "Series B",
+      "investors": "Andreessen Horowitz&nbsp",
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONUpGYnZCdlpWZDNPMzdwX0NGcVpYMGNBNzNNOVlfYzYzaFRydmpJVjBtUkJaeVZjLXlHMTcxcGZDZmlubkU2VDVjZHdNRUFIa2taZlNqUFdEcHd3XzFKRkkyZDRFSF9mQ0x1bGJVUVZ4bzlNWlR6bzJaSll2bGJwZG1ZaFozMEh2S2pKMmNRbFd0Z1lyQnRrWnRNY2RDS1k5bHV6cGpiWC1yZXFpMkhEVGlUd3pOSnZ4cHRiSHc4YkhPczRxSjdqcUNsbVBVdk5yQnFPdkVn?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-09-04T13:05:03.249571-07:00"
+  },
+  {
+    "item": {
+      "company": "IDRAJ",
+      "amount": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHRVYlRMVEVOeDJiUUs3NkR0SHBvMjZUMEdYYlp0N2F5OUxaQ09jSE9JQll3ZlA3NmlJdnU2RXJ0ZTlBX1NUclV3LUpnZHV4QzZBVk5kcHhqN1VKYV9VYkR5OFkzVDY2dnFlYTdsXzFlSEFJRkpSQ3hkSnJTYkg1U09GWFhuTlBXMzgxMDZaN1IyRXVySU1zd0haeENMTWcxVVJmdnZzSWl6T1B3SkE?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXVnT1NxLWhRal9vWng0OEQ4N2dYSmlkSm5aTlJkVWQtc1U0STRtb1Q5dU5nWWFkM29MQWh3TVp0MW1BWW56ZzQwYlVfZGZnNUFxMTVUbmpwWGRxYUczTWFzSFNZemM0bEI4MktGclNLRHQ0b0tTU0dVcXpLZmo1U3RWR1M3LTVIWmlIb1VfRDExczBvUm81ejNSc29sdWoy?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-09-04T10:36:33.791864-07:00"
+    "remind_at": "2026-09-04T13:05:06.329119-07:00"
   },
   {
     "item": {
-      "company": "Josh Kushner",
-      "amount": "$4.2B",
+      "company": "Gimlet",
+      "amount": "$3.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/04/josh-kushner-thrive-capital-fifa-world-cup-investment-plan-uefa-gianni-infantino-private-investors-soccer-dispute/",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSDlySGRQNGpxajlQbEZzVlhtZ05EZTFpaFliR0lKeE1RNlBNUzFyem9yZGtXNk9HbEFROS1YWVBIMlo5SGtjX0UxMjFJNk90WUlrR05WdGc1M083U2xLNlUwSUQzODBPSjVYUm5GU3paMndReWQxMEVxckVfTEJmcUVVMVI2ZWVsWVByVEpObjZVVjNKX2FPMWNLWkI1eHZVQTJ0a0VhM1J4ZUNOVkpjREMwVDdIT3ZzVjNKc0FCUQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-09-04T10:36:39.598172-07:00"
-  },
-  {
-    "item": {
-      "company": "\u2018Money",
-      "amount": "$10.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/04/late-gloria-steinem-feminist-activist-from-trailer-home-to-10-million-net-worth-career-advice-money-is-boring-follow-passions-work-life-balance/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-04T10:36:50.132330-07:00"
-  },
-  {
-    "item": {
-      "company": "Resect",
-      "amount": "$25.0M",
-      "stage": null,
-      "investors": null,
-      "location": "Seattle",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/04/resect-launches-with-25m-to-reduce-hallucinations-in-ai-models/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-04T10:36:53.527942-07:00"
-  },
-  {
-    "item": {
-      "company": "Nvidia",
-      "amount": "$13.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/04/nvidia-bags-hugging-face-ai-models-play-leapfrog-and-crowdstrike-doubles-down-on-ai/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-04T10:36:56.536092-07:00"
-  },
-  {
-    "item": {
-      "company": "Rep. Analilia Mejia",
-      "amount": "$1.2M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/04/analilia-mejia-super-pac-unbossed-progressives",
-      "priority": 3
-    },
-    "remind_at": "2026-09-04T10:37:05.885870-07:00"
+    "remind_at": "2026-09-04T13:05:09.288238-07:00"
   }
 ]

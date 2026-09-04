@@ -54141,5 +54141,50 @@
     "roles": [],
     "first_seen": "2026-09-04T10:07:06.886017-07:00",
     "status": "active"
+  },
+  "627e0129ce0a18b660696e83af9ef429": {
+    "id": "627e0129ce0a18b660696e83af9ef429",
+    "company": "Gimlet Labs",
+    "amount": "$300.0M",
+    "stage": "Series B",
+    "investors": "Andreessen Horowitz&nbsp",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONUpGYnZCdlpWZDNPMzdwX0NGcVpYMGNBNzNNOVlfYzYzaFRydmpJVjBtUkJaeVZjLXlHMTcxcGZDZmlubkU2VDVjZHdNRUFIa2taZlNqUFdEcHd3XzFKRkkyZDRFSF9mQ0x1bGJVUVZ4bzlNWlR6bzJaSll2bGJwZG1ZaFozMEh2S2pKMmNRbFd0Z1lyQnRrWnRNY2RDS1k5bHV6cGpiWC1yZXFpMkhEVGlUd3pOSnZ4cHRiSHc4YkhPczRxSjdqcUNsbVBVdk5yQnFPdkVn?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-04T12:35:04.249760-07:00",
+    "status": "active"
+  },
+  "3c0c15a58343b44bf79b8dde04aa83d4": {
+    "id": "3c0c15a58343b44bf79b8dde04aa83d4",
+    "company": "IDRAJ",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXVnT1NxLWhRal9vWng0OEQ4N2dYSmlkSm5aTlJkVWQtc1U0STRtb1Q5dU5nWWFkM29MQWh3TVp0MW1BWW56ZzQwYlVfZGZnNUFxMTVUbmpwWGRxYUczTWFzSFNZemM0bEI4MktGclNLRHQ0b0tTU0dVcXpLZmo1U3RWR1M3LTVIWmlIb1VfRDExczBvUm81ejNSc29sdWoy?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-04T12:35:07.329373-07:00",
+    "status": "active"
+  },
+  "3f49cd0c7d1991e2f9c038006ac82b25": {
+    "id": "3f49cd0c7d1991e2f9c038006ac82b25",
+    "company": "Gimlet",
+    "amount": "$3.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSDlySGRQNGpxajlQbEZzVlhtZ05EZTFpaFliR0lKeE1RNlBNUzFyem9yZGtXNk9HbEFROS1YWVBIMlo5SGtjX0UxMjFJNk90WUlrR05WdGc1M083U2xLNlUwSUQzODBPSjVYUm5GU3paMndReWQxMEVxckVfTEJmcUVVMVI2ZWVsWVByVEpObjZVVjNKX2FPMWNLWkI1eHZVQTJ0a0VhM1J4ZUNOVkpjREMwVDdIT3ZzVjNKc0FCUQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-04T12:35:10.288375-07:00",
+    "status": "active"
   }
 }
