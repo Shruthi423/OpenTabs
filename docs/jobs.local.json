@@ -1,5 +1,56 @@
 [
   {
+    "id": "d8c60032b628f35b1cbfc62af055425a",
+    "title": "Design Systems Engineer II",
+    "company": "HCSS",
+    "location": "Sugar Land, TX",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463646795",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-04T16:00:29.161431-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "d712d08c817be81512cf2f4ebde7977d",
+    "title": "UIUX Designer",
+    "company": "Inadev Corporation",
+    "location": "Reston, VA, US",
+    "salary": "$100,000 \u2013 $110,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=f6c272379b7b8cc2",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-03",
+    "priority": 4,
+    "first_seen": "2026-09-04T16:00:27.290441-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "d6618afce4c40aadba811ef5b541ade3",
+    "title": "User Experience Consultant",
+    "company": "CELLA",
+    "location": "Saint Paul, MN, US",
+    "salary": "$60 \u2013 $67 / hourly",
+    "url": "https://www.indeed.com/viewjob?jk=1ecbe24135dbddff",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-03",
+    "priority": 4,
+    "first_seen": "2026-09-04T16:00:25.554052-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "9aba61b4cd6e24a398a06993fb1adba3",
     "title": "Visual Designer",
     "company": "Brighton Jones LLC",
@@ -8581,7 +8632,8 @@
     "posted_at": "2026-08-25",
     "priority": 3,
     "first_seen": "2026-08-26T21:41:50.760870-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "293dbf6ac41ef679387ec5f9003bb73c",
@@ -8597,7 +8649,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T21:41:48.809555-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "33a0f158f6b7d04d7e4921f2fd413701",
@@ -8613,7 +8666,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T21:41:46.827717-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "1b0292131d97c5fb71de49c374554e91",
@@ -8629,7 +8683,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T21:41:45.126102-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "13cdc775ac1a6fe638e646bd90b77bd8",
@@ -8645,7 +8700,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-26T20:32:06.153970-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "9149d89205896e3d3f60fe3077b39593",
@@ -8678,7 +8734,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T19:53:19.904244-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "bb06c4a58db33408260add468840a674",
@@ -8694,7 +8751,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T19:53:18.047859-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7b43c64ebc91239885152be4f278a7a1",
@@ -8710,7 +8768,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T19:53:16.186326-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "5afc1e56c7defae52db4ed00440fb2a3",
@@ -8726,7 +8785,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T19:53:14.262272-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "093e75b95f0d6c212100dd102ebd5e93",
@@ -8742,7 +8802,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T19:53:12.342406-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "1887e4959d2dd615b61caa6db522260e",
@@ -8758,7 +8819,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T19:53:10.414163-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "19135ae5ec1a0571e2729552f96e43ee",
@@ -8904,7 +8966,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-26T19:14:07.102573-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "fe23df2955d6ecdf9c896a5d3c85554b",
@@ -8920,7 +8983,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-26T18:55:05.885858-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "390b225932114308d13ed621f8993b41",
@@ -8936,7 +9000,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-26T18:55:04.010982-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "fd8fa21765469bd04ac98833bae18bc1",
