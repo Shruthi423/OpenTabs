@@ -1,5 +1,39 @@
 [
   {
+    "id": "9aba61b4cd6e24a398a06993fb1adba3",
+    "title": "Visual Designer",
+    "company": "Brighton Jones LLC",
+    "location": "Seattle, WA, US",
+    "salary": "$85,000 \u2013 $100,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=ddd4d2dfc01658fa",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-03",
+    "priority": 3,
+    "first_seen": "2026-09-04T15:15:00.018729-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "b88424f2f2063123d0d17ad7b0929559",
+    "title": "User Experience Designer",
+    "company": "Epic",
+    "location": "Duluth, MN",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4305415767",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-04T15:14:58.188278-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "ca2d578f72bf57360b993b3beea49a1d",
     "title": "User Experience Designer",
     "company": "Charles Schwab",
@@ -8445,7 +8479,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-27T09:25:02.305837-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "9de765bf0dae916b5237c3a6963677ed",
@@ -8803,7 +8838,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-26T19:14:16.033323-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "9f75e1583dc0cb8aec7fb44c98f7f7ad",
@@ -8819,7 +8855,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-26T19:14:13.961337-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "464bc3b08e4e01cdf266144504718e51",
