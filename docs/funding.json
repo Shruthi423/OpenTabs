@@ -1,5 +1,20 @@
 [
   {
+    "id": "a84fc2e2ca43bcee8a60f53d151f5b7b",
+    "company": "Gimlet Labs Valuation Surges",
+    "amount": "$3.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZaTFyc1JnbkZCTnpNZDVoWFZtbVI3SnYyNmJBNTZ2clhMTkNabUcySy00SG1OVEZVTnMtb0FHa2pIR3NuU3ZiM01HLTJQcGEybW1wLTZQX2FfenRh?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-05T11:29:36.290372-07:00",
+    "status": "active"
+  },
+  {
     "id": "7303b9eb53fe18c44513aad3c997a18a",
     "company": "Men",
     "amount": "$1.3M",
@@ -11086,77 +11101,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-05T13:06:38.814208-07:00",
-    "status": "active"
-  },
-  {
-    "id": "7dc3aef48e30031e4e0d2116c341bc68",
-    "company": "Finland\u2019s ICEYE",
-    "amount": "Undisclosed",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "TechStartups",
-    "url": "https://techstartups.com/2026/08/05/finlands-iceye-raises-e1-billion-at-over-e10-billion-valuation-to-expand-its-radar-satellite-network/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-05T11:17:24.949593-07:00",
-    "status": "active"
-  },
-  {
-    "id": "65ba2a6467661540d3f242718574491b",
-    "company": "Figma",
-    "amount": "Undisclosed",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "a16z (news)",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3U5SXdPTDM2SEtfd3FfVDJhWDVBT1RwS1hkaC1mRjQ1RDd1X2JVUWJHMEg3clhNUUh2Ym12TDB2OU5QUlN0cUFqY193aTVtWU01QmtDaVVvaGRWbDduV1RQUGVmTHBaSmhXUFZCQ0t6N2RZWS1mTEExYXN6ZGNHakNiUzBGLWZNUFZhZWp3Q2VBcWp3bVJiS0lNVWJWRE9YN0RaOUFudw?oc=5",
-    "priority": 3,
-    "founders": [],
-    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-    "roles": [
-      {
-        "title": "Motion Designer",
-        "url": "https://boards.greenhouse.io/figma/jobs/6117563004?gh_jid=6117563004",
-        "location": "San Francisco, CA \u2022 New York, NY \u2022 United States"
-      },
-      {
-        "title": "Product Designer, AI Models",
-        "url": "https://boards.greenhouse.io/figma/jobs/5711913004?gh_jid=5711913004",
-        "location": "San Francisco, CA \u2022 New York, NY \u2022 United States"
-      },
-      {
-        "title": "Product Designer, CMS",
-        "url": "https://boards.greenhouse.io/figma/jobs/6126976004?gh_jid=6126976004",
-        "location": "San Francisco, CA \u2022 New York, NY \u2022 United States"
-      },
-      {
-        "title": "Product Designer, Design, Dev, & AI Tools",
-        "url": "https://boards.greenhouse.io/figma/jobs/5711468004?gh_jid=5711468004",
-        "location": "San Francisco, CA \u2022 New York, NY \u2022 United States"
-      },
-      {
-        "title": "Product Designer, Growth & Monetization",
-        "url": "https://boards.greenhouse.io/figma/jobs/5711595004?gh_jid=5711595004",
-        "location": "San Francisco, CA \u2022 New York, NY \u2022 United States"
-      }
-    ],
-    "first_seen": "2026-08-05T09:52:33.241735-07:00",
-    "status": "active"
-  },
-  {
-    "id": "6789b6a9aefc956478a6798ee5a29e62",
-    "company": "SkinBit",
-    "amount": "$6.0M",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "TechStartups",
-    "url": "https://techstartups.com/2026/08/05/skinbit-raises-6m-to-bring-20-minute-full-body-skin-cancer-screening-to-clinics-across-america/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-05T09:52:30.831007-07:00",
     "status": "active"
   }
 ]
