@@ -1,5 +1,107 @@
 [
   {
+    "id": "967fbd059fe1fb45b45434a05e1a8e10",
+    "title": "Product Designer App (NYC)",
+    "company": "SportAtlas",
+    "location": "New York, NY",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463785248",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-05T11:14:13.961264-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "cdb9275c0f23aac49e1f63aa9cffc430",
+    "title": "System Product Design Engineer",
+    "company": "Apple",
+    "location": "Austin, TX, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=1ef426666573cfe3",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-08-31",
+    "priority": 4,
+    "first_seen": "2026-09-05T11:14:12.128869-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "8d3359b893bca81a8cfc300a78b7151b",
+    "title": "Hydraulic/Pneumatic Product Design Engineer",
+    "company": "Globe Machine Manufacturing",
+    "location": "Tacoma, WA, US",
+    "salary": "$80,000 \u2013 $125,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=2e7bcc5714b6c949",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-04",
+    "priority": 4,
+    "first_seen": "2026-09-05T11:14:10.229890-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "5e4a098d12e0067b56bbd62be6a858dc",
+    "title": "Product Design Engineer Intern - Summer 2027",
+    "company": "Skydio",
+    "location": "San Mateo, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463690350",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 2,
+    "first_seen": "2026-09-05T11:14:08.327149-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "fd03a00195015e1c8ceecfbd49cca632",
+    "title": "Brand Designer, Iconography & Illustration - Instagram Brand Studio",
+    "company": "Meta",
+    "location": "New York, NY, US",
+    "salary": "$177,000 \u2013 $248,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=cde975ffacc292d0",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 3,
+    "first_seen": "2026-09-05T11:14:05.320637-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "bdb877e22674ba01394e3fa7515cdfdb",
+    "title": "Graphic Design",
+    "company": "University Book Store",
+    "location": "Seattle, WA, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=a2b93715bcaafd2c",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-03",
+    "priority": 3,
+    "first_seen": "2026-09-05T11:14:03.458303-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "6ceaf29c8f63784f4ff7125f4a5c3046",
     "title": "Brand Designer",
     "company": "PlanetScale",
@@ -64,23 +166,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-05T10:53:27.788728-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "b52e3df1df293884a81112e63a6043b1",
-    "title": "Display Electrical Design Engineer",
-    "company": "Apple",
-    "location": "Cupertino, CA, US",
-    "salary": "$184,700 \u2013 $324,800 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=6ab258d076380ba1",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-08-31",
-    "priority": 2,
-    "first_seen": "2026-09-05T10:53:25.818740-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -10247,7 +10332,8 @@
     "posted_at": "2026-08-25",
     "priority": 1,
     "first_seen": "2026-08-26T11:09:47.991986-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2550acc05ace3aff07654d3b384fe300",
@@ -10365,7 +10451,8 @@
     "posted_at": "2026-08-24",
     "priority": 2,
     "first_seen": "2026-08-25T21:53:59.337077-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "6d486cf6e76770c10fc1fc6123c25a1e",
@@ -10398,7 +10485,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T19:15:42.536976-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "8b42bb9bb6b5c3cac846667aef277f57",
@@ -10650,7 +10738,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T15:30:20.092870-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ac650ec89d0ad32c202b9bdfb85416d5",
@@ -10666,7 +10755,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T15:30:18.149083-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d47e0b3129f9ded2d588fd42accf58a0",
@@ -10730,7 +10820,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T13:23:46.163986-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ebc339e2f77c201308babd56b3f2f031",
@@ -10826,7 +10917,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T12:45:53.134171-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "dca890bcc3938b1dc2455d8a83a6414d",
@@ -10842,7 +10934,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T12:26:50.625209-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f2c1b2af3dec22ce4919b6528062ce1b",
@@ -10858,7 +10951,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T12:08:11.816056-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "098ea1f97b1709f51e215dcc5da949a7",
@@ -10874,7 +10968,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T11:48:18.769846-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "9b291270c5d0155ec8536892e26147d3",
