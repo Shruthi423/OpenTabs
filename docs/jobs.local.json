@@ -1,5 +1,107 @@
 [
   {
+    "id": "6ceaf29c8f63784f4ff7125f4a5c3046",
+    "title": "Brand Designer",
+    "company": "PlanetScale",
+    "location": "Remote, US",
+    "salary": "$170,000 \u2013 $220,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=6a3adb66f92d78fe",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-04",
+    "priority": 4,
+    "first_seen": "2026-09-05T10:53:33.612199-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "02c8a4ddd9f5707aa6b8591c3ba2f62a",
+    "title": "Brand Designer, Iconography & Illustration - Instagram Brand Studio",
+    "company": "Meta",
+    "location": "San Francisco, CA, US",
+    "salary": "$177,000 \u2013 $248,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=de605bab0015f280",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 1,
+    "first_seen": "2026-09-05T10:53:31.666621-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "71d11fca08ed6b0939bcf28cffc1c50a",
+    "title": "UI/UX Developer - Chantilly, Va.",
+    "company": "SpatialGIS",
+    "location": "Chantilly, VA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4461401381",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-05T10:53:29.661025-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "0dc71db540d5d83afe6ec81d5b58cbd9",
+    "title": "Product Design Engineer",
+    "company": "Actalent",
+    "location": "Blair, NE",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463681721",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-05T10:53:27.788728-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "b52e3df1df293884a81112e63a6043b1",
+    "title": "Display Electrical Design Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA, US",
+    "salary": "$184,700 \u2013 $324,800 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=6ab258d076380ba1",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-08-31",
+    "priority": 2,
+    "first_seen": "2026-09-05T10:53:25.818740-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "9d63c93bb1134d63c23a1c07c0967699",
+    "title": "System Product Design Eng",
+    "company": "Apple",
+    "location": "Cupertino, CA, US",
+    "salary": "$184,700 \u2013 $277,600 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=4509d664ce25dce9",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-08-31",
+    "priority": 2,
+    "first_seen": "2026-09-05T10:53:24.062178-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "9f343fe55d695d86337e4e559f9231c0",
     "title": "UI/UX Designer",
     "company": "ADVATIX - Advanced Supply Chain and Logistics",
@@ -64,23 +166,6 @@
     "posted_at": "2026-09-03",
     "priority": 4,
     "first_seen": "2026-09-05T10:33:10.957743-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "92ff4248df252513f4dbf05d16e97529",
-    "title": "Content Designer (Remote)",
-    "company": "Cisco",
-    "location": "Durham, NC, US",
-    "salary": "$104,100 \u2013 $177,100 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=4b6873dc11137d38",
-    "source": "Indeed",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-09-03",
-    "priority": 4,
-    "first_seen": "2026-09-05T10:33:09.010300-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -9924,7 +10009,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-26T11:48:02.950981-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "d088f1394daf492dfc74defaf1d124b0",
@@ -9991,7 +10077,8 @@
     "posted_at": "2026-08-24",
     "priority": 4,
     "first_seen": "2026-08-26T11:29:12.518630-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "97302832226cca7d28bde5c86e473233",
@@ -10075,7 +10162,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T11:28:52.214529-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "150eedbde12fb8f6932c60a801532103",
@@ -10091,7 +10179,8 @@
     "posted_at": "2026-08-26",
     "priority": 4,
     "first_seen": "2026-08-26T11:28:50.365674-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "6d887c20561b8db54080ba13cce9580e",
@@ -10342,7 +10431,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T18:57:04.664797-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "932f1d952f7ee0e4fcf6b244b2b97bce",
@@ -10374,7 +10464,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-25T18:19:50.017691-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "48f135f73cb6febfb70098838f860294",
@@ -10390,7 +10481,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T18:19:48.063521-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7aa3c51903b0a7d9a66f70303ecbc53c",
@@ -10406,7 +10498,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T18:19:45.687031-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "03e8a2f640205d57eb4277d23e9ace51",
@@ -10422,7 +10515,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T17:23:36.709795-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7f7669aff7eb46c5f1983d463995c218",
@@ -10438,7 +10532,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T17:23:34.966978-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "aca25ffb2e80ab8ca12867ecfbbba173",
@@ -10454,7 +10549,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-25T17:04:41.076343-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "aded87ce96dbabd7c81d454aa643f266",
@@ -10486,7 +10582,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-25T15:49:08.381936-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "25a0e137bc67e733f73fa3fc3e2a6ae2",
@@ -10502,7 +10599,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T15:49:06.388218-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "351a166efe15a66665126cfda47a6085",
@@ -10518,7 +10616,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-25T15:49:04.343258-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "cc0b259df69b172827dc4faf445c90a4",
@@ -10534,7 +10633,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-25T15:49:02.408868-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "64c429b427482ab46005e14b64e05e4b",
