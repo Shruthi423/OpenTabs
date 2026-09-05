@@ -1,5 +1,35 @@
 [
   {
+    "id": "1c5a7eaf4e330c6a400832c1c51da362",
+    "company": "MAGA Inc.",
+    "amount": "$10.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/05/maga-inc-10-million-texas-senate-race-trump-james-talarico-ken-paxton/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-05T15:19:18.335763-07:00",
+    "status": "active"
+  },
+  {
+    "id": "01e2518d91c26e9a78f16e8290d075e8",
+    "company": "\u201cRwaj\u201d",
+    "amount": "$1.2M",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVktBcHpMdWJPSjdvSkM1TkNHMkRTZldTMi1IalZpLVhJM25KOVdWcUpDVXF3RHpqMXlZV2VoRVNKeW5KTmdabWFhTlU3X1hJZEJObjQzREpaVWFZWG1UdkVmRmtIQ3VfV2YzZ21WMEdjMWF0VW1QUWFXVTBlQmJWRzJ6TXBwdVdwcS1YYXpqcTlYdw?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-05T15:19:15.444002-07:00",
+    "status": "active"
+  },
+  {
     "id": "a84fc2e2ca43bcee8a60f53d151f5b7b",
     "company": "Gimlet Labs Valuation Surges",
     "amount": "$3.0B",
@@ -11056,36 +11086,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-05T16:39:27.154698-07:00",
-    "status": "active"
-  },
-  {
-    "id": "514ee4bca490c589e7ff3e1eebd1d966",
-    "company": "Moove",
-    "amount": "$250.0M",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "TechCrunch Venture",
-    "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-05T14:32:27.346743-07:00",
-    "status": "active"
-  },
-  {
-    "id": "a2f8488189e746d90a483b32bcbde293",
-    "company": "EON",
-    "amount": "$10.75M",
-    "stage": "Seed",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxQkZ5dFRZdFgyQXloa3FSQXZLRWNwQ0RJd0hJb3NxV044NGpCYlFMWDAtREplNTBONTYwSUYxTTlBUE9BN1R0b2pKQVBBc0JuWnAw?oc=5",
-    "priority": 9,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-05T14:32:25.058873-07:00",
     "status": "active"
   }
 ]

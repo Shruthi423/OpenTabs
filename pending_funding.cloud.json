@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "item": {
+      "company": "\u201cRwaj\u201d",
+      "amount": "$1.2M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVktBcHpMdWJPSjdvSkM1TkNHMkRTZldTMi1IalZpLVhJM25KOVdWcUpDVXF3RHpqMXlZV2VoRVNKeW5KTmdabWFhTlU3X1hJZEJObjQzREpaVWFZWG1UdkVmRmtIQ3VfV2YzZ21WMEdjMWF0VW1QUWFXVTBlQmJWRzJ6TXBwdVdwcS1YYXpqcTlYdw?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-09-05T15:49:14.443817-07:00"
+  },
+  {
+    "item": {
+      "company": "MAGA Inc.",
+      "amount": "$10.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/05/maga-inc-10-million-texas-senate-race-trump-james-talarico-ken-paxton/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-05T15:49:17.335583-07:00"
+  }
+]

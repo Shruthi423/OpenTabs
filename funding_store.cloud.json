@@ -54276,5 +54276,35 @@
     "roles": [],
     "first_seen": "2026-09-05T11:29:36.290372-07:00",
     "status": "active"
+  },
+  "01e2518d91c26e9a78f16e8290d075e8": {
+    "id": "01e2518d91c26e9a78f16e8290d075e8",
+    "company": "\u201cRwaj\u201d",
+    "amount": "$1.2M",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVktBcHpMdWJPSjdvSkM1TkNHMkRTZldTMi1IalZpLVhJM25KOVdWcUpDVXF3RHpqMXlZV2VoRVNKeW5KTmdabWFhTlU3X1hJZEJObjQzREpaVWFZWG1UdkVmRmtIQ3VfV2YzZ21WMEdjMWF0VW1QUWFXVTBlQmJWRzJ6TXBwdVdwcS1YYXpqcTlYdw?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-05T15:19:15.444002-07:00",
+    "status": "active"
+  },
+  "1c5a7eaf4e330c6a400832c1c51da362": {
+    "id": "1c5a7eaf4e330c6a400832c1c51da362",
+    "company": "MAGA Inc.",
+    "amount": "$10.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/05/maga-inc-10-million-texas-senate-race-trump-james-talarico-ken-paxton/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-05T15:19:18.335763-07:00",
+    "status": "active"
   }
 }
