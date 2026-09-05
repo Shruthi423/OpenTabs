@@ -54216,5 +54216,35 @@
     "roles": [],
     "first_seen": "2026-09-04T16:39:22.086969-07:00",
     "status": "active"
+  },
+  "79153b1cde9875572d647c4e622a9bcf": {
+    "id": "79153b1cde9875572d647c4e622a9bcf",
+    "company": "AI",
+    "amount": "$5.4M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMGZndFo2UVI4bUtXQUwzWkZrcHlUVk5nVXVoeDFmekc2OHBqVzgtdlZkV0xXenZyd1U0ZUs0QUtfaFoxcTdWd3FzUkJqVkF6dlhWRW1ZWEtZclZZREp3WFNqSmZTeUdmREhhYlZoanpKSU5qUkFiVGFfSU1aRm9QbW8xRDhhM2ZUVWFTUDhUVlVNTW1scExSTW1sU1hfVkJTWEJzWEI1d3ZsZi0zdlFVZ1hR?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-04T23:02:33.425546-07:00",
+    "status": "active"
+  },
+  "0cc2ff002986f26f6475e7239f668a91": {
+    "id": "0cc2ff002986f26f6475e7239f668a91",
+    "company": "Strava",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWDBvaFdWNG9sd1RxWnJ5SC1BMWtzYmI1OEtVR3RoVGRoNUlIakM0VHpabHRIUTkwR1FyZE8yVW8wRGdLeFVYa0RoeDVUdGN4cXl4TDdfeU9tLTRzRXpKbm1Bd3dxX3BoT3lRQldjRDFhNG9sTXQtUkZQOXFGb1Bwc0ZFeS1pNzVWMVllR2xNaElXdDNqUWk0SUZRWlloMlR2emdBaUtQZTE?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-04T23:02:36.645534-07:00",
+    "status": "active"
   }
 }

@@ -3600,7 +3600,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-11T21:10:50.643146-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "af0d5d21a277556f5303a35c0172fe5f",
@@ -3718,7 +3719,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-11T04:29:25.478126-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "6e0769049c5b85ce6f864ebc458c0fc1",
@@ -4001,7 +4003,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-10T05:07:43.020527-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "49eeee726e90a1f2ffd75e2ef76c2cb0",
@@ -4017,7 +4020,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-08-10T05:07:41.289332-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d0231fc1e908b51f2b38b02de0f75ffb",
@@ -4033,7 +4037,8 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-08-10T05:07:39.543366-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "564a374164754695b05c5f4fe703c81e",
@@ -4049,7 +4054,8 @@
     "posted_at": "6h",
     "priority": 4,
     "first_seen": "2026-08-10T04:21:54.534272-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f3a607b15549dad0d38bd738d5f3fcd6",
@@ -4065,7 +4071,8 @@
     "posted_at": "5h",
     "priority": 5,
     "first_seen": "2026-08-10T04:21:52.669649-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "89484a26c245c994c8aa0d9207a44609",
@@ -4081,7 +4088,8 @@
     "posted_at": "4h",
     "priority": 5,
     "first_seen": "2026-08-10T04:21:50.765198-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a3a7fb857f806452dca8f348c7cfc580",
@@ -4097,7 +4105,8 @@
     "posted_at": "4h",
     "priority": 2,
     "first_seen": "2026-08-10T04:21:48.874661-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "758ac702005746488a156fe0d639888c",
@@ -4113,7 +4122,8 @@
     "posted_at": "3h",
     "priority": 5,
     "first_seen": "2026-08-10T04:21:46.957221-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "96e32633c6a723ca5da9037cdc9958a4",
@@ -4129,7 +4139,8 @@
     "posted_at": "2h",
     "priority": 4,
     "first_seen": "2026-08-10T04:21:45.128203-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "053b186ec26474eff75505b57c640387",
@@ -4145,7 +4156,8 @@
     "posted_at": "2h",
     "priority": 4,
     "first_seen": "2026-08-10T04:21:43.282547-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "602972a76921e6c04d3b90d51c7a81f6",
@@ -4161,7 +4173,8 @@
     "posted_at": "1h",
     "priority": 4,
     "first_seen": "2026-08-10T04:21:41.428934-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "67db3239619321afc054a30f3b4071b9",
@@ -4193,7 +4206,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-08-10T04:21:37.905010-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "eb0261a2835f0ed942ef8f68b8045d2e",
@@ -4737,54 +4751,6 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-05T03:46:28.145745-07:00",
-    "status": "active"
-  },
-  {
-    "id": "34a3acc55c0108c69fa41538fd6667e2",
-    "title": "Product Designer (8+ YOE)",
-    "company": "Airtable",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://job-boards.greenhouse.io/airtable/jobs/8400776002",
-    "source": "\ud83d\udcb0 Airtable (just raised)",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 1,
-    "first_seen": "2026-08-04T19:57:37.570755-07:00",
-    "status": "active"
-  },
-  {
-    "id": "5eb25eb8bbe1ed79ef5b07f4317fc93e",
-    "title": "Design Technologist",
-    "company": "Airtable",
-    "location": "San Francisco, CA; New York, NY",
-    "salary": "Not listed",
-    "url": "https://job-boards.greenhouse.io/airtable/jobs/8455969002",
-    "source": "\ud83d\udcb0 Airtable (just raised)",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 1,
-    "first_seen": "2026-08-04T19:57:35.831345-07:00",
-    "status": "active"
-  },
-  {
-    "id": "25e097cbe4e6b53a168d9984bbfacc40",
-    "title": "Product Designer (Salesforce) (6769) at MetroStar",
-    "company": "Unknown",
-    "location": "Remote",
-    "salary": "$140,000",
-    "url": "https://remotefirstjobs.com/companies/metrostar/jobs/product-designer-salesforce-6769-843560",
-    "source": "JobsCollider",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-08-04T19:57:10.625920-07:00",
     "status": "active"
   }
 ]
