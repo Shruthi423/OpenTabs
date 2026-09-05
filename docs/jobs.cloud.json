@@ -4331,7 +4331,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-09T22:53:44.511247-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "603186a16748f6ec03ee4bd5369ff73e",
@@ -4364,7 +4365,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-09T19:33:01.943678-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "a50665c483a53e6002bced2b41589545",
@@ -4397,7 +4399,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-08T20:08:46.970611-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "60e343c69fbdf61882150534c5eb91fd",
@@ -4447,7 +4450,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-08T08:57:16.836847-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ec596e3c0d6f8a64d271564c446d6ea6",
@@ -4480,7 +4484,8 @@
     "posted_at": "Recently",
     "priority": 2,
     "first_seen": "2026-08-08T05:01:29.080691-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ec8e4c045702f34191a46c9c9c74b9dc",
@@ -4699,7 +4704,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-06T07:44:54.437640-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ffba423d5d77485bc0b6b4208ee86716",
@@ -4715,7 +4721,8 @@
     "posted_at": "5h",
     "priority": 5,
     "first_seen": "2026-08-06T05:17:36.473817-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "03c382a626d4b3cd8774492b6d9b3198",
@@ -4731,7 +4738,8 @@
     "posted_at": "4h",
     "priority": 5,
     "first_seen": "2026-08-06T05:17:34.936197-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "41c14bef36d1c7c8b0db83743e13ca62",
@@ -4747,7 +4755,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-05T15:42:09.670457-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "96ccf9fe5a98e637381d824e4aec6683",
@@ -4763,6 +4772,7 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-05T11:16:57.120318-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   }
 ]
