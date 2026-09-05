@@ -1,5 +1,90 @@
 [
   {
+    "id": "9b6ff89d246233d43dea86fdcdc8a5ea",
+    "title": "Product Design Engineer, Thermals",
+    "company": "Hark",
+    "location": "San Jose",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/hark/jobs/4218847009",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 2,
+    "first_seen": "2026-09-05T06:33:36.052269-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "fa4874be1ea899f39bfb8c90716ede91",
+    "title": "Product Design Engineer, FEA",
+    "company": "Hark",
+    "location": "San Jose",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/hark/jobs/4317218009",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 2,
+    "first_seen": "2026-09-05T06:33:34.242319-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "b63438a7a5f4cb81f24da3407aae9c0a",
+    "title": "Product Design Engineer",
+    "company": "Hark",
+    "location": "San Jose",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/hark/jobs/4115928009",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 2,
+    "first_seen": "2026-09-05T06:33:32.499229-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "b8c22aec4579f33bf0df7e50699a53f3",
+    "title": "Frontier UX Engineer",
+    "company": "Hark",
+    "location": "San Jose",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/hark/jobs/4396895009",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 2,
+    "first_seen": "2026-09-05T06:33:30.714966-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "6ceaf29c8f63784f4ff7125f4a5c3046",
+    "title": "Brand Designer",
+    "company": "PlanetScale",
+    "location": "Remote - USA",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/planetscale/jobs/4396843009",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-09-05T06:33:28.843594-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "bceeb0276aceda012804cf80c289521f",
     "title": "UI Designer",
     "company": "True Anomaly",
@@ -4212,7 +4297,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-10T04:21:39.677012-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "751cfb2b5d1ddfeaec0fe55d51d1d94f",
@@ -4461,7 +4547,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-08T04:00:11.180589-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "9e18275d8fccafee3d05938c2db210b0",
@@ -4493,7 +4580,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-07T10:44:08.203088-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "97317e1b0183979b34c039c2c57c2f29",
@@ -4509,7 +4597,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-07T10:44:06.541946-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a9c36f28937b76a7e8a169c378f7040d",
@@ -4525,7 +4614,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-07T00:51:26.446563-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "3e3d795f339264759b3492dc42f3b4b1",
@@ -4541,7 +4631,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-06T17:14:39.406829-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "35481664b7366dc9859d948a6b5367f3",
@@ -4557,7 +4648,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-06T17:14:37.844323-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2e3595eb0c8ac2d98fa88362d070f793",
@@ -4573,7 +4665,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-06T17:14:36.261491-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7ef710f5ab8cccdff3724b8756f6df15",
@@ -4589,7 +4682,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-08-06T17:14:34.516638-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2cef9cfb0335ea534248c768e4b7ed5d",
@@ -4669,118 +4763,6 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-08-05T11:16:57.120318-07:00",
-    "status": "active"
-  },
-  {
-    "id": "c7b28b3c854bbce3907cd3f934887f6c",
-    "title": "Product Designer",
-    "company": "Mastra",
-    "location": "Remote",
-    "salary": "Not listed",
-    "url": "https://uiuxjobsboard.com/job/1549626-remote-north-america-product-designer",
-    "source": "UIUXJobsBoard",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "6h",
-    "priority": 5,
-    "first_seen": "2026-08-05T03:46:39.733187-07:00",
-    "status": "active"
-  },
-  {
-    "id": "51ce401c4d9f5f692a8c3859d289da77",
-    "title": "Product Designer",
-    "company": "Secureframe",
-    "location": "Remote",
-    "salary": "$140,000 - $220,000",
-    "url": "https://uiuxjobsboard.com/job/1549526-remote-united-states-product-designer",
-    "source": "UIUXJobsBoard",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2h",
-    "priority": 5,
-    "first_seen": "2026-08-05T03:46:37.854726-07:00",
-    "status": "active"
-  },
-  {
-    "id": "15b780e769c7c0fb4a5507ed4f671618",
-    "title": "UX Researcher",
-    "company": "Volta",
-    "location": "Palo Alto, CA",
-    "salary": "$200,000 - $240,000",
-    "url": "https://uiuxjobsboard.com/job/1549226-ux-researcher-palo-alto-ca-united-states",
-    "source": "UIUXJobsBoard",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2h",
-    "priority": 2,
-    "first_seen": "2026-08-05T03:46:35.613433-07:00",
-    "status": "active"
-  },
-  {
-    "id": "d0b946e3adcfcb3a16aa161d031ff9f7",
-    "title": "Product Designer",
-    "company": "fal",
-    "location": "San Francisco, CA",
-    "salary": "$180,000 - $230,000",
-    "url": "https://uiuxjobsboard.com/job/1549326-product-designer-san-francisco-ca-united-states",
-    "source": "UIUXJobsBoard",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2h",
-    "priority": 1,
-    "first_seen": "2026-08-05T03:46:33.761104-07:00",
-    "status": "active"
-  },
-  {
-    "id": "5240439b7cc005d10ee4dde976b3e757",
-    "title": "Product Designer",
-    "company": "Antimetal",
-    "location": "New York",
-    "salary": "$200,000 - $400,000",
-    "url": "https://uiuxjobsboard.com/job/1549426-product-designer-new-york-united-states",
-    "source": "UIUXJobsBoard",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2h",
-    "priority": 3,
-    "first_seen": "2026-08-05T03:46:31.888300-07:00",
-    "status": "active"
-  },
-  {
-    "id": "11f91b4448cbe8216fe3d3b188367c24",
-    "title": "Product Designer",
-    "company": "Cylake",
-    "location": "Sunnyvale, CA",
-    "salary": "$150,000 - $250,000",
-    "url": "https://uiuxjobsboard.com/job/1550026-product-designer-sunnyvale-ca-united-states",
-    "source": "UIUXJobsBoard",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "1h",
-    "priority": 2,
-    "first_seen": "2026-08-05T03:46:29.836990-07:00",
-    "status": "active"
-  },
-  {
-    "id": "2561ae3f6bbacf8bfd54fdd8c7570d11",
-    "title": "Production Brand Designer (Part-time & REMOTE) at Luma Health",
-    "company": "Unknown",
-    "location": "Remote",
-    "salary": "$45",
-    "url": "https://remotefirstjobs.com/companies/luma-health/jobs/production-brand-designer-parttime-remote-843781",
-    "source": "JobsCollider-Product",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-08-05T03:46:28.145745-07:00",
     "status": "active"
   }
 ]
