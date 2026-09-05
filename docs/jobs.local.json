@@ -9091,7 +9091,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T18:35:43.137481-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b36900408c3c8db3dee8ac14cada7584",
@@ -9107,7 +9108,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T18:35:41.204841-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0290fe4010502377b61675dd85dabb17",
@@ -9123,7 +9125,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T18:35:39.242645-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "d0aecbc624dfac9b97700104c9303dd1",
@@ -9156,7 +9159,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T16:54:38.034456-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0ff5e66bf72e67b7b991893acfa34026",
@@ -9172,7 +9176,8 @@
     "posted_at": "2026-08-25",
     "priority": 2,
     "first_seen": "2026-08-26T16:54:36.154516-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "bf729d83a8f9c7dd9654cd36efa98850",
@@ -9205,7 +9210,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T16:54:32.378047-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7f57b80cbb9c348c27ef823c6b6069d0",
@@ -9522,7 +9528,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-26T12:45:04.353150-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d1bb3deb5dd3ae67fe5649365a88e2cc",
@@ -9538,7 +9545,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-26T12:45:02.363653-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "0fa01413d90306d11d8eccf79cbaffe0",
@@ -9554,7 +9562,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-26T12:45:00.654974-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d100dfee6d7f93db86decc1f6147dba7",
@@ -9586,7 +9595,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-26T12:26:11.664095-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "cba247ff69cddc03dcf43fdd12950d1b",
@@ -9602,7 +9612,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-26T12:26:09.870919-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "345aff40830c5fa410d62f881d935c95",
@@ -9618,7 +9629,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-26T12:26:08.060073-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d83de4c6fe8db5e64ca5d55dacbd7aa0",
@@ -9634,7 +9646,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-26T12:07:25.024522-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "644e449257eca4dc54400749fc3bc224",
@@ -9650,7 +9663,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-26T12:07:23.151985-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "48846d3b2b034f626b7f21e2a7b7c488",
@@ -29186,358 +29200,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-04T18:52:23.433793-07:00",
-    "status": "active"
-  },
-  {
-    "id": "5c1fa3475b653f56a11df6cfa9ed05b1",
-    "title": "UI Designer - AI Trainer",
-    "company": "DataAnnotation",
-    "location": "New York, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4337638513",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-04T18:33:56.427381-07:00",
-    "status": "active"
-  },
-  {
-    "id": "286685501c8d1979a5f84143357f89f3",
-    "title": "User Experience Designer Intern",
-    "company": "Deepflow Labs",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448590290",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-04T18:33:54.316195-07:00",
-    "status": "active"
-  },
-  {
-    "id": "e9e7fadef49757c3a0f1672cebd0ad0e",
-    "title": "UX/UI Designer \u2013 Apprenticeship",
-    "company": "Digidop",
-    "location": "Multnomah County, OR",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449089907",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T18:33:52.363482-07:00",
-    "status": "active"
-  },
-  {
-    "id": "ae905cc52712db0c0815f396778be8ab",
-    "title": "Product Designer",
-    "company": "Jito Foundation",
-    "location": "Remote, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=4cac0500728aa57f",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-03",
-    "priority": 4,
-    "first_seen": "2026-08-04T18:33:50.410460-07:00",
-    "status": "active"
-  },
-  {
-    "id": "278d66326b9db9d657743f6379850ee9",
-    "title": "User Researcher, AI Evaluations",
-    "company": "Teknostra Engineering Pvt. Ltd.",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448921036",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-04T18:14:01.918337-07:00",
-    "status": "active"
-  },
-  {
-    "id": "610fe724af7dd7f465a05738c469bc96",
-    "title": "Rapid User Researcher",
-    "company": "Teknostra Engineering Pvt. Ltd.",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448908230",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-04T18:13:59.924407-07:00",
-    "status": "active"
-  },
-  {
-    "id": "834a77a6bdf1fd06dee1ca16020525bc",
-    "title": "Product Designer",
-    "company": "Bowerbird",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449417542",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-04T18:13:53.922088-07:00",
-    "status": "active"
-  },
-  {
-    "id": "c21e2abffacfd4cdcb056a2969a5d121",
-    "title": "Designer, UI/UX",
-    "company": "4Over, LLC",
-    "location": "Moonachie, NJ, US",
-    "salary": "$85,000 \u2013 $110,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=d69947d8bd9107ff",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-03",
-    "priority": 4,
-    "first_seen": "2026-08-04T18:13:51.831427-07:00",
-    "status": "active"
-  },
-  {
-    "id": "3ccc002b1d7472b1ae26a4fd7deea0a0",
-    "title": "Designer, UI/UX",
-    "company": "4Over, LLC",
-    "location": "Columbus, OH, US",
-    "salary": "$85,000 \u2013 $110,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=ad9ef52e38c4b31d",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-03",
-    "priority": 4,
-    "first_seen": "2026-08-04T18:13:49.834954-07:00",
-    "status": "active"
-  },
-  {
-    "id": "44c8c040e375f446e35f5ff4268fce08",
-    "title": "Product Designer",
-    "company": "Teknostra Engineering Pvt. Ltd.",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448913060",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-04T18:13:44.948918-07:00",
-    "status": "active"
-  },
-  {
-    "id": "78e0d1c28409dcc65e134027d9c22e08",
-    "title": "Motion Product Designer III",
-    "company": "Ascendion",
-    "location": "Burlingame, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448902373",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T17:37:43.462867-07:00",
-    "status": "active"
-  },
-  {
-    "id": "72531046e50e6faef78c022036ec1522",
-    "title": "SYSTEM PRODUCT DESIGN ENGINEER",
-    "company": "H1B Metrics",
-    "location": "San Jose, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449089686",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-04T17:37:41.413736-07:00",
-    "status": "active"
-  },
-  {
-    "id": "054037f58eca87592962326cd33f65f7",
-    "title": "User Experience and Assessment Coordinator, Libraries & Museums",
-    "company": "The University of Texas at San Antonio",
-    "location": "San Antonio, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449032548",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T17:37:37.281749-07:00",
-    "status": "active"
-  },
-  {
-    "id": "f8af8d9e9ec5c84a969689ccda481dc2",
-    "title": "UI/UX Product Designer - AI Trainer",
-    "company": "DataAnnotation",
-    "location": "Mississippi, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4338288116",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T17:37:35.351380-07:00",
-    "status": "active"
-  },
-  {
-    "id": "c222327aa6f724c8da045015b9e36443",
-    "title": "UI/UX Product Designer - AI Trainer",
-    "company": "DataAnnotation",
-    "location": "Washington, DC",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4338268229",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T17:37:33.352930-07:00",
-    "status": "active"
-  },
-  {
-    "id": "406f4d87dbed3a9c714536e797e2c946",
-    "title": "UI/UX Product Designer - AI Trainer",
-    "company": "DataAnnotation",
-    "location": "California, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4337608475",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T17:37:31.566640-07:00",
-    "status": "active"
-  },
-  {
-    "id": "c08784bcac2690180c8ba38706bbbd6f",
-    "title": "UX DESIGNER",
-    "company": "H1B Metrics",
-    "location": "Phoenix, AZ",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449094652",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T17:18:36.976285-07:00",
-    "status": "active"
-  },
-  {
-    "id": "9c52a2c2f4a50772441cb5d04ae832ad",
-    "title": "Product Design Engineer - Technical (DRI)",
-    "company": "Gentex Corporation",
-    "location": "Zeeland, MI, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=9215449f588354f9",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-03",
-    "priority": 4,
-    "first_seen": "2026-08-04T17:18:33.039732-07:00",
-    "status": "active"
-  },
-  {
-    "id": "9afe58da112871826f0b2bebe1f4d011",
-    "title": "New Product Design CNC Set Up Machinist",
-    "company": "Wakefield Thermal Solutions",
-    "location": "Nashua, NH, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=8e221eb4a04dec3d",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-04",
-    "priority": 4,
-    "first_seen": "2026-08-04T17:18:31.085032-07:00",
-    "status": "active"
-  },
-  {
-    "id": "5aaa0494df211355b49ba0e791e5ad08",
-    "title": "UX/UI Designer",
-    "company": "nan",
-    "location": "Santa Monica, CA, US",
-    "salary": "$80,000 \u2013 $90,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=d610386fd27dea16",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-04",
-    "priority": 4,
-    "first_seen": "2026-08-04T17:18:28.936610-07:00",
-    "status": "active"
-  },
-  {
-    "id": "fff5412ede5dac4d1957a6c7cfdcfd25",
-    "title": "Product Designer III- #26-18896",
-    "company": "US Tech Solutions",
-    "location": "Burlingame, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448585091",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-04T17:18:26.934653-07:00",
-    "status": "active"
-  },
-  {
-    "id": "44cb73cad876294cf5325a93efda9e6e",
-    "title": "UX Designer with UI (React) | SFO, CA (5days onsite) | Contract W2 only",
-    "company": "Next Gen Software Solutions",
-    "location": "San Francisco, CA, US",
-    "salary": "$55 \u2013 $60 / hourly",
-    "url": "https://www.indeed.com/viewjob?jk=a61581dc31d490eb",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-03",
-    "priority": 1,
-    "first_seen": "2026-08-04T17:18:21.955899-07:00",
     "status": "active"
   }
 ]
