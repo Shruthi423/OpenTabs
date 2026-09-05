@@ -132,7 +132,7 @@
 
   <!-- ── Three columns: Today · Previous · Just Raised ─────────────── -->
   <main id="top" class="board">
-    <section class="col" id="sec-today">
+    <section class="col">
       <div class="col-head">
         <h2><svg class="col-ico" viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M215.79,118.17a8,8,0,0,0-5-5.66L153.18,90.9l14.66-73.33a8,8,0,0,0-13.69-7l-112,120a8,8,0,0,0,3,13l57.63,21.61L88.16,238.43a8,8,0,0,0,13.69,7l112-120A8,8,0,0,0,215.79,118.17ZM109.37,214l10.47-52.38a8,8,0,0,0-5-9.06L62,132.71l84.62-90.66L136.16,94.43a8,8,0,0,0,5,9.06l52.8,19.8Z"></path></svg>Today</h2><em data-count="today">0</em><span class="hint">last 24h</span>
         <span class="showing" data-showing="today"></span>
@@ -142,7 +142,7 @@
       </div>
       <div class="rows" id="rows-today"></div>
     </section>
-    <section class="col" id="sec-prev">
+    <section class="col">
       <div class="col-head">
         <h2><svg class="col-ico" viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M216,208H168V184h4a68.07,68.07,0,0,0,68-68,28,28,0,0,0-56,0,12,12,0,0,1-12,12h-4V56a40,40,0,0,0-80,0V88H84A12,12,0,0,1,72,76a28,28,0,0,0-56,0,68.07,68.07,0,0,0,68,68h4v64H40a8,8,0,0,0,0,16H216a8,8,0,0,0,0-16ZM96,128H84A52.06,52.06,0,0,1,32,76a12,12,0,0,1,24,0,28,28,0,0,0,28,28H96a8,8,0,0,0,8-8V56a24,24,0,0,1,48,0v80a8,8,0,0,0,8,8h12a28,28,0,0,0,28-28,12,12,0,0,1,24,0,52.06,52.06,0,0,1-52,52H160a8,8,0,0,0-8,8v32H104V136A8,8,0,0,0,96,128Z"></path></svg>Previous</h2><em data-count="prev">0</em><span class="hint">older than 24h</span>
         <span class="showing" data-showing="prev"></span>
@@ -152,7 +152,7 @@
       </div>
       <div class="rows" id="rows-prev"></div>
     </section>
-    <section class="col col-raised" id="sec-raised">
+    <section class="col col-raised">
       <div class="col-head">
         <h2><svg class="col-ico" viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm0,192a88,88,0,1,1,88-88A88.1,88.1,0,0,1,128,216Zm40-68a28,28,0,0,1-28,28h-4v8a8,8,0,0,1-16,0v-8H104a8,8,0,0,1,0-16h36a12,12,0,0,0,0-24H116a28,28,0,0,1,0-56h4V72a8,8,0,0,1,16,0v8h16a8,8,0,0,1,0,16H116a12,12,0,0,0,0,24h24A28,28,0,0,1,168,148Z"></path></svg>Just Raised</h2>
         <em data-count="raised">0</em><span class="hint">SF / Bay Area</span>
@@ -193,7 +193,7 @@
   </section>
 
   <!-- ── Right panels: Applied · Trash (collapse and open) ──────────── -->
-  <div class="drawer-tabs" id="drawerTabs">
+  <div class="drawer-tabs">
     <button class="drawer-tab" id="tabApplied" aria-label="Open Applied"><span>Applied</span><em data-count="app">0</em></button>
     <button class="drawer-tab" id="tabOutreach" aria-label="Open Outreach"><span>Outreach</span><em data-count="out">0</em></button>
     <button class="drawer-tab" id="tabTrash" aria-label="Open Trash"><span>Trash</span><em data-count="trash">0</em></button>

@@ -1261,13 +1261,19 @@ function renderCog() {
   stage.classList.add(cogDir < 0 ? "to-prev" : "to-next");
 
   // Just Raised has no Applied state, so it gets a different legend.
-  $("#cogKeys").innerHTML = rec
-    ? '<kbd>&larr;</kbd><kbd>&rarr;</kbd> move <span class="sep">/</span>'
-      + (state.cog === "raised"
-          ? '<kbd>X</kbd> dismiss <span class="sep">/</span><kbd>&crarr;</kbd> read'
-          : '<kbd>A</kbd> applied <span class="sep">/</span><kbd>X</kbd> trash <span class="sep">/</span><kbd>&crarr;</kbd> open')
-      + ' <span class="sep">/</span><kbd>Esc</kbd> board'
-    : '<kbd>Esc</kbd> board';
+  // Each key travels with its own word in one group: the footer is a flex
+  // row, so loose keys and bare words became separate items spaced alike,
+  // and "move" sat as far from its arrows as from the next hint.
+  const khint = (keys, label) =>
+    `<span class="khint">${keys.map((k) => `<kbd>${k}</kbd>`).join("")}<span>${label}</span></span>`;
+  const hints = rec
+    ? [khint(["&larr;", "&rarr;"], "move")].concat(
+        state.cog === "raised"
+          ? [khint(["X"], "dismiss"), khint(["&crarr;"], "read")]
+          : [khint(["A"], "applied"), khint(["X"], "trash"), khint(["&crarr;"], "open")],
+        [khint(["Esc"], "board")])
+    : [khint(["Esc"], "board")];
+  $("#cogKeys").innerHTML = hints.join('<span class="sep">/</span>');
 
   COG_SIG = cogSig();
   if (rec) localStorage.setItem("cogAt:" + state.cog, cogKey(rec));

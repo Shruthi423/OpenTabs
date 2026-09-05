@@ -55,7 +55,7 @@ body {
 main { flex: 1 0 auto; }
 a { color: inherit; text-decoration: none; }
 
-.lbl, .hint, .status, .seg button {
+.lbl, .hint, .status {
   font-size: 12px; letter-spacing: 0;
 }
 
@@ -124,14 +124,6 @@ a { color: inherit; text-decoration: none; }
 /* keep the controls row from clipping an open panel */
 .controls .row { overflow: visible; }
 
-
-.seg { display: flex; gap: 16px; }
-.seg button {
-  background: none; border: 0; color: var(--mut); cursor: pointer;
-  font-family: inherit; padding: 0;
-}
-.seg button.is-on { color: var(--fg); }
-.seg button:hover { color: var(--fg); }
 
 /* colour-theme swatches — collapsed to the active colour, fan out on hover */
 .swatches { display: flex; align-items: center; }
@@ -464,14 +456,6 @@ body.drawer-trash #drawerTrash {
 .dd-btn .lbl,
 .field.search input { width: 100%; font-size: 13px; }
 
-.iconbtn {
-  background: none; border: 0; padding: 3px; color: var(--mut);
-  display: inline-flex; align-items: center; line-height: 0; cursor: pointer;
-  transition: color .18s ease, transform .3s ease;
-}
-.iconbtn:hover:not(:disabled) { color: var(--fg); }
-.iconbtn:disabled { opacity: .3; cursor: default; }
-
 /* ── Company name: the primary hook on a card ──────────────────── */
 .job-top .co {
   color: var(--co); font-weight: 700; font-size: 13px;
@@ -582,15 +566,6 @@ body { padding-left: var(--rail); }
 }
 .mode:hover { color: var(--fg); background: color-mix(in srgb, var(--fg) 9%, transparent); }
 .mode.is-on { color: var(--fg); border-color: var(--line); background: color-mix(in srgb, var(--fg) 9%, transparent); }
-/* Not shipped yet: readable, clearly inert, and never takes the pressed look. */
-.mode.is-soon { color: var(--mut); opacity: .5; cursor: default; }
-.mode.is-soon:hover { background: none; color: var(--mut); }
-/* the dot says "there is something here that isn't on yet" */
-.mode.is-soon::before {
-  content: ""; position: absolute; top: 3px; right: 3px;
-  width: 5px; height: 5px; border-radius: 50%;
-  background: currentColor; opacity: .8;
-}
 /* Icon-only rail, so the name flies out on hover. It is one shared fixed
    element rather than a ::after on the button: the rail scrolls, and an
    overflow container clips a flyout down to a sliver. */
@@ -745,11 +720,24 @@ a.cog-co:hover { text-decoration: underline; }
 
 .cog-keys {
   grid-area: keys; display: flex; flex-wrap: wrap; justify-content: center;
-  align-items: center; gap: 7px; padding: 18px;
+  align-items: center; gap: 8px 12px; padding: 18px;
   border-top: 1px solid var(--line);
   font-size: 11px; color: var(--mut);
 }
-.cog-keys .sep { opacity: .4; margin: 0 4px; }
+/* One hint = its keys + its word, kept together so the only gap that reads
+   as a gap is the one between hints. */
+.cog-keys .khint { display: inline-flex; align-items: center; gap: 6px; }
+.cog-keys .khint kbd + kbd { margin-left: -3px; }   /* arrow pairs sit tight */
+.cog-keys .sep { opacity: .4; margin: 0; }
+
+/* Uniform key caps: same box whatever the glyph, so Esc, A and the arrows
+   share one baseline instead of each sitting where its own font puts it. */
+.cog-keys kbd, .cog-exit kbd {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-width: 20px; height: 20px; padding: 0 5px;
+  font-family: var(--font-ui); font-size: 10px; line-height: 1;
+  border: 1px solid var(--line); border-radius: 4px; color: var(--mut);
+}
 
 /* Direction of travel matches the arrow you pressed. */
 @keyframes cogInNext { from { opacity: 0; transform: translateX(26px); } }
