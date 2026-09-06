@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "item": {
+      "company": "Oulu-based Creoir",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": "Oulu",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSnlHVXNHUnVQd1lXWUhzVnRub2RVZzVRQzRQWmc0NUFQZmVvR3RzNklEazRfWkJ1XzdNcDlncnNCQkZGYWczVE5EY2UybmlGTHFGZGJGOFdKRXYzQ3VBLUlhREg5aXd4c0NaMmc3SzVQWnlLU0Vfa3BZVFNtMVBTV0M2N1EzNy1vbUZvSm9FMmZ3eG9reUdRUWxZb3RRS2s2TmZhMUNRNEthbFBmU0tXazlsbXRId3FicDUxYTJHNWIzbXhOcHFBU3pNQXR1Tkk?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-06T02:26:30.508524-07:00"
+  },
+  {
+    "item": {
+      "company": "Phantasma Labs",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhYRlF2X3E5cWRkc2EwZ2lFM1VnaVdJTU5Pa1pQdUZDc3V5d1VqUXdsTHNOOGdyS3p2ZFZNNEhVOS02UFBkQmhLbHIzRjRfVE1wMEZRbHVfalc5dTBIeXVzZTFsZWE3SXJ1MWo0b0RlTXJGd2hELVlkNXhUNkdiSlQtUWxrTmRJUEp5MDNXbUdLNy0tODAtbmxnVjlyRWQxVFZiU2xR?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-06T02:26:33.433045-07:00"
+  },
+  {
+    "item": {
+      "company": "China's Tranalytic",
+      "amount": "$6.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVpGQjk1ZU1JSk5hT0p6ZkZxZ2VoUGtSUjhkYzN5WlhfQ1Z4UnNyMW5VWE5qV0xFYV90UGdzZUo1SUN6S3piU2FNQ2ZObmxiaENQbkgyN0NYQWJVVnhweUd0UFNsUEhFOEY3MEpoT1FjdEV0VE4yNm8yLXQ4WDBrN2gxODR3WTdGWEpsWGpjVExLTEhscHc?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-09-06T02:26:38.962982-07:00"
+  }
+]
