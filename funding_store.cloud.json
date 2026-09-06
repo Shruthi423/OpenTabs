@@ -54441,5 +54441,35 @@
     "roles": [],
     "first_seen": "2026-09-06T08:48:05.173585-07:00",
     "status": "active"
+  },
+  "ae00a8c030d59673244700f901fd0f79": {
+    "id": "ae00a8c030d59673244700f901fd0f79",
+    "company": "Kevin O\u2019Leary",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/what-is-kevin-oleary-rule-for-turning-68000-salary-into-millionaire-retirement/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-06T12:58:38.081206-07:00",
+    "status": "active"
+  },
+  "e989b6264694f89192f3ecaa06080227": {
+    "id": "e989b6264694f89192f3ecaa06080227",
+    "company": "SportsStack",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX3FlcEFBalBrMDg3dGN2WlRxcENlVUR2X3g1T3dkOHZNZEh1Z3pSaWp3YzNqbHpReEJ2ODI1NGlJX1owc1psVEJPUE1wVFFKRDRHNnZoM1NVeWExNkRxR3JXTkM1dWtxYktEOURWNzdSWWJ3aFBEQ3ZheWx1WU1xdWNHXzFlVmJ6MVJBUUJ2aW5fLWlYN3NaRzBxaElnTjdiUWJHQk9Ia00?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-06T12:58:40.918434-07:00",
+    "status": "active"
   }
 }
