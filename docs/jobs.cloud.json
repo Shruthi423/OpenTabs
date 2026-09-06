@@ -1,5 +1,22 @@
 [
   {
+    "id": "d44c91af4f2988fb1f9d2c22424f13b5",
+    "title": "Product Designer",
+    "company": "Lemma (F25)",
+    "location": "San Francisco, CA, US",
+    "salary": "$140K - $190K",
+    "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D104342&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30969",
+    "source": "Y Combinator",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-09-06T08:47:26.624392-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "57fa82ba92b5cfa5c794604875c24309",
     "title": "User Experience Designer",
     "company": "Truss",
@@ -4739,23 +4756,6 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-08-06T17:14:34.516638-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "2cef9cfb0335ea534248c768e4b7ed5d",
-    "title": "Product Designer at Wpromote",
-    "company": "Unknown",
-    "location": "Remote",
-    "salary": "$111,000 - $132,000,",
-    "url": "https://remotefirstjobs.com/companies/wpromote/jobs/product-designer-844578",
-    "source": "JobsCollider",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-08-06T07:44:54.437640-07:00",
     "status": "active",
     "jd": "yes"
   }
