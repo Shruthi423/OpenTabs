@@ -54366,5 +54366,35 @@
     "roles": [],
     "first_seen": "2026-09-06T01:56:39.963140-07:00",
     "status": "active"
+  },
+  "a8d72b28e73e94b947dbd42c2a98b3a5": {
+    "id": "a8d72b28e73e94b947dbd42c2a98b3a5",
+    "company": "Kuwait's Dawraty",
+    "amount": "$2.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTWVISUxWNkVpTHVFc0xMRnczSVNnNG1KSUxiODllUVVjSThSNXBlM0ZOcVJIcmcwMkZnNGdweXBvSGZTSFMxbVp6MjlSN19SMVBGQklMUHowNXdZMUc0dzlOazc4a29qMmFTRDRUYjhTU3F6WXZxbF81ZHBVUGdjRDJxSnQtVF9QQXhJR2VCdjB4eGpLTXh4bE02WUdMQ1hQ?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-06T05:33:13.310303-07:00",
+    "status": "active"
+  },
+  "cbb294a2827bd8751efa1e995b142256": {
+    "id": "cbb294a2827bd8751efa1e995b142256",
+    "company": "Gimlet",
+    "amount": "$300.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmlwZmI2U1p6REtIalB6dHU3SzNxS1NMR0hBUEJDdXV1VThWbnJBbzJmWEpoUlZ1Y0E4NEptMGQ3dTRRNnZkRTlaTkRJbzJTeWcwZHUzTGFIOWJSMmx0OWFzWWlfRFNpMGVTajQxUG5KQzZxMzU1SFVyVlZrbGNlYkt3MU9KdmtYd01tSFJuajVYZGo1OV9qb0R3NlRkdUpDY1MxTw?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-06T05:33:16.109661-07:00",
+    "status": "active"
   }
 }
