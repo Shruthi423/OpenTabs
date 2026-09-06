@@ -1,5 +1,56 @@
 [
   {
+    "id": "84ebbb2682b64ad17178b19a87d1441f",
+    "title": "Junior Visual Designer",
+    "company": "Garra RH",
+    "location": "Ohio, United States",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4461878180",
+    "source": "Linkedin",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-06T16:05:23.492484-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "b1213f6dea6c771eb73e6025636c7e16",
+    "title": "laser engraving , 3d printing and product design specialist",
+    "company": "Hartville Internal Medicine",
+    "location": "Minerva, OH, US",
+    "salary": "$17 \u2013 $22 / hourly",
+    "url": "https://www.indeed.com/viewjob?jk=947d390cd2b8ad9b",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-06",
+    "priority": 4,
+    "first_seen": "2026-09-06T16:05:21.676195-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "ce5d5b2b72101031ea2889121d01fe74",
+    "title": "Hardware Polymers Materials Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA, US",
+    "salary": "$150,400 \u2013 $277,600 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=43cabb66f468b5c8",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-09-01",
+    "priority": 2,
+    "first_seen": "2026-09-06T16:05:19.786025-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "03ee6a8cf738a3bb7fa6ee523c0c647e",
     "title": "Human Factors UX Engineer",
     "company": "Garmin",
@@ -10842,7 +10893,8 @@
     "posted_at": "2026-08-24",
     "priority": 3,
     "first_seen": "2026-08-25T15:11:06.420571-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "23a0264cabad0d74620ebae1b05178d7",
@@ -10858,7 +10910,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T15:11:04.662573-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7bc2e5a2cc1cc729e1d2e61f5793d0bf",
@@ -10874,7 +10927,8 @@
     "posted_at": "2026-08-24",
     "priority": 4,
     "first_seen": "2026-08-25T13:42:49.209504-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3581b76366a01a62e3d81647eac8a0a4",
@@ -10907,7 +10961,8 @@
     "posted_at": "2026-08-24",
     "priority": 4,
     "first_seen": "2026-08-25T13:23:44.180066-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "9009063c4c2ac01e6a18986ba6b2ba3a",
@@ -10923,7 +10978,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-25T13:23:42.230648-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "19a4def614a2832077422d849322cbb9",
@@ -10939,7 +10995,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-25T13:23:38.152292-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ac75cf5a27fac3c2f85ea636d5f3eeef",
@@ -10955,7 +11012,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-25T13:23:36.280908-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2e8addb81746c4c87bd30125e37b78ec",
@@ -10971,7 +11029,8 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-25T13:23:34.489874-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7674e2de05efe100ee56a94d01f0cf12",
@@ -11299,7 +11358,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-25T10:34:58.141589-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "72e723b6507f8ec25f3ce4d9bfc6dece",
