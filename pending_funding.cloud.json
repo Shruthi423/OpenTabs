@@ -1,268 +1,72 @@
 [
   {
     "item": {
-      "company": "AgentMail",
-      "amount": "$6.0M",
+      "company": "Omme",
+      "amount": "$4.8M",
       "stage": "Seed",
-      "investors": "General Catalyst",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/agentmail-raises-6m-seed/",
-      "priority": 12
-    },
-    "remind_at": "2026-09-07T06:24:12.093028-07:00"
-  },
-  {
-    "item": {
-      "company": "Retro",
-      "amount": "$21.0M",
-      "stage": "Series A",
-      "investors": "Thrive Capital, Field Ventures",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/retro-raises-21m-series-a/",
-      "priority": 11
-    },
-    "remind_at": "2026-09-07T06:24:15.119943-07:00"
-  },
-  {
-    "item": {
-      "company": "Fluencify",
-      "amount": "$4.3M",
-      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/fluencify-raises-4-3m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-07T06:24:18.052602-07:00"
-  },
-  {
-    "item": {
-      "company": "Nexthop AI",
-      "amount": "$500.0M",
-      "stage": "Series B",
-      "investors": "Lightspeed, Lightspeed Venture Partners",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/nexthop-ai-raises-500m-series-b/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-07T06:24:21.081631-07:00"
-  },
-  {
-    "item": {
-      "company": "Cato",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "Keen Venture Partners",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/cato-raises-6m-seed/",
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWZKXzR3ZzNzblZNZ1BDMWpHaUdZaFRNd21DM1BrWnhvZUllY1dtdkhCX0JNQ3lqeFdpUmhEd2ZNb255WmNmRFZUcjBXaXRrc21ldDlqWF8tMVRmOW95V3ZDd00zTjJNbFotSjdPRFcxczU2NWZacWJ4XzRWRHhpSVBWTUVjalo1aGQ5OFAtWTBmU3h0ZC1sSTJHcUNXQVFs?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-09-07T06:24:24.189538-07:00"
+    "remind_at": "2026-09-07T11:33:32.074396-07:00"
   },
   {
     "item": {
-      "company": "Dawraty",
-      "amount": "$2.0M",
-      "stage": "Seed",
-      "investors": "Qatar Development Bank",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/dawraty-raises-2m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-07T06:24:27.111557-07:00"
-  },
-  {
-    "item": {
-      "company": "Kuwaiti Edtech Dawraty",
-      "amount": "$2.0M",
+      "company": "India's Deep Connection",
+      "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFQ4NnlIb3VUeUw5RkxzSGdvdWVVN0dtbkhzQ2poaHJpOGV3LXdac2pEcFNjcjQ0VDk4aUZIbXVReU5aZDlRV011ZnZ3RGZTWG8yTVpJbHhNSTBwdnlUdF9uUVVHMVBSeFVsQlp6ekVpOTBIa3BrX2RPcnZ5MWxnc0RYZEllUDhSRWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2RhNEFXNmhqMk05ZWNzMFh1RXByd2FLMkE2eXZFU0NFNWNlTVFmZ3BXd2tDdXRXcVlENmRzcTBBdGx3RWRWZkhPd0lQQXEzazhSdVJyM3F4Mzh2N04wWEdIQ2h6Z1lRVXBnaFYyc0N2dmtST3VBRWNWbGQwSGxkb0xRQ2c4UTVzWGpUNG1OVWRSS1lXZkZUbzJEMEJ5QWdwYkQ2ek5XUmV6cVVkZGxycVZsWmEwZFhUWE9veHQ0cw?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-09-07T06:24:32.822807-07:00"
+    "remind_at": "2026-09-07T11:33:48.529452-07:00"
   },
   {
     "item": {
-      "company": "Sav",
-      "amount": "$3.5M",
-      "stage": "Series A",
-      "investors": "Phoenix Venture Partners",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sav-raises-3-5m-pre-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-09-07T06:24:35.763525-07:00"
-  },
-  {
-    "item": {
-      "company": "PeopleX",
-      "amount": null,
+      "company": "Megawave",
+      "amount": "$45.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/peoplex-raises-5-45b-series-a/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcnE0TnhiVkNTb3FIcWMxYW93WlJlcDNFU0tZQjJoYTZYNGc2UURyZ3pMNEk5QzA2RnMwaFNzLUdjWWRxN3EwenA4OWZCZExnR0pRTTFIdkIybDc1TFBGblFVdW0xRDRhODd4Qmg1SG9nM2l0bHpiLXJaWmRqeWMzeXF4SDdhRi10U29yQ0hR?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-09-07T06:24:38.786621-07:00"
+    "remind_at": "2026-09-07T11:33:51.426744-07:00"
   },
   {
     "item": {
-      "company": "Skydo",
-      "amount": "$10.0M",
-      "stage": "Series A",
-      "investors": "Susquehanna Asia Venture Capital",
+      "company": "Funding News Today",
+      "amount": "$100.0M",
+      "stage": "Series C",
+      "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/skydo-raises-10m-series-a/",
-      "priority": 8
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/09/07/startup-funding-news-today-september-7-2026-pixxel-jet-zero-navana-ai-more/",
+      "priority": 6
     },
-    "remind_at": "2026-09-07T06:24:41.796577-07:00"
+    "remind_at": "2026-09-07T11:33:57.429118-07:00"
   },
   {
     "item": {
-      "company": "Navana.ai",
+      "company": "Stockholm-based Fluencify",
       "amount": null,
-      "stage": "Series A",
-      "investors": "Ronnie Screwvala - BW Disrupt Voice AI Startup Navana",
-      "location": null,
+      "stage": null,
+      "investors": null,
+      "location": "Stockholm",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdWN4d2ZoQVVFQ1dwTl9kQmdpWmI2YjZoR0RIdWRKZkRTcjRrbTd6N3VBeXY1d3hLQm1uekh0U1hxWkNmQ1F3Wl9mVlVVMlp1bmFxZklRMjI5N0pYVDBUd1JSZTN4VDJBUTVwVC0wMy1ZY2kzeF8tWWd1akJXYTg2QXh2bjZOa3lqZG9DYXBPSW43VkJwb3FzNVJzUmRFRHI3LTFGNE51S0pvUmpYVHcyTEZmMnRGX1BOR0NWd19uYmd0Y3c?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-09-07T06:24:44.736883-07:00"
-  },
-  {
-    "item": {
-      "company": "Leinao.ai",
-      "amount": "$15.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVV2VHhERlNucTFRUUtlYVNRSEZFRlozTHJWZWFwWVhOR1R1Vk9qR0tyRVFUc0NoYklCV19lWl8zM1dyb3Z1RjJXS2dieW1LV0dpSEZQVGpoYWtEN25OVXY2UEhWeS14dG9ZZ0NNZ0ZDMHJpUmhJUlR3Sk5hbXpJamdwMGhCQWg3NGRQV09xRnlTenh0bnlCUEdUdmJvbGVDRGpOdkJn?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-09-07T06:24:49.528555-07:00"
-  },
-  {
-    "item": {
-      "company": "Nscale",
-      "amount": "$3.5B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/nscale-seeks-up-to-3-5b-in-pre-ipo-financing-as-ai-infrastructure-race-intensifies/",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHdJZkdEX0xkVVAyTHVvanZnLUViRmVEMDNhWUs1LTEzS1czbGJGcVU5SXE3Z1F6NzdEUUdHY0xvQnhmX05wRHlQbjBrZ0JtZ0FCS3BwbzlkNkszOHJ5dzN2d1Zqb1RBOGs1S2QzTTg5ZC1wMVhqNHoxY25MSmNxdDFzY1hXZElaMUJ5VFN3ZlVKZDJJeG80eGtvLUtfV3BWSzZmWTVTRHQ1eTRacnB4cnAwTkVnaTFnak5vY0FWeWhLbWExaU5zMDVSZ1Frdw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-09-07T06:24:52.496467-07:00"
-  },
-  {
-    "item": {
-      "company": "BeyondUS Co.",
-      "amount": null,
-      "stage": null,
-      "investors": "Regional Innovation Tech Niigata No",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/beyondus-co-ltd-secures-investment/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-07T06:25:01.345205-07:00"
-  },
-  {
-    "item": {
-      "company": "Puntr",
-      "amount": null,
-      "stage": null,
-      "investors": "Accretion Capital",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/puntr-raises-500k-other/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-07T06:25:04.433887-07:00"
-  },
-  {
-    "item": {
-      "company": "Nomba",
-      "amount": "$3.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/nomba-raises-3m-debt-financing/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-07T06:25:07.485500-07:00"
-  },
-  {
-    "item": {
-      "company": "Milan-based Cato",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "Milan",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTDR4WG5TUlJLMVgzamJ3QkZaMDg1c0VfYUJrcjdGMUlLSFY4dGQ3aWlKdlJRR09tSll6V2JlZTcyMjhDMzBlNmxfcVpUdUxBT21oOWRzSGdkbGZnNVd0ZmtlQU5xTEFISHJBUnNVR0doNlBicWRtaXBRNXpHUDlmUU5RaEFVbllremwzM3FqN2JraVppanY5cWlmTXNfNTNtSzRYMEZodzBRbVRWR1BpSkk3UVM4QW5vTmt5dFEtTHpDVVU?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-07T06:25:13.451177-07:00"
-  },
-  {
-    "item": {
-      "company": "CIA-Backed BEI",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lVFdUanZ5cHg5M3JmZGlYeEhMUG1kN29aNWVuOTVUQldXb0NBUkxfMmdVUGhyUURzX3dfdTFMcWhKemVOMnNGVjlsZGpVaTBmLThlN250cy04dmZ3SHF2QVMtcmxPRFk?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-07T06:25:19.182663-07:00"
-  },
-  {
-    "item": {
-      "company": "Ultrahuman",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3MzQjlHVXFyanBuWVFUSXhTM1JQSVNrT0xaSVhpYnlZOXF1Q3Q4aXMyZTc0UVF4V0J6N1ItQ0xCMDZlRGphRVVYNmFzMmZlM0FZZHd5Qi1wS3NkY3RRcUhvOXZERTBvb1JsVkJPWDFzbHZtZ1dzdXZrVjdhYXctWnQxWWxUSnFJUFJOdjNmUUR5NU1scDdnS3JtMHbSAaQBQVVfeXFMTl9wUEZUQXdtVXIyZmpncnQ3ZGMzWWMwMmtURERRYmxWOS10Nk40eWZlVHZ5UHA5VHlNVHpMeUxGd3N0R2ZLdnVmdks1RWdSWUlBRE54Y2ZEVVBqMEx5bTA5bHB6RU8tMy1tMGhJQjdzdE1DRExBYkFsOXB0QlYzWWxndFF5NU10bXlOTm5Ba3Rwc2M3NC1FcnVJckZYTnBsRFVfVDY?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-07T06:25:22.079051-07:00"
+    "remind_at": "2026-09-07T11:34:03.181745-07:00"
   }
 ]
