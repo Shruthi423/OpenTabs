@@ -1,44 +1,16 @@
 [
   {
     "item": {
-      "company": "Pixxel",
-      "amount": "$100.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": "India",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/07/hyperspectral-satellite-startup-pixxel-nabs-100m-investment/",
-      "priority": 6
-    },
-    "remind_at": "2026-09-07T15:00:33.873252-07:00"
-  },
-  {
-    "item": {
-      "company": "Spider-Man",
-      "amount": "$2.4B",
-      "stage": null,
+      "company": "OpenReserve",
+      "amount": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/07/spider-man-2-4-billion-six-straight-weeks-best-summer-since-pandemic-hollywood/",
-      "priority": 3
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xSXFyYzBQSmtkeXVxMVRtLWhneXFZbE9WaUV4Si01Ylk0VllYRm9KZ05wTlhvZWhEZEVLMTM0TzdYQnlVSEFNbzRUbDZLSl96SURhdkNnMzRVYzctRFoxYzR0UWdtbU1lSFEzajFRN09TZw?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-09-07T15:00:36.694567-07:00"
-  },
-  {
-    "item": {
-      "company": "\u2018Oh",
-      "amount": "$240.0M",
-      "stage": null,
-      "investors": null,
-      "location": "Singapore",
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/07/malone-lam-bitcoin-rico-plea-doj-crypto-unit/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-07T15:00:39.572805-07:00"
+    "remind_at": "2026-09-07T17:12:59.963487-07:00"
   }
 ]
