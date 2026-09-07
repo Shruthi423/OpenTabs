@@ -1,16 +1,44 @@
 [
   {
     "item": {
-      "company": "iPronics",
-      "amount": "$125.0M",
-      "stage": "Series B",
+      "company": "Andreessen Horowitz",
+      "amount": "$8.5B",
+      "stage": null,
+      "investors": "Andreessen Horowitz, Machine Age Fund",
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWC1Db1ZkaDNJZlkxQ2VlekpEV0lzNjlrdExnRGlzUjFLcHBlZ1hwVGlFM1ZKeTRLS1RHb2xVMkRFZkRhVVdVYXV2X2RILWJfdlFoaU9KQ0xxTWdMVXpCbVR1WHRTR1lldUxRdTVkUlJVQnhydHctYnJiaFl6ZV95eThncXB5MU1mSGVMZ0JjNGx2ZElxanhad203X0VIVEM3bTdlTmlHeURjbXJOTUlSaFpQbw?oc=5",
+      "priority": 6
+    },
+    "remind_at": "2026-09-06T18:49:09.066782-07:00"
+  },
+  {
+    "item": {
+      "company": "Zenefits",
+      "amount": null,
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ReWtZNmE0dHZCbjVXVDJ2OU96TG1mWldNNnRWSHVkSzJMbkhLOHBBT3Z5ZnNZZzdqbWV2ajNmb0FJbDF5cDJOQmRLWnVxQjd3elRV?oc=5",
-      "priority": 7
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbzc5dWZ1cW9vLXpGcHpWRkZ5M1JSOERHRzRFNjBKTzZfaWlxazhYZVdrNHdVY25kNXI4ek95Y1ZDVzZTRU14bWV6Z2UzQjBxRkxFZWdTblU3OVF0UHFaNXVDeDBxQ3YzWXNfV21ZYWQ3djh4NWpJSko3ODNqRzNER3daTmx0bWFaYUMwal9FOVlfcjlMZF93VGdJYWlMSFdWSEZFakhoeE4yM00?oc=5",
+      "priority": 3
     },
-    "remind_at": "2026-09-06T17:02:35.438802-07:00"
+    "remind_at": "2026-09-06T18:49:11.864990-07:00"
+  },
+  {
+    "item": {
+      "company": "$6.7M Est. ARR",
+      "amount": "$6.7M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aTXlSYXkwekl4eUg5Yk5HdzNuMTRlNkhnRGV2clBZVzF4LWpxZ3I4a2lzYUxMYklaT2xnVEJRbTJzTEtRY2EyQXcxTnB5Y3lnUVVB?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-06T18:49:17.486562-07:00"
   }
 ]

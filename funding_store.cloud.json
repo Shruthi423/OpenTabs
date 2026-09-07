@@ -54486,5 +54486,50 @@
     "roles": [],
     "first_seen": "2026-09-06T16:32:36.438948-07:00",
     "status": "active"
+  },
+  "fddb9d7f24e5e3428e4fea1370ed25c1": {
+    "id": "fddb9d7f24e5e3428e4fea1370ed25c1",
+    "company": "Andreessen Horowitz",
+    "amount": "$8.5B",
+    "stage": "?",
+    "investors": "Andreessen Horowitz, Machine Age Fund",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWC1Db1ZkaDNJZlkxQ2VlekpEV0lzNjlrdExnRGlzUjFLcHBlZ1hwVGlFM1ZKeTRLS1RHb2xVMkRFZkRhVVdVYXV2X2RILWJfdlFoaU9KQ0xxTWdMVXpCbVR1WHRTR1lldUxRdTVkUlJVQnhydHctYnJiaFl6ZV95eThncXB5MU1mSGVMZ0JjNGx2ZElxanhad203X0VIVEM3bTdlTmlHeURjbXJOTUlSaFpQbw?oc=5",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-06T18:19:10.066947-07:00",
+    "status": "active"
+  },
+  "55847691aee5502fa3e5ab34b7698ccb": {
+    "id": "55847691aee5502fa3e5ab34b7698ccb",
+    "company": "Zenefits",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbzc5dWZ1cW9vLXpGcHpWRkZ5M1JSOERHRzRFNjBKTzZfaWlxazhYZVdrNHdVY25kNXI4ek95Y1ZDVzZTRU14bWV6Z2UzQjBxRkxFZWdTblU3OVF0UHFaNXVDeDBxQ3YzWXNfV21ZYWQ3djh4NWpJSko3ODNqRzNER3daTmx0bWFaYUMwal9FOVlfcjlMZF93VGdJYWlMSFdWSEZFakhoeE4yM00?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-06T18:19:12.865167-07:00",
+    "status": "active"
+  },
+  "0d070298a79f9aac2777268f52542696": {
+    "id": "0d070298a79f9aac2777268f52542696",
+    "company": "$6.7M Est. ARR",
+    "amount": "$6.7M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aTXlSYXkwekl4eUg5Yk5HdzNuMTRlNkhnRGV2clBZVzF4LWpxZ3I4a2lzYUxMYklaT2xnVEJRbTJzTEtRY2EyQXcxTnB5Y3lnUVVB?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-06T18:19:18.486728-07:00",
+    "status": "active"
   }
 }
