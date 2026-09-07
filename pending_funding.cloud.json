@@ -1,72 +1,44 @@
 [
   {
     "item": {
-      "company": "Omme",
-      "amount": "$4.8M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWZKXzR3ZzNzblZNZ1BDMWpHaUdZaFRNd21DM1BrWnhvZUllY1dtdkhCX0JNQ3lqeFdpUmhEd2ZNb255WmNmRFZUcjBXaXRrc21ldDlqWF8tMVRmOW95V3ZDd00zTjJNbFotSjdPRFcxczU2NWZacWJ4XzRWRHhpSVBWTUVjalo1aGQ5OFAtWTBmU3h0ZC1sSTJHcUNXQVFs?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-09-07T11:33:32.074396-07:00"
-  },
-  {
-    "item": {
-      "company": "India's Deep Connection",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2RhNEFXNmhqMk05ZWNzMFh1RXByd2FLMkE2eXZFU0NFNWNlTVFmZ3BXd2tDdXRXcVlENmRzcTBBdGx3RWRWZkhPd0lQQXEzazhSdVJyM3F4Mzh2N04wWEdIQ2h6Z1lRVXBnaFYyc0N2dmtST3VBRWNWbGQwSGxkb0xRQ2c4UTVzWGpUNG1OVWRSS1lXZkZUbzJEMEJ5QWdwYkQ2ek5XUmV6cVVkZGxycVZsWmEwZFhUWE9veHQ0cw?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-09-07T11:33:48.529452-07:00"
-  },
-  {
-    "item": {
-      "company": "Megawave",
-      "amount": "$45.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcnE0TnhiVkNTb3FIcWMxYW93WlJlcDNFU0tZQjJoYTZYNGc2UURyZ3pMNEk5QzA2RnMwaFNzLUdjWWRxN3EwenA4OWZCZExnR0pRTTFIdkIybDc1TFBGblFVdW0xRDRhODd4Qmg1SG9nM2l0bHpiLXJaWmRqeWMzeXF4SDdhRi10U29yQ0hR?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-09-07T11:33:51.426744-07:00"
-  },
-  {
-    "item": {
-      "company": "Funding News Today",
+      "company": "Pixxel",
       "amount": "$100.0M",
       "stage": "Series C",
       "investors": null,
-      "location": null,
+      "location": "India",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/07/startup-funding-news-today-september-7-2026-pixxel-jet-zero-navana-ai-more/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/07/hyperspectral-satellite-startup-pixxel-nabs-100m-investment/",
       "priority": 6
     },
-    "remind_at": "2026-09-07T11:33:57.429118-07:00"
+    "remind_at": "2026-09-07T15:00:33.873252-07:00"
   },
   {
     "item": {
-      "company": "Stockholm-based Fluencify",
-      "amount": null,
+      "company": "Spider-Man",
+      "amount": "$2.4B",
       "stage": null,
       "investors": null,
-      "location": "Stockholm",
+      "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHdJZkdEX0xkVVAyTHVvanZnLUViRmVEMDNhWUs1LTEzS1czbGJGcVU5SXE3Z1F6NzdEUUdHY0xvQnhmX05wRHlQbjBrZ0JtZ0FCS3BwbzlkNkszOHJ5dzN2d1Zqb1RBOGs1S2QzTTg5ZC1wMVhqNHoxY25MSmNxdDFzY1hXZElaMUJ5VFN3ZlVKZDJJeG80eGtvLUtfV3BWSzZmWTVTRHQ1eTRacnB4cnAwTkVnaTFnak5vY0FWeWhLbWExaU5zMDVSZ1Frdw?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/07/spider-man-2-4-billion-six-straight-weeks-best-summer-since-pandemic-hollywood/",
       "priority": 3
     },
-    "remind_at": "2026-09-07T11:34:03.181745-07:00"
+    "remind_at": "2026-09-07T15:00:36.694567-07:00"
+  },
+  {
+    "item": {
+      "company": "\u2018Oh",
+      "amount": "$240.0M",
+      "stage": null,
+      "investors": null,
+      "location": "Singapore",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/07/malone-lam-bitcoin-rico-plea-doj-crypto-unit/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-07T15:00:39.572805-07:00"
   }
 ]

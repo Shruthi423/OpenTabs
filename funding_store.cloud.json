@@ -54951,5 +54951,50 @@
     "roles": [],
     "first_seen": "2026-09-07T11:04:04.181936-07:00",
     "status": "active"
+  },
+  "2bffc55d973fa33f5d092f7809096470": {
+    "id": "2bffc55d973fa33f5d092f7809096470",
+    "company": "Pixxel",
+    "amount": "$100.0M",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/07/hyperspectral-satellite-startup-pixxel-nabs-100m-investment/",
+    "priority": 6,
+    "founders": [],
+    "location": "India",
+    "roles": [],
+    "first_seen": "2026-09-07T14:30:34.873413-07:00",
+    "status": "active"
+  },
+  "34e1b64545e87c4939e07821b79a1a52": {
+    "id": "34e1b64545e87c4939e07821b79a1a52",
+    "company": "Spider-Man",
+    "amount": "$2.4B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/07/spider-man-2-4-billion-six-straight-weeks-best-summer-since-pandemic-hollywood/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-07T14:30:37.694763-07:00",
+    "status": "active"
+  },
+  "026e57056e518ac91ab954571bb09a3b": {
+    "id": "026e57056e518ac91ab954571bb09a3b",
+    "company": "\u2018Oh",
+    "amount": "$240.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/07/malone-lam-bitcoin-rico-plea-doj-crypto-unit/",
+    "priority": 3,
+    "founders": [],
+    "location": "Singapore",
+    "roles": [],
+    "first_seen": "2026-09-07T14:30:40.572965-07:00",
+    "status": "active"
   }
 }
