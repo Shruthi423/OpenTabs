@@ -1,5 +1,56 @@
 [
   {
+    "id": "175712297843de795bc38d48b263625d",
+    "title": "Brand Designer, Product Launches",
+    "company": "Stash Media Inc.",
+    "location": "New York, United States",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4462907232",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-06T20:49:15.814711-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "fa8f7ca4381a37450a5dde9ca91330a3",
+    "title": "UI/UX Designer",
+    "company": "Cisco",
+    "location": "Arlington, VA, US",
+    "salary": "$136,500 \u2013 $259,100 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=c38d36985f8288d8",
+    "source": "Indeed",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-06",
+    "priority": 4,
+    "first_seen": "2026-09-06T20:49:13.794477-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "9897ddcd31d3c715fe7072c0128708c0",
+    "title": "UI/UX Designer",
+    "company": "Cisco",
+    "location": "Dallas, TX, US",
+    "salary": "$132,800 \u2013 $259,100 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=e8038ec2648979d2",
+    "source": "Indeed",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-06",
+    "priority": 4,
+    "first_seen": "2026-09-06T20:49:11.845516-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "afd528df53b3f721715a7a1c8e760794",
     "title": "Hydraulic/Pneumatic Product Design Engineer",
     "company": "Globe Machine Manufacturing",
@@ -11454,7 +11505,8 @@
     "posted_at": "2026-08-24",
     "priority": 4,
     "first_seen": "2026-08-25T10:34:48.614771-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0e655bb5a73b1e82651bb367e2cc2f89",
@@ -11470,7 +11522,8 @@
     "posted_at": "2026-08-24",
     "priority": 1,
     "first_seen": "2026-08-25T10:34:46.800443-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b777957c380da507b74706a04033af5e",
@@ -11503,7 +11556,8 @@
     "posted_at": "2026-08-24",
     "priority": 2,
     "first_seen": "2026-08-25T08:30:58.977160-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "be6fc5bad29ff398f101344a0871d331",
@@ -11845,7 +11899,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-24T16:54:01.020309-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "4ea5381108472a776af5240f23953a3e",
@@ -11877,7 +11932,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-24T16:34:42.253693-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "01943209ad819a32b29a456a69622bb4",
