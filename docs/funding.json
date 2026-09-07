@@ -1,5 +1,50 @@
 [
   {
+    "id": "a602c5e741455ed08e5caa37c6e6be2b",
+    "company": "Jaipur Robotics",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVlxZ195X1llRGhYeXdJdWJMSUNkdmZUWXhTZGNlYWtHWm5YQk5nZVE0bHJvaEdSV25SQ3R2SU9YVGRvT3ZCUkxYLVhhdVdZdm1fRzNhaWJXLVB4b25uMVFNaW9RaG55SjlaazJIRHJsaFBoM3d2ZFRONmdoSHJqc2ZQRlctbXhQZDVYSXZucDB2WW1EYzh3?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-06T23:22:02.032025-07:00",
+    "status": "active"
+  },
+  {
+    "id": "c158ecd40f89f28869082fa6a096f062",
+    "company": "Mokobara",
+    "amount": "Undisclosed",
+    "stage": "Series C",
+    "investors": "Sauce",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNTJYaWNCbW84UFdJc0FmMTBXd2xyaVFwb1hJdy1kU3dReXViYi1zYTYxam5uOVprdmVadnRUaVR3dUt3RUVPeEtUN250U0JSREVPS01XZ2JBNUFmU1dzXzVJRVFZM1pPUjdWYlRDMTlrN2VWM3FxeFVfbnM2NVdHQWVacXdpU2ZWTnNiY09BbnpobjRYVHYtZXl4WHlEenVlS2VqWVBvTGlwMHVv?oc=5",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-06T23:21:56.354360-07:00",
+    "status": "active"
+  },
+  {
+    "id": "028da2a0cc41cd1e0c514d7c8d52b0a7",
+    "company": "Pixxel",
+    "amount": "Undisclosed",
+    "stage": "Series C",
+    "investors": "Temasek, Seraphim&nbsp",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcktpNnY2NlZDVl9UMEVSdUlsTlc0UmFzbHZiSXVDWE03MDVoTmotcnBIMDdMd0d1MDNmTG90MGhXT280WloxaWpnczZQVGFSbXczcXJjT21YbGtNY3JCLUsxUnFwMXFqZmhNazUyRU16TEJyQTllNS1jSW1FS25nbXNOZllydjdJVVdCdUNDZUkwc0RFdFpkTE9Sb3g2UF95ZDNsZHc4clVBTEJZ0gGsAUFVX3lxTE9yS2k2djY2VkNWX1QwRVJ1SWxOVzRSYXNsdmJJdUNYTTcwNWhOai1ycEgwN0x3R3UwM2ZMb3QwaFdPbzRaWjFpamdzNlBUYVJtdzNxcmNPbVhsa01jckItSzFScXAxcWpmaE1rNTJFTXpMQnJBOWU1LWNJbUVLbmdtc05mWXJ2N0lVV0J1Q0NlSTBzREV0WmRMT1JveDZQX3lkM2xkdzhyVUFMQlk?oc=5",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-06T23:21:47.746769-07:00",
+    "status": "active"
+  },
+  {
     "id": "0d070298a79f9aac2777268f52542696",
     "company": "$6.7M Est. ARR",
     "amount": "$6.7M",
@@ -10919,21 +10964,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-07T00:51:48.577490-07:00",
-    "status": "active"
-  },
-  {
-    "id": "6d268e78ceda3391b0a01972bd11606e",
-    "company": "Lumilens",
-    "amount": "$900.0M",
-    "stage": "Series C",
-    "investors": "Undisclosed",
-    "source": "SiliconANGLE",
-    "url": "https://siliconangle.com/2026/08/06/optical-networking-startup-lumilens-launches-900m-funding/",
-    "priority": 6,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-06T20:16:53.617725-07:00",
     "status": "active"
   }
 ]

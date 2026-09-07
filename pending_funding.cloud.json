@@ -1,44 +1,58 @@
 [
   {
     "item": {
-      "company": "Andreessen Horowitz",
-      "amount": "$8.5B",
-      "stage": null,
-      "investors": "Andreessen Horowitz, Machine Age Fund",
+      "company": "Pixxel",
+      "amount": null,
+      "stage": "Series C",
+      "investors": "Temasek, Seraphim&nbsp",
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWC1Db1ZkaDNJZlkxQ2VlekpEV0lzNjlrdExnRGlzUjFLcHBlZ1hwVGlFM1ZKeTRLS1RHb2xVMkRFZkRhVVdVYXV2X2RILWJfdlFoaU9KQ0xxTWdMVXpCbVR1WHRTR1lldUxRdTVkUlJVQnhydHctYnJiaFl6ZV95eThncXB5MU1mSGVMZ0JjNGx2ZElxanhad203X0VIVEM3bTdlTmlHeURjbXJOTUlSaFpQbw?oc=5",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcktpNnY2NlZDVl9UMEVSdUlsTlc0UmFzbHZiSXVDWE03MDVoTmotcnBIMDdMd0d1MDNmTG90MGhXT280WloxaWpnczZQVGFSbXczcXJjT21YbGtNY3JCLUsxUnFwMXFqZmhNazUyRU16TEJyQTllNS1jSW1FS25nbXNOZllydjdJVVdCdUNDZUkwc0RFdFpkTE9Sb3g2UF95ZDNsZHc4clVBTEJZ0gGsAUFVX3lxTE9yS2k2djY2VkNWX1QwRVJ1SWxOVzRSYXNsdmJJdUNYTTcwNWhOai1ycEgwN0x3R3UwM2ZMb3QwaFdPbzRaWjFpamdzNlBUYVJtdzNxcmNPbVhsa01jckItSzFScXAxcWpmaE1rNTJFTXpMQnJBOWU1LWNJbUVLbmdtc05mWXJ2N0lVV0J1Q0NlSTBzREV0WmRMT1JveDZQX3lkM2xkdzhyVUFMQlk?oc=5",
       "priority": 6
     },
-    "remind_at": "2026-09-06T18:49:09.066782-07:00"
+    "remind_at": "2026-09-06T23:51:46.746614-07:00"
   },
   {
     "item": {
-      "company": "Zenefits",
+      "company": "Pixxel's Series C",
+      "amount": null,
+      "stage": "Series C",
+      "investors": null,
+      "location": "London",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTZHa3AtZUQtTEpOdnNxRnJPLUhQcUxJX2gtbFN5SWE0YjZmSzhqcWRVSEtleHdWbFRPZzlqRExUdjdqc2JCUmdvbTJsZjF0YWY4Zy1OSUhLVnA5aTRzZDlibjREOUE3eWxLUnJyZzNfbFRHOTI3T3FFREJkdHpiUDh3eWlZSHJ5Y1hGakIzbW1WZ0pER3FROXdIbw?oc=5",
+      "priority": 6
+    },
+    "remind_at": "2026-09-06T23:51:52.539789-07:00"
+  },
+  {
+    "item": {
+      "company": "Mokobara",
+      "amount": null,
+      "stage": "Series C",
+      "investors": "Sauce",
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNTJYaWNCbW84UFdJc0FmMTBXd2xyaVFwb1hJdy1kU3dReXViYi1zYTYxam5uOVprdmVadnRUaVR3dUt3RUVPeEtUN250U0JSREVPS01XZ2JBNUFmU1dzXzVJRVFZM1pPUjdWYlRDMTlrN2VWM3FxeFVfbnM2NVdHQWVacXdpU2ZWTnNiY09BbnpobjRYVHYtZXl4WHlEenVlS2VqWVBvTGlwMHVv?oc=5",
+      "priority": 6
+    },
+    "remind_at": "2026-09-06T23:51:55.354219-07:00"
+  },
+  {
+    "item": {
+      "company": "Jaipur Robotics",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbzc5dWZ1cW9vLXpGcHpWRkZ5M1JSOERHRzRFNjBKTzZfaWlxazhYZVdrNHdVY25kNXI4ek95Y1ZDVzZTRU14bWV6Z2UzQjBxRkxFZWdTblU3OVF0UHFaNXVDeDBxQ3YzWXNfV21ZYWQ3djh4NWpJSko3ODNqRzNER3daTmx0bWFaYUMwal9FOVlfcjlMZF93VGdJYWlMSFdWSEZFakhoeE4yM00?oc=5",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVlxZ195X1llRGhYeXdJdWJMSUNkdmZUWXhTZGNlYWtHWm5YQk5nZVE0bHJvaEdSV25SQ3R2SU9YVGRvT3ZCUkxYLVhhdVdZdm1fRzNhaWJXLVB4b25uMVFNaW9RaG55SjlaazJIRHJsaFBoM3d2ZFRONmdoSHJqc2ZQRlctbXhQZDVYSXZucDB2WW1EYzh3?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-09-06T18:49:11.864990-07:00"
-  },
-  {
-    "item": {
-      "company": "$6.7M Est. ARR",
-      "amount": "$6.7M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aTXlSYXkwekl4eUg5Yk5HdzNuMTRlNkhnRGV2clBZVzF4LWpxZ3I4a2lzYUxMYklaT2xnVEJRbTJzTEtRY2EyQXcxTnB5Y3lnUVVB?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-06T18:49:17.486562-07:00"
+    "remind_at": "2026-09-06T23:52:01.031843-07:00"
   }
 ]
