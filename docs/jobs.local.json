@@ -11862,7 +11862,8 @@
     "posted_at": "2026-08-23",
     "priority": 4,
     "first_seen": "2026-08-24T19:07:08.903201-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "29b855734746eefa34c2547ee624bd74",
@@ -11878,7 +11879,8 @@
     "posted_at": "2026-08-23",
     "priority": 3,
     "first_seen": "2026-08-24T19:07:06.857846-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "12ecc7301fd80abeb7ff24d4ca18c71d",
@@ -11894,7 +11896,8 @@
     "posted_at": "2026-08-23",
     "priority": 3,
     "first_seen": "2026-08-24T19:07:04.530523-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "1092807310e1a6fb6d52c64a8f7b6654",
@@ -11910,7 +11913,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-24T18:29:14.975650-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "70f8a49f5435e188aabdbc7fdd7581b9",
@@ -11926,7 +11930,8 @@
     "posted_at": "2026-08-23",
     "priority": 4,
     "first_seen": "2026-08-24T17:32:08.455528-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b8e82aabb7e5b4b31589793a9f1d7000",
@@ -11942,7 +11947,8 @@
     "posted_at": "2026-08-23",
     "priority": 4,
     "first_seen": "2026-08-24T17:32:06.387331-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "d018fbafc14692bfaa62c5a62d388fcf",
@@ -11975,7 +11981,8 @@
     "posted_at": "2026-08-24",
     "priority": 4,
     "first_seen": "2026-08-24T16:53:49.136572-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f5a0605c4e09878ebacfeb4c82e8984a",
@@ -12092,7 +12099,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-24T15:56:43.234975-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b23ad5b7b32e7627f7fd855adbda3520",
@@ -12140,7 +12148,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-24T14:58:45.450916-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a260de450ea2b33512d6265d7f091601",
@@ -12220,7 +12229,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-24T14:58:25.649271-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "facdea1a816620458ef916e52245316f",
@@ -12268,7 +12278,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-24T14:19:36.176170-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7e63eddaba48ad21ebc5ce22447a36b6",
@@ -26892,134 +26903,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-07T08:22:53.927473-07:00",
-    "status": "active"
-  },
-  {
-    "id": "c982e4ab48142f3a60e7b2987516f3e8",
-    "title": "Brand Designer",
-    "company": "Stellar Development Foundation",
-    "location": "New York, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450649084",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-06T21:15:43.278924-07:00",
-    "status": "active"
-  },
-  {
-    "id": "9ee7e34f2e8c0c6557773f5c1fe21bf0",
-    "title": "Web UX/UI Designer",
-    "company": "ICE",
-    "location": "Jacksonville, FL",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450668607",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-06T21:15:41.297047-07:00",
-    "status": "active"
-  },
-  {
-    "id": "01f84dcae6fa4f59b8eeadfeb77fa0f9",
-    "title": "User Experience Designer",
-    "company": "Forbes Technical Consulting",
-    "location": "Chicago, IL",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450012909",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-06T21:15:39.236617-07:00",
-    "status": "active"
-  },
-  {
-    "id": "487d7e2febe69d43e9fe30c09ed3e527",
-    "title": "Web UX/UI Designer",
-    "company": "ICE",
-    "location": "Atlanta, GA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450682247",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-06T21:15:37.196312-07:00",
-    "status": "active"
-  },
-  {
-    "id": "abe4ce8c7faa012d784a75d4aa3b59e3",
-    "title": "Product Designer I",
-    "company": "Inspire Brands",
-    "location": "Atlanta, GA, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=3523621c486c3ce5",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-05",
-    "priority": 4,
-    "first_seen": "2026-08-06T21:15:35.084023-07:00",
-    "status": "active"
-  },
-  {
-    "id": "2b04449a0d2ff11773aeb10abc61076b",
-    "title": "UX Specialist",
-    "company": "Booz Allen Hamilton",
-    "location": "McLean, VA, US",
-    "salary": "$69,400 \u2013 $158,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=273384431433cee6",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-05",
-    "priority": 4,
-    "first_seen": "2026-08-06T21:15:33.089073-07:00",
-    "status": "active"
-  },
-  {
-    "id": "f19a38f84c11d2995ae47357fa4a34c2",
-    "title": "Associate Product Designer (College Grad 2027)",
-    "company": "Solace",
-    "location": "Redwood City, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450030079",
-    "source": "Linkedin",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-06T21:15:30.896063-07:00",
-    "status": "active"
-  },
-  {
-    "id": "7def3762e2ae4372c4f3e92241339115",
-    "title": "Product Design Engineer",
-    "company": "Sumitomo Electric",
-    "location": "Raleigh, NC",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450645931",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-06T21:15:24.020213-07:00",
     "status": "active"
   }
 ]
