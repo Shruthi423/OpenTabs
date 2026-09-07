@@ -34,23 +34,6 @@
     "jd": "yes"
   },
   {
-    "id": "ce5d5b2b72101031ea2889121d01fe74",
-    "title": "Hardware Polymers Materials Engineer",
-    "company": "Apple",
-    "location": "Cupertino, CA, US",
-    "salary": "$150,400 \u2013 $277,600 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=43cabb66f468b5c8",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-09-01",
-    "priority": 2,
-    "first_seen": "2026-09-06T16:05:19.786025-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "03ee6a8cf738a3bb7fa6ee523c0c647e",
     "title": "Human Factors UX Engineer",
     "company": "Garmin",
@@ -11131,7 +11114,8 @@
     "posted_at": "2026-08-24",
     "priority": 4,
     "first_seen": "2026-08-25T11:48:01.211597-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "682985dde156a572e50d3d62e39d453a",
@@ -11147,7 +11131,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T11:47:59.274239-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ebffb477bb597371cfb77081175dc19f",
@@ -11180,7 +11165,8 @@
     "posted_at": "2026-08-23",
     "priority": 4,
     "first_seen": "2026-08-25T10:54:44.692947-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "6d2a13cb11dee172632d35651cfd073c",
@@ -11230,7 +11216,8 @@
     "posted_at": "2026-08-23",
     "priority": 4,
     "first_seen": "2026-08-25T10:54:28.734592-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "917d045636b8b37a5bbc62466a1e3328",
@@ -11246,7 +11233,8 @@
     "posted_at": "2026-08-24",
     "priority": 4,
     "first_seen": "2026-08-25T10:54:26.424764-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "dc82eb30ee8f3f35ccd7fb16fec97241",
@@ -11262,7 +11250,8 @@
     "posted_at": "2026-08-24",
     "priority": 4,
     "first_seen": "2026-08-25T10:35:19.770950-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "d8d947ee7efbd3e697492944d5ef03fe",
@@ -11375,7 +11364,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-25T10:34:56.262509-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "dc73123d2a462a0d5e95e769d5c2c9fd",
@@ -11391,7 +11381,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-25T10:34:54.219145-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d01950e16c169aa458eb52fc1a949da1",
@@ -11407,7 +11398,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-25T10:34:50.410873-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c080f97c8a63b63620aeb9da939bd347",
@@ -11455,7 +11447,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T08:31:01.195259-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2be09563af37ea4de233b4f30d5de8ef",
@@ -11487,7 +11480,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-25T08:28:12.236079-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d29944abe4bb70019cf47b8d991b008e",
@@ -11503,7 +11497,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-25T08:28:09.524499-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b5fbf0b0f02ca8b178e85f431eb7d2c1",
