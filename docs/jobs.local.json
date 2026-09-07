@@ -1,5 +1,56 @@
 [
   {
+    "id": "7d117bd3793f29d054614b8ab2691985",
+    "title": "UI/UX Designer",
+    "company": "Cisco",
+    "location": "Dallas, TX",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4464064921",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-06T21:08:57.361943-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "e7f77673df8c3e0fbac6171aed4edde8",
+    "title": "UI/UX Designer",
+    "company": "Cisco",
+    "location": "Arlington, VA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4464086802",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-06T21:08:55.364314-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "d0cde3dbc569f638121c7b78afb2d181",
+    "title": "UI/UX and Web Designer",
+    "company": "All Seniors Foundation",
+    "location": "Alhambra, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4464078868",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-06T21:08:53.639883-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "175712297843de795bc38d48b263625d",
     "title": "Brand Designer, Product Launches",
     "company": "Stash Media Inc.",
@@ -11624,7 +11675,8 @@
     "posted_at": "2026-08-23",
     "priority": 1,
     "first_seen": "2026-08-24T22:34:31.966951-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7ad1514c08b7dae141a2a699d6d601c9",
@@ -11640,7 +11692,8 @@
     "posted_at": "2026-08-12",
     "priority": 4,
     "first_seen": "2026-08-24T22:14:42.603704-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2bf099bb0cc97a70dd0cb75070f6af07",
@@ -11656,7 +11709,8 @@
     "posted_at": "2026-08-12",
     "priority": 4,
     "first_seen": "2026-08-24T22:14:40.796529-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b83a10dc29f6670e852c8880667e2502",
@@ -11672,7 +11726,8 @@
     "posted_at": "2026-08-12",
     "priority": 3,
     "first_seen": "2026-08-24T22:14:38.832830-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "c10296c856505941a2648a9b15932e7d",
@@ -11688,7 +11743,8 @@
     "posted_at": "2026-08-12",
     "priority": 4,
     "first_seen": "2026-08-24T22:14:36.733410-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0cb279a785036be700ebfb610714914b",
@@ -11721,7 +11777,8 @@
     "posted_at": "2026-08-23",
     "priority": 4,
     "first_seen": "2026-08-24T20:03:18.518522-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b4a6ca9ae5d1119858286bcc1f1cee98",
@@ -11737,7 +11794,8 @@
     "posted_at": "2026-08-23",
     "priority": 4,
     "first_seen": "2026-08-24T19:25:50.992873-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "fa4e803999fc4afc63da6eae82814364",
@@ -11753,7 +11811,8 @@
     "posted_at": "2026-08-23",
     "priority": 4,
     "first_seen": "2026-08-24T19:25:39.250214-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "cc0ca2f2fa9cbb868e68f7548120e51e",
@@ -11949,7 +12008,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-24T16:34:40.425428-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2f4288f4a1a536bb9db1afa4adc48e2b",
@@ -11965,7 +12025,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-24T16:15:30.982148-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "42d4b5244c22af1cdf9967de2fec63c7",
@@ -11981,7 +12042,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-24T16:15:28.926550-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "98479170cd22d7943d9f7fdf47257890",
@@ -12013,7 +12075,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-24T15:56:45.108234-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "1980232a862c7cc079025c8909fd5d1c",
@@ -26957,134 +27020,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-06T21:15:24.020213-07:00",
-    "status": "active"
-  },
-  {
-    "id": "fbc2b64298d2a4f0e33edcb51fc87ac3",
-    "title": "UX Researcher III - AI Products",
-    "company": "Linda Werner & Associates, Inc.",
-    "location": "OR, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=d8304511788b9042",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-05",
-    "priority": 4,
-    "first_seen": "2026-08-06T20:55:44.214100-07:00",
-    "status": "active"
-  },
-  {
-    "id": "d171cadae00096cc532f447cb0c82f01",
-    "title": "User Experience/Product Designer",
-    "company": "Brandcave",
-    "location": "Texas, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449788764",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-06T20:55:41.879675-07:00",
-    "status": "active"
-  },
-  {
-    "id": "9b7482d12cddb03c04385ef5221796a0",
-    "title": "UX Product Designer",
-    "company": "Citi",
-    "location": "Tampa, FL, US",
-    "salary": "$96,960 \u2013 $145,440 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=1c5c679fe55104f6",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-05",
-    "priority": 4,
-    "first_seen": "2026-08-06T20:55:39.874443-07:00",
-    "status": "active"
-  },
-  {
-    "id": "2769eaf69588a559da1ec61b21443c50",
-    "title": "Product Designer, Engineering Acceleration",
-    "company": "OpenAI",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450004486",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-06T20:55:33.917645-07:00",
-    "status": "active"
-  },
-  {
-    "id": "70dfad98aad9bfa11edf7f2d83849ff5",
-    "title": "Product Designer, Payments",
-    "company": "OpenAI",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449790820",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-06T20:55:31.996846-07:00",
-    "status": "active"
-  },
-  {
-    "id": "0c5fd6b8bdf17859327bfc3699a8e05b",
-    "title": "Digital Experience Design UX/UI Designer",
-    "company": "Regions Financial",
-    "location": "Atlanta, GA, US",
-    "salary": "$125,752 \u2013 $155,725 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=49a035465a9432a8",
-    "source": "Indeed",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-05",
-    "priority": 4,
-    "first_seen": "2026-08-06T20:55:29.856668-07:00",
-    "status": "active"
-  },
-  {
-    "id": "91aa3fd9580e9904a6e9f888fbe16730",
-    "title": "Junior UI/UX Designer",
-    "company": "Inadev Corporation",
-    "location": "Reston, VA, US",
-    "salary": "$70,000 \u2013 $80,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=4b1ce6be76577f8b",
-    "source": "Indeed",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-05",
-    "priority": 4,
-    "first_seen": "2026-08-06T20:55:27.876468-07:00",
-    "status": "active"
-  },
-  {
-    "id": "1ee2cecc2a140c6dd42efaa804d0889f",
-    "title": "Founding Designer",
-    "company": "SellRaze (YC F25)",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4448456874",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-06T20:55:25.809211-07:00",
     "status": "active"
   }
 ]
