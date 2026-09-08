@@ -1,5 +1,22 @@
 [
   {
+    "id": "ce96071b9d30002fa68baffa6d900d30",
+    "title": "User Researcher, Patient Experience",
+    "company": "Gifthealth",
+    "location": "Columbus, OH",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4464627186",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-08T14:06:31.618554-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "aad854e09ba8268a15f145a521d948ae",
     "title": "Product Designer",
     "company": "nVent",
@@ -15925,7 +15942,8 @@
     "posted_at": "2026-08-18",
     "priority": 3,
     "first_seen": "2026-08-20T10:29:10.231970-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "fddb07f7cf1d3e0a2dc7308dc5753ca2",
@@ -15975,7 +15993,8 @@
     "posted_at": "2026-08-18",
     "priority": 1,
     "first_seen": "2026-08-20T10:29:01.914883-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "8097d486f0d8d6555fcaca66566a97e1",
@@ -15991,7 +16010,8 @@
     "posted_at": "2026-08-19",
     "priority": 4,
     "first_seen": "2026-08-20T10:29:00.168495-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3bb496a73cc13365b83eacc6eb4d6bf8",
@@ -16075,7 +16095,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-20T10:09:31.368642-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "26d74d6bf79db4d902d2cff6238b702d",
@@ -16091,7 +16112,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-08-20T10:09:19.357884-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "28e4c9b0acfdcb5a6ce48fd9e856a9cd",
@@ -16385,7 +16407,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T19:16:38.179803-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "3926696635120b3150a8bbb0dc71378d",
@@ -16401,7 +16424,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T18:57:36.867227-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b74425a20a04c5e9b45e37671fefa97a",
@@ -16417,7 +16441,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T18:57:34.926158-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "4cae06a3b547c2059af4da0b7d95310b",
@@ -16433,7 +16458,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-19T18:57:32.950745-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5fc2376b5534247b46419ff05db23c3b",
@@ -25889,22 +25915,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-08T15:01:43.553725-07:00",
-    "status": "active"
-  },
-  {
-    "id": "35fe42f5f64da0ccd29f0b3e842a9c4b",
-    "title": "Product Design Engineer",
-    "company": "Productive Resources",
-    "location": "Eldridge, IA, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=0de640054afcfc89",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-06",
-    "priority": 4,
-    "first_seen": "2026-08-08T13:27:32.868906-07:00",
     "status": "active"
   }
 ]
