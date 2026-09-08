@@ -1,5 +1,22 @@
 [
   {
+    "id": "551bb24a5437573f66e6d23f84ad3f15",
+    "title": "Product Designer",
+    "company": "nVent",
+    "location": "Richland, MS, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=b28c832c45da37c7",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-07",
+    "priority": 4,
+    "first_seen": "2026-09-08T12:39:12.800608-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "8ca2ddd8ce45e40faa0a83b30562eea9",
     "title": "UX Designer",
     "company": "Talkspace",
@@ -15347,7 +15364,8 @@
     "posted_at": "2026-08-19",
     "priority": 4,
     "first_seen": "2026-08-21T08:21:02.176971-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "4a3f29010d15ff0b4c7413df9d9880dc",
@@ -15363,7 +15381,8 @@
     "posted_at": "2026-08-19",
     "priority": 2,
     "first_seen": "2026-08-21T08:21:00.301108-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2701a1b993831cfcca3f28179c3cb3da",
@@ -15396,7 +15415,8 @@
     "posted_at": "2026-08-19",
     "priority": 4,
     "first_seen": "2026-08-21T04:37:24.188230-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "531c46a16e0994c1c318b6c7e058f598",
@@ -15592,7 +15612,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-20T10:29:40.714866-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "cadde6551e318f8a91a89557bf8cf000",
@@ -15624,7 +15645,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-20T10:29:36.723427-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2b7551a4316803923ba2ce747bd83fab",
@@ -15640,7 +15662,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-20T10:29:34.512324-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b3fbdc0b3e076737e7c0e556223aaee3",
@@ -15656,7 +15679,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-20T10:29:32.544483-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ade3bddbb9f185862dc412b3e9fc02d1",
@@ -15672,7 +15696,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-20T10:29:30.594330-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "63cdb071dd5cf2bc2867e02bfbff27b7",
@@ -15688,7 +15713,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-20T10:29:28.664738-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "1e817db4b894930abb7bb8ae5f01fc35",
@@ -15704,7 +15730,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-20T10:29:26.470439-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "975b1d67c9083e83ef7f4639a0cbd6cc",
@@ -15720,7 +15747,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-20T10:29:24.212566-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "095be2b66e439999db7fd2e4c54a944b",
