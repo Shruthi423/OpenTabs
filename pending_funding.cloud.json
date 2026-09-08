@@ -1,16 +1,58 @@
 [
   {
     "item": {
-      "company": "Magnar",
-      "amount": "$8.0M",
-      "stage": "Series A",
+      "company": "Veridue",
+      "amount": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRno4dmZvUVhkQ0Y0TmJfRGhYeThsMlNzbnVxMkttSnU0bXJRQWN4blVjLVJVaXIwSFk0VVRLcWdoQ3BielZBRFJwMGxMREdpeElxQXY4eFRaVWNuMWFCNktWRWJDVmhjc1Q4bGZEeEpaX1QyWGwzbzZoeHd1bEFjREVaSjdFTXl4NnhzMWs5Tlk3ZDE1cDk2bUtXRjZTaVYtNGFnUWhqYXpYUmlUQ3hrRi03Tl93dw?oc=5",
-      "priority": 8
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnlJVDdRZV9BS3lJZTJUMzMwbVBELWY0dnAwcnBBTEV3T0VTOTBZWHM0S1RPd2RBYWZPcmxMd0hFNmFQaTB0dWhsOE9fcHNXNGlMTTdYa0FRWGJXX1R6UEZweFpMVXM3OWMzdnVrdHU1bW9zZmtMd3VXN0FoMjI3QWFPdjNqdXAtanM0SWEydkpzb2dUV0NSTw?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-09-08T14:56:33.366296-07:00"
+    "remind_at": "2026-09-08T17:01:33.317641-07:00"
+  },
+  {
+    "item": {
+      "company": "IonQ",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/08/ionq-launches-superion-256-a-quantum-computer-built-for-volume-production/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-08T17:01:36.229610-07:00"
+  },
+  {
+    "item": {
+      "company": "Antioch",
+      "amount": "$32.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/08/antioch-raises-32m-to-move-robot-testing-into-simulation/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-08T17:01:39.131484-07:00"
+  },
+  {
+    "item": {
+      "company": "Cognition",
+      "amount": "$2.0B",
+      "stage": "Series E",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/08/ai-coding-startup-cognition-raises-2b-at-48b-valuation-as-revenue-nears-900m/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-08T17:01:42.160530-07:00"
   }
 ]
