@@ -1,170 +1,58 @@
 [
   {
     "item": {
-      "company": "Tellia",
-      "amount": "$5.0M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwU2NtTmxIelBSUFJjRU5QWl9YelJYdV9iRmNMclY1MWt0WFQ1R0pLRE5PdnB4VjFmdVhoRG5mNjl0TmpRVk4tdENKdlBaUm5ONEhleG14czh5QWNYa1VXY0E5TWJ3UTU2anEyY3dkZVp1Y2MtaEFEVThaelZCUQ?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-09-08T08:44:24.006821-07:00"
-  },
-  {
-    "item": {
-      "company": "Bluecore Energy",
-      "amount": "$50.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-08T08:44:32.013029-07:00"
-  },
-  {
-    "item": {
-      "company": "Lightsage",
-      "amount": "$4.0M",
-      "stage": "Seed",
-      "investors": "Nexus Venture Partners",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/08/lightsage-gets-4m-in-funding-to-help-software-makers-sell-directly-to-autonomous-ai-agents/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-08T08:44:34.883957-07:00"
-  },
-  {
-    "item": {
-      "company": "Sorry Sugar",
-      "amount": "$1.0M",
+      "company": "Finnish Creoir",
+      "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS1o5YmlDcTZ3bXlsM1NzaTV3NWFUTWJ6WHpWQmV6QkFVdWFJSkFYNmZBWXJzQlBRQ3pldTVnVVkzU0paaVBaSHo0Q0t6Ty1CQS1WZF9SWHBvMzVLOU5EQnh3UFlOVjAyOGF0N3NxcUcxRk1mRVg2aEx4ZV9SSWJrNEUtbkZJXzZSYXdaVTNyM3NnNUloNDl5V3VyUXlQSmxaNlJXTjhnU3U1Z0lZZmNVN1huemtMM3JzZTBMWUhaaEJ0eE4tV21iQTZB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Wenk2UHNlM3ZaaEZzT1dlMlE3dlB6M3NROW5GVlpGemloSGM5b0xyV1BqYk52aGRGdDUwZThaTDJfcnlZZDl0S1E3Y21rNEo3ckZUNDZMb2htNFlXelNjNzRtSdIBY0FVX3lxTE1Wenk2UHNlM3ZaaEZzT1dlMlE3dlB6M3NROW5GVlpGemloSGM5b0xyV1BqYk52aGRGdDUwZThaTDJfcnlZZDl0S1E3Y21rNEo3ckZUNDZMb2htNFlXelNjNzRtSQ?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-09-08T08:44:40.189181-07:00"
+    "remind_at": "2026-09-08T12:12:07.617288-07:00"
   },
   {
     "item": {
-      "company": "Flamingo",
-      "amount": "$4.5M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OYkVNU21rMVRleHFmekRGWE8xQzJ3TEM5blVSX3Y3OGJ4SjNwenFxWXZFQTE2N1pUNTNXR2RWN2lLeVFJWXo4M3BsOU4zRDRGbERwcUZxNGMwbUJEamJDdnJCZ0VDVHFJLUl0MmtPWWNtMFpfRko1NGlCMGtjUQ?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-09-08T08:44:43.011148-07:00"
-  },
-  {
-    "item": {
-      "company": "Outline",
-      "amount": "$3.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBd0ZOTERNZ2c0eC1UcVlkZ3Z1SC1kV0hqYlFNQ1RJVDlJVERqTjRoMTZfMEVTaTg0VEUyNEhvMFNuNGNacnFzWHdoQWZXbHB2NFdibU5zVzZxaS1HRHRFWFFNdy14b04tMWZzNnFWM1NiY1pmcjdpR3FB?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-09-08T08:44:45.944007-07:00"
-  },
-  {
-    "item": {
-      "company": "Blee",
-      "amount": "$20.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": "New York",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/08/blee-raises-20m-series-a-to-tackle-the-new-ai-generated-content-compliance-problem/",
-      "priority": 8
-    },
-    "remind_at": "2026-09-08T08:44:48.854603-07:00"
-  },
-  {
-    "item": {
-      "company": "Sapien",
-      "amount": "$180.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/08/exclusive-ai-startup-sapien-raises-180m-valuation-companies-find-really-driving-profit-cfo/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-08T08:44:51.713544-07:00"
-  },
-  {
-    "item": {
-      "company": "NYC",
-      "amount": "$34.0M",
-      "stage": null,
-      "investors": "Victim Compensation Fund",
-      "location": "New York",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/08/nyc-records-911-air-safety-mamdani",
-      "priority": 3
-    },
-    "remind_at": "2026-09-08T08:44:54.635852-07:00"
-  },
-  {
-    "item": {
-      "company": "ASML",
+      "company": "Mistral AI",
       "amount": "$3.5B",
-      "stage": null,
+      "stage": "Series D",
       "investors": null,
-      "location": null,
+      "location": "AI Round Paris",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/08/top-tech-news-today-september-8-2026-asml-google-intel-mistral-openai-xiaomi-more/",
-      "priority": 3
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/",
+      "priority": 5
     },
-    "remind_at": "2026-09-08T08:44:57.589627-07:00"
+    "remind_at": "2026-09-08T12:12:10.467542-07:00"
   },
   {
     "item": {
-      "company": "$257.3M Est. ARR",
-      "amount": "$257.3M",
-      "stage": null,
+      "company": "Cognition AI",
+      "amount": "$2.0B",
+      "stage": "Series E",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EQmpKRG5TNlpHWkE1aHEwbzNsN2o2Wk41Q1RXQm10SjJRdVBNZ2dCenJIZmxjeHgyX0tCQ2N5V3dReW5FNjF3bDQtenVrQQ?oc=5",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXJkdElacERDMkVsVmZnQ09DS0FSY085NHcwVHFOWUR0WGZqdElUMDN6T1ZhUmMxVXFWN0pLRGxUWWpnTTZkYWZ1NEhfeGV5WjU4YXhrNzZ6WDViOVNYU3d0bDNENHdCajFlOXlqN05fanhtRm5fQnFJVExWdFdUYkxoX2k0WkVnWmxQdU1jNGVsVGRFUFRkazdPeGkxeG90ems5UGZR?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-09-08T08:45:02.925927-07:00"
+    "remind_at": "2026-09-08T12:12:13.465927-07:00"
   },
   {
     "item": {
-      "company": "Blee",
-      "amount": "$27.0M",
+      "company": "Tellia",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT3JhVFZxSGthRDd2UFY5N3NBUmNNX01ZQ2p3Q2hneDU3SVV4c1RUVElLZ2FPZXgtTE1VRjU4TnlEWGc5MHI4Y1hmQUJXODVFU1VHZU1nTm1OTlBndXhnbUdBZE92QTBzRDhYVzRvbFJRYW9kRVhKX2FJWllBZGJrQm5jS3dXa3Rwd0tMQjV1b0U?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODY5cFBQLWNHZENURldzSlF2cUoyN1luM01fR3UxcllfbWVNX2pnWHZoSElIZWJPQWQxYkN1QjJXWWtSamNmb292V19URk9ya3dFZGkxQ3dUMU9iLUZub1Vvd2ZUUHBjWnBfSTNLMlZnWnNuVWVvT3AwTmNoMzRVVVotUDdPaWNYSHhQTmVRNVZheDJ0MUVGVzg1MWpJTHFUaGNleHRQNHZUU2h6TmFwbEgtT3RVRWx4RkZLZkN3?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-09-08T08:45:05.741011-07:00"
+    "remind_at": "2026-09-08T12:12:16.416725-07:00"
   }
 ]

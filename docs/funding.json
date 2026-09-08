@@ -1,5 +1,50 @@
 [
   {
+    "id": "af469862186add55aeed1e17b434a078",
+    "company": "Tellia",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODY5cFBQLWNHZENURldzSlF2cUoyN1luM01fR3UxcllfbWVNX2pnWHZoSElIZWJPQWQxYkN1QjJXWWtSamNmb292V19URk9ya3dFZGkxQ3dUMU9iLUZub1Vvd2ZUUHBjWnBfSTNLMlZnWnNuVWVvT3AwTmNoMzRVVVotUDdPaWNYSHhQTmVRNVZheDJ0MUVGVzg1MWpJTHFUaGNleHRQNHZUU2h6TmFwbEgtT3RVRWx4RkZLZkN3?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-08T11:42:17.416883-07:00",
+    "status": "active"
+  },
+  {
+    "id": "e26c94080607851d09dc0225c66dc3ad",
+    "company": "Cognition AI",
+    "amount": "$2.0B",
+    "stage": "Series E",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXJkdElacERDMkVsVmZnQ09DS0FSY085NHcwVHFOWUR0WGZqdElUMDN6T1ZhUmMxVXFWN0pLRGxUWWpnTTZkYWZ1NEhfeGV5WjU4YXhrNzZ6WDViOVNYU3d0bDNENHdCajFlOXlqN05fanhtRm5fQnFJVExWdFdUYkxoX2k0WkVnWmxQdU1jNGVsVGRFUFRkazdPeGkxeG90ems5UGZR?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-08T11:42:14.466089-07:00",
+    "status": "active"
+  },
+  {
+    "id": "60d5bd5c03ad4dd5205259c09924a5c3",
+    "company": "Finnish Creoir",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Wenk2UHNlM3ZaaEZzT1dlMlE3dlB6M3NROW5GVlpGemloSGM5b0xyV1BqYk52aGRGdDUwZThaTDJfcnlZZDl0S1E3Y21rNEo3ckZUNDZMb2htNFlXelNjNzRtSdIBY0FVX3lxTE1Wenk2UHNlM3ZaaEZzT1dlMlE3dlB6M3NROW5GVlpGemloSGM5b0xyV1BqYk52aGRGdDUwZThaTDJfcnlZZDl0S1E3Y21rNEo3ckZUNDZMb2htNFlXelNjNzRtSQ?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-08T11:42:08.617446-07:00",
+    "status": "active"
+  },
+  {
     "id": "5a5195a0a3c568789414b268a43b0c60",
     "company": "Blee",
     "amount": "$27.0M",
@@ -11414,21 +11459,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-08T13:02:46.241602-07:00",
-    "status": "active"
-  },
-  {
-    "id": "d5d1334bb5ab6cdd676559baaca6d380",
-    "company": "Zayra",
-    "amount": "$15.0M",
-    "stage": "Seed",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQmNLOExlSllwSDhfVF9LNm1rYjFMZGpMRG1Ba1EzYlRQY2xHcURCSGdBWktXT3BELVNaRy1EZVNaTWx3SVBZdTlqRzk2ZldfN3VFVjBkVm5ma1Vqak43RVY2bUpBdTNINjEwTllmQ0pDaVJFdDNHNzJER3J0X2MwTE1uYmxaR25vNjJwRGx5elBsTDlmUzdSRXBCNGRsdHpqSUxjei15TQ?oc=5",
-    "priority": 9,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-08T10:46:10.904567-07:00",
     "status": "active"
   }
 ]
