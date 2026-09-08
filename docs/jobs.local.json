@@ -1,5 +1,22 @@
 [
   {
+    "id": "eb49648793dac5ce4130c0cd264a70be",
+    "title": "Product Designer",
+    "company": "Synectics Inc.",
+    "location": "Jackson, MI",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4459228315",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-07T19:49:19.442501-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "a0d620a253c56de87a1a8bbd8b90904a",
     "title": "Junior Visual Designer",
     "company": "SPORT RH",
@@ -12899,7 +12916,8 @@
     "posted_at": "2026-08-23",
     "priority": 4,
     "first_seen": "2026-08-24T07:49:36.587933-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7eca9a003f611ac88e46263c27c8a5ba",
@@ -12915,7 +12933,8 @@
     "posted_at": "2026-08-23",
     "priority": 4,
     "first_seen": "2026-08-24T07:49:34.865498-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "34c912a52728e2dbdf103d420d0bd7ee",
@@ -12982,7 +13001,8 @@
     "posted_at": "2026-08-23",
     "priority": 4,
     "first_seen": "2026-08-23T16:10:08.061443-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "c731f81d247629c5dd3c409cf6558321",
@@ -13265,7 +13285,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-22T11:37:14.768409-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "e67b03a02a567010c99ef998da1c1f38",
@@ -13281,7 +13302,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-22T10:59:26.185798-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a2161263ea8b512a66aba340ae54b98f",
@@ -13297,7 +13319,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-22T10:59:24.197033-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8192088e85fc42446e9b79980c77834d",
@@ -13313,7 +13336,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-22T10:59:22.257626-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "6e5185e9d91cd902380a0ebbb49cdd72",
@@ -13329,7 +13353,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-22T10:59:10.445463-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f2f208c85838c3db1b8b860ffa4b96a5",
@@ -13345,7 +13370,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-22T09:30:26.149017-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d29288eb6a3048ae3f38fa0fc2075eff",
@@ -13377,7 +13403,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-22T09:30:21.876672-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "9976ad9f88a978547cf90c627dd9b5d3",
@@ -13409,7 +13436,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-22T09:30:17.592953-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b6ab1e7d5b54d940127e3cb6a7414c8f",
@@ -13425,7 +13453,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-22T09:30:15.628525-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7f7cbc78af7fa1aca2d5214ec8ea5d00",
@@ -13441,7 +13470,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-22T03:04:52.787159-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "caf72cc3a05c700b1c910e91d2a87b24",
