@@ -13545,7 +13545,8 @@
     "posted_at": "2026-08-20",
     "priority": 4,
     "first_seen": "2026-08-22T03:04:46.725665-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7448d46e729e8e1fffc8dde4aa3f872c",
@@ -13561,7 +13562,8 @@
     "posted_at": "2026-08-20",
     "priority": 4,
     "first_seen": "2026-08-22T03:04:44.815078-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7ae5baf480cc28e144541439693fc9b3",
@@ -13628,7 +13630,8 @@
     "posted_at": "2026-08-20",
     "priority": 4,
     "first_seen": "2026-08-22T02:45:36.048922-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7a78718330fcf42df2288a08b6844b5a",
@@ -13661,7 +13664,8 @@
     "posted_at": "2026-08-20",
     "priority": 3,
     "first_seen": "2026-08-21T19:12:37.316788-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "dca04118497041092d33e6e27dddc4b6",
@@ -13694,7 +13698,8 @@
     "posted_at": "2026-08-20",
     "priority": 3,
     "first_seen": "2026-08-21T19:12:33.318950-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7b6706a0b37b36e4addce42fb11a7182",
@@ -13710,7 +13715,8 @@
     "posted_at": "2026-08-20",
     "priority": 3,
     "first_seen": "2026-08-21T19:12:31.443029-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7d54f44050580ed0eecc04fb81e81c7c",
@@ -13939,7 +13945,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-21T18:15:54.371840-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b53b6d580ebfffd85c60462dcf361304",
@@ -13955,7 +13962,8 @@
     "posted_at": "None",
     "priority": 1,
     "first_seen": "2026-08-21T18:15:52.530161-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "9a1532b361a2e3d420ae09c8c9beac87",
@@ -14019,7 +14027,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-21T13:25:42.695261-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "33be329b9f9d3dfc5cfb289748b54c2a",
@@ -26019,134 +26028,6 @@
     "posted_at": "2026-08-06",
     "priority": 4,
     "first_seen": "2026-08-07T20:51:45.012889-07:00",
-    "status": "active"
-  },
-  {
-    "id": "b84a250c4a7986bd185a5fb3fc56ad62",
-    "title": "User Experience (UX) Designer",
-    "company": "Urban Legend",
-    "location": "Alexandria, VA, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=8bbb9ebf78356f4e",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-07-31",
-    "priority": 4,
-    "first_seen": "2026-08-07T20:32:32.494075-07:00",
-    "status": "active"
-  },
-  {
-    "id": "705f09fa07cf13131096e4bcf1be6c71",
-    "title": "Digital Product Designer",
-    "company": "Thesis",
-    "location": "New York, NY, US",
-    "salary": "$140,000 \u2013 $165,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=1203cbb67d92664f",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-06",
-    "priority": 3,
-    "first_seen": "2026-08-07T20:32:30.296690-07:00",
-    "status": "active"
-  },
-  {
-    "id": "c0e38dabb4b18310d5d52dd22a21c21d",
-    "title": "UI/UX Designer",
-    "company": "Black Cape",
-    "location": "Bethesda, MD, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=37f64784494d19d7",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-06",
-    "priority": 4,
-    "first_seen": "2026-08-07T20:32:28.197403-07:00",
-    "status": "active"
-  },
-  {
-    "id": "f15f3b77a01d4e7636d607605eec07cf",
-    "title": "UI/UX Designer",
-    "company": "Toyota North America",
-    "location": "Plano, TX, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=b0cde36e57a0eb32",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-06",
-    "priority": 4,
-    "first_seen": "2026-08-07T20:32:25.118938-07:00",
-    "status": "active"
-  },
-  {
-    "id": "097003b61496fd8cf2b14925095ca6e2",
-    "title": "Product Designer",
-    "company": "North.",
-    "location": "Remote, US",
-    "salary": "$75,000 \u2013 $98,500 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=d596f4efc05d4e77",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-06",
-    "priority": 4,
-    "first_seen": "2026-08-07T20:32:23.102001-07:00",
-    "status": "active"
-  },
-  {
-    "id": "631b20b69ee3dafd56ab03ae70d0c988",
-    "title": "Product Designer",
-    "company": "Complete",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4451004857",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-07T20:32:17.183335-07:00",
-    "status": "active"
-  },
-  {
-    "id": "ec8e4c045702f34191a46c9c9c74b9dc",
-    "title": "Founding Product Designer",
-    "company": "Inferact",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4451009868",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-07T20:32:15.061559-07:00",
-    "status": "active"
-  },
-  {
-    "id": "1b380a8cd14355c0f39779b5e077019e",
-    "title": "User Experience Researcher, AI-Augmented Research",
-    "company": "Nelnet",
-    "location": "Madison, WI",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450514901",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-07T20:32:10.014002-07:00",
     "status": "active"
   }
 ]
