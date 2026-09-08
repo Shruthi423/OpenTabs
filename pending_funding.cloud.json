@@ -1,16 +1,58 @@
 [
   {
     "item": {
-      "company": "N8n",
+      "company": "Gaia",
+      "amount": "$1.5M",
+      "stage": "Pre-Seed",
+      "investors": "SEEDRA Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/gaia-raises-1-5m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-09-07T23:41:55.419811-07:00"
+  },
+  {
+    "item": {
+      "company": "Jipur Robotics",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/jipur-robotics-raises-4-3m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-07T23:42:11.676278-07:00"
+  },
+  {
+    "item": {
+      "company": "Iztri",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "All In Capital And Suashish Group - bwdisrupt",
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRDhCbVFlLXpCbGJMUDdhY0ZUeFVmdFNIV01Jd3dqbEowbWJ6TEZaZTAyY1RPTUYyamVPVmhTMWdSY25tVkQzdFFOZXRqYVpHaGVUR1lqSGVLNS10S2dYdDNOTW1aLWFiZ04yTzZuZEpxaXdrWU1KeDhZakxVb05SNVVQTXAyWGZoV29pVC0xN3p5RC1PbW9uamxvYmc0UXU5QlZRZGRMN2FCMXVFaW1BWHFsdC1ycW1GaDFv?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-07T23:42:14.618400-07:00"
+  },
+  {
+    "item": {
+      "company": "Tickets",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUkFnaFhjMFpYYlYwS01fU1VmN2JvQ3l2OFgzRm9aU3hLY2FRN2oyZlR6N082VTN1aWphVTBGUDBHYjJvaC13M2lzaGk0dHlrc0RPd29QcXhtYU8tSTNCSWc3Qy1BUVZMX3RRM004WkFDMERZaEpjTVZ5aUlLMEpEYnJrNzdHeDdYZ2MtbktQR1hwc1lVWlZxVkZ2SUtGUnBiY2JOTA?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/tickets-for-good-raises-4-5m-other/",
       "priority": 3
     },
-    "remind_at": "2026-09-07T18:55:37.301135-07:00"
+    "remind_at": "2026-09-07T23:42:17.633234-07:00"
   }
 ]
