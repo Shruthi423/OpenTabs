@@ -1,5 +1,107 @@
 [
   {
+    "id": "c60643631ae14b100a2d792fdf3164cc",
+    "title": "Software UI Engineer II - React & Enterprise Web Platforms",
+    "company": "Hewlett Packard Enterprise | HPE",
+    "location": "San Juan, PR, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=bea0c8836ab4dec3",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-07",
+    "priority": 4,
+    "first_seen": "2026-09-08T15:44:43.098438-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "226bb4dabf54195f5c414704dce526f5",
+    "title": "Product Design Intern",
+    "company": "Coinbase",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4464901470",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 1,
+    "first_seen": "2026-09-08T15:44:41.185365-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "d87d81436e4209434cf8c58930f75929",
+    "title": "IT User Experience Intern- Summer 2027",
+    "company": "Meijer",
+    "location": "Grand Rapids, MI, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=28cce11aae635e4e",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-07",
+    "priority": 4,
+    "first_seen": "2026-09-08T15:44:39.172055-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "f2cdb8adaf2c8d2df2a336a46d428a28",
+    "title": "Product Designer, Patient Experience",
+    "company": "giftHEALTH",
+    "location": "Columbus, OH, US",
+    "salary": "$13,200 \u2013 $154,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=e93ea6f6d657cc24",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-07",
+    "priority": 4,
+    "first_seen": "2026-09-08T15:44:37.113816-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "c27252ed6d44329722f65282c629b68f",
+    "title": "UX Product Designer",
+    "company": "Smart IT Frame LLC",
+    "location": "San Jose, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463570204",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 2,
+    "first_seen": "2026-09-08T15:44:35.179384-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "6e1011a780e3705405ba5c39c977d603",
+    "title": "Product Designer",
+    "company": "Knapheide",
+    "location": "Quincy, IL",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4322664932",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-08T15:44:33.308037-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "bbeaf727b52ec9c007f8b1f76a28d4b7",
     "title": "Product Designer",
     "company": "Boom",
@@ -16894,7 +16996,8 @@
     "posted_at": "2026-08-19",
     "priority": 4,
     "first_seen": "2026-08-19T12:59:51.021490-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "af533a59a9e394c38f3523f296f28e2d",
@@ -16910,7 +17013,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-08-19T12:59:48.924832-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "477df56bf29318a541a6a04b429471d9",
@@ -17011,7 +17115,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-08-19T11:58:25.590411-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "50d41c73794a0b5323bac1d6e6eded1b",
@@ -17061,7 +17166,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-19T11:28:08.706999-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "50ef0925593b705252e68bde40ce0b31",
@@ -17094,7 +17200,8 @@
     "posted_at": "2026-08-18",
     "priority": 2,
     "first_seen": "2026-08-19T11:28:04.778996-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "45f543ba2c30c1329ce8ca8c6530939a",
@@ -17110,7 +17217,8 @@
     "posted_at": "2026-08-18",
     "priority": 2,
     "first_seen": "2026-08-19T11:28:02.996470-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "e13b9485dd5123385145d5871b51eecb",
@@ -17143,7 +17251,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T10:30:50.805883-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "6f313faf3b3aeaa0d6768b7d1cd81c9b",
@@ -17341,7 +17450,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T09:52:57.001292-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "db5c78423312bba45f1fc65d99d07094",
@@ -17373,7 +17483,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-19T09:52:50.963767-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "faffa0ed895dc851c93db9e553a63387",
@@ -17389,7 +17500,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-19T09:52:48.983447-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "fc555e9807ef5d193557cb1ad9b3760f",
@@ -17405,7 +17517,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T09:52:46.808907-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "eb02e2e898742583404b2e7120445bee",
@@ -17421,7 +17534,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T09:52:44.787367-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "75bbd332020092908b90c45a3f886b39",
@@ -17437,7 +17551,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T09:52:42.749036-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b93429f45bbcd2a303eae4de6c3f2b93",
@@ -17453,7 +17568,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T09:52:40.682029-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a50f846dd37b10464b189215db26d257",
@@ -22096,22 +22212,6 @@
     "status": "active"
   },
   {
-    "id": "120cf59511c22b3990a6ee54a5db4b39",
-    "title": "ServiceNow UI Developer",
-    "company": "VDart",
-    "location": "Santa Clara County, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454029776",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-13T13:21:53.492143-07:00",
-    "status": "active"
-  },
-  {
     "id": "d75960edbfa27059ae43343544f012ca",
     "title": "UX Product Designer",
     "company": "Translucent AI",
@@ -22144,22 +22244,6 @@
     "status": "active"
   },
   {
-    "id": "f3db7fc462ad9424602f5a374ee3d811",
-    "title": "Product Designer - Barbie",
-    "company": "Mattel, Inc.",
-    "location": "El Segundo, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450809849",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-13T13:02:17.703339-07:00",
-    "status": "active"
-  },
-  {
     "id": "95e7e52e05becded49d903399fc21810",
     "title": "UX Expert",
     "company": "Nightwing",
@@ -22173,22 +22257,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-13T13:02:15.745749-07:00",
-    "status": "active"
-  },
-  {
-    "id": "dae80b34df1ade93c2aab33d54bcbe83",
-    "title": "Product Analyst, AI & UX Optimization",
-    "company": "Afficiency",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453235508",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-13T13:02:13.815498-07:00",
     "status": "active"
   },
   {
@@ -22221,22 +22289,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-13T12:43:29.352968-07:00",
-    "status": "active"
-  },
-  {
-    "id": "f8e919d1b7490403665b0b521822085b",
-    "title": "Software Product Designer",
-    "company": "TechAviv",
-    "location": "Somerville, MA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450451854",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-13T12:43:27.203278-07:00",
     "status": "active"
   },
   {
@@ -22320,54 +22372,6 @@
     "status": "active"
   },
   {
-    "id": "dcd7bc4272420d60a9579e80a68ab865",
-    "title": "Junior UI/UX & Visual Designer",
-    "company": "QBA Worldwide",
-    "location": "Reston, VA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450813928",
-    "source": "Linkedin",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-13T12:24:06.823813-07:00",
-    "status": "active"
-  },
-  {
-    "id": "67acda8a46c2be96f69dd3a3f1bd0cfe",
-    "title": "UX Designer",
-    "company": "VBeyond Corporation",
-    "location": "Illinois, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454070868",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-13T12:24:04.846033-07:00",
-    "status": "active"
-  },
-  {
-    "id": "4a493fb52f59c00eabfdb4635bdfef68",
-    "title": "Software Product Designer",
-    "company": "SOSV HAX",
-    "location": "Somerville, MA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4452961327",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-13T12:04:59.798197-07:00",
-    "status": "active"
-  },
-  {
     "id": "9d7bd724cd630816a6a946347fde7955",
     "title": "Product Design Engineer",
     "company": "Day-O-Lite Manufacturing",
@@ -22381,38 +22385,6 @@
     "posted_at": "2026-08-13",
     "priority": 4,
     "first_seen": "2026-08-13T11:26:56.209533-07:00",
-    "status": "active"
-  },
-  {
-    "id": "cf17458c9cb6caf570a8af53820f3e1b",
-    "title": "Quantitative UX Researcher, Sales Platform",
-    "company": "UXR Hunt",
-    "location": "Mountain View, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453201333",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-13T11:06:18.780004-07:00",
-    "status": "active"
-  },
-  {
-    "id": "d397f0e91ad16bbc75c89bbdeb3d9768",
-    "title": "Associate Brand Designer",
-    "company": "The Best Job Board",
-    "location": "Brooklyn, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453664480",
-    "source": "Linkedin",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-13T11:06:16.720847-07:00",
     "status": "active"
   },
   {
@@ -22477,38 +22449,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-13T10:46:59.010430-07:00",
-    "status": "active"
-  },
-  {
-    "id": "909288875e95af6ac77da41500181b0c",
-    "title": "Product Design Engineer",
-    "company": "Brightpath Associates LLC",
-    "location": "Snow Hill, NC",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4449855979",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-13T10:46:56.948584-07:00",
-    "status": "active"
-  },
-  {
-    "id": "596784e840325623bc6e850261c03e2b",
-    "title": "Product Design Engineer",
-    "company": "Designer Interiors",
-    "location": "Sugar Land, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4452997291",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-13T10:46:55.170979-07:00",
     "status": "active"
   },
   {
@@ -25933,22 +25873,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-08T18:51:53.756068-07:00",
-    "status": "active"
-  },
-  {
-    "id": "fd1907f6d06ca23847ca89bdd3f2f0bc",
-    "title": "Mobile UI Artist",
-    "company": "Counterspell",
-    "location": "Los Angeles, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450919658",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-08T15:39:26.188409-07:00",
     "status": "active"
   }
 ]
