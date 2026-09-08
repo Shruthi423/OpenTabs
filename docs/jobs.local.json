@@ -1,5 +1,39 @@
 [
   {
+    "id": "e985b0052d5006175cebfc0594be4eb1",
+    "title": "Product Visual Designer",
+    "company": "CELLA",
+    "location": "Framingham, MA, US",
+    "salary": "$42 \u2013 $46 / hourly",
+    "url": "https://www.indeed.com/viewjob?jk=89cd0d6690ca5634",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-07",
+    "priority": 4,
+    "first_seen": "2026-09-08T16:24:10.721744-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "74e74b163c977b48755ac0f4849e0d18",
+    "title": "Web Designer/Enhancement Specialist: Springfield, VA or St Louis, MO",
+    "company": "BAE Systems USA",
+    "location": "Springfield, VA, US",
+    "salary": "$79,365 \u2013 $134,921 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=dcf05520ed3ca55a",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-07",
+    "priority": 4,
+    "first_seen": "2026-09-08T16:24:08.961561-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "b817f8919188fc104b16f98c5dfcc914",
     "title": "Junior Visual Designer",
     "company": "La cabane RH",
@@ -17506,7 +17540,8 @@
     "posted_at": "2026-07-31",
     "priority": 3,
     "first_seen": "2026-08-19T09:52:59.071741-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "dd02d82ac3c4b00f8da954138d4a4a00",
@@ -17539,7 +17574,8 @@
     "posted_at": "2026-08-16",
     "priority": 3,
     "first_seen": "2026-08-19T09:52:53.010953-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "5e00bca6304bf2192e71edf8ff5b82c5",
@@ -17905,7 +17941,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-19T02:32:05.576510-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "05f174caec68df22391235db207f317a",
@@ -17921,7 +17958,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T01:43:58.049807-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "065986d2b66357b136c3b1959f5ba5ff",
@@ -17937,7 +17975,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-18T18:35:57.797444-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "3fccbbbbc512be35f5f2eb5b6098326f",
@@ -17953,7 +17992,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T18:35:55.309687-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "74f6107437a94b4aea988477389c7be6",
@@ -18001,7 +18041,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T18:35:47.577401-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "78fb8944f94f1756c86a94e2786c48ad",
@@ -21268,38 +21309,6 @@
     "status": "active"
   },
   {
-    "id": "62a5bf729584b15cf1413986f87ab4d0",
-    "title": "Mobile UI Artist",
-    "company": "Counterspell Games Studio",
-    "location": "Los Angeles, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454541946",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-14T12:29:29.663191-07:00",
-    "status": "active"
-  },
-  {
-    "id": "6ae8cb4f8e5d7533c43409577a6fd450",
-    "title": "User Experience Designer",
-    "company": "Resolve Tech Solutions",
-    "location": "Irving, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453591464",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-14T12:29:24.570523-07:00",
-    "status": "active"
-  },
-  {
     "id": "b6470c0bbb5d6878199893a8fff811a3",
     "title": "Product Designer",
     "company": "Zero Hiring",
@@ -21444,22 +21453,6 @@
     "status": "active"
   },
   {
-    "id": "f64087ae2d948cdd57c2c7449171b30c",
-    "title": "Freelance Visual Designers (Talent Network / Roster)",
-    "company": "fuseproject",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453589152",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-14T12:10:06.980258-07:00",
-    "status": "active"
-  },
-  {
     "id": "96f29d2372690d062dbb6a58fa93c7a8",
     "title": "Product Designer",
     "company": "Plaid",
@@ -21601,22 +21594,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-14T08:32:31.561990-07:00",
-    "status": "active"
-  },
-  {
-    "id": "a1f3d82b9e0099b9e307cea3abd4a5fd",
-    "title": "Product Designer",
-    "company": "Owl Ventures",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454536532",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-14T08:32:26.160751-07:00",
     "status": "active"
   },
   {
