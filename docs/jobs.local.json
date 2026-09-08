@@ -1,5 +1,73 @@
 [
   {
+    "id": "aad854e09ba8268a15f145a521d948ae",
+    "title": "Product Designer",
+    "company": "nVent",
+    "location": "Jackson, MS",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4464626749",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-08T13:18:45.868090-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "1886833f23da58284f1680fc5a33ea61",
+    "title": "Product Designer",
+    "company": "nVent",
+    "location": "Richland, MS",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4464628715",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-08T13:18:43.891842-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "3a96c15e638ed085e0cdf008ac860203",
+    "title": "Brand Designer, Iconography & Illustration - Instagram Brand Studio",
+    "company": "Sarafu",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4464669718",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "None",
+    "priority": 1,
+    "first_seen": "2026-09-08T13:18:41.902661-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "f51a5a6fa7b33b7c4bc671dcf11bc238",
+    "title": "Product Designer",
+    "company": "Sarafu",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4464678631",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "None",
+    "priority": 1,
+    "first_seen": "2026-09-08T13:18:40.182327-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "ea3fc69b44a8a2478e41a23c21be54c6",
     "title": "UI/UX Developer/Architect/Design Engineer",
     "company": "VIVA",
@@ -30,23 +98,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-08T12:59:04.219311-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "50c36e23d83a5769ebf68a9c29dfb068",
-    "title": "Engineer - Taylor Mill KY",
-    "company": "Progress Rail",
-    "location": "Taylor Mill, KY, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=e37506195f27ff0b",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-09-07",
-    "priority": 4,
-    "first_seen": "2026-09-08T12:59:02.217254-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -15687,7 +15738,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-20T10:29:42.912606-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "51e16b94dd57fa79c574c5b233f7693f",
@@ -15720,7 +15772,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-08-20T10:29:38.795361-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "a6987f9ff1295ce2c5399d814c1a07e3",
@@ -15855,7 +15908,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-08-20T10:29:12.336813-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "95b887d2d5f1098c65aa8911ce96d20e",
@@ -16133,7 +16187,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-20T10:08:57.436894-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "44668d18512ba7abcb49df92a9d4eeb8",
@@ -16149,7 +16204,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-20T10:08:55.472985-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "59e1b46308a7d65caffa6944a935e47e",
@@ -16181,7 +16237,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T20:51:59.065341-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "effd4a5b2447b7a35a0fed4ea0d0ddb0",
@@ -16197,7 +16254,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-19T20:32:43.477558-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "eb76d0df45b3ef4c8cb9816fd1795e4d",
@@ -16213,7 +16271,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T20:13:52.349034-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "6f2ad7305902cd48c7f68f0b60742b1f",
@@ -16229,7 +16288,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T19:54:44.883417-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "155b6dac8afbbe7396d2ae6f5b4014f8",
@@ -25845,38 +25905,6 @@
     "posted_at": "2026-08-06",
     "priority": 4,
     "first_seen": "2026-08-08T13:27:32.868906-07:00",
-    "status": "active"
-  },
-  {
-    "id": "946b66d23107d9ff01a05b532cca000c",
-    "title": "UX Designer",
-    "company": "PTR Global",
-    "location": "Dallas, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4021565631",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-08T13:08:31.534547-07:00",
-    "status": "active"
-  },
-  {
-    "id": "8cda70ca8fd2d9e8ed5bf606cc3dcc2f",
-    "title": "User Experience Designer",
-    "company": "PTR Global",
-    "location": "Dallas, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4410706394",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-08T13:08:29.576629-07:00",
     "status": "active"
   }
 ]
