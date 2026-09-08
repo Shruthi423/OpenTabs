@@ -1,58 +1,16 @@
 [
   {
     "item": {
-      "company": "Finnish Creoir",
-      "amount": null,
-      "stage": "Seed",
+      "company": "Magnar",
+      "amount": "$8.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Wenk2UHNlM3ZaaEZzT1dlMlE3dlB6M3NROW5GVlpGemloSGM5b0xyV1BqYk52aGRGdDUwZThaTDJfcnlZZDl0S1E3Y21rNEo3ckZUNDZMb2htNFlXelNjNzRtSdIBY0FVX3lxTE1Wenk2UHNlM3ZaaEZzT1dlMlE3dlB6M3NROW5GVlpGemloSGM5b0xyV1BqYk52aGRGdDUwZThaTDJfcnlZZDl0S1E3Y21rNEo3ckZUNDZMb2htNFlXelNjNzRtSQ?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRno4dmZvUVhkQ0Y0TmJfRGhYeThsMlNzbnVxMkttSnU0bXJRQWN4blVjLVJVaXIwSFk0VVRLcWdoQ3BielZBRFJwMGxMREdpeElxQXY4eFRaVWNuMWFCNktWRWJDVmhjc1Q4bGZEeEpaX1QyWGwzbzZoeHd1bEFjREVaSjdFTXl4NnhzMWs5Tlk3ZDE1cDk2bUtXRjZTaVYtNGFnUWhqYXpYUmlUQ3hrRi03Tl93dw?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-09-08T12:12:07.617288-07:00"
-  },
-  {
-    "item": {
-      "company": "Mistral AI",
-      "amount": "$3.5B",
-      "stage": "Series D",
-      "investors": null,
-      "location": "AI Round Paris",
-      "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/",
-      "priority": 5
-    },
-    "remind_at": "2026-09-08T12:12:10.467542-07:00"
-  },
-  {
-    "item": {
-      "company": "Cognition AI",
-      "amount": "$2.0B",
-      "stage": "Series E",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXJkdElacERDMkVsVmZnQ09DS0FSY085NHcwVHFOWUR0WGZqdElUMDN6T1ZhUmMxVXFWN0pLRGxUWWpnTTZkYWZ1NEhfeGV5WjU4YXhrNzZ6WDViOVNYU3d0bDNENHdCajFlOXlqN05fanhtRm5fQnFJVExWdFdUYkxoX2k0WkVnWmxQdU1jNGVsVGRFUFRkazdPeGkxeG90ems5UGZR?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-08T12:12:13.465927-07:00"
-  },
-  {
-    "item": {
-      "company": "Tellia",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODY5cFBQLWNHZENURldzSlF2cUoyN1luM01fR3UxcllfbWVNX2pnWHZoSElIZWJPQWQxYkN1QjJXWWtSamNmb292V19URk9ya3dFZGkxQ3dUMU9iLUZub1Vvd2ZUUHBjWnBfSTNLMlZnWnNuVWVvT3AwTmNoMzRVVVotUDdPaWNYSHhQTmVRNVZheDJ0MUVGVzg1MWpJTHFUaGNleHRQNHZUU2h6TmFwbEgtT3RVRWx4RkZLZkN3?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-08T12:12:16.416725-07:00"
+    "remind_at": "2026-09-08T14:56:33.366296-07:00"
   }
 ]

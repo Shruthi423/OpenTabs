@@ -1,5 +1,22 @@
 [
   {
+    "id": "7bb257d47805d78741874fd12d6a30a7",
+    "title": "Associate Product Designer at Toast",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "$105,000",
+    "url": "https://remotefirstjobs.com/companies/toast/jobs/associate-product-designer-857978",
+    "source": "JobsCollider",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-09-08T14:26:08.958083-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "3727f9c665c453e4a703de704d0a4525",
     "title": "Product Designer, Contract Orchestration",
     "company": "Zip",
@@ -5217,39 +5234,5 @@
     "first_seen": "2026-08-08T20:08:46.970611-07:00",
     "status": "active",
     "jd": "no"
-  },
-  {
-    "id": "60e343c69fbdf61882150534c5eb91fd",
-    "title": "Visual Designer at Tekmetric",
-    "company": "Unknown",
-    "location": "Remote",
-    "salary": "$60",
-    "url": "https://remotefirstjobs.com/companies/tekmetric/jobs/visual-designer-845896",
-    "source": "JobsCollider",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-08-08T13:02:24.330090-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "08617c1709dc51eb568a5454d310e519",
-    "title": "Product Designer - 12-month contract at Ratehub.ca",
-    "company": "Unknown",
-    "location": "Remote",
-    "salary": "$90,000 - $105,000",
-    "url": "https://remotefirstjobs.com/companies/ratehubca/jobs/product-designer-12month-contract-845906",
-    "source": "JobsCollider",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-08-08T13:02:22.827641-07:00",
-    "status": "active",
-    "jd": "yes"
   }
 ]
