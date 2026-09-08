@@ -13732,7 +13732,8 @@
     "posted_at": "2026-08-20",
     "priority": 3,
     "first_seen": "2026-08-21T19:12:29.359307-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "fce92d4adb760357eca59c2718b1d802",
@@ -13748,7 +13749,8 @@
     "posted_at": "2026-08-20",
     "priority": 3,
     "first_seen": "2026-08-21T19:12:27.373345-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ac82ff26b30cca69e069745040b4661d",
@@ -13764,7 +13766,8 @@
     "posted_at": "2026-08-20",
     "priority": 3,
     "first_seen": "2026-08-21T19:12:25.514809-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "4e2ea20ff1025a58d37363db8631cab9",
@@ -13848,7 +13851,8 @@
     "posted_at": "2026-08-21",
     "priority": 4,
     "first_seen": "2026-08-21T18:16:11.082197-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "be4962475e7a847a71028430d3e99d05",
@@ -13881,7 +13885,8 @@
     "posted_at": "2026-08-06",
     "priority": 4,
     "first_seen": "2026-08-21T18:16:06.821990-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0ebeb473151d0f033518bba36d64ff40",
@@ -13897,7 +13902,8 @@
     "posted_at": "2026-08-20",
     "priority": 4,
     "first_seen": "2026-08-21T18:16:04.791051-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "da78e65967ea4f541249fbe5a9958a8a",
@@ -13913,7 +13919,8 @@
     "posted_at": "2026-08-21",
     "priority": 4,
     "first_seen": "2026-08-21T18:16:02.736152-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "9ab9a7d85ed72dc30a1d7b8464c1a05f",
@@ -14044,7 +14051,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-21T13:24:52.867157-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a1b2d10f0714c7004b53de3ebb34fdbe",
@@ -14092,7 +14100,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-21T12:56:23.749892-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "0bbb0402adc9e2e90ac059a452f76463",
@@ -14108,7 +14117,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-21T11:36:06.988881-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b031766fcd100ed9b6eaed6a9e6c6a3e",
@@ -14124,7 +14134,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-21T11:17:13.168094-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "6b8d7afaa5affea752f46cb36f0c305f",
@@ -14172,7 +14183,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-21T11:17:04.874510-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "39d4dcd2fc9441a75d6338312c90d0dc",
@@ -25980,54 +25992,6 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-08T01:08:58.792222-07:00",
-    "status": "active"
-  },
-  {
-    "id": "2ca8cf0a4647023e04e10ad1dd2bd81f",
-    "title": "Product Designer, AI & Design Systems",
-    "company": "Proscia",
-    "location": "Philadelphia, PA, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=1b943a37de6c6c8a",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-06",
-    "priority": 3,
-    "first_seen": "2026-08-07T20:51:53.659414-07:00",
-    "status": "active"
-  },
-  {
-    "id": "90a73a39e5d39055310243d275ef7ac7",
-    "title": "Product Design Engineer",
-    "company": "Jamak Fabrication",
-    "location": "Weatherford, TX, US",
-    "salary": "$85,000 \u2013 $95,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=3f0fdff0859b297b",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-06",
-    "priority": 4,
-    "first_seen": "2026-08-07T20:51:47.134885-07:00",
-    "status": "active"
-  },
-  {
-    "id": "b66ea8db27d3054060083d65c50efe99",
-    "title": "Product Designer",
-    "company": "US Farathane",
-    "location": "Auburn Hills, MI, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=cfa4b62b31d1e93c",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-06",
-    "priority": 4,
-    "first_seen": "2026-08-07T20:51:45.012889-07:00",
     "status": "active"
   }
 ]
