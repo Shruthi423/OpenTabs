@@ -16605,7 +16605,8 @@
     "posted_at": "2026-07-15",
     "priority": 2,
     "first_seen": "2026-08-19T16:25:40.443395-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "dec344e0ac404be9f9e7947d049d9938",
@@ -16905,7 +16906,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T12:59:37.043083-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "bad80cc2f34cf9da90a16c4f59551359",
@@ -16921,7 +16923,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T12:40:57.986230-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "1e9ca1437cb2381948b0e92b5fbe3d1d",
@@ -16937,7 +16940,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T12:40:55.905332-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "29dbfd9b9b3513759a6f12a8083b3464",
@@ -16953,7 +16957,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T12:40:53.845876-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a2989f24497ccd57992654baa07df5d1",
@@ -16969,7 +16974,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-19T11:58:27.485801-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "e69d1545cf748b23b545ac62281440ac",
@@ -17001,7 +17007,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T11:28:12.777759-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "0909d06770e1ad84fc6c576cb3b54d34",
@@ -17017,7 +17024,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T11:28:10.768132-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c7835d811a765fafe73930d181f6c162",
@@ -17049,7 +17057,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T11:28:06.757617-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ad5dd6be34d9b6588f1445314683a362",
@@ -17097,7 +17106,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T10:50:12.703898-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "23b1f9d8d91021f54a669c5caf08a91d",
@@ -25913,38 +25923,6 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-08T15:39:26.188409-07:00",
-    "status": "active"
-  },
-  {
-    "id": "e41981f87dfc86f96c7eab15cf4c0dfd",
-    "title": "Product Design Engineer",
-    "company": "ITT Inc.",
-    "location": "Westminster, SC",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4433223981",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-08T15:01:45.563754-07:00",
-    "status": "active"
-  },
-  {
-    "id": "101b3c7001bc8252ce77d97b6a060aa0",
-    "title": "Product Designer, Retirement",
-    "company": "Gusto",
-    "location": "Denver, CO",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4395228632",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-08T15:01:43.553725-07:00",
     "status": "active"
   }
 ]
