@@ -1,5 +1,90 @@
 [
   {
+    "id": "01922b4b0f31d9defd513bd8b9a84f58",
+    "title": "Jr. Brand Designer",
+    "company": "Arrowmac",
+    "location": "Providence, RI",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463550036",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-08T11:38:56.372492-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "3ea9da9a36a4d9650e3540123364b958",
+    "title": "Brand Designer",
+    "company": "EllaOla",
+    "location": "New York, United States",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4464618491",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-08T11:38:54.438046-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "d36f5dfd7314417d2659ff129f073723",
+    "title": "Brand Designer [AQ-16862]",
+    "company": "Aquent",
+    "location": "New York, NY",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4462298988",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-08T11:38:52.388684-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "79b2dcb8f3f6f1f8d18dfa833bdc8424",
+    "title": "Product Designer (No-Code)",
+    "company": "Future is Now Coalition",
+    "location": "US",
+    "salary": "$20,000 \u2013 $60,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=fca5452476425aa2",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-08",
+    "priority": 4,
+    "first_seen": "2026-09-08T11:38:50.396343-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "544ca788fad2092f7beaee88513eb884",
+    "title": "User Experience Design Intern",
+    "company": "Batch Systems Inc",
+    "location": "Sherman Oaks, CA, US",
+    "salary": "$25 \u2013 $30 / hourly",
+    "url": "https://www.indeed.com/viewjob?jk=b43d4591328cc68e",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-08",
+    "priority": 4,
+    "first_seen": "2026-09-08T11:38:48.598398-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "08071207c5fef5559f6c7824855600bc",
     "title": "User Experience Researcher",
     "company": "Integrated Resources, Inc ( IRI )",
@@ -115,23 +200,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-08T11:18:34.540127-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "39664bb322f9ab0c494d2c312a0488c8",
-    "title": "Application Developer",
-    "company": "Patterson-UTI Drilling Company LLC",
-    "location": "Fort Worth, TX, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=43e4e6955506ff10",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-09-07",
-    "priority": 4,
-    "first_seen": "2026-09-08T11:18:21.876839-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -14616,7 +14684,8 @@
     "posted_at": "2026-08-20",
     "priority": 4,
     "first_seen": "2026-08-21T09:53:09.419440-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "afddb7911e77a191689f4012fc6a547d",
@@ -14632,7 +14701,8 @@
     "posted_at": "2026-08-21",
     "priority": 4,
     "first_seen": "2026-08-21T09:53:07.237638-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "266bd9fc7490ecee3228036f5160cf2d",
@@ -15126,7 +15196,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-21T08:21:18.147436-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ac78a459401bee678873b210cd15fd81",
@@ -15142,7 +15213,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-21T08:21:06.111336-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ef32506bbc842178c49ccec04968f7ab",
@@ -15158,7 +15230,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-21T08:21:04.197241-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "cf13b1646e6ee915eaf84f7ef49c5f83",
@@ -22121,22 +22194,6 @@
     "status": "active"
   },
   {
-    "id": "15333a76036c19df0b6d9e9618419718",
-    "title": "UX Researcher",
-    "company": "UXR Hunt",
-    "location": "Burlingame, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4452984697",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-13T10:46:44.727682-07:00",
-    "status": "active"
-  },
-  {
     "id": "693ee77bc014bbb7ce32a28364a2d1a1",
     "title": "UX Researcher, CapCut",
     "company": "TikTok USDS JV",
@@ -22150,22 +22207,6 @@
     "posted_at": "2026-08-12",
     "priority": 2,
     "first_seen": "2026-08-13T10:46:32.799748-07:00",
-    "status": "active"
-  },
-  {
-    "id": "742ad2c2c69fa08f5cea5802af788122",
-    "title": "Junior UX Designer",
-    "company": "Strategic Staffing Solutions",
-    "location": "San Antonio, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454037903",
-    "source": "Linkedin",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-13T10:46:30.635061-07:00",
     "status": "active"
   },
   {
@@ -25606,38 +25647,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-08T13:08:29.576629-07:00",
-    "status": "active"
-  },
-  {
-    "id": "006efe919ad8d61a2278e87290ddfbf9",
-    "title": "Product Designer - Design Systems Consultant",
-    "company": "PTR Global",
-    "location": "Irving, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4415580023",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-08T11:26:49.470688-07:00",
-    "status": "active"
-  },
-  {
-    "id": "6acf237ca473c962504c1ae7cbd05ab8",
-    "title": "Product Design & Engineering Designer",
-    "company": "Stellantis",
-    "location": "Auburn Hills, MI",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4451040830",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-08T11:26:25.911437-07:00",
     "status": "active"
   }
 ]
