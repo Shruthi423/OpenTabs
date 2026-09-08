@@ -1,5 +1,22 @@
 [
   {
+    "id": "b1b2e3e279a0e420ee3f49dc68c97db3",
+    "title": "System Electrical Architect (Input Devices)",
+    "company": "Apple",
+    "location": "Cupertino, CA, US",
+    "salary": "$184,700 \u2013 $324,800 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=44ba8f8f27c86b5b",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-09-02",
+    "priority": 2,
+    "first_seen": "2026-09-07T18:07:08.164606-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "5f96478e25eab432c06249e496922527",
     "title": "UX Designer",
     "company": "Evlo AI",
@@ -12508,7 +12525,8 @@
     "posted_at": "2026-08-23",
     "priority": 4,
     "first_seen": "2026-08-24T12:30:27.753136-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "8d7f92b6a66e8029312dacef73f58b11",
@@ -12742,7 +12760,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-24T08:28:07.833607-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b38f4796d02be9def919d5ba7c91d1e3",
@@ -12758,7 +12777,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-24T08:09:13.435085-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "e367f4d8d3bfa1af817b478a0e60043b",
@@ -12774,7 +12794,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-24T08:09:06.325867-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "58e41a8317fa556c72e6d483d95c9f42",
@@ -12790,7 +12811,8 @@
     "posted_at": "None",
     "priority": 4,
     "first_seen": "2026-08-24T08:09:04.535772-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "6a9f68f4dc6773a2c40e304f5e2fc19f",
@@ -12806,7 +12828,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-24T07:50:06.556598-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "de9652cd338e916c9b84ee8c89794ebe",
@@ -12822,7 +12845,8 @@
     "posted_at": "None",
     "priority": 2,
     "first_seen": "2026-08-24T07:49:52.644919-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d7a50cd8b2dd92f4b306466ad290984e",
@@ -12838,7 +12862,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-24T07:49:40.589777-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "e0f72c2d7d6da96f60a3429fc010e676",
@@ -12854,7 +12879,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-24T07:49:38.548693-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "58b936c94aaaf06171dc2548aec44296",
@@ -12902,7 +12928,8 @@
     "posted_at": "None",
     "priority": 1,
     "first_seen": "2026-08-23T20:51:50.969230-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "61325864ac51e0de463eb2cb2445c079",
@@ -12918,7 +12945,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-23T20:51:49.047938-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8fd3ff3d2af3c2306f5c727ee92c989b",
@@ -12934,7 +12962,8 @@
     "posted_at": "None",
     "priority": 4,
     "first_seen": "2026-08-23T18:20:33.963925-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "222c0cd295bb8f462bf375925f79ed4e",
@@ -12966,7 +12995,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-23T11:55:29.286950-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "069c7ef63e354c6767b8add724733acf",
@@ -12982,7 +13012,8 @@
     "posted_at": "None",
     "priority": 2,
     "first_seen": "2026-08-23T11:36:23.835475-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "931ff3156d164f0e7c26669b5b7f645a",
@@ -25705,22 +25736,6 @@
     "status": "active"
   },
   {
-    "id": "2ff8b247ac3f5027b470a0ae7c105706",
-    "title": "User Experience Researcher, AI-Augmented Research",
-    "company": "UXR Hunt",
-    "location": "Madison, WI",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450936192",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-08T19:29:12.969604-07:00",
-    "status": "active"
-  },
-  {
     "id": "a99eb1c797f2cca26c81e72c507edc76",
     "title": "Founding Designer",
     "company": "Commod",
@@ -25734,22 +25749,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-08T18:51:53.756068-07:00",
-    "status": "active"
-  },
-  {
-    "id": "c8a09d6221c0423009680b460fabc15a",
-    "title": "Marketing Digital Brand Designer",
-    "company": "Aramark",
-    "location": "Tysons Corner, VA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450596080",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-08T16:47:59.557429-07:00",
     "status": "active"
   },
   {
@@ -25798,22 +25797,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-08T15:01:43.553725-07:00",
-    "status": "active"
-  },
-  {
-    "id": "ecf262ba079b23646a8ac68cdcbe2499",
-    "title": "Product Designer II, Internal Tools",
-    "company": "Rover Parking (Acquired by Spot Hero 2020)",
-    "location": "Chicago, IL",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450902922",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-08T14:42:38.452295-07:00",
     "status": "active"
   },
   {
@@ -25958,22 +25941,6 @@
     "posted_at": "2026-08-06",
     "priority": 4,
     "first_seen": "2026-08-07T20:51:45.012889-07:00",
-    "status": "active"
-  },
-  {
-    "id": "7952ae1bb7bf5f56ffa54a5d8d0df06e",
-    "title": "Motion Designer",
-    "company": "Stash Media Inc.",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4451011476",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-07T20:51:42.608656-07:00",
     "status": "active"
   },
   {
