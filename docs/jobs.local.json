@@ -1,5 +1,39 @@
 [
   {
+    "id": "8ca2ddd8ce45e40faa0a83b30562eea9",
+    "title": "UX Designer",
+    "company": "Talkspace",
+    "location": "New York, NY",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4462525743",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-08T12:19:23.657918-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "0625df447721062162b0788a39535783",
+    "title": "User Interface (UI) Designer",
+    "company": "TopBuild",
+    "location": "Daytona Beach, FL",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4464661543",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-08T12:19:11.830692-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "db2b92802ec46dd63ba8ec8a652ac5e9",
     "title": "UX Designer - (Hybrid - Acton, MA or San Diego, CA)",
     "company": "Insulet Corporation",
@@ -15126,7 +15160,8 @@
     "posted_at": "2026-08-19",
     "priority": 2,
     "first_seen": "2026-08-21T08:21:44.934779-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "40cfcea978e6f46f39bac2ccabed3124",
@@ -15142,7 +15177,8 @@
     "posted_at": "2026-08-19",
     "priority": 4,
     "first_seen": "2026-08-21T08:21:42.776232-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3648d41c2eeb208d7508778f57a46edd",
@@ -15158,7 +15194,8 @@
     "posted_at": "2026-08-20",
     "priority": 4,
     "first_seen": "2026-08-21T08:21:40.799084-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "9553317b5a1f077b22c1ca7cf9da3f97",
@@ -15174,7 +15211,8 @@
     "posted_at": "2026-08-20",
     "priority": 4,
     "first_seen": "2026-08-21T08:21:38.725337-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "5f946af195ca520c4b29ff46bcfc9493",
@@ -15190,7 +15228,8 @@
     "posted_at": "2026-08-20",
     "priority": 4,
     "first_seen": "2026-08-21T08:21:36.641959-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "c92648fde8b674e055216936613b0c9d",
@@ -15206,7 +15245,8 @@
     "posted_at": "2026-08-20",
     "priority": 4,
     "first_seen": "2026-08-21T08:21:34.642254-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0b5ba6503dfe323eb209dc795ab517b0",
@@ -15222,7 +15262,8 @@
     "posted_at": "2026-08-20",
     "priority": 4,
     "first_seen": "2026-08-21T08:21:32.479634-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "159d35eadf790d6498323b0ba3636d57",
@@ -15238,7 +15279,8 @@
     "posted_at": "2026-08-21",
     "priority": 4,
     "first_seen": "2026-08-21T08:21:20.358106-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "a4d0aa925da695cbea9c7fac6c21f55a",
@@ -15387,7 +15429,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-20T12:11:11.438558-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b3acd201019dae3d01ee5b88364f0a08",
@@ -15403,7 +15446,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-20T12:11:09.511781-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d4e1be28171bdacc0778d10c3e2ed25c",
@@ -15419,7 +15463,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-20T11:52:21.720622-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c4c8ae9a7f2938131e35dad3b5b5a990",
