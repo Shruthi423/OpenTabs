@@ -1,282 +1,170 @@
 [
   {
     "item": {
-      "company": "Ground A",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/ground-a-raises-9m-pre-seed-vsquared-quantum-systems-laser-drone-defence/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-08T04:47:09.704660-07:00"
-  },
-  {
-    "item": {
-      "company": "Veridue",
-      "amount": "$4.0M",
-      "stage": "Pre-Seed",
-      "investors": "Episode",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/veridue-raises-4m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-08T04:47:12.624292-07:00"
-  },
-  {
-    "item": {
-      "company": "sci2sci",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": "Berlin",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sci2sci-raises-1-2m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-08T04:47:15.536232-07:00"
-  },
-  {
-    "item": {
-      "company": "ARC",
-      "amount": null,
+      "company": "Tellia",
+      "amount": "$5.0M",
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcExqcU92eUVVZDdERVZGODFUMm42Nm5udG1oRUJRM2JXaWhuOHBCMEd2QUpsNnlOVXlRSG1IbGI2cHdTMkJFSFZkOTQ0U0pUZmxEb2lmaFZhU2tuRHVXbTZBTU42VnNQNWczeXRVSjJmd3hOUi04d2UwSjdVcnJsLVBoQ1h5VnNkT2NmQ2w5UUFnWmhhOUYwcGRVM3FhZ9IBngFBVV95cUxPcExqcU92eUVVZDdERVZGODFUMm42Nm5udG1oRUJRM2JXaWhuOHBCMEd2QUpsNnlOVXlRSG1IbGI2cHdTMkJFSFZkOTQ0U0pUZmxEb2lmaFZhU2tuRHVXbTZBTU42VnNQNWczeXRVSjJmd3hOUi04d2UwSjdVcnJsLVBoQ1h5VnNkT2NmQ2w5UUFnWmhhOUYwcGRVM3FhZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwU2NtTmxIelBSUFJjRU5QWl9YelJYdV9iRmNMclY1MWt0WFQ1R0pLRE5PdnB4VjFmdVhoRG5mNjl0TmpRVk4tdENKdlBaUm5ONEhleG14czh5QWNYa1VXY0E5TWJ3UTU2anEyY3dkZVp1Y2MtaEFEVThaelZCUQ?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-09-08T04:47:18.319639-07:00"
+    "remind_at": "2026-09-08T08:44:24.006821-07:00"
   },
   {
     "item": {
-      "company": "AAA C(H+A)RM",
-      "amount": "$4.0M",
+      "company": "Bluecore Energy",
+      "amount": "$50.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/aaa-c-h-a-rm-raises-4m-seed/",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
       "priority": 9
     },
-    "remind_at": "2026-09-08T04:47:23.931454-07:00"
+    "remind_at": "2026-09-08T08:44:32.013029-07:00"
   },
   {
     "item": {
-      "company": "Dawraty",
-      "amount": "$10.0M",
+      "company": "Lightsage",
+      "amount": "$4.0M",
+      "stage": "Seed",
+      "investors": "Nexus Venture Partners",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/08/lightsage-gets-4m-in-funding-to-help-software-makers-sell-directly-to-autonomous-ai-agents/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-08T08:44:34.883957-07:00"
+  },
+  {
+    "item": {
+      "company": "Sorry Sugar",
+      "amount": "$1.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzNUFVSUlxYVhScjB3RWE0eGpSTG9TTnBidVlPN01zTlMxMHlEVFQzTzFNNDhtZmNadmNXa3I3LTBCUWtwd3hCX2tPT2RWNWNiNGt5RG1yQmRyaUg2RTM3UUtkR21VNUZZWHR1VVo5QlpWeUFFRTk2Yl9MV3o0Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS1o5YmlDcTZ3bXlsM1NzaTV3NWFUTWJ6WHpWQmV6QkFVdWFJSkFYNmZBWXJzQlBRQ3pldTVnVVkzU0paaVBaSHo0Q0t6Ty1CQS1WZF9SWHBvMzVLOU5EQnh3UFlOVjAyOGF0N3NxcUcxRk1mRVg2aEx4ZV9SSWJrNEUtbkZJXzZSYXdaVTNyM3NnNUloNDl5V3VyUXlQSmxaNlJXTjhnU3U1Z0lZZmNVN1huemtMM3JzZTBMWUhaaEJ0eE4tV21iQTZB?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-09-08T04:47:26.911708-07:00"
+    "remind_at": "2026-09-08T08:44:40.189181-07:00"
   },
   {
     "item": {
-      "company": "Hope Care",
-      "amount": null,
-      "stage": "Series A",
-      "investors": "Iberis Capital",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hope-care-raises-6m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-09-08T04:47:32.671970-07:00"
-  },
-  {
-    "item": {
-      "company": "DigitalPaani",
-      "amount": "$2.3M",
-      "stage": "Series A",
-      "investors": "Navam Capital",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/digitalpaani-raises-2-3m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-09-08T04:47:35.586627-07:00"
-  },
-  {
-    "item": {
-      "company": "Pearler",
-      "amount": "$16.0M",
-      "stage": "Series A",
+      "company": "Flamingo",
+      "amount": "$4.5M",
+      "stage": "Seed",
       "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pearler-raises-16m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-09-08T04:47:38.788903-07:00"
-  },
-  {
-    "item": {
-      "company": "Aitane",
-      "amount": null,
-      "stage": "Series A",
-      "investors": "Iidabashi Cross Partners",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/aitane-raises-30m-pre-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-09-08T04:47:41.729830-07:00"
-  },
-  {
-    "item": {
-      "company": "Circolife",
-      "amount": null,
-      "stage": "Series A",
-      "investors": "Bharat Jaisinghani - Entrackr Circolife raises",
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTU5cFdLYUY4OTJsTzY5MEtJM3lCREhOUW9KSmpZRW5oWno3V3d3ZURISFUwZ2p1SWp2VllyYUNDeF84ZzU4WXY0UEI1aXJ5eFRTWHZTc0pYd2pZT0N3a0syZ2duc1pZSkJEZnp1anprMnlYOGFjVWNWRGRIa2ZMVGpBWmdtaDZRQTU0RUIzQi1LdGVVUVYwOXFFYWpRaXh2Q1BERW5QVkl1aXdKWVHSAa4BQVVfeXFMUDE1OXBXS2FGODkybE82OTBLSTN5QkRITlFvSkpqWUVuaFp6N1d3d2VESEhVMGdqdUlqdlZZcmFDQ3hfOGc1OFl2NFBCNWlyeXhUU1h2U3NKWHdqWU9Dd2tLMmdnbnNaWUpCRGZ6dWp6azJ5WDhhY1VjVkRkSGtmTFRqQVpnbWg2UUE1NEVCM0ItS3RlVVFWMDlxRWFqUWl4dkNQREVuUFZJdWl3SllR?oc=5",
-      "priority": 8
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OYkVNU21rMVRleHFmekRGWE8xQzJ3TEM5blVSX3Y3OGJ4SjNwenFxWXZFQTE2N1pUNTNXR2RWN2lLeVFJWXo4M3BsOU4zRDRGbERwcUZxNGMwbUJEamJDdnJCZ0VDVHFJLUl0MmtPWWNtMFpfRko1NGlCMGtjUQ?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-09-08T04:47:44.593840-07:00"
+    "remind_at": "2026-09-08T08:44:43.011148-07:00"
   },
   {
     "item": {
-      "company": "Mistral",
-      "amount": null,
-      "stage": "Series D",
+      "company": "Outline",
+      "amount": "$3.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/mistral-raises-3b-series-d/",
-      "priority": 5
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBd0ZOTERNZ2c0eC1UcVlkZ3Z1SC1kV0hqYlFNQ1RJVDlJVERqTjRoMTZfMEVTaTg0VEUyNEhvMFNuNGNacnFzWHdoQWZXbHB2NFdibU5zVzZxaS1HRHRFWFFNdy14b04tMWZzNnFWM1NiY1pmcjdpR3FB?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-09-08T04:47:47.430911-07:00"
+    "remind_at": "2026-09-08T08:44:45.944007-07:00"
   },
   {
     "item": {
-      "company": "Stoke Space",
-      "amount": "$1.0B",
+      "company": "Blee",
+      "amount": "$20.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": "New York",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/09/08/blee-raises-20m-series-a-to-tackle-the-new-ai-generated-content-compliance-problem/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-08T08:44:48.854603-07:00"
+  },
+  {
+    "item": {
+      "company": "Sapien",
+      "amount": "$180.0M",
       "stage": null,
       "investors": null,
-      "location": "Seattle",
+      "location": null,
       "founders": [],
-      "source": "GeekWire Funding",
-      "url": "https://www.geekwire.com/2026/stoke-space-billion-upsize-nova-rocket/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/08/exclusive-ai-startup-sapien-raises-180m-valuation-companies-find-really-driving-profit-cfo/",
       "priority": 3
     },
-    "remind_at": "2026-09-08T04:47:53.089042-07:00"
+    "remind_at": "2026-09-08T08:44:51.713544-07:00"
   },
   {
     "item": {
-      "company": "GOP's",
-      "amount": null,
+      "company": "NYC",
+      "amount": "$34.0M",
       "stage": null,
-      "investors": null,
-      "location": "Austin",
+      "investors": "Victim Compensation Fund",
+      "location": "New York",
       "founders": [],
       "source": "Axios",
-      "url": "https://www.axios.com/2026/09/08/poll-latino-voters-trump-gains-fade",
+      "url": "https://www.axios.com/2026/09/08/nyc-records-911-air-safety-mamdani",
       "priority": 3
     },
-    "remind_at": "2026-09-08T04:47:55.966136-07:00"
+    "remind_at": "2026-09-08T08:44:54.635852-07:00"
   },
   {
     "item": {
-      "company": "TabaPay",
-      "amount": "$155.0M",
-      "stage": null,
-      "investors": "FTV Capital",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/tabapay-raises-155m-growth-capital/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-08T04:47:58.743252-07:00"
-  },
-  {
-    "item": {
-      "company": "Imprint",
-      "amount": "$2.0B",
+      "company": "ASML",
+      "amount": "$3.5B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/imprint-raises-2b-debt-financing/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/09/08/top-tech-news-today-september-8-2026-asml-google-intel-mistral-openai-xiaomi-more/",
       "priority": 3
     },
-    "remind_at": "2026-09-08T04:48:03.399862-07:00"
+    "remind_at": "2026-09-08T08:44:57.589627-07:00"
   },
   {
     "item": {
-      "company": "Strada",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/strada-secures-strategic-investment/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-08T04:48:06.271439-07:00"
-  },
-  {
-    "item": {
-      "company": "Empirik",
-      "amount": "$21.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY0tNQ2xaRWdqVVNtckVvNVJUdFFwNVUwXzVhVVlSU21hb2FLZ1c4QW1CZG9keml4SWRmRkY0S2pkRFZqZzN1SFRXNGZ5dnVFMUFFRTNGaDR1b2RYdUx5T3ZvenRxcDU0S2NiSDVyeG1wcnVFWWxPeUZGRW50NzlnNlE5S1FuUndxUURaUF85Y3RFM0RVZFE?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-08T04:48:09.205949-07:00"
-  },
-  {
-    "item": {
-      "company": "Omri Casspi",
-      "amount": "$250.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3YjJtaEg5QUVNelU1SHZ1Zlh6eEdTVkJHVE8tRlUwOHlNX2VlaXQ1eFRVaDR0RGFQTWpZemd2RzM1OTQwaEJBMndsQkxVOFF6eERldnp6Mk14Vmw0NUFaN2wzQXAtZmRQOXhF?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-08T04:48:14.901386-07:00"
-  },
-  {
-    "item": {
-      "company": "Abra",
-      "amount": null,
+      "company": "$257.3M Est. ARR",
+      "amount": "$257.3M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTFh1OUpYRFR1VUc4SENSZW1FT2NQRTNqV0hNUHhpSWQ5a0RfTVlNYTVZazhEOGxGRGEtdS1iZTJyV3NmQ3B5cHZ0eGZNZlVrRGF1VDV5NXYyTHlyY2pMd1ZtVVFPMVNLcTkzUmNxOUFseGFDZC03V1h1ajM2Z1BRLURBcnZHZnVpV0o2M3VtcXVJQ1RXcWd4SFNQaGpQd2ltaC0zeTZB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EQmpKRG5TNlpHWkE1aHEwbzNsN2o2Wk41Q1RXQm10SjJRdVBNZ2dCenJIZmxjeHgyX0tCQ2N5V3dReW5FNjF3bDQtenVrQQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-09-08T04:48:18.499775-07:00"
+    "remind_at": "2026-09-08T08:45:02.925927-07:00"
+  },
+  {
+    "item": {
+      "company": "Blee",
+      "amount": "$27.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT3JhVFZxSGthRDd2UFY5N3NBUmNNX01ZQ2p3Q2hneDU3SVV4c1RUVElLZ2FPZXgtTE1VRjU4TnlEWGc5MHI4Y1hmQUJXODVFU1VHZU1nTm1OTlBndXhnbUdBZE92QTBzRDhYVzRvbFJRYW9kRVhKX2FJWllBZGJrQm5jS3dXa3Rwd0tMQjV1b0U?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-08T08:45:05.741011-07:00"
   }
 ]
