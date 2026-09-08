@@ -1,5 +1,22 @@
 [
   {
+    "id": "2b994c576c98d3cd49067880669a92a6",
+    "title": "Product Designer",
+    "company": "Spin Master",
+    "location": "Wilton, CT, US",
+    "salary": "$68,200 \u2013 $90,900 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=d916d1e2dba0edf7",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-07",
+    "priority": 4,
+    "first_seen": "2026-09-08T16:44:05.232304-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "e985b0052d5006175cebfc0594be4eb1",
     "title": "Product Visual Designer",
     "company": "CELLA",
@@ -13,23 +30,6 @@
     "posted_at": "2026-09-07",
     "priority": 4,
     "first_seen": "2026-09-08T16:24:10.721744-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "74e74b163c977b48755ac0f4849e0d18",
-    "title": "Web Designer/Enhancement Specialist: Springfield, VA or St Louis, MO",
-    "company": "BAE Systems USA",
-    "location": "Springfield, VA, US",
-    "salary": "$79,365 \u2013 $134,921 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=dcf05520ed3ca55a",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-09-07",
-    "priority": 4,
-    "first_seen": "2026-09-08T16:24:08.961561-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -17693,7 +17693,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-19T09:52:28.710718-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2b5baf74e3fbb9356d19b435c029281a",
@@ -17743,7 +17744,8 @@
     "posted_at": "2026-08-17",
     "priority": 3,
     "first_seen": "2026-08-19T03:13:12.325639-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "95725652244652adc9702c30ef249a72",
@@ -17776,7 +17778,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-19T03:06:01.703159-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "a162da1e23aac9f2ecdd9d2db4cd928e",
@@ -17877,7 +17880,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-19T02:53:40.400123-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "cfd8db5755d27a9d831797fd249854d3",
@@ -17893,7 +17897,8 @@
     "posted_at": "2026-08-17",
     "priority": 3,
     "first_seen": "2026-08-19T02:37:03.313881-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "90c95c9e067a6da6348a28a4ca0bb6a3",
@@ -17909,7 +17914,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-19T02:37:01.331192-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b244eb8ac0042a501029cd949bcc4081",
@@ -18122,7 +18128,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T18:35:32.698338-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "9994c395c29d032884762d4f6bdc3647",
@@ -18138,7 +18145,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T18:35:30.411158-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "25dbce34965344470e324cf38b8efae9",
@@ -18154,7 +18162,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T18:35:28.238829-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "869b0004e5a2f998a29c40c3e3438a14",
@@ -18202,7 +18211,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-18T18:35:21.099863-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7ac76566178653fc16c0f75c3f3a8a44",
@@ -18218,7 +18228,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T15:56:22.040826-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "66b9604f170de08877086a01f221febc",
@@ -20509,22 +20520,6 @@
     "status": "active"
   },
   {
-    "id": "d2ca02cedb59c1b051bcb673a82cef73",
-    "title": "Product designer",
-    "company": "Transition Ventures",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453920030",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-15T13:54:10.054025-07:00",
-    "status": "active"
-  },
-  {
     "id": "8eda48e6be70be331b27171bb6d58228",
     "title": "Product Designer",
     "company": "Luma",
@@ -20861,22 +20856,6 @@
     "status": "active"
   },
   {
-    "id": "a8bf1ace9be188611377683fe925d000",
-    "title": "Design Systems, Product Designer",
-    "company": "Gusto",
-    "location": "Denver, CO",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454594826",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-14T16:16:09.470063-07:00",
-    "status": "active"
-  },
-  {
     "id": "3339bea722844142dc3c0e83efd1416e",
     "title": "Product Designer, Identity",
     "company": "OpenAI",
@@ -20922,22 +20901,6 @@
     "posted_at": "2026-08-13",
     "priority": 4,
     "first_seen": "2026-08-14T15:56:52.942759-07:00",
-    "status": "active"
-  },
-  {
-    "id": "b756b7731a785afba3555aeaf9602e50",
-    "title": "Product designer",
-    "company": "Transition Ventures",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453737151",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-14T15:56:50.943958-07:00",
     "status": "active"
   },
   {
@@ -21098,22 +21061,6 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-14T14:16:53.581305-07:00",
-    "status": "active"
-  },
-  {
-    "id": "92d1429e276238d27b37dafafda9ad66",
-    "title": "Design Systems, Product Designer",
-    "company": "Gusto",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454585885",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-14T14:16:51.605664-07:00",
     "status": "active"
   },
   {
