@@ -1,5 +1,22 @@
 [
   {
+    "id": "bbeaf727b52ec9c007f8b1f76a28d4b7",
+    "title": "Product Designer",
+    "company": "Boom",
+    "location": "Austin, TX",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4462550286",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-08T15:24:59.654973-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "ce96071b9d30002fa68baffa6d900d30",
     "title": "User Researcher, Patient Experience",
     "company": "Gifthealth",
@@ -16741,7 +16758,8 @@
     "posted_at": "2026-08-18",
     "priority": 3,
     "first_seen": "2026-08-19T14:51:11.018674-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f955587eb73843ce03fe6006ea546a71",
@@ -16842,7 +16860,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-08-19T13:50:07.494918-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7d981351d51ff92cdb64efeede2bac95",
@@ -16858,7 +16877,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-08-19T13:50:05.638556-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b9c084ce1ff689be3c683bdf34c00ad6",
@@ -17139,7 +17159,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-19T10:12:08.203461-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "3b79053e052337a30df0fcdd805b4832",
@@ -17171,7 +17192,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-19T10:12:03.972406-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5603b09b67bebe9b02d0b7b30a3078dc",
@@ -17187,7 +17209,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-19T10:11:59.998562-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "1854825eeb52eea6f8b333543c2a435e",
@@ -17203,7 +17226,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-19T10:11:57.832070-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5348190b3e6fd1c18101b72aeb9611ff",
@@ -17219,7 +17243,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-19T10:11:55.723909-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "99450fe8ff721e3bfe5f07c9897a0ec7",
@@ -17267,7 +17292,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-19T09:53:13.150003-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ff3e43906d1bbeed1440de1cdd254d13",
