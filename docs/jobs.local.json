@@ -1,5 +1,22 @@
 [
   {
+    "id": "b97eae1b2f5226b30f0623d086604081",
+    "title": "Product Designer",
+    "company": "Mario Cucinella Architects",
+    "location": "Alliance, OH",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4462258135",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-07T20:28:44.756655-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "eb49648793dac5ce4130c0cd264a70be",
     "title": "Product Designer",
     "company": "Synectics Inc.",
@@ -13392,7 +13409,8 @@
     "posted_at": "2026-08-20",
     "priority": 4,
     "first_seen": "2026-08-22T09:30:24.096439-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "74241c9627135770b2fe401b4826c35b",
@@ -13425,7 +13443,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-22T09:30:19.759481-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f85347bf05673dce098e8b49a272d4c9",
@@ -13755,7 +13774,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-21T18:52:50.238593-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "3552cfb259fba77dd2a0dc5740102943",
@@ -13771,7 +13791,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-21T18:52:48.224641-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8e9168f658f0216fd6f7d0cf1fc08167",
@@ -13787,7 +13808,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-21T18:52:46.382792-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f37d588f40b4106eea6e4b9d1da32ebb",
@@ -13803,7 +13825,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-21T18:16:15.327104-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "62b808f974723f0056e63bddede27cb9",
@@ -13835,7 +13858,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-21T18:16:08.843823-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "0f15aee4351288c9a99c337477d5fe9b",
