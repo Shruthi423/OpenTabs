@@ -1,5 +1,90 @@
 [
   {
+    "id": "ea3fc69b44a8a2478e41a23c21be54c6",
+    "title": "UI/UX Developer/Architect/Design Engineer",
+    "company": "VIVA",
+    "location": "Des Moines, IA, US",
+    "salary": "$69 \u2013 $74 / hourly",
+    "url": "https://www.indeed.com/viewjob?jk=3aa6071d0be3602c",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-07",
+    "priority": 4,
+    "first_seen": "2026-09-08T12:59:06.083346-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "b8ce6e5a48fe4611a8a03ba6da64983d",
+    "title": "UI/UX Developer",
+    "company": "VT Group (VTG)",
+    "location": "Chantilly, VA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463517844",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-08T12:59:04.219311-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "50c36e23d83a5769ebf68a9c29dfb068",
+    "title": "Engineer - Taylor Mill KY",
+    "company": "Progress Rail",
+    "location": "Taylor Mill, KY, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=e37506195f27ff0b",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-07",
+    "priority": 4,
+    "first_seen": "2026-09-08T12:59:02.217254-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "d0b4af1d52916f5630e2f5b95f72caab",
+    "title": "UI/UX Designer",
+    "company": "nan",
+    "location": "Austin, TX, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=d29237e43fb3bbc4",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-07",
+    "priority": 4,
+    "first_seen": "2026-09-08T12:59:00.245554-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "cb2434a3f6fe875de0dc2e52aed9b2e6",
+    "title": "Product Designer, Consumer Web",
+    "company": "Mindbody",
+    "location": "Remote, US",
+    "salary": "$95,000 \u2013 $115,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=f4942c267a41db44",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-07",
+    "priority": 4,
+    "first_seen": "2026-09-08T12:58:58.488473-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "551bb24a5437573f66e6d23f84ad3f15",
     "title": "Product Designer",
     "company": "nVent",
@@ -15500,7 +15585,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-20T11:52:05.633406-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0ce333ca03a9fd53046f19bec58ffea5",
@@ -15516,7 +15602,8 @@
     "posted_at": "2026-08-19",
     "priority": 4,
     "first_seen": "2026-08-20T11:52:03.795263-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "507b93e4440345df1977c28075478b64",
@@ -15532,7 +15619,8 @@
     "posted_at": "2026-08-19",
     "priority": 4,
     "first_seen": "2026-08-20T11:52:01.998169-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "c92ef7e07e3e8ca5c4e3e6ccbdca92e3",
@@ -15548,7 +15636,8 @@
     "posted_at": "2026-08-20",
     "priority": 4,
     "first_seen": "2026-08-20T11:13:04.359918-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "e36b6be7399ac4a43087f59a0fff043e",
@@ -15564,7 +15653,8 @@
     "posted_at": "2026-08-19",
     "priority": 4,
     "first_seen": "2026-08-20T11:13:02.352437-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3714a4ca7035505ec3459c21b8c3cab2",
@@ -15580,7 +15670,8 @@
     "posted_at": "2026-08-19",
     "priority": 4,
     "first_seen": "2026-08-20T11:13:00.398906-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "09a4753d5419452569e808a470291d4e",
@@ -15796,7 +15887,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-20T10:29:05.991412-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f87dabb25cd723d081121dea0eabc943",
@@ -15812,7 +15904,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-20T10:29:03.862327-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "06b5a27fee68e3745d52c324db75d464",
@@ -15860,7 +15953,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-20T10:09:39.443235-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b84cf49bf8408f6be01533e0a8e53aa9",
@@ -15876,7 +15970,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-20T10:09:37.422943-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c23c3487cffe8c777fa05c7cfd134b8c",
@@ -15892,7 +15987,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-20T10:09:35.413123-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8b9748207b1f88721b1b0cdd5a6a305a",
@@ -15908,7 +16004,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-20T10:09:33.269525-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "443becd8fe7ecb299cbce5efa4ee232e",
