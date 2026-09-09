@@ -1,22 +1,5 @@
 [
   {
-    "id": "bbeadf9656adccb9b8df721961cb5d1c",
-    "title": "Automation Technologist",
-    "company": "Baxter",
-    "location": "Round Lake, IL, US",
-    "salary": "$76,000 \u2013 $104,500 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=b6267e7be3eee054",
-    "source": "Indeed",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-09-08",
-    "priority": 4,
-    "first_seen": "2026-09-09T14:08:38.911070-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "e2e98a6e6dbccc31bc264045b599f911",
     "title": "Product Designer",
     "company": "Orchard",
@@ -21858,7 +21841,8 @@
     "posted_at": "2026-08-10",
     "priority": 4,
     "first_seen": "2026-08-11T15:20:04.848046-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "dc530e003e46c1dc2af96b74fa8edb81",
@@ -21874,7 +21858,8 @@
     "posted_at": "2026-08-10",
     "priority": 4,
     "first_seen": "2026-08-11T15:20:02.785261-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0f9e54acd914cdafc792c396a8d41db4",
@@ -21890,7 +21875,8 @@
     "posted_at": "2026-08-10",
     "priority": 1,
     "first_seen": "2026-08-11T15:00:57.854080-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "963a120324db52c4e1e7c7d6c917d330",
@@ -21906,7 +21892,8 @@
     "posted_at": "2026-08-11",
     "priority": 4,
     "first_seen": "2026-08-11T15:00:55.886269-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3200fb87960c4cf3b8098d6bb2b7b284",
@@ -21922,7 +21909,8 @@
     "posted_at": "2026-08-10",
     "priority": 4,
     "first_seen": "2026-08-11T14:41:43.448424-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "a539c3bd6f775b1626cd96ff49790c31",
@@ -21972,7 +21960,8 @@
     "posted_at": "2026-08-10",
     "priority": 1,
     "first_seen": "2026-08-11T14:22:44.859443-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "9fe68b4779a1891b27cba63468691f5c",
@@ -22174,7 +22163,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-11T12:27:05.991896-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "0c004bf1e7279d3590ac97664c16dfc9",
@@ -22190,7 +22180,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-11T12:27:04.149152-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5482c012f0a7349d4fe898a85749ae67",
@@ -22206,7 +22197,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-11T12:27:02.080536-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "62b543f7ea589de1641d181908985b58",
@@ -22222,7 +22214,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-11T12:26:56.503221-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d42feee5f5a141037b7131da943b9966",
@@ -22254,7 +22247,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-11T12:05:14.420717-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "97f835c43c1a54c55fb42a38234af02d",
@@ -22270,7 +22264,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-11T12:05:11.304786-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "6bc810152d9eb4bee1d5af7ba43a1883",
@@ -22302,7 +22297,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-11T12:05:07.476666-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "66af8b5323b1ec311475b0bc3cb308e9",
@@ -22318,7 +22314,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-11T12:05:03.434020-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "9852c45bc31e4eda4b87389d18d259f6",
@@ -22366,7 +22363,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-11T12:04:56.267072-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "fc6385f23e213f70b4b7c29880c196d3",
