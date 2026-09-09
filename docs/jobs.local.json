@@ -1,5 +1,22 @@
 [
   {
+    "id": "f4b758e1852d14d8991f38d0f05eb770",
+    "title": "Embedded UI Engineer",
+    "company": "Connecting Odds",
+    "location": "San Mateo, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463805414",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 2,
+    "first_seen": "2026-09-09T00:15:52.559893-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "e766e1f4849e1f10acd68b3f02aa762b",
     "title": "Embedded UI Engineer",
     "company": "Verkada",
@@ -10302,23 +10319,6 @@
     "jd": "yes"
   },
   {
-    "id": "c26f26dcbdb58ac5b3ce79bc656475e7",
-    "title": "UX Researcher - Human Factors",
-    "company": "UXR Hunt",
-    "location": "Mountain View, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4458632336",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-27T10:09:33.489888-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "b280a9da7dd06f8d726754e938451568",
     "title": "Product Designer (Temp)",
     "company": "Magenta Inc.",
@@ -10489,23 +10489,6 @@
     "jd": "yes"
   },
   {
-    "id": "571c1730f9162f3d920fe5a5612f7ca8",
-    "title": "Engineer Product Design",
-    "company": "WIDIA",
-    "location": "Latrobe, PA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4458338792",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-27T09:24:53.994156-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "0ce037e69460d7594485d511b090df2a",
     "title": "Product Designer",
     "company": "Baseten",
@@ -10604,23 +10587,6 @@
     "posted_at": "2026-08-25",
     "priority": 4,
     "first_seen": "2026-08-26T21:41:45.126102-07:00",
-    "status": "active",
-    "jd": "no"
-  },
-  {
-    "id": "13cdc775ac1a6fe638e646bd90b77bd8",
-    "title": "Brand Designer & Creative Strategist",
-    "company": "Perot Museum of Nature and Science",
-    "location": "Dallas, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4459655432",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-26T20:32:06.153970-07:00",
     "status": "active",
     "jd": "no"
   },
@@ -10893,57 +10859,6 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-26T19:14:07.102573-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "fe23df2955d6ecdf9c896a5d3c85554b",
-    "title": "Connector Product Design Engineer",
-    "company": "Mentis Group",
-    "location": "New Albany, IN",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4459399739",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-26T18:55:05.885858-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "390b225932114308d13ed621f8993b41",
-    "title": "Engineer Product Design",
-    "company": "Kennametal",
-    "location": "Latrobe, PA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4457718361",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-26T18:55:04.010982-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "fd8fa21765469bd04ac98833bae18bc1",
-    "title": "UI / UX Designer - Insurance Company",
-    "company": "Creative Circle",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4457714332",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-26T18:55:02.230669-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -19784,7 +19699,8 @@
     "posted_at": "2026-08-12",
     "priority": 4,
     "first_seen": "2026-08-13T16:52:07.138124-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f37750ef0b40153ac9241fb9f9d58c02",
@@ -19800,7 +19716,8 @@
     "posted_at": "2026-08-12",
     "priority": 2,
     "first_seen": "2026-08-13T16:33:14.539373-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "16173ceb7b65bfe6272a3f77e4493fda",
@@ -19816,7 +19733,8 @@
     "posted_at": "2026-08-02",
     "priority": 3,
     "first_seen": "2026-08-13T16:13:35.372747-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "22282f87146cab08425c813d65b7c8e9",
@@ -19866,7 +19784,8 @@
     "posted_at": "2026-08-12",
     "priority": 4,
     "first_seen": "2026-08-13T14:39:10.774181-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b4ef2c026bf4bc08c27bcd952b56fae9",
@@ -20066,7 +19985,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-13T12:24:10.791568-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "9c2cc85e72aba9e7b0737d538cf964d5",
@@ -20082,7 +20002,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-13T12:24:08.717407-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "9d7bd724cd630816a6a946347fde7955",
@@ -20114,7 +20035,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-13T11:06:14.754175-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "301b26e6dce250f4574c3f919edc99a0",
@@ -20130,7 +20052,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-13T11:06:12.797669-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8f854065536e1429e2c81f217266907b",
@@ -20162,7 +20085,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-13T10:46:59.010430-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "fe5dc07908e9264df107a36e4a41743d",
@@ -20178,7 +20102,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-13T10:46:52.973047-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "34b2aa689cf7bdbc642c040c34e1e1cb",
@@ -20194,7 +20119,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-13T10:46:50.815721-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f84026d06d086bc7dba8bef2b044cf40",
@@ -20210,7 +20136,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-13T10:46:48.789136-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "07b473ae71c0f15752bc975c53cd3ad1",
@@ -20258,7 +20185,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-13T10:27:28.982716-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a6dd26d9c96a9424a829fbb79658a349",
