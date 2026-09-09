@@ -1,5 +1,39 @@
 [
   {
+    "id": "2a96d4bbf5c8ffa1dc04c0fb0c69fd9a",
+    "title": "Product Designer II, Agent Experience",
+    "company": "Bestow",
+    "location": "Dallas, TX, US",
+    "salary": "$108,000 \u2013 $125,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=147268a6cdc48e87",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-08",
+    "priority": 4,
+    "first_seen": "2026-09-09T15:27:12.541884-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "8108960b5942d1b6fe20a4dc223d1851",
+    "title": "Product Designer, Partnerships and Brand Experience",
+    "company": "Thumbtack",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463090294",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 1,
+    "first_seen": "2026-09-09T15:27:10.779719-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "48993be8f78f2cf9c3d5bdbc72a7664e",
     "title": "Associate Product Designer",
     "company": "nan",
@@ -2941,23 +2975,6 @@
     "jd": "yes"
   },
   {
-    "id": "80084d08f2d7b474c6ac042a1ab899d4",
-    "title": "Brand Designer, Creative Studio",
-    "company": "Intermedia Lab",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4461137246",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-09-04T12:05:57.805036-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "adfb0aa01cbc93a30079be66546628fe",
     "title": "Product Designer",
     "company": "YouVersion",
@@ -3060,57 +3077,6 @@
     "jd": "yes"
   },
   {
-    "id": "5c46f9e6b964aa2bc2e9ad77c89a0a53",
-    "title": "UX Researcher",
-    "company": "Galent",
-    "location": "San Jose, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4461187318",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 2,
-    "first_seen": "2026-09-04T11:26:15.004805-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "7c52a95b0c6bad42d0510bdf80b5f839",
-    "title": "User Experience Researcher",
-    "company": "Cisco",
-    "location": "San Jose, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4463381678",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 2,
-    "first_seen": "2026-09-04T11:26:12.840655-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "22647e09329652696911362047e65ef5",
-    "title": "User Researcher",
-    "company": "Infotree Global Solutions",
-    "location": "Sunnyvale, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4461987477",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 2,
-    "first_seen": "2026-09-04T11:25:59.983477-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "1baa7ee45c61e6256ec6f589370764a6",
     "title": "Product Designer, Payments",
     "company": "Whatnot",
@@ -3158,23 +3124,6 @@
     "posted_at": "2026-09-03",
     "priority": 4,
     "first_seen": "2026-09-04T11:25:44.179847-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "a495c0e0ac32d3670144cd6217abfb58",
-    "title": "Designer, Digital UX & Design (Seattle, WA)",
-    "company": "Starbucks",
-    "location": "Seattle, WA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4462300120",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-09-04T11:25:42.280569-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -3566,23 +3515,6 @@
     "posted_at": "2026-08-09",
     "priority": 4,
     "first_seen": "2026-09-03T16:48:15.589250-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "b00c265f66477c53c3a89f2e1b4de779",
-    "title": "Founding Product Designer",
-    "company": "Change Order",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4460763843",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-09-03T16:48:03.841929-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -22419,7 +22351,8 @@
     "posted_at": "2026-08-10",
     "priority": 1,
     "first_seen": "2026-08-11T12:04:54.262800-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "36488171ca41c307b7f0c38b49238da9",
@@ -22469,7 +22402,8 @@
     "posted_at": "2026-08-09",
     "priority": 4,
     "first_seen": "2026-08-11T12:04:45.119307-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f520f2e67a89d91b0f8f8d9f07ca4b6c",
@@ -22502,7 +22436,8 @@
     "posted_at": "2026-08-10",
     "priority": 1,
     "first_seen": "2026-08-11T12:04:38.795284-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "51d706a510bc0f86fbc2d3a55cf0149d",
@@ -22535,7 +22470,8 @@
     "posted_at": "2026-08-09",
     "priority": 3,
     "first_seen": "2026-08-10T21:27:01.090791-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3f6c3b749765f0f1208f941c41a7becd",
@@ -22568,7 +22504,8 @@
     "posted_at": "2026-08-09",
     "priority": 4,
     "first_seen": "2026-08-10T21:08:07.316674-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "a0fc9e8b1f76ab993641b69728b60484",
@@ -22601,7 +22538,8 @@
     "posted_at": "2026-08-09",
     "priority": 4,
     "first_seen": "2026-08-10T18:49:11.634971-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b9a1e414babd61bf34bc9725d20f53cb",
@@ -22617,7 +22555,8 @@
     "posted_at": "2026-08-09",
     "priority": 4,
     "first_seen": "2026-08-10T18:30:24.043429-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "496f889dfa4a92d450011790fa6f5964",
@@ -22633,7 +22572,8 @@
     "posted_at": "2026-08-09",
     "priority": 4,
     "first_seen": "2026-08-10T18:30:22.173136-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "917b84a19393c31755bb82fe89f4401f",
@@ -22649,7 +22589,8 @@
     "posted_at": "2026-08-09",
     "priority": 4,
     "first_seen": "2026-08-10T17:52:32.756767-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3e606479bc4c4b85fdca030d8dc13b0c",
@@ -22781,7 +22722,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-10T14:34:45.356608-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "cd043749825f122217e6cbaab88dda6d",
@@ -22845,7 +22787,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-10T13:56:44.546131-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "829a338ca2802a0addc6b971a2b9e2b6",
@@ -22861,7 +22804,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-10T13:56:42.750401-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "77be3d72f6a61521d18044ef496af356",
@@ -22877,7 +22821,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-10T13:37:52.810385-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d3d6c5d05a35e4144a21f211f8d41914",
@@ -22893,7 +22838,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-10T13:37:50.841987-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "34bddc45759681af90c853032ac1674f",
