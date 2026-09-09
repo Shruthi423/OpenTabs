@@ -56043,5 +56043,164 @@
     "roles": [],
     "first_seen": "2026-09-09T04:54:36.825945-07:00",
     "status": "active"
+  },
+  "b9067adeb7a0ed490c96a2ce88273702": {
+    "id": "b9067adeb7a0ed490c96a2ce88273702",
+    "company": "Euno",
+    "amount": "$23.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/09/euno-raises-23m-to-build-the-ai-native-context-brain-for-autonomous-agents/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-09T08:46:23.225154-07:00",
+    "status": "active"
+  },
+  "087f915dd7f43f98fc04d56174ea41ae": {
+    "id": "087f915dd7f43f98fc04d56174ea41ae",
+    "company": "Cymphony",
+    "amount": "$25.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHS2ZYUDN3cWFXRHQxaVVrUVVfWDVocjRsNE5zVGE2aHRUVUJ5T3kyN0NxV2M4U0o0WXVYSTNNR1dOcWo2QTgwS2N4bTJKVEJPUVdBQXFSSS1OMUVNeHBoZTZkLVBUZ0RtNGc?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-09T08:46:26.144796-07:00",
+    "status": "active"
+  },
+  "9741d5926fc42a2cff42a1dad03a2d0b": {
+    "id": "9741d5926fc42a2cff42a1dad03a2d0b",
+    "company": "Carrum Mobility",
+    "amount": "$10.0M",
+    "stage": "Series B",
+    "investors": "Uber, Nearly Doubles Business Since January&nbsp",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVzJjNzliMDBwQlVSX3hXckRNNm5UcnFteW1OZDZad0ExT184dkNOREdxMTZhbVNGUVdTTEN5UVZDYTI5YWdHc2Z2R05IUmpzbGdrb3FGRm5FejB1RWk1MmVuMWh5VEdYanphbkx2VEFRel9KdTRScWFUU01ieGVEa29wdXE1MVVqeHJQNDNRSzVTZXRvcGlheENsaUlYM1dCRUJpRDd2dFJvc1pBN3dMbFF5bnRDVHJLLXc0YzlvMHlaWmhZTHloeHZQcGRoOUZEVmsyeC1R?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-09T08:46:32.058521-07:00",
+    "status": "active"
+  },
+  "955691f0a3a19853b114b8b96dec92dd": {
+    "id": "955691f0a3a19853b114b8b96dec92dd",
+    "company": "Canada",
+    "amount": "$20.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/09/us-canada-trade-war-alcohol-dairy-motorcycle-ban/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-09T08:46:35.015041-07:00",
+    "status": "active"
+  },
+  "6176d87b0832866246bce50dee657030": {
+    "id": "6176d87b0832866246bce50dee657030",
+    "company": "Labs",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/09/09/openai-artificial-general-intelligence-safety",
+    "priority": 3,
+    "founders": [
+      "Jensen Huang"
+    ],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-09-09T08:46:36.628889-07:00",
+    "status": "active"
+  },
+  "b43cfa707b6c1b487baee5eca5b515a0": {
+    "id": "b43cfa707b6c1b487baee5eca5b515a0",
+    "company": "Ramp",
+    "amount": "$1.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/ramp-eyes-1b-series-g-at-60b-valuation-just-three-months-after-hitting-44b/",
+    "priority": 3,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/ramp/eca54d0e-232a-4c3e-bfcc-d6c6add393f5",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-09-09T08:46:39.849170-07:00",
+    "status": "active"
+  },
+  "e7a7ae9a79fb92c013335626d21216b4": {
+    "id": "e7a7ae9a79fb92c013335626d21216b4",
+    "company": "Harvey",
+    "amount": "$550.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/09/09/legal-ai-startup-harvey-raises-550m-at-15-6b-valuation-as-revenue-tops-400m/",
+    "priority": 3,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Product Designer, Design Systems",
+        "url": "https://jobs.ashbyhq.com/harvey/7af73358-0a99-4d3a-8fde-b0f735045613",
+        "location": "Remote"
+      },
+      {
+        "title": "Product Designer, Design Systems",
+        "url": "https://jobs.ashbyhq.com/harvey/4cea74f1-7c08-4a9c-884f-796903aa77ed",
+        "location": "Remote"
+      },
+      {
+        "title": "Product Designer, Design Systems",
+        "url": "https://jobs.ashbyhq.com/harvey/6541a2da-ab46-467b-8aaa-289a6a1d087b",
+        "location": "New York"
+      }
+    ],
+    "first_seen": "2026-09-09T08:46:43.065841-07:00",
+    "status": "active"
+  },
+  "09a3e9f358fe0388a1194ac1957b7b35": {
+    "id": "09a3e9f358fe0388a1194ac1957b7b35",
+    "company": "Clay",
+    "amount": "$115.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTUFZbkl2OElXUy0xdnpYdnZCY3dMNDlwd0pGMUd0anBrd0VZYzJIQjd5SEk1UWRCY0d4QkYxbVU2aTM3dVozRkhPdzJzb2ZvLVZuVUtuSEY1bFBYZU1sNXhHMlgxSEttV0gzZXRqNzREWndySGVVOUVXd0poM3FSaU5SOA?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-09-09T08:46:46.134792-07:00",
+    "status": "active"
+  },
+  "48d097d050d1c10c50cf3f1ba0f60379": {
+    "id": "48d097d050d1c10c50cf3f1ba0f60379",
+    "company": "Cymphony",
+    "amount": "$30.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTHZ4eXRycm8teGF3LVFudWRmU19wVmJyeS1FZnEzU2p5cVJrOEdpa1NVLS1YdFJlUUF1Yi1nOGxVNFB6cFJGUjhqbzhlYTBIcHZyRm1SSlE2d2YwZXlNa0NFX1VuODdKbTh3Z2RUb3gybnZzdmxlbzhkcG5wcEpraEtUNmlvVWVhS0hZR0lacGhVWmJ6eXJ3Qm5Gd2tLbFJHUkhRM0I5Nkxmb3VzcnozUVZoYzcyZ2tRYVlnNktxak00UV9fUmxHcVZ1WGFuOWFFMzJ1eTNkSllsQW5SajlBTlZVNndrYWpQTTJ2bU5xcS1CSGd2anVkVTduTmpoZw?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-09T08:46:49.068982-07:00",
+    "status": "active"
   }
 }
