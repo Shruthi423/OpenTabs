@@ -1,5 +1,22 @@
 [
   {
+    "id": "fd1fa21c26d1a5c988aa5e97fa507637",
+    "title": "UI Design Associate",
+    "company": "Kyndryl",
+    "location": "Dallas, TX, US",
+    "salary": "$63,360 \u2013 $137,040 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=145366026443093f",
+    "source": "Indeed",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-07",
+    "priority": 4,
+    "first_seen": "2026-09-08T20:46:40.973023-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "c0f64078cf84e03400e7cd53086c6b81",
     "title": "Quantitative UX Researcher",
     "company": "Gusto",
@@ -14178,23 +14195,6 @@
     "jd": "yes"
   },
   {
-    "id": "c1f0bcfa2817e8ee70f194851c4b0661",
-    "title": "User Researcher",
-    "company": "UXR Hunt",
-    "location": "Austin, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4456806470",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-23T11:17:11.616143-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "142185a190e67b15a78c3f9a251c90ce",
     "title": "AI Native Product Designer - Products",
     "company": "Accenture",
@@ -14210,23 +14210,6 @@
     "first_seen": "2026-08-22T20:31:48.783567-07:00",
     "status": "active",
     "jd": "yes"
-  },
-  {
-    "id": "5c28e8498cb895a47586e172a41d6b66",
-    "title": "Product Designer (UI/UX)",
-    "company": "Blindly",
-    "location": "California, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4456800695",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-22T20:31:46.904115-07:00",
-    "status": "active",
-    "jd": "no"
   },
   {
     "id": "a288d77c176bbbaf2eee4b2b1e489f63",
@@ -14246,23 +14229,6 @@
     "jd": "yes"
   },
   {
-    "id": "e97c2e80522968d5f73d985b63464c12",
-    "title": "Product Designer",
-    "company": "Reva",
-    "location": "Lake County, IN",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4457873078",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-22T19:54:04.575842-07:00",
-    "status": "active",
-    "jd": "no"
-  },
-  {
     "id": "52b71feb19c511f14f6b4e170b28b6a5",
     "title": "ITECH-FM User Interface / User Experience Specialist",
     "company": "GLOBAL C2 INTEGRATION TECHNOLOGIES",
@@ -14278,74 +14244,6 @@
     "first_seen": "2026-08-22T18:57:55.501481-07:00",
     "status": "active",
     "jd": "yes"
-  },
-  {
-    "id": "b3d2259cc5578bf9671ba379f231a0a7",
-    "title": "Product Designer",
-    "company": "Los Angeles Dodgers",
-    "location": "Los Angeles, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4456680099",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-22T18:38:45.277715-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "201300c81596c6228df194cfd2699144",
-    "title": "Junior Product Designer",
-    "company": "Los Angeles Dodgers",
-    "location": "Los Angeles, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4456679609",
-    "source": "Linkedin",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-22T18:19:52.913081-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "d043ca60565a7c1a442b1475b927041d",
-    "title": "Junior Mobile Game UI/UX Designer",
-    "company": "Counterspell Games Studio",
-    "location": "Los Angeles, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4456689045",
-    "source": "Linkedin",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-22T14:47:44.815361-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "2a0450158f2e6227ff9be33bb2a3ce11",
-    "title": "Motion Designer (Expressive Motion)",
-    "company": "TEKsystems",
-    "location": "Menlo Park, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4457816472",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-22T14:08:47.089508-07:00",
-    "status": "active",
-    "jd": "no"
   },
   {
     "id": "3d204374493b113d31795f7b9a5a9e63",
@@ -14395,23 +14293,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-22T11:37:14.768409-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "e67b03a02a567010c99ef998da1c1f38",
-    "title": "Content Designer /UX/UI Designer I: 26-02477",
-    "company": "Akraya, Inc.",
-    "location": "Oakland, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4457517467",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-22T10:59:26.185798-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -14516,23 +14397,6 @@
     "first_seen": "2026-08-22T09:30:21.876672-07:00",
     "status": "active",
     "jd": "yes"
-  },
-  {
-    "id": "9976ad9f88a978547cf90c627dd9b5d3",
-    "title": "UX Designer (III) [AQ-14424]",
-    "company": "Aquent",
-    "location": "Mountain View, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455034418",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-22T09:30:19.759481-07:00",
-    "status": "active",
-    "jd": "no"
   },
   {
     "id": "f85347bf05673dce098e8b49a272d4c9",
@@ -18951,7 +18815,8 @@
     "posted_at": "2026-08-16",
     "priority": 4,
     "first_seen": "2026-08-17T11:46:12.650212-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0e9f045425c25b7352fcc9836128e879",
@@ -18967,7 +18832,8 @@
     "posted_at": "2026-08-16",
     "priority": 4,
     "first_seen": "2026-08-17T11:28:24.507839-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ff44bbea3e432f9f9df5e62084234b36",
@@ -19000,7 +18866,8 @@
     "posted_at": "2026-08-16",
     "priority": 4,
     "first_seen": "2026-08-17T11:28:18.398589-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2413803bf47ff8c0eb041035a2d4e6f8",
@@ -19016,7 +18883,8 @@
     "posted_at": "2026-06-23",
     "priority": 4,
     "first_seen": "2026-08-17T11:09:48.656375-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "486f53d1dec5103de2b4f20de56a2a1a",
@@ -19032,7 +18900,8 @@
     "posted_at": "2026-08-16",
     "priority": 3,
     "first_seen": "2026-08-17T11:09:46.647962-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "09d40477189bf82c3f021bd372f87eae",
@@ -19048,7 +18917,8 @@
     "posted_at": "2026-08-16",
     "priority": 4,
     "first_seen": "2026-08-17T11:09:44.594284-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "9dfb07fb59a32f21e721ac1b352830ed",
@@ -19064,7 +18934,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-17T11:09:42.618445-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b0a47ec5fea4ff178e456851f26c922e",
@@ -19295,7 +19166,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-15T18:14:13.981297-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "67236cc57bdc2ce291513ebb77f34314",
@@ -19311,7 +19183,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-15T18:14:12.144678-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5e614f51f55b1da83b1b902b321c58cb",
@@ -19327,7 +19200,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-15T15:22:35.735783-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "13566ac8ddadd522e0f333652ab98e7c",
@@ -19343,7 +19217,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-15T15:10:32.056132-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "e27474c8c27edc4861b93dc1e1b1fee4",
@@ -19359,7 +19234,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-15T14:10:53.519444-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8eda48e6be70be331b27171bb6d58228",
@@ -19375,7 +19251,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-15T13:09:31.095744-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "250125c44e5e78984b5f3a4b0edc4469",
