@@ -20651,7 +20651,8 @@
     "posted_at": "2026-08-12",
     "priority": 4,
     "first_seen": "2026-08-12T13:23:54.917375-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "e1edcc46a6fc91c2db82885517530c7c",
@@ -20667,7 +20668,8 @@
     "posted_at": "2026-08-12",
     "priority": 4,
     "first_seen": "2026-08-12T13:23:52.805454-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "fc5a8a71f7e50b890ce1f7f639012817",
@@ -20683,7 +20685,8 @@
     "posted_at": "2026-08-12",
     "priority": 4,
     "first_seen": "2026-08-12T13:23:50.892039-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "bf35549c603790fd5c3bed4be8ec914c",
@@ -20699,7 +20702,8 @@
     "posted_at": "2026-08-11",
     "priority": 2,
     "first_seen": "2026-08-12T13:23:48.801321-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "9aa43221a8b32aa6784f2bee5fe89b0b",
@@ -20968,7 +20972,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-12T10:43:29.385155-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "db460c9765b839425d8701b9cfc68244",
@@ -20984,7 +20989,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-12T10:43:27.250598-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "6d9122712087e075eb4cee196da5fb01",
@@ -21000,7 +21006,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-12T10:43:10.880006-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "e959a20b8c0004c1057e8083ac70c407",
@@ -21016,7 +21023,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-12T10:37:54.474387-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "281284df42bc4fc3d39ae00eb3f7a293",
@@ -21032,7 +21040,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-12T10:37:52.294898-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "e1d91a1f2a9918d6f098089744fc41d3",
@@ -21048,7 +21057,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-12T10:37:50.356741-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "af08d6981937824137d4a8bd67ab6992",
@@ -21064,7 +21074,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-12T09:15:21.924629-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "cf936ddc69c1d47e21c5baa84d5ada7b",
@@ -21080,7 +21091,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-12T09:06:42.093430-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "39d07832dd88cf1b2810c5c5562166d2",
@@ -21096,7 +21108,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-12T09:06:40.051977-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ec8e245e64e6cdf1828448b77a1bc4ae",
@@ -21112,7 +21125,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-12T09:06:37.958025-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2b66d6e2362da4ce229720d4268711f6",
@@ -21128,7 +21142,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-12T09:06:33.935425-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "6f484f1fb67eb7f8fa5b954f45adf197",
@@ -21144,7 +21159,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-12T09:06:31.842530-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f373e0e62afa0c745c2078a38e9ed32c",
@@ -21160,7 +21176,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-12T09:06:27.283765-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c26e8cdca467b25e237afc9a69c4db16",
@@ -21176,7 +21193,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-12T09:06:12.832651-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "6a046d12e728b71fbd127523dae1f6f4",
