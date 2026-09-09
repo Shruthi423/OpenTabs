@@ -1,5 +1,39 @@
 [
   {
+    "id": "48993be8f78f2cf9c3d5bdbc72a7664e",
+    "title": "Associate Product Designer",
+    "company": "nan",
+    "location": "San Antonio, TX, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=fb2fd2e74752ee74",
+    "source": "Indeed",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-08",
+    "priority": 4,
+    "first_seen": "2026-09-09T15:07:20.540428-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "1b802c1040f428be229f60f1085885bf",
+    "title": "Product Design Engineer",
+    "company": "Ford Motor Company",
+    "location": "Allen Park, MI",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4465353072",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-09T15:07:18.768120-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "8ccc8e5a00f7ff028de745a6f1ea33cb",
     "title": "Product Designer",
     "company": "Instagram",
@@ -3634,23 +3668,6 @@
     "posted_at": "2026-09-02",
     "priority": 4,
     "first_seen": "2026-09-03T15:12:00.936062-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "38b61457f3ff717450a331074b090f22",
-    "title": "UI/UX Designer Intern",
-    "company": "Trainify Labs Inc",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4461924046",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-09-03T15:11:59.025952-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -22249,7 +22266,8 @@
     "posted_at": "2026-08-10",
     "priority": 2,
     "first_seen": "2026-08-11T12:26:54.463356-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "04afd1a83849b39ce647f1470df85366",
@@ -22299,7 +22317,8 @@
     "posted_at": "2026-08-10",
     "priority": 4,
     "first_seen": "2026-08-11T12:05:09.284161-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f936a130a66a8b220a3df1d3c395067e",
@@ -22349,7 +22368,8 @@
     "posted_at": "2026-08-10",
     "priority": 3,
     "first_seen": "2026-08-11T12:05:00.230126-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "89395166530a641d09394c7b4d97f68b",
@@ -22365,7 +22385,8 @@
     "posted_at": "2026-08-10",
     "priority": 3,
     "first_seen": "2026-08-11T12:04:58.277134-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ba7df463daa468b67026745289763464",
@@ -22644,7 +22665,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-10T17:52:30.847879-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f43fb23c05f0f95bb97c1927fca799f1",
@@ -22660,7 +22682,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-10T17:52:28.811495-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "3abadc0af903c7adafa3bac1e1234e43",
@@ -22676,7 +22699,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-10T16:12:54.607441-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "e33616537f167169252cea0a6e049474",
@@ -22740,7 +22764,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-10T14:53:34.671019-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b034762fca0b1eef1312bcfa4b70952f",
