@@ -18186,7 +18186,8 @@
     "posted_at": "2026-08-05",
     "priority": 4,
     "first_seen": "2026-08-18T18:35:25.610484-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "24d512273d0bb170609fd3b5f7a22252",
@@ -18202,7 +18203,8 @@
     "posted_at": "2026-08-15",
     "priority": 4,
     "first_seen": "2026-08-18T18:35:23.357705-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b83091622879f0fa2da66a28345126a8",
@@ -18432,7 +18434,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-18T15:52:54.547646-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "fb95f85b0a747d46d88ad8878ed02c3c",
@@ -18448,7 +18451,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T13:27:59.138227-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2382b0a555fbe8e95bd1d8de84b45ea8",
@@ -18464,7 +18468,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-18T13:26:17.537679-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c3a750abf0f662be76622b8ebd47fed8",
@@ -18512,7 +18517,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-18T12:09:30.587840-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d67645e45ab4d06a4bf0b43fd6c3deab",
@@ -18528,7 +18534,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-18T12:09:28.457382-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f0bbe018146a5290f630323c491b36e2",
@@ -18560,7 +18567,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T12:09:14.443729-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "176cd2876b5a4e797b25a90e56a9d08a",
@@ -19443,22 +19451,6 @@
     "status": "active"
   },
   {
-    "id": "24986a6b8c0a8e3499f9e49b2269db70",
-    "title": "Visual Designer, Brand",
-    "company": "Firefly",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455361547",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-17T15:01:21.012590-07:00",
-    "status": "active"
-  },
-  {
     "id": "f857e3842a74c177a61103c4e6781598",
     "title": "Visual Designer, Product Education",
     "company": "Eastridge Workforce Solutions",
@@ -19488,22 +19480,6 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-17T15:01:16.931814-07:00",
-    "status": "active"
-  },
-  {
-    "id": "56867a464a88b642873e30542a9ffba1",
-    "title": "Visual Designer, Product Education",
-    "company": "The Sage Group",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454404973",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-17T15:01:14.975189-07:00",
     "status": "active"
   },
   {
@@ -19571,22 +19547,6 @@
     "status": "active"
   },
   {
-    "id": "71b9172b417b67669b3a916a1afe6f27",
-    "title": "UI/UX Interaction Designer",
-    "company": "Tekgence Inc",
-    "location": "Tampa, FL",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454428912",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-17T15:00:54.910316-07:00",
-    "status": "active"
-  },
-  {
     "id": "ac8fb6c317263f1021623b6fc9ce6081",
     "title": "Product Designer",
     "company": "CHAMP",
@@ -19600,22 +19560,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-17T15:00:53.085108-07:00",
-    "status": "active"
-  },
-  {
-    "id": "9a2b1714dde98933ac730214f5504801",
-    "title": "Aquatic Product Design Engineer II",
-    "company": "Iwaki America Inc.",
-    "location": "Holliston, MA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455312336",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-17T14:06:19.074253-07:00",
     "status": "active"
   },
   {
@@ -19696,22 +19640,6 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-17T13:13:05.820899-07:00",
-    "status": "active"
-  },
-  {
-    "id": "669e978e3530bd1a1ed374f58c5790b2",
-    "title": "Product Designer",
-    "company": "Firefly",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455366554",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-17T13:13:03.995003-07:00",
     "status": "active"
   },
   {
@@ -19811,22 +19739,6 @@
     "status": "active"
   },
   {
-    "id": "c52e48fa292f433f8fce573165bb1dc2",
-    "title": "UI UX Designer IT",
-    "company": "Metropolitan Washington Airports Authority",
-    "location": "Sterling, VA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455312616",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-17T11:28:20.132774-07:00",
-    "status": "active"
-  },
-  {
     "id": "cce59ee70f1f329daf73c8b27ec593d0",
     "title": "Angular UI/UX Developer",
     "company": "NTT DATA",
@@ -19840,38 +19752,6 @@
     "posted_at": "2026-08-16",
     "priority": 4,
     "first_seen": "2026-08-17T11:28:18.398589-07:00",
-    "status": "active"
-  },
-  {
-    "id": "508e0b4ab0f098228e7ae59b0cbb953f",
-    "title": "Product Design Engineer",
-    "company": "MaximaTek",
-    "location": "California, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454277642",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-17T11:10:02.720837-07:00",
-    "status": "active"
-  },
-  {
-    "id": "14a6c9d17ab0236d16387ab13c3642b5",
-    "title": "Product Designer",
-    "company": "Enchant\u00e9 Accessories",
-    "location": "Manhattan, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455323359",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-17T11:10:00.776259-07:00",
     "status": "active"
   },
   {
@@ -19939,54 +19819,6 @@
     "status": "active"
   },
   {
-    "id": "b2af1c38ca0a161f8f8324153866e358",
-    "title": "Brand Designer",
-    "company": "Story Co",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454404607",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-17T11:09:40.681036-07:00",
-    "status": "active"
-  },
-  {
-    "id": "d51f91039dc06f0fc8e2295a2213f3ca",
-    "title": "UX Researcher",
-    "company": "IDR, Inc.",
-    "location": "Richardson, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455298805",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-17T11:09:28.854350-07:00",
-    "status": "active"
-  },
-  {
-    "id": "b2ab9cfeb823805702125fc59ff4f9d5",
-    "title": "Junior/Mid-Level UX Researcher",
-    "company": "UXR Hunt",
-    "location": "Austin, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454279623",
-    "source": "Linkedin",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-17T11:09:26.888185-07:00",
-    "status": "active"
-  },
-  {
     "id": "b0a47ec5fea4ff178e456851f26c922e",
     "title": "Brand Designer",
     "company": "DualEntry",
@@ -20016,22 +19848,6 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-17T07:16:59.408725-07:00",
-    "status": "active"
-  },
-  {
-    "id": "16941f34d6d795290dfd2a31266106a2",
-    "title": "Salesforce UX Designer",
-    "company": "Hexaware Technologies",
-    "location": "Plano, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454264141",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-17T07:01:28.025227-07:00",
     "status": "active"
   },
   {
