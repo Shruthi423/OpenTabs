@@ -17931,7 +17931,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-19T02:32:07.418630-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f96ac5e7a7d702d38e240402e7080cc2",
@@ -18015,7 +18016,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-18T18:35:52.991110-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7f60abbf11b1758d3df09c8aa0a06ad2",
@@ -18031,7 +18033,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-18T18:35:49.792722-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3d5b47d63dbb796bbd727aaf74e7ce26",
@@ -18064,7 +18067,8 @@
     "posted_at": "2026-08-09",
     "priority": 3,
     "first_seen": "2026-08-18T18:35:42.749244-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "956c01d762526bb6e6851493156bafd7",
@@ -18080,7 +18084,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-18T18:35:40.482350-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ec66c5e41659e436b4218b458682e60e",
@@ -18096,7 +18101,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-08-18T18:35:38.375025-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ab8c9f6339531e071c6d5d535a154d83",
@@ -18112,7 +18118,8 @@
     "posted_at": "2026-08-18",
     "priority": 2,
     "first_seen": "2026-08-18T18:35:34.965024-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3c433ae2c29da6a192e912a116601d0e",
@@ -18325,7 +18332,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T15:53:48.425442-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2f06eb5a0967d63fcaadc1a804ee7491",
@@ -18341,7 +18349,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T15:53:46.344000-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "4c549f8086fa83fd31ea67fe2398552a",
@@ -18373,7 +18382,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T15:53:00.943784-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5b078b8c3bb560742601cc4cc86a2bcc",
@@ -18389,7 +18399,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T15:52:58.793814-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "63365d82a4fa7fad95bcc87355215a50",
@@ -20088,54 +20099,6 @@
     "status": "active"
   },
   {
-    "id": "3f1a032959430e2366180a8128695734",
-    "title": "UX/UI Designer - Fintech",
-    "company": "Unlok",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454216658",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-16T22:35:50.639417-07:00",
-    "status": "active"
-  },
-  {
-    "id": "abcde82ec8cb20f9ae65f295fff91d65",
-    "title": "Visual Designer",
-    "company": "Wanderboat AI",
-    "location": "Sunnyvale, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454216574",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 2,
-    "first_seen": "2026-08-16T22:35:48.878092-07:00",
-    "status": "active"
-  },
-  {
-    "id": "1676370a8ece2f0e55f479d0ef1d51b4",
-    "title": "User Experience Researcher II",
-    "company": "UXR Hunt",
-    "location": "Boston, MA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454222483",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 4,
-    "first_seen": "2026-08-16T22:17:34.895635-07:00",
-    "status": "active"
-  },
-  {
     "id": "78e761198192d0e3981e26a8df453926",
     "title": "Motion Designer, Experiential",
     "company": "Stripe",
@@ -20149,22 +20112,6 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-16T15:10:46.855634-07:00",
-    "status": "active"
-  },
-  {
-    "id": "7567e10059c55d5c635f480164d13bcf",
-    "title": "Product Design Engineer",
-    "company": "Valley Mountain Staffing",
-    "location": "Scottsdale, AZ",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453996473",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-16T14:20:02.832442-07:00",
     "status": "active"
   },
   {
@@ -20200,38 +20147,6 @@
     "status": "active"
   },
   {
-    "id": "3ca1c200d95c5c12634a0fbd841583d0",
-    "title": "User Experience Researcher",
-    "company": "UXR Hunt",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454204101",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 1,
-    "first_seen": "2026-08-16T11:15:57.545607-07:00",
-    "status": "active"
-  },
-  {
-    "id": "bfeadc1d537430e0897ccaf79f58c5d8",
-    "title": "UX Researcher (III) at US Tech Solutions",
-    "company": "Direct-Calls.com",
-    "location": "Mountain View, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455192810",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 2,
-    "first_seen": "2026-08-16T11:15:55.620008-07:00",
-    "status": "active"
-  },
-  {
     "id": "07d58840d62bf4901d1b170b0a00c653",
     "title": "UX Designer",
     "company": "Ripple Logics",
@@ -20248,38 +20163,6 @@
     "status": "active"
   },
   {
-    "id": "84b43b7674f5b77aee495b2dd20281a2",
-    "title": "Brand & Product Designer",
-    "company": "That Startup Job",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4451794153",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-16T11:15:49.641339-07:00",
-    "status": "active"
-  },
-  {
-    "id": "5b55eceb96ff05acec56dc4691f46090",
-    "title": "Product Designer",
-    "company": "That Startup Job",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4451790189",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-16T11:15:47.908995-07:00",
-    "status": "active"
-  },
-  {
     "id": "23e8142cc67d077f2da13acb8ddfd9a1",
     "title": "UX Digital Designer [AQ-13418]",
     "company": "Aquent",
@@ -20293,54 +20176,6 @@
     "posted_at": "None",
     "priority": 1,
     "first_seen": "2026-08-16T07:52:16.586441-07:00",
-    "status": "active"
-  },
-  {
-    "id": "256f44f7344213b14545ff6d9f596728",
-    "title": "SAP UI/UX Programmer Expert",
-    "company": "Pacific Gas and Electric Company",
-    "location": "Oakland, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453984246",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 2,
-    "first_seen": "2026-08-16T07:52:14.386816-07:00",
-    "status": "active"
-  },
-  {
-    "id": "bd08ea5c88b15ae8015beb1cc46c7000",
-    "title": "Associate Engineer Product Design",
-    "company": "WIDIA",
-    "location": "New Market, VA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453917453",
-    "source": "Linkedin",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-15T20:35:34.475647-07:00",
-    "status": "active"
-  },
-  {
-    "id": "30d1e04dec22daaf0e27572bc364022e",
-    "title": "Student - UX Research Lab Assistant",
-    "company": "Woodbury School of Business",
-    "location": "Orem, UT",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4451711389",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-15T20:35:32.363089-07:00",
     "status": "active"
   },
   {
@@ -20408,38 +20243,6 @@
     "status": "active"
   },
   {
-    "id": "72124ca16ce9a1e030e3fa8c3f14bd4e",
-    "title": "Product Designer, Nova",
-    "company": "Green Velvet",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455136153",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-15T18:13:35.433201-07:00",
-    "status": "active"
-  },
-  {
-    "id": "c8401f6d88934c9bdb3ea7167a16dc8f",
-    "title": "Brand Designer,  Product Launches",
-    "company": "Jobera.com",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453925453",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-15T15:54:03.527022-07:00",
-    "status": "active"
-  },
-  {
     "id": "5e614f51f55b1da83b1b902b321c58cb",
     "title": "Visual Designer (Graphic/Brand Designer)",
     "company": "Methodic",
@@ -20469,38 +20272,6 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-15T15:10:32.056132-07:00",
-    "status": "active"
-  },
-  {
-    "id": "de1423cb03436b6846286b849a9f8b03",
-    "title": "UX Designer, Octopus",
-    "company": "Outsiders Fund",
-    "location": "Los Angeles, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455116453",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-15T15:07:58.685222-07:00",
-    "status": "active"
-  },
-  {
-    "id": "b22d97737aceb6fcb343507975a1f7f2",
-    "title": "Product Designer, Nova",
-    "company": "Better Tomorrow Ventures",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455114731",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-15T14:36:50.550769-07:00",
     "status": "active"
   },
   {
