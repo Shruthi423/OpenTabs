@@ -1,5 +1,56 @@
 [
   {
+    "id": "d3cd5ab78d118ddf1099ed2ea934a917",
+    "title": "Design Engineer Co-op",
+    "company": "Crane ChemPharma & Energy",
+    "location": "Spartanburg, SC, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=c54c257a945c40a2",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-08",
+    "priority": 4,
+    "first_seen": "2026-09-09T13:09:41.916311-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "fe4b3d87b53fb49f61caa2cd7d2c6eff",
+    "title": "Product Design Engineer",
+    "company": "Intelliswift - An LTTS Company",
+    "location": "Sunnyvale, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4461668766",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 2,
+    "first_seen": "2026-09-09T13:09:40.223397-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "9c056ead7e1c84270e8d7af8a0c84d17",
+    "title": "UX Researcher : 26-02700",
+    "company": "Akraya, Inc.",
+    "location": "Mountain View, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4465322352",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 2,
+    "first_seen": "2026-09-09T13:09:38.429603-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "7fc2dd1d0c39260477f93acab09669f6",
     "title": "User Experience Designer",
     "company": "Epic",
@@ -20804,7 +20855,8 @@
     "posted_at": "2026-08-11",
     "priority": 3,
     "first_seen": "2026-08-12T13:23:25.983067-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "6d7b4224d6751e480171a9a7306aac58",
@@ -20854,7 +20906,8 @@
     "posted_at": "2026-08-12",
     "priority": 4,
     "first_seen": "2026-08-12T12:18:13.487716-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "e986a45d460d082e88c0a9d8a6933cc7",
@@ -21210,7 +21263,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-12T09:06:09.003215-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "93d19ed97b19cde1a8015c6f6a31539b",
@@ -21290,7 +21344,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-12T06:40:14.561008-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "36bf8a63ce5889fa41fa45d1d79a3c18",
@@ -21322,7 +21377,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-12T06:40:10.505248-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b5e65522247178869676af5472756f0a",
@@ -21338,7 +21394,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-12T06:40:08.454786-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b7ad21084f3209aea12515064f33db6c",
@@ -21354,7 +21411,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-12T06:40:06.425043-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2a2fada7e6c1da84184c0ef376630f27",
@@ -21370,7 +21428,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-12T06:40:04.358360-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2466db7658c4c2fe717aa8eca2543fb9",
@@ -21386,7 +21445,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-12T06:40:02.319563-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "984d402631c025233d9e2c2d30d1de5c",
@@ -21450,7 +21510,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-11T23:40:06.426322-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "740e257a7b7ce8e331d29c53a94ae566",
@@ -21482,7 +21543,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-11T23:01:02.838292-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "58629d9a261a1399178dccda77d81dc8",
