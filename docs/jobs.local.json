@@ -1,5 +1,39 @@
 [
   {
+    "id": "682b9084739383b358b62cb0d3c23647",
+    "title": "Product Designer",
+    "company": "StartX Med",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463570919",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 1,
+    "first_seen": "2026-09-08T18:02:56.192753-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "60b794797a3417ebd1462aa8f58d0b82",
+    "title": "Product Designer",
+    "company": "Reframe",
+    "location": "Alpharetta, GA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4464910701",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-08T18:02:54.366081-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "cfde55c19e99f646326bf260ec95b297",
     "title": "Jr. Brand Designer",
     "company": "TeamPeople",
@@ -18509,7 +18543,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-08-18T13:24:25.954958-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "32fad189b036409bb27bb271720dba80",
@@ -18525,7 +18560,8 @@
     "posted_at": "2026-08-18",
     "priority": 3,
     "first_seen": "2026-08-18T13:23:15.209750-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "9c5178d5ae532b80cfaf93b8cd873495",
@@ -18575,7 +18611,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-08-18T12:09:26.423967-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7ae961a718ad1e8bb0f9d75bdb88332b",
@@ -18608,7 +18645,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-18T12:09:02.524783-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "aa607dc643b90fd09fdcc166c9143f22",
@@ -18624,7 +18662,8 @@
     "posted_at": "2026-08-17",
     "priority": 3,
     "first_seen": "2026-08-18T12:09:00.617201-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "e351531736ecf19da86c2c71d6343f84",
@@ -18773,7 +18812,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T10:19:43.100779-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "65170e80f7f7aa177d483fe0d95f4676",
@@ -18789,7 +18829,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T10:19:41.066753-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "9a12f4864829ec481b4886e09c246a2a",
@@ -18885,7 +18926,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-18T10:19:11.736936-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c0ad3c8cbb12d15bfa6df4a26df156b0",
@@ -18917,7 +18959,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-18T09:45:16.080849-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "64c2f9f8109da5ee9afce0c26864bfaa",
@@ -18933,7 +18976,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T09:45:14.049324-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b6e287440839b0f02259fc5bc828262c",
