@@ -1,130 +1,16 @@
 [
   {
     "item": {
-      "company": "Euno",
-      "amount": "$23.0M",
+      "company": "Lightfield",
+      "amount": "$47.0M",
       "stage": "Series A",
-      "investors": null,
+      "investors": "Accelerate Growth",
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/09/euno-raises-23m-to-build-the-ai-native-context-brain-for-autonomous-agents/",
-      "priority": 8
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEZJZmx1d0xTRHBEQW1oQThqRVVHeldPVTdzeHU2SWFIUGN6S3JjRFZFaHo3b2podWRyRjZVQW5TamhjMlFEcXA3SWV5R05LUVlfYjFxT09CZDA4LVNwLWZUSzRhRmxZamx0dHRpb2FwcmwwVkpYdVhIc0VlUDZQbFFBREgxRWp3R1F5WVRR?oc=5",
+      "priority": 11
     },
-    "remind_at": "2026-09-09T09:16:22.224990-07:00"
-  },
-  {
-    "item": {
-      "company": "Cymphony",
-      "amount": "$25.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHS2ZYUDN3cWFXRHQxaVVrUVVfWDVocjRsNE5zVGE2aHRUVUJ5T3kyN0NxV2M4U0o0WXVYSTNNR1dOcWo2QTgwS2N4bTJKVEJPUVdBQXFSSS1OMUVNeHBoZTZkLVBUZ0RtNGc?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-09-09T09:16:25.144589-07:00"
-  },
-  {
-    "item": {
-      "company": "Carrum Mobility",
-      "amount": "$10.0M",
-      "stage": "Series B",
-      "investors": "Uber, Nearly Doubles Business Since January&nbsp",
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVzJjNzliMDBwQlVSX3hXckRNNm5UcnFteW1OZDZad0ExT184dkNOREdxMTZhbVNGUVdTTEN5UVZDYTI5YWdHc2Z2R05IUmpzbGdrb3FGRm5FejB1RWk1MmVuMWh5VEdYanphbkx2VEFRel9KdTRScWFUU01ieGVEa29wdXE1MVVqeHJQNDNRSzVTZXRvcGlheENsaUlYM1dCRUJpRDd2dFJvc1pBN3dMbFF5bnRDVHJLLXc0YzlvMHlaWmhZTHloeHZQcGRoOUZEVmsyeC1R?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-09-09T09:16:31.058361-07:00"
-  },
-  {
-    "item": {
-      "company": "Canada",
-      "amount": "$20.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/09/us-canada-trade-war-alcohol-dairy-motorcycle-ban/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-09T09:16:34.014840-07:00"
-  },
-  {
-    "item": {
-      "company": "Labs",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "New York",
-      "founders": [
-        "Jensen Huang"
-      ],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/09/openai-artificial-general-intelligence-safety",
-      "priority": 3
-    },
-    "remind_at": "2026-09-09T09:16:35.628700-07:00"
-  },
-  {
-    "item": {
-      "company": "Ramp",
-      "amount": "$1.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/ramp-eyes-1b-series-g-at-60b-valuation-just-three-months-after-hitting-44b/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-09T09:16:38.848973-07:00"
-  },
-  {
-    "item": {
-      "company": "Harvey",
-      "amount": "$550.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/09/legal-ai-startup-harvey-raises-550m-at-15-6b-valuation-as-revenue-tops-400m/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-09T09:16:42.065663-07:00"
-  },
-  {
-    "item": {
-      "company": "Clay",
-      "amount": "$115.0M",
-      "stage": null,
-      "investors": null,
-      "location": "New York",
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTUFZbkl2OElXUy0xdnpYdnZCY3dMNDlwd0pGMUd0anBrd0VZYzJIQjd5SEk1UWRCY0d4QkYxbVU2aTM3dVozRkhPdzJzb2ZvLVZuVUtuSEY1bFBYZU1sNXhHMlgxSEttV0gzZXRqNzREWndySGVVOUVXd0poM3FSaU5SOA?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-09T09:16:45.134566-07:00"
-  },
-  {
-    "item": {
-      "company": "Cymphony",
-      "amount": "$30.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTHZ4eXRycm8teGF3LVFudWRmU19wVmJyeS1FZnEzU2p5cVJrOEdpa1NVLS1YdFJlUUF1Yi1nOGxVNFB6cFJGUjhqbzhlYTBIcHZyRm1SSlE2d2YwZXlNa0NFX1VuODdKbTh3Z2RUb3gybnZzdmxlbzhkcG5wcEpraEtUNmlvVWVhS0hZR0lacGhVWmJ6eXJ3Qm5Gd2tLbFJHUkhRM0I5Nkxmb3VzcnozUVZoYzcyZ2tRYVlnNktxak00UV9fUmxHcVZ1WGFuOWFFMzJ1eTNkSllsQW5SajlBTlZVNndrYWpQTTJ2bU5xcS1CSGd2anVkVTduTmpoZw?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-09T09:16:48.068848-07:00"
+    "remind_at": "2026-09-09T12:22:49.068968-07:00"
   }
 ]
