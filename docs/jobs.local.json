@@ -1,5 +1,39 @@
 [
   {
+    "id": "a1c98fd2eb2931f64b28ec957d416973",
+    "title": "UI/UX Designer",
+    "company": "Bixal",
+    "location": "Fairfax, VA, US",
+    "salary": "$40,000 \u2013 $42,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=ef29701658a606f2",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-07",
+    "priority": 4,
+    "first_seen": "2026-09-08T19:08:45.460454-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "9e6c6be16da8d7121d2926d3d98633cb",
+    "title": "Product Designer - Hardlines",
+    "company": "Idea Nuova",
+    "location": "New York, NY, US",
+    "salary": "$70,000 \u2013 $95,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=5c8f904e69f35ae5",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-07",
+    "priority": 3,
+    "first_seen": "2026-09-08T19:08:43.671751-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "30afeea10ae0c539185165d8e6f0d4c2",
     "title": "Product Designer",
     "company": "WorkWave\u2122",
@@ -17187,23 +17221,6 @@
     "jd": "no"
   },
   {
-    "id": "477df56bf29318a541a6a04b429471d9",
-    "title": "Product Design Engineer",
-    "company": "Yochana",
-    "location": "Austin, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455459272",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-19T12:59:37.043083-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "bad80cc2f34cf9da90a16c4f59551359",
     "title": "Design Researcher",
     "company": "Women of the Vine & Spirits",
@@ -17289,57 +17306,6 @@
     "jd": "no"
   },
   {
-    "id": "50d41c73794a0b5323bac1d6e6eded1b",
-    "title": "Product Designer",
-    "company": "Rockstar",
-    "location": "Austin, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455431590",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-19T11:28:12.777759-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "0909d06770e1ad84fc6c576cb3b54d34",
-    "title": "User Experience Designer",
-    "company": "Entegee",
-    "location": "Dubuque, IA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455424647",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-19T11:28:10.768132-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "c7835d811a765fafe73930d181f6c162",
-    "title": "User Experience Designer",
-    "company": "Dahl Consulting",
-    "location": "Brooklyn Park, MN",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4456349524",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-19T11:28:08.706999-07:00",
-    "status": "active",
-    "jd": "no"
-  },
-  {
     "id": "50ef0925593b705252e68bde40ce0b31",
     "title": "UX Designer",
     "company": "Evlo AI",
@@ -17391,40 +17357,6 @@
     "jd": "no"
   },
   {
-    "id": "e13b9485dd5123385145d5871b51eecb",
-    "title": "Product Design Engineer",
-    "company": "ITT Inc.",
-    "location": "Seneca Falls, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4446040300",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-19T10:50:12.703898-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "23b1f9d8d91021f54a669c5caf08a91d",
-    "title": "UX Designer",
-    "company": "TEKsystems",
-    "location": "Honolulu, HI",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4456197296",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-19T10:30:50.805883-07:00",
-    "status": "active",
-    "jd": "no"
-  },
-  {
     "id": "6f313faf3b3aeaa0d6768b7d1cd81c9b",
     "title": "Brand Designer, Events & Experiential, AWS Advertising & Social Media",
     "company": "Amazon Web Services (AWS)",
@@ -17438,57 +17370,6 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-19T10:12:08.203461-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "3b79053e052337a30df0fcdd805b4832",
-    "title": "Visual Designer [AQ-13944]",
-    "company": "Aquent",
-    "location": "Boise, ID",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453424938",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-19T10:12:06.067825-07:00",
-    "status": "active",
-    "jd": "no"
-  },
-  {
-    "id": "f375a2de19283b1f1d8ff42c547b75c6",
-    "title": "Brand Designer",
-    "company": "Ambrook",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4452868544",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-19T10:12:03.972406-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "5603b09b67bebe9b02d0b7b30a3078dc",
-    "title": "Brand Designer",
-    "company": "Ambrook",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4452882444",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-19T10:11:59.998562-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -18628,7 +18509,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-18T10:19:39.032024-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "55b1bb8e13ebcd49ff267bc8e5f539e2",
@@ -18644,7 +18526,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-08-18T10:19:34.924667-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3b8d4a4d40eb8a75344a030ceb360fdd",
@@ -18660,7 +18543,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-08-18T10:19:32.701387-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3658a05701869afb6e6f87d8e9374b68",
@@ -18676,7 +18560,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-08-18T10:19:30.661585-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "c0ad3c8cbb12d15bfa6df4a26df156b0",
@@ -18692,7 +18577,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-08-18T09:45:20.031058-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "64c2f9f8109da5ee9afce0c26864bfaa",
@@ -18725,7 +18611,8 @@
     "posted_at": "2026-08-17",
     "priority": 1,
     "first_seen": "2026-08-18T09:45:10.027438-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "5330b6f4570a420b32c1a07639a4967a",
@@ -18923,7 +18810,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-17T18:44:04.169882-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "378ca5a1356abbffc94a3caa46afab3f",
@@ -18971,7 +18859,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-17T17:14:03.525764-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "11bddf1f8b14fe47f417b8293e854a2b",
@@ -18987,7 +18876,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-17T16:55:13.832667-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "217266b7d3a75ead834e39d94b6a965b",
@@ -24939,22 +24829,6 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-09T10:01:31.445106-07:00",
-    "status": "active"
-  },
-  {
-    "id": "a99eb1c797f2cca26c81e72c507edc76",
-    "title": "Founding Designer",
-    "company": "Commod",
-    "location": "Dallas, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4451310655",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-08T18:51:53.756068-07:00",
     "status": "active"
   }
 ]
