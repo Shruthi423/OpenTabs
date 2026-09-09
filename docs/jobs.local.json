@@ -1,18 +1,52 @@
 [
   {
-    "id": "d3cd5ab78d118ddf1099ed2ea934a917",
-    "title": "Design Engineer Co-op",
-    "company": "Crane ChemPharma & Energy",
-    "location": "Spartanburg, SC, US",
+    "id": "89fe5bf4a006de52f2d13444763629fe",
+    "title": "Brand Designer",
+    "company": "Profound",
+    "location": "New York, NY",
     "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=c54c257a945c40a2",
-    "source": "Indeed",
+    "url": "https://www.linkedin.com/jobs/view/4463062861",
+    "source": "Linkedin",
     "is_new_grad": false,
     "is_big_tech": false,
     "founders": [],
-    "posted_at": "2026-09-08",
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-09T13:29:24.948847-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "1f75637b0f7ef2c9dc375c37127551b7",
+    "title": "Principle UI Designer",
+    "company": "FanDuel",
+    "location": "New York, NY",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463081055",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-09T13:29:23.123917-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "6250655acac1acc702a6fb5325e35a45",
+    "title": "Product Designer",
+    "company": "IBM",
+    "location": "Bellevue, WA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463091008",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
     "priority": 4,
-    "first_seen": "2026-09-09T13:09:41.916311-07:00",
+    "first_seen": "2026-09-09T13:29:21.406197-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -21560,7 +21594,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-11T20:40:16.891915-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "cadebe75ad988daabc177a1839f9d659",
@@ -21576,7 +21611,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-11T20:40:04.923676-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c05c01c6febde0da3ce8b84e176cb740",
@@ -21592,7 +21628,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-11T19:05:52.956362-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d15ae006c8bae6d893d24290019ca4fb",
@@ -21608,7 +21645,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-11T19:05:47.849993-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "307a3f0e99189ac0848b47eddac332e2",
@@ -21624,7 +21662,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-11T18:46:48.499848-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "2dd2ac454d8d82c51a283888b79ecd8d",
@@ -21672,7 +21711,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-11T16:25:21.880564-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "473fe3585981ac29524ae71b2a399eff",
@@ -21688,7 +21728,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-11T16:25:07.028029-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f13177c424d5d942b8148ff54bebe53f",
@@ -21704,7 +21745,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-11T16:06:15.540542-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ffe42bf13c71609aba8c9d272345752a",
