@@ -2448,23 +2448,6 @@
     "jd": "yes"
   },
   {
-    "id": "9f343fe55d695d86337e4e559f9231c0",
-    "title": "UI/UX Designer",
-    "company": "ADVATIX - Advanced Supply Chain and Logistics",
-    "location": "Bronx, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4462617535",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-09-05T10:33:17.176732-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "2e021b23fa7d541aafe475f5cd93f439",
     "title": "UX Design Intern - Summer 2027",
     "company": "Hy-Vee, Inc.",
@@ -2835,23 +2818,6 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-09-04T14:15:12.567561-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "fe409e747dbbad60209d213d4cc36507",
-    "title": "Junior UI/UX Designer",
-    "company": "Abeyon",
-    "location": "Arlington, VA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4463392189",
-    "source": "Linkedin",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-09-04T14:15:10.655397-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -22657,7 +22623,8 @@
     "posted_at": "2026-08-09",
     "priority": 4,
     "first_seen": "2026-08-10T15:34:47.808606-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "76e30ee59f8cbdf1ec08d86618cb8d94",
@@ -22673,7 +22640,8 @@
     "posted_at": "2026-08-03",
     "priority": 4,
     "first_seen": "2026-08-10T15:34:45.833364-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "87d2ce0b9e72fc51cee00bfc3f7d327d",
@@ -22689,7 +22657,8 @@
     "posted_at": "2026-08-09",
     "priority": 4,
     "first_seen": "2026-08-10T15:34:40.697516-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ee22e1c80dc5b0d21588461eaf2781c1",
@@ -22855,7 +22824,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-10T13:37:48.843742-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "06e0154e4f2e04e61ed34df08773c9c2",
@@ -22871,7 +22841,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-10T13:37:46.850673-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b2af15a560ecf38dccd132a3ca7d424a",
@@ -22887,7 +22858,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-10T13:37:44.736099-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "84fe4a6f01b86fb626eb05104c1b72e3",
@@ -22935,7 +22907,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-10T13:18:35.456625-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "383ea481b0ac0f25019d1e472702c05e",
@@ -22967,7 +22940,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-10T13:18:21.661657-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "56e80b24687e245ee5bb605d931dc358",
@@ -22983,7 +22957,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-10T13:18:17.721686-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "0c20cc2759c3315bd342fd94e6918241",
@@ -23015,7 +22990,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-10T13:18:13.819162-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b48d274a2c4b2c3f07de57fc00c79972",
@@ -23031,7 +23007,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-10T12:33:58.882555-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "486cc3f43fe15f5eda0734d1a5d0c89a",
@@ -23223,22 +23200,6 @@
     "posted_at": "2026-08-09",
     "priority": 4,
     "first_seen": "2026-08-09T19:41:52.694401-07:00",
-    "status": "active"
-  },
-  {
-    "id": "122de3ebcfd36d0e9fd897586ab23902",
-    "title": "UX Design Fellow",
-    "company": "Volkswagen",
-    "location": "Belmont, CA, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=c5c32b2164cfdf91",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-08",
-    "priority": 4,
-    "first_seen": "2026-08-09T15:39:40.782099-07:00",
     "status": "active"
   }
 ]
