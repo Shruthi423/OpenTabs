@@ -1,5 +1,107 @@
 [
   {
+    "id": "efeb605969f98f82ef8037b2f2f4022b",
+    "title": "Brand & Motion Designer",
+    "company": "Drift AI",
+    "location": "Denver, CO",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4465070886",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-09T11:10:49.969330-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "d9f26fbb88ac6a1e6da5aa68a0503122",
+    "title": "Visual Designer, Marketing & Communications",
+    "company": "Accenture Federal Services",
+    "location": "Washington, DC, US",
+    "salary": "$93,700 \u2013 $184,500 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=064da844eac3cab7",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-08",
+    "priority": 4,
+    "first_seen": "2026-09-09T11:10:48.054243-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "28d304c735f84e42ff8a225da525978e",
+    "title": "Brand Designer",
+    "company": "Jordan's Furniture",
+    "location": "Dedham, MA, US",
+    "salary": "$100,000 \u2013 $125,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=610911faa9e4d610",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-08",
+    "priority": 4,
+    "first_seen": "2026-09-09T11:10:46.302555-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "ca87c05531b6bd5b621863af5f0fbd0f",
+    "title": "Product Designer, Intern (Summer 2027)",
+    "company": "DoorDash",
+    "location": "San Francisco, CA, US",
+    "salary": "$105,400 \u2013 $155,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=52ebb0eb172d88cd",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-09-08",
+    "priority": 1,
+    "first_seen": "2026-09-09T11:10:44.445504-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "30cad3de333c699c7a87bca191880ef1",
+    "title": "Modular Product Design Engineer",
+    "company": "Your Employment Services",
+    "location": "York, PA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463859994",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-09T11:10:42.422956-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "71ff25540d0b7ad712eba91ffbf4d3d9",
+    "title": "Product Design Engineer",
+    "company": "Belltec Industries",
+    "location": "Belton, TX",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463858576",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-09T11:10:40.695670-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "ab550021bd6eb5ada1b7efbeb6c86688",
     "title": "UX Designer, Hardware",
     "company": "SharkNinja",
@@ -19852,7 +19954,8 @@
     "posted_at": "2026-08-11",
     "priority": 4,
     "first_seen": "2026-08-13T10:25:48.471545-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "77f967a23b909b6caf8cbd29dc2f5468",
@@ -19919,7 +20022,8 @@
     "posted_at": "2026-08-12",
     "priority": 4,
     "first_seen": "2026-08-13T01:57:40.701177-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "bcc470bbb9362c213e631723505715a4",
@@ -19952,7 +20056,8 @@
     "posted_at": "2026-08-11",
     "priority": 4,
     "first_seen": "2026-08-12T18:10:28.853852-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "56c8801e2e9d9d316559a6e419b3407e",
@@ -19968,7 +20073,8 @@
     "posted_at": "2026-08-11",
     "priority": 4,
     "first_seen": "2026-08-12T18:10:26.858374-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "fdc94dd4b03aaf9bb4eb7910dfe07b9a",
@@ -20261,7 +20367,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-12T14:41:15.259193-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7ccf435b636ce53fa06c1d0c3aae6550",
@@ -20277,7 +20384,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-12T14:41:13.330517-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "e69f829b8062ac2c815c1667fb84dbee",
@@ -22837,22 +22945,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-09T11:24:12.436589-07:00",
-    "status": "active"
-  },
-  {
-    "id": "5de9387eab49d4e0a2673b937daf2657",
-    "title": "EMC Design Technologist",
-    "company": "Apple",
-    "location": "Austin, TX, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=0b286594e75aafc3",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-08-04",
-    "priority": 4,
-    "first_seen": "2026-08-09T11:04:35.534657-07:00",
     "status": "active"
   }
 ]
