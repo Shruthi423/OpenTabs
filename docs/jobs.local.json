@@ -15232,23 +15232,6 @@
     "jd": "no"
   },
   {
-    "id": "5681f2a39e217190d49c50e2e7eecdf6",
-    "title": "Product Designer",
-    "company": "Anori",
-    "location": "San Mateo, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4456256574",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-21T11:17:04.874510-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "39d4dcd2fc9441a75d6338312c90d0dc",
     "title": "Product Designer",
     "company": "Arcade.dev",
@@ -15300,23 +15283,6 @@
     "jd": "no"
   },
   {
-    "id": "266bd9fc7490ecee3228036f5160cf2d",
-    "title": "User Experience Designer",
-    "company": "OSI Engineering",
-    "location": "Raymond, OH",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4456241390",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-21T09:53:05.071528-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "f49e7a381e3a33f49bbc84a7409ef310",
     "title": "UX Researcher",
     "company": "Randstad Digital Americas",
@@ -15330,23 +15296,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-21T09:53:02.701627-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "532abda825bdce008e4940187ee12f35",
-    "title": "Junior/Mid-Level UX ResearcherOffice:Austin",
-    "company": "UXR Hunt",
-    "location": "Austin, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4456233257",
-    "source": "Linkedin",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-21T09:53:00.704125-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -15402,23 +15351,6 @@
     "jd": "yes"
   },
   {
-    "id": "4d464acd79f0235d7141a74d0ffb279f",
-    "title": "Product Design Engineer, Amazon Leo",
-    "company": "Amazon",
-    "location": "Redmond, WA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4457041199",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-21T08:41:17.459785-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "836286d5739140f8c8f3fa25ed057108",
     "title": "R&D Product Design Engineer (CREO) II",
     "company": "TE Connectivity",
@@ -15432,23 +15364,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-21T08:41:15.369386-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "eba06dd28da8f87f9b2eae4fb3c27815",
-    "title": "User Experience Researcher, AI-Augmented Research",
-    "company": "UXR Hunt",
-    "location": "Centennial, CO",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4456074211",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-21T08:41:13.460624-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -18781,7 +18696,8 @@
     "posted_at": "2026-08-16",
     "priority": 2,
     "first_seen": "2026-08-17T16:36:16.259112-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "fa8ca672e1c838db537e9c5446abc85a",
@@ -18831,7 +18747,8 @@
     "posted_at": "2026-08-16",
     "priority": 4,
     "first_seen": "2026-08-17T15:20:25.642108-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "efb8417a2a43d4afc515d4947f09156d",
@@ -18847,7 +18764,8 @@
     "posted_at": "2026-08-16",
     "priority": 4,
     "first_seen": "2026-08-17T15:20:23.742831-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f857e3842a74c177a61103c4e6781598",
@@ -18897,7 +18815,8 @@
     "posted_at": "2026-08-17",
     "priority": 3,
     "first_seen": "2026-08-17T15:01:12.985415-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ea852febfe0c0f7f30b2d65724538f72",
@@ -18913,7 +18832,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-17T15:01:00.973296-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "99d79a96bc56839e323b0ef44b3c61b3",
@@ -19079,7 +18999,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-17T12:22:33.540529-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "cfa12c24437447722f9f393c7ed03a12",
@@ -19095,7 +19016,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-17T12:04:21.628210-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f0fa5f19f141b3c4b0785aaa98c76170",
@@ -19143,7 +19065,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-17T11:28:22.330968-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "cce59ee70f1f329daf73c8b27ec593d0",
@@ -19239,7 +19162,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-17T11:09:25.041387-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c108c40ceeaf58ddc3791b1e1b778753",
@@ -19255,7 +19179,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-17T07:16:59.408725-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f883562fa45dc713462073748d7d5fe3",
