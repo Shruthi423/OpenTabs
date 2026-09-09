@@ -1,5 +1,22 @@
 [
   {
+    "id": "8ccc8e5a00f7ff028de745a6f1ea33cb",
+    "title": "Product Designer",
+    "company": "Instagram",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4463072308",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 1,
+    "first_seen": "2026-09-09T14:47:34.186621-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "e2e98a6e6dbccc31bc264045b599f911",
     "title": "Product Designer",
     "company": "Orchard",
@@ -22028,7 +22045,8 @@
     "posted_at": "2026-08-11",
     "priority": 4,
     "first_seen": "2026-08-11T12:46:39.085955-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0a2a4adc89f5418467b82bdf98ce0130",
@@ -22396,7 +22414,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-11T12:04:51.187495-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "364ce77599b8b69bea8807f685ae5c28",
@@ -22412,7 +22431,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-11T12:04:49.085386-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "935a4bc183ce794f2aa74ba51449a7f7",
@@ -22444,7 +22464,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-11T12:04:40.670159-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "7746389c1bb7f77caa7d643937cc4a78",
@@ -22476,7 +22497,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-11T11:45:40.531435-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "339c225d650ff35f67f64637edbe56a2",
@@ -22508,7 +22530,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-10T21:08:09.182017-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "e3c94ff60deb7c30438c5edbaaaadf49",
@@ -22540,7 +22563,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-10T18:49:13.560475-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f291c5f89e0ea798c6e0df26ac0573c1",
@@ -23244,22 +23268,6 @@
     "posted_at": "2026-08-08",
     "priority": 4,
     "first_seen": "2026-08-09T15:39:40.782099-07:00",
-    "status": "active"
-  },
-  {
-    "id": "a87416fc2c3d137e3e5624fb5894d437",
-    "title": "Visual Designer (Product)",
-    "company": "Quis",
-    "location": "New York, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4450984529",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-09T14:43:13.424640-07:00",
     "status": "active"
   }
 ]
