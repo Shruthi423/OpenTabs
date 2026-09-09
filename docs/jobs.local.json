@@ -1,5 +1,22 @@
 [
   {
+    "id": "bbeadf9656adccb9b8df721961cb5d1c",
+    "title": "Automation Technologist",
+    "company": "Baxter",
+    "location": "Round Lake, IL, US",
+    "salary": "$76,000 \u2013 $104,500 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=b6267e7be3eee054",
+    "source": "Indeed",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-08",
+    "priority": 4,
+    "first_seen": "2026-09-09T14:08:38.911070-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "e2e98a6e6dbccc31bc264045b599f911",
     "title": "Product Designer",
     "company": "Orchard",
@@ -21739,7 +21756,8 @@
     "posted_at": "2026-08-10",
     "priority": 3,
     "first_seen": "2026-08-11T18:46:46.468897-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "cd812508876d762107159364564396a1",
@@ -21755,7 +21773,8 @@
     "posted_at": "2026-08-10",
     "priority": 4,
     "first_seen": "2026-08-11T18:28:06.227090-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "78eea128bd1d1e00efc2862996e8921b",
@@ -21822,7 +21841,8 @@
     "posted_at": "2026-08-10",
     "priority": 4,
     "first_seen": "2026-08-11T15:39:12.383679-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "edae99fd309cfb6590de54690e3fa9d8",
@@ -21968,7 +21988,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-11T14:03:59.288703-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8c0c3e8849d056a1d7753b570a1b5820",
@@ -21984,7 +22005,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-11T14:03:57.331060-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "6d4a237db68cfc000e46f66c8e4aef9f",
@@ -22000,7 +22022,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-11T12:46:51.068068-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "872debc7123a915083ccebec54450878",
@@ -22032,7 +22055,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-11T12:46:37.222386-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "36ba1a2005bc027d74df2dcb4369b4a1",
@@ -22048,7 +22072,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-11T12:46:35.271741-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f580d98ee8f2a30377697d133a683d9e",
@@ -22064,7 +22089,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-11T12:46:23.442128-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d0509661fd32b5089935ed59ec339704",
@@ -22080,7 +22106,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-11T12:46:21.256793-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "497cf98d6d0088f2b75a17949effbd79",
@@ -22096,7 +22123,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-11T12:46:19.415109-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8fb85f5cf717bd5378c61155e91a848b",
@@ -22112,7 +22140,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-11T12:46:14.512644-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "14e25be54d99da03005eb59148105d18",
@@ -22128,7 +22157,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-11T12:27:07.940855-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "3e0c1f0a946bd82c72c4ce1dda87596a",
