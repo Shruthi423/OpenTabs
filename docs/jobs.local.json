@@ -15793,23 +15793,6 @@
     "jd": "no"
   },
   {
-    "id": "a4d0aa925da695cbea9c7fac6c21f55a",
-    "title": "Product Design Engineer",
-    "company": "Rangam",
-    "location": "Sunnyvale, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4457346931",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-21T08:21:18.147436-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "ac78a459401bee678873b210cd15fd81",
     "title": "UX Digital Designer [AQ-14213]",
     "company": "Aquent",
@@ -15963,40 +15946,6 @@
     "jd": "yes"
   },
   {
-    "id": "d4e1be28171bdacc0778d10c3e2ed25c",
-    "title": "Product Design Engineer \u2013 Exterior Trim/Plastics (Catia)",
-    "company": "Detroit Engineered Products",
-    "location": "Southfield, MI",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4456392671",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-20T11:52:21.720622-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "c4c8ae9a7f2938131e35dad3b5b5a990",
-    "title": "UX Designer II - AI Experiences",
-    "company": "7-Eleven",
-    "location": "Irving, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4456777732",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-20T11:52:05.633406-07:00",
-    "status": "active",
-    "jd": "no"
-  },
-  {
     "id": "0ce333ca03a9fd53046f19bec58ffea5",
     "title": "UX Designer",
     "company": "Inabia Software & Consulting Inc.",
@@ -16078,23 +16027,6 @@
     "posted_at": "2026-08-19",
     "priority": 4,
     "first_seen": "2026-08-20T11:13:00.398906-07:00",
-    "status": "active",
-    "jd": "no"
-  },
-  {
-    "id": "09a4753d5419452569e808a470291d4e",
-    "title": "UX Researcher | New York at Photon Infotech New York, NY",
-    "company": "UXR Hunt",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455693905",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-20T10:29:42.912606-07:00",
     "status": "active",
     "jd": "no"
   },
@@ -18713,7 +18645,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-17T18:44:02.407022-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "02ac8a4152ecf2f9788ad17451520724",
@@ -18729,7 +18662,8 @@
     "posted_at": "2026-08-16",
     "priority": 4,
     "first_seen": "2026-08-17T18:25:19.026261-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ff59f988259281701b609579010d298d",
@@ -18779,7 +18713,8 @@
     "posted_at": "2026-08-16",
     "priority": 3,
     "first_seen": "2026-08-17T16:36:24.613473-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b7cef13db3a5940e7c849a8f7c2de152",
@@ -18795,7 +18730,8 @@
     "posted_at": "2026-08-16",
     "priority": 4,
     "first_seen": "2026-08-17T16:36:22.616585-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ed58290884a8afb21dd9013c8e2e29f7",
@@ -18811,7 +18747,8 @@
     "posted_at": "2026-08-16",
     "priority": 4,
     "first_seen": "2026-08-17T16:36:20.328323-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "4a0c7822645f880cb78995ca6bca1c91",
@@ -18827,7 +18764,8 @@
     "posted_at": "2026-08-16",
     "priority": 3,
     "first_seen": "2026-08-17T16:36:18.137567-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "516ff77440bc663f8bd0ed47f7ad6499",
@@ -18991,7 +18929,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-17T15:00:58.876603-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "03c11c5ff6c3c56931d97e5775739f53",
@@ -19007,7 +18946,8 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-17T15:00:56.865844-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ac8fb6c317263f1021623b6fc9ce6081",
@@ -19023,7 +18963,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-17T15:00:53.085108-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b9a380fbca2da9318a68f3b31b718c3f",
@@ -19071,7 +19012,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-17T14:06:13.227667-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ed59bf868ef0123ec37ce026fde45d44",
@@ -19087,7 +19029,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-17T14:06:11.424749-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "02f42bd6a5bcfc347109fc6fa5889477",
@@ -19103,7 +19046,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-17T13:13:05.820899-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f05b3bd4b71a8f406d9b1ea36f12cf63",

@@ -1,0 +1,26 @@
+As a UI Developer on the Circuit team, you sit at the front line of that experience—translating complex AI capabilities into intuitive, responsive, and beautiful web interfaces that our users rely on every day. This position is hybrid.
+Your Impact
+As a UI Developer , you will design and build the modern web experiences that put Circuit's AI capabilities directly into the hands of tens of thousands of Cisco employees. You will own the front-end for AI-driven workflows—conversational and agentic UIs, streaming responses, prompt and agent management, and data-rich dashboards—building them with Angular and Node.js and deploying them on Google Cloud Platform.
+You will partner closely with UX designers, turning Figma designs into pixel-accurate, accessible, component-based interfaces, and collaborate with backend and platform engineers to integrate cleanly with REST APIs. This is a high-visibility role where the quality, performance, and polish of your work directly shape how Cisco experiences AI.
+Design, develop, and maintain responsive, high-performance web applications for AI-driven features (chat, agents, streaming responses, prompt libraries) using Angular , TypeScript , HTML5, and CSS3.
+Partner with UX designers and product managers to translate Figma designs and UX frameworks into functional, user-friendly, and accessible experiences, maintaining fidelity to the design system.
+Integrate front-end applications with REST APIs and JSON data structures, and build supporting Node.js services/BFF layers, ensuring efficient data flow and secure client-server communication.
+Build, package, and deploy web front ends and Node.js services on Google Cloud Platform , contributing to CI/CD pipelines for reliable, repeatable releases.
+Reusable UI Systems: Implement and maintain reusable, component-based UI libraries aligned with Circuit's design system, championing consistency, performance, and accessibility across the platform.
+Work within an Agile team alongside designers, backend engineers, and quality engineers to scope, estimate, and deliver features, and to debug and resolve UI issues in development and production.
+Minimum Qualifications
+Bachelor’s degree with 6+ years, Master’s degree with 4+ years, or PhD with 1+ year of related experience in Computer Science or a technical field.
+3+ years of experience building and troubleshooting web applications using Angular, with strong proficiency in TypeScript, JavaScript, HTML5, and CSS3.
+Hands-on experience developing server-side functionality with Node.js and integrating applications with REST APIs and JSON data structures.
+Demonstrated ability to translate Figma designs into component-based, design-system-aligned UI, utilizing modern component-based architectures.
+Proficiency in deploying applications on Google Cloud Platform (GCP) and working within Git-based version control and Agile development methodologies.
+Preferred Qualifications
+Experience building web-based AI applications (LLM/chatbot/agent UIs, streaming/token-by-token rendering, real-time updates).
+Experience contributing to CI/CD pipelines, working with DevOps teams to automate build, test, and deployment (GitHub Actions, Cloud Build, or similar).
+Familiarity with GraphQL for efficient data querying and integration.
+Experience with unit/component testing frameworks such as Jest, Vitest, or Karma.
+Exposure to Docker and containerized development environments.
+Familiarity with accessibility (WCAG 2.2) standards and cross-browser compatibility.
+Exposure to state management and micro-front-end architectures.
+Strong problem-solving and communication skills.
+At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the ent
