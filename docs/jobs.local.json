@@ -1,5 +1,22 @@
 [
   {
+    "id": "aab920c7c4d675256919860f068ded1a",
+    "title": "UX Researcher (Menlo Park, CA -Seattle, WA - NYC, NY)",
+    "company": "The Mom Project",
+    "location": "Menlo Park, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4465351738",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 2,
+    "first_seen": "2026-09-09T16:45:18.872778-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "2a96d4bbf5c8ffa1dc04c0fb0c69fd9a",
     "title": "Product Designer II, Agent Experience",
     "company": "Bestow",
@@ -23065,7 +23082,8 @@
     "posted_at": "2026-08-05",
     "priority": 2,
     "first_seen": "2026-08-10T08:56:53.715926-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "da68b4ee2743895011e6958d7b2266ad",
@@ -23081,7 +23099,8 @@
     "posted_at": "2026-08-10",
     "priority": 4,
     "first_seen": "2026-08-10T08:56:49.734388-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "edabd9127bd93525654712680a1f8986",
@@ -23165,7 +23184,8 @@
     "posted_at": "2026-08-09",
     "priority": 4,
     "first_seen": "2026-08-10T01:55:10.070028-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0aa837dd7131a5f7a790b51df8033de7",
@@ -23198,7 +23218,8 @@
     "posted_at": "2026-07-05",
     "priority": 4,
     "first_seen": "2026-08-09T20:00:59.034507-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "5417f9ae65bb4e056372fa05a511bdd4",
@@ -23214,6 +23235,7 @@
     "posted_at": "2026-08-09",
     "priority": 4,
     "first_seen": "2026-08-09T19:41:52.694401-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   }
 ]
