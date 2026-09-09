@@ -1,5 +1,56 @@
 [
   {
+    "id": "e2e98a6e6dbccc31bc264045b599f911",
+    "title": "Product Designer",
+    "company": "Orchard",
+    "location": "New York, NY, US",
+    "salary": "$100,000 \u2013 $120,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=9a40b3b8b8edcb15",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-08",
+    "priority": 3,
+    "first_seen": "2026-09-09T13:49:02.896216-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "fb0a778c9d81cd4811dc38fbfe219c0a",
+    "title": "Product Design Engineer - Cable & Harness (NPI)",
+    "company": "Conax Technologies",
+    "location": "Tempe, AZ, US",
+    "salary": "$103,000 \u2013 $125,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=e9be6fdbd356d259",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-08",
+    "priority": 4,
+    "first_seen": "2026-09-09T13:49:01.105789-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "6e21f472d4e4ce48af8701ce25c43dd9",
+    "title": "Product Design Engineer",
+    "company": "Ford Motor Company",
+    "location": "Allen Park, MI, US",
+    "salary": "$63,480 \u2013 $166,200 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=939e7a198878852b",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-08",
+    "priority": 4,
+    "first_seen": "2026-09-09T13:48:59.243392-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "89fe5bf4a006de52f2d13444763629fe",
     "title": "Brand Designer",
     "company": "Profound",
@@ -21314,7 +21365,8 @@
     "posted_at": "2026-08-11",
     "priority": 3,
     "first_seen": "2026-08-12T06:55:59.356271-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "66b5e1a34ee59a534a6d7c6b7c71676c",
@@ -21330,7 +21382,8 @@
     "posted_at": "2026-08-09",
     "priority": 3,
     "first_seen": "2026-08-12T06:55:50.922886-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b18dd032f024565f4a0f3ff27eb4483e",
@@ -21346,7 +21399,8 @@
     "posted_at": "2026-08-10",
     "priority": 4,
     "first_seen": "2026-08-12T06:55:38.921608-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "de057089b8e0f90bf18f1e9421e2c319",
@@ -21362,7 +21416,8 @@
     "posted_at": "2026-08-10",
     "priority": 4,
     "first_seen": "2026-08-12T06:55:36.777755-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0ee64490dc8d082e1e0f9f175ddb7412",
@@ -21395,7 +21450,8 @@
     "posted_at": "2026-08-09",
     "priority": 1,
     "first_seen": "2026-08-12T06:40:12.447124-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "7dbd18b682d2522eff4730fb6c32d6d8",
@@ -21496,7 +21552,8 @@
     "posted_at": "2026-08-10",
     "priority": 4,
     "first_seen": "2026-08-12T02:31:12.757838-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "4923a7fe815e64923e3191b9495ea0ad",
@@ -21512,7 +21569,8 @@
     "posted_at": "2026-08-10",
     "priority": 4,
     "first_seen": "2026-08-12T02:31:10.785006-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "461b55bbb52b06b50594ebe230e2bdbc",
@@ -21528,7 +21586,8 @@
     "posted_at": "2026-08-10",
     "priority": 4,
     "first_seen": "2026-08-11T23:40:08.213625-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "74095717adbe132223b99b0c434e09e8",
@@ -21561,7 +21620,8 @@
     "posted_at": "2026-08-10",
     "priority": 4,
     "first_seen": "2026-08-11T23:40:01.370155-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "65410cd000b67785bcbceb192650f0f2",
@@ -21858,7 +21918,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-11T14:41:41.481540-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "3a3c8b4be49e02c7e0e2b83bc9b089d4",
@@ -21874,7 +21935,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-11T14:22:49.184885-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "6d8f81e8e9892fb6f9ab2cabd361bcf3",
