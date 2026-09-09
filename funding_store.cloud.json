@@ -56232,5 +56232,26 @@
     "roles": [],
     "first_seen": "2026-09-09T14:29:05.173652-07:00",
     "status": "active"
+  },
+  "77ba81f35c752f3187e40e7966beb70c": {
+    "id": "77ba81f35c752f3187e40e7966beb70c",
+    "company": "Silver Lake",
+    "amount": "$11.6B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/09/09/silver-lake-to-merge-cegid-and-silae-in-11-6-billion-software-deal-as-ai-reshapes-saas/",
+    "priority": 3,
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Pasito (YC S22) - Fullstack engineer UI",
+        "url": "https://jobs.ashbyhq.com/silver/7b64258d-c57e-4c35-8f42-aaac598271f7",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-09-09T16:27:21.279231-07:00",
+    "status": "active"
   }
 }
