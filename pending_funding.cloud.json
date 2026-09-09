@@ -1,16 +1,16 @@
 [
   {
     "item": {
-      "company": "Lightfield",
-      "amount": "$47.0M",
-      "stage": "Series A",
-      "investors": "Accelerate Growth",
+      "company": "Energy Department",
+      "amount": "$100.0B",
+      "stage": null,
+      "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEZJZmx1d0xTRHBEQW1oQThqRVVHeldPVTdzeHU2SWFIUGN6S3JjRFZFaHo3b2podWRyRjZVQW5TamhjMlFEcXA3SWV5R05LUVlfYjFxT09CZDA4LVNwLWZUSzRhRmxZamx0dHRpb2FwcmwwVkpYdVhIc0VlUDZQbFFBREgxRWp3R1F5WVRR?oc=5",
-      "priority": 11
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/09/energy-department-hikes-2027-diesel-price-outlook",
+      "priority": 3
     },
-    "remind_at": "2026-09-09T12:22:49.068968-07:00"
+    "remind_at": "2026-09-09T14:59:04.173495-07:00"
   }
 ]

@@ -56217,5 +56217,20 @@
     "roles": [],
     "first_seen": "2026-09-09T11:52:50.069143-07:00",
     "status": "active"
+  },
+  "aea33f82cb4123ddc2ffa71107784999": {
+    "id": "aea33f82cb4123ddc2ffa71107784999",
+    "company": "Energy Department",
+    "amount": "$100.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/09/09/energy-department-hikes-2027-diesel-price-outlook",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-09T14:29:05.173652-07:00",
+    "status": "active"
   }
 }

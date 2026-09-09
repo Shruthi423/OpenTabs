@@ -1,5 +1,20 @@
 [
   {
+    "id": "aea33f82cb4123ddc2ffa71107784999",
+    "company": "Energy Department",
+    "amount": "$100.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/09/09/energy-department-hikes-2027-diesel-price-outlook",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-09T14:29:05.173652-07:00",
+    "status": "active"
+  },
+  {
     "id": "402ed1345afaafbe82bca5fcff9e3957",
     "company": "Lightfield",
     "amount": "$47.0M",
@@ -11759,36 +11774,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-09T17:04:33.759407-07:00",
-    "status": "active"
-  },
-  {
-    "id": "636bfdbb53bb075f8585050902866ab1",
-    "company": "From River Mobility",
-    "amount": "Undisclosed",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYjVxaU1lRHVZTVBXYzBOMzF3WGVJcEVpSUgxUXFGczFWM1VDbzZDOG1kQzhGSlJZSVJlMnRPZ3FuZE1BNFl3VksxRVVSX3FfWTNLLWloOGdmb1N4U2NTaEF3M1ByUHlVWjBMQ0dZQUJsSDFSc0ROdVhHYXhfRDRTNEJTdlZMQU1yVmdqcVVmSENIZ0E5cUp5d3pEOVI?oc=5",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-09T14:02:26.876518-07:00",
-    "status": "active"
-  },
-  {
-    "id": "7313aeeb26ab447baaac0056fa950951",
-    "company": "Agent-Production Infrastructure Sapiom",
-    "amount": "$35.0M",
-    "stage": "Series A",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHS0w3eXUweTZPZGVSNWhFTUZHVjRKLUdLdXFiS09iVEdnZjZZZTBzaEQ5R3Vqako4cFVfeVNnSTVQUm03OFMyZjdTbHBJdVU2Q0dB?oc=5",
-    "priority": 8,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-09T12:20:15.309076-07:00",
     "status": "active"
   }
 ]
