@@ -1,5 +1,73 @@
 [
   {
+    "id": "c92e5117b5fbccf63df92761edc1ef7d",
+    "title": "UX Designer, Design Systems & Visual Design, Amazon Autos",
+    "company": "Amazon",
+    "location": "New York, NY",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4455918423",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-09T10:07:49.800566-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "5570825199b0552716bd9619b5d90a18",
+    "title": "User Experience Researcher, Platform",
+    "company": "Anthropic",
+    "location": "San Francisco, CA, US",
+    "salary": "$305,000 \u2013 $385,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=f3093134217d7cf6",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-09-08",
+    "priority": 1,
+    "first_seen": "2026-09-09T10:07:47.501611-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "e1afcde242ba7e21eee8690c981f9ca2",
+    "title": "UX Designer, YouTube Shorts Creation",
+    "company": "Youtube",
+    "location": "San Bruno, CA, US",
+    "salary": "$132,000 \u2013 $189,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=9b17b87dd84b84ec",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-08",
+    "priority": 4,
+    "first_seen": "2026-09-09T10:07:45.548801-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "3bd606f3bcfc38d0a979cd5d0f5410f5",
+    "title": "UI/UX & Content Creator",
+    "company": "Kiss Beauty Group",
+    "location": "Port Washington, NY",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4454783449",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-09T10:07:43.579729-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "f4b758e1852d14d8991f38d0f05eb770",
     "title": "Embedded UI Engineer",
     "company": "Connecting Odds",
@@ -8789,23 +8857,6 @@
     "jd": "yes"
   },
   {
-    "id": "8dbdea4dd0851770a5a929b32b3959cf",
-    "title": "UX Designer",
-    "company": "Citi",
-    "location": "Irving, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4458693439",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-28T14:33:59.079011-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "6760c582277ca318122c594c70102e40",
     "title": "UX/UI Designer",
     "company": "Mutually Human",
@@ -9401,23 +9452,6 @@
     "jd": "yes"
   },
   {
-    "id": "c668a0308f993fb8a377706dff178dd1",
-    "title": "Product Designer, B2B SaaS",
-    "company": "Catapult Solutions Group",
-    "location": "San Diego, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4458668965",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-27T20:26:17.685253-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "c9d37cea5e5b928b0928e5c0d4e604c0",
     "title": "UI Designer",
     "company": "True Anomaly",
@@ -9448,23 +9482,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T19:47:18.650314-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "0438d337beef23089e32aa55c6daaf8a",
-    "title": "Product Designer (Enterprise SaaS & AI) 5447",
-    "company": "Tier4 Group",
-    "location": "Peachtree Corners, GA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4458017034",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-27T19:47:16.852596-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -9520,40 +9537,6 @@
     "jd": "no"
   },
   {
-    "id": "7bf2ada8410b546beb4f597dae4f18c9",
-    "title": "UI/UX Analyst",
-    "company": "MDW Associates, LLC",
-    "location": "Arlington, VA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4459886628",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-27T18:25:46.066560-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "bef6449050a15a857bccc6e68f80af4f",
-    "title": "User Experience Designer",
-    "company": "The Judge Group",
-    "location": "Seattle, WA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4460123330",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-27T18:06:43.733101-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "5ec98143a6317d1832272334e5608df2",
     "title": "UX Designer \u2013 Data Visualization & AI",
     "company": "Raytheon",
@@ -9567,23 +9550,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-27T18:06:41.852544-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "0bffc17d95eac2ce43d21ec47f8df295",
-    "title": "UI UX Designer",
-    "company": "VLink Inc",
-    "location": "Everett, MA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4460116393",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-27T18:06:39.876402-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -9654,40 +9620,6 @@
     "first_seen": "2026-08-27T18:06:32.434737-07:00",
     "status": "active",
     "jd": "no"
-  },
-  {
-    "id": "15e8d7cc581dd197f1a305af9a4ff024",
-    "title": "Product Designer (UX/UI)",
-    "company": "RLink Solutions",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4459871911",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 1,
-    "first_seen": "2026-08-27T17:46:45.074584-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "7688e7b40d696d45a9041e95cad84019",
-    "title": "Service Designer",
-    "company": "Citi",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4458674829",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-27T17:46:43.239300-07:00",
-    "status": "active",
-    "jd": "yes"
   },
   {
     "id": "227e4f5aff3b6e2a27a3eaebb705e3a7",
@@ -9890,23 +9822,6 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-27T17:01:11.214053-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "d6fca675bfbea4b34027f1d73c35a199",
-    "title": "UX Researcher \u2014 AI & Quantitative Specialist",
-    "company": "TechDoQuest",
-    "location": "San Jose, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4458023180",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-27T17:01:09.290169-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -10183,23 +10098,6 @@
     "jd": "yes"
   },
   {
-    "id": "4594807c3831b8f0ae6bbccc1c2d8152",
-    "title": "UI/UX Product Designer",
-    "company": "Expert Technical Solutions",
-    "location": "Norcross, GA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4457792496",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-27T10:28:39.504963-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "3c5bf327af711519b67ef6a4ff2b69dc",
     "title": "UX/UI Designer",
     "company": "CACI International",
@@ -10298,23 +10196,6 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-27T10:09:37.685862-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "f63cee858e59dcd780872b8250a2e2f4",
-    "title": "UX Researcher  AI & Quantitative Specialist",
-    "company": "Avanciers Inc.",
-    "location": "San Jose, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4459833315",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-27T10:09:35.611814-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -19869,7 +19750,8 @@
     "posted_at": "2026-08-12",
     "priority": 1,
     "first_seen": "2026-08-13T13:02:19.789625-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "95e7e52e05becded49d903399fc21810",
@@ -19902,7 +19784,8 @@
     "posted_at": "2026-08-12",
     "priority": 4,
     "first_seen": "2026-08-13T13:02:11.892663-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2bab5ff9b29b7c3eb758e2c5bce7065b",
@@ -19952,7 +19835,8 @@
     "posted_at": "2026-08-13",
     "priority": 4,
     "first_seen": "2026-08-13T12:43:10.157876-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "f4fbd9a05e15f508140697b6e774b4f9",
@@ -20202,7 +20086,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-13T10:27:26.884973-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "9bc4fe6f459b942fd1458052a6ce64ee",
@@ -20218,7 +20103,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-13T10:27:14.877391-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "3ce551248bc0a1e7487a8ecb40bedd81",
@@ -20234,7 +20120,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-13T10:27:10.792673-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f8cce507a763184e20e3d38300101329",
@@ -20250,7 +20137,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-13T10:27:06.794561-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "08553b35b735087d3bbc3f95884512ca",
@@ -20266,7 +20154,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-13T10:27:02.672071-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "519b49b067711d43860ba42bae4a2fad",
@@ -20298,7 +20187,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-13T10:26:56.373264-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "588443c6d95554891e254c17555d3d3f",
@@ -20314,7 +20204,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-13T10:26:44.397134-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "eb174c23bb73b83f731d75f7ed6efebb",
@@ -20394,7 +20285,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-13T10:26:22.466020-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "bc8431188fb4a3f9be10bb722a321e49",
@@ -23450,54 +23342,6 @@
     "posted_at": "2026-08-04",
     "priority": 4,
     "first_seen": "2026-08-09T11:04:35.534657-07:00",
-    "status": "active"
-  },
-  {
-    "id": "498b3b540c4c8af1818ee0861f2d8bf1",
-    "title": "UI/UX Designer",
-    "company": "Outgle",
-    "location": "Michigan, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4451365150",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-09T10:01:38.189606-07:00",
-    "status": "active"
-  },
-  {
-    "id": "7446ea86ce16eaee1891e9315d26d3ce",
-    "title": "Software Applications Engineer - User Interface iOS",
-    "company": "Apple",
-    "location": "Culver City, CA, US",
-    "salary": "$142,300 \u2013 $263,300 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=fca458c4eb5dcc10",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-08-04",
-    "priority": 4,
-    "first_seen": "2026-08-09T10:01:36.460188-07:00",
-    "status": "active"
-  },
-  {
-    "id": "59c1eadd321358beeedbdb4aa03333a8",
-    "title": "Product Designer, Retirement",
-    "company": "Gusto",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4395241323",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-09T10:01:31.445106-07:00",
     "status": "active"
   }
 ]
