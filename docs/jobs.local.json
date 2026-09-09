@@ -1,5 +1,22 @@
 [
   {
+    "id": "b9d0f55071297c069380eff027613f81",
+    "title": "User Interface Designer",
+    "company": "GE Appliances, a Haier company",
+    "location": "Louisville, KY",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4464944292",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-08T19:28:22.689820-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "a1c98fd2eb2931f64b28ec957d416973",
     "title": "UI/UX Designer",
     "company": "Bixal",
@@ -16116,23 +16133,6 @@
     "jd": "no"
   },
   {
-    "id": "a6987f9ff1295ce2c5399d814c1a07e3",
-    "title": "UX Designer II, AMZL, Global Standards & Customer Excellence",
-    "company": "Amazon",
-    "location": "Bellevue, WA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4456415528",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-20T10:29:36.723427-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "2b7551a4316803923ba2ce747bd83fab",
     "title": "UI/UX Product Experience Designer",
     "company": "Spark",
@@ -16197,23 +16197,6 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-20T10:29:28.664738-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "1e817db4b894930abb7bb8ae5f01fc35",
-    "title": "User Experience Designer",
-    "company": "Ateeca Inc",
-    "location": "Columbus, OH",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455698744",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-20T10:29:26.470439-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -16335,23 +16318,6 @@
     "first_seen": "2026-08-20T10:29:00.168495-07:00",
     "status": "active",
     "jd": "no"
-  },
-  {
-    "id": "3bb496a73cc13365b83eacc6eb4d6bf8",
-    "title": "UX Product Designer",
-    "company": "Tech Genius inc",
-    "location": "Dallas, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453891891",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-20T10:09:39.443235-07:00",
-    "status": "active",
-    "jd": "yes"
   },
   {
     "id": "b84cf49bf8408f6be01533e0a8e53aa9",
@@ -16592,57 +16558,6 @@
     "jd": "yes"
   },
   {
-    "id": "effd4a5b2447b7a35a0fed4ea0d0ddb0",
-    "title": "Tabletop Accessories Product Designer",
-    "company": "Syndicatebleu",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455436299",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-19T20:32:43.477558-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "eb76d0df45b3ef4c8cb9816fd1795e4d",
-    "title": "UX Researcher",
-    "company": "UXR Hunt",
-    "location": "Chicago, IL",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455482825",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-19T20:13:52.349034-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "6f2ad7305902cd48c7f68f0b60742b1f",
-    "title": "UX Designer",
-    "company": "OSF HealthCare",
-    "location": "Peoria, IL",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455472856",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-19T19:54:44.883417-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "155b6dac8afbbe7396d2ae6f5b4014f8",
     "title": "Engineer III, Product Design",
     "company": "ICU Medical, Inc.",
@@ -16775,40 +16690,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-19T18:57:34.926158-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "4cae06a3b547c2059af4da0b7d95310b",
-    "title": "Product Design Intern",
-    "company": "Plasiv",
-    "location": "San Jose, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455474222",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-19T18:57:32.950745-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "5fc2376b5534247b46419ff05db23c3b",
-    "title": "Brand Designer",
-    "company": "Warp",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453489790",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-19T18:19:29.584497-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -18645,7 +18526,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-18T09:45:06.498705-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "13581ce10e66b6fc257963869e6c8953",
@@ -18678,7 +18560,8 @@
     "posted_at": "2026-08-18",
     "priority": 4,
     "first_seen": "2026-08-18T09:25:38.632311-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0c5bd0120a6429e35f9ce02e4405f7c0",
@@ -18711,7 +18594,8 @@
     "posted_at": "2026-08-17",
     "priority": 2,
     "first_seen": "2026-08-18T09:25:34.746130-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3392cc79cc9a9d10cea7d52989eb2851",
@@ -18744,7 +18628,8 @@
     "posted_at": "2026-08-16",
     "priority": 4,
     "first_seen": "2026-08-17T22:43:43.094251-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0e9aa1e901f4eb29f1e2efb7d66d08cb",
@@ -18794,7 +18679,8 @@
     "posted_at": "2026-08-16",
     "priority": 4,
     "first_seen": "2026-08-17T19:02:42.339241-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "58afc3f9deb9c01500a35ee48392e7a8",
@@ -18973,7 +18859,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-17T15:20:29.409448-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f5eee5ecafa163cc2fe7e5e165126709",
@@ -18989,7 +18876,8 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-08-17T15:20:27.587825-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "6749c4e3159fafe7242a3a52fb8bccfe",
@@ -19037,7 +18925,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-17T15:01:18.933751-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "e86b8b2a96ccde9af99f682f6e29b81e",
@@ -19053,7 +18942,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-17T15:01:16.931814-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "8b315e1a83457687c752e7529ac1ee66",
