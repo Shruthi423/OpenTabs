@@ -1,5 +1,65 @@
 [
   {
+    "id": "f7b694d2941f9723c369fa8ebfa2ecaf",
+    "company": "Marmalade",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkxoWTdJd0tHS3R3MjMyT1NrMVA2T3d3YllPM3N0a3YwWEpWdzdHOVVoR2NLYzlRMi1abXc2ZmlpX2J6SC1XaWtMcTVDQTdaUTFBOW1RbWhvVGphTXo5ZUZjX251a2JDTDFmUTF5WGZRN0JrWFNEYzMzaG01N2FDUVJsWVFIRWxqU3N30gGLAUFVX3lxTE1iTGhZN0l3S0dLdHcyMzJPU2sxUDZPd3diWU8zc3RrdjBYSlZ3N0c5VWhHY0tjOVEyLVptdzZmaWlfYnpILVdpa0xxNUNBN1pRMUE5bVFtaG9UamFNejllRmNfbnVrYkNMMWZRMXlYZlE3QmtYU0RjMzNobTU3YUNRUmxZUUhFbGpTc3c?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-08T23:42:51.340582-07:00",
+    "status": "active"
+  },
+  {
+    "id": "0423f5beac3089b542e10f01335db59e",
+    "company": "Articuler.ai",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Linge Ventures",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/articuler-ai-raises-tens-of-millions-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-08T23:42:48.307729-07:00",
+    "status": "active"
+  },
+  {
+    "id": "047e81fdcbb94f278d3d0520226381f1",
+    "company": "HydroSight",
+    "amount": "$5.0M",
+    "stage": "Seed",
+    "investors": "StageOne Ventures",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/hydrosight-raises-5m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-08T23:42:45.146012-07:00",
+    "status": "active"
+  },
+  {
+    "id": "87e92799843dba67ce0e517a90fa9977",
+    "company": "Keep Converting",
+    "amount": "$2.0M",
+    "stage": "Pre-Seed",
+    "investors": "Nuwa Capital, COTU Ventures",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/keep-converting-raises-2m-pre-seed/",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-08T23:42:42.020044-07:00",
+    "status": "active"
+  },
+  {
     "id": "c2048c70b00762199899725312aa3e42",
     "company": "Cognition",
     "amount": "$2.0B",
@@ -11489,21 +11549,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-09T01:23:46.222963-07:00",
-    "status": "active"
-  },
-  {
-    "id": "b8d161c4f933a192eebdfc1f36a189b6",
-    "company": "Vangrid",
-    "amount": "$9.0M",
-    "stage": "Seed",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcmpHMFhBS2tJbThSdjR0UjdlVXBpbjM0YlZrWWZNdHpxaVdPcFdjSWxZLWZEaG9pSzJGeUV3WkEzSENCeXN0eWhOT1V5NUpTVXBQampWVHdvU3dGenZwdjh4OVJuLXlPVzZhVTU1NEVtVjVPcUl3ZEFZVGdrVEQyMlFhaWlyQWoyQ09sakZGWFdEM0FUNUxjSld2cHdIRUprOHR5RnZ3cWp2QmRHMXBqRGRnbXpJdw?oc=5",
-    "priority": 9,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-08T21:36:14.634514-07:00",
     "status": "active"
   }
 ]

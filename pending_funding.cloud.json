@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "item": {
+      "company": "Keep Converting",
+      "amount": "$2.0M",
+      "stage": "Pre-Seed",
+      "investors": "Nuwa Capital, COTU Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/keep-converting-raises-2m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-09-09T00:12:41.019914-07:00"
+  },
+  {
+    "item": {
+      "company": "HydroSight",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": "StageOne Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hydrosight-raises-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-09T00:12:44.145808-07:00"
+  },
+  {
+    "item": {
+      "company": "Articuler.ai",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "Linge Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/articuler-ai-raises-tens-of-millions-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-09T00:12:47.307557-07:00"
+  },
+  {
+    "item": {
+      "company": "Marmalade",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkxoWTdJd0tHS3R3MjMyT1NrMVA2T3d3YllPM3N0a3YwWEpWdzdHOVVoR2NLYzlRMi1abXc2ZmlpX2J6SC1XaWtMcTVDQTdaUTFBOW1RbWhvVGphTXo5ZUZjX251a2JDTDFmUTF5WGZRN0JrWFNEYzMzaG01N2FDUVJsWVFIRWxqU3N30gGLAUFVX3lxTE1iTGhZN0l3S0dLdHcyMzJPU2sxUDZPd3diWU8zc3RrdjBYSlZ3N0c5VWhHY0tjOVEyLVptdzZmaWlfYnpILVdpa0xxNUNBN1pRMUE5bVFtaG9UamFNejllRmNfbnVrYkNMMWZRMXlYZlE3QmtYU0RjMzNobTU3YUNRUmxZUUhFbGpTc3c?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-09T00:12:50.340395-07:00"
+  },
+  {
+    "item": {
+      "company": "CloudNC",
+      "amount": "$20.0M",
+      "stage": "Extension",
+      "investors": null,
+      "location": "UK",
+      "founders": [],
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+      "priority": 5
+    },
+    "remind_at": "2026-09-09T00:12:53.214622-07:00"
+  }
+]
