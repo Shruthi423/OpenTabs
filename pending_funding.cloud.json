@@ -1,72 +1,240 @@
 [
   {
     "item": {
-      "company": "Keep Converting",
-      "amount": "$2.0M",
+      "company": "Limetax",
+      "amount": null,
       "stage": "Pre-Seed",
-      "investors": "Nuwa Capital, COTU Ventures",
-      "location": null,
+      "investors": null,
+      "location": "Berlin",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/keep-converting-raises-2m-pre-seed/",
+      "url": "https://www.thesaasnews.com/news/limetax-raises-36m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-09-09T00:12:41.019914-07:00"
+    "remind_at": "2026-09-09T05:23:40.552387-07:00"
   },
   {
     "item": {
-      "company": "HydroSight",
-      "amount": "$5.0M",
+      "company": "VideoGen",
+      "amount": "$3.3M",
       "stage": "Seed",
-      "investors": "StageOne Ventures",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hydrosight-raises-5m-seed/",
+      "url": "https://www.thesaasnews.com/news/videogen-raises-3-3m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-09-09T00:12:44.145808-07:00"
+    "remind_at": "2026-09-09T05:23:43.462215-07:00"
   },
   {
     "item": {
-      "company": "Articuler.ai",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "Linge Ventures",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/articuler-ai-raises-tens-of-millions-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-09T00:12:47.307557-07:00"
-  },
-  {
-    "item": {
-      "company": "Marmalade",
+      "company": "Bluecore Energy",
       "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkxoWTdJd0tHS3R3MjMyT1NrMVA2T3d3YllPM3N0a3YwWEpWdzdHOVVoR2NLYzlRMi1abXc2ZmlpX2J6SC1XaWtMcTVDQTdaUTFBOW1RbWhvVGphTXo5ZUZjX251a2JDTDFmUTF5WGZRN0JrWFNEYzMzaG01N2FDUVJsWVFIRWxqU3N30gGLAUFVX3lxTE1iTGhZN0l3S0dLdHcyMzJPU2sxUDZPd3diWU8zc3RrdjBYSlZ3N0c5VWhHY0tjOVEyLVptdzZmaWlfYnpILVdpa0xxNUNBN1pRMUE5bVFtaG9UamFNejllRmNfbnVrYkNMMWZRMXlYZlE3QmtYU0RjMzNobTU3YUNRUmxZUUhFbGpTc3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTkyNmZONmwwcWJCZW01bXVMZmtJZVFGanVWdTgybUc5czBUc3FfUEJYVHQ1dDZQbXItaFh4YlB6Vk9mVm5LQTdVbkMtSU5ROTgyeEFtQWFNeng1S2VfdC16SkQ0azZTWEExM1lFNTBoTTQxbGxKbkhxUk5vZWxwTXd0aU0xR1NvWlE?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-09-09T00:12:50.340395-07:00"
+    "remind_at": "2026-09-09T05:23:50.833451-07:00"
   },
   {
     "item": {
-      "company": "CloudNC",
-      "amount": "$20.0M",
-      "stage": "Extension",
-      "investors": null,
-      "location": "UK",
+      "company": "WithDoctors",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "Series Ventures&nbsp",
+      "location": null,
       "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
-      "priority": 5
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tLVdsc1ZvVEFFUVg3MkNPcTlmY1lISU90YzV3X3RPMDhZbGdLRmFTVG5aN0d4bmVVN1lVSjFoT0hqMW5uTnpjaE5RQ0QtMEp1Rm5R?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-09-09T00:12:53.214622-07:00"
+    "remind_at": "2026-09-09T05:23:53.701531-07:00"
+  },
+  {
+    "item": {
+      "company": "GenHealth.ai",
+      "amount": "$16.5M",
+      "stage": "Series A",
+      "investors": "Flare Capital Partners",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/genhealth-ai-raises-16-5m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-09T05:23:56.530213-07:00"
+  },
+  {
+    "item": {
+      "company": "ZeroRisk",
+      "amount": "$10.0M",
+      "stage": "Series A",
+      "investors": "MiddleGame Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/zerorisk-raises-10m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-09T05:23:59.558704-07:00"
+  },
+  {
+    "item": {
+      "company": "Cradlewise",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdXJ3NTNOUUNUb05qRFBJcFpRM0djb1MyZ042am16SnhxQU1hNldSRmRlNXB3VEpDdkxnOVhNT3k4VnR0YWZuZ3Z6LVhzazhIQS1oTlcxeTBRWVVfN3QxQlBvTnZFTk5TSXBoeExKRExXS0dvQkVnclRsbmZoakZPVzJzd0szR0I0Z0ptOS0zVzVFVmVaRDBCSkxFbTRqcWE3VDJxdDJJdVU?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-09-09T05:24:02.533255-07:00"
+  },
+  {
+    "item": {
+      "company": "Carrum Mobility",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObnVkMS1fWlZwMklCVEptWmx0WVZjREliX3poRUdoY2ZjSTVuR3JaRFowaUQzSXAwTVRHR3pwVV9Xck84bk9fQlBVbHdQUWtfekZtZTM4SEp4Ui1yT0FZXzNOTUFUbWMtZzFjdGNvenRaLWFLczI2VFdWSVZLUzVEZkRRbTNxNnRvY0tqYUcwWHJJVXV5cTVnZmhlYkc?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-09-09T05:24:08.212470-07:00"
+  },
+  {
+    "item": {
+      "company": "Developers",
+      "amount": null,
+      "stage": "Bridge",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/09/asia-ai-data-center-backlash/",
+      "priority": 6
+    },
+    "remind_at": "2026-09-09T05:24:11.047155-07:00"
+  },
+  {
+    "item": {
+      "company": "BrightPlan",
+      "amount": null,
+      "stage": "Series C",
+      "investors": "ABS Capital Partners",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/brightplan-raises-series-c-funding/",
+      "priority": 6
+    },
+    "remind_at": "2026-09-09T05:24:13.936843-07:00"
+  },
+  {
+    "item": {
+      "company": "Saudi\u2019s\u00a0Humain",
+      "amount": "$2.5B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/09/saudi-humain-planning-ipo-2-5-billion-fund-expansion-plans-moove-adgm/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-09T05:24:16.892069-07:00"
+  },
+  {
+    "item": {
+      "company": "Actionable",
+      "amount": "$10.0M",
+      "stage": null,
+      "investors": null,
+      "location": "Paris",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/actionable-raises-10m-hi-inov-predictive-customer-experience/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-09T05:24:19.791159-07:00"
+  },
+  {
+    "item": {
+      "company": "Implicity",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/implicity-raises-35m-growth-funding-iris-five-arrows-cardiac-ai/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-09T05:24:23.673652-07:00"
+  },
+  {
+    "item": {
+      "company": "Forus",
+      "amount": "$150.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/forus-raises-150m-at-3b-valuation-as-ai-network-targets-every-doctors-office/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-09T05:24:26.742526-07:00"
+  },
+  {
+    "item": {
+      "company": "Betterplan",
+      "amount": "$1.1M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/betterplan-raises-1-1m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-09T05:24:29.762983-07:00"
+  },
+  {
+    "item": {
+      "company": "Cylake",
+      "amount": "$245.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/cylake-raises-245m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-09T05:24:32.891481-07:00"
+  },
+  {
+    "item": {
+      "company": "Carly",
+      "amount": null,
+      "stage": null,
+      "investors": "Carly Secures Growth Capital, Pinnacle Growth, Secondary Fund",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/carly-secures-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-09T05:24:35.825758-07:00"
   }
 ]

@@ -1,5 +1,39 @@
 [
   {
+    "id": "214fcb2c538fd8304c7c56620246508d",
+    "title": "Brand Designer, Web",
+    "company": "Lovable",
+    "location": "New York City",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/lovable/76f4a64e-b343-4c0e-b5f1-ea7686001346",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-09-09T04:53:18.864048-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "c616bad34d2fbfa5306c0da401094518",
+    "title": "UX/UI Designer",
+    "company": "Whitecollars",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1598726-remote-egypt-ux-ui-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "3h",
+    "priority": 5,
+    "first_seen": "2026-09-09T04:53:17.164390-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "226bb4dabf54195f5c414704dce526f5",
     "title": "Product Design Intern",
     "company": "Coinbase",
@@ -5217,22 +5251,5 @@
     "first_seen": "2026-08-09T19:33:01.943678-07:00",
     "status": "active",
     "jd": "no"
-  },
-  {
-    "id": "a50665c483a53e6002bced2b41589545",
-    "title": "UX Designer",
-    "company": "Accenture Federal Services",
-    "location": "Chantilly, VA",
-    "salary": "$90,000 - $195,400",
-    "url": "https://uiuxjobsboard.com/job/1552426-ux-designer-chantilly-va-united-states",
-    "source": "UIUXJobsBoard",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "5h",
-    "priority": 4,
-    "first_seen": "2026-08-09T04:01:53.233107-07:00",
-    "status": "active",
-    "jd": "yes"
   }
 ]
