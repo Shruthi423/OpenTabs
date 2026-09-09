@@ -1,5 +1,22 @@
 [
   {
+    "id": "30afeea10ae0c539185165d8e6f0d4c2",
+    "title": "Product Designer",
+    "company": "WorkWave\u2122",
+    "location": "Remote, US",
+    "salary": "$125,000 \u2013 $130,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=f7b3605fe0c437e2",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-07",
+    "priority": 4,
+    "first_seen": "2026-09-08T18:48:58.059156-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "682b9084739383b358b62cb0d3c23647",
     "title": "Product Designer",
     "company": "StartX Med",
@@ -17493,23 +17510,6 @@
     "jd": "yes"
   },
   {
-    "id": "5348190b3e6fd1c18101b72aeb9611ff",
-    "title": "UI/UX Designer",
-    "company": "h3 Technologies, LLC",
-    "location": "New York, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4456329523",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-19T10:11:55.723909-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "99450fe8ff721e3bfe5f07c9897a0ec7",
     "title": "Product Designer II",
     "company": "Microsoft",
@@ -17627,40 +17627,6 @@
     "first_seen": "2026-08-19T09:52:53.010953-07:00",
     "status": "active",
     "jd": "no"
-  },
-  {
-    "id": "5e00bca6304bf2192e71edf8ff5b82c5",
-    "title": "UX Researcher, Quantitative",
-    "company": "UXR Hunt",
-    "location": "Menlo Park, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454999742",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-19T09:52:50.963767-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "faffa0ed895dc851c93db9e553a63387",
-    "title": "UX Engineer",
-    "company": "Reality Defender",
-    "location": "Manhattan, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455933905",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-19T09:52:48.983447-07:00",
-    "status": "active",
-    "jd": "yes"
   },
   {
     "id": "fc555e9807ef5d193557cb1ad9b3760f",
@@ -18020,23 +17986,6 @@
     "jd": "yes"
   },
   {
-    "id": "065986d2b66357b136c3b1959f5ba5ff",
-    "title": "UX Researcher Associate",
-    "company": "AAA Auto Club Enterprises",
-    "location": "Los Angeles, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4452880016",
-    "source": "Linkedin",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-18T18:35:57.797444-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "3fccbbbbc512be35f5f2eb5b6098326f",
     "title": "Design Researcher",
     "company": "Southern Glazer's Wine & Spirits",
@@ -18173,23 +18122,6 @@
     "jd": "no"
   },
   {
-    "id": "3c433ae2c29da6a192e912a116601d0e",
-    "title": "User Experience Designer",
-    "company": "Akkodis",
-    "location": "California, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4452862814",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-18T18:35:32.698338-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "9994c395c29d032884762d4f6bdc3647",
     "title": "Product Designer",
     "company": "NinjaOne",
@@ -18271,23 +18203,6 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-18T18:35:21.099863-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "7ac76566178653fc16c0f75c3f3a8a44",
-    "title": "Product Design Engineer",
-    "company": "Brightsmith",
-    "location": "Mount Pleasant, PA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4439840140",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-18T15:56:22.040826-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -18377,40 +18292,6 @@
     "jd": "no"
   },
   {
-    "id": "67e59bb5fec291625deb42c1a6ebd074",
-    "title": "UI/UX Designer",
-    "company": "Chenega Professional Services Strategic  Business Unit",
-    "location": "Georgia, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455969126",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-18T15:53:48.425442-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "2f06eb5a0967d63fcaadc1a804ee7491",
-    "title": "UI/UX Designer (Only locals)",
-    "company": "R CUBE CREATIVE CONSULTING INC",
-    "location": "Plano, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454932074",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-18T15:53:46.344000-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "4c549f8086fa83fd31ea67fe2398552a",
     "title": "UI Developer",
     "company": "Nixon Web Technology",
@@ -18426,23 +18307,6 @@
     "first_seen": "2026-08-18T15:53:44.330157-07:00",
     "status": "active",
     "jd": "no"
-  },
-  {
-    "id": "d69bce6c444b7a1ba94fa8c175c0bed9",
-    "title": "UI/UX Design Expert",
-    "company": "Dexian",
-    "location": "Coppell, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4452843380",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-18T15:53:00.943784-07:00",
-    "status": "active",
-    "jd": "yes"
   },
   {
     "id": "5b078b8c3bb560742601cc4cc86a2bcc",
@@ -18496,40 +18360,6 @@
     "jd": "yes"
   },
   {
-    "id": "fb95f85b0a747d46d88ad8878ed02c3c",
-    "title": "UI/UX Design Engineer",
-    "company": "Mujin",
-    "location": "Suwanee, GA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455941265",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-18T13:27:59.138227-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "2382b0a555fbe8e95bd1d8de84b45ea8",
-    "title": "User Interface Designer",
-    "company": "Moon Rabbit",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4443428622",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-18T13:26:17.537679-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "c3a750abf0f662be76622b8ebd47fed8",
     "title": "Product Design and Developer",
     "company": "CHUMS",
@@ -18562,23 +18392,6 @@
     "first_seen": "2026-08-18T13:23:15.209750-07:00",
     "status": "active",
     "jd": "no"
-  },
-  {
-    "id": "9c5178d5ae532b80cfaf93b8cd873495",
-    "title": "Web & UI Designer",
-    "company": "Jewish National Fund - USA",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4452843118",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-18T12:09:30.587840-07:00",
-    "status": "active",
-    "jd": "yes"
   },
   {
     "id": "d67645e45ab4d06a4bf0b43fd6c3deab",
@@ -18679,7 +18492,8 @@
     "posted_at": "2026-08-17",
     "priority": 1,
     "first_seen": "2026-08-18T12:08:57.639565-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "d027ee9f8075b602973e904e971bc260",
@@ -18712,7 +18526,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-18T11:17:50.479631-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "093b66ba8effa5ea702722f5f9b4aff6",
@@ -18745,41 +18560,8 @@
     "posted_at": "2026-08-17",
     "priority": 4,
     "first_seen": "2026-08-18T10:58:43.091881-07:00",
-    "status": "active"
-  },
-  {
-    "id": "f54005309e47647df9af89c6865e1f57",
-    "title": "UX Researcher",
-    "company": "Ipsos",
-    "location": "Chicago, IL",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455777503",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-18T10:58:31.089926-07:00",
     "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "f1a7d58b38fd9c6858e7d0dcd31d489c",
-    "title": "Brand Designer",
-    "company": "Astrolab",
-    "location": "Hawthorne, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4452837522",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-18T10:58:29.160728-07:00",
-    "status": "active",
-    "jd": "yes"
+    "jd": "no"
   },
   {
     "id": "62db3235f668d4bcacff165043ea5c9c",
@@ -18897,39 +18679,6 @@
     "status": "active"
   },
   {
-    "id": "e74891b0542dfdd77c35c78d159968cd",
-    "title": "UX/UI Designer",
-    "company": "TEKsystems",
-    "location": "Carlsbad, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454465867",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-18T10:19:28.545634-07:00",
-    "status": "active"
-  },
-  {
-    "id": "ab6188a503f934f4088ebeb857508572",
-    "title": "UI/UX Engineer",
-    "company": "Anagh Technologies Inc",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4452833049",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-18T10:19:11.736936-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "c0ad3c8cbb12d15bfa6df4a26df156b0",
     "title": "Product Design Engineer (Contract role)",
     "company": "Plumbing Products Group",
@@ -18944,23 +18693,6 @@
     "priority": 4,
     "first_seen": "2026-08-18T09:45:20.031058-07:00",
     "status": "active"
-  },
-  {
-    "id": "f163c9ba8987a47146a19f0ff5699c2b",
-    "title": "Quantitative UX Researcher, Search Ads",
-    "company": "UXR Hunt",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454742954",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-18T09:45:16.080849-07:00",
-    "status": "active",
-    "jd": "yes"
   },
   {
     "id": "64c2f9f8109da5ee9afce0c26864bfaa",
@@ -19009,7 +18741,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T09:45:08.228674-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "cfbddfe1a11c137694a435b4785f417c",
@@ -19028,38 +18761,6 @@
     "status": "active"
   },
   {
-    "id": "2ec08b007caf9685c55771e957acb04e",
-    "title": "UX Designer- Product Designer",
-    "company": "FUSTIS LLC",
-    "location": "Charlotte, NC",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455764126",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-18T09:25:50.034236-07:00",
-    "status": "active"
-  },
-  {
-    "id": "40050c5ab14c1a81f351c1cd619347b0",
-    "title": "UX Designer",
-    "company": "System Soft Technologies",
-    "location": "Charlotte, NC",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455744451",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-18T09:25:47.896310-07:00",
-    "status": "active"
-  },
-  {
     "id": "13581ce10e66b6fc257963869e6c8953",
     "title": "User Experience Designer",
     "company": "Haystack",
@@ -19073,7 +18774,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-18T09:25:45.837032-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "9b7d09f638d622ba7996b89e49b5bcb5",
@@ -19105,7 +18807,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-18T09:25:36.662160-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b64941bc4c797fb90f98b26216b99e8a",
@@ -19137,55 +18840,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-18T09:25:32.600502-07:00",
-    "status": "active"
-  },
-  {
-    "id": "eb42fd983320de27cf478cee586d76cd",
-    "title": "Hardware Product Designer",
-    "company": "Menlo Research",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454760199",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-18T09:25:30.522419-07:00",
-    "status": "active"
-  },
-  {
-    "id": "e5b81527babd365285a20832219de810",
-    "title": "Product Design Engineer \u2013 Manufacturing",
-    "company": "ZenithInfotek LLC",
-    "location": "Austin, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454763640",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-18T09:25:28.785065-07:00",
-    "status": "active"
-  },
-  {
-    "id": "4fe8d54375e377ef7dabfa64bbfb22be",
-    "title": "UX Designer (III) [AQ-13661]",
-    "company": "Aquent",
-    "location": "Mountain View, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454467809",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-17T23:11:36.578777-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "aa3ef271e755d7abcefc4a87867c123a",
@@ -19217,23 +18873,8 @@
     "posted_at": "nan",
     "priority": 1,
     "first_seen": "2026-08-17T22:43:41.256558-07:00",
-    "status": "active"
-  },
-  {
-    "id": "57c8b5bbac147f1dcc29fa119f2d9697",
-    "title": "UX Researcher",
-    "company": "UXR Hunt",
-    "location": "Boston, MA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454482051",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-17T19:21:27.009953-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "3c993be2f3643f7ba6f7614bbe1fe0f6",
@@ -19249,7 +18890,8 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-17T19:02:44.193141-07:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d5920f6a1c56f6dba9b330d1df254aae",
@@ -19316,22 +18958,6 @@
     "status": "active"
   },
   {
-    "id": "ed4f3f548f77adbad99d3630dc32b577",
-    "title": "Product Design Engineer",
-    "company": "The Judge Group",
-    "location": "Mountain View, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4455375579",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-08-17T17:32:51.534679-07:00",
-    "status": "active"
-  },
-  {
     "id": "ff59f988259281701b609579010d298d",
     "title": "Quantitative UX Researcher, Applied AI Solutions",
     "company": "Amazon Web Services (AWS)",
@@ -19361,22 +18987,6 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-08-17T16:55:13.832667-07:00",
-    "status": "active"
-  },
-  {
-    "id": "f33247fffcd2c9f66366a984e8c831da",
-    "title": "Brand Designer",
-    "company": "Radical AI",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454439098",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-17T16:55:11.944763-07:00",
     "status": "active"
   },
   {
