@@ -56851,5 +56851,37 @@
     ],
     "first_seen": "2026-09-10T11:27:29.662081-07:00",
     "status": "active"
+  },
+  "0bd9c8a8b7a13ff53f4380219e877789": {
+    "id": "0bd9c8a8b7a13ff53f4380219e877789",
+    "company": "Chipmaker Positron",
+    "amount": "$875.0M",
+    "stage": "?",
+    "investors": "NEA, Valor Equity Partners, Andra Capital",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/10/chipmaker-positron-nabs-875m-to-speed-up-inference-with-consumer-grade-memory/",
+    "priority": 3,
+    "founders": [
+      "Jim Clark"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-10T14:04:11.294104-07:00",
+    "status": "active"
+  },
+  "a0de7d9b9de8aba29aca8c6d22551ea9": {
+    "id": "a0de7d9b9de8aba29aca8c6d22551ea9",
+    "company": "Musk's Boring Co.",
+    "amount": "$23.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQUZwQUdoRGQ1Z2IzVk9ITWU4NVZFd0ZnS1VWc3hRMXVmVW04ckhXdi1NX0ttWXh2SWRUejVMM2plRm9HZ0x4enRHTE9faWRvZVlKa3d1bFRHLVJ1MUJXUjZSS1prb3pSVk95M0l0TllBVXpaRGNBdE9Fc1hKS0g2ME16NnZpUHB4dkRuX0tfSlgxU2RlTy03a0RqbGFaVGFVUVZIYm5iTWN4OThiNE5R?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-10T14:04:17.073283-07:00",
+    "status": "active"
   }
 }
