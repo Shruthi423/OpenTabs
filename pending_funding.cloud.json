@@ -1,32 +1,16 @@
 [
   {
     "item": {
-      "company": "Chipmaker Positron",
-      "amount": "$875.0M",
-      "stage": null,
-      "investors": "NEA, Valor Equity Partners, Andra Capital",
-      "location": null,
-      "founders": [
-        "Jim Clark"
-      ],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/10/chipmaker-positron-nabs-875m-to-speed-up-inference-with-consumer-grade-memory/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-10T14:34:10.293921-07:00"
-  },
-  {
-    "item": {
-      "company": "Musk's Boring Co.",
-      "amount": "$23.0B",
-      "stage": null,
+      "company": "Mach Industries",
+      "amount": "$600.0M",
+      "stage": "Series C",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQUZwQUdoRGQ1Z2IzVk9ITWU4NVZFd0ZnS1VWc3hRMXVmVW04ckhXdi1NX0ttWXh2SWRUejVMM2plRm9HZ0x4enRHTE9faWRvZVlKa3d1bFRHLVJ1MUJXUjZSS1prb3pSVk95M0l0TllBVXpaRGNBdE9Fc1hKS0g2ME16NnZpUHB4dkRuX0tfSlgxU2RlTy03a0RqbGFaVGFVUVZIYm5iTWN4OThiNE5R?oc=5",
-      "priority": 3
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QeTBTR3Rmb2Y4SWlsRDJXVGgtLUkwT1R4WTFCWWpYaFQ1TDlSV2d4dGx5bmhZd2V3cUpEa0RVZFZrcE1DT2RqOGNuaHRMY2FHekF3?oc=5",
+      "priority": 6
     },
-    "remind_at": "2026-09-10T14:34:16.073114-07:00"
+    "remind_at": "2026-09-10T16:40:21.110254-07:00"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "id": "f3ee23cfd276fdfbc752f7dd4431b161",
+    "company": "Mach Industries",
+    "amount": "$600.0M",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QeTBTR3Rmb2Y4SWlsRDJXVGgtLUkwT1R4WTFCWWpYaFQ1TDlSV2d4dGx5bmhZd2V3cUpEa0RVZFZrcE1DT2RqOGNuaHRMY2FHekF3?oc=5",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-10T16:10:22.110437-07:00",
+    "status": "active"
+  },
+  {
     "id": "a0de7d9b9de8aba29aca8c6d22551ea9",
     "company": "Musk's Boring Co.",
     "amount": "$23.0B",
@@ -12012,21 +12027,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-10T16:17:57.896210-07:00",
-    "status": "active"
-  },
-  {
-    "id": "4e8e9ef7cb1e0fe7e85d0482db568a4b",
-    "company": "Holiday Robotics",
-    "amount": "Undisclosed",
-    "stage": "Series A",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUlHTmhXZ0d3OFF2MExMWVVXWHBzbkJ6djF1TnZsZzV5Z29KeWIyclhUcTZLSmtFdURpd2hiWElfWEVDWkdRRnV0ZENrM2ZsNHo3V0lfUnRmd19lNWxaQ3N6SGJ0aktwa1pZOGh2VlRyWldacXhpbVFxRVNQTFRPZVVuZWpkRmRFN3J1cmYtRGhkaHJ0cHBvSnZaa2hyaC00MVFOUjJrdFdfTzdTUmFCc1NFWkFiSm1sclVOVQ?oc=5",
-    "priority": 8,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-10T14:51:32.821015-07:00",
     "status": "active"
   }
 ]
