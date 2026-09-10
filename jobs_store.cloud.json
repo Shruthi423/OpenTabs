@@ -17791,7 +17791,9 @@
     "priority": 2,
     "first_seen": "2026-09-07T05:52:22.564116-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "3b25a2939893293f0f0645e219086fb2": {
     "id": "3b25a2939893293f0f0645e219086fb2",
@@ -17810,7 +17812,9 @@
     "priority": 2,
     "first_seen": "2026-09-07T05:52:25.801513-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "7be4cc0fdee4b7736beb9b9b44e594e9": {
     "id": "7be4cc0fdee4b7736beb9b9b44e594e9",
@@ -17829,7 +17833,9 @@
     "priority": 2,
     "first_seen": "2026-09-07T05:52:27.479184-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "b7a72e71092cc2d2e53315ca8a22e5bf": {
     "id": "b7a72e71092cc2d2e53315ca8a22e5bf",
@@ -17848,7 +17854,9 @@
     "priority": 4,
     "first_seen": "2026-09-07T05:52:29.110222-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "9d13471565f7785fba66a6e68d5d7a9c": {
     "id": "9d13471565f7785fba66a6e68d5d7a9c",
@@ -17867,7 +17875,9 @@
     "priority": 4,
     "first_seen": "2026-09-07T05:52:30.766373-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "bf878410476f6314c525e6c4dea2fb5e": {
     "id": "bf878410476f6314c525e6c4dea2fb5e",
@@ -17886,7 +17896,9 @@
     "priority": 4,
     "first_seen": "2026-09-07T05:52:32.577485-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "912ea9b9fc0caf495952f7886a8ad6ec": {
     "id": "912ea9b9fc0caf495952f7886a8ad6ec",
@@ -17905,7 +17917,8 @@
     "priority": 4,
     "first_seen": "2026-09-07T05:52:34.221555-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00"
   },
   "ac1be1c4a74fbea1d55a5f357e5d63d4": {
     "id": "ac1be1c4a74fbea1d55a5f357e5d63d4",
@@ -17924,7 +17937,9 @@
     "priority": 4,
     "first_seen": "2026-09-07T05:52:36.017700-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "63880efb57ace970d244c3b965075ca0": {
     "id": "63880efb57ace970d244c3b965075ca0",
@@ -17943,7 +17958,9 @@
     "priority": 4,
     "first_seen": "2026-09-07T05:52:37.810299-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "378e803a3eae65c7a27705ac0733e7df": {
     "id": "378e803a3eae65c7a27705ac0733e7df",
@@ -17962,7 +17979,9 @@
     "priority": 3,
     "first_seen": "2026-09-07T05:52:39.610644-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "845b6f66e22c79631a6342ac2bdc3126": {
     "id": "845b6f66e22c79631a6342ac2bdc3126",
@@ -17981,7 +18000,8 @@
     "priority": 2,
     "first_seen": "2026-09-07T05:52:41.257651-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00"
   },
   "cb4d81d5462256a48e27a88ad62ef8c6": {
     "id": "cb4d81d5462256a48e27a88ad62ef8c6",
@@ -18000,7 +18020,9 @@
     "priority": 4,
     "first_seen": "2026-09-07T05:52:42.904171-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "abc33359f7ad364d555c9d4010b3d389": {
     "id": "abc33359f7ad364d555c9d4010b3d389",
@@ -18019,7 +18041,9 @@
     "priority": 4,
     "first_seen": "2026-09-07T05:52:44.551112-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "c2b540781214fb08b9c7426d14aab4cb": {
     "id": "c2b540781214fb08b9c7426d14aab4cb",
@@ -18038,7 +18062,8 @@
     "priority": 3,
     "first_seen": "2026-09-07T05:52:46.356946-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00"
   },
   "6bfc4ef8d29802edaea4772f6dbc7fbc": {
     "id": "6bfc4ef8d29802edaea4772f6dbc7fbc",
@@ -18057,7 +18082,9 @@
     "priority": 4,
     "first_seen": "2026-09-07T05:52:48.125520-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "0cfc400af90acdfb90d59172eb0d231f": {
     "id": "0cfc400af90acdfb90d59172eb0d231f",
@@ -18076,7 +18103,9 @@
     "priority": 4,
     "first_seen": "2026-09-07T05:52:49.772680-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "e70e55811f76da902a2dc23a1ab45db8": {
     "id": "e70e55811f76da902a2dc23a1ab45db8",
@@ -18095,7 +18124,9 @@
     "priority": 3,
     "first_seen": "2026-09-07T05:52:51.442092-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "5c43ed29e578ef50c0afdfeb596cd19b": {
     "id": "5c43ed29e578ef50c0afdfeb596cd19b",
@@ -18114,7 +18145,9 @@
     "priority": 4,
     "first_seen": "2026-09-07T05:52:53.246939-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "5e29cbf2728fa43aaa9096b13d3e6e79": {
     "id": "5e29cbf2728fa43aaa9096b13d3e6e79",
@@ -18133,7 +18166,9 @@
     "priority": 4,
     "first_seen": "2026-09-07T05:52:54.890838-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "0e80d53c84f090f777f6dcd9e2b63ce1": {
     "id": "0e80d53c84f090f777f6dcd9e2b63ce1",
@@ -18152,7 +18187,9 @@
     "priority": 2,
     "first_seen": "2026-09-07T05:52:56.680795-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "1ed32e53a47f574dc3aeaa1989ce8e29": {
     "id": "1ed32e53a47f574dc3aeaa1989ce8e29",
@@ -18171,7 +18208,9 @@
     "priority": 5,
     "first_seen": "2026-09-07T05:53:24.887532-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "ffb45d2d2ab955125b50fce16734528b": {
     "id": "ffb45d2d2ab955125b50fce16734528b",
@@ -18190,7 +18229,9 @@
     "priority": 5,
     "first_seen": "2026-09-07T05:53:26.673804-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "9303364b08b665b3615fee4710d65eef": {
     "id": "9303364b08b665b3615fee4710d65eef",
@@ -18209,7 +18250,9 @@
     "priority": 5,
     "first_seen": "2026-09-07T05:53:28.448403-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "5e905fd2bdb885b08d9a8cf3423a231e": {
     "id": "5e905fd2bdb885b08d9a8cf3423a231e",
@@ -18228,7 +18271,9 @@
     "priority": 4,
     "first_seen": "2026-09-07T05:53:30.231368-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "f9956f63f49df7364bdc9afe2fe7f294": {
     "id": "f9956f63f49df7364bdc9afe2fe7f294",
@@ -18247,7 +18292,9 @@
     "priority": 5,
     "first_seen": "2026-09-07T05:53:32.036982-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "dead_strikes": 0
   },
   "2c4bc4ad29426c0a2062fc83a884d02c": {
     "id": "2c4bc4ad29426c0a2062fc83a884d02c",
@@ -18837,6 +18884,44 @@
     "posted_at": "5h",
     "priority": 3,
     "first_seen": "2026-09-10T04:37:52.952572-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "12ace1267c11cae52317b12b16acc4c2": {
+    "id": "12ace1267c11cae52317b12b16acc4c2",
+    "title": "Product Designer",
+    "company": "Agentio",
+    "location": "New York, NY",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/agentio/add1f39c-ca77-4af1-aa38-e8eb188cc0d4",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "ABOUT AGENTIO\n\nAgentio enables marketers to buy creator led ads as easily and scalably as Meta or Google ads\u2014automating sourcing, pricing, contracting, delivery, and measurement\u2014so work that took months now happens in minutes.\n\nWe're on a mission to transform a $800B digital ad ecosystem by shifting",
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-09-10T08:10:02.529241-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "fa5b7dbd17c7420c3c92483df8166ce4": {
+    "id": "fa5b7dbd17c7420c3c92483df8166ce4",
+    "title": "Brand Designer",
+    "company": "Agentio",
+    "location": "New York, NY",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/agentio/21a5c9c9-ae77-4a2c-bafd-c572d1e7e854",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "ABOUT AGENTIO\n\nAgentio enables marketers to buy creator led ads as easily and scalably as Meta or Google ads\u2014automating sourcing, pricing, contracting, delivery, and measurement\u2014so work that took months now happens in minutes.\n\nWe're on a mission to transform a $800B digital ad ecosystem by shifting",
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-09-10T08:10:04.141078-07:00",
     "status": "active",
     "applied_at": null
   }
