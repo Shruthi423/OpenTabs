@@ -1,72 +1,284 @@
 [
   {
     "item": {
-      "company": "Milan-based Bynario",
+      "company": "Piston Technologies",
+      "amount": "$15.0M",
+      "stage": "Series A",
+      "investors": "Spark Capital, FPV Ventures",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/10/piston-technologies-raises-15m-to-expand-its-cardless-payments-tech-for-gas-guzzling-truckers/",
+      "priority": 11
+    },
+    "remind_at": "2026-09-10T05:08:15.090839-07:00"
+  },
+  {
+    "item": {
+      "company": "Harmoni",
+      "amount": "$10.0M",
+      "stage": "Series A",
+      "investors": "Bessemer, Bessemer Venture Partners",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/harmoni-raises-10m-series-a/",
+      "priority": 11
+    },
+    "remind_at": "2026-09-10T05:08:17.955662-07:00"
+  },
+  {
+    "item": {
+      "company": "Eubrics",
       "amount": null,
       "stage": "Pre-Seed",
       "investors": null,
-      "location": "Milan",
+      "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPME9tQ2ptNGUtOGU0aU81b0tsc2V5MmxMOVlfUk03VllTREQzUHlNbVNwX3BRajR3bWQ3LVlZSldqWTdXT0N0RDluYUNWTW8wVHBNTDNxZ3B1WjdQVlBmM0JCZWtuUzhnckpmVUt0MEw3ZDFKUlVLdHYzMnVMT2p1M2pvdU1qdWxLNGZxcmNkNkNDczczWlBKQ2JURWF2SXlhLXJKWkx3QjRGaGtlMjEwb3U3TUNXREhQam1DTjNUN2VaRHQ1NzhocFdDSnFIQUNKMGNUSURjeVY?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/eubrics-raises-pre-seed-funding/",
       "priority": 10
     },
-    "remind_at": "2026-09-09T23:46:51.221791-07:00"
+    "remind_at": "2026-09-10T05:08:21.557843-07:00"
   },
   {
     "item": {
-      "company": "Concorda",
-      "amount": "$3.8M",
-      "stage": "Seed",
-      "investors": "Sazze Partners",
+      "company": "Botsi",
+      "amount": "$1.5M",
+      "stage": "Pre-Seed",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/concorda-raises-3-8m-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/botsi-raises-1-5m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-09-09T23:46:54.243143-07:00"
+    "remind_at": "2026-09-10T05:08:24.530193-07:00"
   },
   {
     "item": {
-      "company": "Wyre",
+      "company": "Fusionality",
+      "amount": "$3.7M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/fusionality-raises-3-7m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-09-10T05:08:27.655449-07:00"
+  },
+  {
+    "item": {
+      "company": "Onix",
       "amount": "$5.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/onix-raises-5m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-09-10T05:08:30.688590-07:00"
+  },
+  {
+    "item": {
+      "company": "ClaimQI",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/claimqi-raises-500k-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-10T05:08:33.660098-07:00"
+  },
+  {
+    "item": {
+      "company": "PHYMI",
+      "amount": "$100.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkl1OV9CRFJVcHRLSFZiVkktUGtVYUx3QnN5c0t3ZXFjdTlabTdtaDBEZHZmbWtrVE5PWUllRUFtd2hQNl9SQWs5YUFua0tKMVl1dlFNRVVpSFp2Z3RQVUwwU1EzVGZ5akVwYkNRNU1mbDR1eFNvT1pnbWtUZlA0SDFZRUdkaU9iMWQ0WTVGazhxWk9ybTZoOVVoZkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzZ5X2d4NC1uOUZrTjlCTHVIcXdhX0Q1NUVVaXAxdHNvenJCNkhCUzVCZ2NUXzRhNmo5enUxXy15QzQ1RGR5OVY1QlRDaHRobTN5QXIzSjNrdXdmc3NTWi02UTljeEdiSWU3WE1OczBhZG9UZ3J4QzJEem5hX2hWS1gyb25vNi15UHBpcV9qVXlVcVBRM1RJYndnUmE0Z3BibUtyag?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-09-09T23:46:57.223639-07:00"
+    "remind_at": "2026-09-10T05:08:36.673264-07:00"
   },
   {
     "item": {
-      "company": "Qingyan",
-      "amount": "$15.0M",
-      "stage": "Series A",
+      "company": "FARx",
+      "amount": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSmpEbk01d1k0c2s3ZFl3TzdkX0paazVOR1ZwMC00ME83cGlVV1k5Z0xWemUyLXBScVBYMENnblA4c2dhVjUyVGRTTHFrWDluNEdxMjZ6M05DYkFzenI4cWNPVm53VFFGcnUtVFhrdUlYb3d3S0VaUE92NXJTQ19QbGw1cnFOSG5IYTZmWkg5QUVnbWJSOWRISzQ2WUJaUHF1SS1sOW91UGs1QzEwYUJj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd0x4WGFUcTREd2NLMUV4Q1Y3WWFiY2lsakVnMU1US25fOE04QnduV0Z0V0dSd2F4QlQ4ZkFURkJOdkVOc19kQ3JCQnRaWTNYcDF2UEJyd0xMbFNKdFI3YzRsLTFYZHpHVWR5OXlKYlA5RnoweXJSNmRtSjBLQ0dUeGtadklmY05NQXRCT2FWcU1Sbm5SZDJobEtUVEpvTjJGRUdJLWNIOA?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-10T05:08:39.497980-07:00"
+  },
+  {
+    "item": {
+      "company": "IVEX",
+      "amount": null,
+      "stage": "Series A",
+      "investors": "The Faktory and Dedicated",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ivex-raises-5m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-09-09T23:47:00.101327-07:00"
+    "remind_at": "2026-09-10T05:08:42.322056-07:00"
   },
   {
     "item": {
-      "company": "Kapital",
-      "amount": "$125.0M",
-      "stage": "Series C",
-      "investors": "Tru Arrow Partners",
-      "location": "Mexico City",
+      "company": "Buildcheck",
+      "amount": "$12.0M",
+      "stage": "Series A",
+      "investors": "Telescope Partners",
+      "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kapital-raises-125m-series-c-extension/",
+      "url": "https://www.thesaasnews.com/news/buildcheck-raises-12m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-10T05:08:45.329349-07:00"
+  },
+  {
+    "item": {
+      "company": "Beep",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/beep-closes-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-09-10T05:08:48.334200-07:00"
+  },
+  {
+    "item": {
+      "company": "Carputty",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/carputty-raises-series-b-funding/",
+      "priority": 7
+    },
+    "remind_at": "2026-09-10T05:08:51.334329-07:00"
+  },
+  {
+    "item": {
+      "company": "South Korea",
+      "amount": null,
+      "stage": "Bridge",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/measure-innovation-ecosystem-south-korea-onetti-mind-the-bridge/",
       "priority": 6
     },
-    "remind_at": "2026-09-09T23:47:03.046920-07:00"
+    "remind_at": "2026-09-10T05:08:58.738825-07:00"
+  },
+  {
+    "item": {
+      "company": "$5",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/10/trump-dividend-check-5000",
+      "priority": 3
+    },
+    "remind_at": "2026-09-10T05:09:01.562700-07:00"
+  },
+  {
+    "item": {
+      "company": "Elon Musk's X",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Silicon Valley",
+      "founders": [
+        "Jensen Huang"
+      ],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/10/elon-musk-x-ai-community-group-chat",
+      "priority": 3
+    },
+    "remind_at": "2026-09-10T05:09:07.281267-07:00"
+  },
+  {
+    "item": {
+      "company": "Arlequin",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/arlequin-ai-raises-28m-series-a-redalpine-otb-defence-intelligence/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-10T05:09:11.427406-07:00"
+  },
+  {
+    "item": {
+      "company": "Elon Musk\u2019s Boring Company",
+      "amount": "$29.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFVKYV82akVRR2JVVldFTTlXcFBCVDkxWWY1b2lfSWtRblBXWmZ4Rm1RTjlEcDFMei1NSUdXYXMyUUpyVGYtSEgzMjNrSExLLUZ1bmMtT1hnZVN5Z1V1a0QweGJhRlVRV3VKSldteXktaTJ2RElUTXBEVmZCV2JsVkZEQXRldU5nRHh5WTJqMURGQ21BVVFaZkY1ZHduTTFnaTJUWUdLVEFOU004UGYyQjZ4S2puNXhHT2dNNU9BWEx5cWF1Z3c?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-10T05:09:16.990982-07:00"
+  },
+  {
+    "item": {
+      "company": "Musk\u2019s Boring Co",
+      "amount": "$23.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzBCRnQ5eDdTQ1d0RHVzXzJLcWJaamZSNFlrUFRTQmFrY2dWZEpyb1VqWUJnY0duMDNhRExQNndOLWJkRWhGemxtWFVuR0NyUU00T0VfR3kwcUxsWkRuQVZ2WXM4T3d2TUl5UXpRU1VNcVBWejNIWXBfVjJuLXZMZHJKNnpqTVphSVc2UHZVVXlnYVpQQVlPd0JfUEd0TDg0dWVUU19HNDI1Tkpj0gGyAUFVX3lxTFBnSXZhRUxyWmNPSldBQ194aUQyeUw0bG5LRWV0RmJENnVjM29iX0FURklubVI0YlYyMXBHTFNlZ2t6UU4tRHNwUlFWSTI4b2owZi00dXkyMmF6ekI3T3JBSDVhTGR0SS1HTmZRcHY4Rzg5QWlmWEJVbjI1bDBZYkljSnZZTVAweWFLNlFpX0FHeEpUc3JyUjVGMERQbmM5ekVObkJhYmczczNhOFhyQkpGalE?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-10T05:09:22.602530-07:00"
+  },
+  {
+    "item": {
+      "company": "Boring Company",
+      "amount": "$3.0B",
+      "stage": null,
+      "investors": "UAE Investors&nbsp",
+      "location": null,
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamtaNm1sYmM5TjNvVi1wZ0hINUhXUnFDTUZDNlAybHN5NTdjQ0VJVHg5SXNjWFVTYXBTa1czVXhpbk9TX29EXzY2RUpfdGNhbUtKcnhYSXVlLVRTd1ZjNERDeS03NkxXcmlzZDZvSllmMUpWeW9XZm1PV0JEcjNhN0NIWW15RldQbkI2NFFocjVGN0NQV1JRaGpB?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-10T05:09:28.240383-07:00"
   }
 ]
