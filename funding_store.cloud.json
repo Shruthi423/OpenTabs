@@ -56735,5 +56735,121 @@
     "roles": [],
     "first_seen": "2026-09-10T08:10:53.362090-07:00",
     "status": "active"
+  },
+  "1b0f77afaa1f342bbb23d5174dddd1f9": {
+    "id": "1b0f77afaa1f342bbb23d5174dddd1f9",
+    "company": "Jensen Declares AGI",
+    "amount": "$170.0M",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "SaaStr",
+    "url": "https://www.saastr.com/20vc-x-saastr-jensen-declares-agi-170m-of-secondary-before-the-series-c-and-why-index-walked-away-from-town/",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-10T11:27:07.749323-07:00",
+    "status": "active"
+  },
+  "620c8f480a7f4286087c427135edd5a1": {
+    "id": "620c8f480a7f4286087c427135edd5a1",
+    "company": "Governments",
+    "amount": "Undisclosed",
+    "stage": "Extension",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/09/10/anthropic-claude-government-surveillance-threats",
+    "priority": 5,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-10T11:27:10.592250-07:00",
+    "status": "active"
+  },
+  "a72ea73aa9e414e3936a1de2b680c6f3": {
+    "id": "a72ea73aa9e414e3936a1de2b680c6f3",
+    "company": "Bending Spoons",
+    "amount": "$1.36B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-10T11:27:16.667168-07:00",
+    "status": "active"
+  },
+  "521bfaed7103d50b2fe1a2fa0c2764af": {
+    "id": "521bfaed7103d50b2fe1a2fa0c2764af",
+    "company": "Arlequin AI",
+    "amount": "$32.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/10/arlequin-ai-raises-e28m-to-build-novel-ai-models-that-learn-complex-relationships-at-scale/",
+    "priority": 3,
+    "founders": [],
+    "location": "Paris",
+    "roles": [],
+    "first_seen": "2026-09-10T11:27:19.530240-07:00",
+    "status": "active"
+  },
+  "9cee263a06e9ce5ed41bfe70431f02b0": {
+    "id": "9cee263a06e9ce5ed41bfe70431f02b0",
+    "company": "Nasdaq",
+    "amount": "$100.0M",
+    "stage": "?",
+    "investors": "Nasdaq Equity",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/10/nasdaq-invests-100m-in-kraken-parent-company-payward-to-advance-tokenized-equities/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-10T11:27:22.363589-07:00",
+    "status": "active"
+  },
+  "b2b4b3f29d301b5e95234c4fc8288f9e": {
+    "id": "b2b4b3f29d301b5e95234c4fc8288f9e",
+    "company": "Cognition",
+    "amount": "$48.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkJBZ2o0YmZnOEpWVk9mT1dmRUFDZmkxbFZBNU9FQy1VWk5YeENDb0U3c080STBTdmFTWVh0aGNjRXZuNnhrU1RseEVPaWpBVkRSbGtJWExBenJwSlJYNkxHNzcwdk1oMzh4bUs0WGFsdGt3cGNRa29jdndoZXJVbkRJOEI5blRoVGN4NTFRLTNlU1J1VWVKOFRfLTRlb0hXMnFzVWlrTG45NVlSVkRSbVVEUFh1eklGWEVJWThpZ09ZUQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-10T11:27:25.290402-07:00",
+    "status": "active"
+  },
+  "d53584708c3b231d3fc262b83570284f": {
+    "id": "d53584708c3b231d3fc262b83570284f",
+    "company": "Anthropic Investor Leads Funding",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEd6RUpWa0dXOXozckhWWWdLUFZzWFVqN0FzSUo2VWtibXJZUHlLWUhac3ZwVFJ3dEliT1lwUjQzOU5mRDhoWE1iVkU5Sl9TcW9aUDdrWUFJd2I3LWJzdlRkdXNPaF8yUnVPR1lWTjQ2Ui1iS2llZ2RUbFY1LU4yMFhrNlRZSE5JdDZCOUV4RXBtdjJId0RPbHA4NVNVYUVENlNQUTVkb3NIaHFkSmhON0ZBSQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco, CA",
+    "roles": [
+      {
+        "title": "Product Designer, Evals & Prompts",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5411318008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "User Experience Researcher, Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392007008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      }
+    ],
+    "first_seen": "2026-09-10T11:27:29.662081-07:00",
+    "status": "active"
   }
 }

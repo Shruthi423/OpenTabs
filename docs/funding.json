@@ -1,5 +1,106 @@
 [
   {
+    "id": "d53584708c3b231d3fc262b83570284f",
+    "company": "Anthropic Investor Leads Funding",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEd6RUpWa0dXOXozckhWWWdLUFZzWFVqN0FzSUo2VWtibXJZUHlLWUhac3ZwVFJ3dEliT1lwUjQzOU5mRDhoWE1iVkU5Sl9TcW9aUDdrWUFJd2I3LWJzdlRkdXNPaF8yUnVPR1lWTjQ2Ui1iS2llZ2RUbFY1LU4yMFhrNlRZSE5JdDZCOUV4RXBtdjJId0RPbHA4NVNVYUVENlNQUTVkb3NIaHFkSmhON0ZBSQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco, CA",
+    "roles": [
+      {
+        "title": "Product Designer, Evals & Prompts",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5411318008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "User Experience Researcher, Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392007008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      }
+    ],
+    "first_seen": "2026-09-10T11:27:29.662081-07:00",
+    "status": "active"
+  },
+  {
+    "id": "b2b4b3f29d301b5e95234c4fc8288f9e",
+    "company": "Cognition",
+    "amount": "$48.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkJBZ2o0YmZnOEpWVk9mT1dmRUFDZmkxbFZBNU9FQy1VWk5YeENDb0U3c080STBTdmFTWVh0aGNjRXZuNnhrU1RseEVPaWpBVkRSbGtJWExBenJwSlJYNkxHNzcwdk1oMzh4bUs0WGFsdGt3cGNRa29jdndoZXJVbkRJOEI5blRoVGN4NTFRLTNlU1J1VWVKOFRfLTRlb0hXMnFzVWlrTG45NVlSVkRSbVVEUFh1eklGWEVJWThpZ09ZUQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-10T11:27:25.290402-07:00",
+    "status": "active"
+  },
+  {
+    "id": "9cee263a06e9ce5ed41bfe70431f02b0",
+    "company": "Nasdaq",
+    "amount": "$100.0M",
+    "stage": "?",
+    "investors": "Nasdaq Equity",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/10/nasdaq-invests-100m-in-kraken-parent-company-payward-to-advance-tokenized-equities/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-10T11:27:22.363589-07:00",
+    "status": "active"
+  },
+  {
+    "id": "a72ea73aa9e414e3936a1de2b680c6f3",
+    "company": "Bending Spoons",
+    "amount": "$1.36B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-10T11:27:16.667168-07:00",
+    "status": "active"
+  },
+  {
+    "id": "620c8f480a7f4286087c427135edd5a1",
+    "company": "Governments",
+    "amount": "Undisclosed",
+    "stage": "Extension",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/09/10/anthropic-claude-government-surveillance-threats",
+    "priority": 5,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-10T11:27:10.592250-07:00",
+    "status": "active"
+  },
+  {
+    "id": "1b0f77afaa1f342bbb23d5174dddd1f9",
+    "company": "Jensen Declares AGI",
+    "amount": "$170.0M",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "SaaStr",
+    "url": "https://www.saastr.com/20vc-x-saastr-jensen-declares-agi-170m-of-secondary-before-the-series-c-and-why-index-walked-away-from-town/",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-10T11:27:07.749323-07:00",
+    "status": "active"
+  },
+  {
     "id": "b14501d0e10803ac1d0e2b73b552b2c8",
     "company": "Elon Musk's Boring Company",
     "amount": "$3.0B",
@@ -11909,36 +12010,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-10T14:02:04.794264-07:00",
-    "status": "active"
-  },
-  {
-    "id": "c94d0178234904e2556ea1f3d343f305",
-    "company": "ePARA",
-    "amount": "Undisclosed",
-    "stage": "Seed",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWExvblR0M0FRTEVZSk4telloaERwWjUxTWRyd1BkaHItaUlWLXNTOWNuTjRvUFVUeGRqeWxWRG1FeDg4a0g3WWlNbWYyVkRtN2JWZENYd1QtMmU0U09hNDhpRGlPS3JUaFRsTUQ0VHNDNW9rQkdUWGItQlI4ZmtUb2pNdHVqWExtd3YzWjV2RHdsZGdJVk5zVUNTNHI1YTA2Vkh0VG1qQ291M01hRk9ZV3pRcy1xdw?oc=5",
-    "priority": 9,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-10T11:24:44.246734-07:00",
-    "status": "active"
-  },
-  {
-    "id": "8b685e01db9e90868050273787c243a7",
-    "company": "Uber",
-    "amount": "Undisclosed",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "First Round (news)",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWlA4cldGVHJuQy01Y19aMkFuZ2E3b3gtZV9lRzNGT0FGaWY2dlc2QkhWM0hlRU1YaVhTQ0w2OUVPOTRPZ3NaY3hpXzZIZmprcFNNU19uUm9pN2ZOdzJ1clFyTXdSNG5HZm9qdHhlWGY5amRLQ3ZIT1RtOVZ2SHBVREVXaHFlal9ESFRTOGFRTlN4dXlvUng5UkJGV2VZX3k1dHB4VHJ3?oc=5",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-10T09:31:25.745931-07:00",
     "status": "active"
   }
 ]
