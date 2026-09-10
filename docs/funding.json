@@ -1,5 +1,20 @@
 [
   {
+    "id": "f55b63da61a004224f0323086f5f687a",
+    "company": "MetaCognition",
+    "amount": "$10.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYlJrVHN3YUV1TWVGZFh3eUtWX1dmajdLZlZvSTRibk5Nci1NM3EzbFpMRTFKMldUTGtaTG5QRTkzdnhvdmhOR3lhd1J6a0liTmlheF9yWkY2V1l3cUFVdWpMOEtJQ1NaOHpqV2lrSENYdXQyUHk2Rk8ya05PVnFPRWNWYnk1Z3dMMlFQYnp6Tll5bmxITUU5UHNabU9vUHE2eUtPYkpR?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-09T18:18:03.388188-07:00",
+    "status": "active"
+  },
+  {
     "id": "aea33f82cb4123ddc2ffa71107784999",
     "company": "Energy Department",
     "amount": "$100.0B",
@@ -11759,21 +11774,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-09T19:33:30.201908-07:00",
-    "status": "active"
-  },
-  {
-    "id": "c834baa7e2f99a54fd8ab1ace4ccb7a3",
-    "company": "India Tech 4th Globally",
-    "amount": "Undisclosed",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHNxN0F4SXFHR0paWkh0dTBLUk5IVEd3VVhUbk1MbVJWSVQzMUJrcFlEUUpydEc1VnhhaGQ1ZUVmcnVoM1dpd2hjaGhKbW84Ul9ONHZBYjVjRnZlb2Q2emRKOFFPMmM3N0tEMFh4R0xLUUNrQkxJNDNPa1Mtb3o5RkNNcjcwY3NjZ185aGRkUHc2VW1Wdl9ua0h0R0M?oc=5",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-09T17:04:33.759407-07:00",
     "status": "active"
   }
 ]
