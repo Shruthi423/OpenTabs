@@ -1,5 +1,22 @@
 [
   {
+    "id": "77d6a3fa726ad04097e4b701b4e0b785",
+    "title": "User Experience Designer",
+    "company": "Epic",
+    "location": "Omaha, NE",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4306610898",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-11T11:47:54.390529-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "5eefa4b89bf6794363bf92e250ccfeff",
     "title": "Summer Intern, User Experience (UX) Research",
     "company": "Allegion",
@@ -23628,22 +23645,5 @@
     "first_seen": "2026-08-11T12:04:38.795284-07:00",
     "status": "active",
     "jd": "no"
-  },
-  {
-    "id": "51d706a510bc0f86fbc2d3a55cf0149d",
-    "title": "Experience Design (XD) I, Product Design - Bank of America Experience Design",
-    "company": "Bank of America",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4443022022",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-11T11:45:40.531435-07:00",
-    "status": "active",
-    "jd": "yes"
   }
 ]
