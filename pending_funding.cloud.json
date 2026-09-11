@@ -1,44 +1,86 @@
 [
   {
     "item": {
-      "company": "Maven Robotics",
-      "amount": "$100.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": "Santa Clara",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/10/maven-robotics-launches-with-100m-to-scale-its-industrial-robots/",
-      "priority": 8
-    },
-    "remind_at": "2026-09-10T18:35:26.701610-07:00"
-  },
-  {
-    "item": {
-      "company": "Covenant",
-      "amount": "$250.0M",
-      "stage": null,
+      "company": "Charikaty",
+      "amount": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZHpodnFvNlY0eTBseVB0LUREa3Jka3VMaWZHTWEtS3A4czBqVFZrckdHR2dsNE45UWdyeWxOS1NQTl9aRDBfYjJJaFFDMmRQUGJkNVYxanBfZV9nZkhpeXRiWVNldG1hOWNOZENacUpITll0ZURIYUJubzlqb3NjUTlQUlBmaWxTTFpaLVh1ODVZdExITTEzYWFRdHpHV1haUzdTWUdKZ3NSOW40azNMVjAtRdIBuAFBVV95cUxQeGlJUnpkOUU0SV9neTROek9qUTVmRlJscDJTVThPYXh2YmpialVMcGFRY2M2Zk14MVNMdXU4YnUySkVwQ2JzeHdwV0hKb2R1aWxEN05RYVpweVVzLUMtOFE1VkxTdnd6ZEZFeWJRRk5MZTdMTEtRZnpJWWtkOWc4Z0hCejUtWngwb2tfcVlaLThlNW82X21qSElIMG9rUkVPZHlURlc4a0F0VzBzVEZVUGFQVVZ3WDVm?oc=5",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/moroccan-legaltech-charikaty-raises-pre-seed-round-at-3-4m-valuation-to-expand-into/",
+      "priority": 10
     },
-    "remind_at": "2026-09-10T18:35:29.714545-07:00"
+    "remind_at": "2026-09-10T23:28:48.597163-07:00"
   },
   {
     "item": {
-      "company": "Xapien",
-      "amount": "$56.0M",
-      "stage": null,
-      "investors": null,
+      "company": "HyperExcel",
+      "amount": "$148.2M",
+      "stage": "Series B",
+      "investors": "Krafton's \u20a9",
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVVnRVZLcUpIaDBDRmdOTk9waVdYSlBUdHdxQ3JBTVBNeEt1d25rc0h2RDg1dlFBREhiMXZlNTRUeDJVbDBUbUxDcUJyOTh5U0ZTZVcxSjdGbEhDU2p5UTQyeklPSzNRSW1yc1dyUXBpN1RDcEJTQXNxQjhiOGN0aVVpcV82bGpP?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nbEY3TWdtTTVPcks2VUhBckllNDlrV0VCNm1rakdJQzZTVGxBQi1WZ0xLTTF1UjZ2R2stV040ZXJja2U2R1E0STdZTkFybHNncHNZVmQxYnNBcmIydkNFcXNZRXRtN21UQjI2UUtLdFBVdWwwR1E?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-09-10T23:28:51.669745-07:00"
+  },
+  {
+    "item": {
+      "company": "Fnality",
+      "amount": "$136.0M",
+      "stage": "Series C",
+      "investors": "WisdomTree, Bank of America",
+      "location": "DLT",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/fnality-raises-136m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-09-10T23:28:54.821115-07:00"
+  },
+  {
+    "item": {
+      "company": "Savvy Wealth",
+      "amount": "$100.0M",
+      "stage": "Series C",
+      "investors": "Halo Fund",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/savvy-wealth-raises-100m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-09-10T23:29:00.859491-07:00"
+  },
+  {
+    "item": {
+      "company": "Ayar Labs",
+      "amount": "$150.0M",
+      "stage": "Series E",
+      "investors": "Neuberger Berman",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/10/ayar-labs-bags-150m-in-additional-series-e-funding-to-help-make-bigger-ai-chip-clusters/",
       "priority": 3
     },
-    "remind_at": "2026-09-10T18:35:32.837685-07:00"
+    "remind_at": "2026-09-10T23:29:03.967732-07:00"
+  },
+  {
+    "item": {
+      "company": "Robutler",
+      "amount": null,
+      "stage": null,
+      "investors": "ZAS Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/robutler-raises-400000-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-10T23:29:07.200848-07:00"
   }
 ]
