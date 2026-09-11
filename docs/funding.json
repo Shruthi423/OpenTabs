@@ -11896,37 +11896,5 @@
     "roles": [],
     "first_seen": "2026-08-11T16:02:07.676500-07:00",
     "status": "active"
-  },
-  {
-    "id": "5334befffd581e6c9ff5cdd01c8ba48f",
-    "company": "Accel",
-    "amount": "$550.0M",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "TechCrunch Venture",
-    "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-11T15:05:40.993397-07:00",
-    "status": "active"
-  },
-  {
-    "id": "90429c0423a1e7d16dc4312f0b753cf1",
-    "company": "Founder Ryan Williams",
-    "amount": "$10.0M",
-    "stage": "Seed",
-    "investors": "Undisclosed",
-    "source": "First Round (news)",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3Zuc21KQl9zYi15RFR6aEl1Wl92aFNLUm1zTFNtRVJCM0VTalRjRmNnNzZVS1RueXlBcWtscm51bjNEa3pCUnp1dEI1U2s4ZmxTbzFieXVJN0hJWVR1UVROZWhnT1pSSVo4YW1ZeHpoa3lyTDJWOHFseW9IN3Juc1hVLXFpZmhU?oc=5",
-    "priority": 9,
-    "founders": [
-      "Ryan Williams Raises"
-    ],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-11T13:26:11.746561-07:00",
-    "status": "active"
   }
 ]
