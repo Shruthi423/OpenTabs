@@ -1,16 +1,44 @@
 [
   {
     "item": {
-      "company": "Mach Industries",
-      "amount": "$600.0M",
-      "stage": "Series C",
+      "company": "Maven Robotics",
+      "amount": "$100.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": "Santa Clara",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/10/maven-robotics-launches-with-100m-to-scale-its-industrial-robots/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-10T18:35:26.701610-07:00"
+  },
+  {
+    "item": {
+      "company": "Covenant",
+      "amount": "$250.0M",
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QeTBTR3Rmb2Y4SWlsRDJXVGgtLUkwT1R4WTFCWWpYaFQ1TDlSV2d4dGx5bmhZd2V3cUpEa0RVZFZrcE1DT2RqOGNuaHRMY2FHekF3?oc=5",
-      "priority": 6
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZHpodnFvNlY0eTBseVB0LUREa3Jka3VMaWZHTWEtS3A4czBqVFZrckdHR2dsNE45UWdyeWxOS1NQTl9aRDBfYjJJaFFDMmRQUGJkNVYxanBfZV9nZkhpeXRiWVNldG1hOWNOZENacUpITll0ZURIYUJubzlqb3NjUTlQUlBmaWxTTFpaLVh1ODVZdExITTEzYWFRdHpHV1haUzdTWUdKZ3NSOW40azNMVjAtRdIBuAFBVV95cUxQeGlJUnpkOUU0SV9neTROek9qUTVmRlJscDJTVThPYXh2YmpialVMcGFRY2M2Zk14MVNMdXU4YnUySkVwQ2JzeHdwV0hKb2R1aWxEN05RYVpweVVzLUMtOFE1VkxTdnd6ZEZFeWJRRk5MZTdMTEtRZnpJWWtkOWc4Z0hCejUtWngwb2tfcVlaLThlNW82X21qSElIMG9rUkVPZHlURlc4a0F0VzBzVEZVUGFQVVZ3WDVm?oc=5",
+      "priority": 3
     },
-    "remind_at": "2026-09-10T16:40:21.110254-07:00"
+    "remind_at": "2026-09-10T18:35:29.714545-07:00"
+  },
+  {
+    "item": {
+      "company": "Xapien",
+      "amount": "$56.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVVnRVZLcUpIaDBDRmdOTk9waVdYSlBUdHdxQ3JBTVBNeEt1d25rc0h2RDg1dlFBREhiMXZlNTRUeDJVbDBUbUxDcUJyOTh5U0ZTZVcxSjdGbEhDU2p5UTQyeklPSzNRSW1yc1dyUXBpN1RDcEJTQXNxQjhiOGN0aVVpcV82bGpP?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-10T18:35:32.837685-07:00"
   }
 ]

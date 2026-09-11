@@ -1,5 +1,50 @@
 [
   {
+    "id": "f6a882e8f96f37907bb4ff4e9417fd5f",
+    "company": "Xapien",
+    "amount": "$56.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVVnRVZLcUpIaDBDRmdOTk9waVdYSlBUdHdxQ3JBTVBNeEt1d25rc0h2RDg1dlFBREhiMXZlNTRUeDJVbDBUbUxDcUJyOTh5U0ZTZVcxSjdGbEhDU2p5UTQyeklPSzNRSW1yc1dyUXBpN1RDcEJTQXNxQjhiOGN0aVVpcV82bGpP?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-10T18:05:33.837851-07:00",
+    "status": "active"
+  },
+  {
+    "id": "67b2e5a8b028d4d8d70731ef4c187a59",
+    "company": "Covenant",
+    "amount": "$250.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZHpodnFvNlY0eTBseVB0LUREa3Jka3VMaWZHTWEtS3A4czBqVFZrckdHR2dsNE45UWdyeWxOS1NQTl9aRDBfYjJJaFFDMmRQUGJkNVYxanBfZV9nZkhpeXRiWVNldG1hOWNOZENacUpITll0ZURIYUJubzlqb3NjUTlQUlBmaWxTTFpaLVh1ODVZdExITTEzYWFRdHpHV1haUzdTWUdKZ3NSOW40azNMVjAtRdIBuAFBVV95cUxQeGlJUnpkOUU0SV9neTROek9qUTVmRlJscDJTVThPYXh2YmpialVMcGFRY2M2Zk14MVNMdXU4YnUySkVwQ2JzeHdwV0hKb2R1aWxEN05RYVpweVVzLUMtOFE1VkxTdnd6ZEZFeWJRRk5MZTdMTEtRZnpJWWtkOWc4Z0hCejUtWngwb2tfcVlaLThlNW82X21qSElIMG9rUkVPZHlURlc4a0F0VzBzVEZVUGFQVVZ3WDVm?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-10T18:05:30.714748-07:00",
+    "status": "active"
+  },
+  {
+    "id": "080d9e7030e424e0e2f297810d3f92bf",
+    "company": "Maven Robotics",
+    "amount": "$100.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/10/maven-robotics-launches-with-100m-to-scale-its-industrial-robots/",
+    "priority": 8,
+    "founders": [],
+    "location": "Santa Clara",
+    "roles": [],
+    "first_seen": "2026-09-10T18:05:27.701831-07:00",
+    "status": "active"
+  },
+  {
     "id": "f3ee23cfd276fdfbc752f7dd4431b161",
     "company": "Mach Industries",
     "amount": "$600.0M",
@@ -12012,21 +12057,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-10T19:01:53.543626-07:00",
-    "status": "active"
-  },
-  {
-    "id": "34a2acd5fa13709592e9b8b9b1d901c8",
-    "company": "Intel",
-    "amount": "$15.0B",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "SiliconANGLE",
-    "url": "https://siliconangle.com/2026/08/10/intel-launch-15b-stock-sale-amid-ai-boom-advanced-packaging-demand/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-10T16:17:57.896210-07:00",
     "status": "active"
   }
 ]
