@@ -1,58 +1,44 @@
 [
   {
     "item": {
-      "company": "Vienna's Turn-Motion",
+      "company": "Petit Pot",
       "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSHVtVlpHbXNZeE9IX1R5aUZzZFBXZkVBbm5IeXBzbGtlUzhGcFhrX04xNzdmTGptMVlSemQ5Wnh0ZldrdWgzYy1kRjlTZlVuMkU4X0hsdWlxRDN2ZW8xYTUxaDY1QUg0Ul9xdGlEU0lmNzdtM1NlNjZXRTlraTNWLUVveDVsZmhUUnFabE4zZl8wdFV5T2ZjOXhNNUpyLW9MYmptVA?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-09-11T08:08:42.965405-07:00"
-  },
-  {
-    "item": {
-      "company": "Highstock",
-      "amount": "$30.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaG1ULXlFUjNXd3BhS0U5cUZLb2xpaG1vVHFTQkV5aTRXeS1WclpKTUhUUTN5d2ZxeTJuLXdoMnl6U29BY1YzaXBSWkEzQkhJVWRTSjhBZHBQaDdvWk5rUUhvSU8zQjM5cmgzdkZfSkV6SkNuRElQSkNVMGhxT2xpd0dxNkRNREhVVndRMjdGa0Y1d2dQZTB2OEhCN25tdjhlc0t4S2FpY18xWUNTRVUxa1hR0gG3AUFVX3lxTFAtZFJwOHktWk03Z2duUnFYZWJ1eGZaYzNMTFJEbnhlWkU1c0s5dXl1NkpDVTM4X1drMVU0ejBZSDRhdmtDNzdfb2NlVlg2eGtfVjdlY2g4Q3Z0REg5ZzF2YUU1V3lyNXpfVUlKckk3VGU2YnhtWkppbXNocGh2OHRCbUJ3eU5DUllwcXZzSThSdUlBUXNMV01BZWxJTHRGcW9URGJsSE5Vbk5tUm5nOE4tdVpGVG9aSQ?oc=5",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0pJaXlOdDBLY0NvVGlvOHdfbzEtdzdSemU3d0ZvY2w0TjltN01KelcydUh0RFlwcGt6c0dQZHBzcFB6a1B0dFQxVlJVZUY1aGY3SDhERXZEOEY5d1ZBakRwUGZERUVkM3Bub1JLRVZqM3pCTE5DT2g1VkVvb1JwR1h1eUxLOHRncXpXRGtkRGFoTU5YMGc?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-09-11T08:08:45.808320-07:00"
+    "remind_at": "2026-09-11T11:26:43.271962-07:00"
   },
   {
     "item": {
-      "company": "Fluidstack",
-      "amount": "$5.0B",
-      "stage": null,
+      "company": "AI-Native CRM Lightfield",
+      "amount": "$47.0M",
+      "stage": "Series A",
       "investors": null,
-      "location": "Silicon Valley",
+      "location": null,
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/11/pentagon-in-talks-to-lend-5-billion-to-ai-cloud-startup-fluidstack-to-shore-up-us-data-center-supply-chain/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vSGlYbUQyYkpMUnd1VzdFaXQzTHhNeERGcjlfdDd4aUlBcXhVQXNRV000elVYSVFzTzA3NGZvT095cDhhRFhXREtCWUlielZjYVlN?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-09-11T08:08:48.620657-07:00"
+    "remind_at": "2026-09-11T11:26:48.733886-07:00"
   },
   {
     "item": {
-      "company": "Square",
-      "amount": null,
+      "company": "Anthropic",
+      "amount": "$664.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2FJWUU3ekRRZzUwRG1GOThTZzVPMTl0Sk84X3lBY1JGVEluWjNDOXg1MkZLODJjdFF2cmc4bW9CWEhfeENUVDhnaFpsM19NRFNrcXhTbVR4aV81aTg1OEYxOTlPR2MzWkNMLS1tRVNlUzNBRFdsS0ljd184S2ptYzVkTm4yaWRmdjgwbjdwckQxWmlfZ1MtT3RZSkEwUDd0SGFvcUgzSEw?oc=5",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/09/11/top-tech-news-today-september-11-2026-anthropic-deepseek-google-pentagon-oracle-spacex-more/",
       "priority": 3
     },
-    "remind_at": "2026-09-11T08:08:51.543508-07:00"
+    "remind_at": "2026-09-11T11:26:51.697536-07:00"
   }
 ]

@@ -57348,5 +57348,61 @@
     "roles": [],
     "first_seen": "2026-09-11T07:38:52.543648-07:00",
     "status": "active"
+  },
+  "5d324a6fc985ddf17d2592d5d2d42bfa": {
+    "id": "5d324a6fc985ddf17d2592d5d2d42bfa",
+    "company": "Petit Pot",
+    "amount": "Undisclosed",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0pJaXlOdDBLY0NvVGlvOHdfbzEtdzdSemU3d0ZvY2w0TjltN01KelcydUh0RFlwcGt6c0dQZHBzcFB6a1B0dFQxVlJVZUY1aGY3SDhERXZEOEY5d1ZBakRwUGZERUVkM3Bub1JLRVZqM3pCTE5DT2g1VkVvb1JwR1h1eUxLOHRncXpXRGtkRGFoTU5YMGc?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-11T10:56:44.272125-07:00",
+    "status": "active"
+  },
+  "a924f496ba069e2deebde28cff29a0e0": {
+    "id": "a924f496ba069e2deebde28cff29a0e0",
+    "company": "AI-Native CRM Lightfield",
+    "amount": "$47.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vSGlYbUQyYkpMUnd1VzdFaXQzTHhNeERGcjlfdDd4aUlBcXhVQXNRV000elVYSVFzTzA3NGZvT095cDhhRFhXREtCWUlielZjYVlN?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-11T10:56:49.734050-07:00",
+    "status": "active"
+  },
+  "8c6322f02b307f76bfca804d090a32af": {
+    "id": "8c6322f02b307f76bfca804d090a32af",
+    "company": "Anthropic",
+    "amount": "$664.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/09/11/top-tech-news-today-september-11-2026-anthropic-deepseek-google-pentagon-oracle-spacex-more/",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco, CA",
+    "roles": [
+      {
+        "title": "Product Designer, Evals & Prompts",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5411318008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "User Experience Researcher, Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392007008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      }
+    ],
+    "first_seen": "2026-09-11T10:56:52.697697-07:00",
+    "status": "active"
   }
 }

@@ -1,5 +1,22 @@
 [
   {
+    "id": "dd5583f2aa728b457d00c3efc31e25e8",
+    "title": "Product Designer, Product Platform",
+    "company": "ATOMS Careers page",
+    "location": "Los Angeles, CA",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8796082002",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-09-11T10:56:15.259349-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "e15bafedb200ad092028d03e862305c0",
     "title": "Brand & Visual Designer",
     "company": "Whitecircle",
@@ -4943,40 +4960,6 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-08-11T11:35:10.193298-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "8fb85f5cf717bd5378c61155e91a848b",
-    "title": "Product Designer, People Products",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "salary": "Not listed",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383660008",
-    "source": "Anthropic",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 1,
-    "first_seen": "2026-08-11T10:39:38.039949-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "129921781dda21c9879f7435027542e6",
-    "title": "User Researcher, Growth",
-    "company": "Notion",
-    "location": "Remote",
-    "salary": "Not listed",
-    "url": "https://jobs.ashbyhq.com/notion/fb969acc-dcbd-4124-b648-bfbfad7231b3",
-    "source": "Notion",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-08-11T07:43:36.375657-07:00",
     "status": "active",
     "jd": "yes"
   }
