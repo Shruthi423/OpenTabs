@@ -1,5 +1,22 @@
 [
   {
+    "id": "40504c99dff54891317c29799b94fa90",
+    "title": "ServiceNow UI/UX Designer",
+    "company": "B&A",
+    "location": "Washington, DC, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=be7109af2b9f0b01",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-09",
+    "priority": 4,
+    "first_seen": "2026-09-10T21:29:21.404511-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "a9336e15f6133aa465fd186328c0b87a",
     "title": "UI/UX Designer",
     "company": "Abacus Intel",
@@ -23424,22 +23441,5 @@
     "first_seen": "2026-08-11T11:45:40.531435-07:00",
     "status": "active",
     "jd": "yes"
-  },
-  {
-    "id": "339c225d650ff35f67f64637edbe56a2",
-    "title": "Product Designer, Design Systems",
-    "company": "HARVEY",
-    "location": "New York, NY, US",
-    "salary": "$150,800 \u2013 $226,200 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=e1f66a9bf43d78e8",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-09",
-    "priority": 3,
-    "first_seen": "2026-08-10T21:27:01.090791-07:00",
-    "status": "active",
-    "jd": "no"
   }
 ]
