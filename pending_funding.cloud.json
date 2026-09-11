@@ -1,86 +1,240 @@
 [
   {
     "item": {
-      "company": "Charikaty",
+      "company": "Split Pay",
+      "amount": "$125.0M",
+      "stage": "Series A",
+      "investors": "Khosla Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/split-pay-raises-125m-series-a-series-b/",
+      "priority": 11
+    },
+    "remind_at": "2026-09-11T04:11:43.458196-07:00"
+  },
+  {
+    "item": {
+      "company": "LeoTrace",
       "amount": null,
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/moroccan-legaltech-charikaty-raises-pre-seed-round-at-3-4m-valuation-to-expand-into/",
+      "url": "https://www.thesaasnews.com/news/leotrace-raises-1-45m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-09-10T23:28:48.597163-07:00"
+    "remind_at": "2026-09-11T04:11:46.370197-07:00"
   },
   {
     "item": {
-      "company": "HyperExcel",
-      "amount": "$148.2M",
-      "stage": "Series B",
-      "investors": "Krafton's \u20a9",
+      "company": "Grubel",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": "Point Nine",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/grubel-raises-3m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-09-11T04:11:49.367503-07:00"
+  },
+  {
+    "item": {
+      "company": "Enigmata",
+      "amount": "$6.5M",
+      "stage": "Seed",
+      "investors": "Blockchange Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/enigmata-inc-raises-6-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-11T04:11:54.802498-07:00"
+  },
+  {
+    "item": {
+      "company": "Ed.ai",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ed-ai-raises-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-11T04:11:57.796307-07:00"
+  },
+  {
+    "item": {
+      "company": "Safebox",
+      "amount": "$1.11M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/safebox-raises-1-11m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-11T04:12:00.650971-07:00"
+  },
+  {
+    "item": {
+      "company": "KAVIA AI",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/kavia-ai-announces-strategic-investment/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-11T04:12:03.707115-07:00"
+  },
+  {
+    "item": {
+      "company": "nocall",
+      "amount": null,
+      "stage": "Series A",
+      "investors": "JAFCO and Archetype Ventures",
+      "location": "Tokyo",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/nocall-inc-raises-800m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-11T04:12:06.795278-07:00"
+  },
+  {
+    "item": {
+      "company": "Latitude",
+      "amount": "$35.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/latitude-raises-35m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-11T04:12:09.714908-07:00"
+  },
+  {
+    "item": {
+      "company": "Arlequin AI",
+      "amount": null,
+      "stage": "Series A",
+      "investors": "OTB Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/arlequin-ai-raises-28m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-11T04:12:12.691075-07:00"
+  },
+  {
+    "item": {
+      "company": "Luminary",
+      "amount": "$22.0M",
+      "stage": "Series A",
+      "investors": "Ten Coves Capital",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/luminary-raises-22m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-11T04:12:15.578562-07:00"
+  },
+  {
+    "item": {
+      "company": "Graph AI",
+      "amount": "$13.3M",
+      "stage": "Series A",
+      "investors": "Insight Partners - Siliconindia Graph AI Raises",
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nbEY3TWdtTTVPcks2VUhBckllNDlrV0VCNm1rakdJQzZTVGxBQi1WZ0xLTTF1UjZ2R2stV040ZXJja2U2R1E0STdZTkFybHNncHNZVmQxYnNBcmIydkNFcXNZRXRtN21UQjI2UUtLdFBVdWwwR1E?oc=5",
-      "priority": 7
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ1JCeUtUTElpUkNvdXZlVnQ5QUczNU13Q3dtc0VJM0tmVHIxMFRFS2JRc0VKMmtXY0JMMmlZZ3FNQmxDTWJMaWN4dWIzTng4cmwxSFc2Q19CVW84RXRJZWFFM3VhM3R1V1ZBVjhIeFJ5MHVDeDlsd09lb1A1bUQ2RTF4ODZ3YkVkZTczdnhwQU1sbTZmdlZaMVR5eHpoWm5Kclk3YXlwelpsLS1QTUVGZFg3SE94MHZqMVpmb1U4R1hhY25FSHlIYzJRcVI?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-09-10T23:28:51.669745-07:00"
+    "remind_at": "2026-09-11T04:12:18.505087-07:00"
   },
   {
     "item": {
-      "company": "Fnality",
-      "amount": "$136.0M",
-      "stage": "Series C",
-      "investors": "WisdomTree, Bank of America",
-      "location": "DLT",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/fnality-raises-136m-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-09-10T23:28:54.821115-07:00"
-  },
-  {
-    "item": {
-      "company": "Savvy Wealth",
-      "amount": "$100.0M",
-      "stage": "Series C",
-      "investors": "Halo Fund",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/savvy-wealth-raises-100m-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-09-10T23:29:00.859491-07:00"
-  },
-  {
-    "item": {
-      "company": "Ayar Labs",
-      "amount": "$150.0M",
-      "stage": "Series E",
-      "investors": "Neuberger Berman",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/10/ayar-labs-bags-150m-in-additional-series-e-funding-to-help-make-bigger-ai-chip-clusters/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-10T23:29:03.967732-07:00"
-  },
-  {
-    "item": {
-      "company": "Robutler",
+      "company": "NVP\u2019s Vaughn Crowe",
       "amount": null,
       "stage": null,
-      "investors": "ZAS Ventures",
+      "investors": "NVP Capital",
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/11/nvps-vaughn-crowe-manufacturing-industrials-hit-their-venture-moment/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-11T04:12:32.275372-07:00"
+  },
+  {
+    "item": {
+      "company": "Diesel",
+      "amount": "$46.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/11/diesel-6-dollars",
+      "priority": 3
+    },
+    "remind_at": "2026-09-11T04:12:35.072242-07:00"
+  },
+  {
+    "item": {
+      "company": "Medteria",
+      "amount": null,
+      "stage": null,
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/robutler-raises-400000-other/",
+      "url": "https://www.thesaasnews.com/news/medteria-raises-140m-other/",
       "priority": 3
     },
-    "remind_at": "2026-09-10T23:29:07.200848-07:00"
+    "remind_at": "2026-09-11T04:12:37.899401-07:00"
+  },
+  {
+    "item": {
+      "company": "Overroute",
+      "amount": "$5.5M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/overroute-raises-5-5m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-11T04:12:40.929977-07:00"
+  },
+  {
+    "item": {
+      "company": "Clauze.AI",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/clauze-ai-secures-strategic-investment/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-11T04:12:44.121106-07:00"
   }
 ]
