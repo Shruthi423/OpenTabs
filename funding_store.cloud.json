@@ -57464,5 +57464,35 @@
     "roles": [],
     "first_seen": "2026-09-12T05:59:56.734410-07:00",
     "status": "active"
+  },
+  "8fbf66206ba8d9f5b8f34175b606e2a3": {
+    "id": "8fbf66206ba8d9f5b8f34175b606e2a3",
+    "company": "Huscarl",
+    "amount": "$5.6M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX1gwWEI2bUp2THMzd1dZbnpjbjZiVWNWdTg2MnZyZVJSRmxWUFRQa3R2VW1rMHlGUUNMRExOU2JoWDkyWmhVU2Mzc0lKTWFxWmRjNWppeHpHc0FQUkt3TnhtTTJ5U3Y3VG53Q3pJMVBocExzMWlETmRyWkYyRGlaZmhuR1JzMEFtUWc?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-12T09:05:50.846010-07:00",
+    "status": "active"
+  },
+  "737105d94515102428398a33a4635962": {
+    "id": "737105d94515102428398a33a4635962",
+    "company": "Hyperaccel",
+    "amount": "$150.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLXVoemlXcnlSdDNyM0RtTWg0b2lIeFRJZjBkWDBIek94VVBOdjBIeEZzSlo1alZ1di1pRXc2d2k4azk4SEo5Sm13azB4cDJKOU9UT1ZMRkhBZTBFRjRWcTlEZDlhcVo0UFNBdVFybWtzTXFBdEtfMEVOYjdUTjZNWEduT2N4Vkl4cHpFaUNGaw?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-12T09:05:53.645719-07:00",
+    "status": "active"
   }
 }
