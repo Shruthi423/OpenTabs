@@ -1,5 +1,20 @@
 [
   {
+    "id": "8a8a09d47f3eea8db67e5fb168f93ad9",
+    "company": "Spectralsurf",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkFuQ2pveEk0LUhPS0NlQnNLUnNwV1FyVEF1d25DOU03bGxXMFB6N0p3SFBZZjhmNDZ2Wlc4UUI0RGNVMjFyX0U4Y3pRRndjeDI3dFZlSjJ6X2VPSkE0dm9HYzNoY2xaMGlpUEZGZEo5aXJNWk91MV9uUEx4RUY2aDM4ODRNVlBjcVNuTUlod2Ntb2FjMUkzZndCNGg0U2JUMlVkeE0wQnlndw?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-12T11:22:43.102659-07:00",
+    "status": "active"
+  },
+  {
     "id": "737105d94515102428398a33a4635962",
     "company": "Hyperaccel",
     "amount": "$150.0M",
@@ -11514,42 +11529,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-12T16:09:47.163428-07:00",
-    "status": "active"
-  },
-  {
-    "id": "7eccac8674c407e6ce3d12ce157de3d0",
-    "company": "Yuno",
-    "amount": "$45.0M",
-    "stage": "Series B",
-    "investors": "Undisclosed",
-    "source": "a16z (news)",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSkRYMWNsZXgzVGdWSE1NTEFxWldzXzZORW9QR1JiVklxbzQ1VHlyV28xNHc4eHUzbzhETkNnV3ZwZ2V1V0JobWtWLTR1VTJTb1lJT2dTSGtpM3U5TlpqZmNJYWtId084SDNiREI5X0FZbklMNG5OOVBuRFdSc1BHejg4Z09VVXc?oc=5",
-    "priority": 7,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-12T09:53:04.757182-07:00",
-    "status": "active"
-  },
-  {
-    "id": "7a736bf93ecca7032b7279d5860123e8",
-    "company": "Blacksmith",
-    "amount": "$45.0M",
-    "stage": "Series B",
-    "investors": "Y Combinator and GV also participating",
-    "source": "SiliconANGLE",
-    "url": "https://siliconangle.com/2026/08/12/blacksmith-raises-45m-aid-ai-code-validation-agentic-development-grows/",
-    "priority": 10,
-    "founders": [],
-    "location": "SF / NYC",
-    "roles": [
-      {
-        "title": "Brand Designer",
-        "url": "https://jobs.ashbyhq.com/blacksmith/9c14a5cf-2e94-4b04-90f3-cb0fae25f1ee",
-        "location": "SF / NYC"
-      }
-    ],
-    "first_seen": "2026-08-12T09:53:02.302210-07:00",
     "status": "active"
   }
 ]
