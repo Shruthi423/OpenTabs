@@ -7354,10 +7354,10 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-07-09T00:55:22.218237-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-09-11T17:39:40.034080-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
+    "dead_strikes": 2
   },
   "67ed114a6647813c2dfa04dde9b65d20": {
     "id": "67ed114a6647813c2dfa04dde9b65d20",
@@ -7520,7 +7520,7 @@
     "first_seen": "2026-07-10T01:04:51.068017-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T16:31:22.289761-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "02d9e6d9ee77c70016b8007dd49b68e6": {
@@ -7541,7 +7541,7 @@
     "first_seen": "2026-07-10T01:04:52.816250-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T16:31:22.289761-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "41d1d42ec91f9d8ae36e28ee4c4c0d06": {
@@ -7561,7 +7561,7 @@
     "first_seen": "2026-07-10T04:18:17.496755-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T16:31:22.289761-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "59afd9e84abcf4dc733c23d543966586": {
@@ -7581,7 +7581,7 @@
     "first_seen": "2026-07-10T04:18:19.209747-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T16:31:22.289761-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "a77ec621a099d267f389482acc8361fd": {
@@ -7601,7 +7601,7 @@
     "first_seen": "2026-07-10T10:30:02.213291-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T16:31:22.289761-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "2844b9c1149c1f09e167313957b38b25": {
@@ -7621,7 +7621,7 @@
     "first_seen": "2026-07-10T12:05:34.945772-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T16:31:22.289761-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "9d84b0bc033094ece8a393145f25b690": {
@@ -7641,7 +7641,7 @@
     "first_seen": "2026-07-10T16:38:17.801742-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T16:31:22.289761-07:00"
+    "checked_at": "2026-09-11T22:02:30.595316-07:00"
   },
   "cbdcd3c5022a1989b751805dd1961416": {
     "id": "cbdcd3c5022a1989b751805dd1961416",
@@ -7660,7 +7660,7 @@
     "first_seen": "2026-07-11T04:06:38.863055-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T16:31:22.289761-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "8eb4a8b7c3aad3ac37667a46b7ccba06": {
@@ -7680,7 +7680,7 @@
     "first_seen": "2026-07-11T04:06:40.580306-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T16:31:22.289761-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "4a7be93d38a2108642719ebafd26acaa": {
@@ -7700,7 +7700,7 @@
     "first_seen": "2026-07-11T04:06:42.429317-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T16:31:22.289761-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "a4f77105c4823ddd607c42063b3502d7": {
@@ -7720,7 +7720,7 @@
     "first_seen": "2026-07-11T07:47:49.044508-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T16:31:22.289761-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "45b112b0ab01e8761da0aa1a063f5650": {
@@ -7740,7 +7740,7 @@
     "first_seen": "2026-07-11T11:53:37.079467-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T16:31:22.289761-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "ed59137197fc13cc94055f10759bdd42": {
@@ -7760,7 +7760,7 @@
     "first_seen": "2026-07-12T04:33:13.617061-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T16:31:22.289761-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "27c0e1a7ebc0a3cef4656c4c3fa681a5": {
@@ -7780,7 +7780,7 @@
     "first_seen": "2026-07-12T04:33:15.193470-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T18:17:56.240348-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "94056a8617cd90a02d874de1791f447d": {
@@ -7800,7 +7800,7 @@
     "first_seen": "2026-07-12T05:36:55.270862-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T18:17:56.240348-07:00"
+    "checked_at": "2026-09-11T22:02:30.595316-07:00"
   },
   "a5894428a8d8ea39368d9284a5251b73": {
     "id": "a5894428a8d8ea39368d9284a5251b73",
@@ -7819,7 +7819,7 @@
     "first_seen": "2026-07-12T15:30:53.254914-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T18:17:56.240348-07:00"
+    "checked_at": "2026-09-11T22:02:30.595316-07:00"
   },
   "5a17edaf11ad11b868fd1c6c2e530736": {
     "id": "5a17edaf11ad11b868fd1c6c2e530736",
@@ -7839,7 +7839,7 @@
     "first_seen": "2026-07-13T00:57:47.531436-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T18:17:56.240348-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "68e84ff3eaa2fe7c12dc1fa96610874b": {
@@ -7860,7 +7860,7 @@
     "first_seen": "2026-07-13T00:57:49.032191-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T18:17:56.240348-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "66f37c0644e3661eaea090d1ca2d45c7": {
@@ -7880,7 +7880,7 @@
     "first_seen": "2026-07-13T03:56:51.518286-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T18:17:56.240348-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "36018083af4bd361ed69b66d8122fbd2": {
@@ -7900,7 +7900,7 @@
     "first_seen": "2026-07-13T03:56:53.168966-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T18:17:56.240348-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "82a15b2f368f7cfb4ea84435d72bf733": {
@@ -7920,7 +7920,7 @@
     "first_seen": "2026-07-13T03:56:55.225960-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T18:17:56.240348-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "1d18eaef9a05f4bbcd67d8c183104b3c": {
@@ -7940,7 +7940,7 @@
     "first_seen": "2026-07-13T09:03:42.207143-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T18:17:56.240348-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "6e5d7f0a13b964481880e277c5108c3d": {
@@ -7960,7 +7960,7 @@
     "first_seen": "2026-07-13T09:03:43.897497-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T18:17:56.240348-07:00",
+    "checked_at": "2026-09-11T22:02:30.595316-07:00",
     "dead_strikes": 0
   },
   "b9c7c9ecaca6d28a62fddf01484d865d": {
@@ -7980,7 +7980,7 @@
     "first_seen": "2026-07-13T09:03:45.719984-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-06T18:17:56.240348-07:00"
+    "checked_at": "2026-09-11T22:02:30.595316-07:00"
   },
   "8d3ae8c44f093140e631ffb0bd6e1944": {
     "id": "8d3ae8c44f093140e631ffb0bd6e1944",
@@ -19134,6 +19134,25 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-09-11T15:42:45.488525-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "c882b63411db387a049c2a9452607d00": {
+    "id": "c882b63411db387a049c2a9452607d00",
+    "title": "Storyous Product Designer (UX/UI)",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://himalayas.app/companies/teya/jobs/storyous-product-designer-ux-ui",
+    "source": "Himalayas",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Storyous je pokladn\u00ed syst\u00e9m pro gastro podniky, kter\u00fd funguje samostatn\u011b v r\u00e1mci fintech skupiny Teya, k n\u00ed\u017e jsme se p\u0159ipojili v roce 2021.",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-09-11T22:03:29.735790-07:00",
     "status": "active",
     "applied_at": null
   }
