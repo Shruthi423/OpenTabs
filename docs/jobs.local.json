@@ -1,5 +1,39 @@
 [
   {
+    "id": "9bfd0b323c257ca57b275a2ba2fc4722",
+    "title": "Product Designer, Subscriptions",
+    "company": "Meta",
+    "location": "Menlo Park, CA, US",
+    "salary": "$170,000 \u2013 $236,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=38c7f128aab85613",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "2026-08-18",
+    "priority": 2,
+    "first_seen": "2026-09-11T23:06:10.881820-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "28b84dc51841914a25c79224bb7468fd",
+    "title": "Controls Engineer / Plant Floor Systems",
+    "company": "Invio Automation",
+    "location": "Lansing, MI, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=94495c7bd6626ae6",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-10",
+    "priority": 4,
+    "first_seen": "2026-09-11T23:06:08.894000-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "0521997bcdc48f0fa0a2258dfe180b1f",
     "title": "Product Designer, Subscriptions",
     "company": "Meta",
@@ -23203,22 +23237,5 @@
     "first_seen": "2026-08-11T23:40:01.370155-07:00",
     "status": "active",
     "jd": "no"
-  },
-  {
-    "id": "65410cd000b67785bcbceb192650f0f2",
-    "title": "Product Designer, GenUI",
-    "company": "OpenAI",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453056343",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-11T23:01:02.838292-07:00",
-    "status": "active",
-    "jd": "yes"
   }
 ]
