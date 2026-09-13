@@ -1,5 +1,20 @@
 [
   {
+    "id": "038d724fa74d7725b6c5965e3ff4a1e6",
+    "company": "From Pixxel",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdllRcVF4MHpKWDJyRnZZWVRnZmUyaTd5aDhibmx2dk5CWWlZQnYta2J0cDhMM3dfRGd3Q3E1RkNzWDlUZ3Njdmk4VUdyVm44M3NqSV9xbEUzeTZrWGREc25LVXNFeHJRRTZ2SDFDMWcyS0Vmams1S3hUYXVNSmhxSkxfNFh0QWlvZmtRQkYyWERUZExBOVE?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-13T15:01:39.835590-07:00",
+    "status": "active"
+  },
+  {
     "id": "dd02921a4394596f921f3f39bf45faa7",
     "company": "Besxar",
     "amount": "$9.4M",
@@ -11133,21 +11148,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-13T20:37:03.833111-07:00",
-    "status": "active"
-  },
-  {
-    "id": "6025319ad0dab34631fa431fb61b9a5a",
-    "company": "OddsBlaze",
-    "amount": "Undisclosed",
-    "stage": "Seed",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUUs5MkgzTDBCQzloQkpCaTVsOVo1Vkx6emlWQi1yN1lKU0FZUE9iMFZjWHZsLTRGSzdFV2o3MktraGlmckdLNDN0cjhCN0NxZnkzdGJGdmlSb2t1dy1MVDF6cHl4NFNRZFV0eVpRZjFxMVk5RmJKY2JrdmF5dUlfRHlKbnZaMmlMTG5LZ0Q3OTZ1RHN0U2c?oc=5",
-    "priority": 9,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-13T13:36:15.222004-07:00",
     "status": "active"
   }
 ]
