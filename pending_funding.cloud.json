@@ -1,30 +1,30 @@
 [
   {
     "item": {
-      "company": "Impossible Objects",
-      "amount": "$40.0M",
-      "stage": "Series B",
+      "company": "Samay",
+      "amount": "$7.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83Smh5NzRld2hHc2tpM0tyb0FDSUdwWFNwVVBubzd3aUhhRmlJTFlqWDRTNW5GTG9wTHIzNGw2U25FcEc3WUpXb0xnYUNiWldabmY0?oc=5",
-      "priority": 7
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZy0zc29ITkdhQjZkUTNnaEtjclZSbnpNcWc3enVuem5CNERMVkR5SjUxUTU4d2hzVURRQTVhNFAyZ1VXbmpIU2NISGQ1V2J2M0RkNjk1S2hPZDBMWThlemwtLTRFcWRmUGRzelVCVVZWc21kVXBSOGJZNDlCbnl1Wm1pWFdhand4TUJhcXJmdWVmMEdUWlJHWmtLVmlJNUE?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-09-12T22:37:25.195599-07:00"
+    "remind_at": "2026-09-13T03:45:58.936758-07:00"
   },
   {
     "item": {
-      "company": "Bike Startup",
-      "amount": null,
+      "company": "Miami",
+      "amount": "$100.0M",
       "stage": null,
       "investors": null,
-      "location": null,
+      "location": "New York",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yRzFncUNYdHp2VjhMRFdWOURuclFwcDl2UHpjWWFLODB1ZjR4cmFFMUVGZFliZHBNbkNBd2RQVUpZV21TWGtvRDk4UTlYTmZxdmhmSjJ0OA?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/13/miami-luxury-capital-for-rich-fleeing-new-york-la-100-million-office-infrared-saunas-stem-cell-clinic-vegas-style-valet/",
       "priority": 3
     },
-    "remind_at": "2026-09-12T22:37:30.987284-07:00"
+    "remind_at": "2026-09-13T03:46:01.765778-07:00"
   }
 ]

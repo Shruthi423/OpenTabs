@@ -57569,5 +57569,35 @@
     "roles": [],
     "first_seen": "2026-09-12T22:07:31.987459-07:00",
     "status": "active"
+  },
+  "de24f2a40edb68a04eb10fc37b9d5b7a": {
+    "id": "de24f2a40edb68a04eb10fc37b9d5b7a",
+    "company": "Samay",
+    "amount": "$7.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZy0zc29ITkdhQjZkUTNnaEtjclZSbnpNcWc3enVuem5CNERMVkR5SjUxUTU4d2hzVURRQTVhNFAyZ1VXbmpIU2NISGQ1V2J2M0RkNjk1S2hPZDBMWThlemwtLTRFcWRmUGRzelVCVVZWc21kVXBSOGJZNDlCbnl1Wm1pWFdhand4TUJhcXJmdWVmMEdUWlJHWmtLVmlJNUE?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-13T03:15:59.936902-07:00",
+    "status": "active"
+  },
+  "958ec39ae265aee31be32f56db8c862d": {
+    "id": "958ec39ae265aee31be32f56db8c862d",
+    "company": "Miami",
+    "amount": "$100.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/13/miami-luxury-capital-for-rich-fleeing-new-york-la-100-million-office-infrared-saunas-stem-cell-clinic-vegas-style-valet/",
+    "priority": 3,
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-09-13T03:16:02.765977-07:00",
+    "status": "active"
   }
 }
