@@ -11149,41 +11149,5 @@
     "roles": [],
     "first_seen": "2026-08-13T13:36:15.222004-07:00",
     "status": "active"
-  },
-  {
-    "id": "3d0a474a2a00255e99d5ef1ce43d9421",
-    "company": "BioScout",
-    "amount": "$4.8M",
-    "stage": "Seed",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYNG5kZmgwVlgxV0k1cWpkTUJ5aWV6aU9FMkI5QUFvNG9HeGJhQ3NEaHdmZ3VIVEhlM2drVjU4bG90S1lVbE1vX0hXam91TjRjRjA4SEprZWNPWUJKSUZGS2pGbmVSa3dQeVZYczMtZmhUbWluajZQaTlxRDBhZw?oc=5",
-    "priority": 9,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-13T11:55:35.751433-07:00",
-    "status": "active"
-  },
-  {
-    "id": "d0f43cd2d991174d16c67cd8ad4fa583",
-    "company": "Databricks",
-    "amount": "$5.0B",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "TechStartups",
-    "url": "https://techstartups.com/2026/08/13/databricks-raises-5-billion-at-190-billion-valuation-as-revenue-run-rate-tops-7-billion/",
-    "priority": 3,
-    "founders": [],
-    "location": "Mountain View, California; San Francisco, California; Seattle, Washington",
-    "roles": [
-      {
-        "title": "Sr. Product Designer, AI/BI",
-        "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8429978002",
-        "location": "Mountain View, California; San Francisco, California; Seattle, Washington"
-      }
-    ],
-    "first_seen": "2026-08-13T10:54:10.722301-07:00",
-    "status": "active"
   }
 ]
