@@ -57539,5 +57539,35 @@
     "roles": [],
     "first_seen": "2026-09-12T17:22:05.465749-07:00",
     "status": "active"
+  },
+  "e172b6bd0aedf1dac9a79fa851fbb247": {
+    "id": "e172b6bd0aedf1dac9a79fa851fbb247",
+    "company": "Impossible Objects",
+    "amount": "$40.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83Smh5NzRld2hHc2tpM0tyb0FDSUdwWFNwVVBubzd3aUhhRmlJTFlqWDRTNW5GTG9wTHIzNGw2U25FcEc3WUpXb0xnYUNiWldabmY0?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-12T22:07:26.195770-07:00",
+    "status": "active"
+  },
+  "bd5ea5830c5c94fdaceed516d53dc439": {
+    "id": "bd5ea5830c5c94fdaceed516d53dc439",
+    "company": "Bike Startup",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yRzFncUNYdHp2VjhMRFdWOURuclFwcDl2UHpjWWFLODB1ZjR4cmFFMUVGZFliZHBNbkNBd2RQVUpZV21TWGtvRDk4UTlYTmZxdmhmSjJ0OA?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-12T22:07:31.987459-07:00",
+    "status": "active"
   }
 }

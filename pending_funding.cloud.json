@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "from Seed",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "Seed Capital",
+      "company": "Impossible Objects",
+      "amount": "$40.0M",
+      "stage": "Series B",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR05XRUJxS0pHZHV0WmFlbHkyamQtREstZzZqVk5SNFNyWVpXamZ3cWViaExrdTNUN1dGLWJteVkyS2Mzd0duLUpqYmVteWotRjU5X05seWM5MkFnbmc5TGs3ZTBtOXMzV2xPeWxkemxkbDU0WVREaFQwNWNkZ1F4eXJlaVZFMmRhck05dDlPbmRSdU5KVnNDUVpvWHpBRFprT2std2ZDMFB3RVJNZGdxV2NwSXZ5MWQ0c3hkd2Y0b0ZWcmpLQ18yVVI3T3FpdEE?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83Smh5NzRld2hHc2tpM0tyb0FDSUdwWFNwVVBubzd3aUhhRmlJTFlqWDRTNW5GTG9wTHIzNGw2U25FcEc3WUpXb0xnYUNiWldabmY0?oc=5",
+      "priority": 7
     },
-    "remind_at": "2026-09-12T17:52:04.465572-07:00"
+    "remind_at": "2026-09-12T22:37:25.195599-07:00"
+  },
+  {
+    "item": {
+      "company": "Bike Startup",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yRzFncUNYdHp2VjhMRFdWOURuclFwcDl2UHpjWWFLODB1ZjR4cmFFMUVGZFliZHBNbkNBd2RQVUpZV21TWGtvRDk4UTlYTmZxdmhmSjJ0OA?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-12T22:37:30.987284-07:00"
   }
 ]

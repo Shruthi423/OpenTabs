@@ -1,5 +1,35 @@
 [
   {
+    "id": "bd5ea5830c5c94fdaceed516d53dc439",
+    "company": "Bike Startup",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yRzFncUNYdHp2VjhMRFdWOURuclFwcDl2UHpjWWFLODB1ZjR4cmFFMUVGZFliZHBNbkNBd2RQVUpZV21TWGtvRDk4UTlYTmZxdmhmSjJ0OA?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-12T22:07:31.987459-07:00",
+    "status": "active"
+  },
+  {
+    "id": "e172b6bd0aedf1dac9a79fa851fbb247",
+    "company": "Impossible Objects",
+    "amount": "$40.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83Smh5NzRld2hHc2tpM0tyb0FDSUdwWFNwVVBubzd3aUhhRmlJTFlqWDRTNW5GTG9wTHIzNGw2U25FcEc3WUpXb0xnYUNiWldabmY0?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-12T22:07:26.195770-07:00",
+    "status": "active"
+  },
+  {
     "id": "fdca0f5862da925d581647b4394524d5",
     "company": "from Seed",
     "amount": "Undisclosed",
@@ -11484,51 +11514,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-12T22:30:22.878243-07:00",
-    "status": "active"
-  },
-  {
-    "id": "40e7d661d2ab31ab941e453af6abfd38",
-    "company": "Lights",
-    "amount": "Undisclosed",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "Sequoia (news)",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTXVQRzFHUXlibXJKS1B5dTJjQy1lbEdHb0g0bExfczJCa0FjZGxHOGZ6Q2x3UzlZVDNVWEo1Y1BTdmxrS0ZwM05WeGRhOGY3dVliZXA3czVGQjNjSHhER0FaeHg1RzZrWDBsaXgtbmlrU0F3aFFmMnpmblAzRjd2ZVdUNXYyQQ?oc=5",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-12T20:55:56.169854-07:00",
-    "status": "active"
-  },
-  {
-    "id": "3466f42abb23dd8297347f4ce6015c86",
-    "company": "Point2 Technology",
-    "amount": "$80.0M",
-    "stage": "Series B",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fVkR5Rm1DYzI5S0paZFhzSDlfOFRqNVg1MzRIMlF2UVhvQVJNdXFYU3pxRmExRnlxWnd2SHpTclcwVFUtQThEckdEX1pfTGNzaHF3?oc=5",
-    "priority": 7,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-12T20:55:53.682192-07:00",
-    "status": "active"
-  },
-  {
-    "id": "01ff50b93912f2939a3ec29d9f3f3838",
-    "company": "Kshatra Labs",
-    "amount": "$1.5B",
-    "stage": "Pre-Seed",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmtIdV9xQVJHTFhCWGQ1UEJzeUdVMHhZRy0zWFBncm9BOHhQNURVel9GcU5TelJtOVpQLW5BSEgtODlUeFd6ZlJ1ekRyX21xWUdHLXJQNVp2S3Mya0htcVpRQXBhbUJueXR2WEl0aHVVYy1Zbl9wSE5reS11QUREblM2RTVTZzNGNUgzT1lRemg5UWQtbEM5Q0g1cGY?oc=5",
-    "priority": 10,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-12T20:55:51.161295-07:00",
     "status": "active"
   }
 ]
