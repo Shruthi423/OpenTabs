@@ -1,5 +1,22 @@
 [
   {
+    "id": "e26997b7e928ed8ee05dd0f37e89bb6a",
+    "title": "Brand Designer [AQ-17534]",
+    "company": "Aquent",
+    "location": "Beaverton, OR",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4464749094",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-13T11:41:55.939882-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "242141b80c7b2bf08d584063876c4a50",
     "title": "UX Designer",
     "company": "Evlo AI",
@@ -21316,22 +21333,5 @@
     "first_seen": "2026-08-13T12:24:08.717407-07:00",
     "status": "active",
     "jd": "yes"
-  },
-  {
-    "id": "9d7bd724cd630816a6a946347fde7955",
-    "title": "Product Design Engineer",
-    "company": "Day-O-Lite Manufacturing",
-    "location": "Warwick, RI, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=21b48e1c9295ae25",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-13",
-    "priority": 4,
-    "first_seen": "2026-08-13T11:26:56.209533-07:00",
-    "status": "active",
-    "jd": "no"
   }
 ]
