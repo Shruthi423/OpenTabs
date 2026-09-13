@@ -57599,5 +57599,35 @@
     "roles": [],
     "first_seen": "2026-09-13T03:16:02.765977-07:00",
     "status": "active"
+  },
+  "555fe8495a3fc14780e26590d1f6d0dc": {
+    "id": "555fe8495a3fc14780e26590d1f6d0dc",
+    "company": "Billionaire Mike Bloomberg",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/article/billionaire-mike-bloomberg-fired-15-year-career-at-salomon-brothers-next-morning-founded-media-empire/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-13T07:27:08.729010-07:00",
+    "status": "active"
+  },
+  "dd02921a4394596f921f3f39bf45faa7": {
+    "id": "dd02921a4394596f921f3f39bf45faa7",
+    "company": "Besxar",
+    "amount": "$9.4M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmgtbmMzM2dUeHI5SDVqbDRsYy05TElBVUptWXN0ZlhOR1hPLXp3OU9NQlpWSkhhaS1yQ2cyV1d5eF9XNV9yNG11bFRtUGdTaEl0OUtkZ0J3emZ1c0VKU01pODlPX2JuU2xhdjVFc09YM2tWeVpPM1N1REdWSTVsb0tQS0ZpSHh2UE1zOWtrQno?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-13T07:27:11.645392-07:00",
+    "status": "active"
   }
 }
