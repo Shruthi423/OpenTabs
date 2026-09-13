@@ -1,5 +1,20 @@
 [
   {
+    "id": "fdca0f5862da925d581647b4394524d5",
+    "company": "from Seed",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Seed Capital",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR05XRUJxS0pHZHV0WmFlbHkyamQtREstZzZqVk5SNFNyWVpXamZ3cWViaExrdTNUN1dGLWJteVkyS2Mzd0duLUpqYmVteWotRjU5X05seWM5MkFnbmc5TGs3ZTBtOXMzV2xPeWxkemxkbDU0WVREaFQwNWNkZ1F4eXJlaVZFMmRhck05dDlPbmRSdU5KVnNDUVpvWHpBRFprT2std2ZDMFB3RVJNZGdxV2NwSXZ5MWQ0c3hkd2Y0b0ZWcmpLQ18yVVI3T3FpdEE?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-12T17:22:05.465749-07:00",
+    "status": "active"
+  },
+  {
     "id": "add31bc3017872ec4bd585385456a7bf",
     "company": "NVIDIA",
     "amount": "$12.9B",
@@ -11514,36 +11529,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-12T20:55:51.161295-07:00",
-    "status": "active"
-  },
-  {
-    "id": "c30d2e026cad30e7ad1aa975c88274cd",
-    "company": "Form Energy",
-    "amount": "$750.0M",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "Sequoia (news)",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUdRdTBpV2FmOVFnWHFCd2owTWdHTkdnczBZREx1S1N2YUtvRWtrSXNVd19OQXBaMjZ5bFhkQWlQQjBYY2d6Z2JmTURWOXR5eWRIS0xsT0VDdWtleXc3WmRHZWEyeURYLUIwZkJyOTZNUWg0MTNJalRHNkl0ZE5LRThCRDBkVlI3MFphN1QzMWpsRDczYVJBZ1M2Z0l0clNudmltcEZzdw?oc=5",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-12T16:09:53.824100-07:00",
-    "status": "active"
-  },
-  {
-    "id": "232f118d439c1f0a9ed83868b93b8b29",
-    "company": "Skan AI",
-    "amount": "$63.0M",
-    "stage": "Series C",
-    "investors": "Undisclosed",
-    "source": "SiliconANGLE",
-    "url": "https://siliconangle.com/2026/08/12/skan-ai-raises-63m-give-ai-agents-map-enterprise-work/",
-    "priority": 6,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-12T16:09:47.163428-07:00",
     "status": "active"
   }
 ]
