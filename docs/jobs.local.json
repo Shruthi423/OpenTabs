@@ -1,5 +1,22 @@
 [
   {
+    "id": "f514fb6dfcb2a7db06935297f0f63144",
+    "title": "Associate Product Design Engineer",
+    "company": "Mammoth Brands",
+    "location": "New York, NY",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4466113811",
+    "source": "Linkedin",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-14T16:21:10.926408-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "c359b6fda3ae007685fc3db6549bf63e",
     "title": "User Experience Researcher",
     "company": "Blueprint",
@@ -21061,39 +21078,5 @@
     "first_seen": "2026-08-14T16:54:10.323462-07:00",
     "status": "active",
     "jd": "no"
-  },
-  {
-    "id": "552c4042ab4675b7ae7d9924561a8ce0",
-    "title": "Product Design Technician - Level III",
-    "company": "Cummins Inc.",
-    "location": "Lakewood, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4434679798",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-14T16:16:15.521903-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "3339bea722844142dc3c0e83efd1416e",
-    "title": "Product Designer, Identity",
-    "company": "OpenAI",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4453753069",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-08-14T16:16:05.745742-07:00",
-    "status": "active",
-    "jd": "yes"
   }
 ]
