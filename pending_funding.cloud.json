@@ -1,1 +1,282 @@
-[]
+[
+  {
+    "item": {
+      "company": "Composio",
+      "amount": "$25.0M",
+      "stage": "Series A",
+      "investors": "Lightspeed, Lightspeed Venture Partners",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/composio-raises-25m-series-a/",
+      "priority": 11
+    },
+    "remind_at": "2026-09-14T03:46:38.256325-07:00"
+  },
+  {
+    "item": {
+      "company": "Sphere",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdTFxeksxSU81OWRueFlhTVR3NTJ1eURSdlJtalhTNHhzQ0FLS2VqVGphT2ZCZ3VUY3hZTHRKbmRaUy1Pb2UzQmZZVml1NkZXZDYzTVVvS3M3emZmNDd3WnItV0VsMDNDLThfZWNJcFhlOXpWLW1DeFpncUQ3WFIzeDFzczROUER4b2lwNS1XNWw?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-09-14T03:46:41.175700-07:00"
+  },
+  {
+    "item": {
+      "company": "EdTechX",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "PKSHA Algorithm Fund",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/edtechx-raises-seed-round/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-14T03:46:51.856841-07:00"
+  },
+  {
+    "item": {
+      "company": "Custodea",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/custodea-raises-350000-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-14T03:46:54.931723-07:00"
+  },
+  {
+    "item": {
+      "company": "Furl",
+      "amount": "$10.0M",
+      "stage": "Seed",
+      "investors": "Ten Eleven Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/furl-raises-10m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-14T03:46:57.937802-07:00"
+  },
+  {
+    "item": {
+      "company": "UniqYou",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWE0ejdYX2xENkZDbDFpRktQd2RVZS1Cak1mNlRmX3ZLOUc3OFlTUFVKa09ERzVlVmxaQm55eGo4c2Z3NUJlMWZYMDBqcmU3MVZyY0RRMndRNWJhWVlWVlFlS3ctcXZVemhqOFJGMmFkWWlYS2VXOG1FVmNUMVJFZEtuTlpha0o3LTBFcEFBRk1LQVVveHdKbnhNbDB2R2M4MG12T242OVpKZURJU0p4Mk4xc9IBswFBVV95cUxObWE0ejdYX2xENkZDbDFpRktQd2RVZS1Cak1mNlRmX3ZLOUc3OFlTUFVKa09ERzVlVmxaQm55eGo4c2Z3NUJlMWZYMDBqcmU3MVZyY0RRMndRNWJhWVlWVlFlS3ctcXZVemhqOFJGMmFkWWlYS2VXOG1FVmNUMVJFZEtuTlpha0o3LTBFcEFBRk1LQVVveHdKbnhNbDB2R2M4MG12T242OVpKZURJU0p4Mk4xcw?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-14T03:47:00.762717-07:00"
+  },
+  {
+    "item": {
+      "company": "Resolutiion",
+      "amount": "$10.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeExtR0ktT0ZwcE0zMGxZbEJyNld4VWVDS2M0bTExMUFleTlvaHZnOTNiaFg5aDZDbXRSbi1vZlNfS2pONThwV3BHTmszMXBKYi11eUQ4TndRZFVSeHl4SDJvMEw4Nm1SOW1ORGVlQ1M4dDBlamtRVUVMMWhCbzdndHNyZ1Z0Y3lkS3FZUXZEcDBOUQ?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-14T03:47:03.666486-07:00"
+  },
+  {
+    "item": {
+      "company": "Atolio",
+      "amount": "$24.0M",
+      "stage": "Series A",
+      "investors": "Translink Capital",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/atolio-closes-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-14T03:47:06.598618-07:00"
+  },
+  {
+    "item": {
+      "company": "Chift",
+      "amount": null,
+      "stage": "Series A",
+      "investors": "BlackFin Capital Partners",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/chift-raises-10-5m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-14T03:47:09.549855-07:00"
+  },
+  {
+    "item": {
+      "company": "Ultimarii",
+      "amount": "$13.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ultimarii-raises-13m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-14T03:47:12.500487-07:00"
+  },
+  {
+    "item": {
+      "company": "Guangyu Xinchen",
+      "amount": "$300.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkx1cEVqZEdLYndSNFpLbFE5VDE2X2RCekcteUwxV2d4TGZVRzlsdTVmSDdHVEQ5bUswdEQtcDBkUmdrSkZXWjdQUnFaR2FxbkcwRjNWSU11b2gzcWd2eXlLUFFXMkt3TVJiOXJFTGxwU0RGNEhuZ040VWxiRlNBa2JYY3QwT250Z2R6cTY3c1NfQXk0SmhHOVFB?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-09-14T03:47:32.015277-07:00"
+  },
+  {
+    "item": {
+      "company": "Brussels-based Chift",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": "Brussels",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQclptdEhwazNHRFVkVDZSN2dEVEFPWW5CUW5WNmN1N2c4ZHRtQWZDQ1RQdkNlUU9sazNpVnpnbmlHY3FiX0tqdTF3MW9rMExSd0V1UkpCTlNHMUJtdkFmUDQzcFNaaFJpSk4xNEhHQWJLZGJtNUVMbG14ZVlZSkI4U05HRG11QnQ2YXJoTzlZV3R5SVIzRWsxTlNza1ZkN1cwVXo5QnNvVGNNTDFnbEtpWGYxZ25od2FLT3FJVElNVGsweGQwUjN4MS1Db1FvLTQ?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-09-14T03:47:38.969034-07:00"
+  },
+  {
+    "item": {
+      "company": "Furnishka",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZEtubGxySWZVTXJCS3J0WmU2TFFUZlN0VnVneTVuazdVQmtIWDVkOV9mN0sxRVBXYXQzQ3hfcnJHLWtkWmQ5M0l2UFYxSjlOWU5MdmM0Z0tNZGltcUo3ZjJMYWI1ZlFaVjhQRlVSODNQQXluQk93SXM5YXNhYzlpNXVndEFyN3BramZLVDFXVEw0cUhHTm1BQXUtSGVlOVBfcEtVTE5NUHZOQWRrZkZ0T3lSQXZ3c3E4V2RkUg?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-09-14T03:47:41.766151-07:00"
+  },
+  {
+    "item": {
+      "company": "Tandem Health",
+      "amount": "$100.0M",
+      "stage": "Series B",
+      "investors": "Scaleup Europe Fund",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/tandem-health-raises-100m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-09-14T03:47:47.425454-07:00"
+  },
+  {
+    "item": {
+      "company": "Heartbeats",
+      "amount": "$15.0M",
+      "stage": "Series C",
+      "investors": "Artemis No",
+      "location": "Tokyo",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/heartbeats-raises-15m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-09-14T03:47:50.359635-07:00"
+  },
+  {
+    "item": {
+      "company": "Fundcraft",
+      "amount": null,
+      "stage": null,
+      "investors": "Riverside Acceleration Capital",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/fundcraft-raises-12m-growth-capital/",
+      "priority": 6
+    },
+    "remind_at": "2026-09-14T03:47:53.488764-07:00"
+  },
+  {
+    "item": {
+      "company": "Qupital",
+      "amount": "$300.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/qupital-raises-300m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-09-14T03:47:56.444973-07:00"
+  },
+  {
+    "item": {
+      "company": "Bolter",
+      "amount": "$10.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/bolter-raises-10m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-14T03:48:00.963984-07:00"
+  },
+  {
+    "item": {
+      "company": "Epsilon Health",
+      "amount": "$27.6M",
+      "stage": null,
+      "investors": "AlleyCorp",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/epsilon-health-raises-27-6m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-14T03:48:07.310499-07:00"
+  },
+  {
+    "item": {
+      "company": "Stockholm\u2019s Tandem Health",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Stockholm",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTi1fUFN5RGt1YTUtcW1GNmZlS3ZCZEhrQ191T0N6NjBtdkk0Q2k1TWY3eU15REVOVkhrMFlYSmdIXzdaejJxb1FGSldhVThSbVJNUTJzUW5HMGxkakN6TU9JWkcwQVoyalROZ1JhSXBnb3paaV9aN0YtR0cxX2stVmFSOHpYUjBSVmVRM2ZjYTQ0U0lteFdpNlhKQ3YyOUN2NVYzbW5DUU9hU0wzdGdKaWpycU5xWnlpdklKRzR4U0FoTTBPWlkwc05CWGNFakU1cjlWZVQtVWNvTDRibGc?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-14T03:48:12.984130-07:00"
+  }
+]
