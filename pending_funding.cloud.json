@@ -1,30 +1,44 @@
 [
   {
     "item": {
-      "company": "Egypt-Born Synapse Analytics",
-      "amount": null,
+      "company": "Nuance Labs",
+      "amount": "$50.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS3pYRlJ4eDljTC0wRWtUYXA4ck1KVjFidU9aUUJMVFpaOEdtb3VaSGliN0FrWG1DbndJWWtjVTBYeUxQNHF3S3c0dGJ0X1M2VFB6b2pOQ3R1NUZoUk94TlphcUprdGdURlM2ZzEwZXNtNE9qZTBhQUswcEs1RzlOdnAyRERpb0NOZ1RhbGRLbjhUcVk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FWEphNUotZUk1TUZENk9FX1FSeVVIVWRkczE2M0xxUGJHYmpkaUxzSDRHVnljeDFva2htUkh0SVU2bmVzV0V6ZndVbmNUV3RobTBz?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-09-14T13:53:48.686959-07:00"
+    "remind_at": "2026-09-14T16:47:02.159335-07:00"
   },
   {
     "item": {
-      "company": "Temporal",
-      "amount": "$550.0M",
+      "company": "Kaiko",
+      "amount": "$53.0M",
+      "stage": "Series B",
+      "investors": "Nasdaq Ventures, Coinbase Ventures",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/14/kaiko-raises-53m-to-grow-its-crypto-data-platform/",
+      "priority": 7
+    },
+    "remind_at": "2026-09-14T16:47:07.903540-07:00"
+  },
+  {
+    "item": {
+      "company": "Glass Imaging",
+      "amount": "$300.0M",
       "stage": null,
       "investors": null,
-      "location": "Bellevue",
+      "location": null,
       "founders": [],
-      "source": "GeekWire Funding",
-      "url": "https://www.geekwire.com/2026/temporal-raises-550m-hits-12-55b-valuation-as-agentic-ai-wave-fuels-massive-growth/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/14/openai-reportedly-buys-ai-camera-startup-glass-imaging-for-more-than-300m/",
       "priority": 3
     },
-    "remind_at": "2026-09-14T13:53:51.557603-07:00"
+    "remind_at": "2026-09-14T16:47:13.490252-07:00"
   }
 ]

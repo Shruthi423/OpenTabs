@@ -1,5 +1,50 @@
 [
   {
+    "id": "ca00b3b58bc89d6e4af67705bb676a1e",
+    "company": "Glass Imaging",
+    "amount": "$300.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/14/openai-reportedly-buys-ai-camera-startup-glass-imaging-for-more-than-300m/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-14T16:17:14.490395-07:00",
+    "status": "active"
+  },
+  {
+    "id": "5080c7970de4d5fbe9d0566b32b331b9",
+    "company": "Kaiko",
+    "amount": "$53.0M",
+    "stage": "Series B",
+    "investors": "Nasdaq Ventures, Coinbase Ventures",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/14/kaiko-raises-53m-to-grow-its-crypto-data-platform/",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-14T16:17:08.903719-07:00",
+    "status": "active"
+  },
+  {
+    "id": "f1d5eb5905f9c2d6b348ecd1371d35b2",
+    "company": "Nuance Labs",
+    "amount": "$50.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FWEphNUotZUk1TUZENk9FX1FSeVVIVWRkczE2M0xxUGJHYmpkaUxzSDRHVnljeDFva2htUkh0SVU2bmVzV0V6ZndVbmNUV3RobTBz?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-14T16:17:03.159532-07:00",
+    "status": "active"
+  },
+  {
     "id": "96c35d7d140f3e9f09d425f9a07bbee0",
     "company": "Egypt-Born Synapse Analytics",
     "amount": "Undisclosed",
@@ -11067,21 +11112,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-15T01:00:32.769315-07:00",
-    "status": "active"
-  },
-  {
-    "id": "d4b40480280c5a900535eed18b0d1184",
-    "company": "Z.ai",
-    "amount": "Undisclosed",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "SiliconANGLE",
-    "url": "https://siliconangle.com/2026/08/14/z-ai-debuts-glm-5-3-long-horizon-coding-cybersecurity-upgrades/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-14T13:47:35.996005-07:00",
     "status": "active"
   }
 ]
