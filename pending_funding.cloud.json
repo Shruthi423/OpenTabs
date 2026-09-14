@@ -1,114 +1,30 @@
 [
   {
     "item": {
-      "company": "Flam",
-      "amount": "$40.0M",
-      "stage": "Series B",
-      "investors": "Claypond Capital, Australian Gulf Capital",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/14/flam-raises-40m-in-funding-to-make-ai-enabled-interactive-content-a-reality/",
-      "priority": 7
-    },
-    "remind_at": "2026-09-14T09:55:49.024386-07:00"
-  },
-  {
-    "item": {
-      "company": "Michael Dell",
-      "amount": "$262.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/14/michael-dell-net-worth-nearly-doubled-262-billion-last-year-alone-dell-becomes-unexpected-ai-infrastructure-winner/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-14T09:55:54.703776-07:00"
-  },
-  {
-    "item": {
-      "company": "Cornelis Networks",
-      "amount": "$205.0M",
-      "stage": null,
-      "investors": "IAG [&#",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/14/cornelis-networks-raises-205m-and-scales-up-and-scales-out-with-its-new-active-compute-fabric/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-14T09:56:00.058348-07:00"
-  },
-  {
-    "item": {
-      "company": "Buildots",
-      "amount": "$130.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/14/buildots-raises-130-million-to-expand-ai-powered-construction-platform/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-14T09:56:03.031978-07:00"
-  },
-  {
-    "item": {
-      "company": "SoftBank",
-      "amount": "$11.87B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/14/softbank-secures-11-87-billion-to-keep-funding-openai-even-as-its-stock-plunges-13/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-14T09:56:05.915940-07:00"
-  },
-  {
-    "item": {
-      "company": "Kaiko",
-      "amount": "$110.0M",
-      "stage": null,
-      "investors": "S&#",
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/14/crypto-data-startup-kaiko-raises-110-million-in-funding-led-by-sp-global/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-14T09:56:18.155700-07:00"
-  },
-  {
-    "item": {
-      "company": "Cognition AI",
-      "amount": "$48.0B",
-      "stage": "Series E",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aV3FtNk5aeVBpYTU1U3haWUdudXM4bTZCZzhJbFFuN2ZiT2tQT1B0LTVBdWxIS3EwRUlNQ2c1NHh2RmV6TnNTemFVZndnTU9wZEgwVmRfUmNxSnlmTWJDaVl6Vm9OVk8zWm5ta2dqLTY3bU40NFE?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-14T09:56:20.972741-07:00"
-  },
-  {
-    "item": {
-      "company": "Wageningen-based Greencovery",
+      "company": "Egypt-Born Synapse Analytics",
       "amount": null,
-      "stage": null,
+      "stage": "Series A",
       "investors": null,
-      "location": "Wageningen",
+      "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNV0I1UTFwS29ueEpoMTZ5TG1OU1MyODN2VWJXSXRqS0hjcElCSmRKcl9tWUFsLUtlN3NfaDBpWGw4ZTZHMmd0M3YtX0RWVUQ3aW10aU5uVlQwMjhEWk5BN3ByUHBFZ2ZfaWVNXzhXelRFbkZXZkxrZ25TLWQ4ZkdtOHdoV3M3SXFRNXNTeTh6Y016OWdrdmVjT1FnVGJwQkJwaUlYYnkzdzBQRFRYTjY3QWV4VWRtdlVPWEFNLWlsUlR1N19idVdKWVI1VHNtM2NZVExPeGY1Z3dLa2ZGMUs3aUl3YmZtTkVjS0JmREdNUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS3pYRlJ4eDljTC0wRWtUYXA4ck1KVjFidU9aUUJMVFpaOEdtb3VaSGliN0FrWG1DbndJWWtjVTBYeUxQNHF3S3c0dGJ0X1M2VFB6b2pOQ3R1NUZoUk94TlphcUprdGdURlM2ZzEwZXNtNE9qZTBhQUswcEs1RzlOdnAyRERpb0NOZ1RhbGRLbjhUcVk?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-09-14T13:53:48.686959-07:00"
+  },
+  {
+    "item": {
+      "company": "Temporal",
+      "amount": "$550.0M",
+      "stage": null,
+      "investors": null,
+      "location": "Bellevue",
+      "founders": [],
+      "source": "GeekWire Funding",
+      "url": "https://www.geekwire.com/2026/temporal-raises-550m-hits-12-55b-valuation-as-agentic-ai-wave-fuels-massive-growth/",
       "priority": 3
     },
-    "remind_at": "2026-09-14T09:56:26.473866-07:00"
+    "remind_at": "2026-09-14T13:53:51.557603-07:00"
   }
 ]

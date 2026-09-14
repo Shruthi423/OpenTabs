@@ -58070,5 +58070,35 @@
     "roles": [],
     "first_seen": "2026-09-14T09:26:27.474065-07:00",
     "status": "active"
+  },
+  "96c35d7d140f3e9f09d425f9a07bbee0": {
+    "id": "96c35d7d140f3e9f09d425f9a07bbee0",
+    "company": "Egypt-Born Synapse Analytics",
+    "amount": "Undisclosed",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS3pYRlJ4eDljTC0wRWtUYXA4ck1KVjFidU9aUUJMVFpaOEdtb3VaSGliN0FrWG1DbndJWWtjVTBYeUxQNHF3S3c0dGJ0X1M2VFB6b2pOQ3R1NUZoUk94TlphcUprdGdURlM2ZzEwZXNtNE9qZTBhQUswcEs1RzlOdnAyRERpb0NOZ1RhbGRLbjhUcVk?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-14T13:23:49.687150-07:00",
+    "status": "active"
+  },
+  "d51fc2dd0395bb884eaec08a275fcfa6": {
+    "id": "d51fc2dd0395bb884eaec08a275fcfa6",
+    "company": "Temporal",
+    "amount": "$550.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "GeekWire Funding",
+    "url": "https://www.geekwire.com/2026/temporal-raises-550m-hits-12-55b-valuation-as-agentic-ai-wave-fuels-massive-growth/",
+    "priority": 3,
+    "founders": [],
+    "location": "Bellevue",
+    "roles": [],
+    "first_seen": "2026-09-14T13:23:52.557756-07:00",
+    "status": "active"
   }
 }
