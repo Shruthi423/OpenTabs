@@ -1,142 +1,58 @@
 [
   {
     "item": {
-      "company": "Eve Security",
-      "amount": "$4.5M",
-      "stage": "Seed",
-      "investors": "Run Ventures, Dreamit Ventures, Blu Ventures",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/15/846026/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-15T10:27:58.243925-07:00"
-  },
-  {
-    "item": {
-      "company": "Axo Longevity",
-      "amount": "$5.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTTVOSC1CRGdYSzA3TW1GNmRuNHV1c2pEYTZQOWdDNnVSaUl1d0xqYXNsaE1jZVR3OGFsYWNVOTBLd2dDaW1MaWRRaXd5N1UzWXEtTUtxdnl3TjVaTUNna09GN05PVFduUGd2b2dZWDBhT3lNbEhrRVRfenlSWnVBbkVadW5qRGgyYXVZM2dlYi1QUWZ3bmpOcmRUTnFEdFZPM2tvRk5PX21zUW9zSE1qeHl2Ym1Ydw?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-09-15T10:28:03.967472-07:00"
-  },
-  {
-    "item": {
-      "company": "Fin.com",
-      "amount": "$20.0M",
-      "stage": "Seed",
-      "investors": "Expa and Garrett Camp: Fortune&nbsp",
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzMEE3eXlwMGVuRlYwWVVvTVU4VUg5Q283MHZZVDRSZWxKR2E5Uld6YkdJTnhYdE1XZ0YyQWxUNElENXZzdFdXNXQ1LWVUUGg2MS1fTEt1YTliRkRFT2UxVnJiZTgyNzFHeTBvSQ?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-09-15T10:28:06.872903-07:00"
-  },
-  {
-    "item": {
-      "company": "Evvy",
-      "amount": "$40.0M",
-      "stage": "Series B",
-      "investors": "Catalio Capital Management",
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
-      "priority": 7
-    },
-    "remind_at": "2026-09-15T10:28:09.684842-07:00"
-  },
-  {
-    "item": {
-      "company": "Evvy",
-      "amount": null,
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcDJBN3ZLU2VWcDZmQmN1Y2J2OER1LVhDS2VjeGowaDBfeWt2dGZWRW5hSGtWb2dNVUlEZGhmb0J2RkZBc2U5SlpVRmlQZ2o2bFVOOVV6WnJ5eGt5SzFma21fczhWa0hzY2paZ3RRLTVJWURNOGd0REJBOXVHeGhoZlZmZHRSVnAwOUg4eFZaVWRUOV9uUzJQb2JMQTI?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-09-15T10:28:12.522480-07:00"
-  },
-  {
-    "item": {
-      "company": "Keewano",
-      "amount": "$12.0M",
+      "company": "Factory",
+      "amount": "$200.0M",
       "stage": null,
-      "investors": "Hetz Ventures, Andreessen Horowitz LLC\u2019s a",
-      "location": "The Tel Aviv",
+      "investors": "Khosla, Sequoia, Insight Partners",
+      "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/15/startup-keewano-launches-agent-focused-database-and-pulls-in-12m-in-funding/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/09/15/ai-coding-startup-factory-raises-200-million-more-than-triples-valuation-to-5-billion/",
       "priority": 6
     },
-    "remind_at": "2026-09-15T10:28:15.339049-07:00"
+    "remind_at": "2026-09-15T13:30:15.194348-07:00"
   },
   {
     "item": {
-      "company": "Profound",
-      "amount": "$180.0M",
+      "company": "CADDi",
+      "amount": "$1.2B",
       "stage": "Series D",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/15/caddi-manufacturing-startup-valuation-funding-round-series-d-exclusive/",
       "priority": 5
     },
-    "remind_at": "2026-09-15T10:28:18.242557-07:00"
+    "remind_at": "2026-09-15T13:30:18.313979-07:00"
   },
   {
     "item": {
-      "company": "Seattle\u2019s Nuance Labs",
-      "amount": "$50.0M",
-      "stage": null,
-      "investors": null,
-      "location": "Seattle",
-      "founders": [],
-      "source": "GeekWire Funding",
-      "url": "https://www.geekwire.com/2026/seattles-nuance-labs-raises-50m-to-give-ai-models-human-expression-and-nuance/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-15T10:28:24.053074-07:00"
-  },
-  {
-    "item": {
-      "company": "Exein",
-      "amount": "$270.0M",
-      "stage": null,
-      "investors": null,
-      "location": "AI Rome",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/15/exein-raises-270m-at-1-7b-valuation-to-secure-robots-autonomous-vehicles-and-physical-ai/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-15T10:28:26.880666-07:00"
-  },
-  {
-    "item": {
-      "company": "CreatorFi",
-      "amount": "$5.0M",
+      "company": "Profound",
+      "amount": "$1.8B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "AlleyWatch",
-      "url": "https://www.alleywatch.com/2026/09/creatorfi-creator-economy-fintech-ip-backed-financing-capital-factoring-gaming-music-content-platform-billy-huang/",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmZXclFRajJYMTNtMzE1a2V0aDliNV9zZkN6WTZycFRFRTRDM3ktTDE3MWVsTHBVWUxSX1VTaTM4LW9pRjNjZ2lGTmJoamduenJpSGhhZUc0bmgwVjhEcFV1a0FwZjh2UXc0dGx1S2E2TVF1UkZmRnh5X2NzWHlRbVhzRE5FZ1czNE1WMHhsU0Q4QVhJNDhWTGhBREJYc0FvX1EwWGJmR0NCVW5vV25ycQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-09-15T10:28:29.707421-07:00"
+    "remind_at": "2026-09-15T13:30:21.270796-07:00"
+  },
+  {
+    "item": {
+      "company": "Helsinki\u2019s Zero",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRzVBeVlaVTZDZ3F3cHFHZkpNeEwzQTJscDZ0bGl1TjBVNjlkV3ZlQnZWc05HeE8wTHdLZHZpV1paTW8yWDJuR0NZMXE2eVZQXzd0X1otbEZvOTNNRGIxRG9iTFVtdXpYcTNwUUtnMi1tWEpielFnMmhaejdDazBiczNNS0ZPZDIwVGE0dFkyOXVFMWlyUDdqQUxVSnpicFh4c3pBaDQ5VDVoaXVHNEE4YTgydE5NQldSd2F5T1JLdmpveUlGM3g5MFNHRGlEYklMM2toY2lScU4?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-15T13:30:28.649325-07:00"
   }
 ]

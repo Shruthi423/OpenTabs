@@ -1,5 +1,56 @@
 [
   {
+    "id": "1dec780235ef87f95a8e307a632b395c",
+    "company": "Helsinki\u2019s Zero",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRzVBeVlaVTZDZ3F3cHFHZkpNeEwzQTJscDZ0bGl1TjBVNjlkV3ZlQnZWc05HeE8wTHdLZHZpV1paTW8yWDJuR0NZMXE2eVZQXzd0X1otbEZvOTNNRGIxRG9iTFVtdXpYcTNwUUtnMi1tWEpielFnMmhaejdDazBiczNNS0ZPZDIwVGE0dFkyOXVFMWlyUDdqQUxVSnpicFh4c3pBaDQ5VDVoaXVHNEE4YTgydE5NQldSd2F5T1JLdmpveUlGM3g5MFNHRGlEYklMM2toY2lScU4?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-15T13:00:29.649487-07:00",
+    "status": "active"
+  },
+  {
+    "id": "ab2411191ebf0cbda8d9b30cc0969979",
+    "company": "CADDi",
+    "amount": "$1.2B",
+    "stage": "Series D",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/15/caddi-manufacturing-startup-valuation-funding-round-series-d-exclusive/",
+    "priority": 5,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-15T13:00:19.314167-07:00",
+    "status": "active"
+  },
+  {
+    "id": "009094b7f22a4c4b27cd38b2a34ecf85",
+    "company": "Factory",
+    "amount": "$200.0M",
+    "stage": "?",
+    "investors": "Khosla, Sequoia, Insight Partners",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/09/15/ai-coding-startup-factory-raises-200-million-more-than-triples-valuation-to-5-billion/",
+    "priority": 6,
+    "founders": [],
+    "location": "San Francisco, CA",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/factory/7a1dde6b-0d7c-45c8-a374-66e9f8aa0d1a",
+        "location": "San Francisco, CA"
+      }
+    ],
+    "first_seen": "2026-09-15T13:00:16.194527-07:00",
+    "status": "active"
+  },
+  {
     "id": "d599e4d2fc0186a735a30dd4147a379d",
     "company": "CreatorFi",
     "amount": "$5.0M",
@@ -11472,21 +11523,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-15T21:21:34.612292-07:00",
-    "status": "active"
-  },
-  {
-    "id": "4e702b4d9320a012b82fa0d2a26636b1",
-    "company": "Team8",
-    "amount": "$365.0M",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZY3hvVkpSdFlpRjJ1M1VBU1luaXJOR0dfTFRXaVNjNmEtczhJMlpCa0tCZ0pwWDlva3BGdGhFNWxqT1RaUjZ2YkNUUm1vQXJSajN2Zy0yQ1JMTFU1WGVhR1Jn?oc=5",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-15T12:57:37.422241-07:00",
     "status": "active"
   }
 ]

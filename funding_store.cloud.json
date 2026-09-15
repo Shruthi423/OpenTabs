@@ -58721,5 +58721,77 @@
     "roles": [],
     "first_seen": "2026-09-15T09:58:30.707579-07:00",
     "status": "active"
+  },
+  "009094b7f22a4c4b27cd38b2a34ecf85": {
+    "id": "009094b7f22a4c4b27cd38b2a34ecf85",
+    "company": "Factory",
+    "amount": "$200.0M",
+    "stage": "?",
+    "investors": "Khosla, Sequoia, Insight Partners",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/09/15/ai-coding-startup-factory-raises-200-million-more-than-triples-valuation-to-5-billion/",
+    "priority": 6,
+    "founders": [],
+    "location": "San Francisco, CA",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/factory/7a1dde6b-0d7c-45c8-a374-66e9f8aa0d1a",
+        "location": "San Francisco, CA"
+      }
+    ],
+    "first_seen": "2026-09-15T13:00:16.194527-07:00",
+    "status": "active"
+  },
+  "ab2411191ebf0cbda8d9b30cc0969979": {
+    "id": "ab2411191ebf0cbda8d9b30cc0969979",
+    "company": "CADDi",
+    "amount": "$1.2B",
+    "stage": "Series D",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/15/caddi-manufacturing-startup-valuation-funding-round-series-d-exclusive/",
+    "priority": 5,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-15T13:00:19.314167-07:00",
+    "status": "active"
+  },
+  "b4a3d9664e14019ca0eb5adbed347fcc": {
+    "id": "b4a3d9664e14019ca0eb5adbed347fcc",
+    "company": "Profound",
+    "amount": "$1.8B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmZXclFRajJYMTNtMzE1a2V0aDliNV9zZkN6WTZycFRFRTRDM3ktTDE3MWVsTHBVWUxSX1VTaTM4LW9pRjNjZ2lGTmJoamduenJpSGhhZUc0bmgwVjhEcFV1a0FwZjh2UXc0dGx1S2E2TVF1UkZmRnh5X2NzWHlRbVhzRE5FZ1czNE1WMHhsU0Q4QVhJNDhWTGhBREJYc0FvX1EwWGJmR0NCVW5vV25ycQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "New York, New York",
+    "roles": [
+      {
+        "title": "Brand Designer",
+        "url": "https://jobs.ashbyhq.com/profound/b87295ec-7d64-4ab5-8a57-052f349099fc",
+        "location": "New York, New York"
+      }
+    ],
+    "first_seen": "2026-09-15T13:00:22.271002-07:00",
+    "status": "active"
+  },
+  "1dec780235ef87f95a8e307a632b395c": {
+    "id": "1dec780235ef87f95a8e307a632b395c",
+    "company": "Helsinki\u2019s Zero",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRzVBeVlaVTZDZ3F3cHFHZkpNeEwzQTJscDZ0bGl1TjBVNjlkV3ZlQnZWc05HeE8wTHdLZHZpV1paTW8yWDJuR0NZMXE2eVZQXzd0X1otbEZvOTNNRGIxRG9iTFVtdXpYcTNwUUtnMi1tWEpielFnMmhaejdDazBiczNNS0ZPZDIwVGE0dFkyOXVFMWlyUDdqQUxVSnpicFh4c3pBaDQ5VDVoaXVHNEE4YTgydE5NQldSd2F5T1JLdmpveUlGM3g5MFNHRGlEYklMM2toY2lScU4?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-15T13:00:29.649487-07:00",
+    "status": "active"
   }
 }
