@@ -1,5 +1,22 @@
 [
   {
+    "id": "1a242a117ad0dba13214240ff242dc15",
+    "title": "Product Designer",
+    "company": "Basis",
+    "location": "New York, NY",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4466585716",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 3,
+    "first_seen": "2026-09-15T15:54:06.930117-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "9ad4aecee709c7b6319c634be8fff302",
     "title": "Product Designer - Lighting",
     "company": "Target",
@@ -4046,23 +4063,6 @@
     "jd": "yes"
   },
   {
-    "id": "29802262cbd83fca57c6c30101a61e26",
-    "title": "Product Design Engineer",
-    "company": "Actalent",
-    "location": "Jacksonville, FL",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4465608934",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-09-10T10:15:53.079532-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "e168e2c603e28df9516560226547d5d8",
     "title": "Founding Designer",
     "company": "Blacksky Algorithms",
@@ -5674,23 +5674,6 @@
     "posted_at": "2026-09-08",
     "priority": 4,
     "first_seen": "2026-09-08T11:58:45.564523-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "01922b4b0f31d9defd513bd8b9a84f58",
-    "title": "Jr. Brand Designer",
-    "company": "Arrowmac",
-    "location": "Providence, RI",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4463550036",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-09-08T11:38:56.372492-07:00",
     "status": "active",
     "jd": "yes"
   },
