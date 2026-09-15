@@ -58145,5 +58145,35 @@
     "roles": [],
     "first_seen": "2026-09-14T16:17:14.490395-07:00",
     "status": "active"
+  },
+  "58d6b0d0bacd000d7d1f4cd11f4461d6": {
+    "id": "58d6b0d0bacd000d7d1f4cd11f4461d6",
+    "company": "Aron",
+    "amount": "$8.0M",
+    "stage": "Seed",
+    "investors": "Storm Ventures",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/14/procurement-automation-startup-aron-launches-with-8m-in-funding/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-14T18:40:02.549604-07:00",
+    "status": "active"
+  },
+  "40684900e92de9496c8ad540d27f94d5": {
+    "id": "40684900e92de9496c8ad540d27f94d5",
+    "company": "Corologic",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Kakao Ventures&nbsp",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd3lxSVV3V08yV0FtQ2tsQ2o2UHhhRmtvTHRTSVVvdHJaSEVaRjRjRXM0VWRJcVlJSW5oeU9WQmM0Rm1QbVQ4UzVJY2RHSXFlSGJOOFduNXhwNXFadE9fUHJvdHJacHJtVkYySURDaGstTWwxUnUxOU9rTFp4SVkxNWxqcTNpbG02ZnQxSUE1TUJlRl9WemhTc2JMU0pxcWtlM3c?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-14T18:40:05.680561-07:00",
+    "status": "active"
   }
 }

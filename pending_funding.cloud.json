@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "Nuance Labs",
-      "amount": "$50.0M",
-      "stage": "Series A",
-      "investors": null,
+      "company": "Aron",
+      "amount": "$8.0M",
+      "stage": "Seed",
+      "investors": "Storm Ventures",
+      "location": null,
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/14/procurement-automation-startup-aron-launches-with-8m-in-funding/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-14T19:10:01.549455-07:00"
+  },
+  {
+    "item": {
+      "company": "Corologic",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "Kakao Ventures&nbsp",
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FWEphNUotZUk1TUZENk9FX1FSeVVIVWRkczE2M0xxUGJHYmpkaUxzSDRHVnljeDFva2htUkh0SVU2bmVzV0V6ZndVbmNUV3RobTBz?oc=5",
-      "priority": 8
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd3lxSVV3V08yV0FtQ2tsQ2o2UHhhRmtvTHRTSVVvdHJaSEVaRjRjRXM0VWRJcVlJSW5oeU9WQmM0Rm1QbVQ4UzVJY2RHSXFlSGJOOFduNXhwNXFadE9fUHJvdHJacHJtVkYySURDaGstTWwxUnUxOU9rTFp4SVkxNWxqcTNpbG02ZnQxSUE1TUJlRl9WemhTc2JMU0pxcWtlM3c?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-09-14T16:47:02.159335-07:00"
-  },
-  {
-    "item": {
-      "company": "Kaiko",
-      "amount": "$53.0M",
-      "stage": "Series B",
-      "investors": "Nasdaq Ventures, Coinbase Ventures",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/14/kaiko-raises-53m-to-grow-its-crypto-data-platform/",
-      "priority": 7
-    },
-    "remind_at": "2026-09-14T16:47:07.903540-07:00"
-  },
-  {
-    "item": {
-      "company": "Glass Imaging",
-      "amount": "$300.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/14/openai-reportedly-buys-ai-camera-startup-glass-imaging-for-more-than-300m/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-14T16:47:13.490252-07:00"
+    "remind_at": "2026-09-14T19:10:04.680408-07:00"
   }
 ]
