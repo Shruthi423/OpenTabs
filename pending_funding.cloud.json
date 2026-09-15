@@ -1,58 +1,30 @@
 [
   {
     "item": {
-      "company": "Factory",
-      "amount": "$200.0M",
-      "stage": null,
-      "investors": "Khosla, Sequoia, Insight Partners",
+      "company": "Euclyd",
+      "amount": "$230.0M",
+      "stage": "Series A",
+      "investors": "Somerset Capital Partners, Scaleup Europe Fund",
       "location": null,
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/15/ai-coding-startup-factory-raises-200-million-more-than-triples-valuation-to-5-billion/",
-      "priority": 6
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/15/euclyd-raises-230m-to-develop-chips-for-ai-agents/",
+      "priority": 8
     },
-    "remind_at": "2026-09-15T13:30:15.194348-07:00"
+    "remind_at": "2026-09-15T16:16:53.751198-07:00"
   },
   {
     "item": {
-      "company": "CADDi",
-      "amount": "$1.2B",
-      "stage": "Series D",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/15/caddi-manufacturing-startup-valuation-funding-round-series-d-exclusive/",
-      "priority": 5
-    },
-    "remind_at": "2026-09-15T13:30:18.313979-07:00"
-  },
-  {
-    "item": {
-      "company": "Profound",
-      "amount": "$1.8B",
+      "company": "AIUC",
+      "amount": "$40.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmZXclFRajJYMTNtMzE1a2V0aDliNV9zZkN6WTZycFRFRTRDM3ktTDE3MWVsTHBVWUxSX1VTaTM4LW9pRjNjZ2lGTmJoamduenJpSGhhZUc0bmgwVjhEcFV1a0FwZjh2UXc0dGx1S2E2TVF1UkZmRnh5X2NzWHlRbVhzRE5FZ1czNE1WMHhsU0Q4QVhJNDhWTGhBREJYc0FvX1EwWGJmR0NCVW5vV25ycQ?oc=5",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/15/ai-agent-certification-startup-aiuc-raises-40m-to-begin-auditing-frontier-models/",
       "priority": 3
     },
-    "remind_at": "2026-09-15T13:30:21.270796-07:00"
-  },
-  {
-    "item": {
-      "company": "Helsinki\u2019s Zero",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRzVBeVlaVTZDZ3F3cHFHZkpNeEwzQTJscDZ0bGl1TjBVNjlkV3ZlQnZWc05HeE8wTHdLZHZpV1paTW8yWDJuR0NZMXE2eVZQXzd0X1otbEZvOTNNRGIxRG9iTFVtdXpYcTNwUUtnMi1tWEpielFnMmhaejdDazBiczNNS0ZPZDIwVGE0dFkyOXVFMWlyUDdqQUxVSnpicFh4c3pBaDQ5VDVoaXVHNEE4YTgydE5NQldSd2F5T1JLdmpveUlGM3g5MFNHRGlEYklMM2toY2lScU4?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-15T13:30:28.649325-07:00"
+    "remind_at": "2026-09-15T16:16:56.752359-07:00"
   }
 ]

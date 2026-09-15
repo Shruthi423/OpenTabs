@@ -2371,7 +2371,7 @@
     "first_seen": "2026-06-18T21:54:54.762967-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T11:25:45.232166-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "3d05e006927ef4a211a7513c3632cbb3": {
@@ -2389,7 +2389,7 @@
     "first_seen": "2026-06-17T09:38:40.625742-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T11:25:45.232166-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "dd782271ddabb2772e491a2e10fce68e": {
@@ -2407,7 +2407,7 @@
     "first_seen": "2026-06-17T11:13:54.071717-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T11:25:45.232166-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "57878690815301085405ef7414d59c02": {
@@ -2425,7 +2425,7 @@
     "first_seen": "2026-06-17T11:37:52.894905-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T11:25:45.232166-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "bbe8c68d40c457fb92e626e54f984018": {
@@ -2443,7 +2443,7 @@
     "first_seen": "2026-06-17T18:10:18.186566-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T11:25:45.232166-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "76f26c2a7dcae57398d67d614daaac3f": {
@@ -2461,7 +2461,7 @@
     "first_seen": "2026-06-17T18:10:19.859120-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T11:25:45.232166-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "f7839b6e6d42eafb77918f684ce6b0b2": {
@@ -2497,7 +2497,7 @@
     "first_seen": "2026-06-17T20:40:13.626289-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T11:25:45.232166-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "c8a32abd0659cbc65e12d7274d1372c0": {
@@ -2515,7 +2515,7 @@
     "first_seen": "2026-06-17T23:45:16.710007-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T11:25:45.232166-07:00"
+    "checked_at": "2026-09-15T15:45:24.308260-07:00"
   },
   "601208c3044fd2ef12b5529b44b30329": {
     "id": "601208c3044fd2ef12b5529b44b30329",
@@ -2554,7 +2554,7 @@
     "first_seen": "2026-06-18T21:54:54.758377-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T11:25:45.232166-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "ca22536715c5071c4b0db1d72fcb5210": {
@@ -2574,7 +2574,7 @@
     "first_seen": "2026-06-18T21:54:54.753276-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T11:25:45.232166-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "d15ae006c8bae6d893d24290019ca4fb": {
@@ -18001,7 +18001,8 @@
     "first_seen": "2026-09-07T05:52:41.257651-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T08:08:46.012221-07:00"
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
+    "dead_strikes": 0
   },
   "cb4d81d5462256a48e27a88ad62ef8c6": {
     "id": "cb4d81d5462256a48e27a88ad62ef8c6",
@@ -18021,8 +18022,8 @@
     "first_seen": "2026-09-07T05:52:42.904171-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T08:08:46.012221-07:00",
-    "dead_strikes": 0
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
+    "dead_strikes": 1
   },
   "abc33359f7ad364d555c9d4010b3d389": {
     "id": "abc33359f7ad364d555c9d4010b3d389",
@@ -18042,7 +18043,7 @@
     "first_seen": "2026-09-07T05:52:44.551112-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "c2b540781214fb08b9c7426d14aab4cb": {
@@ -18063,7 +18064,7 @@
     "first_seen": "2026-09-07T05:52:46.356946-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T08:08:46.012221-07:00"
+    "checked_at": "2026-09-15T15:45:24.308260-07:00"
   },
   "6bfc4ef8d29802edaea4772f6dbc7fbc": {
     "id": "6bfc4ef8d29802edaea4772f6dbc7fbc",
@@ -18083,7 +18084,7 @@
     "first_seen": "2026-09-07T05:52:48.125520-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "0cfc400af90acdfb90d59172eb0d231f": {
@@ -18104,7 +18105,7 @@
     "first_seen": "2026-09-07T05:52:49.772680-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "e70e55811f76da902a2dc23a1ab45db8": {
@@ -18125,7 +18126,7 @@
     "first_seen": "2026-09-07T05:52:51.442092-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "5c43ed29e578ef50c0afdfeb596cd19b": {
@@ -18146,7 +18147,7 @@
     "first_seen": "2026-09-07T05:52:53.246939-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "5e29cbf2728fa43aaa9096b13d3e6e79": {
@@ -18167,7 +18168,7 @@
     "first_seen": "2026-09-07T05:52:54.890838-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "0e80d53c84f090f777f6dcd9e2b63ce1": {
@@ -18188,7 +18189,7 @@
     "first_seen": "2026-09-07T05:52:56.680795-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "1ed32e53a47f574dc3aeaa1989ce8e29": {
@@ -18209,7 +18210,7 @@
     "first_seen": "2026-09-07T05:53:24.887532-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "ffb45d2d2ab955125b50fce16734528b": {
@@ -18230,7 +18231,7 @@
     "first_seen": "2026-09-07T05:53:26.673804-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "9303364b08b665b3615fee4710d65eef": {
@@ -18251,7 +18252,7 @@
     "first_seen": "2026-09-07T05:53:28.448403-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "5e905fd2bdb885b08d9a8cf3423a231e": {
@@ -18272,7 +18273,7 @@
     "first_seen": "2026-09-07T05:53:30.231368-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "f9956f63f49df7364bdc9afe2fe7f294": {
@@ -18293,7 +18294,7 @@
     "first_seen": "2026-09-07T05:53:32.036982-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-10T08:08:46.012221-07:00",
+    "checked_at": "2026-09-15T15:45:24.308260-07:00",
     "dead_strikes": 0
   },
   "2c4bc4ad29426c0a2062fc83a884d02c": {
@@ -20001,6 +20002,25 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-09-15T12:59:52.366236-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "ea5cc61a8b69e800398ec5e9bd4f3ffe": {
+    "id": "ea5cc61a8b69e800398ec5e9bd4f3ffe",
+    "title": "UX / UI Designer - Springfield",
+    "company": "See posting",
+    "location": "San Francisco Bay Area, CA",
+    "salary": "Not listed",
+    "url": "https://www.builtinsf.com/job/ux-ui-designer-springfield/11196006",
+    "source": "BuiltIn SF",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Design end-to-end web and mobile experiences for enterprise tools and a B2C marketplace. Conduct user research and usability testing, create UX flows and high-fidelity interfaces in Figma, collaborate with Product and Engineering, and develop scalable component libraries and design systems. Balance",
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-09-15T15:46:32.068151-07:00",
     "status": "active",
     "applied_at": null
   }

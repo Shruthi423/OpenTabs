@@ -1,5 +1,35 @@
 [
   {
+    "id": "01f0682b6aca4e31aea531fb64f8bd3c",
+    "company": "AIUC",
+    "amount": "$40.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/15/ai-agent-certification-startup-aiuc-raises-40m-to-begin-auditing-frontier-models/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-15T15:46:57.752491-07:00",
+    "status": "active"
+  },
+  {
+    "id": "528ec28fe865b4f7c1e80bcf6badd9f5",
+    "company": "Euclyd",
+    "amount": "$230.0M",
+    "stage": "Series A",
+    "investors": "Somerset Capital Partners, Scaleup Europe Fund",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/15/euclyd-raises-230m-to-develop-chips-for-ai-agents/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-15T15:46:54.751331-07:00",
+    "status": "active"
+  },
+  {
     "id": "1dec780235ef87f95a8e307a632b395c",
     "company": "Helsinki\u2019s Zero",
     "amount": "Undisclosed",
