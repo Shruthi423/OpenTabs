@@ -1,30 +1,16 @@
 [
   {
     "item": {
-      "company": "Euclyd",
-      "amount": "$230.0M",
-      "stage": "Series A",
-      "investors": "Somerset Capital Partners, Scaleup Europe Fund",
-      "location": null,
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/15/euclyd-raises-230m-to-develop-chips-for-ai-agents/",
-      "priority": 8
-    },
-    "remind_at": "2026-09-15T16:16:53.751198-07:00"
-  },
-  {
-    "item": {
-      "company": "AIUC",
-      "amount": "$40.0M",
+      "company": "Brighteye",
+      "amount": "$72.0M",
       "stage": null,
-      "investors": null,
-      "location": null,
+      "investors": "VC Brighteye Ventures",
+      "location": "London",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/15/ai-agent-certification-startup-aiuc-raises-40m-to-begin-auditing-frontier-models/",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/exclusive-brighteye-closes-72m-for-fund-iii-to-back-humanos-the-layer-beyond-edtech/",
       "priority": 3
     },
-    "remind_at": "2026-09-15T16:16:56.752359-07:00"
+    "remind_at": "2026-09-15T18:21:40.335028-07:00"
   }
 ]
