@@ -1,86 +1,44 @@
 [
   {
     "item": {
-      "company": "Eterna",
-      "amount": "$4.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlYlhfaENuR0lxRXB4a2dQbXd4TGp1SmlFOEhQUWFScmliQzlJNjdKYXVzUDk5SHQ0Ynk3YzA5c3k4ZXpqOW1FY0hzMkJZZElvS0ZmMjUyMkZ5dEpPREgzZ0lB0gFiQVVfeXFMUGViWF9oQ25HSXFFcHhrZ1Btd3hManVKaUU4SFBRYVJyaWJDOUk2N0phdXNQOTlIdDRieTdjMDlzeThlemo5bUVjSHMyQllkSW9LRmYyNTIyRnl0Sk9ESDNnSUE?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-09-16T12:25:15.392063-07:00"
-  },
-  {
-    "item": {
-      "company": "Veridion",
-      "amount": "$20.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWHl4YTdIU1pRWGtXVXdFTG4xM2t4V2RyTkxDb05XcXVkRG5tZTBHdnRMMTBWVUhKZkk3TWY4cjZwSjlwWGpySm41MHFYQUQ1Y04zSEZySnRnLU9lREVVdWMzYlpXOEJuYXRRcnloc0JGOWd0bU5fM3BQLWkzbktseFozT29rQ0s1cDRGYlNrR0s3dnJ6aWV3Y1dhVzh6cE5TVlE?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-09-16T12:25:18.379379-07:00"
-  },
-  {
-    "item": {
-      "company": "Goldman",
+      "company": "Pulley",
       "amount": null,
       "stage": null,
-      "investors": null,
+      "investors": "General Catalyst, Founders Fund",
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/16/goldman-middle-class-labor-share-income-record-low/",
-      "priority": 3
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+      "priority": 6
     },
-    "remind_at": "2026-09-16T12:25:21.427829-07:00"
+    "remind_at": "2026-09-16T15:21:47.292305-07:00"
   },
   {
     "item": {
-      "company": "Tutor Intelligence",
-      "amount": null,
+      "company": "Rune",
+      "amount": "$40.0M",
       "stage": null,
-      "investors": null,
+      "investors": "Spark Capital",
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/16/tutor-intelligence-launches-second-generation-intelligent-warehouse-robotics-with-a-classroom-to-teach-them/",
-      "priority": 3
+      "url": "https://siliconangle.com/2026/09/16/rune-raises-40m-for-its-modular-solar-powered-data-centers/",
+      "priority": 6
     },
-    "remind_at": "2026-09-16T12:25:27.840821-07:00"
+    "remind_at": "2026-09-16T15:21:50.212507-07:00"
   },
   {
     "item": {
-      "company": "Liquid Compute",
-      "amount": "$15.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeC1NZW54ckh6UTlCdV9jQ0RKalhnRWJ1NE5qbHcwdFk2NWZhaXlpN0tZYzRTV3BmQzlvVzRaYTFqMGVsS05ySThIaWhWckJPdmlhMWU1RG5McUp5cXlTWndZcXBfYzdtY0NXdWRLTXJ0czZpT1ZQeVRyY28xX0ZqWVk3UVJmRHZIUEpaYzVZdDJncEFrOUk3ano5QnJwaDJKRTRCbEFaZzk2VjJvdlJUcmFtaWY?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-16T12:25:33.800121-07:00"
-  },
-  {
-    "item": {
-      "company": "Chinese Space Startup",
+      "company": "Changing Finance",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmxaLUFGajVDc0FGb25yRE56TTFVOGpkU0NPZktTRVNlbkR4QUJ0cHJ5dXUxeTVjVENjT1JuZTVrLUMxWHhqRFlGWnZiMVNpSDFIcnNHaUh6UkwwMFJrVkplTWRNSUk4c0NZTkI2TklLdkl3NW9uMUNwUlFnTjI1Qk1RTXBsV3o4d0ZxdjFNUll5cjE4YjA0WHdTQ08xc0JEajhXR3BzdVRNVkp6VmdZZGxnY3JpYzdF?oc=5",
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkSG14MUh4dS01bkU2U2lqY2NSNGtoZVl2OW9MR29QSXY1S2QxenRETEJjeDVQQVRjSmpyZ2JWb2JWYTJHYjZlcEZCMGh4Q1JyN1pVNWl3Tktmdm9USEJfZy1LeWRrYnJ1bXc?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-09-16T12:25:41.731714-07:00"
+    "remind_at": "2026-09-16T15:21:55.971692-07:00"
   }
 ]
