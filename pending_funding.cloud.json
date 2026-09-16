@@ -1,198 +1,142 @@
 [
   {
     "item": {
-      "company": "Quartz",
-      "amount": null,
+      "company": "Orbits",
+      "amount": "$2.0M",
       "stage": "Pre-Seed",
       "investors": null,
-      "location": "London",
+      "location": "San Francisco",
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/quartz-raises-2-75m-pre-seed-ai-banker-revolut-n26-daphni/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/09/16/orbits-raises-2m-from-a16z-to-build-bit-an-ai-assistant-that-runs-your-household/",
       "priority": 10
     },
-    "remind_at": "2026-09-16T03:49:05.996057-07:00"
+    "remind_at": "2026-09-16T08:38:00.401867-07:00"
   },
   {
     "item": {
-      "company": "Evatto",
-      "amount": "$1.02M",
-      "stage": "Pre-Seed",
-      "investors": "Purpose Ventures",
-      "location": "Sydney",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/evatto-raises-1-02m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-16T03:49:09.022780-07:00"
-  },
-  {
-    "item": {
-      "company": "AcademyAI",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/academyai-raises-1-65m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-16T03:49:11.934084-07:00"
-  },
-  {
-    "item": {
-      "company": "Newwave",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "Canadia Impact Fund",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/newwave-raises-seed-round/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-16T03:49:14.883139-07:00"
-  },
-  {
-    "item": {
-      "company": "Firi",
-      "amount": "$3.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/firi-raises-3m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-16T03:49:17.690529-07:00"
-  },
-  {
-    "item": {
-      "company": "G5 Labs",
-      "amount": "$14.0M",
-      "stage": "Seed",
-      "investors": "Battery Ventures",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/g5-labs-raises-14m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-16T03:49:20.891316-07:00"
-  },
-  {
-    "item": {
-      "company": "Loora",
-      "amount": "$22.0M",
-      "stage": "Series B",
-      "investors": "Union Tech Ventures",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/loora-raises-22m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-09-16T03:49:23.804217-07:00"
-  },
-  {
-    "item": {
-      "company": "BRKZ",
-      "amount": "$31.0M",
-      "stage": "Series B",
-      "investors": "Wa'ed Ventures",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/brkz-raises-31m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-09-16T03:49:26.736458-07:00"
-  },
-  {
-    "item": {
-      "company": "Inspiren",
-      "amount": "$70.0M",
+      "company": "Thatch",
+      "amount": "$108.0M",
       "stage": "Series C",
-      "investors": "NewView Capital",
+      "investors": "General Catalyst and Index Ventures",
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/inspiren-raises-70m-series-c/",
-      "priority": 6
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd05DQUlxYWdhdVFFMWdjSmdFem43U0hZMkJVdjZZbzVxUHJodzZrb0hzUWpKRW1yVUZvYm5iUXVPU3Z0YjkwMnVDMEJneUY0OUdhb29tM2Jqell0alhKTmNmRlpOcTktWHk5c0hTclR2alBTQV9sQXRWa3M0ZWNmRWQ3RjdiaVZ4d0RmUXZoVEV0VExFckhyN3pFUExvLTdEMEFSTklHS1FOUTBnMlRIb1ZjeU9wSERUcS00V1RqdEdzcksy?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-09-16T03:49:29.729159-07:00"
+    "remind_at": "2026-09-16T08:38:03.343711-07:00"
   },
   {
     "item": {
-      "company": "CADDi",
-      "amount": "$114.0M",
+      "company": "VerifAIX",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVFpJYXpWUnUxTnE2eEhhMzlrdDl2LVAtVDd3S0pjU0Fja0tNeDFQNnlDOERyZ3NYcS1VSk44RlFLMmRVWmNQcnI0bHNxeHZoZGtnVXU4UkgtQ2hxNGpGOFlTa3RPSHF3Uzh0QVZnUnNMUFlfUWw4b0lEWmMyNkR0TkIxdElUVFR5SVJ1Z1hLUGJWcHNubC1Mcm9DTUZDcmU0NG9yM0FoTExfa1BnX0JrUUFUakM2RV9ZbXVCdkk3R1RUUE1teklOR1VmM1JEOXk5cExTTDJJMA?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-16T08:38:06.446397-07:00"
+  },
+  {
+    "item": {
+      "company": "Integral",
+      "amount": null,
+      "stage": "Series A",
+      "investors": "Mosaic Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/integral-raises-18m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-16T08:38:09.371569-07:00"
+  },
+  {
+    "item": {
+      "company": "Romanian-founded Veridion",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSHozMW1tVDdZV1RVbWpET0YtbTNXX1JnRURmbVZlRVlnZ1hKNHRaNW9IUWZKUFZha2lJVFBlSkYyQkFlRkNSdUUtUlpIZlkyMkFGUmluWEFxWktrWUw5aE9OZFl0enBZZTVHSUp3eVhsNUEyUHVQZ3g3WUN2dTVyNDJvRklIWnFRLXF1RkxvblJwX0Jm?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-09-16T08:38:30.159645-07:00"
+  },
+  {
+    "item": {
+      "company": "Wilson Sonsini Advises Profound",
+      "amount": "$180.0M",
       "stage": "Series D",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/caddi-raises-114m-series-d/",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQzFTd21pZ2pOeGpFY2lsRnQyRUl3V0hEUVhoeG94S1Z0Wk5CUVpmQWh1NlVteHRyN1pFTmFIRlFJQUMyZkMtMlJqRGNOeGhIOFNqTmpNSHBnMjMzeU1iNHpDb0k3Tk81QWFNN3hhWl80MnpMdjFGN1VIcGhiaGxVeW1aZEtSNTV6b1dFcXo0RWs1S1FoTGFkNFdqZWk0LUdlYVVxd0dpWFlhMDc3Mml1bllnemxzbnhpR001LVM5T0lrclhkOXRIbQ?oc=5",
       "priority": 5
     },
-    "remind_at": "2026-09-16T03:49:32.674064-07:00"
+    "remind_at": "2026-09-16T08:38:34.482696-07:00"
   },
   {
     "item": {
-      "company": "ecosystem",
-      "amount": null,
+      "company": "A Hard Year",
+      "amount": "$90.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/16/the-gulf-female-startup-ecosystem-is-flourishing-so-wheres-the-funding/",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/public/energy-ai-defense-saas-ipos-2026/",
       "priority": 3
     },
-    "remind_at": "2026-09-16T03:49:35.842256-07:00"
+    "remind_at": "2026-09-16T08:38:40.286444-07:00"
   },
   {
     "item": {
-      "company": "Billionaires",
-      "amount": null,
+      "company": "Tare",
+      "amount": "$13.0M",
       "stage": null,
-      "investors": null,
+      "investors": "Blockchain Capital",
       "location": null,
       "founders": [],
       "source": "Fortune",
-      "url": "https://fortune.com/2026/09/16/billionaires-are-flocking-to-these-3-florida-localities-heres-how-much-they-save-in-taxes/",
+      "url": "https://fortune.com/2026/09/16/exclusive-tare-13-million-blockchain-capital-private-credit-transactions-blockchain/",
       "priority": 3
     },
-    "remind_at": "2026-09-16T03:49:39.431034-07:00"
+    "remind_at": "2026-09-16T08:38:43.306419-07:00"
   },
   {
     "item": {
-      "company": "tZERO",
-      "amount": null,
+      "company": "Rebuild",
+      "amount": "$13.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/tzero-raises-funding-round/",
+      "url": "https://www.thesaasnews.com/news/rebuild-raises-13m-other/",
       "priority": 3
     },
-    "remind_at": "2026-09-16T03:49:42.285276-07:00"
+    "remind_at": "2026-09-16T08:38:46.319036-07:00"
   },
   {
     "item": {
-      "company": "Sumo Logic",
+      "company": "Ferry Health",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeDQzQklLTW1ESnNIQXNZTmZJOGJrX3JlRmtIUENnMFlqNFVEWU53WGpEQy1VMkE4cG03ejl1T2RNRk5PT3VfZXZibFBCaklMSXpIbm1SRHkzRXN0Sm5YbU5sM0NUaHQyS2xBcmRzNlNvQl91dHdYOVR5MTVyejVUQk5pYTZLOFJXalk2STJycldINjZJX3JBN1RkUS1uRHRTc3lPUTNSREpMS3Z3NkE?oc=5",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdG16c3Q0T00xT18xYnVJZV9uRGttSlFfVWticzY0YzJDRGtWSGhDSldMQy02V0Y4RTk2RWQtc3cyMHk5OXpEU3hVeFZkTlpyTU13d01JbHZiLXBJYXVad2VRVHJtaTE4ME9CbU9LS1I2Yk5oRHhhbl9SejZ2a3VnQmVfd0Y0S1lTbFI4NGVlaWIzSVEtVE0yYnM3X0FYQnNDUVZlNUhORkV0MGJVMnI5cUpJZk5PdnhN?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-09-16T03:49:48.351356-07:00"
+    "remind_at": "2026-09-16T08:38:52.125911-07:00"
   }
 ]
