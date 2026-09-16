@@ -1,5 +1,39 @@
 [
   {
+    "id": "3c88941dbd7326a8bf6c7d3fc0b6d767",
+    "title": "iOS UI/UX Engineer (Motion + Animation)",
+    "company": "PTR Global",
+    "location": "Cupertino, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4468246913",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 2,
+    "first_seen": "2026-09-16T15:15:19.122671-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "5364e4c0965712ac5e9e22bf45c833a1",
+    "title": "UX/UI Designer, Reach",
+    "company": "Riverside Assessments LLC",
+    "location": "US",
+    "salary": "$90,000 \u2013 $120,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=ad46ea44e95f00a1",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-15",
+    "priority": 4,
+    "first_seen": "2026-09-16T15:15:17.321408-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "d6cbd6c4e45aa52e3f14c8f27e93a05f",
     "title": "Product Design Engineer",
     "company": "Godfrey",
@@ -21724,22 +21758,5 @@
     "first_seen": "2026-08-16T22:35:52.644832-07:00",
     "status": "active",
     "jd": "no"
-  },
-  {
-    "id": "78e761198192d0e3981e26a8df453926",
-    "title": "Motion Designer, Experiential",
-    "company": "Stripe",
-    "location": "New York, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454550316",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-16T15:10:46.855634-07:00",
-    "status": "active",
-    "jd": "yes"
   }
 ]
