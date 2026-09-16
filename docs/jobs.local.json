@@ -1,5 +1,22 @@
 [
   {
+    "id": "fe14b2d28274bc4b4e8048d2fa3d3c00",
+    "title": "Middle UX Researcher",
+    "company": "QuadCode",
+    "location": "ME, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=5c8dc6a767e6ac1b",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-15",
+    "priority": 4,
+    "first_seen": "2026-09-16T13:58:31.792176-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "a479cfebf168a263747005bb6cdcbbba",
     "title": "Brand Designer, Multimedia",
     "company": "Blank Street",
@@ -47,23 +64,6 @@
     "posted_at": "2026-09-15",
     "priority": 4,
     "first_seen": "2026-09-16T13:39:07.606364-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "1775531cad5a08adc0e24ce7ed32c0c8",
-    "title": "Design Engineer Intern",
-    "company": "MacDon Industries Ltd",
-    "location": "US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=63ec74eaac4c812d",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-09-15",
-    "priority": 4,
-    "first_seen": "2026-09-16T13:39:05.812806-07:00",
     "status": "active",
     "jd": "yes"
   },
