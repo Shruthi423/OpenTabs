@@ -59420,5 +59420,35 @@
     "roles": [],
     "first_seen": "2026-09-16T14:51:56.971829-07:00",
     "status": "active"
+  },
+  "c79c0216ceaac2fbc10f7029f5781cb5": {
+    "id": "c79c0216ceaac2fbc10f7029f5781cb5",
+    "company": "Noetive",
+    "amount": "$41.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/16/noetive-launches-with-41m-to-bring-self-improving-ai-to-factories-and-logistics/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-16T17:01:57.018991-07:00",
+    "status": "active"
+  },
+  "61dae156413d0ea9f2930f046ea6ddb2": {
+    "id": "61dae156413d0ea9f2930f046ea6ddb2",
+    "company": "Alex Bores",
+    "amount": "$30.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/15/alex-bores-who-decides-ai-policy-democratic-party/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-16T17:02:03.483902-07:00",
+    "status": "active"
   }
 }

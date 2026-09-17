@@ -1,44 +1,30 @@
 [
   {
     "item": {
-      "company": "Pulley",
-      "amount": null,
-      "stage": null,
-      "investors": "General Catalyst, Founders Fund",
-      "location": null,
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
-      "priority": 6
-    },
-    "remind_at": "2026-09-16T15:21:47.292305-07:00"
-  },
-  {
-    "item": {
-      "company": "Rune",
-      "amount": "$40.0M",
-      "stage": null,
-      "investors": "Spark Capital",
+      "company": "Noetive",
+      "amount": "$41.0M",
+      "stage": "Seed",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/16/rune-raises-40m-for-its-modular-solar-powered-data-centers/",
-      "priority": 6
+      "url": "https://siliconangle.com/2026/09/16/noetive-launches-with-41m-to-bring-self-improving-ai-to-factories-and-logistics/",
+      "priority": 9
     },
-    "remind_at": "2026-09-16T15:21:50.212507-07:00"
+    "remind_at": "2026-09-16T17:31:56.018837-07:00"
   },
   {
     "item": {
-      "company": "Changing Finance",
-      "amount": null,
+      "company": "Alex Bores",
+      "amount": "$30.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkSG14MUh4dS01bkU2U2lqY2NSNGtoZVl2OW9MR29QSXY1S2QxenRETEJjeDVQQVRjSmpyZ2JWb2JWYTJHYjZlcEZCMGh4Q1JyN1pVNWl3Tktmdm9USEJfZy1LeWRrYnJ1bXc?oc=5",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/15/alex-bores-who-decides-ai-policy-democratic-party/",
       "priority": 3
     },
-    "remind_at": "2026-09-16T15:21:55.971692-07:00"
+    "remind_at": "2026-09-16T17:32:02.483721-07:00"
   }
 ]
