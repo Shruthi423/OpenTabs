@@ -60120,5 +60120,50 @@
     "roles": [],
     "first_seen": "2026-09-17T14:36:43.276755-07:00",
     "status": "active"
+  },
+  "00ff8b28acfd89ec3de15c5ba39af1e5": {
+    "id": "00ff8b28acfd89ec3de15c5ba39af1e5",
+    "company": "Watney",
+    "amount": "$80.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeTNpVlRuX1NHdnJNTWc1WmplazA4Z2ZxS1AzWTFXbmJHZDN5TmZXZzctREdMX2Z6TVZRSlB6WWVDenVKN3U2cUJfbnlMWGlxeGNUaGpveEVLX2V2MGR2dTlqMXhfZU5DU0pnc1FibjdHWUtaYWRmd0NEd2xwckNzRTdZTGtlS1BQSHQ2YjRaQQ?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-17T16:42:20.297461-07:00",
+    "status": "active"
+  },
+  "b2609f50e93d0f9b58a30af0af2a6287": {
+    "id": "b2609f50e93d0f9b58a30af0af2a6287",
+    "company": "Treble",
+    "amount": "$18.0M",
+    "stage": "?",
+    "investors": "Paladin Capital, Frumtak Ventures, European Innovation Council Fund",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/17/treble-nabs-18m-to-generate-audio-simulations-for-robots/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-17T16:42:27.096285-07:00",
+    "status": "active"
+  },
+  "b8be760f1067d162044181ca6113c70b": {
+    "id": "b8be760f1067d162044181ca6113c70b",
+    "company": "Mind",
+    "amount": "$72.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/17/mind-raises-72m-to-stop-sensitive-data-leaking-into-ai-tools/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-17T16:42:29.968125-07:00",
+    "status": "active"
   }
 }

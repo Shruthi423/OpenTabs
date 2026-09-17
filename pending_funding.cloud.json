@@ -1,72 +1,44 @@
 [
   {
     "item": {
-      "company": "Gaoyu",
-      "amount": "$120.0M",
+      "company": "Watney",
+      "amount": "$80.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdHI1YW4ySFg2blRuNDN1QmhRYngwVXRWMVU5Mml6ajNhLXZ4dnRlY3dSSTFmV1V2ZHl0NnlMZXZOdGtlSDIyTDF3VHZIbHpRcnJ3S0F0X2RmdXZKOHBqbGdwRTNYYmF3bzNNaWQzTkN6aEp4cXVac0cwRGd5MldMNkJJVnF4ZmgxbFFkbGliTDREM2px?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeTNpVlRuX1NHdnJNTWc1WmplazA4Z2ZxS1AzWTFXbmJHZDN5TmZXZzctREdMX2Z6TVZRSlB6WWVDenVKN3U2cUJfbnlMWGlxeGNUaGpveEVLX2V2MGR2dTlqMXhfZU5DU0pnc1FibjdHWUtaYWRmd0NEd2xwckNzRTdZTGtlS1BQSHQ2YjRaQQ?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-09-17T15:06:18.617158-07:00"
+    "remind_at": "2026-09-17T17:12:19.297272-07:00"
   },
   {
     "item": {
-      "company": "Viabot",
-      "amount": "$24.0M",
-      "stage": "Series A",
-      "investors": null,
+      "company": "Treble",
+      "amount": "$18.0M",
+      "stage": null,
+      "investors": "Paladin Capital, Frumtak Ventures, European Innovation Council Fund",
       "location": null,
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNXF4ZjVEVS04ZEhYWmNaUUxZclB3S3ZzMVlnMHZHT3JnWUwyb3VfT1lteDkwVHJMVjBnZUdBSWpCWkdsSHZMc21WOW5QWnU4X0l5TVVBM3FQS1ZTcXdCSGFHOEFwVl9uWkpVLXRvMm1yYUFRcTFmN0lMUEZibHlCWUxQSDZ5S1kwYnJ1WlFXV1FqVGpibmJFb2tnekVtNnNBczUxNmEtQnIwcnZXM1l6a0d2Q3lmUWY2OVQ1VFIyWWQ2VmxUdUZpNWJHWFI3TjQ?oc=5",
-      "priority": 8
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/17/treble-nabs-18m-to-generate-audio-simulations-for-robots/",
+      "priority": 3
     },
-    "remind_at": "2026-09-17T15:06:21.577495-07:00"
+    "remind_at": "2026-09-17T17:12:26.096164-07:00"
   },
   {
     "item": {
-      "company": "White House",
-      "amount": null,
+      "company": "Mind",
+      "amount": "$72.0M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/17/white-house-pulls-lance-schroyer-ice-nominee",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/17/mind-raises-72m-to-stop-sensitive-data-leaking-into-ai-tools/",
       "priority": 3
     },
-    "remind_at": "2026-09-17T15:06:36.182833-07:00"
-  },
-  {
-    "item": {
-      "company": "Crusoe",
-      "amount": "$3.9B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/17/crusoe-raises-3-9-billion-at-30-9-billion-valuation-as-ai-infrastructure-demand-surges/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-17T15:06:39.384401-07:00"
-  },
-  {
-    "item": {
-      "company": "Adaptive",
-      "amount": "$30.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSERleE1teFRaTTdmRGVBVTVjU29pbU0yWGFIYVVsQkJqamh6SFczZEllWTNWc0F0LU9vWl8zUUZVVjBrdlNyWUUtdVlGNFJzUlhnRlgtcmtlUjBGQUt4U2ptOGRQTnhKN3pvaU81V2IwM19OcnFLcFBpYTZGWFdWVHo1RVd1NzBFLXZJU0VoZWNUZzhZQkVFUGQzODR5dw?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-17T15:06:42.276586-07:00"
+    "remind_at": "2026-09-17T17:12:28.967960-07:00"
   }
 ]
