@@ -1,5 +1,22 @@
 [
   {
+    "id": "a5548ff8990604e8c773d1c0df35bca5",
+    "title": "Product Design Engineer",
+    "company": "ITT Inc.",
+    "location": "Irvine, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4467806025",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-09-17T12:52:53.548902-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "8511dea36208d1904da805004adf4d43",
     "title": "Brand Designer",
     "company": "Ursus, Inc.",
@@ -21877,22 +21894,5 @@
     "first_seen": "2026-08-17T13:13:05.820899-07:00",
     "status": "active",
     "jd": "yes"
-  },
-  {
-    "id": "f05b3bd4b71a8f406d9b1ea36f12cf63",
-    "title": "Associate, UI Designer - Hybrid: Greenville, SC, Columbia, SC, Farmington, CT, St. Louis, MO",
-    "company": "Hubbell",
-    "location": "Greenville, SC, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=d00af445f78c55e3",
-    "source": "Indeed",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-16",
-    "priority": 4,
-    "first_seen": "2026-08-17T12:40:51.231975-07:00",
-    "status": "active",
-    "jd": "no"
   }
 ]
