@@ -1,212 +1,258 @@
 [
   {
     "item": {
-      "company": "TypeSafe AI",
-      "amount": "$40.0M",
-      "stage": "Seed",
-      "investors": "DCVC",
+      "company": "Boxd",
+      "amount": "$2.0M",
+      "stage": "Pre-Seed",
+      "investors": "BlueYard Capital",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/typesafe-ai-raises-40m-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/boxd-raises-2m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-09-17T03:11:26.878960-07:00"
+    "remind_at": "2026-09-17T07:58:08.473929-07:00"
   },
   {
     "item": {
-      "company": "Expanse",
-      "amount": "$5.3M",
-      "stage": "Seed",
-      "investors": "Crane Venture Partners",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/expanse-raises-5-3m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-17T03:11:30.351532-07:00"
-  },
-  {
-    "item": {
-      "company": "Scaffold",
-      "amount": "$15.0M",
-      "stage": "Seed",
-      "investors": "Navitas Capital",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/scaffold-raises-15m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-17T03:11:33.372711-07:00"
-  },
-  {
-    "item": {
-      "company": "Aristotle",
-      "amount": "$5.0M",
-      "stage": "Seed",
-      "investors": "True Ventures",
-      "location": null,
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/aristotle-raises-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-17T03:11:36.332338-07:00"
-  },
-  {
-    "item": {
-      "company": "Medow Health",
-      "amount": "$3.5M",
-      "stage": "Seed",
+      "company": "Orbits",
+      "amount": "$2.6M",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/medow-health-raises-a3-5m-seed/",
-      "priority": 9
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd1cyWW8zOGozQmVOUUt5RjdLZFVZTUY2T3pXZ21iNFZ2S01RRjJsY3EyOWZXbVB0X2NrRGJnVGN2X21UaDVXWk9keG9XZnlYcE9OTFFJbnRiRFNDZG9nQk5HWlNuZEthZm9vZHZDaXk2MG9nYm13eW1odzgxX2lYZkx4blBqTU5lNTdJd1B5R3p1Wm9NdnhZUkhnQzZJSmVCNEo5YXdRZ0p4OUd3ekhGU1ptWHNlRjM0RzFTSWVSLUVIVW5DMTNvUmgtTG0wNjVHR3RGTi1YUQ?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-09-17T03:11:42.025422-07:00"
+    "remind_at": "2026-09-17T07:58:11.324319-07:00"
   },
   {
     "item": {
-      "company": "Bekia",
+      "company": "Slayd",
       "amount": null,
-      "stage": "Seed",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/bekia-raises-765000-seed/",
-      "priority": 9
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTBrZDRfNGNMcjVnRmR1NnloVmZ3eXVGMzR4MlZOSzRRczR2RWttbXJGRXRTc19PRXU1R2xDSFFEQXA4Mk0xN3pMUEljN3I4dmRnNGYyMzd0cU4yclFSNjRxMlJaY2lVdFo4XzVBWnotVV9ETkExdVZ5d2ZYOTBxcTVIVG1LSkJwanV6SA?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-09-17T03:11:45.021418-07:00"
+    "remind_at": "2026-09-17T07:58:14.212502-07:00"
   },
   {
     "item": {
-      "company": "Hang Ten Systems",
-      "amount": "$53.0M",
+      "company": "Kiddo",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": "Campus Fund&nbsp",
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWTdyWXRjeF9feWhWOC1GV2V6UWV0OFdlNVVVb0FsQlFPR1ZUa2twNXJYdXpEQzVTNmEtZmhyeVdNeERaVXFEQURaUEQ2UUwxaHNxaC13VzNMNG5SdlRtWHZUZmlvLThpUzZWLXdfUmZYNkZzbmxxcVN4YTRwSFdDY01PWDVpUTZuWXZKTEVJamVuZlZYSXBuMkhiQ1NxcFpTNElubG9XWEo2YVNfdnJDSWJlTGE5dkNHMlNnemtRVHRnZVlUWXoyMzlwVVlKWFVVNmw0V0Y2ZEQxMVQ3ZGZHSmJKTEdacnJfcjl2NDREa9IB7wFBVV95cUxNWTdyWXRjeF9feWhWOC1GV2V6UWV0OFdlNVVVb0FsQlFPR1ZUa2twNXJYdXpEQzVTNmEtZmhyeVdNeERaVXFEQURaUEQ2UUwxaHNxaC13VzNMNG5SdlRtWHZUZmlvLThpUzZWLXdfUmZYNkZzbmxxcVN4YTRwSFdDY01PWDVpUTZuWXZKTEVJamVuZlZYSXBuMkhiQ1NxcFpTNElubG9XWEo2YVNfdnJDSWJlTGE5dkNHMlNnemtRVHRnZVlUWXoyMzlwVVlKWFVVNmw0V0Y2ZEQxMVQ3ZGZHSmJKTEdacnJfcjl2NDREaw?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-09-17T07:58:19.915007-07:00"
+  },
+  {
+    "item": {
+      "company": "RadiantOps",
+      "amount": "$7.0M",
       "stage": "Seed",
-      "investors": null,
+      "investors": "Foundation Capital",
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hang-ten-systems-raises-53m-seed-extension/",
+      "url": "https://www.thesaasnews.com/news/radiantops-raises-7m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-09-17T03:11:58.134607-07:00"
+    "remind_at": "2026-09-17T07:58:22.742635-07:00"
   },
   {
     "item": {
-      "company": "billing",
+      "company": "Firi",
       "amount": null,
       "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUw3ZW5yN015cFVjbi1MVkd1RVBsbURNSm43cGtKejlIYVhKcXJzTm4zQmxta184Z2NkdFBxQjJfYkdMb0ZTRXZpbDFmaHJURjIxUllsWTI3ZmVzMEh5VVV2cUZvaG1tcEpUdU5SNlIwY2FUVklBcDlFZWZmR25ySlc0MWFHQktEVG5JT3E5dDVNUDBVY2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vR0JPbUhpZmU4aXpvMVFia1REN3Z4WE9Ldzd0THRDMlkwTnNHeEJ4OFVaZXJWT21PSXVJY3dIWnpLYzRQdEZLZ0FWQzQyTlQ2c3RYX3NVRXVQRjJ6YWwwQXNCQy1saDdGakxCU0RrMmxQcWhteUtBVFl3?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-09-17T03:12:01.041256-07:00"
+    "remind_at": "2026-09-17T07:58:25.723022-07:00"
   },
   {
     "item": {
-      "company": "Buywander",
-      "amount": "$21.0M",
+      "company": "OCTA",
+      "amount": "$3.5M",
+      "stage": "Seed",
+      "investors": "MEVP",
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGV2ZHhYQ1loeHdQbWE1aXRsbl9VcUdzMWdkRUxQQ054ZU0yN3A1NHdORWFOeXAxMXNJejdCOGdDdDNqT1o3clFCQzE5UElZNFdUU3JQbG03YWZZcjNxZlBUS2Z1aEFtZUNMYlgtRXhjbEp6SU1hejcxMUdqWXdkamFNSlhmaHE3azh2Y20xOXk2ZHhLbFpjVTRYX0hfdW16SkFNTm1NcHk3eXh1eXc?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-17T07:58:28.570095-07:00"
+  },
+  {
+    "item": {
+      "company": "Tare",
+      "amount": "$13.25M",
+      "stage": "Seed",
+      "investors": "Blockchain Capital&nbsp",
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2eF96TXV2Ty12YTNydmpaa2VwOHQyMkNJdW9EdFVJWUFrOFg2ZVA4OXgyRlAyVjVZMEJNQnB1VmJzT1ZOV0w0VG1LN0xyTl8wNnpRZVIwSmFDWWVkLWJyVEJpNXBLRjcx?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-17T07:58:31.447960-07:00"
+  },
+  {
+    "item": {
+      "company": "Hang Ten",
+      "amount": "$53.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [
+        "Vishal Sikka's"
+      ],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONWkwRnBJZE1jQkFzSG9GYUtqbVhiS1VKb2Y0V2tfbzR0a2FpcmViNGhVaGFNZWljbGprT2xqY2lWemowWUZWQ05aa0pBeGs2b1JnTjdDRWQ4QUtCZWUzZzBTb1AxdmxuT25yQzkxV0VqTHc2cEdJRktSMWszNGJ5SHQ2SlhnNDNxYWFQUFFVZmZwUmFrQks3LThSWG5NdTZPSjJhbWxuYzlXQlBsMjhadDdzQ1VkVWxCNWZKX0pzdGJTTjM3LWhXX1dvY1FjeTFmUkpkRnRjamFsdDJuQWV5am5uM1FRcmd1d3FIb2hmVdIB9AFBVV95cUxNTWJPZWhzN1MzcUNSVFNJQTJkSXNqMENUc2FNa1pxX0hzUUE4V18wV1M5Rk5JN0JQSG5Qd090N0l1amliYzVybXlMblhCR0k1MkluTGFWUmVxXzc1OS1GODNibUI3emYwLUdVZE8yM2wtbDBQOFl4cDBmU2p1Rm9PWnI0c29MSDlGNGl4SjdSc05VbmFzcGlSc1FZRGtIS2pLT19KVEpUTERtYldDQ05wak5tNE5WUjNEWTJfa1NocGYyNG5YZjB2NmZnQ0hfTWpRUXh2Y0JYbXJBcnhVNE5HZWNJd2lUWmRtNzA1R3J4MU9GN2VF?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-17T07:58:36.922967-07:00"
+  },
+  {
+    "item": {
+      "company": "Ayble Health",
+      "amount": "$16.0M",
       "stage": "Series A",
-      "investors": "Inspired Capital",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/buywander-raises-21m-series-a/",
+      "url": "https://www.thesaasnews.com/news/ayble-health-raises-16m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-09-17T03:12:03.913173-07:00"
+    "remind_at": "2026-09-17T07:58:42.402555-07:00"
   },
   {
     "item": {
-      "company": "Hanover Park",
-      "amount": "$27.0M",
+      "company": "Comp AI",
+      "amount": "$34.0M",
       "stage": "Series A",
-      "investors": "Emergence Capital",
+      "investors": null,
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hanover-park-raises-27m-series-a/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPclhweTR4Rjh4d0IwVTVjUURBSmZRU3VwOE54TGZONlFvb0VCSXZfZHgwWU9JNVZLX2k2ZGlDRVdyMk5sSTd1dndvNEdMaE0zTEdfY3ZDNVI2N2J6VzJVSDhLM3lNS0l4eXBwUjVidU1hMmJWVmJPWk5maHlVY3M2LTh1WU5aZzc5M1J6ZFpnTlEwOXBkQTRFNktFQXF0QQ?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-09-17T03:12:11.177160-07:00"
+    "remind_at": "2026-09-17T07:58:45.352834-07:00"
   },
   {
     "item": {
-      "company": "Footprint",
-      "amount": "$25.0M",
+      "company": "Arcee AI",
+      "amount": "$150.0M",
       "stage": "Series B",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/footprint-raises-25m-series-b/",
+      "url": "https://www.thesaasnews.com/news/arcee-ai-raises-150m-series-b/",
       "priority": 7
     },
-    "remind_at": "2026-09-17T03:12:14.627679-07:00"
+    "remind_at": "2026-09-17T07:58:48.211414-07:00"
   },
   {
     "item": {
-      "company": "Sendy",
-      "amount": null,
-      "stage": "Series B",
+      "company": "Funding News Today",
+      "amount": "$400.0M",
+      "stage": "Series C",
       "investors": null,
-      "location": "AI",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sendy-raises-3b-series-b-bridge/",
-      "priority": 7
-    },
-    "remind_at": "2026-09-17T03:12:17.576017-07:00"
-  },
-  {
-    "item": {
-      "company": "Superpose",
-      "amount": "$2.2M",
-      "stage": null,
-      "investors": "Khosla, Khosla Ventures",
       "location": null,
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/superpose-raises-2-2m-in-funding/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/09/17/startup-funding-news-today-september-17-2026-d-robotics-treble-tusk-ic-more/",
       "priority": 6
     },
-    "remind_at": "2026-09-17T03:12:20.492466-07:00"
+    "remind_at": "2026-09-17T07:58:53.442103-07:00"
   },
   {
     "item": {
-      "company": "GM CEO Mary Barra",
-      "amount": "$200.0M",
+      "company": "Alternative",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/17/general-motors-ceo-mary-barra-skilled-trades-six-figure-potential-for-gen-z-200-million-investment/",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/",
       "priority": 3
     },
-    "remind_at": "2026-09-17T03:12:26.302650-07:00"
+    "remind_at": "2026-09-17T07:58:56.325065-07:00"
   },
   {
     "item": {
-      "company": "Ridgeline",
-      "amount": "$250.0M",
-      "stage": "Series E",
-      "investors": "Dave Duffield at a",
+      "company": "Antfly",
+      "amount": "$2.0M",
+      "stage": null,
+      "investors": null,
+      "location": "Portland",
+      "founders": [
+        "James Mc"
+      ],
+      "source": "GeekWire Funding",
+      "url": "https://www.geekwire.com/2026/portland-startup-antfly-raises-2m-to-streamline-data-infrastructure-for-ai-agents/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-17T07:58:59.251814-07:00"
+  },
+  {
+    "item": {
+      "company": "London\u2019s Magentic",
+      "amount": "$18.0M",
+      "stage": null,
+      "investors": null,
+      "location": "London",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/magentic-raises-18m-series-a-felicis-procurement-ai-agents/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-17T07:59:04.594581-07:00"
+  },
+  {
+    "item": {
+      "company": "ETFBOOK",
+      "amount": "$13.0M",
+      "stage": null,
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ridgeline-raises-250m-series-e/",
+      "url": "https://www.thesaasnews.com/news/etfbook-raises-13m-other/",
       "priority": 3
     },
-    "remind_at": "2026-09-17T03:12:29.177293-07:00"
+    "remind_at": "2026-09-17T07:59:07.441285-07:00"
+  },
+  {
+    "item": {
+      "company": "Barcelona-based Health Force",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Barcelona",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT0plZW56U1N4Qm1yd2Z4V0VrUU5wUTZGSFgtSXBhQUF2TzhWQnZwc2N4Tkc3UEtrbzVPZmZXX24yem8tTXZiQUdzMHpaUGNTd0tvNjZFSUk5Uk5wVW1DaEs3SFVidWhxdmt5OFRlVzgzRlpMem9SSXZ0UERDY0R3Z050N2c0YkI1bGRLWTUyWjE3a1JlZWptNmE0MXowSVlDQUl6ek1XSC1Ody0wTjlQanVaei1yMjFlOXluZU1PV1RQOElQTFktT3dxZm5iMzQ?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-17T07:59:12.787288-07:00"
   }
 ]
