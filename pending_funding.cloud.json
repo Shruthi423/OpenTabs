@@ -1,16 +1,212 @@
 [
   {
     "item": {
-      "company": "Delos Data",
-      "amount": "$100.0M",
-      "stage": null,
-      "investors": "Socratic Partners, Matter Venture Partners",
+      "company": "TypeSafe AI",
+      "amount": "$40.0M",
+      "stage": "Seed",
+      "investors": "DCVC",
       "location": null,
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/16/inference-hardware-startup-delos-data-raises-100m-in-funding/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/typesafe-ai-raises-40m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-17T03:11:26.878960-07:00"
+  },
+  {
+    "item": {
+      "company": "Expanse",
+      "amount": "$5.3M",
+      "stage": "Seed",
+      "investors": "Crane Venture Partners",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/expanse-raises-5-3m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-17T03:11:30.351532-07:00"
+  },
+  {
+    "item": {
+      "company": "Scaffold",
+      "amount": "$15.0M",
+      "stage": "Seed",
+      "investors": "Navitas Capital",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/scaffold-raises-15m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-17T03:11:33.372711-07:00"
+  },
+  {
+    "item": {
+      "company": "Aristotle",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": "True Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/aristotle-raises-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-17T03:11:36.332338-07:00"
+  },
+  {
+    "item": {
+      "company": "Medow Health",
+      "amount": "$3.5M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/medow-health-raises-a3-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-17T03:11:42.025422-07:00"
+  },
+  {
+    "item": {
+      "company": "Bekia",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/bekia-raises-765000-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-17T03:11:45.021418-07:00"
+  },
+  {
+    "item": {
+      "company": "Hang Ten Systems",
+      "amount": "$53.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hang-ten-systems-raises-53m-seed-extension/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-17T03:11:58.134607-07:00"
+  },
+  {
+    "item": {
+      "company": "billing",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUw3ZW5yN015cFVjbi1MVkd1RVBsbURNSm43cGtKejlIYVhKcXJzTm4zQmxta184Z2NkdFBxQjJfYkdMb0ZTRXZpbDFmaHJURjIxUllsWTI3ZmVzMEh5VVV2cUZvaG1tcEpUdU5SNlIwY2FUVklBcDlFZWZmR25ySlc0MWFHQktEVG5JT3E5dDVNUDBVY2c?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-17T03:12:01.041256-07:00"
+  },
+  {
+    "item": {
+      "company": "Buywander",
+      "amount": "$21.0M",
+      "stage": "Series A",
+      "investors": "Inspired Capital",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/buywander-raises-21m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-17T03:12:03.913173-07:00"
+  },
+  {
+    "item": {
+      "company": "Hanover Park",
+      "amount": "$27.0M",
+      "stage": "Series A",
+      "investors": "Emergence Capital",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hanover-park-raises-27m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-17T03:12:11.177160-07:00"
+  },
+  {
+    "item": {
+      "company": "Footprint",
+      "amount": "$25.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/footprint-raises-25m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-09-17T03:12:14.627679-07:00"
+  },
+  {
+    "item": {
+      "company": "Sendy",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": "AI",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/sendy-raises-3b-series-b-bridge/",
+      "priority": 7
+    },
+    "remind_at": "2026-09-17T03:12:17.576017-07:00"
+  },
+  {
+    "item": {
+      "company": "Superpose",
+      "amount": "$2.2M",
+      "stage": null,
+      "investors": "Khosla, Khosla Ventures",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/superpose-raises-2-2m-in-funding/",
+      "priority": 6
+    },
+    "remind_at": "2026-09-17T03:12:20.492466-07:00"
+  },
+  {
+    "item": {
+      "company": "GM CEO Mary Barra",
+      "amount": "$200.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/17/general-motors-ceo-mary-barra-skilled-trades-six-figure-potential-for-gen-z-200-million-investment/",
       "priority": 3
     },
-    "remind_at": "2026-09-16T22:07:34.738840-07:00"
+    "remind_at": "2026-09-17T03:12:26.302650-07:00"
+  },
+  {
+    "item": {
+      "company": "Ridgeline",
+      "amount": "$250.0M",
+      "stage": "Series E",
+      "investors": "Dave Duffield at a",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ridgeline-raises-250m-series-e/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-17T03:12:29.177293-07:00"
   }
 ]
