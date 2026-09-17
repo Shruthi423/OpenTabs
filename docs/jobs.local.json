@@ -1,5 +1,39 @@
 [
   {
+    "id": "9bf1b3a02e2894d69b8377faeb053de9",
+    "title": "Product Design Engineer",
+    "company": "ITT Inc.",
+    "location": "Irvine, CA, US",
+    "salary": "$74,300 \u2013 $110,500 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=dc450ec8ac4ccda2",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-08",
+    "priority": 4,
+    "first_seen": "2026-09-17T13:31:50.959992-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "e3925e1998787e1f7b543aca8ca06480",
+    "title": "User Experience Designer",
+    "company": "nan",
+    "location": "San Juan, PR, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=2c0f702639b242b3",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-09-16",
+    "priority": 4,
+    "first_seen": "2026-09-17T13:31:49.167285-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "26053d382b24df781044866dafdfaef4",
     "title": "UX Designer",
     "company": "Taara",
@@ -21892,23 +21926,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-08-17T14:06:11.424749-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "02f42bd6a5bcfc347109fc6fa5889477",
-    "title": "UI engineer / UI Designer / Product Engineer",
-    "company": "Value Innovation Labs",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4454415614",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-08-17T13:13:05.820899-07:00",
     "status": "active",
     "jd": "yes"
   }
