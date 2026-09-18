@@ -60420,5 +60420,50 @@
     "roles": [],
     "first_seen": "2026-09-18T04:51:17.160400-07:00",
     "status": "active"
+  },
+  "7d0c005993c30d56b3adf5b768497fcd": {
+    "id": "7d0c005993c30d56b3adf5b768497fcd",
+    "company": "Mantic",
+    "amount": "$25.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/09/18/british-ai-startup-mantic-raises-25m-to-build-superhuman-ai-forecasting-after-metaculus-win/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-18T08:38:44.348229-07:00",
+    "status": "active"
+  },
+  "6536d933538c24d6da8656191c6f50cd": {
+    "id": "6536d933538c24d6da8656191c6f50cd",
+    "company": "Amazon",
+    "amount": "$230.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/18/amazon-investing-230-million-higher-pay-benefits-college-perks-more-than-100000-whole-foods-workers-hourly-pay-21/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-18T08:38:47.187782-07:00",
+    "status": "active"
+  },
+  "8a510fb87228e485c23f79166cc0691d": {
+    "id": "8a510fb87228e485c23f79166cc0691d",
+    "company": "African Biochar Startup",
+    "amount": "$1.5M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZVmNCTmJBNWxmYzhsV3FHM3NfUXNwS3NyY1ZnUThkVktzZ0xWV0xLNEtvS0RSYnZEa0pJRHVwMmNWU1g5R3dZR2V3Q05fbDlNU2FJb21od0xVSzJjdC1jTkNLWUphcVZrWlRRSGNDeWdERVF30gF0QVVfeXFMUFlWY0JOYkE1bGZjOGxXcUczc19Rc3BLc3JjVmdROGRWS3NnTFZXTEs0S29LRFJidkRrSklEdXAyY1ZTWDlHd1lHZXdDTl9sOU1TYUlvbWh3TFVLMmN0LWNOQ0tZSmFxVmtaVFFIY0N5Z0RFUXc?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-18T08:38:52.451195-07:00",
+    "status": "active"
   }
 }
