@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "item": {
+      "company": "Embra AI",
+      "amount": "$1.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/embra-ai-raises-1m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-09-18T00:10:10.014197-07:00"
+  },
+  {
+    "item": {
+      "company": "Kastle",
+      "amount": "$24.0M",
+      "stage": "Series A",
+      "investors": "Insight Partners",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/kastle-raises-24m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-18T00:10:13.031150-07:00"
+  },
+  {
+    "item": {
+      "company": "Raindrop",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/raindrop-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-18T00:10:16.065215-07:00"
+  },
+  {
+    "item": {
+      "company": "Dataphoria",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/dataphoria-raises-335000-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-18T00:10:19.094461-07:00"
+  }
+]
