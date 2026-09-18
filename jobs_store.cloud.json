@@ -8683,10 +8683,10 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-07-16T23:26:53.978608-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-09-17T23:39:01.318188-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
+    "dead_strikes": 2
   },
   "173af69b881c1bf61f3a33c531fb0cdd": {
     "id": "173af69b881c1bf61f3a33c531fb0cdd",
@@ -9125,7 +9125,7 @@
     "first_seen": "2026-07-20T03:46:18.445714-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "3d9fbeb4d684e84d2fdef1211e6bc9cc": {
@@ -9145,7 +9145,7 @@
     "first_seen": "2026-07-20T03:46:20.322146-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "ad589175566f1aeea25c33630d70509b": {
@@ -9165,7 +9165,7 @@
     "first_seen": "2026-07-20T03:46:22.181200-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "b7a594a0e0531c87a39291076eff9dc3": {
@@ -9186,7 +9186,7 @@
     "first_seen": "2026-07-20T03:47:07.779191-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "fe2f4ddca44f087d5b166af3a5cdfbad": {
@@ -9206,7 +9206,7 @@
     "first_seen": "2026-07-20T05:57:41.576819-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "43dab8c3e853f87a3969f0c79ae0888c": {
@@ -9226,7 +9226,7 @@
     "first_seen": "2026-07-20T05:57:43.141076-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "96c7f4591c65c46e12027e6b1234533f": {
@@ -9246,7 +9246,7 @@
     "first_seen": "2026-07-20T13:12:57.963687-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "d9a692d7d6de9b1689ea8158d2d1863e": {
@@ -9268,7 +9268,7 @@
     "first_seen": "2026-07-20T13:12:59.673317-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "f9f23f6283715295f59724fa59e8e528": {
@@ -9288,7 +9288,7 @@
     "first_seen": "2026-07-20T13:13:01.569492-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "fa448be823c307a6aee2ddb4b78c08f4": {
@@ -9308,7 +9308,7 @@
     "first_seen": "2026-07-20T13:13:03.396830-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "31ab8b330c965a9cd9fda453cbfb6a7e": {
@@ -9328,7 +9328,7 @@
     "first_seen": "2026-07-20T18:07:42.590742-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "830c36f89ce70eed1b2349b5e0b4d50b": {
@@ -9348,7 +9348,7 @@
     "first_seen": "2026-07-21T00:13:35.308305-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "874cd9abfb698bf1d5999b182b908b2f": {
@@ -9368,7 +9368,7 @@
     "first_seen": "2026-07-21T04:29:35.682244-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "7b2407ae209ea7c7ae0822bfc8dba5c7": {
@@ -9388,7 +9388,7 @@
     "first_seen": "2026-07-21T04:29:37.356148-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "ac22abe16eb6c846817a9dc0655832e7": {
@@ -9408,7 +9408,7 @@
     "first_seen": "2026-07-21T04:29:39.209075-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "09a27479e9eab17d02d229830f83816a": {
@@ -9428,7 +9428,7 @@
     "first_seen": "2026-07-21T04:29:41.076500-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T11:21:22.560512-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "2484f16ce34769c816173ca37f3a505a": {
@@ -9448,7 +9448,7 @@
     "first_seen": "2026-07-21T04:29:42.919214-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T11:21:22.560512-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "e10e2f020c048ff061bb6ade2faff74e": {
@@ -9468,7 +9468,7 @@
     "first_seen": "2026-07-21T10:53:52.416341-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T11:21:22.560512-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "b4a0594d5b4b0e9a4974393df696a88b": {
@@ -9488,7 +9488,7 @@
     "first_seen": "2026-07-21T12:10:52.514274-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T11:21:22.560512-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "31d8d00845e13df23dc33823ba826ff3": {
@@ -9508,7 +9508,7 @@
     "first_seen": "2026-07-21T12:10:54.390703-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T11:21:22.560512-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "509f00f578d801d6f8f9a70980a6589d": {
@@ -9528,7 +9528,7 @@
     "first_seen": "2026-07-21T13:36:39.866595-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T11:21:22.560512-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "74b41db9d5f9a6d002551a6c8c43a96b": {
@@ -9548,7 +9548,7 @@
     "first_seen": "2026-07-21T14:46:17.584229-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T11:21:22.560512-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "45f2e1f42315573924d56d5dae9dbdc7": {
@@ -9568,7 +9568,7 @@
     "first_seen": "2026-07-22T03:20:49.048975-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T11:21:22.560512-07:00"
+    "checked_at": "2026-09-18T04:49:05.362366-07:00"
   },
   "c2a6c55cd38ade6b7efb9b9a190b39bb": {
     "id": "c2a6c55cd38ade6b7efb9b9a190b39bb",
@@ -18798,7 +18798,7 @@
     "first_seen": "2026-09-09T08:45:59.080763-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-12T09:04:23.188721-07:00",
+    "checked_at": "2026-09-18T04:49:05.362366-07:00",
     "dead_strikes": 0
   },
   "7e35f9a79bc75f959bfa38bec2671d06": {
@@ -20265,6 +20265,25 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-09-17T16:41:57.829463-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "0cfc21b13620f5d2266c53f78cc76438": {
+    "id": "0cfc21b13620f5d2266c53f78cc76438",
+    "title": "Product Designer",
+    "company": "Otter",
+    "location": "Los Angeles, CA",
+    "salary": "$182,000 - $230,000",
+    "url": "https://uiuxjobsboard.com/job/1608326-product-designer-los-angeles-ca-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "In the past, to be a successful restaurateur, you simply had to have a passion for food and a passion for people - but to succeed as a digital restaurateur you also need to have a passion for technology. We believe in the joy of serving others, and that's why we created Otter \u2013 to help restaurateurs succeed in online food delivery. Restaurants around the world, both large and small, including Chick-fil-A, Ben & Jerry\u2019s, KFC, and Eataly trust our software to power their delivery business. We increase sales, reduce order issues, and decrease delivery headaches.\nWhat you\u2019ll do\nAs Product Designer for Platform, you\u2019ll define the experience architecture and critical cross-product systems that shape how Otter works as a unified platform. Your work will influence the foundations every product team builds on and some of the most important journeys across the customer lifecycle. You will:\nDefine platform-level experience architecture across navigation, hierarchy, permissions, configuration, entitlements, and shared interaction patterns.\nLead critical cross-product workflows such as onboarding, activation, setup, upsell, and expansion.\nSimplify complex, workflow-heavy tools by creating clear mental models, scalable interaction frameworks, and reusable product patterns.\nPartner deeply with Product and Engineering to align user experience with underlying system models, platform capabilities, and technical constraints.\nWork closely with the Design System team to translate shared product patterns into reusable, consistent UI foundations.\nEmbrace new technologies and ways of working to prototype faster, iterate more effectively, and raise the quality of design outcomes.\nExplore how AI and new technologies can lower the barrier to complex software and shift experiences from \u201cusing tools\u201d to \u201cgetting outcomes as a service,\u201d with strong judgment about when to use them\u2014and when not to.\n10+ years of product design experience, or equivalent seniority, with a track record of leading complex, high-impact product work.\nStrong systems thinking and information architecture skills, with experience designing workflow-heavy products or tools with meaningful complexity.\nProven ability to define scalable experience models, frameworks, and patterns that work across multiple products, teams, or customer journeys.\nExcellent product judgment, including the ability to simplify complexity while balancing usability, flexibility, and technical constraints.\nStrong cross-functional leadership and influence, with the ability to drive alignment across Product, Engineering, Design, and other stakeholders.\nComfort working with complex system models, including permissions, configuration, object relationships, states, dependencies, and edge cases.\nExperience partnering closely with Design System teams and understanding the relationship between product architecture and reusable UI foundations.\nAdaptable and forward-looking in how design gets done, with meaningful use of emerging technologies such as AI, prototyping, and implementation tools to improve speed and quality.\nComfortable operating in ambiguity and proactively identifying opportunities beyond a single feature or product area.\nB2B or enterprise experience is a plus, but not required; we care more about the complexity of the product and workflows they\u2019ve designed.\nDemand for online food delivery is growing really fast! In the last 5 years, just in the US, the overall market has expanded 10X from $10B to $100B, and could expand to $500bn- $1T by 2030.\nChanging the restaurant industry: You\u2019ll be part of a team that helps restaurants succeed in online food delivery.\nCollaborative environment: You will receive support and guidance from experienced colleagues and managers, helping you to learn, grow and achieve your goals, and you\u2019ll work closely with other teams to ensure our customer\u2019s success.\nThis role is based in our Los Angeles office location. As a company driven by innovation and continuous change, close collabor",
+    "posted_at": "3h",
+    "priority": 3,
+    "first_seen": "2026-09-18T04:49:59.559246-07:00",
     "status": "active",
     "applied_at": null
   }

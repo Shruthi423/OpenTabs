@@ -1,58 +1,184 @@
 [
   {
     "item": {
-      "company": "Embra AI",
-      "amount": "$1.0M",
+      "company": "Tenka",
+      "amount": null,
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/embra-ai-raises-1m-pre-seed/",
+      "url": "https://www.thesaasnews.com/news/tenka-raises-pre-seed-round/",
       "priority": 10
     },
-    "remind_at": "2026-09-18T00:10:10.014197-07:00"
+    "remind_at": "2026-09-18T05:20:22.235138-07:00"
   },
   {
     "item": {
-      "company": "Kastle",
-      "amount": "$24.0M",
-      "stage": "Series A",
-      "investors": "Insight Partners",
+      "company": "Hello Haven",
+      "amount": "$15.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kastle-raises-24m-series-a/",
-      "priority": 8
+      "url": "https://www.thesaasnews.com/news/hello-haven-raises-15m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-09-18T00:10:13.031150-07:00"
+    "remind_at": "2026-09-18T05:20:28.129158-07:00"
   },
   {
     "item": {
-      "company": "Raindrop",
+      "company": "Yoom",
       "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": "Funding Tokyo",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/yoom-co-ltd-raises-700m-other/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-18T05:20:31.484306-07:00"
+  },
+  {
+    "item": {
+      "company": "Creem",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/creem-raises-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-18T05:20:34.475866-07:00"
+  },
+  {
+    "item": {
+      "company": "Health Force",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/health-force-raises-4-2m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-18T05:20:40.198548-07:00"
+  },
+  {
+    "item": {
+      "company": "dtcpay",
+      "amount": "$25.0M",
+      "stage": "Series A",
+      "investors": "Vertex Ventures",
+      "location": "Singapore",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/dtcpay-raises-25m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-18T05:20:43.166703-07:00"
+  },
+  {
+    "item": {
+      "company": "Magentic",
+      "amount": "$18.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/raindrop-series-a/",
+      "url": "https://www.thesaasnews.com/news/magentic-raises-18m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-09-18T00:10:16.065215-07:00"
+    "remind_at": "2026-09-18T05:20:46.223089-07:00"
   },
   {
     "item": {
-      "company": "Dataphoria",
+      "company": "Luzern Risk",
+      "amount": "$45.0M",
+      "stage": "Series B",
+      "investors": "Insight Partners",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/luzern-risk-raises-45m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-09-18T05:20:52.368786-07:00"
+  },
+  {
+    "item": {
+      "company": "FinT",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/dataphoria-raises-335000-other/",
+      "url": "https://www.thesaasnews.com/news/fint-raises-funding/",
       "priority": 3
     },
-    "remind_at": "2026-09-18T00:10:19.094461-07:00"
+    "remind_at": "2026-09-18T05:20:55.472489-07:00"
+  },
+  {
+    "item": {
+      "company": "Hackuity",
+      "amount": "$19.0M",
+      "stage": null,
+      "investors": "Forgepoint Capital",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hackuity-raises-19m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-18T05:20:58.478019-07:00"
+  },
+  {
+    "item": {
+      "company": "Logibot",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Berlin",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/logibot-raises-1-4m-in-funding/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-18T05:21:07.256323-07:00"
+  },
+  {
+    "item": {
+      "company": "Rapta",
+      "amount": "$8.0M",
+      "stage": null,
+      "investors": "Voyager Capital, Access Venture Partners",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/rapta-raises-8m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-18T05:21:10.387209-07:00"
+  },
+  {
+    "item": {
+      "company": "FERRY HEALTH",
+      "amount": "$9.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcW54M01IWTdZRWV6VDFjQUFpeEJPNjVHaFkxQnMzU1gyNGdPcWd6dnhnbm1MREVMQURVVmJkUkFjWFlKbjhGUnYwVTYtRVF4U0xTUnJtQ2dPVVBBY2w0RE9oSi1XX2hHTDNIYkIwX0hXbEZDQlNvbHdBbnZ4bVg2eWM1ZG5fRUZwYmwwQUNlQjBWNFBsdTl5TlQyYUVBbXc2SS11SG9YZXVkRlgtQlFDM09VRHgyeVU2ZlU2c29oQktpSjFacVBzMkdGVFp3eHpfNzlfR3lQRmk5cm9QMUJ1LUhDbDZtMHpqN20tb2lrRU53QQ?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-18T05:21:16.160239-07:00"
   }
 ]
