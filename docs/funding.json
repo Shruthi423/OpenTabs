@@ -1,5 +1,67 @@
 [
   {
+    "id": "17e62efee641fd55deb285caf43f51c5",
+    "company": "Aeon",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWZBclVrLWlMbnBrZTJET0UxdlRjamxQSDZZV2lmNF9hak5KVzFZYWFDZTVCOXl1R2xDMnphOVNqZWd1X1FJOHhYbnJWank2MGliaVVjNDJVUUpwMlRJbU9DTUtiMTFmeE9xeno4NlVuRkJma0dPMHNmWTRpdDRuaG1YV25wd0U?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-18T14:16:43.007344-07:00",
+    "status": "active"
+  },
+  {
+    "id": "55126949af9d66f5896a1f926744f953",
+    "company": "GOP's Latino",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/09/18/latino-voters-shift-internal-divides-deepen",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-18T14:16:40.156761-07:00",
+    "status": "active"
+  },
+  {
+    "id": "9e7846c7c37575fedba9562273c3e7d6",
+    "company": "Snap",
+    "amount": "$3.5B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/18/snap-3-5-billion-ar-glasses-evan-spiegel/",
+    "priority": 3,
+    "founders": [
+      "Evan Spiegel"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-18T14:16:34.655785-07:00",
+    "status": "active"
+  },
+  {
+    "id": "ce4a600d485ba1f515257590a9be302e",
+    "company": "Flam",
+    "amount": "Undisclosed",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1JJaDZ5bm5TdTJUVjVsMmFzQmZ1RS1idlN3d25LYTNtZWx2bVc1b1FUUWg2WUwtbDAyeUV1QXFQMHRGaGp6cjhyd000R1FxZGlRUlJxeWZfQmFtTDI5OGlaMTVzMEsxN2hhU1ZhOFVfUHI0OWxfSTV4dC00Uk15YW80VE5ZQjFxSTR3ekJXVWZDN1Zibjhj?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-18T14:16:29.631714-07:00",
+    "status": "active"
+  },
+  {
     "id": "8a510fb87228e485c23f79166cc0691d",
     "company": "African Biochar Startup",
     "amount": "$1.5M",

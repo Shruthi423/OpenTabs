@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "item": {
+      "company": "Flam",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1JJaDZ5bm5TdTJUVjVsMmFzQmZ1RS1idlN3d25LYTNtZWx2bVc1b1FUUWg2WUwtbDAyeUV1QXFQMHRGaGp6cjhyd000R1FxZGlRUlJxeWZfQmFtTDI5OGlaMTVzMEsxN2hhU1ZhOFVfUHI0OWxfSTV4dC00Uk15YW80VE5ZQjFxSTR3ekJXVWZDN1Zibjhj?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-09-18T14:46:28.631573-07:00"
+  },
+  {
+    "item": {
+      "company": "Snap",
+      "amount": "$3.5B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [
+        "Evan Spiegel"
+      ],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/18/snap-3-5-billion-ar-glasses-evan-spiegel/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-18T14:46:33.655664-07:00"
+  },
+  {
+    "item": {
+      "company": "GOP's Latino",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/18/latino-voters-shift-internal-divides-deepen",
+      "priority": 3
+    },
+    "remind_at": "2026-09-18T14:46:39.156628-07:00"
+  },
+  {
+    "item": {
+      "company": "Aeon",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWZBclVrLWlMbnBrZTJET0UxdlRjamxQSDZZV2lmNF9hak5KVzFZYWFDZTVCOXl1R2xDMnphOVNqZWd1X1FJOHhYbnJWank2MGliaVVjNDJVUUpwMlRJbU9DTUtiMTFmeE9xeno4NlVuRkJma0dPMHNmWTRpdDRuaG1YV25wd0U?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-18T14:46:42.007182-07:00"
+  }
+]
