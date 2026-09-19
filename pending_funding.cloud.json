@@ -1,44 +1,16 @@
 [
   {
     "item": {
-      "company": "Vals",
-      "amount": null,
-      "stage": null,
-      "investors": "Andreessen Horowitz",
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGJ4Rm1xU3l0ZmZpa1BiN21DekVIQWlBaHVLbG9vX2JPRENVRHduNHVNSFpLb0VTR1ZkUkJMdVlmZlFxUWpVM3c1MTFkSDBSWTFWMHE0a1U3dFBGb3plU0QtREZmXzVtUGV3MVVxYXgzLXlJWHpBN2dqNy01R2VONWFQV3dFQ1ZrRm5nTVZXZmN6OG53bUF2d2VFd0lVcDlTaHIwT2Vra0dyNV9xaFJtczBEeDBkNi12TXRKNGVHRVJKRUY3SDhv?oc=5",
-      "priority": 6
-    },
-    "remind_at": "2026-09-19T07:43:01.887060-07:00"
-  },
-  {
-    "item": {
-      "company": "Vals",
-      "amount": "$40.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ2k4NTZ2WDE1akVNTWI0Y2hLNDNYWFQ5N1drXzE4M2tfMkVPZVRUdTZ5OUlMbm1RVF9md09adG5YOXZ5YXNRUGFfRUJRLVZSaW9oXzV2WnhEUnFJTVo2MlBPUzZ2QmdQYzBFTTAyQU5NOGxZbEI4MXEzclJMLXFPRkRyY0ZCS3FmRXFZQXRMQ3pPMFNZMGJR?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-19T07:43:04.718808-07:00"
-  },
-  {
-    "item": {
-      "company": "Mazama",
-      "amount": "$135.0M",
-      "stage": null,
+      "company": "MozartAI",
+      "amount": "$10.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTmMyTnVIVkpTQmpDd0RpcHJRMFQxVWFieGdWN3FrY3l6OHBKSlhTYm1EekUtaXlWMkx4NGx5WlRoMG5wUFMtU2V6TDdfN09WZXVLZktNdm9qUzhIQW1DWjNRdGJTcG00Um84QXVOUDkzRjlrOVR3YjlJOUF3R3Z1b1ViQzNDZw?oc=5",
-      "priority": 3
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWczdTY1aFRra1V0dnBWWmtYaU9IcHh2MGwyRC1WSEszZmRKSFZ0U2VJZWVXWlBqbDBfNHdHMXpUa3FoaklzbWVVRWh5QXRUNEtPMVNiUVNVZm5hZG1qaUhGMEd6c0xCTkdWcC1KbE1LZEhDVExFNFNtb1NocTNOSTh6aFVoR2o2VWpqWThoM1g1OV9hajZsSGl5UF81LUNLLXQ4?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-09-19T07:43:07.744996-07:00"
+    "remind_at": "2026-09-19T10:48:50.078416-07:00"
   }
 ]
