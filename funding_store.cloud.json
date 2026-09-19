@@ -60527,5 +60527,36 @@
     "roles": [],
     "first_seen": "2026-09-18T14:16:43.007344-07:00",
     "status": "active"
+  },
+  "351c54669db2fd2e386093211c7f970c": {
+    "id": "351c54669db2fd2e386093211c7f970c",
+    "company": "Kalshi",
+    "amount": "$750.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnS0hLOVRtT0lCWTNLU0d3QmJ3ZHd3bVZyMmlpUEJLYlhqeUFjTS0wakktaTdRdXpUMGkyWUcwOGZFMVk1LXhFT1JyOGFXQXE3X3h0aTBGdjh5enlWc1BnZkZGVmFjNGtGWEwzVUVB?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "New York, New York, United States",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://job-boards.greenhouse.io/kalshi/jobs/6334301003",
+        "location": "New York, New York, United States"
+      },
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/kalshi/25718664-54b7-454b-9a2c-bde0b1deb76c",
+        "location": "New York Office"
+      },
+      {
+        "title": "UX Researcher",
+        "url": "https://jobs.ashbyhq.com/kalshi/9a802eca-14bc-4577-b5f4-8e49e61bd7f5",
+        "location": "New York Office"
+      }
+    ],
+    "first_seen": "2026-09-18T23:12:53.986069-07:00",
+    "status": "active"
   }
 }
