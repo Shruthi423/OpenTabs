@@ -1,5 +1,35 @@
 [
   {
+    "id": "f1550b7334fe6c87c8de32f35254fda0",
+    "company": "Down Round",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTRTVGhfWXBScnExUWZXbWRkU0xCb3NHNHVTVEhPcGxhNXYydk1HcEdCRm82TzhKTW1nVm9ZeXJUTDhCR3RpRV9YOG1mNTRsWjl1UXNDTTIwSFR1UGZmZ1VYQlR6WlpVYkp3N3V6cE1GRVZKOGNhaTdPRFNQZVZFMUxIekJQdE9zYlExYmRwSElzV3dqa1U3RjhfRmFjRnNw?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-19T12:28:18.966080-07:00",
+    "status": "active"
+  },
+  {
+    "id": "43fe18b0dbaade7fd7e4cd8b600f8e8e",
+    "company": "Disha",
+    "amount": "$4.6M",
+    "stage": "Series A",
+    "investors": "General Catalyst - Dealroom Disha, formerly Curelink, raises",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU0RaRlpXaUVaV3lrQXIxWkFOc3U5d1cyTExwUDRGdTlMSGI4ZDUyRlNZYkxEWDFJanBXUzlVQ0NHWkVKSUFMWDRuLS1EZXN5d2xCd0xoSEZDYVRaWjJNdV9BbnNaaW56UVhZTmNzMl9MNGlleWIwWTRHb1BGaEUxR0J0bnEtODNaSFA3QmFIdE11eUdTQWFNVDkwWHRuYmtnRTJsMg?oc=5",
+    "priority": 11,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-19T12:28:06.289192-07:00",
+    "status": "active"
+  },
+  {
     "id": "d997fe1f196cfb7c9a115a04228a59f9",
     "company": "MozartAI",
     "amount": "$10.0M",
@@ -11671,36 +11701,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-19T13:29:14.456433-07:00",
-    "status": "active"
-  },
-  {
-    "id": "6deefb85fa88873980573981f8e5b1fe",
-    "company": "Silicon Data",
-    "amount": "$30.0M",
-    "stage": "Series A",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNemRpcElDeW5kSV9qY0d2WFhNQV9Ddnk5em9MckFVbk0yOFMxUWs5MjZtRjhnSTRHQlJ5VXAtOWl4Ty16SHlLWFBjUFh1MDFTYkh6V2lWdjIwWHFHbU9EZzRKWEc5VWxfekluRzZNT2M2bngzcU93U0NhNW04SUE2VHR5N2M1UFJjZV83Z3lJLVAyS0VBVzJQalc4MGFLV1JudHB0NzZ4UQ?oc=5",
-    "priority": 8,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-19T11:25:31.987296-07:00",
-    "status": "active"
-  },
-  {
-    "id": "2e86e241646186ccf79de4bbdbcba1c1",
-    "company": "Up",
-    "amount": "$246.0M",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "Fortune",
-    "url": "https://fortune.com/2026/08/19/often-flying-blind-up-to-246-million-of-taxpayer-funded-cdc-programs-are-largely-unstaffed/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-19T10:49:30.270161-07:00",
     "status": "active"
   }
 ]

@@ -1,16 +1,44 @@
 [
   {
     "item": {
-      "company": "MozartAI",
-      "amount": "$10.0M",
-      "stage": "Seed",
+      "company": "Disha",
+      "amount": "$4.6M",
+      "stage": "Series A",
+      "investors": "General Catalyst - Dealroom Disha, formerly Curelink, raises",
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU0RaRlpXaUVaV3lrQXIxWkFOc3U5d1cyTExwUDRGdTlMSGI4ZDUyRlNZYkxEWDFJanBXUzlVQ0NHWkVKSUFMWDRuLS1EZXN5d2xCd0xoSEZDYVRaWjJNdV9BbnNaaW56UVhZTmNzMl9MNGlleWIwWTRHb1BGaEUxR0J0bnEtODNaSFA3QmFIdE11eUdTQWFNVDkwWHRuYmtnRTJsMg?oc=5",
+      "priority": 11
+    },
+    "remind_at": "2026-09-19T12:58:05.289002-07:00"
+  },
+  {
+    "item": {
+      "company": "At AGNTCon Europe",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "Amsterdam",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/19/at-agntcon-europe-ensuring-ai-agents-dont-kill-us-all/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-19T12:58:12.236998-07:00"
+  },
+  {
+    "item": {
+      "company": "Down Round",
+      "amount": null,
+      "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWczdTY1aFRra1V0dnBWWmtYaU9IcHh2MGwyRC1WSEszZmRKSFZ0U2VJZWVXWlBqbDBfNHdHMXpUa3FoaklzbWVVRWh5QXRUNEtPMVNiUVNVZm5hZG1qaUhGMEd6c0xCTkdWcC1KbE1LZEhDVExFNFNtb1NocTNOSTh6aFVoR2o2VWpqWThoM1g1OV9hajZsSGl5UF81LUNLLXQ4?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTRTVGhfWXBScnExUWZXbWRkU0xCb3NHNHVTVEhPcGxhNXYydk1HcEdCRm82TzhKTW1nVm9ZeXJUTDhCR3RpRV9YOG1mNTRsWjl1UXNDTTIwSFR1UGZmZ1VYQlR6WlpVYkp3N3V6cE1GRVZKOGNhaTdPRFNQZVZFMUxIekJQdE9zYlExYmRwSElzV3dqa1U3RjhfRmFjRnNw?oc=5",
+      "priority": 3
     },
-    "remind_at": "2026-09-19T10:48:50.078416-07:00"
+    "remind_at": "2026-09-19T12:58:17.965892-07:00"
   }
 ]

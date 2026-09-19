@@ -60618,5 +60618,50 @@
     "roles": [],
     "first_seen": "2026-09-19T10:18:51.078582-07:00",
     "status": "active"
+  },
+  "43fe18b0dbaade7fd7e4cd8b600f8e8e": {
+    "id": "43fe18b0dbaade7fd7e4cd8b600f8e8e",
+    "company": "Disha",
+    "amount": "$4.6M",
+    "stage": "Series A",
+    "investors": "General Catalyst - Dealroom Disha, formerly Curelink, raises",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU0RaRlpXaUVaV3lrQXIxWkFOc3U5d1cyTExwUDRGdTlMSGI4ZDUyRlNZYkxEWDFJanBXUzlVQ0NHWkVKSUFMWDRuLS1EZXN5d2xCd0xoSEZDYVRaWjJNdV9BbnNaaW56UVhZTmNzMl9MNGlleWIwWTRHb1BGaEUxR0J0bnEtODNaSFA3QmFIdE11eUdTQWFNVDkwWHRuYmtnRTJsMg?oc=5",
+    "priority": 11,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-19T12:28:06.289192-07:00",
+    "status": "active"
+  },
+  "611bc3b1e35ac17574c2620597f4e797": {
+    "id": "611bc3b1e35ac17574c2620597f4e797",
+    "company": "At AGNTCon Europe",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/19/at-agntcon-europe-ensuring-ai-agents-dont-kill-us-all/",
+    "priority": 3,
+    "founders": [],
+    "location": "Amsterdam",
+    "roles": [],
+    "first_seen": "2026-09-19T12:28:13.237233-07:00",
+    "status": "active"
+  },
+  "f1550b7334fe6c87c8de32f35254fda0": {
+    "id": "f1550b7334fe6c87c8de32f35254fda0",
+    "company": "Down Round",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTRTVGhfWXBScnExUWZXbWRkU0xCb3NHNHVTVEhPcGxhNXYydk1HcEdCRm82TzhKTW1nVm9ZeXJUTDhCR3RpRV9YOG1mNTRsWjl1UXNDTTIwSFR1UGZmZ1VYQlR6WlpVYkp3N3V6cE1GRVZKOGNhaTdPRFNQZVZFMUxIekJQdE9zYlExYmRwSElzV3dqa1U3RjhfRmFjRnNw?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-19T12:28:18.966080-07:00",
+    "status": "active"
   }
 }
