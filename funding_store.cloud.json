@@ -60558,5 +60558,50 @@
     ],
     "first_seen": "2026-09-18T23:12:53.986069-07:00",
     "status": "active"
+  },
+  "014dec1a82b30479b5969fc631d7cde2": {
+    "id": "014dec1a82b30479b5969fc631d7cde2",
+    "company": "Vals",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Andreessen Horowitz",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGJ4Rm1xU3l0ZmZpa1BiN21DekVIQWlBaHVLbG9vX2JPRENVRHduNHVNSFpLb0VTR1ZkUkJMdVlmZlFxUWpVM3c1MTFkSDBSWTFWMHE0a1U3dFBGb3plU0QtREZmXzVtUGV3MVVxYXgzLXlJWHpBN2dqNy01R2VONWFQV3dFQ1ZrRm5nTVZXZmN6OG53bUF2d2VFd0lVcDlTaHIwT2Vra0dyNV9xaFJtczBEeDBkNi12TXRKNGVHRVJKRUY3SDhv?oc=5",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-19T07:13:02.887232-07:00",
+    "status": "active"
+  },
+  "3e3690a7d39b5af8f77b8da226484cf4": {
+    "id": "3e3690a7d39b5af8f77b8da226484cf4",
+    "company": "Vals",
+    "amount": "$40.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ2k4NTZ2WDE1akVNTWI0Y2hLNDNYWFQ5N1drXzE4M2tfMkVPZVRUdTZ5OUlMbm1RVF9md09adG5YOXZ5YXNRUGFfRUJRLVZSaW9oXzV2WnhEUnFJTVo2MlBPUzZ2QmdQYzBFTTAyQU5NOGxZbEI4MXEzclJMLXFPRkRyY0ZCS3FmRXFZQXRMQ3pPMFNZMGJR?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-19T07:13:05.718964-07:00",
+    "status": "active"
+  },
+  "094b8e1811f5773fc43d0bbc52572f17": {
+    "id": "094b8e1811f5773fc43d0bbc52572f17",
+    "company": "Mazama",
+    "amount": "$135.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTmMyTnVIVkpTQmpDd0RpcHJRMFQxVWFieGdWN3FrY3l6OHBKSlhTYm1EekUtaXlWMkx4NGx5WlRoMG5wUFMtU2V6TDdfN09WZXVLZktNdm9qUzhIQW1DWjNRdGJTcG00Um84QXVOUDkzRjlrOVR3YjlJOUF3R3Z1b1ViQzNDZw?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-19T07:13:08.745141-07:00",
+    "status": "active"
   }
 }
