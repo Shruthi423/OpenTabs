@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "item": {
+      "company": "Arbitrator",
+      "amount": "$40.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/19/arbitrator-uber-vicariously-liable-driver-negligence-fatal-accident/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-19T17:03:51.460670-07:00"
+  }
+]

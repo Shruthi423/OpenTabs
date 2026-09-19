@@ -1,5 +1,20 @@
 [
   {
+    "id": "5f3df5adcfaafe58eb2ca7be3c2678ad",
+    "company": "Arbitrator",
+    "amount": "$40.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/19/arbitrator-uber-vicariously-liable-driver-negligence-fatal-accident/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-19T16:33:52.460803-07:00",
+    "status": "active"
+  },
+  {
     "id": "f1550b7334fe6c87c8de32f35254fda0",
     "company": "Down Round",
     "amount": "Undisclosed",
@@ -11671,21 +11686,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-19T18:51:08.901337-07:00",
-    "status": "active"
-  },
-  {
-    "id": "f35f348f03ee2aa09c44183b829a5362",
-    "company": "Yantra Packs",
-    "amount": "Undisclosed",
-    "stage": "Seed",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzVEdjNkcVhBOWFVRWZfZ01FTmtyZGFUandLWlE4TDlHYnBLdUhJMFM2MEJMaTNQbTBJcXp6U21iMDh4MDdiUk44QW9qVlFxZDZmeUphRVlYWkFNejEyVU90eGNSdUVmdFNrSlVfSEZmbDBYMjNqR09LWmlzVE5qVWtHRldLdEZ5Njd0Z1dMNEEwanhPSTM2Q2FZNUdlWDR1QXRnWtIBpAFBVV95cUxNZzVEdjNkcVhBOWFVRWZfZ01FTmtyZGFUandLWlE4TDlHYnBLdUhJMFM2MEJMaTNQbTBJcXp6U21iMDh4MDdiUk44QW9qVlFxZDZmeUphRVlYWkFNejEyVU90eGNSdUVmdFNrSlVfSEZmbDBYMjNqR09LWmlzVE5qVWtHRldLdEZ5Njd0Z1dMNEEwanhPSTM2Q2FZNUdlWDR1QXRnWg?oc=5",
-    "priority": 9,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-19T14:50:20.991255-07:00",
     "status": "active"
   }
 ]

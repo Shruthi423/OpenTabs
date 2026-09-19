@@ -60663,5 +60663,20 @@
     "roles": [],
     "first_seen": "2026-09-19T12:28:18.966080-07:00",
     "status": "active"
+  },
+  "5f3df5adcfaafe58eb2ca7be3c2678ad": {
+    "id": "5f3df5adcfaafe58eb2ca7be3c2678ad",
+    "company": "Arbitrator",
+    "amount": "$40.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/19/arbitrator-uber-vicariously-liable-driver-negligence-fatal-accident/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-19T16:33:52.460803-07:00",
+    "status": "active"
   }
 }
