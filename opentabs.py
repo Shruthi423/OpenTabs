@@ -12,6 +12,7 @@
 import json, os, time, hashlib, logging, schedule, requests, re, html, subprocess, math
 import feedparser
 from datetime import datetime, timedelta
+from urllib.parse import urlparse
 from zoneinfo import ZoneInfo
 from dotenv import load_dotenv
 
@@ -691,32 +692,43 @@ RSS_FEEDS = [
 # ─────────────────────────────────────────────────────────────────
 #  🌉  SF / BAY AREA + STARTUP SOURCES (custom scrapers)
 # ─────────────────────────────────────────────────────────────────
-# ── US-only location filter with priority tiers ──
+# ── USA + UK location filter with priority tiers ──
 #   1 = San Francisco · 2 = Bay Area · 3 = Seattle/LA/NY/Philly ·
-#   4 = other US · 5 = US-remote · None = explicit foreign (excluded)
-NON_US = [
-    "india", "bengaluru", "bangalore", "mumbai", "delhi", "hyderabad", "pune",
-    "chennai", "gurgaon", "noida", "kolkata", "ahmedabad",
-    "dubai", "abu dhabi", "uae", "united arab emirates", "qatar", "doha",
-    "saudi", "riyadh", "bahrain", "kuwait", "oman",
-    "united kingdom", "england", "scotland", " uk", "u.k", "london", "manchester",
-    "canada", "toronto", "vancouver", "montreal", "ottawa", "ontario", "calgary",
-    "germany", "berlin", "munich", "hamburg", "france", "paris", "lyon",
-    "netherlands", "amsterdam", "spain", "madrid", "barcelona", "portugal", "lisbon",
-    "ireland", "dublin", "poland", "warsaw", "krakow", "romania", "bucharest", "ukraine",
-    "italy", "rome", "milan", "sweden", "stockholm", "denmark", "copenhagen",
-    "norway", "oslo", "finland", "helsinki", "switzerland", "zurich", "geneva",
-    "austria", "vienna", "belgium", "brussels", "czech", "prague", "hungary", "budapest",
-    "greece", "athens", "singapore", "australia", "sydney", "melbourne", "brisbane",
-    "new zealand", "auckland", "brazil", "sao paulo", "mexico", "argentina",
-    "colombia", "bogota", "chile", "peru", "japan", "tokyo", "china", "beijing",
-    "shanghai", "hong kong", "taiwan", "south korea", "seoul",
-    "pakistan", "nepal", "bangladesh", "sri lanka", "nigeria", "lagos", "kenya",
-    "nairobi", "egypt", "cairo", "morocco", "tunisia", "ghana", "uzbekistan",
-    "south africa", "philippines", "manila", "indonesia", "jakarta", "vietnam",
-    "hanoi", "thailand", "bangkok", "malaysia", "kuala lumpur", "turkey", "türkiye",
-    "istanbul", "israel", "tel aviv", "worldwide", "emea", "apac", "latam",
+#   4 = other US or UK · 5 = remote · None = any other country (excluded)
+# Foreign COUNTRIES/regions always exclude. Foreign CITIES only exclude when
+# there is no US signal, so "Paris, TX" / "Vienna, VA" / "Athens, GA" stay.
+# Everything matches on word boundaries: a bare substring made "india" drop
+# Indianapolis and "mexico" drop New Mexico.
+_NON_US_COUNTRIES = [
+    "india", "uae", "united arab emirates", "qatar", "saudi", "bahrain", "kuwait", "oman",
+    "canada", "germany", "france", "netherlands", "spain", "portugal", "ireland",
+    "poland", "romania", "ukraine", "italy", "sweden", "denmark", "norway", "finland",
+    "switzerland", "austria", "belgium", "czech", "czechia", "hungary", "greece",
+    "singapore", "australia", "new zealand", "brazil", "(?<!new )mexico", "argentina",
+    "colombia", "chile", "peru", "japan", "china", "hong kong", "taiwan", "south korea",
+    "pakistan", "nepal", "bangladesh", "sri lanka", "nigeria", "kenya", "egypt",
+    "morocco", "tunisia", "ghana", "uzbekistan", "south africa", "philippines",
+    "indonesia", "vietnam", "thailand", "malaysia", "turkey", "türkiye", "israel",
+    "europe", "european", "eu", "emea", "apac", "latam", "worldwide", "asia",
 ]
+_NON_US_CITIES = [
+    "bengaluru", "bangalore", "mumbai", "delhi", "hyderabad", "pune", "chennai",
+    "gurgaon", "noida", "kolkata", "ahmedabad", "dubai", "abu dhabi", "doha", "riyadh",
+    "toronto", "vancouver", "montreal", "ottawa", "ontario", "calgary",
+    "berlin", "munich", "hamburg", "paris", "lyon", "amsterdam", "madrid", "barcelona",
+    "lisbon", "dublin", "warsaw", "krakow", "bucharest", "rome", "milan", "stockholm",
+    "copenhagen", "oslo", "helsinki", "zurich", "geneva", "vienna", "brussels", "prague",
+    "budapest", "athens", "sydney", "melbourne", "brisbane", "auckland", "sao paulo",
+    "bogota", "tokyo", "beijing", "shanghai", "seoul", "lagos", "nairobi", "cairo",
+    "manila", "jakarta", "hanoi", "bangkok", "kuala lumpur", "istanbul", "tel aviv",
+]
+_UK = ["united kingdom", "great britain", "england", "scotland",
+       "uk", "u.k.", "u.k", "london", "manchester", "edinburgh", "glasgow", "birmingham",
+       "bristol", "leeds", "cambridge, uk"]
+def _alt(words):
+    return re.compile(r"(?<![a-z])(?:" + "|".join(
+        w if w.startswith("(?") else re.escape(w) for w in words) + r")(?![a-z])", re.I)
+_RE_COUNTRY, _RE_CITY, _RE_UK = _alt(_NON_US_COUNTRIES), _alt(_NON_US_CITIES), _alt(_UK)
 _P2_BAY = ["bay area", "oakland", "palo alto", "mountain view", "san jose",
            "sunnyvale", "berkeley", "menlo park", "redwood city", "santa clara",
            "south san francisco", "cupertino", "fremont", "emeryville", "san mateo"]
@@ -725,24 +737,39 @@ _P3_CITIES = ["seattle", "los angeles", "l.a.", "new york", "nyc", "manhattan",
 _US_STATE_RE = re.compile(
     r',\s*(a[klzr]|c[aot]|d[ce]|fl|ga|hi|i[adln]|k[sy]|la|m[adeinost]|n[cdehjmvy]|'
     r'o[hkr]|pa|ri|s[cd]|t[nx]|ut|v[at]|w[aivy])\b', re.I)
+_US_WORD_RE = re.compile(r"\b(united states|usa|u\.s\.a?\.?|us)\b", re.I)
 
-def location_rank(location: str):
+def location_rank(location: str, title: str = "", url: str = ""):
+    """Tier for a USA or UK location; None for any other country.
+    title/url are read only for locations that name no country ("Remote"),
+    because global boards label "Remote (Germany)" roles as just "Remote"."""
     t = (location or "").lower()
-    if any(tok in t for tok in NON_US):
+    us_signal = bool(_US_WORD_RE.search(t) or _US_STATE_RE.search(t))
+    uk = bool(_RE_UK.search(t)) and not _RE_COUNTRY.search(t) and not _RE_CITY.search(t)
+    if _RE_COUNTRY.search(t) and not us_signal:
         return None
+    if _RE_CITY.search(t) and not (us_signal or uk):
+        return None
+    if uk:
+        return 4
     if "san francisco" in t:
         return 1
     if any(k in t for k in _P2_BAY):
         return 2
     if any(k in t for k in _P3_CITIES):
         return 3
-    if "united states" in t or "usa" in t or re.search(r'\bu\.?s\.?a?\b', t) or _US_STATE_RE.search(t):
+    if us_signal:
         return 4
     if "remote" in t:
+        text = (title or "") + " " + urlparse(url or "").path.replace("/", " ")
+        if (_RE_COUNTRY.search(text) or _RE_CITY.search(text)) \
+                and not (_US_WORD_RE.search(text) or _RE_UK.search(text)):
+            return None
         return 5
     return None
 
 def is_us(location: str) -> bool:
+    """Kept under its old name: True for a USA or UK location."""
     return location_rank(location) is not None
 
 # ── Y Combinator (workatastartup.com) — real YC startups, structured JSON ──
@@ -2196,7 +2223,7 @@ def run_check():
     # Clean the existing board: drop non-US / too-senior jobs and (re)tag priority
     for _jid in list(store.keys()):
         _rec  = store[_jid]
-        _rank = location_rank(_rec.get("location", ""))
+        _rank = location_rank(_rec.get("location", ""), _rec.get("title", ""), _rec.get("url", ""))
         if _rank is None or not classify(_rec.get("title", ""), _rec.get("company", "")).get("relevant"):
             del store[_jid]
         else:
@@ -2257,9 +2284,9 @@ def run_check():
         job.update(flags)
         if not job.get("visa"):
             job["visa"] = extract_visa(job.get("description", ""))   # best-effort
-        rank = location_rank(job.get("location", ""))
+        rank = location_rank(job.get("location", ""), job.get("title", ""), job.get("url", ""))
         if rank is None:
-            continue  # not in the USA — skip
+            continue  # not in the USA or UK — skip
         jid = job_id(job["title"], job.get("company",""), job.get("location",""))
         if jid in seen:
             continue

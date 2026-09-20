@@ -187,12 +187,33 @@ a.role:hover { border-bottom-color: var(--spec); }
 .col-head .hint { color: var(--mut); font-size: 11px; }
 .col-head .showing { color: var(--co); font-size: 11px; }
 .col-head .clear-all { margin-left: auto; }
-.job { display: block; padding: 16px 18px; border-bottom: 1px solid var(--line); }
+.job { display: block; padding: 16px 18px 16px 46px; border-bottom: 1px solid var(--line); }
+/* Fixed height, centred: a 17px LinkedIn icon used to make some top rows
+   taller than others, so company names (and the checkbox beside them) sat at
+   a different height from card to card. */
 .job-top {
-  display: flex; align-items: baseline; gap: 8px;
+  display: flex; align-items: center; gap: 8px; height: 24px;
   color: var(--mut); font-size: 11px; margin-bottom: 9px;
 }
 .job-top .idx { color: var(--mut); }
+/* The checkbox lives alone in the left gutter, centred on the 24px top row
+   (16px card padding + (24 - 15) / 2). Every line of text starts at the same
+   left edge beside it. */
+.job-check {
+  position: absolute; left: 18px; top: 20px; width: 15px; height: 15px; margin: 0; cursor: pointer;
+  /* outline only: no fill, the tick is drawn by hand */
+  -webkit-appearance: none; appearance: none; background: transparent;
+  border: 1.5px solid var(--mut); border-radius: 3px;
+  transition: border-color .15s ease;
+}
+.job-check:hover { border-color: var(--fg); }
+.job-check:checked { border-color: var(--co); }
+.job-check:checked::after {
+  content: ""; position: absolute; left: 4px; top: 0px; width: 4px; height: 8px;
+  border: solid var(--co); border-width: 0 1.5px 1.5px 0; transform: rotate(45deg);
+}
+.job-check:focus-visible { outline: 1px solid var(--co); outline-offset: 2px; }
+.job { position: relative; }
 .job-top .co { color: var(--fg); }
 .job-top .src { margin-left: auto; display: inline-flex; align-items: center; gap: 4px; }
 /* Almost every icon on the card became a word. The two that survive mark
@@ -902,16 +923,21 @@ a.cog-co:hover { text-decoration: underline; }
    parts, so the columns line up rank for rank. Anything that cannot fit
    is truncated on its own line — never allowed to spill past the card
    edge or push the action row out. */
-:root { --row-h: calc(var(--spec-size) * 2.2 + 62px); }   /* a floor, not a fixed height */
+:root { --row-h: calc(var(--spec-size) * 2.2 + 62px); --card-h: 220px; }   /* a floor, not a fixed height */
 
 /* Cards size to their content now. The fixed row height existed so pill
    footers lined up across columns, but with a verb line pinned to the
    bottom it guaranteed a dead gap on every short card — and the columns
    scroll independently, so that alignment was never actually read. */
+/* Every card is the same height so rows line up across Today, Previous and
+   Just Raised. Sized for the tallest card (two-line title + badge row); the
+   verb line is pinned to the bottom so it lines up too. */
 .col .job {
-  min-height: var(--row-h);
+  height: var(--card-h);
+  overflow: hidden;
   display: flex; flex-direction: column;
 }
+.col .job > .verbs { margin-top: auto; padding-top: 12px; }
 .col .job > .job-top, .col .job > .job-meta, .col .job > .roles { flex: none; }
 
 /* top line: index · company (truncates) · source (never shrinks) */
@@ -952,3 +978,34 @@ a.cog-co:hover { text-decoration: underline; }
    the last column keeps a lane clear for them instead of letting them sit
    on top of a card's source label. */
 .col:last-child .job { padding-right: 46px; }
+
+/* A ticked card: text struck through and the whole card dimmed. */
+.job { transition: opacity .25s ease; }
+.job.is-done { opacity: .45; }
+.job.is-done .job-top, .job.is-done .job-title, .job.is-done .job-meta { text-decoration: line-through; }
+
+/* ── List view ─────────────────────────────────────────────────────
+   Same cards and data as the board, one column at a time: a tab row picks
+   the column, and it sits centred with room either side. The tab row only
+   exists in this view. */
+.view-tabs { display: none; }
+html[data-view="list"] .view-tabs {
+  display: flex; justify-content: center; gap: 6px; height: 46px; align-items: center;
+  position: sticky; top: 57px; z-index: 16; background: var(--bg);
+  border-bottom: 1px solid var(--line);
+}
+.view-tabs button {
+  display: inline-flex; align-items: baseline; gap: 8px; cursor: pointer;
+  background: none; border: 0; border-bottom: 2px solid transparent; padding: 10px 14px 8px;
+  font: inherit; font-size: 12px; text-transform: uppercase; letter-spacing: .07em; font-weight: 700;
+  color: var(--mut);
+}
+.view-tabs button em { font-style: normal; font-weight: 400; }
+.view-tabs button:hover { color: var(--fg); }
+.view-tabs button.is-on { color: var(--fg); border-bottom-color: var(--co); }
+html[data-view="list"] .board { display: block; max-width: 760px; margin: 0 auto; }
+html[data-view="list"] .col { display: none; border-left: 0; }
+html[data-view="list"] .col.is-active { display: block; border-left: 1px solid var(--line); border-right: 1px solid var(--line); }
+html[data-view="list"] .col-head { top: 103px; }
+html[data-view="list"][data-mode="cognition"] .view-tabs { display: none; }
+@media (max-width: 1024px) { html[data-view="list"] .col-head { position: sticky; } }

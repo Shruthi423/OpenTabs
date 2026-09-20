@@ -1,6 +1,6 @@
 /* ════════════════════════════════════════════════════════════════
    OpenTabs — front-end logic (three-column board)
-   Columns: Today (≤24h) · Previous (older) · Just Raised (funding).
+   Columns: Last 24h · Older than 24h · Just Raised (funding).
    Applied and Trash are right-hand panels that collapse and open.
    Filing a job is always the same gesture: the Applied button on the
    card. Sort / card size / theme live in the permanent left rail.
@@ -15,13 +15,15 @@ const state = {
   q: "", source: [], loc: [], date: "",              // source/loc = multi
   mode: localStorage.getItem("mode") || "board",    // board | cognition
   cog: localStorage.getItem("cogCol") || "today",   // which column cognition mode works
+  view: localStorage.getItem("view") === "list" ? "list" : "board",   // board (3 columns) | list (one)
+  tab: localStorage.getItem("tab") || "today",       // which column the list view shows
   cogI: 0,                                          // cursor into that column's deck
   rank: JSON.parse(localStorage.getItem("rank") || '{"today":false,"prev":false,"raised":false}'),
   theme: localStorage.getItem("theme") || "dark",
   drawer: null,                                     // null | "app" | "trash"
 };
 /* Labels for the confirm dialog and the empty states. */
-const LABELS = { today: "Today", prev: "Previous", raised: "Just Raised", app: "Applied", trash: "Trash" };
+const LABELS = { today: "Last 24h", prev: "Older than 24h", raised: "Just Raised", app: "Applied", trash: "Trash" };
 /* Rail modes. "board" is this three-column triage surface; "brain" is
    cognition mode — the icon is in the rail but the mode does not exist
    yet, so it is listed here and deliberately not switchable. */
@@ -152,6 +154,7 @@ function locGroup(j) {
   const t = (j.location || "").toLowerCase(), p = j.priority || 9;
   if (p === 1 || p === 2) return "sfbay";
   if (/new york|nyc|manhattan|brooklyn/.test(t)) return "ny";
+  if (/united kingdom|england|scotland|\buk\b|u\.k\.|london|manchester|edinburgh|glasgow|birmingham|bristol|leeds/.test(t)) return "uk";
   if (p === 5 || /remote/.test(t)) return "remote";
   return "us";
 }
@@ -779,13 +782,13 @@ function jobHTML(j, n, mode) {
     ? verb("restore", { label: "put it back" })
     : [ verb("resume", RESUME_VERB[RESUMES[j.id]] || RESUME_VERB.undefined),
         verb("reach", outreachVerb(j)),
-        mode === "app"
-          ? verb("unapply", { label: "not applied after all", quiet: true, hint: "Move back to the board" })
-          : verb("apply", { label: "mark applied", hint: "File this to Applied" }),
       ].filter(Boolean).join('<span class="vsep">·</span>')
       + `<span class="verbs-tail">${verb("delete", { label: "not for me", quiet: true, hint: "Move to Trash" })}</span>`;
 
-  return `<div class="job" data-id="${esc(j.id)}"${j._ids ? ` data-ids="${esc(j._ids.join(" "))}"` : ""} data-url="${esc(j.url || "#")}" data-title="${esc(j.title)}" data-flip-id="${esc(j.id)}" style="--age:${decayOf(j).toFixed(3)}">
+  const hasCheck = mode !== "trash";
+  const pending = mode !== "app" && APPLY_T[j.id];
+  return `<div class="job${pending ? " is-done" : ""}" data-id="${esc(j.id)}"${j._ids ? ` data-ids="${esc(j._ids.join(" "))}"` : ""} data-url="${esc(j.url || "#")}" data-title="${esc(j.title)}" data-flip-id="${esc(j.id)}" style="--age:${decayOf(j).toFixed(3)}">
+      ${hasCheck ? `<input type="checkbox" class="job-check" data-act="${mode === "app" ? "unapply" : "apply"}"${mode === "app" || pending ? " checked" : ""} title="${mode === "app" ? "Applied — uncheck to move back to the board" : "Check when you've applied"}" aria-label="Applied">` : ""}
       <div class="job-top">
         <span class="idx">${idx}</span>
         ${co}
@@ -854,6 +857,7 @@ function raiseHTML(f, n) {
 const LIMITS = { today: PAGE, prev: PAGE, raised: PAGE, app: PAGE, trash: PAGE };
 const LISTS  = { today: [], prev: [], raised: [], app: [], trash: [] };
 let MORE_IO = null;
+const APPLY_T = {};   // jobId -> timer: a ticked card shows struck-through for a moment before it is filed
 
 /* "Applied" as one long pile answers "did I apply?" but never "what did I
    send this week?" — so it breaks on the day you applied. Undated marks
@@ -983,8 +987,8 @@ function render(animate, reset) {
   LISTS.raised = visibleRaises();
   LISTS.app    = groups.app;
 
-  // Ranking is per column, so Previous can sort by fit (where "newest" of
-  // 1600 old jobs means little) while Today stays chronological.
+  // Ranking is per column, so Older than 24h can sort by fit (where "newest" of
+  // 1600 old jobs means little) while Last 24h stays chronological.
   ["today", "prev"].forEach((k) => {
     if (!rankOn(k)) { LISTS[k].forEach((j) => delete j._why); return; }
     LISTS[k].forEach((j) => { const r = scoreJob(j); j._score = r.n; j._why = r.why; });
@@ -1047,7 +1051,7 @@ function setCount(k, shown, total) {
    left arrow can never show you what you just did. Every action therefore
    carries its own Undo, and progress counts down instead of claiming a
    total that keeps moving. ─────────────────────────────────────────── */
-const COG_LABEL = { today: "Today", prev: "Previous", raised: "Just Raised" };
+const COG_LABEL = { today: "Last 24h", prev: "Older than 24h", raised: "Just Raised" };
 let cogDir = 1;                       // last direction travelled, for the slide
 
 function cogDeck() { return LISTS[state.cog] || []; }
@@ -1332,8 +1336,21 @@ function applyChrome() {
   if (!COG_COLS.includes(state.cog)) state.cog = "today";
   document.documentElement.setAttribute("data-theme", state.theme);
   document.documentElement.setAttribute("data-mode", state.mode);
+  if (!COG_COLS.includes(state.tab)) state.tab = "today";
+  document.documentElement.setAttribute("data-view", state.view);
+  $$('[data-view]').forEach((b) => {
+    if (b === document.documentElement) return;
+    b.classList.toggle("is-on", state.view === "list");
+    b.setAttribute("aria-pressed", state.view === "list" ? "true" : "false");
+  });
+  $$('.col[data-col]').forEach((c) => c.classList.toggle("is-active", c.dataset.col === state.tab));
+  $$('[data-tab]').forEach((b) => {
+    const on = b.dataset.tab === state.tab;
+    b.classList.toggle("is-on", on);
+    b.setAttribute("aria-pressed", on ? "true" : "false");
+  });
   $$('[data-mode]').forEach((b) => {
-    const on = b.dataset.mode === state.mode;
+    const on = b.dataset.mode === state.mode && !(state.mode === "board" && state.view === "list");
     b.classList.toggle("is-on", on);
     b.setAttribute("aria-pressed", on ? "true" : "false");
   });
@@ -1376,17 +1393,30 @@ function bind() {
 
   // Mode switch. Modes that aren't built yet stay inert — clicking one
   // says so rather than half-switching into a surface that isn't there.
-  $$('[data-mode]').forEach((b) => {
+  $$('button[data-mode], button[data-view]').forEach((b) => {
     ["pointerenter", "focus"].forEach((ev) =>
       b.addEventListener(ev, () => { if (!tipHold) showTip(b); }));
     ["pointerleave", "blur"].forEach((ev) => b.addEventListener(ev, hideTip));
   });
-  $$('[data-mode]').forEach((b) => b.addEventListener("click", (e) => {
+  // buttons only: <html> also carries data-mode, and its listener fired on every click
+  $$('button[data-mode]').forEach((b) => b.addEventListener("click", (e) => {
     const m = b.dataset.mode;
     // The brain is a doorway, not a switch: it asks which pile to work.
     if (m === "cognition") { e.stopPropagation(); togglePicker(b); return; }
-    if (m === "board") exitCog();
+    if (m === "board") { exitCog(); if (state.view === "list") setView("board"); }
   }));
+
+  // List view: one column at a time, chosen from the tab row or with 1 / 2 / 3.
+  const setView = (v) => { state.view = v; localStorage.setItem("view", v); applyChrome(); watchMore(); };
+  const setTab = (t) => { state.tab = t; localStorage.setItem("tab", t); applyChrome(); watchMore(); window.scrollTo({ top: 0 }); };
+  $('button[data-view="list"]').addEventListener("click", () => setView(state.view === "list" ? "board" : "list"));
+  $$('[data-tab]').forEach((b) => b.addEventListener("click", () => setTab(b.dataset.tab)));
+  document.addEventListener("keydown", (e) => {
+    if (state.view !== "list" || state.mode !== "board") return;
+    if (e.metaKey || e.ctrlKey || e.altKey || e.target.closest?.("input, textarea, select")) return;
+    const t = { "1": "today", "2": "prev", "3": "raised" }[e.key];
+    if (t) setTab(t);
+  });
 
   // picker + per-column shortcuts
   $$('[data-rank]').forEach((b) => b.addEventListener("click", () => {
@@ -1512,7 +1542,16 @@ function bind() {
       if (job) stepOutreach(job, e.target.closest('[data-act="reach"]'));
       return;
     }
-    if (e.target.closest('[data-act="apply"]'))   { setApplied(ids, true);  render(false); return; }
+    if (e.target.closest('[data-act="apply"]')) {
+      // Tick: strike through and dim the card, then file it a moment later so
+      // the change is seen. Unticking in that window cancels it.
+      clearTimeout(APPLY_T[id]); delete APPLY_T[id];
+      if (e.target.checked) {
+        card.classList.add("is-done");
+        APPLY_T[id] = setTimeout(() => { delete APPLY_T[id]; setApplied(ids, true); render(false); }, 900);
+      } else card.classList.remove("is-done");
+      return;
+    }
     if (e.target.closest('[data-act="unapply"]')) { setApplied(ids, false); render(false); return; }
     if (e.target.closest('[data-act="restore"]')) {
       pushUndo({ type: "restore", ids }); ids.forEach((x) => TRASH.delete(x)); saveTrash(); render(true); return;
