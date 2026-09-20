@@ -60753,5 +60753,20 @@
     "roles": [],
     "first_seen": "2026-09-20T09:22:25.265471-07:00",
     "status": "active"
+  },
+  "d5dc7c96fbde9f5207777b43dd8c86e1": {
+    "id": "d5dc7c96fbde9f5207777b43dd8c86e1",
+    "company": "Spending",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/20/us-economy-milestone-spending-data-centers-ai-boom-housing-residential-investment/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-20T11:57:49.823269-07:00",
+    "status": "active"
   }
 }

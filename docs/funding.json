@@ -1,5 +1,20 @@
 [
   {
+    "id": "d5dc7c96fbde9f5207777b43dd8c86e1",
+    "company": "Spending",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/09/20/us-economy-milestone-spending-data-centers-ai-boom-housing-residential-investment/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-20T11:57:49.823269-07:00",
+    "status": "active"
+  },
+  {
     "id": "a58f6d18b8e406d7821568e744782983",
     "company": "From Flam",
     "amount": "Undisclosed",
@@ -11275,51 +11290,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-20T11:59:05.998450-07:00",
-    "status": "active"
-  },
-  {
-    "id": "dc7796b49f336e4fdbbc83bf969b3e81",
-    "company": "Battlefield 200",
-    "amount": "Undisclosed",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-20T10:02:05.357706-07:00",
-    "status": "active"
-  },
-  {
-    "id": "6875ce330d3e9b3e71c3812c1f574c6e",
-    "company": "Muon Space",
-    "amount": "$250.0M",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "TechStartups",
-    "url": "https://techstartups.com/2026/08/20/satellite-startup-muon-space-raises-250-million-at-1-5-billion-valuation-to-scale-space-infrastructure/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-20T09:27:56.081027-07:00",
-    "status": "active"
-  },
-  {
-    "id": "89e26c03f8d898399e21f50509feb978",
-    "company": "There",
-    "amount": "Undisclosed",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/20/there-are-less-than-48-hours-to-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket/",
-    "priority": 3,
-    "founders": [],
-    "location": "San Francisco",
-    "roles": [],
-    "first_seen": "2026-08-20T09:27:52.845119-07:00",
     "status": "active"
   }
 ]
