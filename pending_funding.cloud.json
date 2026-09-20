@@ -1,16 +1,30 @@
 [
   {
     "item": {
-      "company": "Aeon",
-      "amount": "$1.0M",
-      "stage": "Pre-Seed",
+      "company": "Disha",
+      "amount": "$5.96M",
+      "stage": "Series A",
+      "investors": "General Catalyst",
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4bXZ4UDhkcXpaZVM0bVh2bThWRVkyZ1l4RjVBR1RDTEVpSVkwOG5IQ1ljTWlPNThYZXp2ZTNDZkluUHBPWGRMbFd6YkFKUEVyLWxYT1dYNW52dDh6cjZzd0JrVlkzbzl6VEt30gFrQVVfeXFMUDhtdnhQOGRxelplUzRtWHZtOFZFWTJnWXhGNUFHVENMRWlJWTA4bkhDWWNNaU81OFhlenZlM0NmSW5QcE9YZExsV3piQUpQRXItbFhPV1g1bnZ0OHpyNnN3QmtWWTNvOXpUS3c?oc=5",
+      "priority": 11
+    },
+    "remind_at": "2026-09-20T05:51:11.041113-07:00"
+  },
+  {
+    "item": {
+      "company": "France's AbTx",
+      "amount": null,
+      "stage": "Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT1VyX2JKbUhIUmMxV3NUWWlkbm85YXBlUGstMG96cFV4akdrMU5UY1RBWUJmOEo4RTFqZ3JvejVTS3NuSE84QjlSLU1SZzcybHNEYXp5RS1TeXZaby02NlEzWjRCTlB2WVlBVW00SEc1Uzd3bzA0WmV2cFdfSVFYMDhlTGlZZUZmNHo5ZE9EYzVjX2xrWGlLUU51UQ?oc=5",
-      "priority": 10
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3BoREkyZm9JQ3Z4d2dWdG44Rk9TUEkyRnpkMi1iX3o5UjBocWJoenJNdGNjLVBPUFJ5azBIN3h0bmRDaTFmNW9kYTVoYTUzMTNDWVZqbUMyblpZZUZ2bjBvVGh5cTdmYnd6S0xWcVd3Y1djNS11anNzU1FaUVhJWHFPZ1F5VkMzU1FrRm56TzhoTjdwd18tbUx6WngySmdS?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-09-20T00:32:27.443062-07:00"
+    "remind_at": "2026-09-20T05:51:16.549882-07:00"
   }
 ]

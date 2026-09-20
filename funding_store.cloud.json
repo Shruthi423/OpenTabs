@@ -60708,5 +60708,35 @@
     "roles": [],
     "first_seen": "2026-09-20T00:02:28.443159-07:00",
     "status": "active"
+  },
+  "3f862abe10ef871ce669324d1e5e5579": {
+    "id": "3f862abe10ef871ce669324d1e5e5579",
+    "company": "Disha",
+    "amount": "$5.96M",
+    "stage": "Series A",
+    "investors": "General Catalyst",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4bXZ4UDhkcXpaZVM0bVh2bThWRVkyZ1l4RjVBR1RDTEVpSVkwOG5IQ1ljTWlPNThYZXp2ZTNDZkluUHBPWGRMbFd6YkFKUEVyLWxYT1dYNW52dDh6cjZzd0JrVlkzbzl6VEt30gFrQVVfeXFMUDhtdnhQOGRxelplUzRtWHZtOFZFWTJnWXhGNUFHVENMRWlJWTA4bkhDWWNNaU81OFhlenZlM0NmSW5QcE9YZExsV3piQUpQRXItbFhPV1g1bnZ0OHpyNnN3QmtWWTNvOXpUS3c?oc=5",
+    "priority": 11,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-20T05:21:12.041234-07:00",
+    "status": "active"
+  },
+  "e7a261d0c78798ef2fa93370977ffa32": {
+    "id": "e7a261d0c78798ef2fa93370977ffa32",
+    "company": "France's AbTx",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3BoREkyZm9JQ3Z4d2dWdG44Rk9TUEkyRnpkMi1iX3o5UjBocWJoenJNdGNjLVBPUFJ5azBIN3h0bmRDaTFmNW9kYTVoYTUzMTNDWVZqbUMyblpZZUZ2bjBvVGh5cTdmYnd6S0xWcVd3Y1djNS11anNzU1FaUVhJWHFPZ1F5VkMzU1FrRm56TzhoTjdwd18tbUx6WngySmdS?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-20T05:21:17.550043-07:00",
+    "status": "active"
   }
 }
