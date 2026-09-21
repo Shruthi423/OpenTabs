@@ -1352,6 +1352,90 @@ def funding_is_relevant(title: str, description: str) -> bool:
         return False
     return True
 
+# ── US + tech only ──────────────────────────────────────────────
+#  funding_is_relevant() only asks "is this a raise?", so the column filled
+#  with European biotech, Indian D2C brands and UK retailers alongside the
+#  US software companies. A raise is now kept only when it is (a) not
+#  positively foreign and (b) positively about tech.
+#
+#  US: headlines rarely name a country, so "unknown" is allowed through —
+#  87% of raises have no readable location and requiring one empties the
+#  column. What is rejected is any evidence of a foreign base: "Paris-based",
+#  a foreign country/city, or a non-dollar currency, unless the text also
+#  names the US. Tech: needs an explicit tech term; a sector on the skip list
+#  always wins.
+_FUND_FOREIGN_COUNTRIES = [c for c in _NON_US_COUNTRIES if c not in ("worldwide", "eu", "europe", "european")]
+_FUND_DEMONYMS = ["indian", "british", "german", "french", "canadian", "chinese", "japanese",
+                  "korean", "israeli", "australian", "swedish", "dutch", "spanish", "italian",
+                  "brazilian", "nigerian", "singaporean", "irish", "swiss", "emirati"]
+_RE_F_COUNTRY = _alt(_FUND_FOREIGN_COUNTRIES + _FUND_DEMONYMS + ["europe", "european", "the eu"])
+_RE_F_CITY    = _alt(_NON_US_CITIES + _UK)
+_RE_F_MONEY   = re.compile(r"[€£₹¥]|(?i:\b(?:eur|gbp|inr|cad|aud|chf|sek|nok|dkk|jpy|cny|rmb)\s?\d)|\b(?:A|C|NZ|S|HK)\$\s?\d")
+_RE_US_TEXT   = re.compile(r"\b(?:united states|u\.s\.a?\.?|usa|american|america)\b", re.I)
+# A US city only counts as evidence of a US base when it is the extracted HQ or
+# the text also says so; the shared hub list below is the US half of _FUND_CITIES.
+_US_HUBS = _FUND_CITIES[:_FUND_CITIES.index("London")]
+_RE_US_HUB = re.compile(r"\b(?:" + "|".join(re.escape(c) for c in _US_HUBS) + r")\b", re.I)
+
+# Extra non-tech sectors, on top of FUNDING_SKIP_SECTORS. Word-boundary matches:
+# "diagnostic" must not hit "diagnostics platform for developers" by accident,
+# so only unambiguous consumer / physical / health-services terms are listed.
+_RE_NONTECH = re.compile(
+    r"\b(?:therapeutics?|oncology|biopharma|life sciences?|biosciences?|"
+    r"beverages?|coffee|snacks?|cannabis|hemp|oil and gas|"
+    r"apparel|fashion|footwear|cosmetics?|skincare|beauty brand|jewell?ery|furniture|"
+    r"supplements?|wellness brand|winery|brewery|distillery|sportswear|toys?)\b", re.I)
+_RE_TECH = re.compile(
+    r"\b(?:software|saas|paas|ai|a\.i\.|artificial intelligence|machine learning|ml|llms?|genai|"
+    r"generative|agentic|ai agents?|copilot|cloud|api|apis|developer|developers|devops|devtools|"
+    r"data (?:platform|infrastructure|analytics|warehouse)|analytics|cyber(?:security)?|infosec|"
+    r"fintech|healthtech|health tech|digital health|edtech|proptech|insurtech|legaltech|regtech|"
+    r"martech|hr tech|climate tech|cleantech software|app|apps|mobile app|platform|robotics?|"
+    r"autonomous|self-driving|semiconductors?|chips?|silicon(?! valley)|quantum|automation|"
+    r"marketplace|e-?commerce|open[- ]source|blockchain|crypto|web3|compute|gpus?|"
+    r"networking|identity|observability|database|workflow|no-code|low-code|tech(?:nology)? startup|"
+    r"vertical ai|foundation models?|drones?|satellites?|space tech|ar/vr|xr|3d)\b", re.I)
+
+def _hq_place(text: str):
+    """The place the headline says the company is based, if it says so."""
+    for rx in (_BASED_RE, _BASEDIN_RE):
+        m = rx.search(text or "")
+        if m:
+            return m.group(1).strip()
+    return None
+
+def raise_region(text: str) -> str:
+    """'us' | 'foreign' | 'unknown' from the headline/blurb alone."""
+    text = text or ""
+    hq = _hq_place(text)
+    if hq:
+        if _RE_F_COUNTRY.search(hq) or _RE_F_CITY.search(hq):
+            return "foreign"
+        if _RE_US_HUB.search(hq) or _RE_US_TEXT.search(hq):
+            return "us"
+    us = bool(_RE_US_TEXT.search(text) or _RE_US_HUB.search(text))
+    foreign = bool(_RE_F_COUNTRY.search(text) or _RE_F_CITY.search(text) or _RE_F_MONEY.search(text))
+    if foreign and not us:
+        return "foreign"
+    return "us" if us else "unknown"
+
+def is_tech_raise(text: str) -> bool:
+    low = (text or "").lower()
+    if any(sec in low for sec in FUNDING_SKIP_SECTORS) or _RE_NONTECH.search(text or ""):
+        return False
+    return bool(_RE_TECH.search(text or ""))
+
+def raise_is_us_tech(rec: dict) -> bool:
+    """Keep a raise only when nothing says it is foreign and something says it
+    is tech. Runs on the headline + blurb saved with the record; records saved
+    before that field existed have nothing to judge and are not published."""
+    blurb = (rec.get("blurb") or "").strip()
+    if not blurb:
+        return False
+    where = _raise_where(rec)
+    text = f"{blurb} {where}"
+    return raise_region(text) != "foreign" and is_tech_raise(blurb)
+
 # Narrow set = "this segment is the funding sentence" (for ':' splits).
 _FUNDVERB_RE = re.compile(
     r'\b(raises?|raised|secures?|secured|closes?|closed|lands?|nabs?|bags?|'
@@ -1457,6 +1541,7 @@ def scrape_funding_rss(name: str, url: str) -> list:
                 "stage":     f["stage"],
                 "investors": f["investors"],
                 "location":  f["location"],
+                "blurb":     f"{title}. {desc}"[:500],
                 "founders":  extract_founders(f"{title}. {desc}", company),
                 "source":    name,
                 "url":       link,
@@ -1806,7 +1891,10 @@ def publish_funding():
         published = [v for v in store.values()
                      if v.get("status") != "dismissed" and _fresh_enough(v)
                      and _is_company_like(v.get("company", ""))
+                     and raise_is_us_tech(v)
                      and (not PUBLISH_SF_RAISES_ONLY or _sf_or_unknown(v))]
+        # the blurb is only there to be judged; the site never shows it
+        published = [{k: x for k, x in v.items() if k != "blurb"} for v in published]
         published.sort(key=lambda f: f.get("first_seen", ""), reverse=True)
         os.makedirs(CONFIG["SITE_DIR"], exist_ok=True)
         save_json(CONFIG["FUNDING_WEB_FILE"], published)
@@ -1839,6 +1927,13 @@ def run_funding_check(job_seen: set, job_store: dict, job_pending: list,
             continue
         fid = funding_id(company, amount)
         if fid in f_seen:
+            # records stored before the headline was kept: fill it in while the
+            # feed still carries the item, so they can be judged and published
+            rec = f_store.get(fid)
+            if rec is not None and not rec.get("blurb") and item.get("blurb"):
+                rec["blurb"] = item["blurb"]
+            continue
+        if not raise_is_us_tech(item):            # foreign or non-tech: no alert, no card
             continue
         f_seen.add(fid)
         new_count += 1
@@ -1888,6 +1983,7 @@ def run_funding_check(job_seen: set, job_store: dict, job_pending: list,
             "stage": item.get("stage") or "?", "investors": item.get("investors") or "Undisclosed",
             "source": item.get("source", ""), "url": item.get("url", ""),
             "priority": item.get("priority", 0),
+            "blurb": item.get("blurb", ""),
             "founders": item.get("founders") or [],
             # company HQ from the headline, else fall back to the first role's location
             "location": item.get("location") or (roles[0].get("location") if roles else None),

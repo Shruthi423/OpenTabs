@@ -586,6 +586,9 @@ body { padding-left: var(--rail); }
   transition: color .15s, background .15s, border-color .15s;
 }
 .mode:hover { color: var(--fg); background: color-mix(in srgb, var(--fg) 9%, transparent); }
+#syncBtn[data-state="ok"] { color: #4caf7a; }
+#syncBtn[data-state="error"] { color: #e5675b; }
+#syncBtn[data-state="busy"] svg { opacity: .5; }
 .mode.is-on { color: var(--fg); border-color: var(--line); background: color-mix(in srgb, var(--fg) 9%, transparent); }
 /* Icon-only rail, so the name flies out on hover. It is one shared fixed
    element rather than a ::after on the button: the rail scrolls, and an

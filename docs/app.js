@@ -46,16 +46,39 @@ function loadResumes() { try { return JSON.parse(localStorage.getItem("resumes")
 function saveResumes() { localStorage.setItem("resumes", JSON.stringify(RESUMES)); }
 
 function loadMarks() { try { return JSON.parse(localStorage.getItem("marks") || "{}"); } catch { return {}; } }
-function saveMarks(m) { localStorage.setItem("marks", JSON.stringify(m)); }
+function saveMarks(m) { localStorage.setItem("marks", JSON.stringify(m)); changed(); }
 let MARKS = loadMarks();                           // { jobId: "done" }
 let RESUMES = loadResumes();                       // { jobId: "sent" | "done" }
-function isApplied(j) { return MARKS[j.id] === "done" || j.status === "applied"; }
+/* A posting is one listing to you even when the scraper stored it twice
+   (another city, another board, a re-post under a new id). Marking one copy
+   used to leave its siblings on the board as "the same listing again", so a
+   mark also covers everything sharing its company + title. */
+let APP_KEYS = new Set(), TRASH_KEYS = new Set();
+function isApplied(j) {
+  if (MARKS[j.id] === "done" || j.status === "applied") return true;
+  const k = dupeKey(j);
+  return !!k && APP_KEYS.has(k);
+}
+function isTrashed(j) {
+  if (TRASH.has(j.id)) return true;
+  const k = dupeKey(j);
+  return !!k && TRASH_KEYS.has(k);
+}
+function refreshKeys() {
+  APP_KEYS = new Set(); TRASH_KEYS = new Set();
+  allJobs().forEach((j) => {
+    const k = dupeKey(j);
+    if (!k) return;
+    if (MARKS[j.id] === "done") APP_KEYS.add(k);
+    if (TRASH.has(j.id)) TRASH_KEYS.add(k);
+  });
+}
 
 function loadSet(key) { try { return new Set(JSON.parse(localStorage.getItem(key) || "[]")); } catch { return new Set(); } }
 let TRASH = loadSet("trash");                      // Set<jobId>
-function saveTrash() { localStorage.setItem("trash", JSON.stringify([...TRASH])); }
+function saveTrash() { localStorage.setItem("trash", JSON.stringify([...TRASH])); changed(); }
 let DISMISSED = loadSet("raisedDismissed");        // Set<fundingId>
-function saveDismissed() { localStorage.setItem("raisedDismissed", JSON.stringify([...DISMISSED])); }
+function saveDismissed() { localStorage.setItem("raisedDismissed", JSON.stringify([...DISMISSED])); changed(); }
 
 /* Major VCs worth naming on the card. Matched against the investors text
    client-side so it also works on records already stored, which never had a
@@ -89,9 +112,10 @@ function undoLast() {
   if (e.type === "mark") {
     e.ids.forEach((id, i) => {
       const prev = e.prev[i];
-      if (prev === undefined) delete MARKS[id]; else MARKS[id] = prev;
+      if (prev === undefined) { delete MARKS[id]; delete APPLIED_AT[id]; }
+      else { MARKS[id] = prev; APPLIED_AT[id] = APPLIED_AT[id] || new Date().toISOString(); }
     });
-    saveMarks(MARKS);
+    saveAppliedAt(); saveMarks(MARKS);
   } else if (e.type === "trash")     { e.ids.forEach((id) => TRASH.delete(id)); saveTrash(); }
   else if (e.type === "restore")     { e.ids.forEach((id) => TRASH.add(id));    saveTrash(); }
   else if (e.type === "dismiss")     { e.ids.forEach((id) => DISMISSED.delete(id)); saveDismissed(); }
@@ -110,16 +134,182 @@ function appliedWhen(j) {
   return APPLIED_AT[j.id] || j.applied_at || "";
 }
 
+/* The site only ever downloads the last 30 days of postings, and the Applied
+   list is built from them — so an application quietly vanished from the list
+   once its posting aged out. A snapshot of the card is kept for every
+   application (in this browser only; it is not synced) so the list is a
+   permanent record. Only what the card shows is kept. */
+const SNAP_FIELDS = ["id", "title", "company", "location", "salary", "url", "source",
+                     "first_seen", "posted_at", "priority", "is_new_grad", "is_big_tech"];
+function loadSnaps() { try { return JSON.parse(localStorage.getItem("appliedJobs") || "{}"); } catch { return {}; } }
+let SNAPS = loadSnaps();                     // { jobId: job fields }
+function saveSnaps() { try { localStorage.setItem("appliedJobs", JSON.stringify(SNAPS)); } catch {} }
+function snapshotApplied() {
+  let dirty = false;
+  JOBS.forEach((j) => {
+    if (MARKS[j.id] !== "done" || SNAPS[j.id]) return;
+    const o = {}; SNAP_FIELDS.forEach((f) => { if (j[f] !== undefined) o[f] = j[f]; });
+    SNAPS[j.id] = o; dirty = true;
+  });
+  if (dirty) saveSnaps();
+}
+/* Live postings plus applied ones that have since dropped off the feed. */
+function allJobs() {
+  const live = new Set(JOBS.map((j) => j.id));
+  const gone = Object.keys(MARKS).filter((id) => MARKS[id] === "done" && !live.has(id) && SNAPS[id]);
+  return gone.length ? JOBS.concat(gone.map((id) => ({ ...SNAPS[id], _gone: true }))) : JOBS;
+}
+
 function setApplied(ids, applied) {
   if (!ids.length) return;
   pushUndo({ type: "mark", ids, prev: ids.map((id) => MARKS[id]) });
   const now = new Date().toISOString();
   ids.forEach((id) => {
     if (applied) { MARKS[id] = "done"; APPLIED_AT[id] = now; }
-    else { delete MARKS[id]; delete APPLIED_AT[id]; }
+    else { delete MARKS[id]; delete APPLIED_AT[id]; delete SNAPS[id]; }
   });
-  saveMarks(MARKS); saveAppliedAt();
+  saveAppliedAt(); saveMarks(MARKS);
+  if (!applied) saveSnaps();
 }
+
+/* ── Cross-device persistence ──────────────────────────────────────
+   Applied / Trash / dismissed used to live only in this browser's
+   localStorage, so a cleared cache, a private window, another browser or
+   another machine all showed every listing again. The state now also
+   lives in docs/state.json in the repo — ids and timestamps only, no
+   titles — and is merged in on every load. Reading needs nothing; writing
+   needs a GitHub token pasted once per browser (the cloud button in the
+   left rail). Per id, the newest change wins, so two devices merge instead
+   of overwriting each other, and localStorage stays the working copy. */
+function loadSync() { try { return JSON.parse(localStorage.getItem("syncDoc") || "{}"); } catch { return {}; } }
+let SYNC = loadSync();                       // { id: [flags, ms] }  a applied · t trashed · d dismissed · "" cleared
+const SYNC_FILE = "docs/state.json";
+const TOMB_MS = 45 * 864e5;                  // cleared entries only need to outlive the other devices' next sync
+let SYNC_SHA = null, syncBusy = false, syncAgain = false, pushT = 0, lastSync = 0;
+
+const flagsOf = (id) => (MARKS[id] === "done" ? "a" : "") + (TRASH.has(id) ? "t" : "") + (DISMISSED.has(id) ? "d" : "");
+
+/* Runs after every local change: stamp what differs from the synced copy,
+   keep the applied snapshots current, and queue an upload. */
+function changed() {
+  snapshotApplied();
+  const now = Date.now();
+  let diff = false;
+  new Set([...Object.keys(MARKS), ...TRASH, ...DISMISSED, ...Object.keys(SYNC)]).forEach((id) => {
+    const f = flagsOf(id), cur = SYNC[id];
+    if ((cur ? cur[0] : "") === f) return;
+    // a mark that predates syncing keeps the date you applied, not "now"
+    SYNC[id] = [f, cur ? now : (Date.parse(APPLIED_AT[id]) || now)];
+    diff = true;
+  });
+  if (diff) { try { localStorage.setItem("syncDoc", JSON.stringify(SYNC)); } catch {} }
+  refreshKeys();
+  if (diff) { clearTimeout(pushT); pushT = setTimeout(syncNow, 1200); }
+}
+
+function rebuildFromSync() {
+  MARKS = {}; TRASH = new Set(); DISMISSED = new Set();
+  const at = {};
+  Object.entries(SYNC).forEach(([id, [f, t]]) => {
+    if (f.includes("a")) { MARKS[id] = "done"; at[id] = APPLIED_AT[id] || new Date(t).toISOString(); }
+    if (f.includes("t")) TRASH.add(id);
+    if (f.includes("d")) DISMISSED.add(id);
+  });
+  APPLIED_AT = at;
+  try {
+    localStorage.setItem("marks", JSON.stringify(MARKS));
+    localStorage.setItem("trash", JSON.stringify([...TRASH]));
+    localStorage.setItem("raisedDismissed", JSON.stringify([...DISMISSED]));
+    localStorage.setItem("appliedAt", JSON.stringify(APPLIED_AT));
+    localStorage.setItem("syncDoc", JSON.stringify(SYNC));
+  } catch {}
+  snapshotApplied(); refreshKeys();
+}
+
+function mergeRemote(remote) {
+  let adopted = false, ahead = false;
+  Object.entries(remote).forEach(([id, v]) => {
+    if (!Array.isArray(v) || typeof v[0] !== "string") return;
+    const cur = SYNC[id];
+    if (!cur || v[1] > cur[1]) {
+      if (!cur || cur[0] !== v[0]) adopted = true;
+      SYNC[id] = v;
+    } else if (v[1] < cur[1] && v[0] !== cur[0]) ahead = true;
+  });
+  const now = Date.now();
+  Object.keys(SYNC).forEach((id) => {
+    const [f, t] = SYNC[id];
+    if (!f && now - t > TOMB_MS) { delete SYNC[id]; return; }   // old tombstone: nothing left to tell anyone
+    if (f && !(id in remote)) ahead = true;                     // a cleared id absent remotely is the same as present
+  });
+  if (adopted) rebuildFromSync();
+  return { adopted, ahead };
+}
+
+function syncCfg() {
+  let repo = localStorage.getItem("syncRepo") || "";
+  if (!repo) {
+    const m = location.hostname.match(/^([^.]+)\.github\.io$/i), seg = location.pathname.split("/")[1];
+    repo = m && seg ? m[1] + "/" + seg : "Shruthi423/OpenTabs";
+  }
+  return { repo, token: localStorage.getItem("syncToken") || "" };
+}
+const ghHeaders = (token) => ({ Authorization: "Bearer " + token, Accept: "application/vnd.github+json" });
+
+async function pullRemote() {
+  const { repo, token } = syncCfg();
+  if (!token) {                               // read-only: whatever Pages is serving
+    const r = await fetch("./state.json", { cache: "no-cache" });
+    return r.ok ? await r.json() : {};
+  }
+  const r = await fetch(`https://api.github.com/repos/${repo}/contents/${SYNC_FILE}`,
+                        { headers: ghHeaders(token), cache: "no-store" });
+  if (r.status === 404) { SYNC_SHA = null; return {}; }
+  if (!r.ok) throw new Error("pull " + r.status);
+  const j = await r.json();
+  SYNC_SHA = j.sha;
+  return JSON.parse(atob(j.content.replace(/\n/g, "")));
+}
+async function pushRemote() {
+  const { repo, token } = syncCfg();
+  const now = Date.now(), doc = {};
+  Object.entries(SYNC).forEach(([id, v]) => { if (v[0] || now - v[1] < TOMB_MS) doc[id] = v; });
+  const body = { message: "💾 Sync applied / trash state", content: btoa(JSON.stringify(doc)) };
+  if (SYNC_SHA) body.sha = SYNC_SHA;
+  const r = await fetch(`https://api.github.com/repos/${repo}/contents/${SYNC_FILE}`, {
+    method: "PUT", headers: { ...ghHeaders(token), "Content-Type": "application/json" }, body: JSON.stringify(body),
+  });
+  if (r.status === 409 || r.status === 422) return "conflict";     // someone wrote first — pull, merge, retry
+  if (!r.ok) throw new Error("push " + r.status);
+  SYNC_SHA = (await r.json()).content.sha;
+  return "ok";
+}
+function setSyncState(st, why) {
+  const b = $("#syncBtn"); if (!b) return;
+  b.dataset.state = st;
+  b.dataset.tip = { ok: "Synced across devices", read: "Reading synced state — add a token to save from here",
+                    busy: "Syncing…", error: "Sync failed: " + (why || "offline") + " — click to check the token" }[st] || "Sync Applied / Trash across devices";
+}
+async function syncNow() {
+  if (syncBusy) { syncAgain = true; return; }
+  syncBusy = true; lastSync = Date.now();
+  setSyncState("busy");
+  try {
+    for (let i = 0; i < 3; i++) {
+      const { adopted, ahead } = mergeRemote(await pullRemote());
+      if (adopted) render(false, true);
+      if (!ahead || !syncCfg().token) break;
+      if ((await pushRemote()) !== "conflict") break;
+    }
+    setSyncState(syncCfg().token ? "ok" : "read");
+  } catch (e) {
+    setSyncState("error", e && e.message);
+  } finally {
+    syncBusy = false;
+    if (syncAgain) { syncAgain = false; setTimeout(syncNow, 300); }
+  }
+}
+if (navigator.storage && navigator.storage.persist) navigator.storage.persist().catch(() => {});
 
 /* ── helpers ──────────────────────────────────────────────────── */
 function ago(when) {
@@ -178,11 +368,19 @@ const normCo    = (c) => (c || "").toLowerCase().replace(/\b(inc|llc|ltd|corp|co
    title. Those stay individual. */
 const NO_CO = new Set(["", "seeposting", "unknown", "confidential", "undisclosed"]);
 
+/* Identity of a listing across cities and boards; null when the company is a
+   placeholder, since those say nothing about who the job is with. */
+function dupeKey(j) {
+  if (j._dk === undefined) {
+    const co = normCo(j.company);
+    j._dk = NO_CO.has(co) ? null : co + "|" + normTitle(j.title);
+  }
+  return j._dk;
+}
 function groupDupes(list) {
   const by = new Map();
   list.forEach((j) => {
-    const co = normCo(j.company);
-    const k = NO_CO.has(co) ? "solo|" + j.id : co + "|" + normTitle(j.title);
+    const k = dupeKey(j) || "solo|" + j.id;
     (by.get(k) || by.set(k, []).get(k)).push(j);
   });
   return [...by.values()].map((members) => {
@@ -258,8 +456,8 @@ function rankOn(col) { return !!state.rank[col]; }
 
 /* ── filtering + sorting: jobs ────────────────────────────────── */
 function visible() {
-  let out = JOBS.filter((j) => {
-    if (TRASH.has(j.id)) return false;
+  let out = allJobs().filter((j) => {
+    if (isTrashed(j)) return false;
     if (state.q) {
       const hay = (j.title + " " + j.company).toLowerCase();
       if (!hay.includes(state.q.toLowerCase())) return false;
@@ -908,7 +1106,7 @@ function exportCSV() {
   const head = ["Company", "Role", "Location", "Salary", "Source", "Posted",
                 "Status", "Applied on", "Résumé", "Outreach", "Outreach updated", "URL"];
   const stamp = (v) => (v ? new Date(v).toISOString().slice(0, 10) : "");
-  const rows = JOBS.filter((j) => !TRASH.has(j.id)).map((j) => {
+  const rows = allJobs().filter((j) => !isTrashed(j)).map((j) => {
     const o = outOf(j) || {};
     return [
       j.company, j.title, j.location, j.salary, sourceText(j.source), stamp(jobTime(j)),
@@ -966,6 +1164,7 @@ function watchMore() {
 }
 
 function render(animate, reset) {
+  refreshKeys();
   if (reset) Object.keys(LIMITS).forEach((k) => (LIMITS[k] = PAGE));
 
   const jobs = visible();                        // filter row applies to all
@@ -980,7 +1179,7 @@ function render(animate, reset) {
   // unfiltered totals, so a column head can say "showing 3 of 76" — grouped
   // the same way as the cards, else the two numbers disagree
   const totals = { today: 0, prev: 0, app: 0 };
-  groupDupes(JOBS.filter((j) => !TRASH.has(j.id))).forEach((j) => totals[bucket(j)]++);
+  groupDupes(allJobs().filter((j) => !isTrashed(j))).forEach((j) => totals[bucket(j)]++);
 
   LISTS.today  = groups.today;
   LISTS.prev   = groups.prev;
@@ -1005,7 +1204,7 @@ function render(animate, reset) {
     b.classList.toggle("is-on", on);
     b.setAttribute("aria-pressed", on ? "true" : "false");
   });
-  LISTS.trash  = groupDupes(JOBS.filter((j) => TRASH.has(j.id)));
+  LISTS.trash  = groupDupes(allJobs().filter(isTrashed));
 
   const raisesTotal = FUND.filter((f) => f.status !== "dismissed" && !DISMISSED.has(fundId(f))
                                         && (!locOf(f).trim() || isSF(f))).length;
@@ -1393,7 +1592,7 @@ function bind() {
 
   // Mode switch. Modes that aren't built yet stay inert — clicking one
   // says so rather than half-switching into a surface that isn't there.
-  $$('button[data-mode], button[data-view]').forEach((b) => {
+  $$('button[data-mode], button[data-view], #syncBtn').forEach((b) => {
     ["pointerenter", "focus"].forEach((ev) =>
       b.addEventListener(ev, () => { if (!tipHold) showTip(b); }));
     ["pointerleave", "blur"].forEach((ev) => b.addEventListener(ev, hideTip));
@@ -1433,6 +1632,17 @@ function bind() {
     if (!$("#projPick").hidden && !e.target.closest("#projPick") && !e.target.closest("#projBtn")) closeProjPanel();
   });
 
+  $("#syncBtn").addEventListener("click", () => {
+    const { repo, token } = syncCfg();
+    const t = prompt(
+      "Keep Applied / Trash the same on every device.\n\n" +
+      `Paste a GitHub fine-grained token with "Contents: Read and write" on ${repo} ` +
+      "(github.com/settings/personal-access-tokens). Stored in this browser only.\n\n" +
+      "Leave empty to stop saving from this browser (it will still read synced state).", token);
+    if (t === null) return;
+    if (t.trim()) localStorage.setItem("syncToken", t.trim()); else localStorage.removeItem("syncToken");
+    syncNow();
+  });
   $("#projBtn").addEventListener("click", () => ($("#projPick").hidden ? openProjPanel() : closeProjPanel()));
   $("#projSave").addEventListener("click", saveProject);
   $("#projClear").addEventListener("click", clearProject);
@@ -1500,7 +1710,7 @@ function bind() {
       const ids = visibleRaises().map(fundId);
       if (ids.length) { pushUndo({ type: "dismiss", ids }); ids.forEach((id) => DISMISSED.add(id)); saveDismissed(); }
     } else if (k === "trash") {
-      const ids = JOBS.filter((j) => TRASH.has(j.id)).map((j) => j.id);
+      const ids = allJobs().filter(isTrashed).map((j) => j.id);
       if (ids.length) { pushUndo({ type: "restore", ids }); ids.forEach((id) => TRASH.delete(id)); saveTrash(); }
     } else {
       const ids = visible().filter((j) => bucket(j) === k).map((j) => j.id);
@@ -1533,12 +1743,12 @@ function bind() {
     const ids = (card.dataset.ids || id).split(" ").filter(Boolean);
 
     if (e.target.closest('[data-act="resume"]')) {
-      const job = JOBS.find((x) => x.id === id);
+      const job = allJobs().find((x) => x.id === id);
       if (job) stepResume(job, e.target.closest('[data-act="resume"]'));
       return;
     }
     if (e.target.closest('[data-act="reach"]')) {
-      const job = JOBS.find((x) => x.id === id);
+      const job = allJobs().find((x) => x.id === id);
       if (job) stepOutreach(job, e.target.closest('[data-act="reach"]'));
       return;
     }
@@ -1688,7 +1898,9 @@ function load(animate) {
     LOADED = true;
     JOBS = jobs; FUND = fund;
     if (!JOBS.length) $("#status").textContent = "No data yet";
+    snapshotApplied();                             // capture applications while their postings are still on the feed
     populateSources(); render(animate, true);
+    if (Date.now() - lastSync > 120000) syncNow(); // pick up marks made on another device
   });
 }
 

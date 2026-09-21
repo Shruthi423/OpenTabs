@@ -50,6 +50,28 @@ page stays current. Set `PUBLISH_TO_GIT` to `False` to disable auto-publish.
 > Note: a free GitHub Pages site is **public** — anyone with the link can see
 > the listings (no personal data, just public job posts).
 
+### Applied / Trash persist across sessions and devices
+
+Marks are kept in the browser *and* merged with `docs/state.json` (job ids +
+timestamps only — no titles) on every load, so a cleared cache, a private
+window or a second device still shows what you've filed. Reading needs
+nothing. To **save** from a browser, click the cloud icon in the left rail
+and paste a GitHub fine-grained token with *Contents: Read and write* on
+this repo (stored in that browser only). Changes merge per job, newest wins.
+
+- Marking a posting also covers every copy with the same company + title
+  (other cities/boards), so a sibling can't reappear as "the same listing".
+- Applied postings are snapshotted in the browser, so they stay in the
+  Applied list after the posting leaves the 30-day feed. Nothing refreshes or
+  clears Applied on a timer — the 60 s poll only reloads job data.
+
+### Just Raised: US tech only
+
+`raise_is_us_tech()` keeps a raise only if the headline gives no sign of a
+foreign base (foreign HQ/country/city/currency, unless the US is also named)
+**and** names a tech term, with biotech/consumer sectors always dropped.
+Raises with no readable location still pass — see the note in `raise_region`.
+
 ## What the filter keeps
 
 US only, and strictly. `location_rank` drops anything matching `NON_US`
