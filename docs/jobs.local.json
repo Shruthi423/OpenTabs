@@ -1,5 +1,22 @@
 [
   {
+    "id": "665daebf1ccb0f87fb44d97cc2085f61",
+    "title": "User Experience Designer",
+    "company": "Swoon",
+    "location": "Chicago, IL",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4468487786",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "None",
+    "priority": 4,
+    "first_seen": "2026-09-20T20:51:10.765678-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "f3832c6126707d4e0ea3bc9480692d01",
     "title": "UI/UX Designer",
     "company": "Systemshare INC",
@@ -10230,23 +10247,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-09-03T11:41:00.074194-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "8027f8555000a2f24f064e14aa325511",
-    "title": "Product Design Engineer",
-    "company": "New York Technology Partners",
-    "location": "Rochester, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4462868621",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-09-03T11:20:25.182781-07:00",
     "status": "active",
     "jd": "yes"
   },
