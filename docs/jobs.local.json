@@ -19293,39 +19293,5 @@
     "first_seen": "2026-08-21T13:44:27.250771-07:00",
     "status": "active",
     "jd": "no"
-  },
-  {
-    "id": "4c28bc34b0dee08c9894c936f626eb68",
-    "title": "UX Designer",
-    "company": "Second Front",
-    "location": "Washington, DC",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4457502155",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-08-21T13:25:42.695261-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "a1b2d10f0714c7004b53de3ebb34fdbe",
-    "title": "UX/UI Developer",
-    "company": "DLRdmv",
-    "location": "Dallas, TX, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=8a7215406bb60d66",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-21",
-    "priority": 4,
-    "first_seen": "2026-08-21T13:24:50.562866-07:00",
-    "status": "active",
-    "jd": "no"
   }
 ]
