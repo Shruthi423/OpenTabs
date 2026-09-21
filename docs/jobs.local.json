@@ -1,5 +1,22 @@
 [
   {
+    "id": "1adedeabf6c247b73698d374921c74a6",
+    "title": "UX/UI Designer",
+    "company": "Aditi Consulting",
+    "location": "Oakland, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4468103940",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 2,
+    "first_seen": "2026-09-21T13:06:52.443296-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "bf27241f714bf86b68f91477570d06ed",
     "title": "User Experience Designer",
     "company": "Robert Half",
@@ -19308,23 +19325,6 @@
     "posted_at": "2026-08-21",
     "priority": 4,
     "first_seen": "2026-08-21T13:24:50.562866-07:00",
-    "status": "active",
-    "jd": "no"
-  },
-  {
-    "id": "0f1dbb86b55f94fb82c78c1c4f0d554b",
-    "title": "UX/Product Designer",
-    "company": "ParentConnect",
-    "location": "Evanston, IL, US",
-    "salary": "$15,000 \u2013 $30,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=fa224fb8d3187cf0",
-    "source": "Indeed",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-08-21",
-    "priority": 4,
-    "first_seen": "2026-08-21T12:56:25.532318-07:00",
     "status": "active",
     "jd": "no"
   }
