@@ -1,50 +1,176 @@
 [
   {
     "item": {
-      "company": "TalMal",
+      "company": "Spinoto",
       "amount": null,
       "stage": "Pre-Seed",
-      "investors": "MM Partners",
-      "location": null,
+      "investors": null,
+      "location": "Ahmedabad",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/talmal-raises-pre-seed-round/",
+      "url": "https://www.thesaasnews.com/news/spinoto-raises-149000-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-09-20T23:49:29.359997-07:00"
+    "remind_at": "2026-09-21T06:37:53.582378-07:00"
   },
   {
     "item": {
-      "company": "Buildkite",
-      "amount": "$21.0M",
-      "stage": "Series B",
+      "company": "Arep Saudi",
+      "amount": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/buildkite-raises-21m-series-b/",
-      "priority": 7
+      "url": "https://www.thesaasnews.com/news/arep-saudi-raises-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-09-20T23:49:32.448064-07:00"
+    "remind_at": "2026-09-21T06:38:02.104114-07:00"
   },
   {
     "item": {
-      "company": "Paymob",
-      "amount": "$35.0M",
-      "stage": "Series C",
-      "investors": "Mubadala and EBRD",
+      "company": "Opio",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/opio-raises-4m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-21T06:38:05.143363-07:00"
+  },
+  {
+    "item": {
+      "company": "Metris Energy",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/metris-energy-raises-4-35m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-21T06:38:10.813344-07:00"
+  },
+  {
+    "item": {
+      "company": "Arcos",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/arcos-raises-5-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-21T06:38:13.662608-07:00"
+  },
+  {
+    "item": {
+      "company": "Metris Energy",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMnZ6YS1ua0Zma3paTzhiUFc2M0hEdjE4WHRNalkxdlYxQTdvSFFnWlNnSUFjckFBYmFObDNSakp0T3RrY2hRMWN2QWxNbnlIbmc4dzFiZkpQRi1jbWRuNVBTOU80V3hqbGJFQWM3S1VsRE5ocWxESG1NMUJvZUFMLVJQQVVVWDh4VkxsY0RDS050aVBSdVJrWEwxc3JjTXZ1M2VJeGdkRE5ZVjZjMHdLeEp0Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY1B3RG0wWEVfMnVBbTRIaDNrR1ZQZHBLN2RlaF9wR3lIbm5QSElPOXlnSWhQM3lZRkFyWFRvcHB4S2dnRkRzb3p6eUo3MzgwOVRSemlHR1ZLZ3VlYTJXbEpuVjlJWjVrbmJ5SHM5TTUzcm52dGVOVlFJbVdNdDBOZGpnYnN4c0NzMGdnX1pQbUthZjNhc3d4cnBn?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-21T06:38:19.738448-07:00"
+  },
+  {
+    "item": {
+      "company": "Dental Robotics",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxMlRYODc2MDB0cnh5ZzBKRzNkWXZiQWpZS051Y2g1WUFDLVcyU3RLNVpQc1BoQXlCbTB5S2MxdjdrTE9vNU45Q3NHVEpvWk1YdWFv?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-21T06:38:40.921481-07:00"
+  },
+  {
+    "item": {
+      "company": "Corridor",
+      "amount": "$25.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWDAwU2NHOWh5WlIxbjRGdUFhYmVET3RvbTRYazVLNlBsRDBDZy1ETXowQnQ4Uzh4UnV2U2tvTmc5NkcwSWRjdDd4aXAtYm5Ld2tIVmhwUGZNVjQxWDVOVFVfT1prV3l0bURURkRjeVh0a0F1Y2FfY3VEcHp3ZzJKMnFoLU9na292amlLSFQzc0hYTkdPTk5Nc2UwTjFFUG1uM0U5ZmRaZzE?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-21T06:38:43.752200-07:00"
+  },
+  {
+    "item": {
+      "company": "Kikitori",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/kikitori-raises-300m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-21T06:38:46.622896-07:00"
+  },
+  {
+    "item": {
+      "company": "syte",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/syte-raises-9m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-21T06:38:49.589639-07:00"
+  },
+  {
+    "item": {
+      "company": "Angle Health",
+      "amount": "$600.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/angle-health-raises-600m-series-c/",
       "priority": 6
     },
-    "remind_at": "2026-09-20T23:49:35.418868-07:00"
+    "remind_at": "2026-09-21T06:38:55.364820-07:00"
+  },
+  {
+    "item": {
+      "company": "A5X",
+      "amount": "$70.0M",
+      "stage": "Series D",
+      "investors": "Morgan Stanley, Goldman Sachs",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/a5x-raises-70m-series-d/",
+      "priority": 5
+    },
+    "remind_at": "2026-09-21T06:38:58.654687-07:00"
   },
   {
     "item": {
       "company": "Unit1 Studio",
-      "amount": null,
+      "amount": "$20.0M",
       "stage": null,
       "investors": null,
       "location": "London",
@@ -53,20 +179,132 @@
       "url": "https://techfundingnews.com/unit1-studio-raises-20m-balderton-avatar-concerts/",
       "priority": 3
     },
-    "remind_at": "2026-09-20T23:49:41.230052-07:00"
+    "remind_at": "2026-09-21T06:39:04.600657-07:00"
   },
   {
     "item": {
-      "company": "Impulse Space Just",
-      "amount": "$308.0M",
+      "company": "Australia-based Amber Electric",
+      "amount": null,
+      "stage": "Series E",
+      "investors": null,
+      "location": "Australia",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/09/21/australia-based-amber-electric-raises-e49m-to-turn-home-batteries-into-a-distributed-energy-network/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-21T06:39:10.451498-07:00"
+  },
+  {
+    "item": {
+      "company": "SoftBank",
+      "amount": "$11.0B",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mX0ZnUUdKR3hQTW84YmFQTjNnOWU1RHlIdjY2RC1hdjhVN1Z5QlFxazhXS0pRcGN1QnJZOHhtYWpPZ2pmMWhkQzFDNmVEM3N0NWtXNEs5dnJjbTNVSGdIeldpYVZpNzVmLXVpYTBEal9VeGNM?oc=5",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/09/21/softbank-launches-11-billion-bond-sale-to-fund-openai-investment/",
       "priority": 3
     },
-    "remind_at": "2026-09-20T23:49:46.869532-07:00"
+    "remind_at": "2026-09-21T06:39:13.257323-07:00"
+  },
+  {
+    "item": {
+      "company": "Amber Electric",
+      "amount": null,
+      "stage": "Series E",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/amber-electric-raises-49m-series-e/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-21T06:39:19.423536-07:00"
+  },
+  {
+    "item": {
+      "company": "Carro",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "From Orico Singapore",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/carro-secures-strategic-investment-from-orico/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-21T06:39:22.443493-07:00"
+  },
+  {
+    "item": {
+      "company": "Mozilla Data Collective",
+      "amount": "$5.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/mozilla-data-collective-raises-5m-unknown/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-21T06:39:28.033132-07:00"
+  },
+  {
+    "item": {
+      "company": "HEO",
+      "amount": "$25.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1may1pWlVPaTFQaV92NlZIYjVYTGQ1T0k4SVVRZ0NoaDFFSWZsZ3ctWm1xVXR4OFNpbTlWbW1FWHVibUpmYzJJQUp6UHMteFlud0JFZFZsMEpQR3JabDAwMlViM3Q?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-21T06:39:30.894151-07:00"
+  },
+  {
+    "item": {
+      "company": "HEO",
+      "amount": "$100.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUExZcm14ZGR1ZEJYbVRuSTZoQmx1WVR0TGhYZGU4WnZOakV2ZnI1N1lmallPWENjUDRRcXRBSVpZdnZiNmViZm5xemlUSVRjUElITHowMExNOWFZSHltZnJreElRbXNsTm1FQjZmazV2RHY0MzJHUktJSEhqSHVkSTR1Vl9kUlBvV1RFX3JTOTgydUc2Rmk2UUJFLWpyc1kzdm1aenJ6R2hIQy1qQ3BzcnJEbmRoamlqdTBfXy10Mko5S25qdkxpVXhB?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-21T06:39:33.691292-07:00"
+  },
+  {
+    "item": {
+      "company": "Egypt\u2019s Bekia",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNnlhQXdXYVNrV1dicjgwQ1hEc3NjOEk1SGZUREg2ZVpNV1FMN3dONmtGaEU1VTkxcnJ2V3JGU3B0eHp4Nm8zWFVvLVdkNC0tdlA3akk4aGhISUYtd1BOVUlVc0p3XzlrajZLN09UbGltWHpVN21ZUkZTcHd1WXR2emhWZWZ6VktmelJtMlo0c0l3bS1DRG1NWmNB?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-21T06:39:49.756793-07:00"
+  },
+  {
+    "item": {
+      "company": "London\u2019s Metris Energy",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "London",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWi1BRUs5Tm9oc2IzZGhQRVpESTFJR2tvTm80R2lFLXd0ZDNYU3pNaXowSnhFc0x1YmxWQzNTNnhWekRUaUhGWXZNVXdlQUJfOTlTNmFYLW9PdDN5T1BSekdXTnZ6MGZYNE9YT1cwVDUzNHhIdGsyay1faUtONVRFOFM3RWNieEdaUTNHeUJ0MW5tb3kwYXlkRVVyX1U1b3MzRlU4NUlJWldndWt0a0plcHNsSnhzVGUwTDlTcFZNUmw2Tlh3dmlqdlBvdmNjaWhDWV9V?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-21T06:39:59.622315-07:00"
   }
 ]
