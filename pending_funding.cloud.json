@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "item": {
+      "company": "TalMal",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": "MM Partners",
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/talmal-raises-pre-seed-round/",
+      "priority": 10
+    },
+    "remind_at": "2026-09-20T23:49:29.359997-07:00"
+  },
+  {
+    "item": {
+      "company": "Buildkite",
+      "amount": "$21.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/buildkite-raises-21m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-09-20T23:49:32.448064-07:00"
+  },
+  {
+    "item": {
+      "company": "Paymob",
+      "amount": "$35.0M",
+      "stage": "Series C",
+      "investors": "Mubadala and EBRD",
+      "location": null,
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMnZ6YS1ua0Zma3paTzhiUFc2M0hEdjE4WHRNalkxdlYxQTdvSFFnWlNnSUFjckFBYmFObDNSakp0T3RrY2hRMWN2QWxNbnlIbmc4dzFiZkpQRi1jbWRuNVBTOU80V3hqbGJFQWM3S1VsRE5ocWxESG1NMUJvZUFMLVJQQVVVWDh4VkxsY0RDS050aVBSdVJrWEwxc3JjTXZ1M2VJeGdkRE5ZVjZjMHdLeEp0Zw?oc=5",
+      "priority": 6
+    },
+    "remind_at": "2026-09-20T23:49:35.418868-07:00"
+  },
+  {
+    "item": {
+      "company": "Unit1 Studio",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "London",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/unit1-studio-raises-20m-balderton-avatar-concerts/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-20T23:49:41.230052-07:00"
+  },
+  {
+    "item": {
+      "company": "Impulse Space Just",
+      "amount": "$308.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mX0ZnUUdKR3hQTW84YmFQTjNnOWU1RHlIdjY2RC1hdjhVN1Z5QlFxazhXS0pRcGN1QnJZOHhtYWpPZ2pmMWhkQzFDNmVEM3N0NWtXNEs5dnJjbTNVSGdIeldpYVZpNzVmLXVpYTBEal9VeGNM?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-09-20T23:49:46.869532-07:00"
+  }
+]
