@@ -1,5 +1,35 @@
 [
   {
+    "id": "74c56ae37093f9a7a4474832a2b76a48",
+    "company": "Biolevate",
+    "amount": "$34.5M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa3RCN0QwUWZveFpaRGxhVkRaelBYbERUX2FWa29vZ21XcUFQeU1aeU9OTEhhTWxrRGx3RjF2a2haLWRQYUF6WUtfNlJsOFRqQS1IbkgzeU8yeEFjbHJMNk5ELXJqUGJ5RnpzYXo3X3pWTTVoeEhSbE9wSF9RZXJEWTVjRFprZnNjTnVoeGR1TUN4M0h2cm8ycQ?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-21T15:15:10.477442-07:00",
+    "status": "active"
+  },
+  {
+    "id": "f5501ca8da5c6a7c4a64f236375f4bf5",
+    "company": "Rainmaker",
+    "amount": "$100.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOWt3SXBNc1JxLUNpcmpUY3B6ODIwem55QjRubTR2Q1Nrak42VTRYTTgxQTd5SGl0RXkwRnBUdlA1a2ZfUkF5SmQ1cl8ydi1MdkpkY0ZwRkVQWnBhVnJlQjE1V040bWMwaXgzNm1CNm82cjhKM29zN1NkazBtUklYWkEwTU41ZjFMNUFZNUtoT3JtSzAwN09CT0k0Qms2ZWpnRDFHQkhRS05yOHBPdTdV?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-21T15:15:07.594321-07:00",
+    "status": "active"
+  },
+  {
     "id": "5a1b60b4c4941263730667b34fbad6ae",
     "company": "Amazon",
     "amount": "$11.0B",
@@ -11393,51 +11423,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-08-21T21:27:20.177661-07:00",
-    "status": "active"
-  },
-  {
-    "id": "37e103b7dd8d8283c8798dfd4ffc83bf",
-    "company": "DOJ",
-    "amount": "$400.0M",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "Axios",
-    "url": "https://www.axios.com/2026/08/21/doj-tiktok-biden-lawsuit-settlement",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-21T12:47:20.307547-07:00",
-    "status": "active"
-  },
-  {
-    "id": "c4c046c73efca6037d4b82b013c47ef4",
-    "company": "Constantinople",
-    "amount": "$62.5M",
-    "stage": "Series B",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFZKQ1U4NUNHbnhpakNRWS16c1Nna3Z4Q1BNUFlpZXhpQUEwS2w5eGJBUThpek5yMGRwcEtaSEpFZW9KT29oall0VzFsd21QZnJ1bUtCWVA0VkgtX1lZaWk3cDhwY2tfLUE3WGdLZlRSaGtmS3JjUHRDcGwxcUdRVTlqbXpFeXliaXZtcVpIREJnYUc5ZG0tbA?oc=5",
-    "priority": 7,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-21T11:54:59.815588-07:00",
-    "status": "active"
-  },
-  {
-    "id": "405b0ca7055a85a3b38174259cad34de",
-    "company": "Buddy Bites",
-    "amount": "$4.2M",
-    "stage": "Series A",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDJJSnljeTFUY0VvNGpwN0Nhb3FWVVBHZkx6WDFWWDVsRGMxTkEyWTBmQ3d3SU1ab1RsdUYyaUdUR25saFhGaVpGYk94QkMyZzlSTjZvazk4ZUVVUVVpT0Qzdmk4TWtRTlhyanMxTEMtYkpHcjAzR1BJblk2UDVIVUJnR3AwR05iMm1ya2hQLU5mU19ISUhv?oc=5",
-    "priority": 8,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-08-21T11:54:57.623545-07:00",
     "status": "active"
   }
 ]

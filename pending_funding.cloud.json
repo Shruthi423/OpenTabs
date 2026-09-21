@@ -1,100 +1,30 @@
 [
   {
     "item": {
-      "company": "Areeb",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORm9PclI4aUdNQV9rb3p2bUZGZEV4Slgxc1dGV0FPRjJsNkQ0N2lkQ0M5Y0RWQ2txeUttMjVzZWFYalhEcl8tMkI3QV9PSG83bS1Qa2tibFoyOEpLSXdaYklIcHZMam16Q1FrUDMyZkNmQzhQcGg4b3JKeGQ0U3VfSnpucGpMbUpfekpwa3RiaFdhdHd6V1ZhTUpJd2xJeDduM2xKVGVOTXBBUTg?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-09-21T12:12:21.371095-07:00"
-  },
-  {
-    "item": {
-      "company": "Feldera",
-      "amount": "$21.5M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/21/feldera-raises-21-5m-to-cut-database-compute-costs-by-95-for-ai-workloads/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-21T12:12:24.639014-07:00"
-  },
-  {
-    "item": {
-      "company": "Estonian Creem",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10cGEyLVBMQVRxYnA5b1pHY3RheXVzYW9mQl9kMVkwYmxLaUZrM2dYeGxrb0NDdXluX0RqQXlhUEV2bS1DN2J0OVgzVGY4X1laRDVIS0YtS1R5c1cyby15ajV4Qmtad9IBZkFVX3lxTE10cGEyLVBMQVRxYnA5b1pHY3RheXVzYW9mQl9kMVkwYmxLaUZrM2dYeGxrb0NDdXluX0RqQXlhUEV2bS1DN2J0OVgzVGY4X1laRDVIS0YtS1R5c1cyby15ajV4Qmtadw?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-09-21T12:12:30.261614-07:00"
-  },
-  {
-    "item": {
-      "company": "Drivn",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "Avaana Capital&nbsp",
-      "location": null,
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS2t2dVJjeFBrNWxVSndEejZTQTVlVHB5MkV3eVZpN21JcWRXUGYtMWlNNk51enQxSWd6TjRvcUV5M0RaSHQyOGpXcFFfaDU3aE1ZSnRYRzZJT3JxOEVMa0hVdDhaeGNYQWlTTy1aN2o5MVJoLTlETnduTFdnOFRXajM1bmtxejNqQXVpMWdMUVZSUUQ0emhObDVsZGhFSk9qRE5Ea2tfemdFdG1YYzlORm9uR1BSVWRSSVdyTktfUU1xelFkZ2k5UkhDSWhoQdIBzgFBVV95cUxNS2t2dVJjeFBrNWxVSndEejZTQTVlVHB5MkV3eVZpN21JcWRXUGYtMWlNNk51enQxSWd6TjRvcUV5M0RaSHQyOGpXcFFfaDU3aE1ZSnRYRzZJT3JxOEVMa0hVdDhaeGNYQWlTTy1aN2o5MVJoLTlETnduTFdnOFRXajM1bmtxejNqQXVpMWdMUVZSUUQ0emhObDVsZGhFSk9qRE5Ea2tfemdFdG1YYzlORm9uR1BSVWRSSVdyTktfUU1xelFkZ2k5UkhDSWhoQQ?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-09-21T12:12:33.198114-07:00"
-  },
-  {
-    "item": {
-      "company": "GENISOM AI",
-      "amount": null,
+      "company": "Rainmaker",
+      "amount": "$100.0M",
       "stage": "Series B",
       "investors": null,
       "location": null,
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XNVhBVHpYVW5yUXNhSXpIQjRhc0JCMVJHQUpWajh3RkNQbGlIcFZoTFZybGNCVkVmMmNWeDdFS3QwdWFyMWYxVy1MaDE0a0VJbmlNSXdZeTl3bjY2RDFuNnFOeUN5Nncx0gFoQVVfeXFMT1c1WEFUelhVbnJRc2FJekhCNGFzQkIxUkdBSlZqOHdGQ1BsaUhwVmhMVnJsY0JWRWYyY1Z4N0VLdDB1YXIxZjFXLUxoMTRrRUluaU1Jd1l5OXduNjZEMW42cU55Q3k2dzE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOWt3SXBNc1JxLUNpcmpUY3B6ODIwem55QjRubTR2Q1Nrak42VTRYTTgxQTd5SGl0RXkwRnBUdlA1a2ZfUkF5SmQ1cl8ydi1MdkpkY0ZwRkVQWnBhVnJlQjE1V040bWMwaXgzNm1CNm82cjhKM29zN1NkazBtUklYWkEwTU41ZjFMNUFZNUtoT3JtSzAwN09CT0k0Qms2ZWpnRDFHQkhRS05yOHBPdTdV?oc=5",
       "priority": 7
     },
-    "remind_at": "2026-09-21T12:12:36.151746-07:00"
+    "remind_at": "2026-09-21T15:45:06.594170-07:00"
   },
   {
     "item": {
-      "company": "Amazon",
-      "amount": "$11.0B",
+      "company": "Biolevate",
+      "amount": "$34.5M",
       "stage": null,
       "investors": null,
       "location": null,
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/21/top-tech-news-today-september-21-2026-amazon-amd-apple-google-microsoft-nvidia-softbank-more/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-21T12:12:39.140936-07:00"
-  },
-  {
-    "item": {
-      "company": "ARK",
-      "amount": "$8.5M",
-      "stage": null,
-      "investors": null,
-      "location": "Land",
-      "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRW5JYmVWYzk2aFFmTGs4VUxHUWs1c3NGeXVsek9LbTZza0o0WE0wYzNpdG9PcWl2eGkwVEhreTZvM09pYVdka016X2FPbVNRc1hVRkx1dVUtUU5fOWh3Z1RVZG1CeFd3dFk4Ymlsb2V2em1QLXZJSy1lVWtOTGg3eG5ObldjcUp2V2NOS3NZZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa3RCN0QwUWZveFpaRGxhVkRaelBYbERUX2FWa29vZ21XcUFQeU1aeU9OTEhhTWxrRGx3RjF2a2haLWRQYUF6WUtfNlJsOFRqQS1IbkgzeU8yeEFjbHJMNk5ELXJqUGJ5RnpzYXo3X3pWTTVoeEhSbE9wSF9RZXJEWTVjRFprZnNjTnVoeGR1TUN4M0h2cm8ycQ?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-09-21T12:12:42.042442-07:00"
+    "remind_at": "2026-09-21T15:45:09.477251-07:00"
   }
 ]
