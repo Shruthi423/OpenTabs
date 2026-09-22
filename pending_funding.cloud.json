@@ -1,32 +1,17 @@
 [
   {
     "item": {
-      "company": "Cheap",
-      "amount": null,
+      "company": "Snorkel AI",
+      "amount": "$350.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Cheap, powerful AI models are increasing usage, a bullish sign for the AI boom. AI companies have competed on having the best and often most dangerous models for years. Now, they're pivoting to a new focus: cost. Why it matters: The biggest risk to the AI boom is demand, and recent innovations to make models cheaper while maintaining powerful levels of intelligence have offered a bullish signal.As the prices of top models from OpenAI, Anthropic and others come down, usage is increasing dramatica",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/22/cheap-powerful-models-new-ai-frontier",
-      "priority": 3
-    },
-    "remind_at": "2026-09-22T12:24:06.494978-07:00"
-  },
-  {
-    "item": {
-      "company": "Cyera",
-      "amount": "$400.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Cyera raises $400 million from Goldman Sachs at $12 billion valuation to secure enterprise AI agents. Cyera has raised another $400 million from Goldman Sachs Alternatives, extending a Series G that values the data security company at more than $12 billion and pushing its fundraising since June 2025 to roughly $1.94 billion. The funding comes just [&#8230;]\nThe post Cyera raises $400 million from Goldman Sachs at $12 billion valuation to secure enterprise AI agents first appeared on Tech Startup",
+      "blurb": "Snorkel AI raises $350M at $3.5B valuation as revenue surges 17X on AI training data boom. Snorkel AI has raised $350 million at a $3.5 billion valuation after its annualized revenue run-rate exploded from roughly $20 million to more than $350 million in about a year, a striking sign of how valuable high-quality training data has [&#8230;]\nThe post Snorkel AI raises $350M at $3.5B valuation as revenue surges 17X on AI training data boom first appeared on Tech Startups.",
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/22/cyera-raises-400-million-from-goldman-sachs-at-12-billion-valuation-to-secure-enterprise-ai-agents/",
+      "url": "https://techstartups.com/2026/09/22/snorkel-ai-raises-350m-at-3-5b-valuation-as-revenue-surges-17x-on-ai-training-data-boom/",
       "priority": 3
     },
-    "remind_at": "2026-09-22T12:24:09.858649-07:00"
+    "remind_at": "2026-09-22T15:15:53.730533-07:00"
   }
 ]
