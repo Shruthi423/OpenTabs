@@ -222,5 +222,21 @@
     "roles": [],
     "first_seen": "2026-09-22T14:45:54.730671-07:00",
     "status": "active"
+  },
+  "c013e5dfd682df1d3985c1870d199c02": {
+    "id": "c013e5dfd682df1d3985c1870d199c02",
+    "company": "Firecrawl",
+    "amount": "$75.0M",
+    "stage": "Series B",
+    "investors": "Y Combinator, Smash Ventures, Altos Ventures",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/22/web-scraping-startup-firecrawl-closes-75m-investment/",
+    "priority": 10,
+    "blurb": "Web scraping startup Firecrawl closes $75M investment. Firecrawl Inc., a provider of web scraping tools for artificial intelligence agents, today announced that it has raised $75 million in funding. Los Angeles-based venture capital firm Smash Ventures led the Series B round. It was joined by Y Combinator, Altos Ventures, Nexus Venture Partners, Freestyle and Offline Ventures. AI agents rely on information from [&#8230;]\nThe post Web scraping startup Firecrawl closes $75M investment appeared fir",
+    "founders": [],
+    "location": "Los Angeles",
+    "roles": [],
+    "first_seen": "2026-09-22T16:52:43.777991-07:00",
+    "status": "active"
   }
 }
