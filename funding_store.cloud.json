@@ -174,5 +174,37 @@
     "roles": [],
     "first_seen": "2026-09-22T08:07:01.763028-07:00",
     "status": "active"
+  },
+  "8267cba4536e39bd1f7aa869ea60765c": {
+    "id": "8267cba4536e39bd1f7aa869ea60765c",
+    "company": "Cheap",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/09/22/cheap-powerful-models-new-ai-frontier",
+    "priority": 3,
+    "blurb": "Cheap, powerful AI models are increasing usage, a bullish sign for the AI boom. AI companies have competed on having the best and often most dangerous models for years. Now, they're pivoting to a new focus: cost. Why it matters: The biggest risk to the AI boom is demand, and recent innovations to make models cheaper while maintaining powerful levels of intelligence have offered a bullish signal.As the prices of top models from OpenAI, Anthropic and others come down, usage is increasing dramatica",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-22T11:54:07.495178-07:00",
+    "status": "active"
+  },
+  "91200767f04f1f5121616844b30ecc0e": {
+    "id": "91200767f04f1f5121616844b30ecc0e",
+    "company": "Cyera",
+    "amount": "$400.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/09/22/cyera-raises-400-million-from-goldman-sachs-at-12-billion-valuation-to-secure-enterprise-ai-agents/",
+    "priority": 3,
+    "blurb": "Cyera raises $400 million from Goldman Sachs at $12 billion valuation to secure enterprise AI agents. Cyera has raised another $400 million from Goldman Sachs Alternatives, extending a Series G that values the data security company at more than $12 billion and pushing its fundraising since June 2025 to roughly $1.94 billion. The funding comes just [&#8230;]\nThe post Cyera raises $400 million from Goldman Sachs at $12 billion valuation to secure enterprise AI agents first appeared on Tech Startup",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-22T11:54:10.858819-07:00",
+    "status": "active"
   }
 }

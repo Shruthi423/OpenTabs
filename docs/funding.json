@@ -1,5 +1,35 @@
 [
   {
+    "id": "91200767f04f1f5121616844b30ecc0e",
+    "company": "Cyera",
+    "amount": "$400.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/09/22/cyera-raises-400-million-from-goldman-sachs-at-12-billion-valuation-to-secure-enterprise-ai-agents/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-22T11:54:10.858819-07:00",
+    "status": "active"
+  },
+  {
+    "id": "8267cba4536e39bd1f7aa869ea60765c",
+    "company": "Cheap",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/09/22/cheap-powerful-models-new-ai-frontier",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-22T11:54:07.495178-07:00",
+    "status": "active"
+  },
+  {
     "id": "20605fd2f0e44c6f35809ec8c5e7698d",
     "company": "Binance",
     "amount": "$100.0M",

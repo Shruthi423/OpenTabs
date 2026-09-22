@@ -1,47 +1,32 @@
 [
   {
     "item": {
-      "company": "Definedge",
+      "company": "Cheap",
       "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Fintech and brokerage startup Definedge raises Rs 22 Cr in pre-Series A - entrackr.com. Fintech and brokerage startup Definedge raises Rs 22 Cr in pre-Series A&nbsp;&nbsp;entrackr.com",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDBnWUVTN01RN1hvVm5sV0UtNUJ4dVVVOVB3QXB1YmlQUXhqOV9ORktUQi1fUTN6ZVFjMTJ2cGdCUlVNYk9MYXZ0WTNHZEZWNXFrd3dxWGRPYTh1S21LcWlrQWpXY3JqM2o1WkJfT1JBTThhTjBnbVQwQ1JaMnB3SkJlREs3eENjRXZmdV9aRHBkN25vS3k4alZjTWxIOVpsZHc0UWl4bHRxb3lWdGtz0gGvAUFVX3lxTE1sMGdZRVM3TVE3WG9WbmxXRS01Qnh1VVU5UHdBcHViaVBReGo5X05GS1RCLV9RM3plUWMxMnZwZ0JSVU1iT0xhdnRZM0dkRlY1cWt3d3FYZE9hOHVLbUtxaWtBaldjcmozajVaQl9PUkFNOGFOMGdtVDBDUloycHdKQmVESzd4Q2NFdmZ1X1pEcGQ3bm9LeThqVmNNbEg5WmxkdzRRaXhsdHFveVZ0a3M?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-09-22T08:36:45.969120-07:00"
-  },
-  {
-    "item": {
-      "company": "Heidi Health",
-      "amount": "$340.0M",
-      "stage": "Series C",
-      "investors": "Blackbird",
-      "location": null,
-      "blurb": "Heidi Health nabs $340M to deepen adoption of AI agents within health systems globally. Heidi Health Trading Pty Ltd., a healthcare artificial intelligence startup, today announced it has raised a total of $340 million in new funding to support the company\u2019s next phase of growth and deepen adoption throughout health systems. The funding comes from a combination of a $100 million Series C round led by Blackbird, with participation [&#8230;]\nThe post Heidi Health nabs $340M to deepen adoption of A",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/22/heidi-health-nabs-340m-to-deepen-adoption-of-ai-agents-within-health-systems-globally/",
-      "priority": 6
-    },
-    "remind_at": "2026-09-22T08:36:57.004677-07:00"
-  },
-  {
-    "item": {
-      "company": "Binance",
-      "amount": "$100.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Binance invests $100 million in Circle in major push to expand USDC globally. Binance is investing $100 million in Circle under a new five-year agreement that could put USDC in front of one of the world&#8217;s largest crypto audiences, giving Circle a major distribution boost as it tries to close the gap with [&#8230;]\nThe post Binance invests $100 million in Circle in major push to expand USDC globally first appeared on Tech Startups.",
+      "blurb": "Cheap, powerful AI models are increasing usage, a bullish sign for the AI boom. AI companies have competed on having the best and often most dangerous models for years. Now, they're pivoting to a new focus: cost. Why it matters: The biggest risk to the AI boom is demand, and recent innovations to make models cheaper while maintaining powerful levels of intelligence have offered a bullish signal.As the prices of top models from OpenAI, Anthropic and others come down, usage is increasing dramatica",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/22/binance-invests-100-million-in-circle-in-major-push-to-expand-usdc-globally/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/22/cheap-powerful-models-new-ai-frontier",
       "priority": 3
     },
-    "remind_at": "2026-09-22T08:37:00.762868-07:00"
+    "remind_at": "2026-09-22T12:24:06.494978-07:00"
+  },
+  {
+    "item": {
+      "company": "Cyera",
+      "amount": "$400.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Cyera raises $400 million from Goldman Sachs at $12 billion valuation to secure enterprise AI agents. Cyera has raised another $400 million from Goldman Sachs Alternatives, extending a Series G that values the data security company at more than $12 billion and pushing its fundraising since June 2025 to roughly $1.94 billion. The funding comes just [&#8230;]\nThe post Cyera raises $400 million from Goldman Sachs at $12 billion valuation to secure enterprise AI agents first appeared on Tech Startup",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/09/22/cyera-raises-400-million-from-goldman-sachs-at-12-billion-valuation-to-secure-enterprise-ai-agents/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-22T12:24:09.858649-07:00"
   }
 ]

@@ -397,5 +397,24 @@
     "first_seen": "2026-09-22T08:06:24.677509-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "782f6fee1e2011cb71d2de479e471fde": {
+    "id": "782f6fee1e2011cb71d2de479e471fde",
+    "title": "Product Designer, Design Systems",
+    "company": "Anthropic",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428124008",
+    "source": "Anthropic",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "description": "Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\nAbout the role\nDesign at Anthropic sits at the intersection of craft, research, and product intuition. Design systems is a growing team working on products that millions of people use daily, and on interactions that don't have established conventions yet.\nOur work shapes how people experience AI: whether Claude feels like a tool or a collaborator, whether it earns trust or erodes it. We partner closely with engineers and researchers, often designing around capabilities that are emerging in real time. That means staying close to the models, prototyping rapidly, and being comfortable with ambiguity.\nWe care deeply about the details that make something feel polished, trustworthy and human. We ship fast and learn in the open. We'd rather get something in front of users and iterate than wait for perfection.\nThe Design Systems team exists to define and elevate the language of our UI and core interactions. Every Claude product, from claude.ai to Claude Code, shares one system, including the guidance Claude itself follows when it generates UI.\nYou would be joining an early-stage team, working with design engineers and product designers across the company.\nAre as comfortable designing on canvas tools as you are building and prototyping within the product, and prefer to ship in days, not months.\nHave worked on design systems that balance simplicity with creative flair to produce beautiful products out of the box.\nCare about the smallest details as much as the big picture, from a pixel to how the whole app fits together.\nMake the people around you better through sharp, kind feedback and low ego.\nGet up to speed quickly and can make an impact on projects already in motion.\nDesign and evolve the system, from foundations (colour, type, spacing, icons, tokens, theming) to components like menus, dialogs, sidebars and the chat composer.\nDesign the expressive layer as a system, not one-offs: motion, illustration and icons that are brand and system at once.\nMake the system legible to Claude as well as people: the guidance, metadata and evals that show whether Claude uses it correctly.\nPartner with product teams: help designers and engineers apply the system well, and feed recurring gaps back into the system.\nPrototype in code and ship: land changes in the design-system package alongside engineers, using Claude Code in your own practice.\nMinimum qualifications\nExperience building or working on a design system.\nExperience with design tokens, theming and accessibility standards.\nFluency in whichever tool gets an idea across fastest, from Figma to code.\nPreferred qualifications\nExperience building products at the highest level of craft.\nHas shipped voice or other beyond-the-screen work, with native mobile instincts.\nHas designed an icon set, illustration style or motion system used across products.\nExperience defining evals, lint rules or automated checks for UI quality.\nThe annual compensation range for this role is listed below.\nFor sales roles, the range provided is the role\u2019s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.\nMinimum education: Bachelor\u2019s degree or an equivalent combination of education, training, and/or experience\nRequired field of study:\u00a0 A field relevant to the role as demonstrated through coursework, training, or professional experience\nMinimum years of experience: Years of experience required will correlate with the internal job level requirements for the position\nLocation-based hybrid policy: Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require m",
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-09-22T11:53:43.862047-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
