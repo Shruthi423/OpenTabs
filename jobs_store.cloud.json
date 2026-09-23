@@ -454,5 +454,25 @@
     "first_seen": "2026-09-22T19:51:22.709997-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "984d68ee417b6ff7a97540bd402935fe": {
+    "id": "984d68ee417b6ff7a97540bd402935fe",
+    "title": "Product Designer",
+    "company": "Ande",
+    "location": "New York City",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/ande/d84e0a20-02d4-4ea4-82b4-400eaeadbfc6",
+    "source": "\ud83d\udcb0 Ande (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Ande raised $52.0M",
+    "founders": [],
+    "description": "About Ande\n\nWe're a Series A startup building an AI-native platform that connects Enterprises and Hospitality across the entire booking experience, backed by top-tier investors including Lightspeed Venture Partners, Redpoint Ventures, Sierra Ventures, and Bain Capital, and led by a serial entreprene",
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-09-23T01:12:52.104392-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }
