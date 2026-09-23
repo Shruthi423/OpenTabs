@@ -1,182 +1,107 @@
 [
   {
     "item": {
-      "company": "F13",
-      "amount": "$5.0M",
-      "stage": "Pre-Seed",
-      "investors": "Credo Ventures, Point Nine Capital",
-      "location": null,
-      "blurb": "F13 Raises $5M Pre-seed. F13 raises $5M in pre-seed funding led by Credo Ventures and Point Nine Capital to develop its AI model for precise vector graphics generation.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/f13-raises-5m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-23T01:42:33.416875-07:00"
-  },
-  {
-    "item": {
-      "company": "Outerlimit",
-      "amount": "$16.0M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Outerlimit Raises $16M Pre-seed. Outerlimit raises $16M pre-seed round to scale its specialized security platform for agentic AI enterprise deployments.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/outerlimit-raises-16m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-23T01:42:36.356688-07:00"
-  },
-  {
-    "item": {
-      "company": "Usawa",
-      "amount": "$3.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Usawa Raises $3M Seed. Usawa raises $3M in a seed funding round led by Armilar to expand its AI-powered digital health platform and launch new adult healthcare services.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/usawa-raises-3m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-23T01:42:39.436628-07:00"
-  },
-  {
-    "item": {
-      "company": "Infini",
-      "amount": "$6.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Infini Raises $6M Seed. Infini raises $6M in a seed round to expand its AI-powered global financial platform, which provides intelligent treasury solutions and personal finance tools.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/infini-raises-6m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-23T01:42:42.560173-07:00"
-  },
-  {
-    "item": {
-      "company": "Rising Tide",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "Left Lane Capital",
-      "location": null,
-      "blurb": "Rising Tide Raises Seed Round. Rising Tide, a property management technology firm, has raised a seed round led by Left Lane Capital to scale its AI-powered shared technology network.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/rising-tide-raises-seed-round-to-build-a-network-of-independent-property-management/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-23T01:42:48.352415-07:00"
-  },
-  {
-    "item": {
-      "company": "Ande",
-      "amount": "$52.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Ande Raises $52M in Seed and Series A. Ande raises $52M in seed and Series A funding to scale its AI-native platform for managing corporate entertainment and enterprise booking workflows.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ande-raises-52m-seed-series-a/",
-      "priority": 9
-    },
-    "remind_at": "2026-09-23T01:42:54.243493-07:00"
-  },
-  {
-    "item": {
-      "company": "Voxela",
-      "amount": null,
-      "stage": "Series A",
-      "investors": "Delight Ventures",
-      "location": null,
-      "blurb": "Voxela Closes Series A. Voxela raises a Series A round led by Delight Ventures to expand its AI-powered incident reporting software for the long-term care industry.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/voxela-closes-series-a-bringing-total-funding-to-about-13-2-million-business-wire/",
-      "priority": 8
-    },
-    "remind_at": "2026-09-23T01:42:57.082218-07:00"
-  },
-  {
-    "item": {
-      "company": "Baselayer",
-      "amount": "$35.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "NYC startup Baselayer launches identity tech for AI agents after $35M Series A - The Business Journals. NYC startup Baselayer launches identity tech for AI agents after $35M Series A&nbsp;&nbsp;The Business Journals",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObENsUGRQOU1XREVJTWRIZkdkdVMxWHlGcWdBWWU3MlQ0OUUyaFg2THFyREh1NHJwOFBlVUxXaHRpd0FENFlxTmlHaEZKd2xpTHR4M3hvY2pKcDRrc080NnFob0tUVWVFZkJDa0ZMN2Q4X0pmNTN3M0FjT3lpZ25jX2dvcw?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-09-23T01:43:00.065085-07:00"
-  },
-  {
-    "item": {
-      "company": "Bird&Be",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Bird&Be raises $13-million USD Series A for fertility support platform - BetaKit. Bird&amp;Be raises $13-million USD Series A for fertility support platform&nbsp;&nbsp;BetaKit",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3dZRFctS2hnVXJaTFljNnhPTW4yNzRxc2tVbHlyaXNTUmZqOXV5NkUzNDJDNHpVSGk1Z1VNWmtHQzJIb2tkTGs4U0x6OHlaZXIyN0hjR2pYNkJxWW1hT1N6RUZodndpZTRPdk9qTEpyS21qNGE4LUFZTUNUSUxwZ3RVb3ZXY25hcWpHM2JYekJTcGs?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-09-23T01:43:02.888834-07:00"
-  },
-  {
-    "item": {
-      "company": "Rio.ai",
-      "amount": null,
-      "stage": "Series A",
-      "investors": "Version One Ventures - Entrackr Exclusive: Rio",
-      "location": null,
-      "blurb": "Exclusive: Rio.ai raises Rs 43 Cr in pre-Series A led by Version One Ventures - Entrackr. Exclusive: Rio.ai raises Rs 43 Cr in pre-Series A led by Version One Ventures&nbsp;&nbsp;Entrackr",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZEl3NlJDbldYQTh0bE84bUR6akcyWENKZThrUXZyUmdmOGF2eG44OXRMdG9YNFhoNC1DRWtmNVdIT3lPNy05aG5EYTVhRmNHY1I1R0tJWFV6ZnR0X1ZTWU9JMUpPODczWDlqQ2pSVExTOTFXQktkNlJJSEx6TU5aNmoxWFk2SEhrMlZvaU5aMUpXMTRjaDVwZmJwVlM5UnRNdTFWQ01KWmlMWWhrNUhrekdtNXR5d9IBtgFBVV95cUxPZEl3NlJDbldYQTh0bE84bUR6akcyWENKZThrUXZyUmdmOGF2eG44OXRMdG9YNFhoNC1DRWtmNVdIT3lPNy05aG5EYTVhRmNHY1I1R0tJWFV6ZnR0X1ZTWU9JMUpPODczWDlqQ2pSVExTOTFXQktkNlJJSEx6TU5aNmoxWFk2SEhrMlZvaU5aMUpXMTRjaDVwZmJwVlM5UnRNdTFWQ01KWmlMWWhrNUhrekdtNXR5dw?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-09-23T01:43:05.765536-07:00"
-  },
-  {
-    "item": {
-      "company": "Confido",
-      "amount": "$55.0M",
+      "company": "Ema",
+      "amount": "$77.0M",
       "stage": "Series B",
-      "investors": "Insight Partners",
+      "investors": "Accel",
       "location": null,
-      "blurb": "Confido Raises $55M Series B. Confido raises $55M Series B led by Insight Partners to accelerate AI-powered back-office automation for Consumer Packaged Goods brands.",
+      "blurb": "Ema raises $77M in funding to deploy AI employees across enterprise HR, IT and finance departments. Agentic artificial intelligence employee startup Ema Unlimited Inc. is prepping for a massive expansion of its autonomous workers in the enterprise after raising $77 million in funding today. The Series B round was led by Creagis and saw the participation of existing backers including Accel, S32 and Posus, which each returned with a substantially larger [&#8230;]\nThe post Ema raises $77M in fundin",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/confido-raises-55m-series-b/",
-      "priority": 7
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/23/ema-raises-77m-in-funding-to-deploy-ai-employees-across-enterprise-hr-it-and-finance-departments/",
+      "priority": 10
     },
-    "remind_at": "2026-09-23T01:43:08.680765-07:00"
+    "remind_at": "2026-09-23T07:09:12.835860-07:00"
   },
   {
     "item": {
-      "company": "Monetary Metals",
-      "amount": "$10.5M",
+      "company": "Palma.ai",
+      "amount": "$1.8M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Palma.ai Raises $1.8M Pre-seed. Palma.ai raises $1.8 million in pre-seed funding led by D11Z to develop a governance layer for securing enterprise AI agent interactions.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/palma-ai-raises-1-8m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-09-23T07:09:15.725821-07:00"
+  },
+  {
+    "item": {
+      "company": "Soteris",
+      "amount": "$8.0M",
+      "stage": "Seed",
+      "investors": "Spider Capital",
+      "location": null,
+      "blurb": "Soteris Raises $8M Seed. Soteris raises $8M in seed funding led by Spider Capital to scale its AI-driven profit optimization tool for property and casualty insurers.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/soteris-raises-8m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-23T07:09:18.607694-07:00"
+  },
+  {
+    "item": {
+      "company": "Sela",
+      "amount": "$21.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Sela Raises $21M in Seed and Series A. Sela raises $21M in funding led by Costanoa to expand its voice AI agents for mortgage lenders and grow its product and engineering team.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/sela-raises-21m-series-a/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-23T07:09:21.616483-07:00"
+  },
+  {
+    "item": {
+      "company": "Go.AI",
+      "amount": "$85.0M",
+      "stage": "Series A",
+      "investors": "Updata Partners",
+      "location": null,
+      "blurb": "Go.AI Raises $85M Series A. Go.AI raises $85M in Series A funding led by Updata Partners to scale its on-premises AI infrastructure platform for regulated industries.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/go-ai-raises-85m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-23T07:09:25.678034-07:00"
+  },
+  {
+    "item": {
+      "company": "Ekai",
+      "amount": "$1.7M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Monetary Metals Raises $10.5M Other. Monetary Metals raises $10.5M in equity financing to further develop its gold yield marketplace and support global growth.",
+      "blurb": "Ekai raises $1.7M to give enterprise AI agents verified business context. Enterprise data startup Ekai Inc. today announced $1.7 million in new funding for software that builds the business context artificial intelligence agents need before they can be trusted with corporate data. Ekai provides a platform that writes the semantic models and data transformation code AI tools rely on to read a company&#8217;s data warehouse correctly. [&#8230;]\nThe post Ekai raises $1.7M to give enterprise AI agen",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/monetary-metals-raises-10-5m-other/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/23/ekai-raises-1-7m-to-give-enterprise-ai-agents-verified-business-context/",
       "priority": 3
     },
-    "remind_at": "2026-09-23T01:43:14.768999-07:00"
+    "remind_at": "2026-09-23T07:09:28.667082-07:00"
+  },
+  {
+    "item": {
+      "company": "Brahma AI",
+      "amount": "$150.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Brahma AI Raises $150M in Funding. Brahma AI raises $150M round led by Multiples to scale its enterprise-focused AI operating system for audiovisual content creation.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/brahma-ai-raises-150m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-23T07:09:31.625170-07:00"
   }
 ]
