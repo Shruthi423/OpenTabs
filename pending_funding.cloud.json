@@ -1,17 +1,137 @@
 [
   {
     "item": {
-      "company": "Topdog",
-      "amount": "$2.5M",
-      "stage": null,
+      "company": "ByteAsk",
+      "amount": "$1.0M",
+      "stage": "Pre-Seed",
+      "investors": "Y Combinator",
+      "location": null,
+      "blurb": "ByteAsk Raises $1M Pre-seed. ByteAsk raises $1 million in a pre-seed round led by Y Combinator to build AI coding agents for C and C++ developers in high-performance sectors.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/byteask-raises-1m-pre-seed/",
+      "priority": 13
+    },
+    "remind_at": "2026-09-24T00:16:13.546031-07:00"
+  },
+  {
+    "item": {
+      "company": "Beagle Labs",
+      "amount": "$4.1M",
+      "stage": "Pre-Seed",
+      "investors": "Chingona Ventures",
+      "location": null,
+      "blurb": "Beagle Labs Raises $4.1M Pre-seed. Beagle Labs raises $4.1 million in pre-seed funding led by Chingona Ventures to expand its AI-powered property intelligence platform for insurers.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/beagle-labs-raises-4-1m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-09-24T00:16:16.351490-07:00"
+  },
+  {
+    "item": {
+      "company": "ByteAsk",
+      "amount": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
-      "blurb": "Topdog Raises $2.5 Million for Real-Money Skill Gaming Platform - Play USA. Topdog Raises $2.5 Million for Real-Money Skill Gaming Platform&nbsp;&nbsp;Play USA",
+      "blurb": "ByteAsk Raises $1 Mn In YC-Led Pre-seed Round For AI Coding Agents - BW Disrupt. ByteAsk Raises $1 Mn In YC-Led Pre-seed Round For AI Coding Agents&nbsp;&nbsp;BW Disrupt",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuSTJ3Q3VnZ3FkS3RuN01wRUVBeEtWMm9ZWDZ0UUg4MHl1RG5ILXNaSXZSUFhmVTVqUmd2SEY1azc5bnFZY2duQXZTOHVubkhYdUJTQXZBZFIyNTNrOXFnVjVmV3NuMHpSS050NHl1TXljeFc3QUhNNm9ub3JLVm8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSGtMMU1rZHU2cWJibGlzM3RNMUdmZkZQN0F6Zl9KdnQ5N3Bmaml5dTYwRXIxNFo0SVB2M3JkbzdTSUFLeEY4aTNZN3YxN1AxcXFhcU5yc2dxaEd4M1NCLW5McHkxWWwxd0tENjZ1Zk1SNGtsZmJKb3dsZzlEbWFQM21iSEdyOE9nbG1nNzVGV2VwNVFLTjFlTE1HRFRWMGFnNWFKeGNMX3ZZQQ?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-09-24T00:16:19.327929-07:00"
+  },
+  {
+    "item": {
+      "company": "CatchBack",
+      "amount": "$7.8M",
+      "stage": "Seed",
+      "investors": "Foundation Capital",
+      "location": null,
+      "blurb": "CatchBack Raises $7.8M Seed. CatchBack raises $7.8M seed round led by Foundation Capital to expand its collectibles trading platform, infrastructure, and consumer experience.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/catchback-raises-7-8m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-24T00:16:22.520658-07:00"
+  },
+  {
+    "item": {
+      "company": "Flatkey",
+      "amount": "$10.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Flatkey Raises $10M Series A. Flatkey raises $10M in Series A funding to scale its AI infrastructure platform which consolidates API access to over 100 models and 1,000 tools.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/flatkey-raises-10m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-24T00:16:25.425866-07:00"
+  },
+  {
+    "item": {
+      "company": "ONYA",
+      "amount": "$1.3M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Lab-grown diamond startup ONYA raises $1.3M pre-series A to open new stores - app.dealroom.co. Lab-grown diamond startup ONYA raises $1.3M pre-series A to open new stores&nbsp;&nbsp;app.dealroom.co",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMkRXdEJlRElDNEtBQWtQR0ktaXdoTWxGVVNDNGFlamhlcjViTnJsUTg2RVd6TUtEd1RONFNRajVMQ0NpNU9LOWo4dEdIeXNRV3BtbUNQdTF6VzVnRHM2TElWeVAwcWlESmVFYzZuQUtBaHR4TS1aZ1ZRTExNUzRvVlEyeHRyTnlNcU81T243SWJEM0NiREdhaGNRajROdE5XVVVQVE5rc1MzZFJx?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-09-24T00:16:28.366488-07:00"
+  },
+  {
+    "item": {
+      "company": "Ema",
+      "amount": null,
+      "stage": "Series B",
+      "investors": "Creaegis&nbsp",
+      "location": null,
+      "blurb": "Enterprise AI startup Ema raises $77 Mn in Series B led by Creaegis - Entrackr. Enterprise AI startup Ema raises $77 Mn in Series B led by Creaegis&nbsp;&nbsp;Entrackr",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3lRenJlYTNMWXZLZHlXa2s1SGd5bElxWTJSZDNfU1ZsWnFTMncwYXVwS28wSHZFWURBT1FxRXF6Z1pYbHBqRVZuc2FfZzRFSHdVbmlSLW96eU1NMlVCaXVhTVU5VkFOSjd5V3F6QWhPTWd6QjRfRkRIaTFWc2VCZ25JN0xjZDRrRFNHU2VKV1FHVTR2dlBqX01tWkRjUDJ5U1VF0gGjAUFVX3lxTE5PeVF6cmVhM0xZdktkeVdrazVIZ3lsSXFZMlJkM19TVmxacVMydzBhdXBLbzBIdkVZREFPUXFFcXpnWlhscGpFVm5zYV9nNEVId1VuaVItb3p5TU0yVUJpdWFNVTlWQU5KN3lXcXpBaE9NZ3pCNF9GREhpMVZzZUJnbkk3TGNkNGtEU0dTZUpXUUdVNHZ2UGpfTW1aRGNQMnlTVUU?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-09-24T00:16:31.198283-07:00"
+  },
+  {
+    "item": {
+      "company": "Numeral",
+      "amount": "$100.0M",
+      "stage": "Series C",
+      "investors": "Insight Partners",
+      "location": null,
+      "blurb": "Numeral Raises $100M Series C. Numeral raises $100M Series C led by Insight Partners to scale its AI-powered sales tax compliance platform and expand product development.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/numeral-raises-100m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-09-24T00:16:34.021969-07:00"
+  },
+  {
+    "item": {
+      "company": "NG.CASH",
+      "amount": "$15.0M",
+      "stage": null,
+      "investors": "Blockchain Capital",
+      "location": null,
+      "blurb": "NG.CASH Raises $15M Other. NG.CASH raises $15M in a strategic investment led by Blockchain Capital to expand its financial platform and credit services for young Brazilians.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ng-cash-raises-15m-other/",
       "priority": 3
     },
-    "remind_at": "2026-09-23T19:10:07.287510-07:00"
+    "remind_at": "2026-09-24T00:16:37.165711-07:00"
   }
 ]
