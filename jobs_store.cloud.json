@@ -740,5 +740,43 @@
     "first_seen": "2026-09-24T13:38:18.035206-07:00",
     "status": "active",
     "applied_at": null
+  },
+  "0e4a6e580e7a9650bc7fbac55859a4e1": {
+    "id": "0e4a6e580e7a9650bc7fbac55859a4e1",
+    "title": "Product Designer",
+    "company": "Dirac, Inc.",
+    "location": "San Francisco Bay Area / NYC",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/diracinc/jobs/4418451009?gh_jid=4418451009",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "BuildOS brings these workflows together in one environment. Manufacturing engineers author, version, review, and distribute the Build\u2014the canonical definition of how a product is produced. Figma owns the design file, GitHub owns the repo, Dirac owns the Build. We\u2019re looking for an early Product Designer to define how that suite works and feels. You\u2019ll build serious tools for technical users in a domain where great design can fundamentally change how someone works. We\u2019re a small team that values autonomy, quality, feedback, and a bias toward action.\nAbout The Role\nYou will own projects from pencil to release, working across user research, product strategy, prototyping, interaction design, visual design, and frontend development. You'll shape both Structure\u2014flows, information architecture, and wireframes\u2014and Surface\u2014layout, typography, color, and interaction polish.\nDesign across BuildOS, including 3D CAD interaction, structured data authoring, document generation, and shop floor workflows.\nDefine the patterns, primitives, and interactions that make complex workflows feel like one coherent product.\nUnderstand the spreadsheets, internal tools, and manual processes users rely on today, then design replacements that are faster, more complete, and more trustworthy.\nBecome fluent in manufacturing workflows, including BOMs, BOPs, work instructions, GD&T, PMI, revision control, work centers, and takt time.\nWork directly with manufacturing engineers, operators, and customers, including spending time on factory floors.\nHelp establish Dirac\u2019s design language, design system, and product standards as Build OS grows.\nPartner closely with Product and Engineering from early exploration through implementation and release.\nContribute beyond traditional product design through user research, prototyping, frontend development, and product polish.\nRequirements\n5+ years of product design experience, ideally designing complex B2B, technical, or professional software.\nHigh technical acumen and experience designing complex systems, workflows, and information-heavy interfaces.\nStrong interaction and visual design skills, from early concepts and prototypes through polished production-ready designs.\nExperience owning projects end-to-end, including research, problem definition, design, implementation, and release.\nStrong product judgment and the ability to balance user needs, technical constraints, business priorities, and speed.\nHigh attention to detail and a strong bar for craft, usability, and visual quality.\nAbility to self-direct, prioritize independently, and thrive in a fast-moving, ambiguous environment.\nExperience using qualitative and quantitative insights to inform design decisions.\nFamiliarity with user research, usability testing, and prototyping.\nAbility to clearly communicate design decisions and rationale across Product and Engineering.\nA bias toward shipping and iteration over perfection.\nCuriosity about how physical things get made. Manufacturing experience is not required, but you should want to build that expertise.\nExperience designing CAD, PLM, EDA, developer tools, data tools, industrial software, or other professional-grade applications.\nExperience designing complex data models, tables, hierarchical information, timelines, graphs, or 3D/spatial interfaces.\nExperience building or maintaining a design system.\nAbility to contribute frontend code, particularly with React, TypeScript, HTML, or CSS.\nExperience designing zero-to-one products or working at an early-stage startup.\nExperience conducting research with specialized technical users.\nExposure to manufacturing, mechanical engineering, robotics, aerospace, automotive, industrial engineering, or hardware development.\nCAD and PLM describe what a product is. ERP and MES record that production happened. Neither describes how the product gets built. There is no established software layer for this work and no established design language for it either. You will have the opportunity to defin",
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-09-24T16:27:51.239906-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "08db4b834c816c493d7f063a3055df9f": {
+    "id": "08db4b834c816c493d7f063a3055df9f",
+    "title": "Brand Designer",
+    "company": "Warp",
+    "location": "New York",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/warp/300d33a7-fc93-4f4a-828e-f3482edd5f89",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "ABOUT WARP\n\nWarp is the AI-native Employee Management Platform for ambitious companies. HRIS, payroll, benefits, IT, tax compliance, and more, all built from scratch on one AI-native platform.\n\nEvery company runs on its people, and the software that manages them is some of the oldest in the enterpri",
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-09-24T16:27:52.844092-07:00",
+    "status": "active",
+    "applied_at": null
   }
 }

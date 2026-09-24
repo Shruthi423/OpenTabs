@@ -908,5 +908,21 @@
     "roles": [],
     "first_seen": "2026-09-24T10:26:40.557393-07:00",
     "status": "active"
+  },
+  "58b8841b62c7c778e02a4b340821891b": {
+    "id": "58b8841b62c7c778e02a4b340821891b",
+    "company": "Row Zero",
+    "amount": "$13.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/09/24/databricks-acquires-spreadsheet-startup-row-zero-to-enhance-its-ai-capabilities/",
+    "priority": 3,
+    "blurb": "Databricks acquires spreadsheet startup Row Zero to enhance its AI capabilities. Databricks Inc. today announced that it has bought Row Zero Inc., a startup with a spreadsheet editor optimized for large datasets. The acquisition price was not disclosed. Seattle-based Row Zero raised $13 million prior to the deal. Its backers included local startup funds and Wes McKinney, a prominent software engineer best known for his work [&#8230;]\nThe post Databricks acquires spreadsheet startup Row Zero to e",
+    "founders": [],
+    "location": "Seattle",
+    "roles": [],
+    "first_seen": "2026-09-24T16:28:32.559385-07:00",
+    "status": "active"
   }
 }
