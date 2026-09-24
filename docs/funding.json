@@ -1,5 +1,35 @@
 [
   {
+    "id": "17eea63e0887c69d4f2f48a0bea4d47e",
+    "company": "Cal AI\u2019s Zach Yadegari",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-24T10:26:40.557393-07:00",
+    "status": "active"
+  },
+  {
+    "id": "97068239eb8a93aef8566e6fa60b3cdf",
+    "company": "From Booking Calls",
+    "amount": "$6.7M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/dextr-ai-hospitality-agents-raises-seed-funding/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-24T10:26:34.451353-07:00",
+    "status": "active"
+  },
+  {
     "id": "69781917c31dc0f09f0341f9ab955dea",
     "company": "Island",
     "amount": "$6.4B",

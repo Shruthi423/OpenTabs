@@ -1,79 +1,32 @@
 [
   {
     "item": {
-      "company": "PicoJool",
-      "amount": "$27.5M",
-      "stage": "Series A",
-      "investors": "Socratic Partners",
-      "location": null,
-      "blurb": "Pat Gelsinger-backed startup PicoJool raises $27.5M to boost bandwidth for AI clusters. A startup called PicoJool that\u2019s backed by former Intel Corp. Chief Executive Pat Gelsinger says it\u2019s ready to help ease the strain on artificial intelligence data centers after raising $27.5 million in early-stage funding today. The Series A round was led by Socratic Partners and saw participation from Hudson River Trading. It brings the company\u2019s [&#8230;]\nThe post Pat Gelsinger-backed startup PicoJool rais",
-      "founders": [
-        "Pat Gelsinger"
-      ],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/24/pat-gelsinger-backed-startup-picojool-raises-27-5m-to-boost-bandwidth-for-ai-clusters/",
-      "priority": 8
-    },
-    "remind_at": "2026-09-24T05:48:16.483151-07:00"
-  },
-  {
-    "item": {
-      "company": "Teal Health",
-      "amount": "$22.0M",
-      "stage": "Series A",
+      "company": "From Booking Calls",
+      "amount": "$6.7M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
-      "blurb": "Teal Health Raises $22M Series A. Teal Health raises $22M in Series A funding led by .406 Ventures to scale its at-home HPV screening platform and expand insurance partnerships.",
+      "blurb": "Exclusive: From Booking Calls To Late Check-Ins, Dextr AI Raises $6.7M For Hotel AI Agents. Dextr AI is emerging from stealth with $6.7 million in seed funding to build agents that handle reservations, guest requests, staff coordination and other hotel tasks.",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/teal-health-raises-22m-series-a/",
-      "priority": 8
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/dextr-ai-hospitality-agents-raises-seed-funding/",
+      "priority": 9
     },
-    "remind_at": "2026-09-24T05:48:23.301234-07:00"
+    "remind_at": "2026-09-24T10:56:33.451204-07:00"
   },
   {
     "item": {
-      "company": "Island",
-      "amount": "$400.0M",
+      "company": "Cal AI\u2019s Zach Yadegari",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Browser security startup Island raises $400M at $6.4B valuation to defend against rogue AI agents. Browser security startup Island has raised $400 million at a $6.4 billion valuation as companies confront a new security problem: AI agents that can browse websites, access corporate systems, handle files, and take actions with far less human supervision. The [&#8230;]\nThe post Browser security startup Island raises $400M at $6.4B valuation to defend against rogue AI agents first appeared on Tech S",
+      "blurb": "TechCrunch Disrupt 2026: Cal AI\u2019s Zach Yadegari on how to create viral growth and capitalize on it. Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/24/browser-security-startup-island-raises-400m-at-6-4b-valuation-to-defend-against-rogue-ai-agents/",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
       "priority": 3
     },
-    "remind_at": "2026-09-24T05:48:27.390090-07:00"
-  },
-  {
-    "item": {
-      "company": "Nuvia",
-      "amount": "$1.8M",
-      "stage": null,
-      "investors": "Amador Capital",
-      "location": null,
-      "blurb": "Nuvia Raises $1.8M in Funding. Nuvia raises $1.8M in a funding round led by Amador Capital and Nascent to accelerate its AI sales agent platform expansion across Latin America.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/nuvia-raises-1-8m-in-funding/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-24T05:48:30.348196-07:00"
-  },
-  {
-    "item": {
-      "company": "Island",
-      "amount": "$6.4B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "AI startup Island valued at $6.4 billion in latest funding round - The Mighty 790 KFGO. AI startup Island valued at $6.4 billion in latest funding round&nbsp;&nbsp;The Mighty 790 KFGO",
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNngwUEtmbWl4VlhTOVBjSzRlczgyWXJvOGJNaHB2V0pXdzlSY1JZaklKcjBnMjBPY0NvOFMtR0VsN3FpeEJ4QkNRcWxFRzh0dUtsY1lBSWxVa25UWjJuZTgzZ0RtekM2cWl2ZEo0VlplS2NybHk5dHp2X3RSdjBKZUI2OUNGcUpENEdVYzdtd0NTeW43Q2hZ?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-09-24T05:48:33.400476-07:00"
+    "remind_at": "2026-09-24T10:56:39.557247-07:00"
   }
 ]
