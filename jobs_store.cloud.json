@@ -17,7 +17,7 @@
     "first_seen": "2026-09-21T17:51:48.978740-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-09-24T23:38:30.100871-07:00",
+    "checked_at": "2026-09-25T05:13:47.919337-07:00",
     "dead_strikes": 0
   },
   "4e9b72139a8169d723a2eedcb19cad54": {
@@ -37,7 +37,9 @@
     "priority": 4,
     "first_seen": "2026-09-22T03:22:06.758392-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-25T05:13:47.919337-07:00",
+    "dead_strikes": 0
   },
   "c8cefd6dc21effde5535e39bf72c8180": {
     "id": "c8cefd6dc21effde5535e39bf72c8180",
@@ -56,7 +58,9 @@
     "priority": 2,
     "first_seen": "2026-09-22T03:22:08.509836-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-25T05:13:47.919337-07:00",
+    "dead_strikes": 0
   },
   "bdb14dafce4b23a44f92807bbc0a78ec": {
     "id": "bdb14dafce4b23a44f92807bbc0a78ec",
@@ -75,7 +79,9 @@
     "priority": 4,
     "first_seen": "2026-09-22T03:22:10.327840-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-25T05:13:47.919337-07:00",
+    "dead_strikes": 0
   },
   "b3f6c7a25c8e1b2266ff9b918206d756": {
     "id": "b3f6c7a25c8e1b2266ff9b918206d756",
@@ -94,7 +100,9 @@
     "priority": 5,
     "first_seen": "2026-09-22T03:22:12.119639-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-25T05:13:47.919337-07:00",
+    "dead_strikes": 0
   },
   "d41a0c6e4c8d1d79a8d02ae0bf3523e9": {
     "id": "d41a0c6e4c8d1d79a8d02ae0bf3523e9",
@@ -113,7 +121,9 @@
     "priority": 4,
     "first_seen": "2026-09-22T03:22:13.749514-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-25T05:13:47.919337-07:00",
+    "dead_strikes": 0
   },
   "39a0c51ba0ef2d9bf145dd5fac84a850": {
     "id": "39a0c51ba0ef2d9bf145dd5fac84a850",
@@ -132,7 +142,9 @@
     "priority": 5,
     "first_seen": "2026-09-22T03:22:15.496251-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-25T05:13:47.919337-07:00",
+    "dead_strikes": 0
   },
   "4d314eccce618ca81ff6869f45f7d0d7": {
     "id": "4d314eccce618ca81ff6869f45f7d0d7",
@@ -151,7 +163,9 @@
     "priority": 3,
     "first_seen": "2026-09-22T03:22:17.264063-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-25T05:13:47.919337-07:00",
+    "dead_strikes": 0
   },
   "0bdda4a48d2cf2cb72bf6afea0b4bac4": {
     "id": "0bdda4a48d2cf2cb72bf6afea0b4bac4",
@@ -170,7 +184,9 @@
     "priority": 4,
     "first_seen": "2026-09-22T03:22:19.021719-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-25T05:13:47.919337-07:00",
+    "dead_strikes": 0
   },
   "15226e6da22c8bbeb8868d4a73d755be": {
     "id": "15226e6da22c8bbeb8868d4a73d755be",
@@ -189,7 +205,9 @@
     "priority": 5,
     "first_seen": "2026-09-22T03:22:20.802879-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-25T05:13:47.919337-07:00",
+    "dead_strikes": 0
   },
   "887aef28ce44fa80a1ab1a3add2580fc": {
     "id": "887aef28ce44fa80a1ab1a3add2580fc",
@@ -208,7 +226,9 @@
     "priority": 2,
     "first_seen": "2026-09-22T03:22:22.469984-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-25T05:13:47.919337-07:00",
+    "dead_strikes": 0
   },
   "4308fe8f5ce28dc560e5ce3c5b1621e3": {
     "id": "4308fe8f5ce28dc560e5ce3c5b1621e3",
@@ -227,7 +247,9 @@
     "priority": 3,
     "first_seen": "2026-09-22T03:22:24.224681-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-25T05:13:47.919337-07:00",
+    "dead_strikes": 0
   },
   "1edd106a29675674d38ab47075da871c": {
     "id": "1edd106a29675674d38ab47075da871c",
@@ -246,7 +268,9 @@
     "priority": 4,
     "first_seen": "2026-09-22T03:22:25.993393-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-25T05:13:47.919337-07:00",
+    "dead_strikes": 0
   },
   "eb007648a27932c616f096b30949c4c5": {
     "id": "eb007648a27932c616f096b30949c4c5",
@@ -265,7 +289,9 @@
     "priority": 3,
     "first_seen": "2026-09-22T03:22:27.646932-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-25T05:13:47.919337-07:00",
+    "dead_strikes": 0
   },
   "cad3956d12d13da5e6f8be20ea78728d": {
     "id": "cad3956d12d13da5e6f8be20ea78728d",
@@ -284,7 +310,9 @@
     "priority": 2,
     "first_seen": "2026-09-22T03:22:29.873420-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-09-25T05:13:47.919337-07:00",
+    "dead_strikes": 0
   },
   "7b6bee2ac981bf3153494d6365160faa": {
     "id": "7b6bee2ac981bf3153494d6365160faa",
@@ -778,6 +806,44 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-09-24T16:27:52.844092-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "14fec50e5aff7081f9aadbf149f20639": {
+    "id": "14fec50e5aff7081f9aadbf149f20639",
+    "title": "UX Researcher II",
+    "company": "Renaissance",
+    "location": "Remote",
+    "salary": "$82,200 - $113,100",
+    "url": "https://uiuxjobsboard.com/job/1616426-remote-united-states-ux-researcher-ii",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "When you join Renaissance\u00ae, you join a global leader in pre-K\u201312 education technology! Renaissance\u2019s solutions help educators analyze, customize, and plan personalized learning paths for students, allowing time for what matters\u2014creating energizing learning experiences in the classroom. Our fiercely passionate employees and educational partners have helped drive phenomenal student growth, with Renaissance solutions being used in over one-third of US schools and in more than 100 countries worldwide.\nEvery day, we are connected to our mission by exemplifying our values: trust each other, win together, strive for the best, own our actions, and grow and evolve.\nJob Description\nUnder general supervision, plan and execute research initiatives that generate meaningful insights and communicate findings through clear, compelling narratives. Collaborate with UX designers, product managers, product owners, and engineers to help inform product strategy, discover new opportunities, and validate design decisions that enhance the user experience and drive product optimization.\nIn this role as a UX Researcher II, you will be responsible for:\nDesign, plan, and execute end-to-end research studies using\u00a0appropriate qualitative\u00a0and quantitative methodologies\u00a0with guidance from senior team members\nConduct and synthesize research projects including user interviews, usability testing sessions, surveys, card sorting, and contribute to A/B testing initiatives\nSynthesize research findings into clear, actionable insights and present recommendations to cross-functional teams with a compelling, influential story.\nAnalyze insights from research sessions to\u00a0identify\u00a0key opportunities\u00a0and user needs\nWorks\u00a0collaboratively and communicates\u00a0effectively with peers and managers\nMonitor and analyze user behavior metrics and usability benchmarks\u00a0with support from senior researchers\nSupport the evaluation and optimization of research methodologies to improve quality and efficiency of insights\nAssist\u00a0with research operations including participant recruitment, scheduling, and research repository maintenance\nQualifications\nFor this role as a UX Researcher II, you should have:\nDegree in Human-Computer Interaction,\u00a0Anthropology, Social Science, Design Research, Psychology, Cognitive\u00a0Science\u00a0or related field\n3-5\u00a0years of experience\u00a0in UX Research or e quivalent combination of education and experience\nProficiency\u00a0in qualitative research methods including interviews, contextual\u00a0inquiry\u00a0and observational studies\nWorking knowledge of quantitative research methods including survey design and basic statistical analysis\nFamiliarity with mixed-methods research approaches\nExperience with evaluative research including usability testing and heuristic evaluation\nExposure to generative and exploratory research techniques\nAbility to execute research protocols and discussion guides\nExperience with participant recruitment and screening\nUnderstanding of\u00a0research ethics and informed consent practices\nExperience conducting research with diverse user groups\nPortfolio\u00a0showcasing\u00a0research projects, methodologies applied, and measurable impact on product outcomes\nAll your information will be kept confidential according to EEO guidelines.\nSalary Range: The base range for this position is $82,200.00 - $113,100.00. This range is based on national market data and may vary by experience and location.\nWorld Class Health Benefits: Medical, Prescription, Dental, Vision, Telehealth\nHealth Savings and Flexible Spending Accounts\nParental Leave (20 total weeks with 14 weeks paid) & Milk Stork program\nBenefits listed apply to eligible U.S. employees in accordance with Renaissance\u2019s benefits eligibility criteria. Contractor and other non\u2011employee roles are not eligible for Renaissance employee benefits.\nFrequently cited statistics show that some women, underrepresented individuals, protected veterans and individuals with disabilities may only apply to roles if they meet 100% of the qualifications. At Renaissa",
+    "posted_at": "6h",
+    "priority": 5,
+    "first_seen": "2026-09-25T05:14:48.936345-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "76294d003296ac3c3dbb887cf12679be": {
+    "id": "76294d003296ac3c3dbb887cf12679be",
+    "title": "Product & Brand Designer",
+    "company": "V7Labs.Com",
+    "location": "London",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/v7labs.com/c5b36427-a4b2-4fa5-ad16-9672b79a4d15",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "V7\n\nAt V7, we\u2019re building AI platforms that help humans do their best work, at incredible scale and speed. Our mission is to turn human knowledge into trustworthy AI, making complex tasks faster, smarter, and more accurate.  We\u2019re growing fast, backed by leading investors and AI pioneers (including",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-09-25T05:14:50.555658-07:00",
     "status": "active",
     "applied_at": null
   }

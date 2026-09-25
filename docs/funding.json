@@ -1,5 +1,106 @@
 [
   {
+    "id": "e3c9d3c7a60ab506e632850e1deb978b",
+    "company": "Subconscious",
+    "amount": "$5.1M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/subconscious-raises-5-1m-pre-seed-seed/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-25T05:15:48.233820-07:00",
+    "status": "active"
+  },
+  {
+    "id": "8e7f82790bc891510a2e109162cd5cc5",
+    "company": "MCO",
+    "amount": "$100.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/mco-raises-100m-growth-capital/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-25T05:15:45.141688-07:00",
+    "status": "active"
+  },
+  {
+    "id": "e6f2323c0b6804cf31e20201fce02479",
+    "company": "Kontext",
+    "amount": "$4.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/kontext-raises-4m-other/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-25T05:15:42.146541-07:00",
+    "status": "active"
+  },
+  {
+    "id": "db350385ee66a26279a2754749a89386",
+    "company": "Scholar Education",
+    "amount": "$2.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/scholar-education-raises-2m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-25T05:15:38.965052-07:00",
+    "status": "active"
+  },
+  {
+    "id": "493960cbfb46ed58b148f8f4d07da05f",
+    "company": "Codebreaker Labs",
+    "amount": "$4.5M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/codebreaker-labs-raises-4-5m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-25T05:15:32.941087-07:00",
+    "status": "active"
+  },
+  {
+    "id": "c87659535791dd9b3745474846210a54",
+    "company": "Ando",
+    "amount": "$20.0M",
+    "stage": "Seed",
+    "investors": "Accel, Index Ventures, Emergence Capital",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/ando-raises-20m-seed/",
+    "priority": 12,
+    "founders": [],
+    "location": "San Francisco",
+    "roles": [
+      {
+        "title": "Brand Designer",
+        "url": "https://jobs.ashbyhq.com/ando/3ea1e324-dbe6-488f-94a1-00a4a03aec76",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/ando/7de86b5b-cda4-4c3f-9d32-8defb3a1a191",
+        "location": "San Francisco"
+      }
+    ],
+    "first_seen": "2026-09-25T05:15:29.883585-07:00",
+    "status": "active"
+  },
+  {
     "id": "0eb5031967465ad57c38f03f56178e14",
     "company": "Fever",
     "amount": "$250.0M",
