@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "item": {
+      "company": "Crux Analytics",
+      "amount": "$2.2M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Crux Analytics Raises $2.2M Seed. Crux Analytics raises $2.2M in seed funding led by Castle Creek Launchpad to scale its sales execution platform for financial institutions.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/crux-analytics-raises-2-2m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-25T00:09:27.238293-07:00"
+  },
+  {
+    "item": {
+      "company": "Dextr AI",
+      "amount": "$6.7M",
+      "stage": "Seed",
+      "investors": "Elevation Capital",
+      "location": null,
+      "blurb": "Dextr AI Raises $6.7M Seed. Dextr AI raises $6.7M in seed funding led by Elevation Capital to scale its AI agent platform for hospitality automation.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/dextr-ai-raises-6-7m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-25T00:09:30.171018-07:00"
+  },
+  {
+    "item": {
+      "company": "Korea's Dental Robotics",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Korea's Dental Robotics raises seed round for self-driving suction robot - Dealroom. Korea's Dental Robotics raises seed round for self-driving suction robot&nbsp;&nbsp;Dealroom",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazdKN05LWV9KX3JzMGpMQldyZ3FrR28ySnpfeGNaSjh3Wi1VT2hfREptLTBJTlJXU0dXQjlKUUJrWWduMjZza000M0d5X3NHZzNCR1BIVHlyQ2EwSm9yM0t4dmZjYTVKUDM4NTJ6WDJ0dUxDWTRZZHE5LVNidXotazc3X1hNYlhELWpDQzhFOEgxcWJmVFAyTG4tM2h6MHhtWXFQS0FORGx1Zw?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-25T00:09:35.915910-07:00"
+  },
+  {
+    "item": {
+      "company": "Axya",
+      "amount": "$17.0M",
+      "stage": "Series A",
+      "investors": "McRock Capital",
+      "location": null,
+      "blurb": "Axya Raises $17M Series A. Axya raises $17M in a Series A funding round led by McRock Capital to enhance its AI-powered procurement platform for the manufacturing industry.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/axya-raises-17m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-25T00:09:38.808869-07:00"
+  },
+  {
+    "item": {
+      "company": "Trebellar",
+      "amount": "$18.0M",
+      "stage": "Series A",
+      "investors": "Blossom Capital",
+      "location": null,
+      "blurb": "Trebellar Raises $18M Series A. Trebellar raises $18M in Series A funding led by Blossom Capital to scale its AI-native platform for corporate real estate management.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/trebellar-raises-18m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-25T00:09:41.865208-07:00"
+  },
+  {
+    "item": {
+      "company": "IPID",
+      "amount": "$16.0M",
+      "stage": "Series A",
+      "investors": "Foundation Capital",
+      "location": null,
+      "blurb": "IPID Raises $16M Series A. IPID raises $16M in Series A funding led by Foundation Capital to expand its payment intelligence and fraud verification platform globally.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ipid-raises-16m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-25T00:09:44.834583-07:00"
+  },
+  {
+    "item": {
+      "company": "Chari",
+      "amount": "$12.0M",
+      "stage": "Series A",
+      "investors": "SPE Capital, Orange Ventures",
+      "location": null,
+      "blurb": "Chari Raises $12M Series A. Chari raises $12M Series A led by SPE Capital and Orange Ventures to expand its Moroccan merchant super app and launch a new BaaS platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/chari-raises-12m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-25T00:09:47.788520-07:00"
+  },
+  {
+    "item": {
+      "company": "Fever",
+      "amount": "$250.0M",
+      "stage": null,
+      "investors": "EQT",
+      "location": null,
+      "blurb": "Fever Raises $250M Growth Capital. Fever raises $250 million in a growth capital round led by EQT to scale its live entertainment technology platform globally.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/fever-raises-250m-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-25T00:09:50.731590-07:00"
+  }
+]
