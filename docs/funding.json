@@ -1,5 +1,35 @@
 [
   {
+    "id": "0a5389e645ddbdaad1fe53306d381c96",
+    "company": "HIFI",
+    "amount": "$37.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "AlleyWatch",
+    "url": "https://www.alleywatch.com/2026/09/hifi-stablecoin-payments-infrastructure-tokenized-capital-markets-platform-zach-walsh/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-25T13:31:39.265449-07:00",
+    "status": "active"
+  },
+  {
+    "id": "86a622711859450f36c1ad46426287c5",
+    "company": "Dextr AI",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX3hKZ2h2SG9QNFg4UXRVMG44ekU0ZXVCMU1JMFMzWnI5cTAycElWR0FXNVBpUVdhWHMwcmgyLVhCTU5OMEJiR2dnTWMzQlVQNnNpV3JFVEUtdmtwSExVRTR1eXdxd1JmT2RIZmgySWpYcTFaRzEwZzVjZlRsaWxxQkRPRkttQQ?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-25T13:31:35.950217-07:00",
+    "status": "active"
+  },
+  {
     "id": "e3c9d3c7a60ab506e632850e1deb978b",
     "company": "Subconscious",
     "amount": "$5.1M",
