@@ -1239,5 +1239,37 @@
     "roles": [],
     "first_seen": "2026-09-27T08:40:27.556751-07:00",
     "status": "active"
+  },
+  "971aa74bdb34fccb6f145c829e214a0a": {
+    "id": "971aa74bdb34fccb6f145c829e214a0a",
+    "company": "Feather",
+    "amount": "$7.6M",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVy1UY2NBamE2Ui1Wd2dReWVYMDZVVzZGejJsSzdVWTVqOWt4QW1jekJxdGhOWjAtVWIzeTNUZGNKY2JIUDlmU2liUHNjWjFXcEk4UWFYVkJUQldlbExjU1Juem1UNDRMd2N2THlrTmNRY0VrTGdfN1BkZmlGLTdaS2l2QTdrWHZybjdHbWdxZlUtX1pMbmhQN2hURi1RWDB2VjRwUGtDeEZMYWtuYW5lSTc0UzJzZFVTeGpmNDY3Q2Q1LTZQZlBlOU5wRQ?oc=5",
+    "priority": 10,
+    "blurb": "Feather Raises $7.6M in Pre-Seed Funding to Build Humanoid Platform for Third-Party Developers - AI Insider. Feather Raises $7.6M in Pre-Seed Funding to Build Humanoid Platform for Third-Party Developers&nbsp;&nbsp;AI Insider",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-27T15:26:34.379756-07:00",
+    "status": "active"
+  },
+  "a091d763ff8ed3c74d945a864c64f030": {
+    "id": "a091d763ff8ed3c74d945a864c64f030",
+    "company": "Drone-Powered Rainmaker",
+    "amount": "$100.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qbE9rZjgtS1hZVXNDaHV1Z0lYQzVpY3RWcFV4Ukx3T005NWRpRmRxWDFBRFZzc3dSZVMxWm53bkFVcFN6QTNNTjNlUXo4UTBRM2Q0?oc=5",
+    "priority": 7,
+    "blurb": "Drone-Powered Rainmaker Raises $100M Series B to Scale Cloud Seeding - Wowtale. Drone-Powered Rainmaker Raises $100M Series B to Scale Cloud Seeding&nbsp;&nbsp;Wowtale",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-27T15:26:40.513778-07:00",
+    "status": "active"
   }
 }
