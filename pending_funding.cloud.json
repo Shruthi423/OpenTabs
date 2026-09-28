@@ -1,77 +1,197 @@
 [
   {
     "item": {
-      "company": "Qambria",
-      "amount": "$2.4M",
+      "company": "Bilt.me",
+      "amount": null,
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
-      "blurb": "Qambria Raises $2.4M Pre-seed. Qambria raises $2.4M in a pre-seed round led by Syntropy to commercialize its quantum infrastructure control software for high-performance computing.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/qambria-raises-2-4m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-09-28T00:03:17.570983-07:00"
-  },
-  {
-    "item": {
-      "company": "Locus",
-      "amount": null,
-      "stage": null,
-      "investors": "Range Ventures",
-      "location": null,
-      "blurb": "Locus Lock Raises Strategic Funding. Locus Lock raises a strategic funding round led by Range Ventures to accelerate the deployment of its software-defined GNSS technology.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/locus-lock-raises-strategic-funding/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-28T00:03:20.502492-07:00"
-  },
-  {
-    "item": {
-      "company": "SynthBee",
-      "amount": "$100.0M",
-      "stage": null,
-      "investors": "Crosspoint Capital",
-      "location": null,
-      "blurb": "SynthBee Raises $100M in Funding. SynthBee raises $100M in growth capital led by Crosspoint Capital to scale its Collaborative Intelligence AI platform for enterprise innovation.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/synthbee-inc-raises-100m-growth-capital/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-28T00:03:23.428211-07:00"
-  },
-  {
-    "item": {
-      "company": "Humanos",
-      "amount": "$3.2M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Humanos raises $3.2M to score the risk of AI agents in real time - app.dealroom.co. Humanos raises $3.2M to score the risk of AI agents in real time&nbsp;&nbsp;app.dealroom.co",
+      "blurb": "Bilt.me Raises $700,000 In Pre-Seed Funding To Help Entrepreneurs Build And Launch Mobile Apps With AI - Pulse 2.0. Bilt.me Raises $700,000 In Pre-Seed Funding To Help Entrepreneurs Build And Launch Mobile Apps With AI&nbsp;&nbsp;Pulse 2.0",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdl9NRVQ4aDBySkpVb2F0Z20yNnQ2Rk1xOGxERjBWNEh0QWN2V3ZZNS14aTgzYm5rYUloQU1zenQyTnRnLW5LLWNKeGhud0pqNUxPdkRIbnRUdzRCOWNDWnF2b3pVRVVyYVZlWEh4SFhyMmFvSDZvYUM4WEhpckhjcUI2OEVJbkhNb3QxRXJSRl9fOVViaHhBVXo3LWtLZw?oc=5",
-      "priority": 3
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4QzZiVmZYNV9VQkhqM3c0Xy1Va0VpWWJDNGk4akwxbFZtMWtCU0ZLV3NOVGo3RWpvdHV2Rko3bGpDbS1TVmNSeGpyalM2eG45al9EaVhaNm8yVlBYZDhWU1lqM0V2NHU4X19mZnln0gFzQVVfeXFMT2QwY2ZLVGlLblJHczRDN3RneG5FUjd6bEgxYlN3RFVlaVVIb3p1OG5OVmhyNnFzRllfZ3ZCbVRkQ2d1Ym1mc2JxNWEtUzg1XzVwR2FDNWpObUkzZ3E1cU9MOUFaMlQyc1ZFaDMyTy05Ykp6Zw?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-09-28T00:03:26.828505-07:00"
+    "remind_at": "2026-09-28T08:01:38.406453-07:00"
+  },
+  {
+    "item": {
+      "company": "Autoheal",
+      "amount": "$7.9M",
+      "stage": "Seed",
+      "investors": "Innovation Endeavors and saw participation from Emergent Ventures, U&#",
+      "location": null,
+      "blurb": "Autoheal raises $7.9M to evaluate and fix AI agents with\u2026 AI agents. Autoheal AI Inc., an artificial intelligence-native platform engineering startup that\u2019s trying to pioneer the concept of \u201cself-improving software factories,\u201d said today it has raised $7.9 million in seed funding to make that happen. Today\u2019s round was led by Innovation Endeavors and saw participation from Emergent Ventures, U&#38;I Ventures, Darkmode Ventures, Batch Ventures and Param Hansa [&#8230;]\nThe post Autoheal raises $7.",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/28/autoheal-raises-7-9m-to-evaluate-and-fix-ai-agents-with-ai-agents/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-28T08:01:41.326889-07:00"
+  },
+  {
+    "item": {
+      "company": "VoirPro",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "VoirPro Raises $500,000 Seed. VoirPro raises $500,000 in seed funding to enhance its AI-powered Voirtex litigation intelligence platform for trial teams.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/voirpro-raises-500000-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-28T08:01:53.109297-07:00"
+  },
+  {
+    "item": {
+      "company": "Row Zero",
+      "amount": "$10.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Row Zero Raises $10M Seed. Row Zero raises $10M in seed funding to expand its enterprise spreadsheet platform designed for big data analysis and cloud-native security.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/row-zero-raises-10m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-28T08:01:58.915090-07:00"
+  },
+  {
+    "item": {
+      "company": "AMentoria",
+      "amount": "$1.0M",
+      "stage": "Seed",
+      "investors": "Triaxis Capital, Crescera Capital",
+      "location": null,
+      "blurb": "AMentoria Raises R$1M Seed. AMentoria raises R$1M in a Seed round led by Triaxis Capital and Crescera Capital to expand its edtech platform for university entrance exam preparation.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/amentoria-raises-r1m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-28T08:02:03.942837-07:00"
   },
   {
     "item": {
       "company": "Alive App",
-      "amount": null,
-      "stage": null,
-      "investors": "Flipkart Ventures",
+      "amount": "$1.0M",
+      "stage": "Seed",
+      "investors": "Powerhouse Ventures&nbsp",
       "location": null,
-      "blurb": "Alive App raises $1 Mn from Powerhouse, Flipkart Ventures - Entrackr. Alive App raises $1 Mn from Powerhouse, Flipkart Ventures&nbsp;&nbsp;Entrackr",
+      "blurb": "Alive App Raises $1 Million Seed Funding Led by Powerhouse Ventures - Siliconindia. Alive App Raises $1 Million Seed Funding Led by Powerhouse Ventures&nbsp;&nbsp;Siliconindia",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOHVjZVRZd2RYY2Y2ZGp0b1gxUm5EeVRuNHc2UmpDRGZ2N21SbW9ObkFYbW1vNk1WR1V2cnY5cUY3OVJYN2ZBeG0ydVNSZDEzd09fV2RtMEtJSEVvczREbXdOeFo5MXRLV2ZSV2lOMjkzVlNyU2FkRFotUmFzZWdaeElnYmY3dF83ZkJ0b2MxQTV6X0QzU09EODNB0gGaAUFVX3lxTE84dWNlVFl3ZFhjZjZkanRvWDFSbkR5VG40dzZSakNEZnY3bVJtb05uQVhtbW82TVZHVXZydjlxRjc5Ulg3ZkF4bTJ1U1JkMTN3T19XZG0wS0lIRW9zNERtd054WjkxdEtXZlJXaU4yOTNWU3JTYWREWi1SYXNlZ1p4SWdiZjd0XzdmQnRvYzFBNXpfRDNTT0Q4M0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGNqclkwUjNVTmd0RkROMFk0ZEQyTFVUU3YxZGFxd1A2WlFsbjRTQ0JuSy1JZEZnVnJQMkptdTV1Y1FkX3BjSDBLVERhOENxbTZJbjdHaTJNYndqRktGQ2xsRGRpUXNqZHltV2R3blljWkhNV3lRYzBaaS14RTNVV2gzZnl3aVYtckYxVXVfblNYSy1jdzloMFdCMzV1Ny1SQjJneW45ckw5RGtEVThlNU1RN2Qxd0NKMGFMemhZZU4xZ1VOZERzd3pNVVdmN3NF?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-28T08:02:06.859338-07:00"
+  },
+  {
+    "item": {
+      "company": "Talos",
+      "amount": "$45.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "blurb": "Talos Raises $45M Series B Extension. Talos raises a $45M Series B extension at a $1.5B valuation to scale its institutional digital asset trading and infrastructure platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/talos-raises-45m-series-b-extension/",
+      "priority": 7
+    },
+    "remind_at": "2026-09-28T08:02:09.681298-07:00"
+  },
+  {
+    "item": {
+      "company": "Motive",
+      "amount": "$1.3B",
+      "stage": null,
+      "investors": "General Catalyst",
+      "location": null,
+      "blurb": "Motive Raises $1.3B Growth Capital. Motive raises $1.3 billion in growth financing led by General Catalyst to accelerate AI platform innovation and scale global go-to-market operations.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/motive-raises-1-3b-growth-capital/",
+      "priority": 6
+    },
+    "remind_at": "2026-09-28T08:02:12.511102-07:00"
+  },
+  {
+    "item": {
+      "company": "Insuretech Outmarket",
+      "amount": "$34.5M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Insuretech Outmarket raises $34.5M just months after prior round. The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
       "priority": 3
     },
-    "remind_at": "2026-09-28T00:03:29.649459-07:00"
+    "remind_at": "2026-09-28T08:02:18.384074-07:00"
+  },
+  {
+    "item": {
+      "company": "Modulate",
+      "amount": "$25.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Voice AI startup Modulate raises $25M to bring audio-native models to more developers. Voice artificial intelligence startup Modulate Inc. today announced it has raised $25 million in new funding to get its audio-native models in front of more developers. Modulate offers AI models that work on the raw audio of a conversation. Emotion, tone and intent all register as signals, as do signs that a voice is a [&#8230;]\nThe post Voice AI startup Modulate raises $25M to bring audio-native models to mor",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/28/voice-ai-startup-modulate-raises-25m-to-bring-audio-native-models-to-more-developers/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-28T08:02:21.254552-07:00"
+  },
+  {
+    "item": {
+      "company": "SiMa.ai",
+      "amount": "$150.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Physical AI custom chip startup SiMa.ai raises $150M at $1.45B valuation. Custom physical artificial intelligence chip startup SiMa.ai Technologies Inc. today announced it has raised $150 million in new funding at a $1.45 billion valuation to scale up its development environment and fund the next generation of its embedded AI compute platform. Physical AI devices are hardware systems including robots, drones and autonomous vehicles that integrate [&#8230;]\nThe post Physical AI custom chip startu",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/28/physical-ai-custom-chip-producer-sima-ai-raises-150m-at-1-45b-valuation/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-28T08:02:24.241832-07:00"
+  },
+  {
+    "item": {
+      "company": "Instinct",
+      "amount": "$1.0B",
+      "stage": null,
+      "investors": null,
+      "location": "San Francisco",
+      "blurb": "AI agent startup Instinct raises $1 billion at $10 billion valuation to build personal AI agent. AI agent startup Instinct has raised $1 billion at a $10 billion valuation, giving the San Francisco company a massive war chest to pursue one of AI\u2019s biggest consumer bets: an assistant that does more than answer questions and actually [&#8230;]\nThe post AI agent startup Instinct raises $1 billion at $10 billion valuation to build personal AI agent first appeared on Tech Startups.",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/09/28/ai-agent-startup-instinct-raises-1-billion-at-10-billion-valuation-to-build-personal-ai-agent/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-28T08:02:27.511874-07:00"
+  },
+  {
+    "item": {
+      "company": "Nof1",
+      "amount": "$15.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Nof1 Raises $15M in Funding. Nof1 raises $15 million in a funding round co-led by SUI Group and Karatage Opportunities to develop its AI-driven financial trading models and platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/nof1-raises-15m-in-funding/",
+      "priority": 3
+    },
+    "remind_at": "2026-09-28T08:02:30.359547-07:00"
   }
 ]
