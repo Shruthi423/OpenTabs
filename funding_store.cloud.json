@@ -1879,5 +1879,102 @@
     "roles": [],
     "first_seen": "2026-09-29T05:54:51.671877-07:00",
     "status": "active"
+  },
+  "2d0d8c93f1cae6a0d85a5540da53210b": {
+    "id": "2d0d8c93f1cae6a0d85a5540da53210b",
+    "company": "Peak XV",
+    "amount": "$5.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDVuRlg5SnF2OFprVDRZQkZ1b0RkYUtIUmJHdTB4cXl4ZFJJZGZXRFNrbExhSXFobmdLcDFKeE1DNG1ZNW1KUEFMNnFGRzBETEFkQXRmOUVyM2J2N29SWVdEN3gwczNJRjBraXBjTjN4QXF4bVhYWUxCUW1yMW5JdTRjQVNoV294M3BmbEN1RFRtWGlS?oc=5",
+    "priority": 9,
+    "blurb": "Peak XV Raises Surge Seed Cap to $5M, Backs 18 New Startups - techbuzz.ai. Peak XV Raises Surge Seed Cap to $5M, Backs 18 New Startups&nbsp;&nbsp;techbuzz.ai",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-29T11:26:28.308974-07:00",
+    "status": "active"
+  },
+  "88a0876bea6cd13d1b8b6e05b0ccbdbf": {
+    "id": "88a0876bea6cd13d1b8b6e05b0ccbdbf",
+    "company": "Anthropic",
+    "amount": "$8.2B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/09/29/top-tech-news-today-september-29-2026-anthropic-bytedance-google-meta-openai-samsung-more/",
+    "priority": 3,
+    "blurb": "Top Tech News Today, September 29, 2026: Anthropic, ByteDance, Google, Meta, OpenAI, Samsung & More. It\u2019s Tuesday, September 29, 2026, and in the last 24 hours, AI stopped being a chat window. AMD paid $8.2 billion for a lab that teaches machines physics. Nvidia put a hardware leash on rogue agents, then asked insurers to [&#8230;]\nThe post Top Tech News Today, September 29, 2026: Anthropic, ByteDance, Google, Meta, OpenAI, Samsung & More first appeared on Tech Startups.",
+    "founders": [],
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "roles": [
+      {
+        "title": "Product Designer, Claude Developer Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397654008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      },
+      {
+        "title": "Product Designer, Design Systems",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428124008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer, Safeguards",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      },
+      {
+        "title": "User Experience Researcher, Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392007008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      }
+    ],
+    "first_seen": "2026-09-29T11:26:31.743284-07:00",
+    "status": "active"
+  },
+  "655391e94a52783283b343973be72ade": {
+    "id": "655391e94a52783283b343973be72ade",
+    "company": "EliseAI",
+    "amount": "$4.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWFRUkROTGVjTWZvMUlUcWRxdWJ0Q3ZDcTFKMzdpLWRTRVJweTZwSkM0UGIzdHhab212OEhmQXRzSlhucTVsV3J5S2VFcEFhWVQyZ2U4NWZDcGY3NTNsa1c5THRCb3hMa3lIcmJlYXI0dWRaSGNGdkY2WmhKaGVLeC0zM09QTE1ZU2NRN0hKR3YxQVA0Y0lmdkVvMnQ3and1cHc?oc=5",
+    "priority": 3,
+    "blurb": "AI startup EliseAI valued at $4 billion in latest funding round - Reuters. AI startup EliseAI valued at $4 billion in latest funding round&nbsp;&nbsp;Reuters",
+    "founders": [],
+    "location": "New York City",
+    "roles": [
+      {
+        "title": "Brand Designer",
+        "url": "https://jobs.ashbyhq.com/eliseai/ceae21c5-b8b8-45c9-b963-cb21d13e02af",
+        "location": "New York City"
+      }
+    ],
+    "first_seen": "2026-09-29T11:26:35.368687-07:00",
+    "status": "active"
+  },
+  "aa57f65de02ec009fbb3c87fcf691521": {
+    "id": "aa57f65de02ec009fbb3c87fcf691521",
+    "company": "EliseAI",
+    "amount": "$350.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRk84UHY4NTRHNXU2d1lNYkt0bUpBSGxSa25IaC1jRmpXYUdzUDR5b1dNa0pzS2RKZ2JlbXpTbXdQV2diU001U29BZF9EWW5MUmMwTGdGY0lNMUJKYWFMS3VOdVJLMmRBeUpRZzM4YmN4NXA2S0ItZVNpRjFzWGZjam55QWRQVlEzYmdsdHhMMjNaTndVQzYxbnNkYWw2dzk5eGc?oc=5",
+    "priority": 3,
+    "blurb": "EliseAI raises $350M at $4B valuation to expand healthcare AI automation - MobiHealthNews. EliseAI raises $350M at $4B valuation to expand healthcare AI automation&nbsp;&nbsp;MobiHealthNews",
+    "founders": [],
+    "location": "New York City",
+    "roles": [
+      {
+        "title": "Brand Designer",
+        "url": "https://jobs.ashbyhq.com/eliseai/ceae21c5-b8b8-45c9-b963-cb21d13e02af",
+        "location": "New York City"
+      }
+    ],
+    "first_seen": "2026-09-29T11:26:38.446313-07:00",
+    "status": "active"
   }
 }
