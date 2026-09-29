@@ -1,32 +1,77 @@
 [
   {
     "item": {
-      "company": "AMD",
-      "amount": "$8.2B",
-      "stage": null,
+      "company": "Primerry",
+      "amount": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
-      "blurb": "AMD to acquire Fei-Fei Li\u2019s World Labs for $8.2 billion in major AI push. AMD is spending $8.2 billion in stock to acquire World Labs, the two-year-old AI startup founded by Fei-Fei Li, bringing one of AI\u2019s best-known researchers inside the chipmaker as it pushes deeper into the technology behind robotics, simulation and physical [&#8230;]\nThe post AMD to acquire Fei-Fei Li\u2019s World Labs for $8.2 billion in major AI push first appeared on Tech Startups.",
+      "blurb": "Paediatric Health-Tech Startup Primerry Raises Rs 7.1 Cr In Pre-Seed Round - bwdisrupt.com. Paediatric Health-Tech Startup Primerry Raises Rs 7.1 Cr In Pre-Seed Round&nbsp;&nbsp;bwdisrupt.com",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/09/28/amd-to-acquire-fei-fei-lis-world-labs-for-8-2-billion-in-major-ai-push/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFJ6QU1hOUVPM2p0TDNaWDJ3c3B5QmRRbGdCdTN2MW9rczN0QThsWEZhQ3VMVExLeEV5dW9ISEN4TnZfZk9pM3BCTHh6d0w4SXBUQm5BTzZZY2hpSUlrQmFsYkJwZk53MjZKY0N0dnJCNllvVVJYOUVZVWVlWnN4SUlYY3JOM2ZRNUNXQnJFQ0ZZM01sVXpNVnlRV1luOFBORFdqNmZHYkZsQXc3NmJseEwybVNvdw?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-09-28T18:04:40.570259-07:00"
+    "remind_at": "2026-09-28T23:44:10.661699-07:00"
   },
   {
     "item": {
-      "company": "Instinct",
+      "company": "P\u00b0Motion",
       "amount": null,
-      "stage": null,
+      "stage": "Series A",
+      "investors": "Cobalt Capital",
+      "location": "AI",
+      "blurb": "P\u00b0Motion Raises Series A. P\u00b0Motion raises a Series A round led by Cobalt Capital to scale its AI-based biomechanical assessment platform and expand into broader healthcare markets.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/p-motion-raises-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-28T23:44:13.620386-07:00"
+  },
+  {
+    "item": {
+      "company": "erad",
+      "amount": "$22.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
-      "blurb": "Instinct, known for its viral AI agent, raises another $1Bn at a $10Bn valuation - The Tech Portal. Instinct, known for its viral AI agent, raises another $1Bn at a $10Bn valuation&nbsp;&nbsp;The Tech Portal",
+      "blurb": "erad Raises $22M Series A. erad raises $22M Series A led by MEVP to expand its AI-powered SME financing platform and working capital products across the GCC region.",
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVHRTVFFJeldpZGRHdUx1Zl9jUUFHcFh1aURscDBHR194RGY5a0UwTHlxalFYdzhUTEU5ZlVZSE5KZ3lEWnJhNHhZZTV5ejJzeU1kOTNVb3FkbFFsSEZZNHhURGpORHp6M3hnLUVXeDdvaUl0T0FPZjE4T3dSMEhvaWt1YUxfYWQ3MzFtVmRxTkdWVTlQ0gGaAUFVX3lxTFBmeld2OXVHVHNBTHV1bXBSUGs3NE9xN2VMUG9qd0ZjejZRS1Bza0RCdFFHUHNmdERkb0phRGo1NGtFdE9tejlycUU4WjZiWURHTy16SzhzMmpGTDdnZnNZT3BCT1pfVXRpdnRfcU9scGljQTlPTjZ5Z2dqNzdCWGRGeFJmd0pwd3BueUR4eGFIXzdZQ2JLeUVPdEE?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/erad-raises-22m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-28T23:44:17.021541-07:00"
+  },
+  {
+    "item": {
+      "company": "Outmarket AI",
+      "amount": "$34.5M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "blurb": "Outmarket AI Raises $34.5M Series B. Outmarket AI raises $34.5M Series B led by SignalFire to expand its AI-powered insurance workflow automation platform for agencies.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/outmarket-ai-raises-34-5m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-09-28T23:44:21.888803-07:00"
+  },
+  {
+    "item": {
+      "company": "Menos AI",
+      "amount": "$5.1M",
+      "stage": null,
+      "investors": "Copper Sky Capital",
+      "location": null,
+      "blurb": "Menos AI Raises $5.1M Pre-A. Menos AI raises $5.1M in Pre-A funding led by Copper Sky Capital to expand its institutional AI intelligence layer for asset management firms.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/menos-ai-raises-5-1m-pre-a/",
       "priority": 3
     },
-    "remind_at": "2026-09-28T18:04:43.436850-07:00"
+    "remind_at": "2026-09-28T23:44:24.884537-07:00"
   }
 ]
