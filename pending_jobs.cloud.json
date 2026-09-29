@@ -1,53 +1,19 @@
 [
   {
     "job": {
-      "title": "Founding Designer",
-      "company": "Vera Health (S24)",
-      "location": "San Francisco",
-      "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D112249&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29858",
-      "salary": "$140K - $220K",
-      "description": "AI-powered clinical decision support for healthcare providers",
-      "posted_at": "Recently",
-      "source": "Y Combinator",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": false,
-      "visa": null
-    },
-    "remind_at": "2026-09-29T11:55:59.657746-07:00"
-  },
-  {
-    "job": {
-      "title": "Motion Designer",
-      "company": "Krea",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/krea/a18b2fa2-e435-478f-9554-ed2e418987d6",
+      "title": "Product Designer, International",
+      "company": "Robinhood",
+      "location": "Menlo Park, CA; New York, NY",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8240638?t=gh_src=&gh_jid=8240638",
       "salary": "Not listed",
-      "description": "ABOUT KREA\n\nAt Krea, we are building next-generation AI creative tools. \n\nWe're dedicated to making AI intuitive and controllable for creatives - our mission is to build tools that empower human creativity, not replace it. We believe AI is a new medium that allows us to express ourselves through var",
+      "description": "",
       "posted_at": "Recently",
-      "source": "Startups.Gallery",
+      "source": "Robinhood",
       "relevant": true,
       "is_new_grad": false,
-      "is_big_tech": false,
+      "is_big_tech": true,
       "visa": null
     },
-    "remind_at": "2026-09-29T11:56:01.352238-07:00"
-  },
-  {
-    "job": {
-      "title": "Brand Designer (Digital)",
-      "company": "Cloaked",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/cloaked/963fc2cd-9bf9-4c85-8c4a-07d1ac971106",
-      "salary": "Not listed",
-      "description": "Cloaked https://www.cloaked.com is a consumer privacy and identity platform on a mission to give people back control of their personal data. We let anyone generate unlimited identities - masked emails, phone numbers, and payment cards - scrub their information off data-broker sites, and shield thems",
-      "posted_at": "Recently",
-      "source": "Startups.Gallery",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": false,
-      "visa": null
-    },
-    "remind_at": "2026-09-29T11:56:03.013446-07:00"
+    "remind_at": "2026-09-29T16:00:04.463763-07:00"
   }
 ]
