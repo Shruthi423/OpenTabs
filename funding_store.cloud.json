@@ -1607,5 +1607,37 @@
     "roles": [],
     "first_seen": "2026-09-28T13:42:19.151541-07:00",
     "status": "active"
+  },
+  "b1fc23ceb06e75ffdcfccc78c8ac423a": {
+    "id": "b1fc23ceb06e75ffdcfccc78c8ac423a",
+    "company": "AMD",
+    "amount": "$8.2B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/09/28/amd-to-acquire-fei-fei-lis-world-labs-for-8-2-billion-in-major-ai-push/",
+    "priority": 3,
+    "blurb": "AMD to acquire Fei-Fei Li\u2019s World Labs for $8.2 billion in major AI push. AMD is spending $8.2 billion in stock to acquire World Labs, the two-year-old AI startup founded by Fei-Fei Li, bringing one of AI\u2019s best-known researchers inside the chipmaker as it pushes deeper into the technology behind robotics, simulation and physical [&#8230;]\nThe post AMD to acquire Fei-Fei Li\u2019s World Labs for $8.2 billion in major AI push first appeared on Tech Startups.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-28T17:34:41.570409-07:00",
+    "status": "active"
+  },
+  "2410531010dbe54e14b55fa0bec5499a": {
+    "id": "2410531010dbe54e14b55fa0bec5499a",
+    "company": "Instinct",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVHRTVFFJeldpZGRHdUx1Zl9jUUFHcFh1aURscDBHR194RGY5a0UwTHlxalFYdzhUTEU5ZlVZSE5KZ3lEWnJhNHhZZTV5ejJzeU1kOTNVb3FkbFFsSEZZNHhURGpORHp6M3hnLUVXeDdvaUl0T0FPZjE4T3dSMEhvaWt1YUxfYWQ3MzFtVmRxTkdWVTlQ0gGaAUFVX3lxTFBmeld2OXVHVHNBTHV1bXBSUGs3NE9xN2VMUG9qd0ZjejZRS1Bza0RCdFFHUHNmdERkb0phRGo1NGtFdE9tejlycUU4WjZiWURHTy16SzhzMmpGTDdnZnNZT3BCT1pfVXRpdnRfcU9scGljQTlPTjZ5Z2dqNzdCWGRGeFJmd0pwd3BueUR4eGFIXzdZQ2JLeUVPdEE?oc=5",
+    "priority": 3,
+    "blurb": "Instinct, known for its viral AI agent, raises another $1Bn at a $10Bn valuation - The Tech Portal. Instinct, known for its viral AI agent, raises another $1Bn at a $10Bn valuation&nbsp;&nbsp;The Tech Portal",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-09-28T17:34:44.437020-07:00",
+    "status": "active"
   }
 }
