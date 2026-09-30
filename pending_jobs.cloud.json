@@ -1,19 +1,66 @@
 [
   {
     "job": {
-      "title": "Visual & Micro-Interaction Designer",
-      "company": "Wefunder (W13)",
-      "location": "San Francisco, CA, US",
-      "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92790&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=503",
-      "salary": "$130K - $200K",
-      "description": "We're Robinhood for pre-IPO startups. Everyone can invest $100.",
-      "posted_at": "Recently",
-      "source": "Y Combinator",
+      "title": "Product Designer",
+      "company": "Ande",
+      "location": "New York",
+      "url": "https://uiuxjobsboard.com/job/1622826-product-designer-new-york-united-states",
+      "salary": "$120,000 - $170,000",
+      "description": "",
+      "posted_at": "4h",
+      "source": "UIUXJobsBoard",
       "relevant": true,
       "is_new_grad": false,
       "is_big_tech": false,
       "visa": null
     },
-    "remind_at": "2026-09-30T00:36:36.301103-07:00"
+    "remind_at": "2026-09-30T07:11:14.307133-07:00"
+  },
+  {
+    "job": {
+      "title": "UX Designer",
+      "company": "ENFOS",
+      "location": "Durham, NC",
+      "url": "https://uiuxjobsboard.com/job/1622426-ux-designer-durham-nc-united-states",
+      "salary": "$110,000 - $130,000",
+      "description": "",
+      "posted_at": "4h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-09-30T07:11:16.095718-07:00"
+  },
+  {
+    "job": {
+      "title": "UI Artist",
+      "company": "Nimble",
+      "location": "Remote",
+      "url": "https://uiuxjobsboard.com/job/1622526-remote-united-states-ui-artist",
+      "salary": "Not listed",
+      "description": "",
+      "posted_at": "8h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-09-30T07:11:17.831842-07:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Primer",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/primer/af6ad413-6e2f-4cb4-9e11-582b2d2e6c42",
+      "salary": "Not listed",
+      "description": "\nABOUT PRIMER\n\nPrimer is a growing network of K\u20138 schools restoring the timeless foundations of American education. Inspired by the original teaching primers that shaped a nation of readers, thinkers, and builders, our schools begin with what has always worked, and build for what lies ahead. Close-k",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery"
+    },
+    "remind_at": "2026-09-30T07:12:11.762515-07:00"
   }
 ]

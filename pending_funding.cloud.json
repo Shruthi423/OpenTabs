@@ -1,62 +1,122 @@
 [
   {
     "item": {
-      "company": "Arivihan",
+      "company": "Tenoro",
       "amount": null,
-      "stage": "Series A",
-      "investors": "Accel and Prosus&nbsp",
+      "stage": "Seed",
+      "investors": "Plus Partners",
       "location": null,
-      "blurb": "Edtech startup Arivihan raises $10 Mn in Series A led by Accel and Prosus - Entrackr. Edtech startup Arivihan raises $10 Mn in Series A led by Accel and Prosus&nbsp;&nbsp;Entrackr",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOEl6S3pNX2Y2SU5hRkRqazg5ek9ycWliMTB6NjZlZHZISl8zXzZJejNpRjlSaS1fV0lScWNKbzEzM3JrZGFMNWhEejZLQ2dCN0JMdVpqVnFrWkNETXVNc0NMcWNuVHVpTUN5eEthQ3ROTHV1QjhNa1RYMEU2a0p2aUxVU3NQYjJMeHNLbWRzLUh2MUpFVkx6YkM5OG9XS2hPcjhzT2k1ZkVvOEHSAasBQVVfeXFMTThJekt6TV9mNklOYUZEams4OXpPcnFpYjEwejY2ZWR2SEpfM182SXozaUY5UmktX1dJUnFjSm8xMzNya2RhTDVoRHo2S0NnQjdCTHVaalZxa1pDRE11TXNDTHFjblR1aU1DeXhLYUN0Tkx1dUI4TWtUWDBFNmtKdmlMVVNzUGIyTHhzS21kcy1IdjFKRVZMemJDOThvV0toT3I4c09pNWZFbzhB?oc=5",
-      "priority": 11
-    },
-    "remind_at": "2026-09-30T00:36:57.866756-07:00"
-  },
-  {
-    "item": {
-      "company": "Efficient Computer",
-      "amount": "$97.0M",
-      "stage": null,
-      "investors": "TQ Ventures, Union Square Ventures, Giant Ventures",
-      "location": null,
-      "blurb": "Low-energy chip startup Efficient Computer closes on $97M in funding. Low-energy chip startup Efficient Computer Co. said today it has closed on a $97 million round of funding in the second major investment it has picked up this year. The round was led by TQ Ventures and saw participation from Eclipse, Union Square Ventures, Giant Ventures, Triatomic Capital, TO Capital, TF Capital, Mana Ventures, \u200bToyota [&#8230;]\nThe post Low-energy chip startup Efficient Computer closes on $97M in funding app",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/29/low-energy-chip-startup-efficient-computer-closes-on-97m-in-funding/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-30T00:37:03.938132-07:00"
-  },
-  {
-    "item": {
-      "company": "Zenithon AI",
-      "amount": "$10.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Zenithon AI raises $10M to build world models for fusion reactors and rockets. While pursuing a PhD in machine learning, Alex Higginbottom concluded that a greater challenge lay beyond the scope&#8230;",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/zenithon-ai-10m-seed-physics-world-models-fusion-rockets/",
-      "priority": 3
-    },
-    "remind_at": "2026-09-30T00:37:06.735739-07:00"
-  },
-  {
-    "item": {
-      "company": "Kahua",
-      "amount": "$1.0B",
-      "stage": null,
-      "investors": "Bain Capital, Kahua Secures Strategic Growth",
-      "location": null,
-      "blurb": "Kahua Secures Strategic Growth Investment. Kahua raises growth capital from Bain Capital at a valuation exceeding $1 billion to accelerate its AI construction management platform development.",
+      "blurb": "Tenoro Raises \u20ac1.7M Seed. Tenoro raises \u20ac1.7M seed round led by Plus Partners to launch its AI-powered operational platform in Spain and the United States.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kahua-secures-strategic-growth-investment/",
-      "priority": 3
+      "url": "https://www.thesaasnews.com/news/tenoro-raises-1-7m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-09-30T00:37:09.563079-07:00"
+    "remind_at": "2026-09-30T07:11:38.646608-07:00"
+  },
+  {
+    "item": {
+      "company": "Rig Security",
+      "amount": "$12.0M",
+      "stage": "Seed",
+      "investors": "Ten Eleven Ventures, Brightmind Partners",
+      "location": null,
+      "blurb": "Rig Security Raises $12M Seed. Rig Security raises $12M in seed funding led by Ten Eleven Ventures and Brightmind Partners to secure AI agents and human identities.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/rig-security-raises-12m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-30T07:11:45.039279-07:00"
+  },
+  {
+    "item": {
+      "company": "MAVI",
+      "amount": "$4.0M",
+      "stage": "Seed",
+      "investors": "Harlem Capital",
+      "location": null,
+      "blurb": "MAVI Raises $4M Seed. MAVI raises $4M seed round led by Harlem Capital to connect U.S. companies with AI-proficient global accounting talent.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/mavi-raises-4m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-30T07:11:48.285127-07:00"
+  },
+  {
+    "item": {
+      "company": "Destro AI",
+      "amount": "$8.0M",
+      "stage": "Seed",
+      "investors": "Base, Bonfire Ventures",
+      "location": null,
+      "blurb": "Destro AI Raises $8M Seed. Destro AI raises $8M in seed funding led by Base10 Partners and Bonfire Ventures to scale its robot-agnostic warehouse coordination software platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/destro-ai-raises-8m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-30T07:11:51.356451-07:00"
+  },
+  {
+    "item": {
+      "company": "Prodoc AI",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "Dr A",
+      "location": null,
+      "blurb": "Prodoc AI Raises Seed Round. Prodoc AI raises a seed round led by Dr A. Velumani Family Office to expand its hospital-focused AI orchestration and patient journey platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/prodoc-ai-raises-seed-round/",
+      "priority": 9
+    },
+    "remind_at": "2026-09-30T07:11:54.476553-07:00"
+  },
+  {
+    "item": {
+      "company": "RB-Ware",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "No-Code Welding Robot Startup RB-Ware Raises USD 680,000 Seed Funding, Surpasses 250 Units Installed Across 16 Countries - Wowtale. No-Code Welding Robot Startup RB-Ware Raises USD 680,000 Seed Funding, Surpasses 250 Units Installed Across 16 Countries&nbsp;&nbsp;Wowtale",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IRG9FMlZxaDJabklET2cyOExWSVY5dkNlMWt3ZFBYRVc2Nk9IcVJfbjlHOG5LQ1ZqNzJyTmFtTWI2VXNFM3B4TFZfdjVUTDFucnM0?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-09-30T07:11:57.363528-07:00"
+  },
+  {
+    "item": {
+      "company": "Atomic",
+      "amount": "$12.5M",
+      "stage": "Series A",
+      "investors": "Klass Capital",
+      "location": null,
+      "blurb": "Atomic Raises $12.5M Series A. Atomic raises $12.5M Series A led by Klass Capital and Madrona Venture Group to scale its autonomous supply chain AI platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/atomic-raises-12-5m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-09-30T07:12:08.699390-07:00"
+  },
+  {
+    "item": {
+      "company": "Primer",
+      "amount": "$100.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "blurb": "Primer Raises $100M Series C. Primer raises $100M Series C led by Sofina to expand its unified payments infrastructure and AI-driven checkout optimization platform in the United States.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/primer-raises-100m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-09-30T07:12:13.516190-07:00"
   }
 ]
