@@ -1,167 +1,199 @@
 [
   {
     "item": {
-      "company": "Larridin",
-      "amount": "$17.0M",
-      "stage": "Seed",
-      "investors": "Andreessen Horowitz",
-      "location": null,
-      "blurb": "Larridin Raises $17M Seed. Larridin raises $17M in seed funding led by Andreessen Horowitz to expand its AI value measurement platform for enterprise adoption and spend tracking.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/larridin-raises-17m-seed/",
-      "priority": 12
-    },
-    "remind_at": "2026-10-01T01:19:48.468966-07:00"
-  },
-  {
-    "item": {
-      "company": "Hilbert",
-      "amount": "$28.0M",
-      "stage": "Series A",
-      "investors": "Andreessen Horowitz",
-      "location": null,
-      "blurb": "Hilbert Raises $28M Series A. Hilbert raises $28M in a Series A round led by Andreessen Horowitz to expand its AI-powered analytics platform for B2C consumer brands.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hilbert-raises-28m-series-a/",
-      "priority": 11
-    },
-    "remind_at": "2026-10-01T01:19:51.434983-07:00"
-  },
-  {
-    "item": {
-      "company": "AdaptClose",
-      "amount": null,
+      "company": "SereneDB",
+      "amount": "$2.1M",
       "stage": "Pre-Seed",
-      "investors": "Sturges Ventures",
+      "investors": null,
       "location": null,
-      "blurb": "AdaptClose Launches AI Sales Coaching Platform for Home Services Companies. AdaptClose raises pre-seed funding led by Sturges Ventures to launch its AI-powered sales coaching platform for home services companies.",
+      "blurb": "SereneDB Raises $2.1M Pre-seed. SereneDB raises $2.1M in a Pre-seed round to build its unified database engine that combines search, analytics, and PostgreSQL for real-time data needs.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/adaptclose-launches-ai-sales-coaching-platform-for-home-services-companies/",
+      "url": "https://www.thesaasnews.com/news/serenedb-raises-2-1m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-10-01T01:19:54.394570-07:00"
+    "remind_at": "2026-10-01T08:31:55.536962-07:00"
   },
   {
     "item": {
-      "company": "Unveilr AI",
+      "company": "NUMAIQ",
       "amount": null,
       "stage": "Pre-Seed",
-      "investors": "AJVC - Entrackr Unveilr AI raises Rs",
+      "investors": null,
       "location": null,
-      "blurb": "Unveilr AI raises Rs 16.7 Cr pre-seed round from AJVC - Entrackr. Unveilr AI raises Rs 16.7 Cr pre-seed round from AJVC&nbsp;&nbsp;Entrackr",
+      "blurb": "NUMAIQ Raises $300,000 in Funding. Tunisian startup NUMAIQ raises $300,000 in pre-seed funding to develop its voice AI technology for improved customer call management.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/numaiq-raises-300000-other/",
+      "priority": 10
+    },
+    "remind_at": "2026-10-01T08:31:58.661509-07:00"
+  },
+  {
+    "item": {
+      "company": "Walapay",
+      "amount": "$4.6M",
+      "stage": "Seed",
+      "investors": "Generative Ventures",
+      "location": null,
+      "blurb": "Walapay raises $4.6M to bring near instant global payments to local businesses. Walapay Inc., a global payments infrastructure firm that uses stablecoins for account issuance and payouts, today announced it raised $4.6 million in a seed round led by Generative Ventures to bring global payments to local businesses. Commerce Ventures, Polygon, Verda Ventures, NGC Ventures, FGV Capital, Digital Finance Group, Jsquare, Knollwood and Big Brain Holdings also [&#8230;]\nThe post Walapay raises $4.6M to ",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/01/walapay-raises-4-6m-to-bring-near-instant-global-payments-to-local-businesses/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-01T08:32:01.764975-07:00"
+  },
+  {
+    "item": {
+      "company": "PERPTools",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "PERPTools Raises $5M Seed. PERPTools raises $5 million seed round at an $80 million valuation to scale its AI-native decentralized perpetuals trading infrastructure.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/perptools-raises-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-01T08:32:04.786858-07:00"
+  },
+  {
+    "item": {
+      "company": "Beltic",
+      "amount": "$7.3M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Beltic Raises $7.3M Seed. Beltic raises $7.3M in seed funding led by Norwest to build agent verification infrastructure and secure the agentic economy.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/beltic-raises-7-3m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-01T08:32:07.678712-07:00"
+  },
+  {
+    "item": {
+      "company": "Kanu AI",
+      "amount": "$11.7M",
+      "stage": "Seed",
+      "investors": "Trilogy Equity Partners",
+      "location": "Seed Seattle",
+      "blurb": "Kanu AI Raises $11.7M Seed. Seattle-based Kanu AI raises $11.7M in a seed funding round led by Trilogy Equity Partners to expand its enterprise workflow automation platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/kanu-ai-raises-11-7m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-01T08:32:12.615693-07:00"
+  },
+  {
+    "item": {
+      "company": "Zaperon",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "IPV leads Rs 7 Cr seed round in cybersecurity startup Zaperon - Entrackr. IPV leads Rs 7 Cr seed round in cybersecurity startup Zaperon&nbsp;&nbsp;Entrackr",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdTNSaTF1QUFab1Z6X3pOSERVRS1oZTg1YXE2dUFtZU5jNUJXZ3dTVlBacUQ0QS11bE9zNkNTTDI0c0pQU3dob3B5ODJKX0JZakNSbERSckJ1V0h2X3p3WlVoenpMbng4eXVzMGlaQXM5bUM4S3RvZVdkYjRIeTMxN056WFI3YUZhRGNJV0JCV2VvZU1IbEHSAZYBQVVfeXFMT3UzUmkxdUFBWm9Wel96TkhEVUUtaGU4NWFxNnVBbWVOYzVCV2d3U1ZQWnFENEEtdWxPczZDU0wyNHNKUFN3aG9weTgySl9CWWpDUmxEUnJCdVdIdl96d1pVaHp6TG54OHl1czBpWkFzOW1DOEt0b2VXZGI0SHkzMTdOelhSN2FGYURjSVdCQldlb2VNSGxB?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-10-01T01:19:57.303843-07:00"
-  },
-  {
-    "item": {
-      "company": "Zenithon",
-      "amount": "$10.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Zenithon Raises $10M Seed. Zenithon raises $10M seed round from backers including Lunar and Seraphim to develop its AI world models for extreme physics applications.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/zenithon-raises-10m-seed/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVFSOGpNNU9wNFFTWVprUnZ4QWhleUhGVkNCVXNjRjR0eENmTGNudDlaeVo3YVVKZFlyQmpWQ3M2VU1UelBXMjdDUENZNFdMOWo3VFVtNXhRYU5xdy14anRCT0xJb2J2VUwxLV9keEVka2hiVnJON3RBUjh4b2FIVUJCU0ZLNlpaUjIyQTUyaThuZTc1Y0lmWU95cTBDbnJMTVHSAaIBQVVfeXFMT3lRUjhqTTVPcDRRU1laa1J2eEFoZXlIRlZDQlVzY0Y0dHhDZkxjbnQ5WnlaN2FVSmRZckJqVkNzNlVNVHpQVzI3Q1BDWTRXTDlqN1RVbTV4UWFOcXcteGp0Qk9MSW9idlVMMS1fZHhFZGtoYlZyTjd0QVI4eG9hSFVCQlNGSzZaWlIyMkE1Mmk4bmU3NWNJZllPeXEwQ25yTE1R?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-10-01T01:20:00.138526-07:00"
+    "remind_at": "2026-10-01T08:32:23.024366-07:00"
   },
   {
     "item": {
-      "company": "Quotr",
-      "amount": "$4.0M",
-      "stage": "Seed",
-      "investors": "Llama Ventures",
-      "location": null,
-      "blurb": "Quotr Raises $4M Seed. Quotr raises $4M in seed funding led by Llama Ventures to scale its AI-native construction estimation and procurement platform for enterprise contractors.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/quotr-raises-4m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-01T01:20:03.077228-07:00"
-  },
-  {
-    "item": {
-      "company": "Ascerta",
-      "amount": "$18.0M",
-      "stage": "Series A",
-      "investors": "Dell Technologies Capital",
-      "location": null,
-      "blurb": "Ascerta Raises $18M Series A. Ascerta raises $18M in a Series A round led by Dell Technologies Capital to scale its Enterprise AI Management platform and maximize AI ROI.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ascerta-raises-18m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-10-01T01:20:05.973992-07:00"
-  },
-  {
-    "item": {
-      "company": "Restate",
-      "amount": "$20.0M",
-      "stage": "Series A",
+      "company": "Armadin",
+      "amount": "$255.5M",
+      "stage": "Series B",
       "investors": null,
       "location": null,
-      "blurb": "Restate Raises $20M Series A. Restate raises $20M Series A led by Singular to expand its durable execution infrastructure for AI agents and distributed applications.",
+      "blurb": "Armadin hits $2.5bn valuation with $255.5m Series B - FinTech Global. Armadin hits $2.5bn valuation with $255.5m Series B&nbsp;&nbsp;FinTech Global",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/restate-raises-20m-series-a/",
-      "priority": 8
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ182WjZROUhSUXdnZS1nUnpJZU9pZzMySm5EWGxXYUttUndRdW1pZXk0ZHJodk9OdlNDeXlNaEl1Z21yUzR5a1NoaVEwWnE3eXN1ZV9OSFBlQTBZaDA1alo2WmhHTlBGUF9rMTZTSnZxdUgzQlk5UTlBZGtHek5icDJfNEhteDhXTlZKWA?oc=5",
+      "priority": 7
     },
-    "remind_at": "2026-10-01T01:20:12.116713-07:00"
+    "remind_at": "2026-10-01T08:32:26.144261-07:00"
   },
   {
     "item": {
-      "company": "Metaview",
-      "amount": "$60.0M",
-      "stage": "Series C",
-      "investors": "Insight Partners",
-      "location": null,
-      "blurb": "Metaview Raises $60M Series C. Metaview raises $60M in Series C funding led by Insight Partners to scale its AI-powered agentic recruiting platform and expand its team globally.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/metaview-raises-60m-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-10-01T01:20:16.553122-07:00"
-  },
-  {
-    "item": {
-      "company": "HyperGuest",
-      "amount": "$25.0M",
+      "company": "Meta\u2019s Muse AI",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "HyperGuest Raises $25M Growth Capital. HyperGuest secures $25 million in investment from Apax to accelerate international growth and enhance its hotel distribution technology platform.",
+      "blurb": "Meta\u2019s Muse AI hits 5 million downloads in 22 days, outpacing ChatGPT, Grok and Claude. Meta\u2019s Muse AI assistant has blown past 5 million U.S. downloads just 22 days after launch, reaching the milestone far faster than ChatGPT, Grok or Claude and giving Meta an early lead in the race to put autonomous AI agents [&#8230;]\nThe post Meta\u2019s Muse AI hits 5 million downloads in 22 days, outpacing ChatGPT, Grok and Claude first appeared on Tech Startups.",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hyperguest-raises-25m-growth-capital/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/01/metas-muse-ai-hits-5-million-downloads-in-22-days-outpacing-chatgpt-grok-and-claude/",
       "priority": 3
     },
-    "remind_at": "2026-10-01T01:20:19.357164-07:00"
+    "remind_at": "2026-10-01T08:32:31.819854-07:00"
   },
   {
     "item": {
-      "company": "Relay",
-      "amount": "$36.0M",
+      "company": "Elio Mortgage",
+      "amount": "$5.1M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Relay Raises $36M in Funding. Relay raises $36M to accelerate its frontline operational intelligence software and AI platform capabilities.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/relay-raises-36m-other/",
+      "blurb": "Elio Mortgage Raises $5.1M to Build an AI-Native Mortgage Brokerage Around Loan Officers. Plenty of mortgage software startups have struggled, and some investors still remember the losses. Elio Mortgage skipped that playbook and became a licensed mortgage company, with engineers working beside loan officers on live loans. Cofounder and COO Arad Lev Ari explains why that choice made some investors hesitate, what it changes about how the company builds, and where the startup heads next after raisi",
+      "founders": [
+        "Arad Lev Ari"
+      ],
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/10/elio-mortgage-ai-native-mortgage-origination-lending-embedded-automation-brokerage-platform/",
       "priority": 3
     },
-    "remind_at": "2026-10-01T01:20:22.725091-07:00"
+    "remind_at": "2026-10-01T08:32:37.338897-07:00"
+  },
+  {
+    "item": {
+      "company": "Aurachain",
+      "amount": null,
+      "stage": null,
+      "investors": "Evolution Equity Partners",
+      "location": null,
+      "blurb": "Aurachain Secures Strategic Growth Investment from Evolution Equity Partners. Aurachain secures strategic growth investment from Evolution Equity Partners to accelerate its U.S. compliance, risk, and fraud platform expansion.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/aurachain-secures-strategic-growth-investment-from-evolution-equity-partners/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-01T08:32:40.587869-07:00"
+  },
+  {
+    "item": {
+      "company": "Reco",
+      "amount": "$55.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Reco Raises $55M in Funding. Reco raises $55 million to expand its Agentic Security platform for securing AI agents and permissions across global enterprise ecosystems.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/reco-raises-55m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-01T08:32:43.640089-07:00"
+  },
+  {
+    "item": {
+      "company": "Andrenam",
+      "amount": "$30.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Andrenam Raises $30M for AI Undersea Sensing Network - TradeFlock. Andrenam Raises $30M for AI Undersea Sensing Network&nbsp;&nbsp;TradeFlock",
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1eGJXOUZyai0tb1Noc1JEZXBxYkxLaWlwN25kRFRTa1ZEcXdSUWF3TTk2Y3BiX203TVk5WnN6V1YtMVQ5OXg4U1BUM001ZTdwTVE?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-10-01T08:32:46.643401-07:00"
   }
 ]

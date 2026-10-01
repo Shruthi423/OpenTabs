@@ -1107,7 +1107,9 @@
     "priority": 5,
     "first_seen": "2026-09-28T07:30:00.351492-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "005207f1d0454fa2a41cc3f1cf47a274": {
     "id": "005207f1d0454fa2a41cc3f1cf47a274",
@@ -1126,7 +1128,9 @@
     "priority": 5,
     "first_seen": "2026-09-28T07:30:02.022638-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "e3239939cb6c168702c5e80a1a77e4e8": {
     "id": "e3239939cb6c168702c5e80a1a77e4e8",
@@ -1145,7 +1149,9 @@
     "priority": 2,
     "first_seen": "2026-09-28T07:30:03.916536-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "4ab550a49700c2d85cd721ac63118e89": {
     "id": "4ab550a49700c2d85cd721ac63118e89",
@@ -1164,7 +1170,9 @@
     "priority": 3,
     "first_seen": "2026-09-28T07:30:05.753400-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "9f9496bfe8c4a6d5eb95dfe1f7d6cf18": {
     "id": "9f9496bfe8c4a6d5eb95dfe1f7d6cf18",
@@ -1183,7 +1191,8 @@
     "priority": 4,
     "first_seen": "2026-09-28T07:30:07.652048-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00"
   },
   "c9a4c8df018f48a8f46d5627827bd2a6": {
     "id": "c9a4c8df018f48a8f46d5627827bd2a6",
@@ -1202,7 +1211,9 @@
     "priority": 4,
     "first_seen": "2026-09-28T07:30:11.391639-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "5e6d43dcd034d8d641e149b60ae4eae4": {
     "id": "5e6d43dcd034d8d641e149b60ae4eae4",
@@ -1221,7 +1232,9 @@
     "priority": 4,
     "first_seen": "2026-09-28T07:30:13.235535-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "f3fa66f73fd78fee4d0a708d7effc8d3": {
     "id": "f3fa66f73fd78fee4d0a708d7effc8d3",
@@ -1240,7 +1253,9 @@
     "priority": 4,
     "first_seen": "2026-09-28T07:30:18.258984-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "e76650ece293922318a5eadc9c094b26": {
     "id": "e76650ece293922318a5eadc9c094b26",
@@ -1259,7 +1274,9 @@
     "priority": 4,
     "first_seen": "2026-09-28T07:30:19.990583-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "6c3a52498c4ad099793ed7e06805fb0e": {
     "id": "6c3a52498c4ad099793ed7e06805fb0e",
@@ -1278,7 +1295,9 @@
     "priority": 4,
     "first_seen": "2026-09-28T07:30:21.885321-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "0edd26887dd7afeebb35a77c1642e622": {
     "id": "0edd26887dd7afeebb35a77c1642e622",
@@ -1297,7 +1316,9 @@
     "priority": 4,
     "first_seen": "2026-09-28T07:30:25.557719-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "75996603f883a870651d875e97ab70cf": {
     "id": "75996603f883a870651d875e97ab70cf",
@@ -1316,7 +1337,8 @@
     "priority": 5,
     "first_seen": "2026-09-28T07:30:27.260693-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00"
   },
   "57567fa3eddf0987857bb972b5e1bbe8": {
     "id": "57567fa3eddf0987857bb972b5e1bbe8",
@@ -1335,7 +1357,9 @@
     "priority": 4,
     "first_seen": "2026-09-28T07:30:29.169716-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "77a87c4f375af3b9080eaa27fe93ddf0": {
     "id": "77a87c4f375af3b9080eaa27fe93ddf0",
@@ -1354,7 +1378,9 @@
     "priority": 4,
     "first_seen": "2026-09-28T07:30:30.881273-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 1
   },
   "aeea55741232acbc3e10a4adee602620": {
     "id": "aeea55741232acbc3e10a4adee602620",
@@ -1373,7 +1399,9 @@
     "priority": 4,
     "first_seen": "2026-09-28T07:30:32.608279-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "6f72edb34b1c3c5db4b4d0d994b15227": {
     "id": "6f72edb34b1c3c5db4b4d0d994b15227",
@@ -1392,7 +1420,9 @@
     "priority": 4,
     "first_seen": "2026-09-28T07:30:34.318638-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "dc02605d5f676c6389564e5fd7e2bb39": {
     "id": "dc02605d5f676c6389564e5fd7e2bb39",
@@ -1411,7 +1441,9 @@
     "priority": 4,
     "first_seen": "2026-09-28T07:30:36.218817-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "b77548060145fd6a7309036a1fd0e5fa": {
     "id": "b77548060145fd6a7309036a1fd0e5fa",
@@ -1430,7 +1462,9 @@
     "priority": 4,
     "first_seen": "2026-09-28T07:30:39.929798-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "44dc3be772b9482b11388cf4f050cacd": {
     "id": "44dc3be772b9482b11388cf4f050cacd",
@@ -1449,7 +1483,9 @@
     "priority": 4,
     "first_seen": "2026-09-28T07:31:03.484503-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "8a1d35a600a5a787664c5a7d23ab4435": {
     "id": "8a1d35a600a5a787664c5a7d23ab4435",
@@ -1468,7 +1504,9 @@
     "priority": 5,
     "first_seen": "2026-09-28T07:31:05.332773-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "ea807707d94371f53ba4469151c033a0": {
     "id": "ea807707d94371f53ba4469151c033a0",
@@ -1487,7 +1525,9 @@
     "priority": 5,
     "first_seen": "2026-09-28T07:31:08.553706-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "858dad222b4104ade330809c46d058d6": {
     "id": "858dad222b4104ade330809c46d058d6",
@@ -1506,7 +1546,9 @@
     "priority": 5,
     "first_seen": "2026-09-28T07:31:10.389923-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "7c0bc9fb50bb5592de4e86691cc4819a": {
     "id": "7c0bc9fb50bb5592de4e86691cc4819a",
@@ -1525,7 +1567,9 @@
     "priority": 4,
     "first_seen": "2026-09-28T07:31:12.303490-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "b9db683856b5ba571d0eed5221c38a11": {
     "id": "b9db683856b5ba571d0eed5221c38a11",
@@ -1544,7 +1588,9 @@
     "priority": 5,
     "first_seen": "2026-09-28T07:31:14.180845-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "c14b4432cc4db13f925bed5c7d88e526": {
     "id": "c14b4432cc4db13f925bed5c7d88e526",
@@ -1563,7 +1609,9 @@
     "priority": 5,
     "first_seen": "2026-09-28T07:31:15.917577-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-01T07:59:56.833990-07:00",
+    "dead_strikes": 0
   },
   "dca797605980e9e9dedde756f709178b": {
     "id": "dca797605980e9e9dedde756f709178b",
@@ -1870,46 +1918,6 @@
     "status": "active",
     "applied_at": null
   },
-  "a632e92cf3be40c9202b5f00a9ff8812": {
-    "id": "a632e92cf3be40c9202b5f00a9ff8812",
-    "title": "Frontend Engineer",
-    "company": "Restate",
-    "location": "Remote",
-    "salary": "Not listed",
-    "url": "https://jobs.ashbyhq.com/restate/c6651462-c412-4f6d-8553-d193a685294a",
-    "source": "\ud83d\udcb0 Restate (just raised)",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "is_funded": true,
-    "funding_note": "Restate raised $20.0M",
-    "founders": [],
-    "description": "THE OPPORTUNITY\n\nWe're looking for a Frontend Engineer to own the product experience across Restate's UI.\n\nOur UI is where developers end up when something is running, stuck, or has already gone wrong. It's a live window onto a distributed system that keeps moving while you're looking at it. The dat",
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-10-01T00:50:08.391747-07:00",
-    "status": "active",
-    "applied_at": null
-  },
-  "a8e5df3e54df76a013f68c7629b23daa": {
-    "id": "a8e5df3e54df76a013f68c7629b23daa",
-    "title": "Design Engineer",
-    "company": "Restate",
-    "location": "Remote",
-    "salary": "Not listed",
-    "url": "https://jobs.ashbyhq.com/restate/9a198557-1e8c-453b-9ede-6ef6159539ff",
-    "source": "\ud83d\udcb0 Restate (just raised)",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "is_funded": true,
-    "funding_note": "Restate raised $20.0M",
-    "founders": [],
-    "description": "The Opportunity\n\nWe're looking for a Design Engineer to own the core Restate UI, design and code.\n\nOur UI is where developers end up when something is running, stuck, or has already gone wrong. It's a live window onto a distributed system that keeps moving while you're looking at it. The data is lar",
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-10-01T00:50:09.861885-07:00",
-    "status": "active",
-    "applied_at": null
-  },
   "32bf5e923fcc81db13c9fe640996c9d9": {
     "id": "32bf5e923fcc81db13c9fe640996c9d9",
     "title": "Brand Designer",
@@ -1927,6 +1935,139 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-10-01T00:50:14.587166-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "68920079b4b2d7fb27ba94006d6f5e3b": {
+    "id": "68920079b4b2d7fb27ba94006d6f5e3b",
+    "title": "UX/UI Product Designer",
+    "company": "Base360",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1623426-remote-anywhere-ux-ui-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Our design system: Build reusable components and consistent interaction patterns that keep the platform coherent as it grows.\nWebsite and marketing assets: Design landing pages, feature visuals and launch assets that make the product\u2019s value clear.\nWhat You\u2019ll Do\nOwn design from problem definition and user research through to prototypes, final interfaces and implementation reviews.\nSpeak with operators and internal teams to understand how they work and where they struggle.\nTurn complex requirements into clear user journeys, wireframes and polished interfaces.\nWork closely with engineers to deliver designs that account for real data, edge cases and technical constraints.\nTest ideas early, incorporate feedback and improve experiences after launch.\nUse AI tools to accelerate exploration and production while maintaining a high standard of design.\nTake initiative: identify problems, propose solutions and drive them through to completion.\nA strong portfolio demonstrating both UX thinking and excellent visual design.\nExperience designing SaaS products, dashboards or applications with complex workflows.\nStrong Figma skills, including auto layout, components, design systems and interactive prototyping.\nExcellent judgement in typography, spacing, hierarchy, colour and responsive design.\nThe ability to simplify complex information without hiding what users need.\nExperience working directly with engineers and seeing designs through to production.\nClear communication and the ability to explain your decisions and respond constructively to feedback.\nHigh ownership, attention to detail and the ability to move forward when requirements are still evolving.\nExperience with short-term rentals, hospitality, AI products, conversion optimisation or front-end development is a plus.\nMake a visible impact. Design experiences that directly influence how short-term rental businesses operate.\nBuild with real users. Get access to the operational teams behind The Flex and learn from their daily challenges.\nWork directly with the founders. Help shape product decisions and design direction from an early stage.\nOwn what you build. Take meaningful responsibility across discovery, design and delivery.\nPush beyond conventional software. Help define how people work alongside AI agents.\nGrow with the company. Take on broader responsibility as the product and design function expand.\nYou're looking for a predictable corporate role with a fixed playbook.\nYou engage in office politics or gossip instead of communicating directly.\nYou're looking for a slow-paced role with limited ownership.\nYou don't aim to become one of the best at what you do.\nH Product Designer at Healf R Senior UX/UI Designer at Robusta 1 UI/UX Designer at 10xme Technology e Senior Product Designer (UX/UI) at elearnio b UI/UX Designer at bet365\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nCompassion in World Farming International (CIWF) is hiring UX/UI Designer",
+    "posted_at": "6h",
+    "priority": 5,
+    "first_seen": "2026-10-01T08:01:23.821079-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "2f5a373663b46c566dc196331aae89ce": {
+    "id": "2f5a373663b46c566dc196331aae89ce",
+    "title": "Product Designer",
+    "company": "Healf",
+    "location": "London",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1623326-product-designer-london-united-kingdom",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Number one on the FT1000, number one on the Sifted 100. From \u00a31m to over \u00a3100m in under three years, with a small, talent-dense team and an electric culture with day one founder intensity. Now we're aiming for \u00a31bn in the next three.\nWe curate the world's best wellbeing brands across The Four Pillars\u2122: EAT, MOVE, MIND, SLEEP. That's the first chapter.\nThe next chapter is harder and more interesting.\nWe are moving from one market to many, from e-commerce to a technology platform, and from curating wellbeing to defining it. We are a health company, so we think we should act like one.\nAt its fullest expression, Healf redefines what wellbeing means for tens of millions of people.\nWe\u2019re looking for a high-agency Product Designer to take our web experience to the next level. This is a rare opportunity to shape the future of how consumers discover and engage with curated, personalised wellbeing at scale.\nYou\u2019ll be joining a high-performing product and engineering team improving product discovery, reducing friction and boosting conversion across the full user journey- from collection and PDP pages to our quiz and subscription portal, while ensuring the Healf experience feels personal, actionable and deeply human.\nThis role is ideal for someone with strong UX and UI design skills, an eye for clean, scalable UI, a sense for what drives conversion and a genuine passion for building a better experience for our users. You don\u2019t need to have worked in wellness or FMCG but a solid foundation in eCommerce, CRO and design systems is key.\nWe\u2019re looking for a designer that embraces AI in their processes from research through to prototyping. We\u2019re interested in the outcomes you\u2019ve actually affected, not the arbitrary use of AI to tick a box or impress a stakeholder.\nLead UX/UI work across core surfaces of the Healf website\nAI tooling for the e-com product design team, working closely with developers to build systems and workflows that take design from concept to production ready code.\nDesign systems and unification of components across platforms\nDesign personalised experiences that help users find what they need (and didn\u2019t know they needed) faster.\nDevelop creative solutions to reduce friction and drive conversion\nCollaborate with product, content, and engineering to ensure fast, high-quality execution\nPlay a key role in evolving our cross-platform design system to support consistent growth\nConduct user research and experimentation to validate and refine design decisions\nSet a high bar for craft, detail, and performance in everything we ship\nBring experience of designing products in eCommerce, DTC, consumer tech, or health & wellbeing\nKnow how to turn messy, ambiguous problems into elegant, usable experiences\nHave a sharp eye for layout, hierarchy, and UX clarity- and understand what converts\nAre confident owning UX/UI end to end, from whiteboard to final polish\nAre familiar with CRO practices and improving performance across conversion funnels\nHave experience working with (or contributing to) design systems in Figma\nCollaborate well with engineers and can speak dev-friendly language when needed\nAre proactive, independent and excited to take ownership of large surfaces\nAre energised by building new things that help people live healthier, better lives\nWe ask a great deal of the people who work here. We expect full ownership and a genuine commitment to give this chapter everything you have.\nIn return, we will give you the same: everything we have, invested in your growth, your wellbeing, and the defining skills of the next decade.\nWe have built the fastest-growing company in Europe with a team small enough that every person in it shapes the outcome. That is still true today. The next person we hire will change the trajectory of the company.\nIf the most important work of your career is ahead of you, this is the place to do it.\nB UX/UI Product Designer at Base360 R Senior UX/UI Designer at Robusta 1 UI/UX Designer at 10xme Technology e Senior Produc",
+    "posted_at": "8h",
+    "priority": 4,
+    "first_seen": "2026-10-01T08:01:25.566330-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "6ed007abee9b78861858fd5b2e4bb4a6": {
+    "id": "6ed007abee9b78861858fd5b2e4bb4a6",
+    "title": "Product Design",
+    "company": "Chromatic",
+    "location": "Remote",
+    "salary": "$143,000 - $162,000",
+    "url": "https://uiuxjobsboard.com/job/1623526-remote-north-america-product-design",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Build durable design systems with components, tokens, and guidelines for engineers and agents.\nDevelop agent skills and harnesses that encode design decisions.\nWork with Marketing on visuals and content for the features you've shipped.\nRequirements\n8+ years of product design experience with strong UX and visual craft.\nYou\u2019ve shipped technical products and demonstrate a deep understanding of their mechanics.\nYou use coding agents, experiment with new workflows, and tune the quality of their output.\nYou build prototypes and production UI in React.\nYou work within existing design patterns and balance scope against business needs.\nYou bring recommendations, seek feedback early, and change your mind with new data.\nYou explain technical ideas and design decisions clearly in writing and visuals.\nSalary Range: US $143K - US$162K + equity. Learn more about our compensation philosophy here . For a list of our other benefits & a peek into life at Chromatic, visit our careers page .\nI Director, Product Design at Impiricus R Senior Product Designer at Revel C Senior Product Designer at Checkr F Staff Product Designer at Facet A Product Designer at Ande\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nServiceNow is hiring Senior Staff UX Researcher\nCompassion in World Farming International (CIWF) is hiring UX/UI Designer",
+    "posted_at": "8h",
+    "priority": 5,
+    "first_seen": "2026-10-01T08:01:27.379592-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "fd152848cdf98d2338b734f7bf2db81b": {
+    "id": "fd152848cdf98d2338b734f7bf2db81b",
+    "title": "Product Designer",
+    "company": "Duna",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/duna/c8eb5931-2b93-461c-ae0f-0db449e51e6e",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "At Duna, we see the company as the second product we're building and are continually working to create a transparent, ambitious culture. We want this to be the place where you do your best work. \n\n\n\nOur mission is to redefine identity for the global economy. We\u2019re backed by world-class investors inc",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-10-01T08:01:29.226298-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "9b0c1202343d4c9dc5a970979d442e39": {
+    "id": "9b0c1202343d4c9dc5a970979d442e39",
+    "title": "Brand Designer",
+    "company": "Duna",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/duna/6af4c831-00ee-4d94-93cb-709de9f1ee27",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "At Duna, we see the company as the second product we\u2019re building and are continually working to create a transparent, ambitious culture. We want this to be the place where you do your best work.\n\nOur mission is to redefine identity for the global economy. We\u2019re backed by world-class investors includ",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-10-01T08:01:31.001378-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "240070cd7f838e56efaf0ba3e05e2d0a": {
+    "id": "240070cd7f838e56efaf0ba3e05e2d0a",
+    "title": "Product Designer",
+    "company": "Conduct",
+    "location": "London, UK",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/conduct/4b9179a9-b0f6-46bb-bff1-82d6391d0ecb",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "TL;DR: You'll define how some of the world's largest enterprises actually use Conduct: mapping the workflows, uncovering the friction, and translating deep customer understanding into product experiences that work. The best thing you'll ship is clarity, not just beautiful designs. \n\n\u00a0\n\n\nWHY CONDUCT",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-10-01T08:01:32.681122-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "409cf86997ac15d75c57ba8211b66cce": {
+    "id": "409cf86997ac15d75c57ba8211b66cce",
+    "title": "Product Designer - US",
+    "company": "Conduct",
+    "location": "NYC, US",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/conduct/38f17333-1b48-4a55-b6b7-e211bd0b5e4a",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "TL;DR: You'll define how some of the world's largest enterprises actually use Conduct: mapping the workflows, uncovering the friction, and translating deep customer understanding into product experiences that work. The best thing you'll ship is clarity, not just beautiful designs. \n\n\u00a0\n\n\nWHY CONDUCT",
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-10-01T08:01:34.378282-07:00",
     "status": "active",
     "applied_at": null
   }
