@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "job": {
+      "title": "Frontend Engineer",
+      "company": "Restate",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/restate/c6651462-c412-4f6d-8553-d193a685294a",
+      "salary": "Not listed",
+      "description": "THE OPPORTUNITY\n\nWe're looking for a Frontend Engineer to own the product experience across Restate's UI.\n\nOur UI is where developers end up when something is running, stuck, or has already gone wrong. It's a live window onto a distributed system that keeps moving while you're looking at it. The dat",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery"
+    },
+    "remind_at": "2026-10-01T01:20:08.860895-07:00"
+  },
+  {
+    "job": {
+      "title": "Design Engineer",
+      "company": "Restate",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/restate/9a198557-1e8c-453b-9ede-6ef6159539ff",
+      "salary": "Not listed",
+      "description": "The Opportunity\n\nWe're looking for a Design Engineer to own the core Restate UI, design and code.\n\nOur UI is where developers end up when something is running, stuck, or has already gone wrong. It's a live window onto a distributed system that keeps moving while you're looking at it. The data is lar",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery"
+    },
+    "remind_at": "2026-10-01T01:20:10.455778-07:00"
+  },
+  {
+    "job": {
+      "title": "Brand Designer",
+      "company": "Metaview",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/metaview/6d0422e3-5308-4416-8b7c-072e88d2440f",
+      "salary": "Not listed",
+      "description": "Metaview is an AI company focused on recruiting. We build AI agents that help world-class companies hire with radically more speed and precision. We automate the toil, and augment the human for companies like Brex, Affirm, Deel, ElevenLabs, and Airtable.\n\nFounded by Siadhal https://www.linkedin.com/",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery"
+    },
+    "remind_at": "2026-10-01T01:20:15.023468-07:00"
+  }
+]
