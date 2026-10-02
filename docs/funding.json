@@ -1,5 +1,20 @@
 [
   {
+    "id": "0197b6f31b520c14c0f28f4d1bc47903",
+    "company": "Amazon",
+    "amount": "$8.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/10/02/amazon-seeks-to-offload-8-billion-in-nvidia-ai-chips-to-investors-as-big-tech-turns-to-wall-street-for-ai-compute-financing/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-02T09:38:52.580854-07:00",
+    "status": "active"
+  },
+  {
     "id": "9d7a91816b1c3bf8361e658ec0af4095",
     "company": "Biotia",
     "amount": "$9.0M",

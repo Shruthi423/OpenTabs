@@ -1,92 +1,32 @@
 [
   {
     "item": {
-      "company": "Bodhium Labs",
-      "amount": "$3.5M",
-      "stage": "Pre-Seed",
-      "investors": "Streamlined Ventures, Long Journey Ventures",
-      "location": null,
-      "blurb": "Bodhium Labs Raises $3.5M Pre-seed. Bodhium Labs raises $3.5M pre-seed round led by Streamlined Ventures and Long Journey Ventures to build an AI simulation and testing layer for marketers.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/bodhium-labs-raises-3-5m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-10-02T04:39:03.170275-07:00"
-  },
-  {
-    "item": {
-      "company": "Augmeta",
-      "amount": "$3.0M",
-      "stage": "Seed",
-      "investors": "Depth Ventures",
-      "location": null,
-      "blurb": "Augmeta Raises $3M Seed. Augmeta raises $3M seed round led by Depth Ventures to expand its Agentic KPI Ops platform and deploy AI operators to manage business performance.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/augmeta-raises-3m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-02T04:39:06.025703-07:00"
-  },
-  {
-    "item": {
-      "company": "Photon",
-      "amount": "$4.5M",
-      "stage": "Seed",
+      "company": "Pope Leo",
+      "amount": null,
+      "stage": null,
       "investors": null,
-      "location": null,
-      "blurb": "Photon Raises $4.5M Seed. Photon raises $4.5M in seed funding led by Gradient and A* to help developers build AI agents that replace traditional mobile applications.",
+      "location": "New York",
+      "blurb": "Pope Leo says AI lacks the \"spark of humanity\" \u2014 and wants artists and the church to fight back. Pope Leo XIV called Friday for the church to form an alliance with artists to protect human creativity during an era of AI-generated content.Why it matters: Though he has acknowledged the technology's potential benefits, the pope continues to warn that AI progress cannot come at the expense of human dignity.The statement comes after the New York Times reported on Anthropic's efforts to confer with re",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/photon-raises-4-5m-seed/",
-      "priority": 9
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/02/pope-leo-xiv-catcholic-church-ai-waring-artists",
+      "priority": 3
     },
-    "remind_at": "2026-10-02T04:39:10.980119-07:00"
+    "remind_at": "2026-10-02T10:08:48.761319-07:00"
   },
   {
     "item": {
-      "company": "Parakeet Health",
-      "amount": "$10.0M",
-      "stage": "Series A",
-      "investors": "Canvas Ventures",
-      "location": null,
-      "blurb": "Parakeet Health Raises $10M Series A. Parakeet Health raises $10M Series A led by Canvas Ventures to scale its AI-driven patient access and engagement platform for healthcare enterprises.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/parakeet-health-raises-10m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-10-02T04:39:19.289193-07:00"
-  },
-  {
-    "item": {
-      "company": "Homeward",
-      "amount": "$120.0M",
-      "stage": "Series D",
-      "investors": null,
-      "location": null,
-      "blurb": "Homeward Raises $120M Series D. Homeward raises $120M Series D led by Saluda Grade to expand its AI-powered proptech platform for home buying and selling solutions.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/homeward-raises-120m-series-d/",
-      "priority": 5
-    },
-    "remind_at": "2026-10-02T04:39:22.283988-07:00"
-  },
-  {
-    "item": {
-      "company": "Biotia",
-      "amount": "$9.0M",
+      "company": "Amazon",
+      "amount": "$8.0B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Biotia Raises $9M in Funding. Biotia raises $9 million to scale its AI-powered infectious disease diagnostic platform and expand into women's health and orthopedic testing markets.",
+      "blurb": "Amazon seeks to offload $8 billion in Nvidia AI chips to investors as Big Tech turns to Wall Street for AI compute financing. Amazon is seeking to move about $8 billion worth of Nvidia AI chips into an investment vehicle backed by outside capital, a financing structure that shows how far the AI infrastructure boom is pushing Big Tech into Wall Street-style financial [&#8230;]\nThe post Amazon seeks to offload $8 billion in Nvidia AI chips to investors as Big Tech turns to Wall Street for AI compu",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/biotia-raises-9m-unknown/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/02/amazon-seeks-to-offload-8-billion-in-nvidia-ai-chips-to-investors-as-big-tech-turns-to-wall-street-for-ai-compute-financing/",
       "priority": 3
     },
-    "remind_at": "2026-10-02T04:39:25.235673-07:00"
+    "remind_at": "2026-10-02T10:08:51.580683-07:00"
   }
 ]
