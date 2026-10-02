@@ -1,32 +1,92 @@
 [
   {
     "item": {
-      "company": "Horowitz Andreessen Academy",
-      "amount": "$42.0M",
-      "stage": null,
-      "investors": null,
-      "location": "San Francisco",
-      "blurb": "Horowitz Andreessen Academy raises $42m for new San Francisco school - EdTech Innovation Hub. Horowitz Andreessen Academy raises $42m for new San Francisco school&nbsp;&nbsp;EdTech Innovation Hub",
+      "company": "Bodhium Labs",
+      "amount": "$3.5M",
+      "stage": "Pre-Seed",
+      "investors": "Streamlined Ventures, Long Journey Ventures",
+      "location": null,
+      "blurb": "Bodhium Labs Raises $3.5M Pre-seed. Bodhium Labs raises $3.5M pre-seed round led by Streamlined Ventures and Long Journey Ventures to build an AI simulation and testing layer for marketers.",
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmkwNUxRdlphalU4UnZMQ19NSEwyNlBtZWxzT3gxeWpaTElPYzVGNThWZU1tbGtaNWoxVDdlS01JYXJWTFExZnZRYXRsajktcURubmMyQzdOanBOdUJHOGlkY2VfUW5CVXdTbmRKaW5EajJmdVoyd0NIU1pMMnkxanJuODNZT05IaTFON2laOXhCOTAxcVc0bTdOa3dxeHQ5NlJ5UVY4TEVmcnBq?oc=5",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/bodhium-labs-raises-3-5m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-10-01T22:46:25.360192-07:00"
+    "remind_at": "2026-10-02T04:39:03.170275-07:00"
   },
   {
     "item": {
-      "company": "Nine-person Halluminate",
-      "amount": "$30.0M",
+      "company": "Augmeta",
+      "amount": "$3.0M",
+      "stage": "Seed",
+      "investors": "Depth Ventures",
+      "location": null,
+      "blurb": "Augmeta Raises $3M Seed. Augmeta raises $3M seed round led by Depth Ventures to expand its Agentic KPI Ops platform and deploy AI operators to manage business performance.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/augmeta-raises-3m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-02T04:39:06.025703-07:00"
+  },
+  {
+    "item": {
+      "company": "Photon",
+      "amount": "$4.5M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Photon Raises $4.5M Seed. Photon raises $4.5M in seed funding led by Gradient and A* to help developers build AI agents that replace traditional mobile applications.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/photon-raises-4-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-02T04:39:10.980119-07:00"
+  },
+  {
+    "item": {
+      "company": "Parakeet Health",
+      "amount": "$10.0M",
+      "stage": "Series A",
+      "investors": "Canvas Ventures",
+      "location": null,
+      "blurb": "Parakeet Health Raises $10M Series A. Parakeet Health raises $10M Series A led by Canvas Ventures to scale its AI-driven patient access and engagement platform for healthcare enterprises.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/parakeet-health-raises-10m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-02T04:39:19.289193-07:00"
+  },
+  {
+    "item": {
+      "company": "Homeward",
+      "amount": "$120.0M",
+      "stage": "Series D",
+      "investors": null,
+      "location": null,
+      "blurb": "Homeward Raises $120M Series D. Homeward raises $120M Series D led by Saluda Grade to expand its AI-powered proptech platform for home buying and selling solutions.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/homeward-raises-120m-series-d/",
+      "priority": 5
+    },
+    "remind_at": "2026-10-02T04:39:22.283988-07:00"
+  },
+  {
+    "item": {
+      "company": "Biotia",
+      "amount": "$9.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Exclusive: Nine-person Halluminate raises $30 million, counts four top U.S. AI labs as customers - Fortune. Exclusive: Nine-person Halluminate raises $30 million, counts four top U.S. AI labs as customers&nbsp;&nbsp;Fortune",
+      "blurb": "Biotia Raises $9M in Funding. Biotia raises $9 million to scale its AI-powered infectious disease diagnostic platform and expand into women's health and orthopedic testing markets.",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeWNxS0luM2lwc0k5OVlQSFd4Sy1XN01sdnZGV2FZV3BxbHBZWV9PNzg3U1JKTHZSNDd0UkJBRERob1Vkb3NJZDNhVEdpQ3N2LWROdS1DajUwQkNzSEpyUDhNLXRuY043emZjSldEb1MwcDM1YmJsTWNrelBvSFJJSnptaC1EZw?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/biotia-raises-9m-unknown/",
       "priority": 3
     },
-    "remind_at": "2026-10-01T22:46:31.259135-07:00"
+    "remind_at": "2026-10-02T04:39:25.235673-07:00"
   }
 ]
