@@ -2833,5 +2833,21 @@
     "roles": [],
     "first_seen": "2026-10-01T13:17:38.605182-07:00",
     "status": "active"
+  },
+  "d7d85b50defd11ccf72d9b8f57d384ef": {
+    "id": "d7d85b50defd11ccf72d9b8f57d384ef",
+    "company": "Volantis",
+    "amount": "$88.0M",
+    "stage": "Series A",
+    "investors": "Kleiner Perkins, Abstract Ventures",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/01/volantis-raises-88m-to-develop-photonic-inference-systems/",
+    "priority": 11,
+    "blurb": "Volantis raises $88M to develop photonic inference systems. Volantis Inc. today announced that it has raised a $88 million funding round led by prominent angel investor Lachy Groom and Abstract Ventures. The Series A deal also drew more than a half-dozen other participants. The group included Kleiner Perkins Chair John Doerr and Naveen Rao, the former head of Intel\u2019s artificial intelligence products group. [&#8230;]\nThe post Volantis raises $88M to develop photonic inference systems appeared fir",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-01T17:02:05.613963-07:00",
+    "status": "active"
   }
 }
