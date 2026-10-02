@@ -2849,5 +2849,37 @@
     "roles": [],
     "first_seen": "2026-10-01T17:02:05.613963-07:00",
     "status": "active"
+  },
+  "2c3a58fd9e02da1747c1982929f3894f": {
+    "id": "2c3a58fd9e02da1747c1982929f3894f",
+    "company": "Horowitz Andreessen Academy",
+    "amount": "$42.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmkwNUxRdlphalU4UnZMQ19NSEwyNlBtZWxzT3gxeWpaTElPYzVGNThWZU1tbGtaNWoxVDdlS01JYXJWTFExZnZRYXRsajktcURubmMyQzdOanBOdUJHOGlkY2VfUW5CVXdTbmRKaW5EajJmdVoyd0NIU1pMMnkxanJuODNZT05IaTFON2laOXhCOTAxcVc0bTdOa3dxeHQ5NlJ5UVY4TEVmcnBq?oc=5",
+    "priority": 3,
+    "blurb": "Horowitz Andreessen Academy raises $42m for new San Francisco school - EdTech Innovation Hub. Horowitz Andreessen Academy raises $42m for new San Francisco school&nbsp;&nbsp;EdTech Innovation Hub",
+    "founders": [],
+    "location": "San Francisco",
+    "roles": [],
+    "first_seen": "2026-10-01T22:16:26.360380-07:00",
+    "status": "active"
+  },
+  "1adf45ab709a197854374d74185e44b1": {
+    "id": "1adf45ab709a197854374d74185e44b1",
+    "company": "Nine-person Halluminate",
+    "amount": "$30.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeWNxS0luM2lwc0k5OVlQSFd4Sy1XN01sdnZGV2FZV3BxbHBZWV9PNzg3U1JKTHZSNDd0UkJBRERob1Vkb3NJZDNhVEdpQ3N2LWROdS1DajUwQkNzSEpyUDhNLXRuY043emZjSldEb1MwcDM1YmJsTWNrelBvSFJJSnptaC1EZw?oc=5",
+    "priority": 3,
+    "blurb": "Exclusive: Nine-person Halluminate raises $30 million, counts four top U.S. AI labs as customers - Fortune. Exclusive: Nine-person Halluminate raises $30 million, counts four top U.S. AI labs as customers&nbsp;&nbsp;Fortune",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-01T22:16:32.259328-07:00",
+    "status": "active"
   }
 }

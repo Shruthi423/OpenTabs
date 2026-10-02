@@ -1,17 +1,32 @@
 [
   {
     "item": {
-      "company": "Volantis",
-      "amount": "$88.0M",
-      "stage": "Series A",
-      "investors": "Kleiner Perkins, Abstract Ventures",
-      "location": null,
-      "blurb": "Volantis raises $88M to develop photonic inference systems. Volantis Inc. today announced that it has raised a $88 million funding round led by prominent angel investor Lachy Groom and Abstract Ventures. The Series A deal also drew more than a half-dozen other participants. The group included Kleiner Perkins Chair John Doerr and Naveen Rao, the former head of Intel\u2019s artificial intelligence products group. [&#8230;]\nThe post Volantis raises $88M to develop photonic inference systems appeared fir",
+      "company": "Horowitz Andreessen Academy",
+      "amount": "$42.0M",
+      "stage": null,
+      "investors": null,
+      "location": "San Francisco",
+      "blurb": "Horowitz Andreessen Academy raises $42m for new San Francisco school - EdTech Innovation Hub. Horowitz Andreessen Academy raises $42m for new San Francisco school&nbsp;&nbsp;EdTech Innovation Hub",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/01/volantis-raises-88m-to-develop-photonic-inference-systems/",
-      "priority": 11
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmkwNUxRdlphalU4UnZMQ19NSEwyNlBtZWxzT3gxeWpaTElPYzVGNThWZU1tbGtaNWoxVDdlS01JYXJWTFExZnZRYXRsajktcURubmMyQzdOanBOdUJHOGlkY2VfUW5CVXdTbmRKaW5EajJmdVoyd0NIU1pMMnkxanJuODNZT05IaTFON2laOXhCOTAxcVc0bTdOa3dxeHQ5NlJ5UVY4TEVmcnBq?oc=5",
+      "priority": 3
     },
-    "remind_at": "2026-10-01T17:32:04.613809-07:00"
+    "remind_at": "2026-10-01T22:46:25.360192-07:00"
+  },
+  {
+    "item": {
+      "company": "Nine-person Halluminate",
+      "amount": "$30.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Exclusive: Nine-person Halluminate raises $30 million, counts four top U.S. AI labs as customers - Fortune. Exclusive: Nine-person Halluminate raises $30 million, counts four top U.S. AI labs as customers&nbsp;&nbsp;Fortune",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeWNxS0luM2lwc0k5OVlQSFd4Sy1XN01sdnZGV2FZV3BxbHBZWV9PNzg3U1JKTHZSNDd0UkJBRERob1Vkb3NJZDNhVEdpQ3N2LWROdS1DajUwQkNzSEpyUDhNLXRuY043emZjSldEb1MwcDM1YmJsTWNrelBvSFJJSnptaC1EZw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-10-01T22:46:31.259135-07:00"
   }
 ]
