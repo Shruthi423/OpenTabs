@@ -17,7 +17,7 @@
     "first_seen": "2026-09-21T17:51:48.978740-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T17:12:33.571137-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "4e9b72139a8169d723a2eedcb19cad54": {
@@ -38,7 +38,7 @@
     "first_seen": "2026-09-22T03:22:06.758392-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T17:12:33.571137-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "c8cefd6dc21effde5535e39bf72c8180": {
@@ -101,7 +101,7 @@
     "first_seen": "2026-09-22T03:22:12.119639-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T17:12:33.571137-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "d41a0c6e4c8d1d79a8d02ae0bf3523e9": {
@@ -122,7 +122,7 @@
     "first_seen": "2026-09-22T03:22:13.749514-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T17:12:33.571137-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "39a0c51ba0ef2d9bf145dd5fac84a850": {
@@ -143,7 +143,7 @@
     "first_seen": "2026-09-22T03:22:15.496251-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T17:12:33.571137-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "4d314eccce618ca81ff6869f45f7d0d7": {
@@ -248,7 +248,7 @@
     "first_seen": "2026-09-22T03:22:24.224681-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T17:12:33.571137-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "1edd106a29675674d38ab47075da871c": {
@@ -269,7 +269,7 @@
     "first_seen": "2026-09-22T03:22:25.993393-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T17:12:33.571137-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "eb007648a27932c616f096b30949c4c5": {
@@ -290,7 +290,7 @@
     "first_seen": "2026-09-22T03:22:27.646932-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T17:12:33.571137-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "cad3956d12d13da5e6f8be20ea78728d": {
@@ -1129,7 +1129,7 @@
     "first_seen": "2026-09-28T07:30:02.022638-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T13:58:09.343641-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "e3239939cb6c168702c5e80a1a77e4e8": {
@@ -1150,7 +1150,7 @@
     "first_seen": "2026-09-28T07:30:03.916536-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T13:58:09.343641-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "4ab550a49700c2d85cd721ac63118e89": {
@@ -1171,7 +1171,7 @@
     "first_seen": "2026-09-28T07:30:05.753400-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T13:58:09.343641-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "9f9496bfe8c4a6d5eb95dfe1f7d6cf18": {
@@ -1192,7 +1192,7 @@
     "first_seen": "2026-09-28T07:30:07.652048-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T13:58:09.343641-07:00"
+    "checked_at": "2026-10-03T07:55:00.406588-07:00"
   },
   "c9a4c8df018f48a8f46d5627827bd2a6": {
     "id": "c9a4c8df018f48a8f46d5627827bd2a6",
@@ -1212,7 +1212,7 @@
     "first_seen": "2026-09-28T07:30:11.391639-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T13:58:09.343641-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "5e6d43dcd034d8d641e149b60ae4eae4": {
@@ -1233,7 +1233,7 @@
     "first_seen": "2026-09-28T07:30:13.235535-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T13:58:09.343641-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "f3fa66f73fd78fee4d0a708d7effc8d3": {
@@ -1254,7 +1254,7 @@
     "first_seen": "2026-09-28T07:30:18.258984-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T13:58:09.343641-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "e76650ece293922318a5eadc9c094b26": {
@@ -1275,7 +1275,7 @@
     "first_seen": "2026-09-28T07:30:19.990583-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T13:58:09.343641-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "6c3a52498c4ad099793ed7e06805fb0e": {
@@ -1296,7 +1296,7 @@
     "first_seen": "2026-09-28T07:30:21.885321-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T13:58:09.343641-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "0edd26887dd7afeebb35a77c1642e622": {
@@ -1317,7 +1317,7 @@
     "first_seen": "2026-09-28T07:30:25.557719-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T13:58:09.343641-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "75996603f883a870651d875e97ab70cf": {
@@ -1779,7 +1779,7 @@
     "first_seen": "2026-09-29T11:25:59.052967-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T13:58:09.343641-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "dd92cd2909c03f2a931048852dab284f": {
@@ -1800,7 +1800,7 @@
     "first_seen": "2026-09-29T11:26:00.714691-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T13:58:09.343641-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "7fabaae9eec26e42d9eb8a373da349a1": {
@@ -1821,7 +1821,7 @@
     "first_seen": "2026-09-29T11:26:02.367751-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-02T13:58:09.343641-07:00",
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
     "dead_strikes": 0
   },
   "b82d1067c95b01daa2d7a2408ce3a674": {
@@ -1883,7 +1883,9 @@
     "priority": 3,
     "first_seen": "2026-09-30T06:41:13.748417-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
+    "dead_strikes": 0
   },
   "0cfab41e2572d6071672702011fbabea": {
     "id": "0cfab41e2572d6071672702011fbabea",
@@ -1902,7 +1904,9 @@
     "priority": 4,
     "first_seen": "2026-09-30T06:41:15.307856-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
+    "dead_strikes": 0
   },
   "e2c0d715f3b14444a1de7ed0aa4bd064": {
     "id": "e2c0d715f3b14444a1de7ed0aa4bd064",
@@ -1921,7 +1925,9 @@
     "priority": 5,
     "first_seen": "2026-09-30T06:41:17.096576-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
+    "dead_strikes": 0
   },
   "3d3582687f9e0a47964cbdaa80fc9466": {
     "id": "3d3582687f9e0a47964cbdaa80fc9466",
@@ -1941,7 +1947,9 @@
     "priority": 1,
     "first_seen": "2026-09-30T06:42:11.100196-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-03T07:55:00.406588-07:00",
+    "dead_strikes": 0
   },
   "32bf5e923fcc81db13c9fe640996c9d9": {
     "id": "32bf5e923fcc81db13c9fe640996c9d9",
@@ -2226,6 +2234,25 @@
     "posted_at": "5h",
     "priority": 4,
     "first_seen": "2026-10-03T03:31:25.391232-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "5f476c4e977329d4eb7a012d38aa34f6": {
+    "id": "5f476c4e977329d4eb7a012d38aa34f6",
+    "title": "Product Designer",
+    "company": "Pika",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/pika/cc4dffe4-2cad-4287-a28b-b875ee35b541",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "ABOUT THE ROLE\n\nWe're looking for a Product Designer to help drive the next creative leap at Pika. In this high-impact, hands-on role, you'll shape the core experience of our generative AI platform, empowering millions of creators to bring bold ideas to life with powerful, intuitive design. If you l",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-10-03T07:56:01.953185-07:00",
     "status": "active",
     "applied_at": null
   }
