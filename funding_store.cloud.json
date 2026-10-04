@@ -3073,5 +3073,39 @@
     "roles": [],
     "first_seen": "2026-10-03T14:40:51.677283-07:00",
     "status": "active"
+  },
+  "0231336e7e7a920cd96fa1a55a79df9a": {
+    "id": "0231336e7e7a920cd96fa1a55a79df9a",
+    "company": "Neocloud PaleBlueDot AI",
+    "amount": "$200.0M",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzQ1pIRjA2XzIxQk1EUnBaNkswRWVLYVBienk4dlNMVTUxUG9EUVFKdWtLRS1aVkgzRXhhVEIxYmdxcFFvbVIwNVNKRWh0eVJJcV93?oc=5",
+    "priority": 6,
+    "blurb": "Neocloud PaleBlueDot AI Raises $200M Series C at $3.2B Valuation - en.wowtale.net. Neocloud PaleBlueDot AI Raises $200M Series C at $3.2B Valuation&nbsp;&nbsp;en.wowtale.net",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-04T09:00:05.085448-07:00",
+    "status": "active"
+  },
+  "2f08f45dcbee220600b30c9933c0121b": {
+    "id": "2f08f45dcbee220600b30c9933c0121b",
+    "company": "Reflection",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
+    "priority": 3,
+    "blurb": "Scoop: A powerful new model from startup Reflection is set to shake up the AI race. A closely watched Nvidia-backed startup called Reflection is preparing to shake up the AI race with a powerful open-weight system that could threaten Chinese upstarts and U.S. AI giants alike.Why it matters: The marriage of an American open-weight model and Nvidia GPUs would give\u00a0individuals and companies a new, cheaper alternative to Anthropic, OpenAI and Google.Open models, designed to compete with Chinese riva",
+    "founders": [
+      "Misha Laskin"
+    ],
+    "location": "Silicon Valley",
+    "roles": [],
+    "first_seen": "2026-10-04T09:00:07.937941-07:00",
+    "status": "active"
   }
 }
