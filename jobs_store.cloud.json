@@ -59,7 +59,7 @@
     "first_seen": "2026-09-22T03:22:08.509836-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "bdb14dafce4b23a44f92807bbc0a78ec": {
@@ -80,7 +80,7 @@
     "first_seen": "2026-09-22T03:22:10.327840-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "b3f6c7a25c8e1b2266ff9b918206d756": {
@@ -164,7 +164,7 @@
     "first_seen": "2026-09-22T03:22:17.264063-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "0bdda4a48d2cf2cb72bf6afea0b4bac4": {
@@ -185,7 +185,7 @@
     "first_seen": "2026-09-22T03:22:19.021719-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "15226e6da22c8bbeb8868d4a73d755be": {
@@ -206,7 +206,7 @@
     "first_seen": "2026-09-22T03:22:20.802879-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "887aef28ce44fa80a1ab1a3add2580fc": {
@@ -227,7 +227,7 @@
     "first_seen": "2026-09-22T03:22:22.469984-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "4308fe8f5ce28dc560e5ce3c5b1621e3": {
@@ -311,7 +311,7 @@
     "first_seen": "2026-09-22T03:22:29.873420-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "7b6bee2ac981bf3153494d6365160faa": {
@@ -332,7 +332,7 @@
     "first_seen": "2026-09-22T08:06:15.879288-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "fa820d51c5a65e0ea834ce6669bb3543": {
@@ -1129,7 +1129,7 @@
     "first_seen": "2026-09-28T07:30:02.022638-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "e3239939cb6c168702c5e80a1a77e4e8": {
@@ -1150,7 +1150,7 @@
     "first_seen": "2026-09-28T07:30:03.916536-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "4ab550a49700c2d85cd721ac63118e89": {
@@ -1171,7 +1171,7 @@
     "first_seen": "2026-09-28T07:30:05.753400-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "9f9496bfe8c4a6d5eb95dfe1f7d6cf18": {
@@ -1192,7 +1192,7 @@
     "first_seen": "2026-09-28T07:30:07.652048-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00"
+    "checked_at": "2026-10-04T15:24:23.795841-07:00"
   },
   "c9a4c8df018f48a8f46d5627827bd2a6": {
     "id": "c9a4c8df018f48a8f46d5627827bd2a6",
@@ -1212,7 +1212,7 @@
     "first_seen": "2026-09-28T07:30:11.391639-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "5e6d43dcd034d8d641e149b60ae4eae4": {
@@ -1233,7 +1233,7 @@
     "first_seen": "2026-09-28T07:30:13.235535-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "f3fa66f73fd78fee4d0a708d7effc8d3": {
@@ -1254,7 +1254,7 @@
     "first_seen": "2026-09-28T07:30:18.258984-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "e76650ece293922318a5eadc9c094b26": {
@@ -1275,7 +1275,7 @@
     "first_seen": "2026-09-28T07:30:19.990583-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "6c3a52498c4ad099793ed7e06805fb0e": {
@@ -1296,7 +1296,7 @@
     "first_seen": "2026-09-28T07:30:21.885321-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "0edd26887dd7afeebb35a77c1642e622": {
@@ -1317,7 +1317,7 @@
     "first_seen": "2026-09-28T07:30:25.557719-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "75996603f883a870651d875e97ab70cf": {
@@ -1779,7 +1779,7 @@
     "first_seen": "2026-09-29T11:25:59.052967-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "dd92cd2909c03f2a931048852dab284f": {
@@ -1800,7 +1800,7 @@
     "first_seen": "2026-09-29T11:26:00.714691-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "7fabaae9eec26e42d9eb8a373da349a1": {
@@ -1821,7 +1821,7 @@
     "first_seen": "2026-09-29T11:26:02.367751-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "b82d1067c95b01daa2d7a2408ce3a674": {
@@ -1884,7 +1884,7 @@
     "first_seen": "2026-09-30T06:41:13.748417-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "0cfab41e2572d6071672702011fbabea": {
@@ -1905,7 +1905,7 @@
     "first_seen": "2026-09-30T06:41:15.307856-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "e2c0d715f3b14444a1de7ed0aa4bd064": {
@@ -1926,7 +1926,7 @@
     "first_seen": "2026-09-30T06:41:17.096576-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-03T22:48:51.410041-07:00",
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
     "dead_strikes": 0
   },
   "3d3582687f9e0a47964cbdaa80fc9466": {
@@ -2137,7 +2137,9 @@
     "priority": 5,
     "first_seen": "2026-10-01T13:16:53.123472-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-04T15:24:23.795841-07:00",
+    "dead_strikes": 0
   },
   "2a6dd976db11fd041c76dce30180eb91": {
     "id": "2a6dd976db11fd041c76dce30180eb91",
@@ -2288,6 +2290,44 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-10-03T22:49:57.749488-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "860143327273372e54182a8b2c22f50b": {
+    "id": "860143327273372e54182a8b2c22f50b",
+    "title": "Product Designer - TV & Entertainment Products at humani",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://remotefirstjobs.com/companies/humani/jobs/product-designer-tv-entertainment-products-868076",
+    "source": "JobsCollider",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "HumanI is partnering with Desquared, an award-winning digital product and experience design agency, in the search for a Product Designer with strong experience in TV and entertainment products to join its growing team in Athens.\n\nDesquared is known for building impactful digital products and experie",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-10-04T15:25:27.015751-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "2389ad4c95275611b86401ca7809e2ab": {
+    "id": "2389ad4c95275611b86401ca7809e2ab",
+    "title": "Product Designer - German Speaking at humani",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://remotefirstjobs.com/companies/humani/jobs/product-designer-german-speaking-868075",
+    "source": "JobsCollider",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "HumanI is partnering with Desquared, an award-winning digital product and experience design agency, in the search for a Product Designer with excellent German language skills to join its growing team in Athens.\n\nDesquared is known for building impactful digital products and experiences for leading o",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-10-04T15:25:28.722416-07:00",
     "status": "active",
     "applied_at": null
   }
