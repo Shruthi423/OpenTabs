@@ -1,92 +1,77 @@
 [
   {
     "item": {
-      "company": "GRAI",
-      "amount": "$9.0M",
+      "company": "Charter Space",
+      "amount": "$5.0M",
       "stage": "Seed",
-      "investors": "Khosla, Khosla Ventures",
+      "investors": "Crystal Venture Partners",
       "location": null,
-      "blurb": "GRAI Raises $9M Seed. GRAI raises $9M in seed funding led by Khosla Ventures and Inovo VC to develop AI-powered music remixing and social engagement software.",
+      "blurb": "Charter Space Raises $5M Seed. Charter Space raises $5 million in seed funding led by Crystal Venture Partners to scale its insurance brokerage platform for the space industry.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/grai-raises-9m-seed/",
-      "priority": 12
-    },
-    "remind_at": "2026-10-05T00:31:49.309783-07:00"
-  },
-  {
-    "item": {
-      "company": "Project Suppliers",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Project Suppliers Raises SAR 3.75M Pre-seed. Project Suppliers raises SAR 3.75 million in a pre-seed round to develop AI-powered cash flow management solutions for the construction and MEP sectors.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/project-suppliers-raises-sar-3-75m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-10-05T00:31:54.968139-07:00"
-  },
-  {
-    "item": {
-      "company": "Notey",
-      "amount": "$3.0M",
-      "stage": "Seed",
-      "investors": "Tivoli Ventures, Malta Venture Capital",
-      "location": null,
-      "blurb": "Notey Raises $3M Seed. Notey raises $3M in seed funding led by Tivoli Ventures and Malta Venture Capital to expand its music education and gamified practice platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/notey-raises-3m-seed/",
+      "url": "https://www.thesaasnews.com/news/charter-space-raises-5m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-10-05T00:31:58.010287-07:00"
+    "remind_at": "2026-10-05T09:31:15.820419-07:00"
   },
   {
     "item": {
-      "company": "Novele",
-      "amount": "$17.0M",
-      "stage": "Series A",
-      "investors": null,
+      "company": "Neurofin",
+      "amount": "$1.6M",
+      "stage": "Seed",
+      "investors": "UNLEASH Capital",
       "location": null,
-      "blurb": "Novele Raises $17M Series A. Novele raises $17 million Series A led by Boisei Labs to scale its autonomous AI-powered energy intelligence platform for commercial buildings.",
+      "blurb": "Neurofin Raises $1.6M Seed. Neurofin raises $1.6M seed round led by UNLEASH Capital to expand its GenAI-powered compliance and operations automation platform for the banking sector.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/novele-raises-17m-series-a/",
-      "priority": 8
+      "url": "https://www.thesaasnews.com/news/neurofin-raises-1-6m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-10-05T00:32:01.119839-07:00"
+    "remind_at": "2026-10-05T09:31:18.744647-07:00"
   },
   {
     "item": {
-      "company": "Promenaut",
-      "amount": "$8.9M",
-      "stage": null,
+      "company": "Verda",
+      "amount": "$189.0M",
+      "stage": "Series B",
       "investors": null,
       "location": null,
-      "blurb": "Promenaut Raises $8.9M in Funding. Promenaut raises $8.9M in total funding to scale its enterprise agentic workforce platform and expand its reach within regulated industries.",
+      "blurb": "AI cloud startup Verda raises $189m in Series B funding round - BeBeez International. AI cloud startup Verda raises $189m in Series B funding round&nbsp;&nbsp;BeBeez International",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/promenaut-raises-8-9m-unknown/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWkVDM1ZjQThuem1Pd3dFQjFxZWw3OE11cXpvN0JIUTZ6eGVwa00xc19YdzhKVUhxLVpRLXdjT2R4UG0yVGtRNDdnUWtkX3hFMjUzME5RRzdaYWVhVTdnRXdqYXZtVFlFbXdjaksyeG1qeU1EQmtkejBSRHBDZmJFOVc5WnFuRGpvR2VmUWYyaE03SFpl?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-10-05T09:31:21.726579-07:00"
+  },
+  {
+    "item": {
+      "company": "Clockwork.io",
+      "amount": "$31.0M",
+      "stage": null,
+      "investors": "Seligman Ventures, Wing Ventures and Premji Invest and [&#",
+      "location": null,
+      "blurb": "Clockwork.io bags $31M in funding to keep AI inference and training workloads running like \u2026 clockwork. Clockwork Systems Inc., the data center infrastructure startup that helps to maximize the efficiency of artificial intelligence chip clusters, has raised $31 million in fresh funding and announced the launch of a new feature called TorchSnap that helps to minimize wasted compute. Today\u2019s round was co-led by Seligman Ventures, Wing Ventures and Premji Invest and [&#8230;]\nThe post Clockwork.io ",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/05/clockwork-io-bags-31m-in-funding-to-keep-ai-inference-and-training-workloads-running-like-clockwork/",
       "priority": 3
     },
-    "remind_at": "2026-10-05T00:32:04.134202-07:00"
+    "remind_at": "2026-10-05T09:31:24.630007-07:00"
   },
   {
     "item": {
-      "company": "Funding",
+      "company": "Deutsche Telekom",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Korea\u2019s Q3 2026 Startup Funding: Robotics Surges as Biohealth Mega-Deals Vanish - Wowtale. Korea\u2019s Q3 2026 Startup Funding: Robotics Surges as Biohealth Mega-Deals Vanish&nbsp;&nbsp;Wowtale",
+      "blurb": "Top Tech News Today, October 5, 2026: Deutsche Telekom, Foxconn, Google, OpenAI, Schneider Electric & More. It\u2019s Monday, October 5, 2026, and the AI buildout is colliding with its limits. OpenAI is testing visual ads inside ChatGPT image generation as weekly users reach 1.2 billion. Tencent is reportedly leasing access to 100,000 advanced chips through Oracle [&#8230;]\nThe post Top Tech News Today, October 5, 2026: Deutsche Telekom, Foxconn, Google, OpenAI, Schneider Electric & More first appear",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43ZHF4YmdqU1FNaFRZQ3BjLXNuZzlZNDVUR3k1cUxzMWpIVTVDeVIyaDgwNktCSE5mbjNGX0JzZFVMaDdoV295eFZkVWVSeG9EUFpN?oc=5",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/05/top-tech-news-today-october-5-2026-deutsche-telekom-foxconn-google-openai-schneider-electric-more/",
       "priority": 3
     },
-    "remind_at": "2026-10-05T00:32:07.075417-07:00"
+    "remind_at": "2026-10-05T09:31:32.918861-07:00"
   }
 ]

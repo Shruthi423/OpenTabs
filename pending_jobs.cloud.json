@@ -1,53 +1,512 @@
 [
   {
     "job": {
-      "title": "Video Editor and Motion Designer at IntelliPro",
-      "company": "Unknown",
-      "location": "Remote",
-      "url": "https://remotefirstjobs.com/companies/intellipro/jobs/video-editor-and-motion-designer-868086",
-      "salary": "$100 - $110",
-      "description": "Position : Video Editor &amp; Motion Designer  Contract: 3 months, with potential for extension  **Location:\u00a0 New York - Remote acceptable but needs to be near New York**  **Pay Rate: $100 - $110/hr on W2**  **Schedule: Generally between 9:00 AM\u201310:00 PM; no overtime**\n\nPosition Overview\n\nWe are see",
-      "posted_at": "Recently",
-      "source": "JobsCollider",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": false,
-      "visa": null
-    },
-    "remind_at": "2026-10-05T00:31:24.259731-07:00"
-  },
-  {
-    "job": {
-      "title": "Brand Designer at InMarket",
-      "company": "Unknown",
-      "location": "Remote",
-      "url": "https://remotefirstjobs.com/companies/inmarket/jobs/brand-designer-868083",
-      "salary": "$40",
-      "description": "Title: Brand Designer\n\nLocation: Remote, US-only\n\nAbout InMarket\n\nSince 2010, InMarket has been the leader in 360-degree consumer intelligence and real-time activation for thousands of today\u2019s top brands. Through InMarket&rsquo;s data-driven marketing platform, brands can build targeted audiences, a",
-      "posted_at": "Recently",
-      "source": "JobsCollider",
-      "relevant": true,
-      "is_new_grad": false,
-      "is_big_tech": false,
-      "visa": null
-    },
-    "remind_at": "2026-10-05T00:31:26.017796-07:00"
-  },
-  {
-    "job": {
-      "title": "Brand Designer",
-      "company": "Parallel",
-      "location": "Palo Alto",
-      "url": "https://jobs.ashbyhq.com/parallel/68ea39b6-1ef1-4d97-82f5-b931c379a216",
+      "title": "Junior Graphic & UI Designer",
+      "company": "MBLM",
+      "location": "New York, United States",
+      "url": "https://mblm.com/job-postings/junior-graphic-ui-designer",
       "salary": "Not listed",
-      "description": "ABOUT US\n\nParallel is a web infrastructure company. Our products are used by leading businesses in sales, marketing, insurance, and coding to build best-in-class AI agents with flexible and powerful programmatic access to the web.\n\n\n\nWe've raised $230 million from Kleiner Perkins, Sequoia, Index Ven",
+      "description": "Job OverviewCalling on kerning obsessives, Figma-tab hoarders, and visual thinkers who also notice when a logo sits 2px off.MBLM is hiring an entry-level Graphic &amp; UI Designer . Full-time, in-office, NYC.You\u2019ll touch everything: identity/logo systems, campaigns, digital experiences, physical spa",
       "posted_at": "Recently",
-      "source": "Startups.Gallery",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": true,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:32.956170-07:00"
+  },
+  {
+    "job": {
+      "title": "UX Design Intern",
+      "company": "CarGurus",
+      "location": "Boston, United States",
+      "url": "https://job-boards.greenhouse.io/cgearlycareers/jobs/8230687",
+      "salary": "Not listed",
+      "description": "Who we areAt CarGurus (NASDAQ: CARG), our mission is to give people the power to reach their destination. We started as a small team of developers determined to bring trust and transparency to car shopping. Since then, our history of innovation and go-to-market acceleration has driven industry-leadi",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
       "relevant": true,
       "is_new_grad": false,
       "is_big_tech": false,
       "visa": null
     },
-    "remind_at": "2026-10-05T00:31:27.767378-07:00"
+    "remind_at": "2026-10-05T09:29:34.652672-07:00"
+  },
+  {
+    "job": {
+      "title": "EverHealth - Product Designer",
+      "company": "EverCommerce",
+      "location": "Remote (Remote)",
+      "url": "https://careers.evercommerce.com/us/en/job/EVERUSR106525EXTERNALENUS/EverHealth-Product-Designer",
+      "salary": "Not listed",
+      "description": "Product Designer \u2014 EverHealth PortfolioMissionHelp product teams across EverHealth solve real customer problems and ship experiences that are simple, useful, and effective \u2014 not just attractive screens.What you\u2019ll doPartner with Product Managers, Insights analysts and Engineers as part of a cross-fu",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:36.354858-07:00"
+  },
+  {
+    "job": {
+      "title": "UI Designer 1",
+      "company": "Garmin International, Inc.",
+      "location": "Olathe, United States",
+      "url": "https://careers.garmin.com/jobs/19674?lang=en-us",
+      "salary": "Not listed",
+      "description": "OverviewWe are seeking a full-time User Interface Designer 1 at Garmin's U.S. headquarters in the Greater Kansas City area. In this role, you will be responsible for creating compelling User Interface experiences and delivering superior design solutions for a variety of Garmin products.Essential Fun",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:37.911637-07:00"
+  },
+  {
+    "job": {
+      "title": "UX Web Strategy Specialist",
+      "company": "Clemson University",
+      "location": "Clemson, United States",
+      "url": "https://clemson.wd12.myworkdayjobs.com/en-US/Clemson_Careers/job/CLEMSON-SC/UX-Web-Strategy-Specialist_JR-10800",
+      "salary": "Not listed",
+      "description": "JOB SUMMARYThe UX Web Strategy Specialist serves as a strategic partner to University stakeholders by improving the usability, accessibility, and effectiveness of Clemson University's digital experiences. This position provides expertise in user experience (UX), information architecture, content str",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:39.673187-07:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Abaka AI",
+      "location": "Mountain View, United States",
+      "url": "https://job-boards.greenhouse.io/abakaai/jobs/4423757009",
+      "salary": "Not listed",
+      "description": "About the roleWe're building a new product &amp; software engineering team from the ground up. You'd be one of its first hires, shaping how our products look, feel, and fit together from day one. We're hiring a Product Designer to own the user experience across our web and mobile products. This is n",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:41.371814-07:00"
+  },
+  {
+    "job": {
+      "title": "Product Design Intern",
+      "company": "Tractian",
+      "location": "Atlanta, GA, United States",
+      "url": "https://careers.tractian.com/jobs/am9icG9zdDrwhVDJTnVnWXRJAT_9nnja",
+      "salary": "Not listed",
+      "description": "Why join usTractian is transforming the industrial world by empowering frontline maintenance workers to achieve more. We\u2019ve fused cutting-edge hardware with innovative software into one powerful platform, disrupting legacy systems and delivering smarter, faster solutions for our clients.Why Join UsT",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:42.931013-07:00"
+  },
+  {
+    "job": {
+      "title": "Product Design, Intern (Summer 2027)",
+      "company": "DoorDash",
+      "location": "San Francisco, United States",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8176863",
+      "salary": "Not listed",
+      "description": "About the TeamAt DoorDash, design shapes how millions of people connect with their local economy and we put our customers at the center of our product strategy. Our design team crafts thoughtful experiences across the ecosystem, from consumers ordering their favorite meals to merchants growing their",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": true,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:44.488367-07:00"
+  },
+  {
+    "job": {
+      "title": "Summer 2027 Internship \u2013 Consumer Banking (DSOB User Experience)",
+      "company": "Ally Bank",
+      "location": "Charlotte, United States",
+      "url": "https://ally.wd1.myworkdayjobs.com/Ally/job/Charlotte-NC/Summer-2027-Internship---Consumer-Banking--DSOB-User-Experience-_R2600577",
+      "salary": "Not listed",
+      "description": "Work ScheduleAlly designates roles as (1) fully on-site, (2) hybrid, or (3) fully remote. Hybrid roles are generally expected to be in the office a certain number of days per week as indicated by your manager. Your hiring manager will discuss this role's specific work requirements with you during th",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:46.207375-07:00"
+  },
+  {
+    "job": {
+      "title": "Interaction Designer",
+      "company": "10J Federal Reserve Bank of Kansas City",
+      "location": "Kansas City, United States",
+      "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Interaction-Designer_R-0000033555",
+      "salary": "Not listed",
+      "description": "Company Federal Reserve Bank of Kansas City The Federal Reserve Bank of Kansas City\u2019s in-house creative team is looking for an interaction designer focused on strategic branding and communications campaign design. This role collaborates with other designers, internal business clients and stakeholder",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:47.821940-07:00"
+  },
+  {
+    "job": {
+      "title": "UI/UX Design Intern",
+      "company": "Dimensional Innovations",
+      "location": "Overland Park, United States",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/51FD92324C8B2195D32BD3DB9EACCD81/jobs/222486",
+      "salary": "Not listed",
+      "description": "Job DetailsJob Location: DI - HQ - Overland Park, KS, Salary Range: Undisclosed,ABOUT DIAt Dimensional Innovations (DI), we\u2019re Designers, Makers, Engineers, Developers, Strategists and Innovators working together to create remarkable experiences, places and products.Our work lives at the intersectio",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:49.519834-07:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Gallatin",
+      "location": "El Segundo, United States",
+      "url": "https://jobs.ashbyhq.com/gallatin/a3a51aa7-ab18-45a8-b090-cd5cbfc9310e",
+      "salary": "Not listed",
+      "description": "About GallatinAt Gallatin, we are rebuilding logistics infrastructure for the national security missions of the United States and allied partners. We build AI systems that determine how logistics decisions are made \u2014 not just how they're executed. From factory to foxhole, we operate at the layer whe",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:51.262095-07:00"
+  },
+  {
+    "job": {
+      "title": "Graduate UX Programme 2027",
+      "company": "Capgemini",
+      "location": "Hove, United Kingdom",
+      "url": "https://careers.capgemini.com/job/Hove-Graduate-UX-Programme-2027/1443181733",
+      "salary": "Not listed",
+      "description": "About the role you're consideringBe part of something bigger from day one, working on real projects, solving real challenges, and shaping your future career, supporting one of our largest UK Public Sector clients.You will have the opportunity to work on a variety of engagements spanning across proje",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:52.961700-07:00"
+  },
+  {
+    "job": {
+      "title": "UX/UI Design Intern",
+      "company": "Union Home Mortgage Corp.",
+      "location": "Strongsville, United States",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/56CA827D488C9EDCE842370F906D69ED/jobs/331154",
+      "salary": "Not listed",
+      "description": "Job DetailsJob Location: Strongsville West OH - Strongsville, OH, Salary Range: Undisclosed, Job Category: Internship, Union Home Mortgage\u2019s L.E.A.D Internship Program\u2019s goal is to provide a fun, interesting, and real-world environment for our interns to Learn about the industry, be Educated by Sr. ",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:54.530428-07:00"
+  },
+  {
+    "job": {
+      "title": "UX Design Internship \u2013 Summer 2027",
+      "company": "Duke Energy",
+      "location": "Charlotte, United States",
+      "url": "https://dukeenergy.wd1.myworkdayjobs.com/Search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850",
+      "salary": "Not listed",
+      "description": "Important Application Submission InformationIn order to ensure your application is successfully received before the job posting expires, please submit your application by 11:59 PM on Sunday, October 11, 2026More than a career - a chance to make a difference in people's lives. Build an exciting, rewa",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": true,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:56.092003-07:00"
+  },
+  {
+    "job": {
+      "title": "UX Product Design Intern",
+      "company": "WebstaurantStore",
+      "location": "Remote (Lititz)",
+      "url": "https://careers.clarkassociatesinc.biz/careerdetail?id=103711",
+      "salary": "Not listed",
+      "description": "Job SummaryWebstaurantStore is looking for a UX Product Design Intern for the Summer of 2027. You'll see how user experience design works across a large ecommerce organization, rotating through some of the teams responsible for the WebstaurantStore app and website as well as TheRestaurantStore.com.E",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:57.861835-07:00"
+  },
+  {
+    "job": {
+      "title": "User Experience Designer",
+      "company": "Vanderbilt University Medical Center",
+      "location": "Nashville, United States",
+      "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/User-Experience-Designer_R-67248-1",
+      "salary": "Not listed",
+      "description": "Job DescriptionDiscover Vanderbilt Health: With eight hospitals and over 180 clinics, we are the region\u2019s largest comprehensive academic health system. Vanderbilt Health has a long tradition of providing world-class care to the people of the Mid-South, living out our mission of moving medicine forwa",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:29:59.574593-07:00"
+  },
+  {
+    "job": {
+      "title": "UX Designer Intern 2027",
+      "company": "IBM",
+      "location": "Yorktown Heights, United States",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134615",
+      "salary": "Not listed",
+      "description": "IntroductionIBM Research is shaping the future of computing by making quantum technology accessible to researchers, developers, and enterprises worldwide. Design plays a critical role in translating highly complex ideas into clear, engaging, and human-centered experiences across our products, platfo",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:30:01.313071-07:00"
+  },
+  {
+    "job": {
+      "title": "Student Intern, User Experience Design, AI, Spring 2027",
+      "company": "Entergy",
+      "location": "New Orleans, United States",
+      "url": "https://jobs.entergy.com/job/New-Orleans-Student-Intern,-User-Experience-Design,-AI,-Spring-2027-Loui/1435983600",
+      "salary": "Not listed",
+      "description": "Job SummaryAs a User Experience (UX) Design Intern, you'll support the product design team in shaping our new AI Management Platform, AMP. You\u2019ll collaborate closely with our small but mighty design team of two to turn complex challenges into clean, effective user experiences. This role blends UX de",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:30:03.078580-07:00"
+  },
+  {
+    "job": {
+      "title": "Marketing Technology and UI/UX Intern",
+      "company": "Gentherm Incorporated",
+      "location": "Novi, Michigan, United States",
+      "url": "https://careers.gentherm.com/job/Novi-Marketing-Technology-and-UIUX-Intern-MI-48377/606546917",
+      "salary": "Not listed",
+      "description": "Impact and OpportunityOur Summer Internship Program is a supervised program designed to enhance professional development by providing the chance to \u201ctest drive\u201d Gentherm and step into our organization to learn about our culture and career possibilities for your future. Our Summer program formally ru",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:30:04.644184-07:00"
+  },
+  {
+    "job": {
+      "title": "Entry Level AI Designer Apprenticeship",
+      "company": "UX Woman",
+      "location": "Remote (Philadelphia)",
+      "url": "https://ideate-innovation-labs-llc.typeform.com/to/n0nwWqZ9",
+      "salary": "Not listed",
+      "description": "About the Program:Every year, we sponsor 2 remote UX apprentices from anywhere in the world to join us for 7 months, either in the fall or spring seasons or online. Our UX apprentices work through the end-to-end UX design and UX research process for a startup idea of their choice that will help them",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": true,
+      "is_big_tech": false,
+      "visa": "yes"
+    },
+    "remind_at": "2026-10-05T09:30:33.829084-07:00"
+  },
+  {
+    "job": {
+      "title": "Summer 2027 User Experience Design Internship",
+      "company": "Southwest",
+      "location": "Dallas, United States",
+      "url": "https://careers.southwestair.com/us/en/job/R-2026-73044/Summer-2027-User-Experience-Design-Internship",
+      "salary": "Not listed",
+      "description": "We are committed to provide our Employees a stable work environment with equal opportunity for learning and personal growth. Creativity and innovation are encouraged for improving the effectiveness of Southwest Airlines. Above all, Employees will be provided the same concern, respect, and caring att",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:30:35.608173-07:00"
+  },
+  {
+    "job": {
+      "title": "Kohler Co-op - User Interface Design",
+      "company": "Kohler",
+      "location": "Kohler, United States",
+      "url": "https://kohler.csod.com/ux/ats/careersite/16/home/requisition/73543",
+      "salary": "Not listed",
+      "description": "Program OverviewAs a User Experience CoOp, you will be part of the team to develop the next generation of innovative products and ensure the solutions are useful, usable and desirable. Your daily activities evolve from understanding our consumers\u2019 needs, developing design solutions to evaluating and",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:30:37.239782-07:00"
+  },
+  {
+    "job": {
+      "title": "UX Specialist",
+      "company": "Truliant",
+      "location": "Winston-Salem, NC",
+      "url": "https://uiuxjobsboard.com/job/1626426-ux-specialist-winston-salem-nc-united-states",
+      "salary": "Not listed",
+      "description": "",
+      "posted_at": "6h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:30:38.976918-07:00"
+  },
+  {
+    "job": {
+      "title": "UX Web Strategy Specialist",
+      "company": "Clemson University",
+      "location": "Clemson, SC",
+      "url": "https://uiuxjobsboard.com/job/1627326-ux-web-strategy-specialist-clemson-sc-united-states",
+      "salary": "$53,142 - $88,600",
+      "description": "",
+      "posted_at": "7h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:30:40.742716-07:00"
+  },
+  {
+    "job": {
+      "title": "Digital Product Designer (UX/UI)",
+      "company": "Alcon",
+      "location": "Fort Worth, TX",
+      "url": "https://uiuxjobsboard.com/job/1627126-digital-product-designer-ux-ui-fort-worth-tx-united-states",
+      "salary": "Not listed",
+      "description": "",
+      "posted_at": "8h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:30:42.491481-07:00"
+  },
+  {
+    "job": {
+      "title": "UX Design Internship",
+      "company": "Duke Energy",
+      "location": "Charlotte, NC",
+      "url": "https://uiuxjobsboard.com/job/1627226-ux-design-internship-charlotte-nc-united-states",
+      "salary": "Not listed",
+      "description": "",
+      "posted_at": "8h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:30:44.382013-07:00"
+  },
+  {
+    "job": {
+      "title": "UX UI Designer",
+      "company": "SBM Management Services",
+      "location": "Sacramento, CA",
+      "url": "https://uiuxjobsboard.com/job/1628026-ux-ui-designer-sacramento-ca-united-states",
+      "salary": "$98,000 - $102,326.45",
+      "description": "",
+      "posted_at": "8h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:30:46.085453-07:00"
+  },
+  {
+    "job": {
+      "title": "UX Researcher",
+      "company": "HP",
+      "location": "Vancouver, WA",
+      "url": "https://uiuxjobsboard.com/job/1626626-ux-researcher-vancouver-wa-united-states",
+      "salary": "$105,050 - $152,350",
+      "description": "",
+      "posted_at": "10h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:30:47.805031-07:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Helpware",
+      "location": "Remote",
+      "url": "https://uiuxjobsboard.com/job/1626026-remote-anywhere-product-designer",
+      "salary": "Not listed",
+      "description": "",
+      "posted_at": "10h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-05T09:30:49.573858-07:00"
   }
 ]
