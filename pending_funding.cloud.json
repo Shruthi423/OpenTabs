@@ -1,77 +1,62 @@
 [
   {
     "item": {
-      "company": "Charter Space",
-      "amount": "$5.0M",
-      "stage": "Seed",
-      "investors": "Crystal Venture Partners",
-      "location": null,
-      "blurb": "Charter Space Raises $5M Seed. Charter Space raises $5 million in seed funding led by Crystal Venture Partners to scale its insurance brokerage platform for the space industry.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/charter-space-raises-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-05T09:31:15.820419-07:00"
-  },
-  {
-    "item": {
-      "company": "Neurofin",
-      "amount": "$1.6M",
-      "stage": "Seed",
-      "investors": "UNLEASH Capital",
-      "location": null,
-      "blurb": "Neurofin Raises $1.6M Seed. Neurofin raises $1.6M seed round led by UNLEASH Capital to expand its GenAI-powered compliance and operations automation platform for the banking sector.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/neurofin-raises-1-6m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-05T09:31:18.744647-07:00"
-  },
-  {
-    "item": {
-      "company": "Verda",
-      "amount": "$189.0M",
+      "company": "Pro Shop",
+      "amount": "$24.0M",
       "stage": "Series B",
-      "investors": null,
+      "investors": "Arthur Blank's office - app",
       "location": null,
-      "blurb": "AI cloud startup Verda raises $189m in Series B funding round - BeBeez International. AI cloud startup Verda raises $189m in Series B funding round&nbsp;&nbsp;BeBeez International",
+      "blurb": "Golf media startup Pro Shop raises $24M Series B led by Arthur Blank's office - app.dealroom.co. Golf media startup Pro Shop raises $24M Series B led by Arthur Blank's office&nbsp;&nbsp;app.dealroom.co",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWkVDM1ZjQThuem1Pd3dFQjFxZWw3OE11cXpvN0JIUTZ6eGVwa00xc19YdzhKVUhxLVpRLXdjT2R4UG0yVGtRNDdnUWtkX3hFMjUzME5RRzdaYWVhVTdnRXdqYXZtVFlFbXdjaksyeG1qeU1EQmtkejBSRHBDZmJFOVc5WnFuRGpvR2VmUWYyaE03SFpl?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeDUyVkRKNmt4TEdnMERmdFBGX0xvSkNoRTJVblhINXUxczBKTlZaeWpKc1NuVzhkbThvemNOYXJYQUZ0SFB2QjlfWWc4cnJDalVlNWlNSktUUnNtSEdzY2tNZkZuUjZxZm1SM0pwQ1cwTG51Um5oOWtJZElwMXllNXlGMkt6czQ1Z1ZrTk5teTgyT2JiMjNuVEtFa3kxUGxXaHRGOXVabnUySXl3eDFr?oc=5",
       "priority": 7
     },
-    "remind_at": "2026-10-05T09:31:21.726579-07:00"
+    "remind_at": "2026-10-05T15:53:17.061848-07:00"
   },
   {
     "item": {
-      "company": "Clockwork.io",
-      "amount": "$31.0M",
+      "company": "RobCo",
+      "amount": "$1.0B",
       "stage": null,
-      "investors": "Seligman Ventures, Wing Ventures and Premji Invest and [&#",
+      "investors": "Sequoia, Lightspeed",
       "location": null,
-      "blurb": "Clockwork.io bags $31M in funding to keep AI inference and training workloads running like \u2026 clockwork. Clockwork Systems Inc., the data center infrastructure startup that helps to maximize the efficiency of artificial intelligence chip clusters, has raised $31 million in fresh funding and announced the launch of a new feature called TorchSnap that helps to minimize wasted compute. Today\u2019s round was co-led by Seligman Ventures, Wing Ventures and Premji Invest and [&#8230;]\nThe post Clockwork.io ",
+      "blurb": "Robotics startup RobCo valued at $1B+ in $40M funding round. Industrial automation startup RobCo Inc. today announced that it has closed a $40 million funding round. Most of the shares that changed hands were sold by current and former employees. The investor consortium that bought the equity included Sequoia, Lightspeed and several other startup funds. RobCo is now valued at more than $1 billion, double [&#8230;]\nThe post Robotics startup RobCo valued at $1B+ in $40M funding round appeared firs",
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/05/clockwork-io-bags-31m-in-funding-to-keep-ai-inference-and-training-workloads-running-like-clockwork/",
-      "priority": 3
+      "url": "https://siliconangle.com/2026/10/05/robotics-startup-robco-valued-at-1b-in-40m-funding-round/",
+      "priority": 6
     },
-    "remind_at": "2026-10-05T09:31:24.630007-07:00"
+    "remind_at": "2026-10-05T15:53:19.943740-07:00"
   },
   {
     "item": {
-      "company": "Deutsche Telekom",
+      "company": "At 19",
+      "amount": "$11.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI. Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
+      "founders": [],
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-05T15:53:25.415152-07:00"
+  },
+  {
+    "item": {
+      "company": "Nvidia-backed Reflection AI",
       "amount": null,
       "stage": null,
       "investors": null,
-      "location": null,
-      "blurb": "Top Tech News Today, October 5, 2026: Deutsche Telekom, Foxconn, Google, OpenAI, Schneider Electric & More. It\u2019s Monday, October 5, 2026, and the AI buildout is colliding with its limits. OpenAI is testing visual ads inside ChatGPT image generation as weekly users reach 1.2 billion. Tencent is reportedly leasing access to 100,000 advanced chips through Oracle [&#8230;]\nThe post Top Tech News Today, October 5, 2026: Deutsche Telekom, Foxconn, Google, OpenAI, Schneider Electric & More first appear",
+      "location": "The New York",
+      "blurb": "Nvidia-backed Reflection AI unveils its first open model, Beam. Could it be America\u2019s best chance to compete with China?. The New York\u2013based company already has deals with U.S. government agencies and billion-dollar compute agreements.",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/05/top-tech-news-today-october-5-2026-deutsche-telekom-foxconn-google-openai-schneider-electric-more/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/05/reflection-ai-unveils-beam-a-new-us-based-open-source-model-to-compete-with-china/",
       "priority": 3
     },
-    "remind_at": "2026-10-05T09:31:32.918861-07:00"
+    "remind_at": "2026-10-05T15:53:31.004764-07:00"
   }
 ]
