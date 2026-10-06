@@ -1,5 +1,35 @@
 [
   {
+    "id": "068737f5fb7b872c016dc6f5d8c711c7",
+    "company": "Lambda",
+    "amount": "$4.0B",
+    "stage": "?",
+    "investors": "Coatue and Blackstone",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-06T13:47:06.064981-07:00",
+    "status": "active"
+  },
+  {
+    "id": "e22e2a4272a1cc1e3a83623714ade845",
+    "company": "Dealership AI Agent Flai",
+    "amount": "$27.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzT3piTkNnZDluWGpNR21aTFNEMEkxeUpGSlBWS3lLSzd5dmJteV9Yb2w2T3ZtaUtiaU4tOXc5S0QwN0luMlhXNG9PbHl3Sm15ZUxB?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-06T13:47:03.156384-07:00",
+    "status": "active"
+  },
+  {
     "id": "9a53b799fb028e8630d627782166e07c",
     "company": "Antseed",
     "amount": "Undisclosed",

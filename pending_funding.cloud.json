@@ -1,77 +1,47 @@
 [
   {
     "item": {
-      "company": "Flai",
+      "company": "Dealership AI Agent Flai",
       "amount": "$27.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
-      "blurb": "Flai lands $27M Series A as AI dealership software books 50,000 appointments monthly - Dealroom. Flai lands $27M Series A as AI dealership software books 50,000 appointments monthly&nbsp;&nbsp;Dealroom",
+      "blurb": "Dealership AI Agent Flai Raises $27M Series A - Wowtale. Dealership AI Agent Flai Raises $27M Series A&nbsp;&nbsp;Wowtale",
       "founders": [],
       "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVZ1anE3akUtR3ZJYlJNQk95SXdkVUNhTjNGLXJuY0NsRmZQSzRFR2VXVUtZNTJFZTRXeXFzRExxRkZQQVAtbndTUzl6a1FnSnE5bTl2bTVPVFhsQ2tyYnpGWi1Fd0IwamNPNnBhVld2MlpJOUgwUk9jdEQybHpjZjRRdFRyYjd5U29yQ2NJTFJCSUhJVFJHam5mXzFxbml4YzE0T21FVFltNmFLSURqaXhzbXBfa3lV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzT3piTkNnZDluWGpNR21aTFNEMEkxeUpGSlBWS3lLSzd5dmJteV9Yb2w2T3ZtaUtiaU4tOXc5S0QwN0luMlhXNG9PbHl3Sm15ZUxB?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-10-06T09:27:45.866740-07:00"
+    "remind_at": "2026-10-06T14:17:02.156254-07:00"
   },
   {
     "item": {
-      "company": "Spiko",
-      "amount": "$90.0M",
-      "stage": "Series B",
-      "investors": "NEA",
+      "company": "Lambda",
+      "amount": "$4.0B",
+      "stage": null,
+      "investors": "Coatue and Blackstone",
       "location": null,
-      "blurb": "Spiko Raises $90M Series B. Spiko raises $90M Series B led by NEA to expand its tokenized cash fund platform and enable universal yield access for businesses and individuals.",
+      "blurb": "AI computing startup Lambda to raise $4B ahead of planned IPO. Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/spiko-raises-90m-series-b/",
-      "priority": 7
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "priority": 6
     },
-    "remind_at": "2026-10-06T09:27:48.783726-07:00"
+    "remind_at": "2026-10-06T14:17:05.064799-07:00"
   },
   {
     "item": {
-      "company": "Namespace",
-      "amount": "$42.0M",
-      "stage": "Series B",
-      "investors": "Scale Venture Partners",
-      "location": null,
-      "blurb": "Namespace Raises $42M Series B. Namespace raises $42M Series B led by Scale Venture Partners to accelerate product development and expand its developer infrastructure platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/namespace-raises-42m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-10-06T09:27:51.762576-07:00"
-  },
-  {
-    "item": {
-      "company": "Chiplytics",
-      "amount": "$4.5M",
+      "company": "up",
+      "amount": "$1.55M",
       "stage": null,
       "investors": null,
-      "location": "Seattle",
-      "blurb": "Seattle startup Chiplytics lands $4.5M to catch fake and flawed chips before they hit the market. Seattle-based Chiplytics raised $4.5 million and opened an East Coast inspection facility to help manufacturers catch fake or defective semiconductor chips and other electronics. The startup uses AI and robotics to test every individual component rather than relying on spot checks. Read More",
+      "location": "U.S.",
+      "blurb": "The U.S. government is offering startups up to $1.55 million in funding and taking 0% equity. Here\u2019s how to apply. Quick Highlights Three funding tracks: Phase I: Up to $305,000 to prove technical feasibility Phase II: Up to $1.25 million to further develop the technology Fast-Track: Up to $1.55 million, combining both phases in one proposal Who can apply: U.S.-based [&#8230;]\nThe post The U.S. government is offering startups up to $1.55 million in funding and taking 0% equity. Here\u2019s how to app",
       "founders": [],
-      "source": "GeekWire Funding",
-      "url": "https://www.geekwire.com/2026/seattle-startup-chiplytics-lands-4-5m-to-catch-fake-and-flawed-chips-before-they-hit-the-market/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/06/the-u-s-government-is-offering-startups-up-to-1-55-million-in-funding-and-taking-0-equity-heres-how-to-apply/",
       "priority": 3
     },
-    "remind_at": "2026-10-06T09:27:54.881114-07:00"
-  },
-  {
-    "item": {
-      "company": "Antseed",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Antseed launches a decentralized marketplace for AI inference that dramatically lowers developers\u2019 costs. Developers now have a much cheaper way to access cutting-edge artificial intelligence inference capabilities with the launch of Antseed today. It\u2019s a new peer-to-peer marketplace that makes it possible to access almost any frontier model at a small fraction of its normal cost by bypassing centralized gateways in favor of independent and mainstream providers. The [&#8230;]\nThe post Antseed la",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/06/antseed-launches-a-decentralized-marketplace-for-ai-inference-that-dramatically-lowers-developers-costs/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-06T09:27:57.787299-07:00"
+    "remind_at": "2026-10-06T14:17:07.833476-07:00"
   }
 ]

@@ -3587,5 +3587,53 @@
     "roles": [],
     "first_seen": "2026-10-06T08:57:58.787447-07:00",
     "status": "active"
+  },
+  "e22e2a4272a1cc1e3a83623714ade845": {
+    "id": "e22e2a4272a1cc1e3a83623714ade845",
+    "company": "Dealership AI Agent Flai",
+    "amount": "$27.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzT3piTkNnZDluWGpNR21aTFNEMEkxeUpGSlBWS3lLSzd5dmJteV9Yb2w2T3ZtaUtiaU4tOXc5S0QwN0luMlhXNG9PbHl3Sm15ZUxB?oc=5",
+    "priority": 8,
+    "blurb": "Dealership AI Agent Flai Raises $27M Series A - Wowtale. Dealership AI Agent Flai Raises $27M Series A&nbsp;&nbsp;Wowtale",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-06T13:47:03.156384-07:00",
+    "status": "active"
+  },
+  "068737f5fb7b872c016dc6f5d8c711c7": {
+    "id": "068737f5fb7b872c016dc6f5d8c711c7",
+    "company": "Lambda",
+    "amount": "$4.0B",
+    "stage": "?",
+    "investors": "Coatue and Blackstone",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "priority": 6,
+    "blurb": "AI computing startup Lambda to raise $4B ahead of planned IPO. Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-06T13:47:06.064981-07:00",
+    "status": "active"
+  },
+  "982a3cc11e46dff23bc5203a9c827083": {
+    "id": "982a3cc11e46dff23bc5203a9c827083",
+    "company": "up",
+    "amount": "$1.55M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/10/06/the-u-s-government-is-offering-startups-up-to-1-55-million-in-funding-and-taking-0-equity-heres-how-to-apply/",
+    "priority": 3,
+    "blurb": "The U.S. government is offering startups up to $1.55 million in funding and taking 0% equity. Here\u2019s how to apply. Quick Highlights Three funding tracks: Phase I: Up to $305,000 to prove technical feasibility Phase II: Up to $1.25 million to further develop the technology Fast-Track: Up to $1.55 million, combining both phases in one proposal Who can apply: U.S.-based [&#8230;]\nThe post The U.S. government is offering startups up to $1.55 million in funding and taking 0% equity. Here\u2019s how to app",
+    "founders": [],
+    "location": "U.S.",
+    "roles": [],
+    "first_seen": "2026-10-06T13:47:08.833638-07:00",
+    "status": "active"
   }
 }
