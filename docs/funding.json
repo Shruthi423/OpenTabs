@@ -1,5 +1,35 @@
 [
   {
+    "id": "e2d0bc1667af41d586bfa973897d824a",
+    "company": "Schneider Electric",
+    "amount": "$23.7B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/05/schneider-electric-to-buy-engineering-software-giant-ptc-for-23-7b/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-05T19:24:15.365155-07:00",
+    "status": "active"
+  },
+  {
+    "id": "7e874f73d52dc6e9356cfbc3c45b082d",
+    "company": "Reflection AI",
+    "amount": "$25.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/05/reflection-ai-debuts-open-source-beam-model-with-501b-parameters/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-05T19:24:09.086193-07:00",
+    "status": "active"
+  },
+  {
     "id": "5a9e0b5be2e8ff4ff9ee73e3a84c009a",
     "company": "At 19",
     "amount": "$11.0M",

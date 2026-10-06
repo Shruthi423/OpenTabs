@@ -3347,5 +3347,53 @@
     "roles": [],
     "first_seen": "2026-10-05T15:23:32.004908-07:00",
     "status": "active"
+  },
+  "b3c89cebf3417c70d71f65fa7236229d": {
+    "id": "b3c89cebf3417c70d71f65fa7236229d",
+    "company": "Ghost",
+    "amount": "$11.0M",
+    "stage": "?",
+    "investors": "Andreessen Horowitz, Audacious Ventures",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/05/ai-agent-hardware-startup-ghost-led-by-its-19-year-old-founder-raises-11m/",
+    "priority": 6,
+    "blurb": "AI agent hardware startup Ghost, led by its 19-year-old-founder, raises $11M. Artificial intelligence hardware startup Ghost AI said today it has raised $11 million in funding to build what it believes is the first personal computer that\u2019s dedicated to running personal AI agents. The round was led by Silicon Valley heavy-hitter Andreessen Horowitz and saw participation from Abstract, Audacious Ventures, Nova and SV Angel. Ghost AI [&#8230;]\nThe post AI agent hardware startup Ghost, led by its 19",
+    "founders": [],
+    "location": "Silicon Valley",
+    "roles": [],
+    "first_seen": "2026-10-05T19:24:06.180577-07:00",
+    "status": "active"
+  },
+  "7e874f73d52dc6e9356cfbc3c45b082d": {
+    "id": "7e874f73d52dc6e9356cfbc3c45b082d",
+    "company": "Reflection AI",
+    "amount": "$25.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/05/reflection-ai-debuts-open-source-beam-model-with-501b-parameters/",
+    "priority": 3,
+    "blurb": "Reflection AI debuts open-source Beam model with 501B parameters. Reflection AI Inc. today introduced Beam, an open-source large language model with 501 billion parameters. The launch comes a few months after the startup raised funding at a $25 billion valuation. Around the same time, Reflection AI reportedly inked a $6.3 billion deal with SpaceX Corp. to rent Nvidia GB300 NVL72 appliances. It used those [&#8230;]\nThe post Reflection AI debuts open-source Beam model with 501B parameters appeared",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-05T19:24:09.086193-07:00",
+    "status": "active"
+  },
+  "e2d0bc1667af41d586bfa973897d824a": {
+    "id": "e2d0bc1667af41d586bfa973897d824a",
+    "company": "Schneider Electric",
+    "amount": "$23.7B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/05/schneider-electric-to-buy-engineering-software-giant-ptc-for-23-7b/",
+    "priority": 3,
+    "blurb": "Schneider Electric to buy engineering software giant PTC for $23.7B. Schneider Electric Inc., one of the world\u2019s largest industrial companies, today announced plans to acquire PTC Inc. for $23.7 billion. The all-cash deal values the software maker at $205 per share. That represents a 42% premium to its last closing price. PTC is best known for its Creo application, which engineers use to design hardware [&#8230;]\nThe post Schneider Electric to buy engineering software giant PTC for $23.7B appear",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-05T19:24:15.365155-07:00",
+    "status": "active"
   }
 }

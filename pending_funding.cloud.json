@@ -1,62 +1,47 @@
 [
   {
     "item": {
-      "company": "Pro Shop",
-      "amount": "$24.0M",
-      "stage": "Series B",
-      "investors": "Arthur Blank's office - app",
-      "location": null,
-      "blurb": "Golf media startup Pro Shop raises $24M Series B led by Arthur Blank's office - app.dealroom.co. Golf media startup Pro Shop raises $24M Series B led by Arthur Blank's office&nbsp;&nbsp;app.dealroom.co",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeDUyVkRKNmt4TEdnMERmdFBGX0xvSkNoRTJVblhINXUxczBKTlZaeWpKc1NuVzhkbThvemNOYXJYQUZ0SFB2QjlfWWc4cnJDalVlNWlNSktUUnNtSEdzY2tNZkZuUjZxZm1SM0pwQ1cwTG51Um5oOWtJZElwMXllNXlGMkt6czQ1Z1ZrTk5teTgyT2JiMjNuVEtFa3kxUGxXaHRGOXVabnUySXl3eDFr?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-10-05T15:53:17.061848-07:00"
-  },
-  {
-    "item": {
-      "company": "RobCo",
-      "amount": "$1.0B",
-      "stage": null,
-      "investors": "Sequoia, Lightspeed",
-      "location": null,
-      "blurb": "Robotics startup RobCo valued at $1B+ in $40M funding round. Industrial automation startup RobCo Inc. today announced that it has closed a $40 million funding round. Most of the shares that changed hands were sold by current and former employees. The investor consortium that bought the equity included Sequoia, Lightspeed and several other startup funds. RobCo is now valued at more than $1 billion, double [&#8230;]\nThe post Robotics startup RobCo valued at $1B+ in $40M funding round appeared firs",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/05/robotics-startup-robco-valued-at-1b-in-40m-funding-round/",
-      "priority": 6
-    },
-    "remind_at": "2026-10-05T15:53:19.943740-07:00"
-  },
-  {
-    "item": {
-      "company": "At 19",
+      "company": "Ghost",
       "amount": "$11.0M",
       "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI. Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
+      "investors": "Andreessen Horowitz, Audacious Ventures",
+      "location": "Silicon Valley",
+      "blurb": "AI agent hardware startup Ghost, led by its 19-year-old-founder, raises $11M. Artificial intelligence hardware startup Ghost AI said today it has raised $11 million in funding to build what it believes is the first personal computer that\u2019s dedicated to running personal AI agents. The round was led by Silicon Valley heavy-hitter Andreessen Horowitz and saw participation from Abstract, Audacious Ventures, Nova and SV Angel. Ghost AI [&#8230;]\nThe post AI agent hardware startup Ghost, led by its 19",
       "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-      "priority": 3
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/05/ai-agent-hardware-startup-ghost-led-by-its-19-year-old-founder-raises-11m/",
+      "priority": 6
     },
-    "remind_at": "2026-10-05T15:53:25.415152-07:00"
+    "remind_at": "2026-10-05T19:54:05.180278-07:00"
   },
   {
     "item": {
-      "company": "Nvidia-backed Reflection AI",
-      "amount": null,
+      "company": "Reflection AI",
+      "amount": "$25.0B",
       "stage": null,
       "investors": null,
-      "location": "The New York",
-      "blurb": "Nvidia-backed Reflection AI unveils its first open model, Beam. Could it be America\u2019s best chance to compete with China?. The New York\u2013based company already has deals with U.S. government agencies and billion-dollar compute agreements.",
+      "location": null,
+      "blurb": "Reflection AI debuts open-source Beam model with 501B parameters. Reflection AI Inc. today introduced Beam, an open-source large language model with 501 billion parameters. The launch comes a few months after the startup raised funding at a $25 billion valuation. Around the same time, Reflection AI reportedly inked a $6.3 billion deal with SpaceX Corp. to rent Nvidia GB300 NVL72 appliances. It used those [&#8230;]\nThe post Reflection AI debuts open-source Beam model with 501B parameters appeared",
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/10/05/reflection-ai-unveils-beam-a-new-us-based-open-source-model-to-compete-with-china/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/05/reflection-ai-debuts-open-source-beam-model-with-501b-parameters/",
       "priority": 3
     },
-    "remind_at": "2026-10-05T15:53:31.004764-07:00"
+    "remind_at": "2026-10-05T19:54:08.086013-07:00"
+  },
+  {
+    "item": {
+      "company": "Schneider Electric",
+      "amount": "$23.7B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Schneider Electric to buy engineering software giant PTC for $23.7B. Schneider Electric Inc., one of the world\u2019s largest industrial companies, today announced plans to acquire PTC Inc. for $23.7 billion. The all-cash deal values the software maker at $205 per share. That represents a 42% premium to its last closing price. PTC is best known for its Creo application, which engineers use to design hardware [&#8230;]\nThe post Schneider Electric to buy engineering software giant PTC for $23.7B appear",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/05/schneider-electric-to-buy-engineering-software-giant-ptc-for-23-7b/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-05T19:54:14.365025-07:00"
   }
 ]
