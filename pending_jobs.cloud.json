@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "VERSANT",
+      "location": "Englewood Cliffs, NJ",
+      "url": "https://uiuxjobsboard.com/job/1628226-product-designer-englewood-cliffs-nj-united-states",
+      "salary": "$115,000 - $130,000",
+      "description": "",
+      "posted_at": "6h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-06T09:27:06.806106-07:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "NBCUniversal",
+      "location": "New York",
+      "url": "https://uiuxjobsboard.com/job/1628326-product-designer-new-york-united-states",
+      "salary": "$85,000 - $110,000",
+      "description": "",
+      "posted_at": "8h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-06T09:27:08.597005-07:00"
+  },
+  {
+    "job": {
+      "title": "User Experience Designer",
+      "company": "RUN Studios",
+      "location": "Hawthorne, CA",
+      "url": "https://uiuxjobsboard.com/job/1628526-user-experience-designer-hawthorne-ca-united-states",
+      "salary": "$135,200 - $159,640",
+      "description": "",
+      "posted_at": "9h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-06T09:27:11.354614-07:00"
+  }
+]
