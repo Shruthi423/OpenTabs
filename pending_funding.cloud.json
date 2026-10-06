@@ -1,47 +1,107 @@
 [
   {
     "item": {
-      "company": "Ghost",
+      "company": "CureMeAbroad",
+      "amount": "$1.1M",
+      "stage": "Pre-Seed",
+      "investors": "SteerX Ventures",
+      "location": null,
+      "blurb": "CureMeAbroad Raises $1.1M Pre-seed. CureMeAbroad raises $1.1M in pre-seed funding led by SteerX Ventures to scale its AI-powered platform for cross-border healthcare discovery and booking.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/curemeabroad-raises-1-1m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-10-06T02:42:44.266698-07:00"
+  },
+  {
+    "item": {
+      "company": "Ocular AI",
+      "amount": "$2.0M",
+      "stage": "Pre-Seed",
+      "investors": "Drive Capital",
+      "location": null,
+      "blurb": "Ocular AI Raises $2M Pre-seed. Ocular AI raises $2M pre-seed round led by Drive Capital to advance its AI training data platform and voice-native model benchmarking.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ocular-ai-raises-2m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-10-06T02:42:47.221525-07:00"
+  },
+  {
+    "item": {
+      "company": "Comparables.ai",
+      "amount": "$6.0M",
+      "stage": "Seed",
+      "investors": "Araya Ventures",
+      "location": null,
+      "blurb": "Comparables.ai Raises $6M Seed. Comparables.ai raises $6M in seed funding led by Pragmatech and Araya Ventures to scale its AI-powered market intelligence platform for dealmakers.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/comparables-ai-raises-6m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-06T02:42:50.349852-07:00"
+  },
+  {
+    "item": {
+      "company": "SafeWorld",
+      "amount": "$12.2M",
+      "stage": "Seed",
+      "investors": "Shine Capital",
+      "location": null,
+      "blurb": "SafeWorld Raises $12.2M Seed. SafeWorld raises $12.2M seed round led by Shine Capital and a16z Speedrun to advance its AI-powered robot safety simulation platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/safeworld-raises-12-2m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-06T02:42:53.196657-07:00"
+  },
+  {
+    "item": {
+      "company": "UpSmith",
+      "amount": "$10.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "UpSmith Raises $10M Series A. UpSmith raises $10 million Series A led by SemperVirens to expand its AI platform for home services contractors across the United States.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/upsmith-raises-10m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-06T02:42:56.184894-07:00"
+  },
+  {
+    "item": {
+      "company": "Zari Company",
       "amount": "$11.0M",
-      "stage": null,
-      "investors": "Andreessen Horowitz, Audacious Ventures",
-      "location": "Silicon Valley",
-      "blurb": "AI agent hardware startup Ghost, led by its 19-year-old-founder, raises $11M. Artificial intelligence hardware startup Ghost AI said today it has raised $11 million in funding to build what it believes is the first personal computer that\u2019s dedicated to running personal AI agents. The round was led by Silicon Valley heavy-hitter Andreessen Horowitz and saw participation from Abstract, Audacious Ventures, Nova and SV Angel. Ghost AI [&#8230;]\nThe post AI agent hardware startup Ghost, led by its 19",
+      "stage": "Series A",
+      "investors": "Korea Investment Partners",
+      "location": null,
+      "blurb": "Zari Company Raises $11M Series A. Zari Company raises $11M in Series A funding led by Korea Investment Partners to scale its rental management and resident review platform, Zaritalk.",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/05/ai-agent-hardware-startup-ghost-led-by-its-19-year-old-founder-raises-11m/",
-      "priority": 6
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/zari-company-raises-11m-series-a/",
+      "priority": 8
     },
-    "remind_at": "2026-10-05T19:54:05.180278-07:00"
+    "remind_at": "2026-10-06T02:43:01.823494-07:00"
   },
   {
     "item": {
-      "company": "Reflection AI",
-      "amount": "$25.0B",
+      "company": "Supabase",
+      "amount": "$150.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Reflection AI debuts open-source Beam model with 501B parameters. Reflection AI Inc. today introduced Beam, an open-source large language model with 501 billion parameters. The launch comes a few months after the startup raised funding at a $25 billion valuation. Around the same time, Reflection AI reportedly inked a $6.3 billion deal with SpaceX Corp. to rent Nvidia GB300 NVL72 appliances. It used those [&#8230;]\nThe post Reflection AI debuts open-source Beam model with 501B parameters appeared",
+      "blurb": "Supabase Raises $150M in Funding. Supabase raises $150M in growth capital led by GIC to accelerate its agentic infrastructure and database platform for AI developers.",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/05/reflection-ai-debuts-open-source-beam-model-with-501b-parameters/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/supabase-raises-150m-other/",
       "priority": 3
     },
-    "remind_at": "2026-10-05T19:54:08.086013-07:00"
-  },
-  {
-    "item": {
-      "company": "Schneider Electric",
-      "amount": "$23.7B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Schneider Electric to buy engineering software giant PTC for $23.7B. Schneider Electric Inc., one of the world\u2019s largest industrial companies, today announced plans to acquire PTC Inc. for $23.7 billion. The all-cash deal values the software maker at $205 per share. That represents a 42% premium to its last closing price. PTC is best known for its Creo application, which engineers use to design hardware [&#8230;]\nThe post Schneider Electric to buy engineering software giant PTC for $23.7B appear",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/05/schneider-electric-to-buy-engineering-software-giant-ptc-for-23-7b/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-05T19:54:14.365025-07:00"
+    "remind_at": "2026-10-06T02:43:04.819823-07:00"
   }
 ]
