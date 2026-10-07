@@ -1,182 +1,92 @@
 [
   {
     "item": {
-      "company": "Melius",
-      "amount": "$25.0M",
+      "company": "Healthleap",
+      "amount": "$38.0M",
       "stage": "Seed",
-      "investors": "General Catalyst and CRV",
+      "investors": "Sequoia Capital and First Round Capital",
       "location": null,
-      "blurb": "Melius Raises $25M in Funding. Melius raises $25 million in combined seed and Series A funding led by General Catalyst and CRV to expand its AI agent-based creative operating system.",
+      "blurb": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look. The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/melius-raises-25m-series-a/",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
       "priority": 12
     },
-    "remind_at": "2026-10-07T07:12:28.295095-07:00"
+    "remind_at": "2026-10-07T13:03:06.253187-07:00"
   },
   {
     "item": {
-      "company": "Authors First",
-      "amount": "$10.0M",
+      "company": "Vest",
+      "amount": "$13.0M",
       "stage": "Seed",
-      "investors": null,
+      "investors": "Portal Ventures: Fortune&nbsp",
       "location": null,
-      "blurb": "Authors First Raises $10M Seed. Authors First raises $10M in seed funding to provide authors with AI-powered tools for adapting their books into film and visual media.",
+      "blurb": "Crypto prop trading startup Vest raises $13 million seed led by Portal Ventures: Fortune - CryptoRank. Crypto prop trading startup Vest raises $13 million seed led by Portal Ventures: Fortune&nbsp;&nbsp;CryptoRank",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/authors-first-raises-10m-seed/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yXzI1NE1mbm82cTE5a3RWS29rTk53dklDMEhqZkEwWTdQU0YzNlA2ZjNad1VBb1BjVzVnTVZRcTBadjZSeE5fMExpazc2cEM1ak1tN2NIRVltajhfSjNvN2wzVEdXUW1IOU5QcTZlekhqSFB5?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-10-07T07:12:34.048479-07:00"
+    "remind_at": "2026-10-07T13:03:09.142240-07:00"
   },
   {
     "item": {
-      "company": "Navra",
-      "amount": "$19.0M",
-      "stage": "Series A",
+      "company": "Bloom",
+      "amount": "$3.6M",
+      "stage": null,
       "investors": null,
-      "location": null,
-      "blurb": "Navra Raises $19M Series A. Navra raises $19 million in a Series A round led by Ribbit to accelerate the development of its AI-native platform for blockchain financial services.",
+      "location": "U.S.",
+      "blurb": "Bloom raises $3.6M to become the \u2018Alibaba\u2019 of American manufacturing. The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/navra-raises-19m-series-a/",
-      "priority": 8
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
+      "priority": 3
     },
-    "remind_at": "2026-10-07T07:12:37.052278-07:00"
+    "remind_at": "2026-10-07T13:03:12.308391-07:00"
   },
   {
     "item": {
-      "company": "Sant\u00e9",
-      "amount": "$15.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Sant\u00e9 Raises $15M Series A. Sant\u00e9 raises $15M Series A round led by FINTOP to expand its AI-powered operating system for the wine and spirits retail industry.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sante-raises-15m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-10-07T07:12:40.139087-07:00"
-  },
-  {
-    "item": {
-      "company": "Siena",
-      "amount": "$17.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Siena Raises $17M Series A. Siena raises $17M Series A led by York IE to expand its AI-driven Agent of Record platform for consumer brands to automate and improve customer service.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/siena-raises-17m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-10-07T07:12:43.110546-07:00"
-  },
-  {
-    "item": {
-      "company": "Sunfox Technologies",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Med-tech startup Sunfox Technologies raises $7 Mn in Series A round - Entrackr. Med-tech startup Sunfox Technologies raises $7 Mn in Series A round&nbsp;&nbsp;Entrackr",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa3Y2WU1ZSWdkQi1faWZXOHVxYXVVcm5DTXRiZXh6cTR5bVFFLURiSjdWLU9rWWhLN25mVUloUFVrRjZOLU1mc0tXNU9JMGhPUG40a3J3V0JIWi14VkEzd0s3VmtUbmpTVUxlVC1udnRRTENmb21mS3FTdlIyaVBYVXVZQ21ZQllrSkFKd1NKS1JkZnVfNWJNWWZpQWFlbE14eVZDckJqeU_SAagBQVVfeXFMTmt2NllNWUlnZEItX2lmVzh1cWF1VXJuQ010YmV4enE0eW1RRS1EYko3Vi1Pa1loSzduZlVJaFBVa0Y2Ti1NZnNLVzVPSTBoT1BuNGtyd1dCSFoteFZBM3dLN1ZrVG5qU1VMZVQtbnZ0UUxDZm9tZktxU3ZSMmlQWFV1WUNtWUJZa0pBSndTSktSZGZ1XzViTVlmaUFhZWxNeHlWQ3JCanlP?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-10-07T07:12:46.093290-07:00"
-  },
-  {
-    "item": {
-      "company": "Stuut",
-      "amount": "$52.5M",
-      "stage": "Series B",
-      "investors": "Insight Partners",
-      "location": null,
-      "blurb": "Stuut raises $52.5M from Insight Partners and a16z to let AI agents chase enterprises\u2019 unpaid invoices. Stuut has raised $52.5 million in Series B funding to helpq enterprises unlock cash trapped in slow and&#8230;",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/stuut-raises-52-5m-from-insight-partners-and-a16z-to-let-ai-agents-chase-enterprises-unpaid-invoices/",
-      "priority": 7
-    },
-    "remind_at": "2026-10-07T07:12:49.444228-07:00"
-  },
-  {
-    "item": {
-      "company": "Zuckerberg's Biohub",
+      "company": "Zuckerberg\u2019s Biohub",
       "amount": "$1.8B",
-      "stage": "Bridge",
-      "investors": null,
-      "location": null,
-      "blurb": "\"The beginning of a new scientific paradigm\": Zuckerberg's Biohub, U.S. and Google build virtual cell. Mark Zuckerberg's Biohub is partnering with Google and the federal government in its ambitious effort to use AI for generating vast quantities of biological data that can predict how cells behave.Why it matters: The ultimate goal is an AI model that lets scientists test potential experiments virtually, helping them identify the most promising ones before spending the time and money to perform t",
-      "founders": [],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/07/zuckerberg-biohub-ai-biology-data",
-      "priority": 6
-    },
-    "remind_at": "2026-10-07T07:12:56.996558-07:00"
-  },
-  {
-    "item": {
-      "company": "SpaceX",
-      "amount": "$40.0B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "SpaceX seeks to borrow $40 billion to buy Nvidia AI chips as AI financing race escalates. SpaceX is in talks to borrow a staggering $40 billion to buy Nvidia AI chips, putting Elon Musk\u2019s company at the center of a growing Wall Street financing race to bankroll the enormous cost of AI computing infrastructure. The proposed [&#8230;]\nThe post SpaceX seeks to borrow $40 billion to buy Nvidia AI chips as AI financing race escalates first appeared on Tech Startups.",
+      "blurb": "Zuckerberg\u2019s Biohub lands Google and U.S. Government backing for $1.8 billion AI biology push. Mark Zuckerberg&#8217;s Biohub has pulled Google, Meta, and the U.S. government into a $1.8 billion effort to generate the biological data needed to train AI systems that can predict how living cells behave. The project, called the Virtual Biology Initiative, [&#8230;]\nThe post Zuckerberg\u2019s Biohub lands Google and U.S. Government backing for $1.8 billion AI biology push first appeared on Tech Startups.",
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/07/spacex-seeks-to-borrow-40-billion-to-buy-nvidia-ai-chips-as-ai-financing-arms-race-escalates/",
+      "url": "https://techstartups.com/2026/10/07/zuckerbergs-biohub-lands-google-and-u-s-government-backing-for-1-8-billion-ai-biology-push/",
       "priority": 3
     },
-    "remind_at": "2026-10-07T07:13:00.068703-07:00"
+    "remind_at": "2026-10-07T13:03:18.148731-07:00"
   },
   {
     "item": {
-      "company": "Capitolis",
-      "amount": "$120.0M",
-      "stage": "Series E",
+      "company": "Sante",
+      "amount": "$15.0M",
+      "stage": null,
       "investors": null,
-      "location": null,
-      "blurb": "Capitolis Raises $120M Series E. Capitolis raises $120 million in Series E funding at a $1.9 billion valuation to acquire eSecLending and expand its financial technology platform.",
+      "location": "New York",
+      "blurb": "Sante Raises $15M to Run Wine and Liquor Stores on One AI-Powered Operating System. Darren Fike took a part-time job at a TriBeCa wine shop to find out why some of the best stores in New York ran on the worst software. What he learned inside an industry of roughly 34,000 independent stores became the basis for AI agents that reprice slow-moving bottles and read distributor invoices on their own. Sant\u00e9 now powers nearly 1,000 stores that process $2B a year, and it just raised $15M to reach thousa",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/capitolis-raises-120m-series-e/",
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/10/sante-wine-spirits-retail-software-ai-liquor-store-pos-darren-fike/",
       "priority": 3
     },
-    "remind_at": "2026-10-07T07:13:02.936443-07:00"
+    "remind_at": "2026-10-07T13:03:21.308074-07:00"
   },
   {
     "item": {
-      "company": "Mandia's Armadin",
-      "amount": "$255.5M",
+      "company": "Just",
+      "amount": "$38.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Mandia's Armadin Raises $255.5M for AI Security Agent Swarms - The Tech Buzz. Mandia's Armadin Raises $255.5M for AI Security Agent Swarms&nbsp;&nbsp;The Tech Buzz",
+      "blurb": "This AI Startup Just Raised $38 Million to Flag Undiagnosed Hospital Patients - TechJuice. This AI Startup Just Raised $38 Million to Flag Undiagnosed Hospital Patients&nbsp;&nbsp;TechJuice",
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR004X3RVUzY2aGxyRlZDVXN6aVZoTEhxVE5xQktZWGlJNVVhNUdUVzYwUjc2eG1wZXVuUUkzWmYxWUJ6djJRZ1d0VG9MbTB5TjRVQmVkWVd6WU5IUDZnWHFqendaM3RPa3RpZjJ4blFQYkhMZVRpOU95NkprZ3paVGxVNUF5bVZFUXpycVhVeXFsbUxHNTJF?oc=5",
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTENLNldtQ2dLYk1LLUxKV1FaYWxFWnRySGJFTV94dGozZDUwSFg1enV0SHZGTWpHaEhkYklZVGVHd3lpcXMtZlVOX2hsY09fdFBpazJtTndiSXVtZlZwUkdxZWtlN3FNLW1rVldVY002azFoeFhSWHFaSzd6QTR2STRxT21xeUwxeFVTX3pn?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-10-07T07:13:08.720302-07:00"
-  },
-  {
-    "item": {
-      "company": "Desible.ai",
-      "amount": null,
-      "stage": null,
-      "investors": "Prime Venture Partners - Entrackr Agentic AI startup Desible",
-      "location": null,
-      "blurb": "Agentic AI startup Desible.ai raises Rs 32 Cr led by Prime Venture Partners - Entrackr. Agentic AI startup Desible.ai raises Rs 32 Cr led by Prime Venture Partners&nbsp;&nbsp;Entrackr",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmU2b052dWVjV3RvX0pNVG93eFRuWHZfSEdhOVZ4cEpTUXlzR2JsR0tpSng2ZVlNTnNWUEM1OGR3S3dmOWtDcFpMa1Y2QzlXcVlibURhMTlva0FrLXQzcVZKa2dBLWZwZ3RJRTNIbEEwdTRVRk5aQUFDcWtSUXFsZ0ZsMnBiWVB6U0F0d1ptbFFyTTdwdE5ielZWemh4OFBCdUxwM2ZDTldZYndZM1pHV2R2d9IBswFBVV95cUxQVmU2b052dWVjV3RvX0pNVG93eFRuWHZfSEdhOVZ4cEpTUXlzR2JsR0tpSng2ZVlNTnNWUEM1OGR3S3dmOWtDcFpMa1Y2QzlXcVlibURhMTlva0FrLXQzcVZKa2dBLWZwZ3RJRTNIbEEwdTRVRk5aQUFDcWtSUXFsZ0ZsMnBiWVB6U0F0d1ptbFFyTTdwdE5ielZWemh4OFBCdUxwM2ZDTldZYndZM1pHV2R2dw?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-10-07T07:13:11.831679-07:00"
+    "remind_at": "2026-10-07T13:03:24.340422-07:00"
   }
 ]
