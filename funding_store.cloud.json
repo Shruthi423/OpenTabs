@@ -4034,5 +4034,37 @@
     "roles": [],
     "first_seen": "2026-10-07T12:33:25.340618-07:00",
     "status": "active"
+  },
+  "b760a932341fca166ef55d85ad92f040": {
+    "id": "b760a932341fca166ef55d85ad92f040",
+    "company": "Mecka",
+    "amount": "$60.0M",
+    "stage": "Series B",
+    "investors": "Sequoia",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oLTdwX2lYNHVFRjQ1VG1QaUozelQyQzQ5bkE2TW8xdUZlbTBjX2JpVGo3N0gwZlVWeDVYZlpRci1nelpvYy02a3BJdFBmSWYwWlZEU3NhaTV1dmxjVkZpVWx3eWhiMDJTdE5ZdWZB?oc=5",
+    "priority": 10,
+    "blurb": "Mecka raises $60M Series B led by Sequoia to build robotics training data - Crypto Briefing. Mecka raises $60M Series B led by Sequoia to build robotics training data&nbsp;&nbsp;Crypto Briefing",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-07T16:50:42.493184-07:00",
+    "status": "active"
+  },
+  "53ffaba6fafbed2b4e20a490f0510326": {
+    "id": "53ffaba6fafbed2b4e20a490f0510326",
+    "company": "We Run Monaco",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SaaStr",
+    "url": "https://www.saastr.com/we-run-monaco-agentforce-and-artisan-for-outbound-we-still-built-our-own-ai-abm-tool-for-our-top-accounts/",
+    "priority": 3,
+    "blurb": "We Run Monaco, Agentforce and Artisan for Outbound. Why We Still Also Built Our Own \u201cAI ABM\u201d Tool for Our Top Accounts. At SaaStr AI we are aggressive users of AI outbound tools: Monaco runs cold outbound. It booked a meeting for us with the right buyer at Anthropic on Day 1. That says it all. Artisan runs warm outbound.\u00a0 It has for over a year and booked millions of closed won for us. It&#8217;s where we... Continue Reading",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-07T16:50:48.162231-07:00",
+    "status": "active"
   }
 }

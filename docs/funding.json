@@ -1,5 +1,35 @@
 [
   {
+    "id": "53ffaba6fafbed2b4e20a490f0510326",
+    "company": "We Run Monaco",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SaaStr",
+    "url": "https://www.saastr.com/we-run-monaco-agentforce-and-artisan-for-outbound-we-still-built-our-own-ai-abm-tool-for-our-top-accounts/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-07T16:50:48.162231-07:00",
+    "status": "active"
+  },
+  {
+    "id": "b760a932341fca166ef55d85ad92f040",
+    "company": "Mecka",
+    "amount": "$60.0M",
+    "stage": "Series B",
+    "investors": "Sequoia",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oLTdwX2lYNHVFRjQ1VG1QaUozelQyQzQ5bkE2TW8xdUZlbTBjX2JpVGo3N0gwZlVWeDVYZlpRci1nelpvYy02a3BJdFBmSWYwWlZEU3NhaTV1dmxjVkZpVWx3eWhiMDJTdE5ZdWZB?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-07T16:50:42.493184-07:00",
+    "status": "active"
+  },
+  {
     "id": "f29990d774350252afc0d649b776e3d3",
     "company": "Just",
     "amount": "$38.0M",

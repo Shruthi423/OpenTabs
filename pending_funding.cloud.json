@@ -1,92 +1,32 @@
 [
   {
     "item": {
-      "company": "Healthleap",
-      "amount": "$38.0M",
-      "stage": "Seed",
-      "investors": "Sequoia Capital and First Round Capital",
+      "company": "Mecka",
+      "amount": "$60.0M",
+      "stage": "Series B",
+      "investors": "Sequoia",
       "location": null,
-      "blurb": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look. The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "blurb": "Mecka raises $60M Series B led by Sequoia to build robotics training data - Crypto Briefing. Mecka raises $60M Series B led by Sequoia to build robotics training data&nbsp;&nbsp;Crypto Briefing",
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-      "priority": 12
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oLTdwX2lYNHVFRjQ1VG1QaUozelQyQzQ5bkE2TW8xdUZlbTBjX2JpVGo3N0gwZlVWeDVYZlpRci1nelpvYy02a3BJdFBmSWYwWlZEU3NhaTV1dmxjVkZpVWx3eWhiMDJTdE5ZdWZB?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-10-07T13:03:06.253187-07:00"
+    "remind_at": "2026-10-07T17:20:41.493045-07:00"
   },
   {
     "item": {
-      "company": "Vest",
-      "amount": "$13.0M",
-      "stage": "Seed",
-      "investors": "Portal Ventures: Fortune&nbsp",
-      "location": null,
-      "blurb": "Crypto prop trading startup Vest raises $13 million seed led by Portal Ventures: Fortune - CryptoRank. Crypto prop trading startup Vest raises $13 million seed led by Portal Ventures: Fortune&nbsp;&nbsp;CryptoRank",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yXzI1NE1mbm82cTE5a3RWS29rTk53dklDMEhqZkEwWTdQU0YzNlA2ZjNad1VBb1BjVzVnTVZRcTBadjZSeE5fMExpazc2cEM1ak1tN2NIRVltajhfSjNvN2wzVEdXUW1IOU5QcTZlekhqSFB5?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-10-07T13:03:09.142240-07:00"
-  },
-  {
-    "item": {
-      "company": "Bloom",
-      "amount": "$3.6M",
-      "stage": null,
-      "investors": null,
-      "location": "U.S.",
-      "blurb": "Bloom raises $3.6M to become the \u2018Alibaba\u2019 of American manufacturing. The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-07T13:03:12.308391-07:00"
-  },
-  {
-    "item": {
-      "company": "Zuckerberg\u2019s Biohub",
-      "amount": "$1.8B",
+      "company": "We Run Monaco",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Zuckerberg\u2019s Biohub lands Google and U.S. Government backing for $1.8 billion AI biology push. Mark Zuckerberg&#8217;s Biohub has pulled Google, Meta, and the U.S. government into a $1.8 billion effort to generate the biological data needed to train AI systems that can predict how living cells behave. The project, called the Virtual Biology Initiative, [&#8230;]\nThe post Zuckerberg\u2019s Biohub lands Google and U.S. Government backing for $1.8 billion AI biology push first appeared on Tech Startups.",
+      "blurb": "We Run Monaco, Agentforce and Artisan for Outbound. Why We Still Also Built Our Own \u201cAI ABM\u201d Tool for Our Top Accounts. At SaaStr AI we are aggressive users of AI outbound tools: Monaco runs cold outbound. It booked a meeting for us with the right buyer at Anthropic on Day 1. That says it all. Artisan runs warm outbound.\u00a0 It has for over a year and booked millions of closed won for us. It&#8217;s where we... Continue Reading",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/07/zuckerbergs-biohub-lands-google-and-u-s-government-backing-for-1-8-billion-ai-biology-push/",
+      "source": "SaaStr",
+      "url": "https://www.saastr.com/we-run-monaco-agentforce-and-artisan-for-outbound-we-still-built-our-own-ai-abm-tool-for-our-top-accounts/",
       "priority": 3
     },
-    "remind_at": "2026-10-07T13:03:18.148731-07:00"
-  },
-  {
-    "item": {
-      "company": "Sante",
-      "amount": "$15.0M",
-      "stage": null,
-      "investors": null,
-      "location": "New York",
-      "blurb": "Sante Raises $15M to Run Wine and Liquor Stores on One AI-Powered Operating System. Darren Fike took a part-time job at a TriBeCa wine shop to find out why some of the best stores in New York ran on the worst software. What he learned inside an industry of roughly 34,000 independent stores became the basis for AI agents that reprice slow-moving bottles and read distributor invoices on their own. Sant\u00e9 now powers nearly 1,000 stores that process $2B a year, and it just raised $15M to reach thousa",
-      "founders": [],
-      "source": "AlleyWatch",
-      "url": "https://www.alleywatch.com/2026/10/sante-wine-spirits-retail-software-ai-liquor-store-pos-darren-fike/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-07T13:03:21.308074-07:00"
-  },
-  {
-    "item": {
-      "company": "Just",
-      "amount": "$38.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "This AI Startup Just Raised $38 Million to Flag Undiagnosed Hospital Patients - TechJuice. This AI Startup Just Raised $38 Million to Flag Undiagnosed Hospital Patients&nbsp;&nbsp;TechJuice",
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTENLNldtQ2dLYk1LLUxKV1FaYWxFWnRySGJFTV94dGozZDUwSFg1enV0SHZGTWpHaEhkYklZVGVHd3lpcXMtZlVOX2hsY09fdFBpazJtTndiSXVtZlZwUkdxZWtlN3FNLW1rVldVY002azFoeFhSWHFaSzd6QTR2STRxT21xeUwxeFVTX3pn?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-10-07T13:03:24.340422-07:00"
+    "remind_at": "2026-10-07T17:20:47.162079-07:00"
   }
 ]
