@@ -1,77 +1,182 @@
 [
   {
     "item": {
-      "company": "Ampersand",
-      "amount": "$15.0M",
-      "stage": "Series A",
-      "investors": "Bessemer, Bessemer Venture Partners",
-      "location": null,
-      "blurb": "Ampersand Raises $15M Series A. Ampersand raises $15M in Series A funding led by Bessemer Venture Partners to build integration infrastructure for enterprise AI agents.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ampersand-raises-15m-series-a/",
-      "priority": 11
-    },
-    "remind_at": "2026-10-06T23:47:02.171636-07:00"
-  },
-  {
-    "item": {
-      "company": "Myca",
-      "amount": "$1.3M",
-      "stage": "Pre-Seed",
-      "investors": "Eximius Ventures, Kriscore Capital",
-      "location": null,
-      "blurb": "Myca Raises $1.3M Pre-seed. Myca raises $1.3M pre-seed funding from Eximius Ventures, Indigram Labs Foundation, and Kriscore Capital to expand its AI platform for agribusiness.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/myca-raises-1-3m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-10-06T23:47:05.492517-07:00"
-  },
-  {
-    "item": {
-      "company": "Guardrail Technologies",
-      "amount": "$3.0M",
+      "company": "Melius",
+      "amount": "$25.0M",
       "stage": "Seed",
-      "investors": "Filter Fund Venture Capital",
+      "investors": "General Catalyst and CRV",
       "location": null,
-      "blurb": "Guardrail Technologies Raises $3M Seed. Guardrail Technologies raises $3M in seed funding led by Filter Fund Venture Capital to expand its AI security and control platform internationally.",
+      "blurb": "Melius Raises $25M in Funding. Melius raises $25 million in combined seed and Series A funding led by General Catalyst and CRV to expand its AI agent-based creative operating system.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/guardrail-technologies-raises-3m-seed/",
+      "url": "https://www.thesaasnews.com/news/melius-raises-25m-series-a/",
+      "priority": 12
+    },
+    "remind_at": "2026-10-07T07:12:28.295095-07:00"
+  },
+  {
+    "item": {
+      "company": "Authors First",
+      "amount": "$10.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Authors First Raises $10M Seed. Authors First raises $10M in seed funding to provide authors with AI-powered tools for adapting their books into film and visual media.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/authors-first-raises-10m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-10-06T23:47:08.436610-07:00"
+    "remind_at": "2026-10-07T07:12:34.048479-07:00"
   },
   {
     "item": {
-      "company": "Vocca",
-      "amount": "$20.0M",
+      "company": "Navra",
+      "amount": "$19.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
-      "blurb": "Vocca raises $20M Series A led by Norrsken VC to answer medical practices\u2019 phones with AI. Healthcare businesses in the US employ an estimated quarter of a million people to answer phone calls from&#8230;",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/vocca-raises-20m-series-a-led-by-norrsken-vc-to-answer-medical-practices-phones-with-ai/",
-      "priority": 8
-    },
-    "remind_at": "2026-10-06T23:47:11.435577-07:00"
-  },
-  {
-    "item": {
-      "company": "Vitalize",
-      "amount": "$31.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Vitalize Raises $31M Series A. Vitalize raises $31M in a Series A funding round led by Oak HC/FT to scale its AI-powered hospital staffing and capacity management operating system.",
+      "blurb": "Navra Raises $19M Series A. Navra raises $19 million in a Series A round led by Ribbit to accelerate the development of its AI-native platform for blockchain financial services.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/vitalize-raises-31m-series-a/",
+      "url": "https://www.thesaasnews.com/news/navra-raises-19m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-10-06T23:47:17.287269-07:00"
+    "remind_at": "2026-10-07T07:12:37.052278-07:00"
+  },
+  {
+    "item": {
+      "company": "Sant\u00e9",
+      "amount": "$15.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Sant\u00e9 Raises $15M Series A. Sant\u00e9 raises $15M Series A round led by FINTOP to expand its AI-powered operating system for the wine and spirits retail industry.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/sante-raises-15m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-07T07:12:40.139087-07:00"
+  },
+  {
+    "item": {
+      "company": "Siena",
+      "amount": "$17.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Siena Raises $17M Series A. Siena raises $17M Series A led by York IE to expand its AI-driven Agent of Record platform for consumer brands to automate and improve customer service.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/siena-raises-17m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-07T07:12:43.110546-07:00"
+  },
+  {
+    "item": {
+      "company": "Sunfox Technologies",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Med-tech startup Sunfox Technologies raises $7 Mn in Series A round - Entrackr. Med-tech startup Sunfox Technologies raises $7 Mn in Series A round&nbsp;&nbsp;Entrackr",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa3Y2WU1ZSWdkQi1faWZXOHVxYXVVcm5DTXRiZXh6cTR5bVFFLURiSjdWLU9rWWhLN25mVUloUFVrRjZOLU1mc0tXNU9JMGhPUG40a3J3V0JIWi14VkEzd0s3VmtUbmpTVUxlVC1udnRRTENmb21mS3FTdlIyaVBYVXVZQ21ZQllrSkFKd1NKS1JkZnVfNWJNWWZpQWFlbE14eVZDckJqeU_SAagBQVVfeXFMTmt2NllNWUlnZEItX2lmVzh1cWF1VXJuQ010YmV4enE0eW1RRS1EYko3Vi1Pa1loSzduZlVJaFBVa0Y2Ti1NZnNLVzVPSTBoT1BuNGtyd1dCSFoteFZBM3dLN1ZrVG5qU1VMZVQtbnZ0UUxDZm9tZktxU3ZSMmlQWFV1WUNtWUJZa0pBSndTSktSZGZ1XzViTVlmaUFhZWxNeHlWQ3JCanlP?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-10-07T07:12:46.093290-07:00"
+  },
+  {
+    "item": {
+      "company": "Stuut",
+      "amount": "$52.5M",
+      "stage": "Series B",
+      "investors": "Insight Partners",
+      "location": null,
+      "blurb": "Stuut raises $52.5M from Insight Partners and a16z to let AI agents chase enterprises\u2019 unpaid invoices. Stuut has raised $52.5 million in Series B funding to helpq enterprises unlock cash trapped in slow and&#8230;",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/stuut-raises-52-5m-from-insight-partners-and-a16z-to-let-ai-agents-chase-enterprises-unpaid-invoices/",
+      "priority": 7
+    },
+    "remind_at": "2026-10-07T07:12:49.444228-07:00"
+  },
+  {
+    "item": {
+      "company": "Zuckerberg's Biohub",
+      "amount": "$1.8B",
+      "stage": "Bridge",
+      "investors": null,
+      "location": null,
+      "blurb": "\"The beginning of a new scientific paradigm\": Zuckerberg's Biohub, U.S. and Google build virtual cell. Mark Zuckerberg's Biohub is partnering with Google and the federal government in its ambitious effort to use AI for generating vast quantities of biological data that can predict how cells behave.Why it matters: The ultimate goal is an AI model that lets scientists test potential experiments virtually, helping them identify the most promising ones before spending the time and money to perform t",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/07/zuckerberg-biohub-ai-biology-data",
+      "priority": 6
+    },
+    "remind_at": "2026-10-07T07:12:56.996558-07:00"
+  },
+  {
+    "item": {
+      "company": "SpaceX",
+      "amount": "$40.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "SpaceX seeks to borrow $40 billion to buy Nvidia AI chips as AI financing race escalates. SpaceX is in talks to borrow a staggering $40 billion to buy Nvidia AI chips, putting Elon Musk\u2019s company at the center of a growing Wall Street financing race to bankroll the enormous cost of AI computing infrastructure. The proposed [&#8230;]\nThe post SpaceX seeks to borrow $40 billion to buy Nvidia AI chips as AI financing race escalates first appeared on Tech Startups.",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/07/spacex-seeks-to-borrow-40-billion-to-buy-nvidia-ai-chips-as-ai-financing-arms-race-escalates/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-07T07:13:00.068703-07:00"
+  },
+  {
+    "item": {
+      "company": "Capitolis",
+      "amount": "$120.0M",
+      "stage": "Series E",
+      "investors": null,
+      "location": null,
+      "blurb": "Capitolis Raises $120M Series E. Capitolis raises $120 million in Series E funding at a $1.9 billion valuation to acquire eSecLending and expand its financial technology platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/capitolis-raises-120m-series-e/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-07T07:13:02.936443-07:00"
+  },
+  {
+    "item": {
+      "company": "Mandia's Armadin",
+      "amount": "$255.5M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Mandia's Armadin Raises $255.5M for AI Security Agent Swarms - The Tech Buzz. Mandia's Armadin Raises $255.5M for AI Security Agent Swarms&nbsp;&nbsp;The Tech Buzz",
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR004X3RVUzY2aGxyRlZDVXN6aVZoTEhxVE5xQktZWGlJNVVhNUdUVzYwUjc2eG1wZXVuUUkzWmYxWUJ6djJRZ1d0VG9MbTB5TjRVQmVkWVd6WU5IUDZnWHFqendaM3RPa3RpZjJ4blFQYkhMZVRpOU95NkprZ3paVGxVNUF5bVZFUXpycVhVeXFsbUxHNTJF?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-10-07T07:13:08.720302-07:00"
+  },
+  {
+    "item": {
+      "company": "Desible.ai",
+      "amount": null,
+      "stage": null,
+      "investors": "Prime Venture Partners - Entrackr Agentic AI startup Desible",
+      "location": null,
+      "blurb": "Agentic AI startup Desible.ai raises Rs 32 Cr led by Prime Venture Partners - Entrackr. Agentic AI startup Desible.ai raises Rs 32 Cr led by Prime Venture Partners&nbsp;&nbsp;Entrackr",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmU2b052dWVjV3RvX0pNVG93eFRuWHZfSEdhOVZ4cEpTUXlzR2JsR0tpSng2ZVlNTnNWUEM1OGR3S3dmOWtDcFpMa1Y2QzlXcVlibURhMTlva0FrLXQzcVZKa2dBLWZwZ3RJRTNIbEEwdTRVRk5aQUFDcWtSUXFsZ0ZsMnBiWVB6U0F0d1ptbFFyTTdwdE5ielZWemh4OFBCdUxwM2ZDTldZYndZM1pHV2R2d9IBswFBVV95cUxQVmU2b052dWVjV3RvX0pNVG93eFRuWHZfSEdhOVZ4cEpTUXlzR2JsR0tpSng2ZVlNTnNWUEM1OGR3S3dmOWtDcFpMa1Y2QzlXcVlibURhMTlva0FrLXQzcVZKa2dBLWZwZ3RJRTNIbEEwdTRVRk5aQUFDcWtSUXFsZ0ZsMnBiWVB6U0F0d1ptbFFyTTdwdE5ielZWemh4OFBCdUxwM2ZDTldZYndZM1pHV2R2dw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-10-07T07:13:11.831679-07:00"
   }
 ]
