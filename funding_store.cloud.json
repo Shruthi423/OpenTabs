@@ -3635,5 +3635,116 @@
     "roles": [],
     "first_seen": "2026-10-06T13:47:08.833638-07:00",
     "status": "active"
+  },
+  "8dfb5fb86e189bc945ddee40d3baac80": {
+    "id": "8dfb5fb86e189bc945ddee40d3baac80",
+    "company": "Ampersand",
+    "amount": "$15.0M",
+    "stage": "Series A",
+    "investors": "Bessemer, Bessemer Venture Partners",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/ampersand-raises-15m-series-a/",
+    "priority": 11,
+    "blurb": "Ampersand Raises $15M Series A. Ampersand raises $15M in Series A funding led by Bessemer Venture Partners to build integration infrastructure for enterprise AI agents.",
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Founding Account Executive",
+        "url": "https://jobs.ashbyhq.com/ampersand/9ac2ac8d-c588-4570-9135-6adc02cde54d",
+        "location": "Remote"
+      },
+      {
+        "title": "Founding Marketer",
+        "url": "https://jobs.ashbyhq.com/ampersand/a487bf99-bbc9-462b-98cd-9bc6f1a53b76",
+        "location": "Remote"
+      },
+      {
+        "title": "Founding Sales Engineer",
+        "url": "https://jobs.ashbyhq.com/ampersand/613be1ab-4219-4720-a5b2-a5c6afb0800f",
+        "location": "Remote"
+      },
+      {
+        "title": "Customer Engineer",
+        "url": "https://jobs.ashbyhq.com/ampersand/f130dab2-06f3-47a1-8c10-6c07e83095ca",
+        "location": "Remote"
+      },
+      {
+        "title": "Forward Deployed Engineer",
+        "url": "https://jobs.ashbyhq.com/ampersand/ffa4a2b4-7b64-4b82-9e46-edb45144fca2",
+        "location": "Remote"
+      },
+      {
+        "title": "Product Engineer, Platform",
+        "url": "https://jobs.ashbyhq.com/ampersand/2913fb14-57d2-462c-a233-3299bf078d8c",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-10-06T23:17:03.171812-07:00",
+    "status": "active"
+  },
+  "171c89762835e0ab0d5d47b87060e793": {
+    "id": "171c89762835e0ab0d5d47b87060e793",
+    "company": "Myca",
+    "amount": "$1.3M",
+    "stage": "Pre-Seed",
+    "investors": "Eximius Ventures, Kriscore Capital",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/myca-raises-1-3m-pre-seed/",
+    "priority": 10,
+    "blurb": "Myca Raises $1.3M Pre-seed. Myca raises $1.3M pre-seed funding from Eximius Ventures, Indigram Labs Foundation, and Kriscore Capital to expand its AI platform for agribusiness.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-06T23:17:06.492673-07:00",
+    "status": "active"
+  },
+  "b2e5149fc06abc0906af964add284ac1": {
+    "id": "b2e5149fc06abc0906af964add284ac1",
+    "company": "Guardrail Technologies",
+    "amount": "$3.0M",
+    "stage": "Seed",
+    "investors": "Filter Fund Venture Capital",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/guardrail-technologies-raises-3m-seed/",
+    "priority": 9,
+    "blurb": "Guardrail Technologies Raises $3M Seed. Guardrail Technologies raises $3M in seed funding led by Filter Fund Venture Capital to expand its AI security and control platform internationally.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-06T23:17:09.436745-07:00",
+    "status": "active"
+  },
+  "6871b8f44e7a10f435ddd2e6c23d62c9": {
+    "id": "6871b8f44e7a10f435ddd2e6c23d62c9",
+    "company": "Vocca",
+    "amount": "$20.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/vocca-raises-20m-series-a-led-by-norrsken-vc-to-answer-medical-practices-phones-with-ai/",
+    "priority": 8,
+    "blurb": "Vocca raises $20M Series A led by Norrsken VC to answer medical practices\u2019 phones with AI. Healthcare businesses in the US employ an estimated quarter of a million people to answer phone calls from&#8230;",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-06T23:17:12.435709-07:00",
+    "status": "active"
+  },
+  "396d9c09e0f98ab68a7394fd21776ff2": {
+    "id": "396d9c09e0f98ab68a7394fd21776ff2",
+    "company": "Vitalize",
+    "amount": "$31.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/vitalize-raises-31m-series-a/",
+    "priority": 8,
+    "blurb": "Vitalize Raises $31M Series A. Vitalize raises $31M in a Series A funding round led by Oak HC/FT to scale its AI-powered hospital staffing and capacity management operating system.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-06T23:17:18.287411-07:00",
+    "status": "active"
   }
 }

@@ -1,1 +1,77 @@
-[]
+[
+  {
+    "item": {
+      "company": "Ampersand",
+      "amount": "$15.0M",
+      "stage": "Series A",
+      "investors": "Bessemer, Bessemer Venture Partners",
+      "location": null,
+      "blurb": "Ampersand Raises $15M Series A. Ampersand raises $15M in Series A funding led by Bessemer Venture Partners to build integration infrastructure for enterprise AI agents.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ampersand-raises-15m-series-a/",
+      "priority": 11
+    },
+    "remind_at": "2026-10-06T23:47:02.171636-07:00"
+  },
+  {
+    "item": {
+      "company": "Myca",
+      "amount": "$1.3M",
+      "stage": "Pre-Seed",
+      "investors": "Eximius Ventures, Kriscore Capital",
+      "location": null,
+      "blurb": "Myca Raises $1.3M Pre-seed. Myca raises $1.3M pre-seed funding from Eximius Ventures, Indigram Labs Foundation, and Kriscore Capital to expand its AI platform for agribusiness.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/myca-raises-1-3m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-10-06T23:47:05.492517-07:00"
+  },
+  {
+    "item": {
+      "company": "Guardrail Technologies",
+      "amount": "$3.0M",
+      "stage": "Seed",
+      "investors": "Filter Fund Venture Capital",
+      "location": null,
+      "blurb": "Guardrail Technologies Raises $3M Seed. Guardrail Technologies raises $3M in seed funding led by Filter Fund Venture Capital to expand its AI security and control platform internationally.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/guardrail-technologies-raises-3m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-06T23:47:08.436610-07:00"
+  },
+  {
+    "item": {
+      "company": "Vocca",
+      "amount": "$20.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Vocca raises $20M Series A led by Norrsken VC to answer medical practices\u2019 phones with AI. Healthcare businesses in the US employ an estimated quarter of a million people to answer phone calls from&#8230;",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/vocca-raises-20m-series-a-led-by-norrsken-vc-to-answer-medical-practices-phones-with-ai/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-06T23:47:11.435577-07:00"
+  },
+  {
+    "item": {
+      "company": "Vitalize",
+      "amount": "$31.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Vitalize Raises $31M Series A. Vitalize raises $31M in a Series A funding round led by Oak HC/FT to scale its AI-powered hospital staffing and capacity management operating system.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/vitalize-raises-31m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-06T23:47:17.287269-07:00"
+  }
+]
