@@ -1,32 +1,32 @@
 [
   {
     "item": {
-      "company": "Mecka",
+      "company": "Nous Research",
+      "amount": "$90.0M",
+      "stage": "Series B",
+      "investors": "Y Combinator, Robot Ventures",
+      "location": null,
+      "blurb": "Nvidia, Samsung back $90M round for AI agent startup Nous Research. Nous Research Inc., the developer of the popular Hermes artificial intelligence agent, today announced that it has raised $90 million in funding.\u00a0 Early-stage startup fund Robot Ventures led the Series B round. It was joined by Nvidia Corp., Samsung Electronics Co., Y Combinator and several others. Nous is now valued at $1.5 billion. The company [&#8230;]\nThe post Nvidia, Samsung back $90M round for AI agent startup Nous Researc",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/07/nvidia-samsung-back-90m-round-for-ai-agent-startup-nous-research/",
+      "priority": 10
+    },
+    "remind_at": "2026-10-07T21:31:17.627630-07:00"
+  },
+  {
+    "item": {
+      "company": "Mecka AI",
       "amount": "$60.0M",
       "stage": "Series B",
       "investors": "Sequoia",
       "location": null,
-      "blurb": "Mecka raises $60M Series B led by Sequoia to build robotics training data - Crypto Briefing. Mecka raises $60M Series B led by Sequoia to build robotics training data&nbsp;&nbsp;Crypto Briefing",
+      "blurb": "Mecka AI raises $60M Series B from Sequoia to build human motion dataset for robotics - news.lavx.hu. Mecka AI raises $60M Series B from Sequoia to build human motion dataset for robotics&nbsp;&nbsp;news.lavx.hu",
       "founders": [],
       "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oLTdwX2lYNHVFRjQ1VG1QaUozelQyQzQ5bkE2TW8xdUZlbTBjX2JpVGo3N0gwZlVWeDVYZlpRci1nelpvYy02a3BJdFBmSWYwWlZEU3NhaTV1dmxjVkZpVWx3eWhiMDJTdE5ZdWZB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeXctUGItbFdacDZ0Zl8xSG5mX19KVzdiYU1wNUU1UE52RGFfaWZSWUdGV2JqVU44ZG9FV0RfTjQ3Mngxd01EZ0FUWDh1QV92UWhLMXg4Y2ZvN3Y0RlFhR2RCcURxdVJWWHJOa09VXzBHMGx3c2MxVU9jbWZuNkhUTFRaQnlYRWhJUEUyS3RfZWtFeDNCbzU5Rk9jRWZkbG1fUnFXSDNjQUQxTS1INk12RXg4VQ?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-10-07T17:20:41.493045-07:00"
-  },
-  {
-    "item": {
-      "company": "We Run Monaco",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "We Run Monaco, Agentforce and Artisan for Outbound. Why We Still Also Built Our Own \u201cAI ABM\u201d Tool for Our Top Accounts. At SaaStr AI we are aggressive users of AI outbound tools: Monaco runs cold outbound. It booked a meeting for us with the right buyer at Anthropic on Day 1. That says it all. Artisan runs warm outbound.\u00a0 It has for over a year and booked millions of closed won for us. It&#8217;s where we... Continue Reading",
-      "founders": [],
-      "source": "SaaStr",
-      "url": "https://www.saastr.com/we-run-monaco-agentforce-and-artisan-for-outbound-we-still-built-our-own-ai-abm-tool-for-our-top-accounts/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-07T17:20:47.162079-07:00"
+    "remind_at": "2026-10-07T21:31:20.534676-07:00"
   }
 ]

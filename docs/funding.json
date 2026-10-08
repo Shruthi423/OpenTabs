@@ -1,5 +1,35 @@
 [
   {
+    "id": "061ea88c1970a7f1fbbec3a4a0b73ba0",
+    "company": "Mecka AI",
+    "amount": "$60.0M",
+    "stage": "Series B",
+    "investors": "Sequoia",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeXctUGItbFdacDZ0Zl8xSG5mX19KVzdiYU1wNUU1UE52RGFfaWZSWUdGV2JqVU44ZG9FV0RfTjQ3Mngxd01EZ0FUWDh1QV92UWhLMXg4Y2ZvN3Y0RlFhR2RCcURxdVJWWHJOa09VXzBHMGx3c2MxVU9jbWZuNkhUTFRaQnlYRWhJUEUyS3RfZWtFeDNCbzU5Rk9jRWZkbG1fUnFXSDNjQUQxTS1INk12RXg4VQ?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-07T21:01:21.534880-07:00",
+    "status": "active"
+  },
+  {
+    "id": "9dd6c0f181aae8f74321e4dc0fb58423",
+    "company": "Nous Research",
+    "amount": "$90.0M",
+    "stage": "Series B",
+    "investors": "Y Combinator, Robot Ventures",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/07/nvidia-samsung-back-90m-round-for-ai-agent-startup-nous-research/",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-07T21:01:18.627765-07:00",
+    "status": "active"
+  },
+  {
     "id": "53ffaba6fafbed2b4e20a490f0510326",
     "company": "We Run Monaco",
     "amount": "Undisclosed",
