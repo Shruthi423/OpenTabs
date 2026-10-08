@@ -1,32 +1,137 @@
 [
   {
     "item": {
-      "company": "Nous Research",
-      "amount": "$90.0M",
-      "stage": "Series B",
-      "investors": "Y Combinator, Robot Ventures",
+      "company": "Verso",
+      "amount": "$6.0M",
+      "stage": "Seed",
+      "investors": "Angular Ventures",
       "location": null,
-      "blurb": "Nvidia, Samsung back $90M round for AI agent startup Nous Research. Nous Research Inc., the developer of the popular Hermes artificial intelligence agent, today announced that it has raised $90 million in funding.\u00a0 Early-stage startup fund Robot Ventures led the Series B round. It was joined by Nvidia Corp., Samsung Electronics Co., Y Combinator and several others. Nous is now valued at $1.5 billion. The company [&#8230;]\nThe post Nvidia, Samsung back $90M round for AI agent startup Nous Researc",
+      "blurb": "Verso Raises $6M Seed. Verso raises $6M in seed funding led by Angular Ventures to scale its AI-powered consumer intelligence platform and expand internationally.",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/07/nvidia-samsung-back-90m-round-for-ai-agent-startup-nous-research/",
-      "priority": 10
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/verso-raises-6m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-10-07T21:31:17.627630-07:00"
+    "remind_at": "2026-10-08T04:46:10.793037-07:00"
   },
   {
     "item": {
-      "company": "Mecka AI",
-      "amount": "$60.0M",
-      "stage": "Series B",
-      "investors": "Sequoia",
+      "company": "Egoist Machines",
+      "amount": "$3.0M",
+      "stage": "Seed",
+      "investors": null,
       "location": null,
-      "blurb": "Mecka AI raises $60M Series B from Sequoia to build human motion dataset for robotics - news.lavx.hu. Mecka AI raises $60M Series B from Sequoia to build human motion dataset for robotics&nbsp;&nbsp;news.lavx.hu",
+      "blurb": "Egoist Machines Raises $3M Seed. Egoist Machines raises $3M seed round to scale its AI Passport, a permission-based platform allowing users to manage and port personal data across AI apps.",
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeXctUGItbFdacDZ0Zl8xSG5mX19KVzdiYU1wNUU1UE52RGFfaWZSWUdGV2JqVU44ZG9FV0RfTjQ3Mngxd01EZ0FUWDh1QV92UWhLMXg4Y2ZvN3Y0RlFhR2RCcURxdVJWWHJOa09VXzBHMGx3c2MxVU9jbWZuNkhUTFRaQnlYRWhJUEUyS3RfZWtFeDNCbzU5Rk9jRWZkbG1fUnFXSDNjQUQxTS1INk12RXg4VQ?oc=5",
-      "priority": 10
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/egoist-machines-raises-3m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-10-07T21:31:20.534676-07:00"
+    "remind_at": "2026-10-08T04:46:18.657845-07:00"
+  },
+  {
+    "item": {
+      "company": "Desible.ai",
+      "amount": "$3.3M",
+      "stage": "Seed",
+      "investors": "Prime Venture Partners",
+      "location": null,
+      "blurb": "Desible.ai Raises $3.3M Seed Extension. Desible.ai raises $3.3 million in a seed extension round led by Prime Venture Partners to scale its agentic AI workflow platform for the BFSI sector.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/desible-ai-raises-3-3m-seed-extension/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-08T04:46:21.796901-07:00"
+  },
+  {
+    "item": {
+      "company": "AblePay Health",
+      "amount": "$20.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "AblePay Health Raises $20M Series A. AblePay Health raises $20M Series A led by F-Prime to scale its healthcare affordability and patient payment engagement technology platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ablepay-health-raises-20m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-08T04:46:27.774041-07:00"
+  },
+  {
+    "item": {
+      "company": "ByteXL",
+      "amount": "$9.0M",
+      "stage": "Series B",
+      "investors": "Elevar Equity",
+      "location": null,
+      "blurb": "ByteXL Raises $9M Series B. ByteXL raises $9 million in a Series B round led by Elevar Equity to expand its B2B edtech platform and invest in AI-enabled learning tools.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/bytexl-raises-9m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-10-08T04:46:30.785652-07:00"
+  },
+  {
+    "item": {
+      "company": "ElevenLabs",
+      "amount": "$320.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "ElevenLabs, ICEYE backer Endeavor Catalyst closes oversubscribed $320M Fund V. Endeavor Catalyst has closed its oversubscribed $320 million Fund V, taking the venture platform&#8217;s assets under management above&#8230;",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/elevenlabs-iceye-backer-endeavor-catalyst-closes-oversubscribed-320m-fund-v/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-08T04:46:33.931509-07:00"
+  },
+  {
+    "item": {
+      "company": "Agentiq",
+      "amount": "$4.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Agentiq Raises $4M in Funding. Agentiq raises $4M in funding led by defy.vc to launch its fintech platform allowing fans to invest in professional athletes careers.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/agentiq-raises-4m-unknown/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-08T04:46:36.944344-07:00"
+  },
+  {
+    "item": {
+      "company": "QualityLine",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "QualityLine Raises Strategic Investment. QualityLine receives a strategic investment from Circuit Check to integrate its AI-powered manufacturing analytics platform into automated test systems.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/qualityline-raises-strategic-investment/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-08T04:46:39.947078-07:00"
+  },
+  {
+    "item": {
+      "company": "CloudsineAI",
+      "amount": null,
+      "stage": null,
+      "investors": "V-Key",
+      "location": null,
+      "blurb": "CloudsineAI Secures Majority Investment. CloudsineAI receives a strategic majority investment from V-Key to enhance AI cybersecurity and identity governance infrastructure.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/cloudsineai-secures-majority-investment/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-08T04:46:42.934530-07:00"
   }
 ]
