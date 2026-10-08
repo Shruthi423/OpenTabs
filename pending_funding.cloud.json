@@ -1,107 +1,47 @@
 [
   {
     "item": {
-      "company": "Catalyst",
-      "amount": "$30.0M",
-      "stage": "Seed",
-      "investors": "Sequoia: Fortune&nbsp",
-      "location": null,
-      "blurb": "AI trading startup Catalyst raises $30 million seed led by Sequoia: Fortune - CryptoRank. AI trading startup Catalyst raises $30 million seed led by Sequoia: Fortune&nbsp;&nbsp;CryptoRank",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSWkFMZkpwTEtZVFo1NVNSckREOTdVSnFQLVFrWTBkQXRManFqN0lvMG8wbHdiYTE1b3hLZkRFUkZvWUJuZlNRQ0VxWm9TV1BuLWxfajM5SXJ5ZTFuNDZDX3hLR01NdVBrU2VKVlZIOUFYQkU?oc=5",
-      "priority": 12
-    },
-    "remind_at": "2026-10-08T11:24:52.727333-07:00"
-  },
-  {
-    "item": {
-      "company": "Visorway",
+      "company": "Golbriak Space",
       "amount": null,
-      "stage": "Pre-Seed",
+      "stage": "Seed",
       "investors": null,
       "location": null,
-      "blurb": "AI startup Visorway raises pre-seed funding - Startupticker. AI startup Visorway raises pre-seed funding&nbsp;&nbsp;Startupticker",
+      "blurb": "Estonian Startup Golbriak Space Raises 4M Euro in Seed Funding - Via Satellite. Estonian Startup Golbriak Space Raises 4M Euro in Seed Funding&nbsp;&nbsp;Via Satellite",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQWsxOXh6VElQMWxXazZJWWRuWHhNYWZ4MURyT1FyMThhN2VzUmdQbUU4LTNZTjJ6ZDBuZ21GcEZrYklsUUt1UGsycFFKazEybUo0TWxBMlFLUWhFMkpMa2FvT1NoeW52c3U0VXh3MnlvS2l4bl9DZ3RxbFRLX0c5NVYyT0lEd1U?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-10-08T11:24:55.592213-07:00"
-  },
-  {
-    "item": {
-      "company": "Gudea",
-      "amount": "$7.0M",
-      "stage": "Seed",
-      "investors": "Mudita Venture Partners, Silicon Road Ventures",
-      "location": null,
-      "blurb": "Exclusive: Gudea Lands $7M To Predict Which Online Narratives Will Go Viral. Gudea has raised $7 million in seed funding, co-led by Mudita Venture Partners and Silicon Road Ventures, to help companies anticipate which online narratives will go viral and understand who is driving them, the startup tells Crunchbase News exclusively.",
-      "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTkcyWkwxTnBFYnFJUkpudXJ1Tm1DR1VGV3JUTDQwQ1ZGNkVkazVnYkQwX1RET25sYW9rR3hST0E2STBaX0JLNVF3a2RLRWE2dHlIbWFKOWlRQXRJSVJIMlBiUDNTRXN2RkFwOUViY04tQUhUOXBDS3M3R3A5QTk2V1pfaHdUeXRlT1RvSFhLNzQycVh4RHBXV2lKNDJkT0NxRVBYYllVVlA2cWFkaXVxWm0xWQ?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-10-08T11:24:58.603807-07:00"
+    "remind_at": "2026-10-08T16:15:45.786125-07:00"
   },
   {
     "item": {
-      "company": "Rein Security",
-      "amount": "$25.0M",
+      "company": "Rebel Audio",
+      "amount": "$10.0M",
       "stage": "Series A",
-      "investors": "Glilot Capital, Sienna Venture Capital, Corner Ventures",
-      "location": null,
-      "blurb": "Rein Security raises $25M to rein in insecure AI agents. Rein Security Inc. said today it\u2019s trying to help enterprises protect themselves against two distinct security threats relating to agentic artificial intelligence after raising $25 million in early-stage funding from Glilot Capital, Sienna Venture Capital, Corner Ventures, Atlacle and RNP Capital Advisors today. The Series A round, which brings Rein\u2019s total amount raised so far [&#8230;]\nThe post Rein Security raises $25M to rein in insecu",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/08/rein-security-raises-25m-to-rein-in-insecure-ai-agents/",
-      "priority": 8
-    },
-    "remind_at": "2026-10-08T11:25:03.876803-07:00"
-  },
-  {
-    "item": {
-      "company": "Sequoia-backed Catalyst",
-      "amount": "$30.0M",
-      "stage": null,
-      "investors": "Sequoia",
-      "location": null,
-      "blurb": "Sequoia-backed Catalyst raises $30 million to build AI trading agents for everyday investors - Fortune. Sequoia-backed Catalyst raises $30 million to build AI trading agents for everyday investors&nbsp;&nbsp;Fortune",
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2J3SVhHMkxJMHlqVWF2WjZJSFF5dGtTcWQ1WDRJMkkzVVA1M2trVy1fZHpSb3BKZHkzdTluRml4Z251TlRfQ0tXYXdfc2VZbW9GWHVSYzJMc1JIRV8wenVMMDlGZFdGcm5DcFpuQlhwallCUHp5NVZ1eXkyeXdIWVpZQzV4Z2VkOVI5SFJNU1VIRnpzVjUxam56bmhLYk5la3VjM0t2a1J6a1BuOEl4SHNCVVhHMjQ?oc=5",
-      "priority": 6
-    },
-    "remind_at": "2026-10-08T11:25:12.094621-07:00"
-  },
-  {
-    "item": {
-      "company": "Vesta",
-      "amount": "$30.0M",
-      "stage": null,
-      "investors": "Conversion Capital",
-      "location": null,
-      "blurb": "Vesta raises $30M to bring swarms of agents to mortgage lenders. Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
-      "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-08T11:25:14.913696-07:00"
-  },
-  {
-    "item": {
-      "company": "Valon Technologies",
-      "amount": "$150.0M",
-      "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Valon Technologies Raises $150M at $2.3B Valuation to Expand AI Mortgage Platform - citybiz. Valon Technologies Raises $150M at $2.3B Valuation to Expand AI Mortgage Platform&nbsp;&nbsp;citybiz",
+      "blurb": "AI podcasting startup Rebel Audio raises $10M Series A at $50M valuation - Dealroom. AI podcasting startup Rebel Audio raises $10M Series A at $50M valuation&nbsp;&nbsp;Dealroom",
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRXF1ZXV2MEVIQ21maTZvc28tdXBka2lOOU80b294ZkNRUFZMTDVFa24tMXVBbVZuaEVzRE5vNG5VLXNoa1k1TzdxUDhnRlpCX09oZExwNU1wV2ZEV2l0YnVPQzZFUnctZXpVSTRjTjFpT2ZuNlBjWnRqYU9qZFVfY2ttV21FbWtwalgtT3B5RUlYYzQ5Q2d3UGt2MTdSS05oYmdURGo4Q3lMZEhhYUxBYXR5dGNjSm85Snc?oc=5",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZy10QWUyZ000V2d6V0FVU1JhcFM3ZmtvMHVtZDYzU0kzV3phMmZ1bllSZXRucUd0ejN1dmRtMUxOZDUzSTBNNVNMNWJickJXMnRHOHM5TDBTTFBfd3V6cFlscUlON0lVcUFfTW1YSzRnRUF1VDhleXFpdkQtT1VHQXAzNDVSNmhsYl9XdHROeE1VR1JhRTBCNjIzSDFNcW1LRWVkTXNLOA?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-10-08T11:25:17.736495-07:00"
+    "remind_at": "2026-10-08T16:15:51.316549-07:00"
+  },
+  {
+    "item": {
+      "company": "Fortastra",
+      "amount": "$30.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "On-Orbit Security Startup Fortastra Raises $30M in Series A - Via Satellite. On-Orbit Security Startup Fortastra Raises $30M in Series A&nbsp;&nbsp;Via Satellite",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcTB3QU41MWdiTzAtMHBvVGE3ZnljTmRkTkhDcmZmUmRsS1E1Ti10SW5iTjdQbTlrWF90d0R1Sm45Q0d0MnhjQ01ZcTA1U25HdjZ5T2h5Q0E1Mzg0Y196TW9qWGpHeXhrdkVYV3pyVTBOeHdNQm5aLU9jR25rZTd1cngxSVJnYjBzWHlCUnJVYUNPSnBDclc2TlVsTVJ0bVJBLWF1X0RzSzRfUTlKeXc?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-10-08T16:15:54.142950-07:00"
   }
 ]
