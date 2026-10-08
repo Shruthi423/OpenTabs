@@ -1,137 +1,107 @@
 [
   {
     "item": {
-      "company": "Verso",
-      "amount": "$6.0M",
+      "company": "Catalyst",
+      "amount": "$30.0M",
       "stage": "Seed",
-      "investors": "Angular Ventures",
+      "investors": "Sequoia: Fortune&nbsp",
       "location": null,
-      "blurb": "Verso Raises $6M Seed. Verso raises $6M in seed funding led by Angular Ventures to scale its AI-powered consumer intelligence platform and expand internationally.",
+      "blurb": "AI trading startup Catalyst raises $30 million seed led by Sequoia: Fortune - CryptoRank. AI trading startup Catalyst raises $30 million seed led by Sequoia: Fortune&nbsp;&nbsp;CryptoRank",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/verso-raises-6m-seed/",
-      "priority": 9
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSWkFMZkpwTEtZVFo1NVNSckREOTdVSnFQLVFrWTBkQXRManFqN0lvMG8wbHdiYTE1b3hLZkRFUkZvWUJuZlNRQ0VxWm9TV1BuLWxfajM5SXJ5ZTFuNDZDX3hLR01NdVBrU2VKVlZIOUFYQkU?oc=5",
+      "priority": 12
     },
-    "remind_at": "2026-10-08T04:46:10.793037-07:00"
+    "remind_at": "2026-10-08T11:24:52.727333-07:00"
   },
   {
     "item": {
-      "company": "Egoist Machines",
-      "amount": "$3.0M",
-      "stage": "Seed",
+      "company": "Visorway",
+      "amount": null,
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
-      "blurb": "Egoist Machines Raises $3M Seed. Egoist Machines raises $3M seed round to scale its AI Passport, a permission-based platform allowing users to manage and port personal data across AI apps.",
+      "blurb": "AI startup Visorway raises pre-seed funding - Startupticker. AI startup Visorway raises pre-seed funding&nbsp;&nbsp;Startupticker",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/egoist-machines-raises-3m-seed/",
-      "priority": 9
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQWsxOXh6VElQMWxXazZJWWRuWHhNYWZ4MURyT1FyMThhN2VzUmdQbUU4LTNZTjJ6ZDBuZ21GcEZrYklsUUt1UGsycFFKazEybUo0TWxBMlFLUWhFMkpMa2FvT1NoeW52c3U0VXh3MnlvS2l4bl9DZ3RxbFRLX0c5NVYyT0lEd1U?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-10-08T04:46:18.657845-07:00"
+    "remind_at": "2026-10-08T11:24:55.592213-07:00"
   },
   {
     "item": {
-      "company": "Desible.ai",
-      "amount": "$3.3M",
+      "company": "Gudea",
+      "amount": "$7.0M",
       "stage": "Seed",
-      "investors": "Prime Venture Partners",
+      "investors": "Mudita Venture Partners, Silicon Road Ventures",
       "location": null,
-      "blurb": "Desible.ai Raises $3.3M Seed Extension. Desible.ai raises $3.3 million in a seed extension round led by Prime Venture Partners to scale its agentic AI workflow platform for the BFSI sector.",
+      "blurb": "Exclusive: Gudea Lands $7M To Predict Which Online Narratives Will Go Viral. Gudea has raised $7 million in seed funding, co-led by Mudita Venture Partners and Silicon Road Ventures, to help companies anticipate which online narratives will go viral and understand who is driving them, the startup tells Crunchbase News exclusively.",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/desible-ai-raises-3-3m-seed-extension/",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/",
       "priority": 9
     },
-    "remind_at": "2026-10-08T04:46:21.796901-07:00"
+    "remind_at": "2026-10-08T11:24:58.603807-07:00"
   },
   {
     "item": {
-      "company": "AblePay Health",
-      "amount": "$20.0M",
+      "company": "Rein Security",
+      "amount": "$25.0M",
       "stage": "Series A",
-      "investors": null,
+      "investors": "Glilot Capital, Sienna Venture Capital, Corner Ventures",
       "location": null,
-      "blurb": "AblePay Health Raises $20M Series A. AblePay Health raises $20M Series A led by F-Prime to scale its healthcare affordability and patient payment engagement technology platform.",
+      "blurb": "Rein Security raises $25M to rein in insecure AI agents. Rein Security Inc. said today it\u2019s trying to help enterprises protect themselves against two distinct security threats relating to agentic artificial intelligence after raising $25 million in early-stage funding from Glilot Capital, Sienna Venture Capital, Corner Ventures, Atlacle and RNP Capital Advisors today. The Series A round, which brings Rein\u2019s total amount raised so far [&#8230;]\nThe post Rein Security raises $25M to rein in insecu",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ablepay-health-raises-20m-series-a/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/08/rein-security-raises-25m-to-rein-in-insecure-ai-agents/",
       "priority": 8
     },
-    "remind_at": "2026-10-08T04:46:27.774041-07:00"
+    "remind_at": "2026-10-08T11:25:03.876803-07:00"
   },
   {
     "item": {
-      "company": "ByteXL",
-      "amount": "$9.0M",
-      "stage": "Series B",
-      "investors": "Elevar Equity",
+      "company": "Sequoia-backed Catalyst",
+      "amount": "$30.0M",
+      "stage": null,
+      "investors": "Sequoia",
       "location": null,
-      "blurb": "ByteXL Raises $9M Series B. ByteXL raises $9 million in a Series B round led by Elevar Equity to expand its B2B edtech platform and invest in AI-enabled learning tools.",
+      "blurb": "Sequoia-backed Catalyst raises $30 million to build AI trading agents for everyday investors - Fortune. Sequoia-backed Catalyst raises $30 million to build AI trading agents for everyday investors&nbsp;&nbsp;Fortune",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/bytexl-raises-9m-series-b/",
-      "priority": 7
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2J3SVhHMkxJMHlqVWF2WjZJSFF5dGtTcWQ1WDRJMkkzVVA1M2trVy1fZHpSb3BKZHkzdTluRml4Z251TlRfQ0tXYXdfc2VZbW9GWHVSYzJMc1JIRV8wenVMMDlGZFdGcm5DcFpuQlhwallCUHp5NVZ1eXkyeXdIWVpZQzV4Z2VkOVI5SFJNU1VIRnpzVjUxam56bmhLYk5la3VjM0t2a1J6a1BuOEl4SHNCVVhHMjQ?oc=5",
+      "priority": 6
     },
-    "remind_at": "2026-10-08T04:46:30.785652-07:00"
+    "remind_at": "2026-10-08T11:25:12.094621-07:00"
   },
   {
     "item": {
-      "company": "ElevenLabs",
-      "amount": "$320.0M",
+      "company": "Vesta",
+      "amount": "$30.0M",
+      "stage": null,
+      "investors": "Conversion Capital",
+      "location": null,
+      "blurb": "Vesta raises $30M to bring swarms of agents to mortgage lenders. Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+      "founders": [],
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-08T11:25:14.913696-07:00"
+  },
+  {
+    "item": {
+      "company": "Valon Technologies",
+      "amount": "$150.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "ElevenLabs, ICEYE backer Endeavor Catalyst closes oversubscribed $320M Fund V. Endeavor Catalyst has closed its oversubscribed $320 million Fund V, taking the venture platform&#8217;s assets under management above&#8230;",
+      "blurb": "Valon Technologies Raises $150M at $2.3B Valuation to Expand AI Mortgage Platform - citybiz. Valon Technologies Raises $150M at $2.3B Valuation to Expand AI Mortgage Platform&nbsp;&nbsp;citybiz",
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/elevenlabs-iceye-backer-endeavor-catalyst-closes-oversubscribed-320m-fund-v/",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRXF1ZXV2MEVIQ21maTZvc28tdXBka2lOOU80b294ZkNRUFZMTDVFa24tMXVBbVZuaEVzRE5vNG5VLXNoa1k1TzdxUDhnRlpCX09oZExwNU1wV2ZEV2l0YnVPQzZFUnctZXpVSTRjTjFpT2ZuNlBjWnRqYU9qZFVfY2ttV21FbWtwalgtT3B5RUlYYzQ5Q2d3UGt2MTdSS05oYmdURGo4Q3lMZEhhYUxBYXR5dGNjSm85Snc?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-10-08T04:46:33.931509-07:00"
-  },
-  {
-    "item": {
-      "company": "Agentiq",
-      "amount": "$4.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Agentiq Raises $4M in Funding. Agentiq raises $4M in funding led by defy.vc to launch its fintech platform allowing fans to invest in professional athletes careers.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/agentiq-raises-4m-unknown/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-08T04:46:36.944344-07:00"
-  },
-  {
-    "item": {
-      "company": "QualityLine",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "QualityLine Raises Strategic Investment. QualityLine receives a strategic investment from Circuit Check to integrate its AI-powered manufacturing analytics platform into automated test systems.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/qualityline-raises-strategic-investment/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-08T04:46:39.947078-07:00"
-  },
-  {
-    "item": {
-      "company": "CloudsineAI",
-      "amount": null,
-      "stage": null,
-      "investors": "V-Key",
-      "location": null,
-      "blurb": "CloudsineAI Secures Majority Investment. CloudsineAI receives a strategic majority investment from V-Key to enhance AI cybersecurity and identity governance infrastructure.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/cloudsineai-secures-majority-investment/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-08T04:46:42.934530-07:00"
+    "remind_at": "2026-10-08T11:25:17.736495-07:00"
   }
 ]
