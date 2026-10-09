@@ -1,1 +1,137 @@
-[]
+[
+  {
+    "item": {
+      "company": "Arena",
+      "amount": "$200.0M",
+      "stage": "Series B",
+      "investors": "Lightspeed and Khosla Ventures at a",
+      "location": null,
+      "blurb": "Arena Raises $200M Series B. Arena raises $200M Series B led by Lightspeed and Khosla Ventures at a $3.1B valuation to expand its AI evaluation and alignment platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/arena-raises-200m-series-b/",
+      "priority": 10
+    },
+    "remind_at": "2026-10-09T03:09:19.091386-07:00"
+  },
+  {
+    "item": {
+      "company": "Phantom GI",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Phantom GI raises $5M to turn ostomy surgery into a 20-minute needle procedure. Here\u2019s its pitch deck. Phantom GI has completed a $5 million seed round with Pitango HealthTech acting as the lead investor. The&#8230;",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/phantom-gi-raises-5m-seed-pitango-minimally-invasive-ostomy-percstoma/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-09T03:09:24.706839-07:00"
+  },
+  {
+    "item": {
+      "company": "Kip Corporation",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Kip Corporation Raises 1 Billion KRW Seed. Kip Corporation raises 1 billion KRW in seed funding to expand its AI-powered medical tourism platform Ippuda into international markets.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/kip-corporation-raises-1-billion-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-09T03:09:32.205044-07:00"
+  },
+  {
+    "item": {
+      "company": "TeddyHoldings.AI",
+      "amount": "$60.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "TeddyHoldings.AI Raises $60 Million in Seed Funding from Leading Investors to Transform Compliance and Client Service in Legal Services, and Announces Over $25 Million in Revenue - Yahoo Finance. TeddyHoldings.AI Raises $60 Million in Seed Funding from Leading Investors to Transform Compliance and Client Service in Legal Services, and Announces Over $25 Million in Revenue&nbsp;&nbsp;Yahoo Finance",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTk41ODhuQkRNcl9TS0pfNEFIZWx0Ty1SOFNUV3YzWUlOSG1zWjhqaFo0VGpDcncwUlZ2Z0ZaSUNXT0h2NFZCeS1XRlN0VUhlU1RjWGw2WGJOcXp3dkw0WUxzVlRnaHFJbGF5X3NzSXAySGstTmVzVWFGZ0ZJSlRQcnBzNzNoQjFOZzVVaWRwMnJQeXhQbjZlMnV2djQ4RWc?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-10-09T03:09:35.176319-07:00"
+  },
+  {
+    "item": {
+      "company": "Thrixel",
+      "amount": "$3.0M",
+      "stage": null,
+      "investors": "Sierra Ventures",
+      "location": null,
+      "blurb": "Thrixel Raises $3M Inception Funding. Thrixel raises $3 million in inception funding led by Sierra Ventures to scale its AI-native 3D generation platform for game development and AI agents.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/thrixel-raises-3m-seed/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-09T03:09:38.075877-07:00"
+  },
+  {
+    "item": {
+      "company": "Meanwhile",
+      "amount": "$37.5M",
+      "stage": null,
+      "investors": "Bain Capital",
+      "location": null,
+      "blurb": "Meanwhile Raises $37.5M in Funding. Meanwhile raises $37.5M from investors including Bain Capital Crypto to expand its Bitcoin-denominated life insurance offerings for international clients.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/meanwhile-raises-37-5m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-09T03:09:41.105041-07:00"
+  },
+  {
+    "item": {
+      "company": "Tasklet",
+      "amount": "$12.8M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Tasklet Raises $12.8M in Funding. Tasklet raises $12.8 million in a funding round at a $500 million valuation to scale its enterprise cloud AI agent operating system.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/tasklet-raises-12-8m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-09T03:09:44.117737-07:00"
+  },
+  {
+    "item": {
+      "company": "OllyGarden",
+      "amount": "$4.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "OllyGarden Raises $4M in Funding. OllyGarden raises $4M in funding to enhance its AI-powered observability platform and launch its new Minimum Viable Instrumentation tool.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ollygarden-raises-4m-venture-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-09T03:09:47.275851-07:00"
+  },
+  {
+    "item": {
+      "company": "Stord",
+      "amount": "$400.0M",
+      "stage": null,
+      "investors": "Citi",
+      "location": null,
+      "blurb": "Stord Raises $400M Credit Facility. Stord raises a $400 million credit facility round led by Citi to expand its fulfillment network, robotics, and commerce AI capabilities.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/stord-raises-400m-credit-facility/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-09T03:09:50.337002-07:00"
+  }
+]
