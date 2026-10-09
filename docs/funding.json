@@ -1,5 +1,35 @@
 [
   {
+    "id": "e9d5936d5369d820f88c0ace5abfd788",
+    "company": "MintNeuro",
+    "amount": "$5.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Tech Funding News",
+    "url": "https://techfundingnews.com/mintneuro-raises-5m-to-build-brain-implant-chips-and-bring-these-closer-to-patients/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-09T09:36:10.175392-07:00",
+    "status": "active"
+  },
+  {
+    "id": "52494debe84b7edcc4a2b14664deef9e",
+    "company": "TypeSafe AI",
+    "amount": "$870.0M",
+    "stage": "?",
+    "investors": "Andreessen Horowitz at",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNczBmbTZnSHRuNDNTckdJdlpiWXJKMUU3aHFUUG1Fb3VvY3piei1JUXpHQ2JYLXRuMktSMF9qblVhTGtSMkhyOHdaLVJvUnYxM3FNd2M5eThIUVp2ZzlJNHB2clJBQm9Ndld6VHZQNnpBQks3QXJNY1hsbENMTlVuS0ZmYXpndUVfOW5ReTdIc0lSMTRxMmRVR3hhSXdDRzM2LVlieFNpNGRqTUFKYV8xU0tQNVJ3bmVkM2FtZUdKNE1FN1B1bVRTbUlnbS1yTWNFSUJHTW5oNHNVX3JJWjNDWWI1UXJ4WHp5TFczd2FMdlMzVTVQbW9xOFdhQVVqcl9kWGRwZnQtTmp2aFpRckl6Uzh3?oc=5",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-09T09:36:07.188822-07:00",
+    "status": "active"
+  },
+  {
     "id": "3efee1bb385d3d1a745f7e8ad7862795",
     "company": "Stord",
     "amount": "$400.0M",
