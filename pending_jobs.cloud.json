@@ -1,19 +1,36 @@
 [
   {
     "job": {
-      "title": "Cre8Direct is seeking a Product Designer, Stationery and Retail Products",
-      "company": "Unknown",
-      "location": "Remote",
-      "url": "https://www.coroflot.com/design-jobs/Product-Designer-Stationery-and-Retail-Products-Cre8Direct-Irving-TX-684188",
-      "salary": "See posting",
-      "description": "Irving, TX",
+      "title": "Evergreen  - Product Design Intern (2027 Start)",
+      "company": "Databricks",
+      "location": "San Francisco, California; Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002",
+      "salary": "Not listed",
+      "description": "",
       "posted_at": "Recently",
-      "source": "Coroflot",
+      "source": "Databricks",
       "relevant": true,
       "is_new_grad": false,
-      "is_big_tech": false,
+      "is_big_tech": true,
       "visa": null
     },
-    "remind_at": "2026-10-09T14:47:40.626044-07:00"
+    "remind_at": "2026-10-09T18:35:08.893370-07:00"
+  },
+  {
+    "job": {
+      "title": "Evergreen - Product Design New Grad (2027 Start)",
+      "company": "Databricks",
+      "location": "San Francisco, California; Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002",
+      "salary": "Not listed",
+      "description": "",
+      "posted_at": "Recently",
+      "source": "Databricks",
+      "relevant": true,
+      "is_new_grad": true,
+      "is_big_tech": true,
+      "visa": null
+    },
+    "remind_at": "2026-10-09T18:35:10.604505-07:00"
   }
 ]
