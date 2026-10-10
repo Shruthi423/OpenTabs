@@ -1,5 +1,20 @@
 [
   {
+    "id": "2d62dab666bc2fe966622e80bea3a63d",
+    "company": "Big Tech",
+    "amount": "$700.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/10/10/big-tech-bill-miller-wellsky-bet-on-healthcare/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-10T06:39:48.893662-07:00",
+    "status": "active"
+  },
+  {
     "id": "c09443a2774167a5cc52a818f41e759d",
     "company": "Valon",
     "amount": "$150.0M",

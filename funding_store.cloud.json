@@ -4610,5 +4610,21 @@
     "roles": [],
     "first_seen": "2026-10-09T18:05:33.325381-07:00",
     "status": "active"
+  },
+  "2d62dab666bc2fe966622e80bea3a63d": {
+    "id": "2d62dab666bc2fe966622e80bea3a63d",
+    "company": "Big Tech",
+    "amount": "$700.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/10/10/big-tech-bill-miller-wellsky-bet-on-healthcare/",
+    "priority": 3,
+    "blurb": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off. Healthcare has something many industries lack: a clear place to put the productivity gains AI creates.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-10T06:39:48.893662-07:00",
+    "status": "active"
   }
 }
