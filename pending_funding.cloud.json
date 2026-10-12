@@ -1,92 +1,152 @@
 [
   {
     "item": {
-      "company": "Hone",
-      "amount": "$60.0M",
+      "company": "Loops",
+      "amount": "$3.5M",
       "stage": "Seed",
-      "investors": "Benchmark, Index Ventures",
+      "investors": "Andreessen Horowitz, Alumni Ventures, Monday Capital",
       "location": null,
-      "blurb": "Hone Raises $60M Seed. Hone raises a $60 million seed round led by Benchmark and Index Ventures to develop autonomous AI agents for business operations at a $285 million valuation.",
+      "blurb": "E-commerce AI startup Loops raises $3.5M to create smoother online shopping experiences. Agentic e-commerce startup Loops Smart AI wants to help online retailers create more seamless buying journeys and streamline the shopping experience after raising $3.5 million in seed funding today. Andreessen Horowitz\u2019s a16z speedrun accelerator led the round, with NTT Docomo, Connecticut Innovations, Alumni Ventures and Monday Capital all participating. These days, most online retailers have [&#8230;]\nThe ",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hone-raises-60m-seed/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/12/e-commerce-ai-startup-loops-raises-3-5m-to-create-smoother-online-shopping-experiences/",
       "priority": 12
     },
-    "remind_at": "2026-10-12T00:02:51.952818-07:00"
+    "remind_at": "2026-10-12T09:39:01.389774-07:00"
   },
   {
     "item": {
-      "company": "Alo Hakeem",
+      "company": "Proximal",
+      "amount": "$15.0M",
+      "stage": "Seed",
+      "investors": "General Catalyst",
+      "location": null,
+      "blurb": "Proximal Raises $15M Seed. Proximal raises $15M seed round led by General Catalyst at a $300M valuation to expand its AI coding data and infrastructure research platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/proximal-raises-15m-seed/",
+      "priority": 12
+    },
+    "remind_at": "2026-10-12T09:39:04.318784-07:00"
+  },
+  {
+    "item": {
+      "company": "Preference Model",
+      "amount": "$16.0M",
+      "stage": "Seed",
+      "investors": "Andreessen Horowitz",
+      "location": null,
+      "blurb": "Preference Model Raises $16M Seed. Preference Model raises $16 million in a seed round led by Andreessen Horowitz to develop reinforcement learning infrastructure for AI alignment.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/preference-model-raises-16m-seed/",
+      "priority": 12
+    },
+    "remind_at": "2026-10-12T09:39:09.885041-07:00"
+  },
+  {
+    "item": {
+      "company": "Doris Labs",
       "amount": null,
       "stage": "Pre-Seed",
-      "investors": "Ebla Ventures",
+      "investors": "Fuel Ventures",
       "location": null,
-      "blurb": "Alo Hakeem Raises $165,000 Pre-seed. Alo Hakeem raises $165,000 in pre-seed funding led by Ebla Ventures to expand its home healthcare platform and infrastructure across Syria.",
+      "blurb": "Doris Labs Raises $600,000 Pre-seed. Doris Labs raises $600,000 in pre-seed funding led by Fuel Ventures to develop its GTM AI semantic layer for sales teams.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/alo-hakeem-raises-165000-pre-seed/",
+      "url": "https://www.thesaasnews.com/news/doris-labs-raises-600000-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-10-12T00:02:57.729000-07:00"
+    "remind_at": "2026-10-12T09:39:12.881115-07:00"
   },
   {
     "item": {
-      "company": "Orca Fraud",
-      "amount": "$2.35M",
-      "stage": "Seed",
+      "company": "Outro",
+      "amount": "$7.0M",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
-      "blurb": "Orca Fraud Raises $2.35M Seed. Orca Fraud raises $2.35M in seed funding led by Norrsken22 to expand its real-time fraud intelligence platform across emerging global markets.",
+      "blurb": "Outro Raises $7M in Funding. Outro raises $7 million in pre-seed and seed funding to expand its AI-supported deprescribing platform for patients discontinuing psychiatric medications.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/orca-fraud-raises-2-35m-seed/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/outro-raises-7m-pre-seed-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-10-12T00:03:03.389317-07:00"
+    "remind_at": "2026-10-12T09:39:15.940894-07:00"
   },
   {
     "item": {
-      "company": "Pave Finance",
-      "amount": "$5.0M",
+      "company": "Ultra Robotics",
+      "amount": "$50.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
-      "blurb": "Pave Finance Raises $5M Series A Extension. Pave Finance raises $5 million in a Series A extension to grow its engineering and market-facing teams for its AI portfolio management platform.",
+      "blurb": "Ultra Robotics Raises $50M in Series A Funding - FinSMEs. Ultra Robotics Raises $50M in Series A Funding&nbsp;&nbsp;FinSMEs",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pave-finance-raises-5m-series-a-extension/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYnBlYmZSVzAwMXA0aVhabkVLQ3MzajB4ckhZRTU5UXh6QXAxWG1zNEVYb3lxdHR1UG5KcGthR2VmdHNBcFNJN09PR2thZmlKcmJfLWdIVFRNNDM3VXNhYnJhc2lRX1EzX0dXT3pNTG5WYVVULTZDQ1pMNUJRR0pmX0s0SkgwTE1vR2c?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-10-12T00:03:08.987150-07:00"
+    "remind_at": "2026-10-12T09:39:21.997390-07:00"
   },
   {
     "item": {
-      "company": "Voltus",
-      "amount": "$225.0M",
-      "stage": "Series D",
-      "investors": "Generation Investment Management, Activate Capital",
-      "location": null,
-      "blurb": "Voltus Raises $225M Series D. Voltus raises $225M in a Series D round led by Generation Investment Management, Activate Capital, and Vitol to scale its distributed energy platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/voltus-raises-225m-series-d/",
-      "priority": 5
-    },
-    "remind_at": "2026-10-12T00:03:12.137763-07:00"
-  },
-  {
-    "item": {
-      "company": "Manus",
-      "amount": "$500.0M",
+      "company": "Sequoia-backed Nuvacore",
+      "amount": "$2.5B",
       "stage": null,
-      "investors": "Boyu Capital, IDG Capital",
+      "investors": "Sequoia",
       "location": null,
-      "blurb": "Manus Raises $500M at $4B Valuation. Manus raises over $500M in a new funding round co-led by Boyu Capital and IDG Capital to expand its autonomous AI agent platform and workforce solutions.",
+      "blurb": "Sequoia-backed Nuvacore seeks $2.5B valuation with no product yet: Can ex-Apple pedigree win AI\u2019s CPU race?. Nuvia, the chip startup Gerard Williams sold to Qualcomm for $1.4 billion in 2021, never announced a product.&#8230;",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/manus-raises-500m-other/",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/sequoia-backed-nuvacore-seeks-2-5b-valuation-with-no-product-yet-can-ex-apple-pedigree-win-ais-cpu-race/",
+      "priority": 6
+    },
+    "remind_at": "2026-10-12T09:39:28.878250-07:00"
+  },
+  {
+    "item": {
+      "company": "Amazon",
+      "amount": "$7.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Top Tech News Today, October 12, 2026: Amazon, Anthropic, AMD, Google, IonQ, Microsoft, Tencent & More. It\u2019s Monday, October 12, 2026, and the AI infrastructure race is entering a new phase. Microsoft is preparing to deploy its own AI chips at massive scale to reduce reliance on Nvidia, Amazon is reportedly pursuing a $7 billion acquisition [&#8230;]\nThe post Top Tech News Today, October 12, 2026: Amazon, Anthropic, AMD, Google, IonQ, Microsoft, Tencent & More first appeared on Tech Startups.",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/12/top-tech-news-today-october-12-2026-amazon-anthropic-amd-google-ionq-microsoft-tencent-more/",
       "priority": 3
     },
-    "remind_at": "2026-10-12T00:03:15.161247-07:00"
+    "remind_at": "2026-10-12T09:39:34.622960-07:00"
+  },
+  {
+    "item": {
+      "company": "CCK Solution",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "CCK Solution Raises Strategic Investment from Rebellions. CCK Solution has secured a strategic investment from Rebellions to integrate its AI workplace platform with neural processing units for enterprise use.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ai-workplace-platform-cck-solution-raises-strategic-investment-from-ai-chip-company-rebellions/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-12T09:39:40.285435-07:00"
+  },
+  {
+    "item": {
+      "company": "Kutlerri.ai",
+      "amount": "$4.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Kutlerri.ai Raises $4M in Funding. Kutlerri.ai raises $4 million from Narahari Investments to expand its AI-powered sales and cost-optimization agents for the restaurant industry.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/kutlerri-ai-raises-4m-unknown/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-12T09:39:43.789766-07:00"
   }
 ]
