@@ -59,7 +59,7 @@
     "first_seen": "2026-09-22T03:22:08.509836-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T05:54:20.003893-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "bdb14dafce4b23a44f92807bbc0a78ec": {
@@ -80,7 +80,7 @@
     "first_seen": "2026-09-22T03:22:10.327840-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T05:54:20.003893-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "b3f6c7a25c8e1b2266ff9b918206d756": {
@@ -961,7 +961,7 @@
     "first_seen": "2026-09-25T13:31:13.682021-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T05:54:20.003893-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "9b5008e7ef44e7aa93576170ad5cbe6d": {
@@ -982,7 +982,7 @@
     "first_seen": "2026-09-25T16:29:08.186164-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T05:54:20.003893-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "0b53bb078bcdfad538d6de9257c13b28": {
@@ -1003,7 +1003,7 @@
     "first_seen": "2026-09-25T23:58:26.843452-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T05:54:20.003893-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "a27e55f022a665878d9168005b7f8929": {
@@ -1024,7 +1024,7 @@
     "first_seen": "2026-09-26T09:21:50.447862-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T05:54:20.003893-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "2902d8a345ff5337c71f312e2d5ddbfb": {
@@ -1045,7 +1045,7 @@
     "first_seen": "2026-09-26T17:34:54.255684-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T05:54:20.003893-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "32725013c67fe8cb2d1a5efa16103d13": {
@@ -1569,7 +1569,7 @@
     "first_seen": "2026-09-28T07:31:12.303490-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T05:54:20.003893-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "b9db683856b5ba571d0eed5221c38a11": {
@@ -2390,7 +2390,7 @@
     "first_seen": "2026-10-05T00:01:25.260635-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-10T23:14:28.311698-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "ac71f9b11e8f76f0806cdd232f03ec17": {
@@ -2411,7 +2411,7 @@
     "first_seen": "2026-10-05T00:01:27.143654-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-10T23:14:28.311698-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "e414d3db5614404cfab4ab421408e910": {
@@ -2432,7 +2432,7 @@
     "first_seen": "2026-10-05T08:59:32.403620-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-10T23:14:28.311698-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "00d77e864b873b6a69b801c22082ae11": {
@@ -2516,7 +2516,7 @@
     "first_seen": "2026-10-05T08:59:38.912829-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-10T23:14:28.311698-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "91f56950d4827dca29bf6853d018545d": {
@@ -2537,7 +2537,7 @@
     "first_seen": "2026-10-05T08:59:40.674820-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-10T23:14:28.311698-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "8dff198c748de4ebb30af80c69ccf7a5": {
@@ -2558,7 +2558,7 @@
     "first_seen": "2026-10-05T08:59:42.374785-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-10T23:14:28.311698-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "10d58ed65aa0293a46bd949366692b51": {
@@ -2579,7 +2579,7 @@
     "first_seen": "2026-10-05T08:59:43.931941-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-10T23:14:28.311698-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "9788a7c45848535ef3f8753588cfc1ee": {
@@ -2600,7 +2600,7 @@
     "first_seen": "2026-10-05T08:59:45.491665-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-10T23:14:28.311698-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "b4c6ad471ee036c9880baf96ed96ad9c": {
@@ -2621,7 +2621,7 @@
     "first_seen": "2026-10-05T08:59:47.208740-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-10T23:14:28.311698-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "f22d834424a32faf63ba2c036b42832c": {
@@ -2642,7 +2642,7 @@
     "first_seen": "2026-10-05T08:59:48.824863-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-10T23:14:28.311698-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "d4d7d41ced439a64511d0db47e75808b": {
@@ -2663,7 +2663,7 @@
     "first_seen": "2026-10-05T08:59:50.524414-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-10T23:14:28.311698-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "496c1b221e37c8f7cfb5d284d66b687a": {
@@ -2684,7 +2684,7 @@
     "first_seen": "2026-10-05T08:59:52.263199-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-10T23:14:28.311698-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "926f19a55f28704f9fb515498704d3c2": {
@@ -2705,7 +2705,7 @@
     "first_seen": "2026-10-05T08:59:53.963797-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-10T23:14:28.311698-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "6500c8e64fb9f702191c3f6e64a82c3d": {
@@ -2726,7 +2726,7 @@
     "first_seen": "2026-10-05T08:59:55.534317-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-10T23:14:28.311698-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "2349a6896688dd963d350fd27595214c": {
@@ -3438,7 +3438,7 @@
     "first_seen": "2026-10-07T21:00:43.121369-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-10T23:14:28.311698-07:00",
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
     "dead_strikes": 0
   },
   "ca861399d7d29ce5287a6adc986a1c49": {
@@ -3605,7 +3605,9 @@
     "priority": 5,
     "first_seen": "2026-10-09T09:35:42.023904-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
+    "dead_strikes": 0
   },
   "0cfdfff14010103e97eab724de63c087": {
     "id": "0cfdfff14010103e97eab724de63c087",
@@ -3624,7 +3626,9 @@
     "priority": 5,
     "first_seen": "2026-10-09T14:17:39.965292-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-12T15:56:35.070484-07:00",
+    "dead_strikes": 0
   },
   "a22652aedb72a2354e48db6b4ced0310": {
     "id": "a22652aedb72a2354e48db6b4ced0310",
@@ -4079,6 +4083,120 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-10-12T09:08:24.132935-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "d66bb1a6e6605bf1bd626f0770f968cd": {
+    "id": "d66bb1a6e6605bf1bd626f0770f968cd",
+    "title": "UX Designer",
+    "company": "AUTOSOL (Automation Solutions, LP)",
+    "location": "Houston, United States",
+    "salary": "Not listed",
+    "url": "https://autosoln.com/job-postings/ux-designer",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "About AUTOSOLSince 1987, AUTOSOL has helped industrial companies collect and use their operational data. Our software connects thousands of field devices to SCADA systems and brings real-time, historical and edge data into one place for companies in oil and gas, water and wastewater, and building au",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-10-12T15:57:41.659800-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "77cd76b4a25063f451c2df66e7c49008": {
+    "id": "77cd76b4a25063f451c2df66e7c49008",
+    "title": "2027 Summer Intern Consumer Experience Product Design Cambridge MA",
+    "company": "Sanofi",
+    "location": "Cambridge, United States",
+    "salary": "Not listed",
+    "url": "https://jobs.biospace.com/job/3082620/2027-summer-intern-consumer-experience-product-design-cambridge-ma?TrackID=433984",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "About the JobLooking to launch your career at the cutting edge of healthcare? Join Sanofi for a chance to develop with mentoring and guidance from inspirational leaders while helping to make an impact on the lives of countless people worldwide. We are seeking a highly motivated Summer intern to join",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-10-12T15:57:43.344615-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "fcebd780bb1f2a28f51925c67a342779": {
+    "id": "fcebd780bb1f2a28f51925c67a342779",
+    "title": "User Experience Design Intern",
+    "company": "American Electric Power",
+    "location": "Columbus, United States",
+    "salary": "Not listed",
+    "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/User-Experience-Design-Intern_R20054",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Job SummaryAs a User Experience Design Intern, you will join the User Experience team within AEP's Information Technology organization, creating effective digital experiences for customers, employees, and business partners. You will help make it easier for customers to do business with AEP and suppo",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-10-12T15:57:45.091385-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "d018b09186e65e6a796cecf2d1f5442d": {
+    "id": "d018b09186e65e6a796cecf2d1f5442d",
+    "title": "User Experience Design Internship - Summer 2027",
+    "company": "IDEMIA",
+    "location": "Reston, United States",
+    "salary": "Not listed",
+    "url": "https://uscareers-idemia.icims.com/jobs/8660/user-experience-design-internship---summer-2027/job",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "IDEMIA Public Security, a division of IDEMIA Group, is the leading provider of secure and trusted biometric-based solutions, transforming public and private organizations across the globe. Our industry-enabled and client-specific solutions draw upon decades of expertise in biometrics to revolutioniz",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-10-12T15:57:46.878661-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "5109388face5fcd460d81ed6b9d4755a": {
+    "id": "5109388face5fcd460d81ed6b9d4755a",
+    "title": "Associate User Experience Designer (Remote)",
+    "company": "Availity",
+    "location": "Remote (Remote)",
+    "salary": "Not listed",
+    "url": "https://availity.wd1.myworkdayjobs.com/Availity_Careers_US/job/Remote---United-States/Associate-User-Experience-Designer--Remote-_R0008494",
+    "source": "OpenDoors",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Availity delivers revenue cycle and related business solutions for health care professionals who want to build healthy, thriving organizations. Availity has the powerful tools, actionable insights and expansive network reach that medical businesses need to get an edge in an industry constantly redef",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-10-12T15:57:48.703126-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "4aea056fade0707d375d671fec1933bf": {
+    "id": "4aea056fade0707d375d671fec1933bf",
+    "title": "User Experience Design Intern, BS/MS, Summer 2027",
+    "company": "Google",
+    "location": "Mountain View, United States",
+    "salary": "Not listed",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/100798001798095558-user-experience-design-intern",
+    "source": "OpenDoors",
+    "is_new_grad": true,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "description": "Application DetailsPlease complete your application before&nbsp;October 9, 2026.Applications will be reviewed on a rolling basis and it\u2019s in a candidate\u2019s best interest to apply early. Timing on when you can hear back will vary and can take upwards of 90+ days. If you haven\u2019t heard from us in three",
+    "posted_at": "Recently",
+    "priority": 2,
+    "first_seen": "2026-10-12T15:57:50.530275-07:00",
     "status": "active",
     "applied_at": null
   }
