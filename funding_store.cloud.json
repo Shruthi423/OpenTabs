@@ -5170,5 +5170,53 @@
     "roles": [],
     "first_seen": "2026-10-13T03:54:32.398775-07:00",
     "status": "active"
+  },
+  "f5a1fa54c599fa92bc1536205e9c32ba": {
+    "id": "f5a1fa54c599fa92bc1536205e9c32ba",
+    "company": "Fifth Wall\u2019s Brendan Wallace",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/real-estate-proptech-ai-startups-qa-wallace-fifth-wall/",
+    "priority": 3,
+    "blurb": "Fifth Wall\u2019s Brendan Wallace On Why The Best Proptech Bets May Not Look Like Proptech. In a recent interview with Crunchbase News, Brendan Wallace, founder, CEO and chief investment officer of Fifth Wall, discussed the AI shift, why proptech funding totals may overlook some of the sector\u2019s biggest investments, what it all means for founders, and the housing problems he believes still need solving.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-13T10:54:58.731088-07:00",
+    "status": "active"
+  },
+  "d6ababa976eb24da65d504b82f270bf0": {
+    "id": "d6ababa976eb24da65d504b82f270bf0",
+    "company": "Brellium",
+    "amount": "$23.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/10/13/brellium-raises-23m-to-catch-medical-billing-errors-with-ai-and-protect-healthcare-providers-from-costly-audits/",
+    "priority": 3,
+    "blurb": "Brellium raises $23M to catch medical billing errors with AI and protect healthcare providers from costly audits. New York-based healthcare AI startup\u00a0Brellium has raised $23 million in venture funding to help healthcare providers catch medical billing errors, identify gaps in patient care, and avoid costly insurance audits before problems become\u00a0financial losses. The company announced the funding alongside [&#8230;]\nThe post Brellium raises $23M to catch medical billing errors with AI and prote",
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-10-13T10:55:01.680086-07:00",
+    "status": "active"
+  },
+  "578b7d0a337b6dce1602e5293bd18b11": {
+    "id": "578b7d0a337b6dce1602e5293bd18b11",
+    "company": "Allara",
+    "amount": "$30.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "AlleyWatch",
+    "url": "https://www.alleywatch.com/2026/10/allara-virtual-womens-health-care-insurance-covered-hormonal-ai-rachel-blank/",
+    "priority": 3,
+    "blurb": "Allara Raises $30M to Give Women One Care Team for Hormonal, Metabolic and Reproductive Health. Rachel Blank spent about three years and more doctors than she could count chasing an answer about her own body. That search became a company that has served 120,000 women, and investors pressed her on one question above all: would AI replace the doctors? Find out how Allara, which just raised $30M to bring total funding to $75M, plans to use AI to give clinicians more time with patients, and why Blan",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-13T10:55:04.667432-07:00",
+    "status": "active"
   }
 }

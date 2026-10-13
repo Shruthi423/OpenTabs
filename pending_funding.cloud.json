@@ -1,122 +1,47 @@
 [
   {
     "item": {
-      "company": "Leela",
-      "amount": "$4.6M",
-      "stage": "Seed",
-      "investors": "Founders Fund, Array Ventures, Female Founders Fund",
-      "location": null,
-      "blurb": "Leela Raises $4.6M Seed. Leela raises $4.6M in a seed round led by Array Ventures and Female Founders Fund to expand its generative AI compliance platform for financial firms.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/leela-raises-4-6m-seed/",
-      "priority": 12
-    },
-    "remind_at": "2026-10-13T04:24:02.384623-07:00"
-  },
-  {
-    "item": {
-      "company": "Avarra",
-      "amount": "$17.0M",
-      "stage": "Series A",
-      "investors": "Duration Ventures",
-      "location": null,
-      "blurb": "Avarra Raises $17M Series A. Avarra raises $17M Series A led by Duration Ventures to scale its AI avatar platform for upskilling go-to-market and sales teams.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/avarra-raises-17m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-10-13T04:24:05.340294-07:00"
-  },
-  {
-    "item": {
-      "company": "CarbonFarm",
-      "amount": "$7.8M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "CarbonFarm Raises $7.8M Series A. CarbonFarm raises $7.8M in a Series A round led by Colam Impact to expand its AI-powered rice decarbonisation and MRV platform globally.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/carbonfarm-raises-7-8m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-10-13T04:24:09.273383-07:00"
-  },
-  {
-    "item": {
-      "company": "Jev-Maker TypeSafeAI",
-      "amount": "$870.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Jev-Maker TypeSafeAI Raises $870M Series A to Scale AI Automation Platform - citybiz. Jev-Maker TypeSafeAI Raises $870M Series A to Scale AI Automation Platform&nbsp;&nbsp;citybiz",
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSDNQTmljclVHQ1BYbVYwbXBGaVdLWkF5dTJqYXdwRG56Q3BEbU55UF9lU2h4T2hZSHd5dURmWVlDYXExM0c1OXFMRXhhTDRjN3ZhRWdzMnY1RmtjUWhibDI1QzZsb2R2aTdpOTZqVjBMbXVuY0tKMHdtcHMxcDhZeG5kVjJFVGl3dWlXWnRsdmFqeHVlVnVUY1I4QXhPQ19HZGpyTDhNaTBaNkFfMEl1bTJR?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-10-13T04:24:17.089507-07:00"
-  },
-  {
-    "item": {
-      "company": "Causa Prima",
-      "amount": "$20.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Startup Causa Prima raises $20 million to tackle billing disputes with AI agents. Backed by Base10, Causa Prima\u2019s software lets buyers\u2019 and suppliers\u2019 AI agents negotiate payment terms.",
-      "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/10/13/startup-causa-prima-20-million-billing-disputes-ai-agents/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-13T04:24:22.468420-07:00"
-  },
-  {
-    "item": {
-      "company": "Immunomatics",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": "AI",
-      "blurb": "Immunomatics Raises $100,000 Strategic Investment. Immunomatics raises $100,000 in funding from Myosotis Investments to advance its AI-based transplant donor-recipient risk assessment platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/immunomatics-raises-100000-strategic-investment/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-13T04:24:25.300934-07:00"
-  },
-  {
-    "item": {
-      "company": "OptimizeGEO",
+      "company": "Fifth Wall\u2019s Brendan Wallace",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "OptimizeGEO Raises Funding Round. OptimizeGEO has raised an undisclosed amount of funding to scale its generative engine optimization agentic platform for global brands.",
+      "blurb": "Fifth Wall\u2019s Brendan Wallace On Why The Best Proptech Bets May Not Look Like Proptech. In a recent interview with Crunchbase News, Brendan Wallace, founder, CEO and chief investment officer of Fifth Wall, discussed the AI shift, why proptech funding totals may overlook some of the sector\u2019s biggest investments, what it all means for founders, and the housing problems he believes still need solving.",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/optimizegeo-raises-undisclosed-unknown/",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/real-estate-proptech-ai-startups-qa-wallace-fifth-wall/",
       "priority": 3
     },
-    "remind_at": "2026-10-13T04:24:28.354199-07:00"
+    "remind_at": "2026-10-13T11:24:57.730928-07:00"
   },
   {
     "item": {
-      "company": "Sonilo",
-      "amount": "$11.0M",
+      "company": "Brellium",
+      "amount": "$23.0M",
       "stage": null,
-      "investors": "B Capital",
-      "location": null,
-      "blurb": "Sonilo Raises $11M in Funding. Sonilo, a generative audio startup founded by TikTok veterans, has raised $11 million in a funding round led by B Capital to scale its AI platform.",
+      "investors": null,
+      "location": "New York",
+      "blurb": "Brellium raises $23M to catch medical billing errors with AI and protect healthcare providers from costly audits. New York-based healthcare AI startup\u00a0Brellium has raised $23 million in venture funding to help healthcare providers catch medical billing errors, identify gaps in patient care, and avoid costly insurance audits before problems become\u00a0financial losses. The company announced the funding alongside [&#8230;]\nThe post Brellium raises $23M to catch medical billing errors with AI and prote",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sonilo-raises-11m-other/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/13/brellium-raises-23m-to-catch-medical-billing-errors-with-ai-and-protect-healthcare-providers-from-costly-audits/",
       "priority": 3
     },
-    "remind_at": "2026-10-13T04:24:31.398582-07:00"
+    "remind_at": "2026-10-13T11:25:00.679928-07:00"
+  },
+  {
+    "item": {
+      "company": "Allara",
+      "amount": "$30.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Allara Raises $30M to Give Women One Care Team for Hormonal, Metabolic and Reproductive Health. Rachel Blank spent about three years and more doctors than she could count chasing an answer about her own body. That search became a company that has served 120,000 women, and investors pressed her on one question above all: would AI replace the doctors? Find out how Allara, which just raised $30M to bring total funding to $75M, plans to use AI to give clinicians more time with patients, and why Blan",
+      "founders": [],
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/10/allara-virtual-womens-health-care-insurance-covered-hormonal-ai-rachel-blank/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-13T11:25:03.667290-07:00"
   }
 ]

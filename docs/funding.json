@@ -1,5 +1,35 @@
 [
   {
+    "id": "578b7d0a337b6dce1602e5293bd18b11",
+    "company": "Allara",
+    "amount": "$30.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "AlleyWatch",
+    "url": "https://www.alleywatch.com/2026/10/allara-virtual-womens-health-care-insurance-covered-hormonal-ai-rachel-blank/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-13T10:55:04.667432-07:00",
+    "status": "active"
+  },
+  {
+    "id": "f5a1fa54c599fa92bc1536205e9c32ba",
+    "company": "Fifth Wall\u2019s Brendan Wallace",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/real-estate-proptech-ai-startups-qa-wallace-fifth-wall/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-13T10:54:58.731088-07:00",
+    "status": "active"
+  },
+  {
     "id": "68a1ec8cacaf9b71387aff67f524b922",
     "company": "Sonilo",
     "amount": "$11.0M",
