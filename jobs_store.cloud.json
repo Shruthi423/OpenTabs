@@ -353,7 +353,7 @@
     "first_seen": "2026-09-22T08:06:17.569451-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "fe6321fc181e5be2bf77cd3a37c33b97": {
@@ -374,7 +374,7 @@
     "first_seen": "2026-09-22T08:06:19.160001-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T14:21:30.701522-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "10f8ad78623cfa0a4596ebd90a2efde2": {
@@ -395,7 +395,7 @@
     "first_seen": "2026-09-22T08:06:21.361538-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T14:21:30.701522-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "0423a63376758c2fbb85b86765a34695": {
@@ -416,7 +416,7 @@
     "first_seen": "2026-09-22T08:06:23.035073-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T14:21:30.701522-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "59befdba3968c7ac0efae46fa3fc4e74": {
@@ -437,7 +437,7 @@
     "first_seen": "2026-09-22T08:06:24.677509-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T14:21:30.701522-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "782f6fee1e2011cb71d2de479e471fde": {
@@ -1066,7 +1066,7 @@
     "first_seen": "2026-09-27T04:11:58.830874-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "6525d9fbcb976e34664293e55985f5fb": {
@@ -1087,7 +1087,7 @@
     "first_seen": "2026-09-27T18:00:39.766190-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "c56a4b9192d8b416d883f083d2dfc30f": {
@@ -1108,7 +1108,7 @@
     "first_seen": "2026-09-28T07:30:00.351492-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "005207f1d0454fa2a41cc3f1cf47a274": {
@@ -1129,7 +1129,7 @@
     "first_seen": "2026-09-28T07:30:02.022638-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "e3239939cb6c168702c5e80a1a77e4e8": {
@@ -1150,7 +1150,7 @@
     "first_seen": "2026-09-28T07:30:03.916536-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "4ab550a49700c2d85cd721ac63118e89": {
@@ -1171,7 +1171,7 @@
     "first_seen": "2026-09-28T07:30:05.753400-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "9f9496bfe8c4a6d5eb95dfe1f7d6cf18": {
@@ -1192,7 +1192,7 @@
     "first_seen": "2026-09-28T07:30:07.652048-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00"
+    "checked_at": "2026-10-13T03:52:22.948279-07:00"
   },
   "c9a4c8df018f48a8f46d5627827bd2a6": {
     "id": "c9a4c8df018f48a8f46d5627827bd2a6",
@@ -1212,7 +1212,7 @@
     "first_seen": "2026-09-28T07:30:11.391639-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "5e6d43dcd034d8d641e149b60ae4eae4": {
@@ -1233,7 +1233,7 @@
     "first_seen": "2026-09-28T07:30:13.235535-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "f3fa66f73fd78fee4d0a708d7effc8d3": {
@@ -2159,7 +2159,7 @@
     "first_seen": "2026-10-01T17:01:42.112198-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "8f1900a1743ac8553046a676d6d1f13f": {
@@ -2180,7 +2180,7 @@
     "first_seen": "2026-10-01T17:01:44.024355-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "06139a1e141a16e7a0ddc9c5ce28b3ed": {
@@ -2956,7 +2956,7 @@
     "first_seen": "2026-10-05T09:00:43.492310-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "fe3385b653b77c1c26ee1d2e92f08f68": {
@@ -2977,7 +2977,7 @@
     "first_seen": "2026-10-05T09:00:45.382936-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "7a8815a727eb4ec7c0bd98a91ceb521e": {
@@ -2998,7 +2998,7 @@
     "first_seen": "2026-10-05T09:00:47.086054-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "7cb8e54b57438efe07a506520b65a1e5": {
@@ -3019,7 +3019,7 @@
     "first_seen": "2026-10-05T09:00:48.805993-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "274333d80a701f98ec333294c1992941": {
@@ -3040,7 +3040,7 @@
     "first_seen": "2026-10-05T15:22:51.643992-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "d217562dd8d0634122d931e0192fdce9": {
@@ -3061,7 +3061,7 @@
     "first_seen": "2026-10-05T15:22:53.407311-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "8852b5f9e7e9d860b0d6b1d5cac8ba4b": {
@@ -3186,7 +3186,7 @@
     "first_seen": "2026-10-06T23:16:30.525731-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-11T10:52:15.688568-07:00",
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
     "dead_strikes": 0
   },
   "82d2ec5b7990451b128c3e3cbd2616f4": {
@@ -3689,7 +3689,9 @@
     "priority": 1,
     "first_seen": "2026-10-10T00:04:33.122994-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
+    "dead_strikes": 0
   },
   "833c8fa90c9ee740c2370ef31e18f809": {
     "id": "833c8fa90c9ee740c2370ef31e18f809",
@@ -3708,7 +3710,9 @@
     "priority": 1,
     "first_seen": "2026-10-10T00:04:34.717408-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-13T03:52:22.948279-07:00",
+    "dead_strikes": 0
   },
   "af83b807cfdb50bf8878d0bf10c4ce07": {
     "id": "af83b807cfdb50bf8878d0bf10c4ce07",
@@ -4204,22 +4208,117 @@
     "status": "active",
     "applied_at": null
   },
-  "8a6e67b8e60a81d9fdb2a561e1eec22b": {
-    "id": "8a6e67b8e60a81d9fdb2a561e1eec22b",
-    "title": "Tax & Accounting Professionals - Fintech at Trendyol Group",
+  "6e218068c9e40460edd0d17e3520ed77": {
+    "id": "6e218068c9e40460edd0d17e3520ed77",
+    "title": "Product Designer (Figma) at Codekeeper",
     "company": "Unknown",
     "location": "Remote",
     "salary": "See posting",
-    "url": "https://remotefirstjobs.com/companies/trendyol-group/jobs/tax-accounting-professionals-fintech-870754",
+    "url": "https://remotefirstjobs.com/companies/codekeeper/jobs/product-designer-figma-870862",
     "source": "JobsCollider",
     "is_new_grad": false,
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "ABOUT THE TEAM\n\nTrendPay is where cutting-edge payment technology meets seamless user experience. This team designs and manages end-to-end payment solutions for millions of users across the globe. Trendyol Pay is focused on building secure, fast, and reliable payment infrastructure not just for toda",
+    "description": "Product Designer (Figma)\n\nAre you a talented designer with a passion for product management? Do you enjoy working in fast-paced, evolving environments where your ideas and decisions directly influence outcomes? If you&rsquo;re motivated by ownership and the opportunity to make a real impact, this co",
     "posted_at": "Recently",
     "priority": 5,
-    "first_seen": "2026-10-12T20:21:34.491630-07:00",
+    "first_seen": "2026-10-13T03:53:30.879100-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "168e5d1265668900fd6e1e839c3196ee": {
+    "id": "168e5d1265668900fd6e1e839c3196ee",
+    "title": "Product Designer Placement Student (Summer 2027 start)",
+    "company": "ESO",
+    "location": "Belfast, United Kingdom",
+    "salary": "Not listed",
+    "url": "https://www.eso.com/careers/job?gh_jid=4741047005",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "How You'll Support Our MissionWe're looking for a human-centred Product designer who loves to build simple-to-understand and trustworthy tools which turn complexity into clarity and help make our user's lives easier. As a Placement Product Designer, you'll be supporting the ESO Product team to creat",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-10-13T03:53:32.509702-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "fe4772aa419ef205f2de1cc44cd6d1bf": {
+    "id": "fe4772aa419ef205f2de1cc44cd6d1bf",
+    "title": "UX Design Internship - Engineering Development Group",
+    "company": "MathWorks",
+    "location": "Cambridge, United Kingdom",
+    "salary": "Not listed",
+    "url": "https://www.mathworks.com/company/jobs/opportunities/37813-ux-design-internship-engineering-development-group.html",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Job SummaryCalling all aspiring UX Designers ! Join our Engineering Development Group and get ready for hands -on experience in a n engaging&nbsp; and innovative environment.We believe in rewarding creativity, teamwork, and havin g fun&nbsp; while learning. As an intern, you'll have the opportunity",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-10-13T03:53:34.222146-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "69f7e972acc790ddd8111eb022e9ab9b": {
+    "id": "69f7e972acc790ddd8111eb022e9ab9b",
+    "title": "Associate User Experience Designer",
+    "company": "Schweitzer Engineering Laboratories (SEL)",
+    "location": "Pullman, United States",
+    "salary": "Not listed",
+    "url": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Associate-User-Experience-Designer_2026-23305?clientRequestID=857fb66b0b2540739c514d462e3c1435",
+    "source": "OpenDoors",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "OverviewAt Schweitzer Engineering Laboratories (SEL), our website serves as a critical connection point between our customers, products, solutions, and mission to make electric power safer, more reliable, and more economical. The User Experience Designer helps shape intuitive, accessible, and engagi",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-10-13T03:53:36.201665-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "87426913689cd614bbe5b378150bb4cb": {
+    "id": "87426913689cd614bbe5b378150bb4cb",
+    "title": "UX Design Internship",
+    "company": "GWEN",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1636526-remote-anywhere-ux-design-internship",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Build portfolio pieces you can actually show employers\nThere is no salary and no job offer at the end. What you get is practice, feedback and proof of work: the three things every junior UX application is missing.\nRequirements\nA laptop or desktop (the internship doesn't run on phones)\nInterest in UX design (student, fresher, graduate)\nSelf-motivated and able to work independently\nWillingness to learn, take feedback, and build something you're proud of\nReference letter at completion, certificate and a portfolio review on request. Pay once, keep lifetime access including future projects.\nYou'll also find what others are saying, like Michael Ghaliy: \"This internship will improve your skills and ability putting your hands on real project briefs using AI tools, and learn to be confident and successful in finding a job.\"\nN Senior UX Designer at NEC Software Solutions W Senior UX Designer at Workday U UX Design Internship at Uline P Experience Designer Lead at PNC W Senior UX Designer at Walmart\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nIhsan is hiring Product Designer \u2014 Mobile UX/UI & Motion\nMatthew Allen is hiring Manager, AI Conversational Design",
+    "posted_at": "2h",
+    "priority": 5,
+    "first_seen": "2026-10-13T03:53:37.898491-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "d49bb815cb1a287df1c54d47f599f873": {
+    "id": "d49bb815cb1a287df1c54d47f599f873",
+    "title": "UI/UX Designer",
+    "company": "Reflex Media",
+    "location": "Remote",
+    "salary": "$90,000 - $140,000",
+    "url": "https://uiuxjobsboard.com/job/1637526-remote-united-states-ui-ux-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Product\u00a0 |\u00a0 Full-Time, Salaried\u00a0 |\u00a0 Reports to Head of Product\nRemote, anywhere in the USA (Las Vegas, NV strongly preferred)\nRequired for team weeks, user research, and quarterly planning in Las Vegas\nAbout the Role\nSeeking.com is the world's largest premium dating platform, founded and led by an MIT alumnus and headquartered in Las Vegas. We work at the intersection of technology, consumer psychology, and product design at the highest level. Our mission is to help people foster genuine relationships and find love, and to rethink how social platforms can advance human connection.\nWe are hiring a UI/UX Designer who combines three things: systems thinking, customer obsession, and an eye for emotionally rich interaction design. Dating is an emotional product. People act on emotion first and logic second, so our interface has to earn trust, build excitement, and guide each member toward the next right step.\nYou will work directly with the Co-CEOs and Head of Product, embedded in a cross-functional pod with a Product Manager, engineers, and a data engineer. Each pod owns a funnel, such as onboarding, and is measured on the sign-ups, engagement, and purchases it drives. You will design across web and native iOS and Android: onboarding, discovery, matching, messaging, profile, and subscription surfaces.\nAI tools can now produce a basic, competent interface in minutes. That makes tool skill table stakes. We pay for judgment: understanding the member deeply, anticipating edge cases before they ship, and knowing when an experience should be fast and minimal and when it should be layered with motion, video, and texture that pull the member forward.\nThis role may also be a fit for candidates whose current title is UX Designer, UX/UI Designer, Product Designer, Interaction Designer, Visual Designer, Motion Designer, or Product Design Engineer. If your day-to-day is designing and shipping consumer experiences that real people love using, apply regardless of title.\nSpend real time with members: interviews, session recordings, support tickets, and beta groups of real users who test new work before it ships.\nTurn what you learn into designs that match how members actually want to browse, connect, and communicate.\nDesign complete flows, including every state, error, empty screen, and edge case, so engineering builds it right the first time.\nBreak big experience problems into small, shippable steps that build momentum.\nWork inside our design system and extend it cleanly when a new pattern is needed.\nDesign for emotion and guidance: motion, video, fluid transitions, and layered texture that build excitement and lead members along the right path.\nKeep task moments such as settings, payments, and verification fast, clean, and effortless.\nMake the effect of member actions visible, so adding a photo, completing a profile, or verifying feels immediately rewarding.\nOnboarding that takes a new member from download to a compelling profile in minutes.\nConversational, AI-guided profile building that replaces long forms.\nDiscovery and shortlisting flows that move members from browsing to real connection.\nMessaging as seamless as the best consumer apps, with rich media and video built in.\nSelf-presentation tools that let members who value discretion show who they are with confidence.\nWork from funnel and engagement data with your pod. Instrument what you ship and read the results.\nPrototype in Figma, Framer, or code (v0, Lovable, Cursor) and put ideas in front of real members within days.\nUse Claude, Claude Code, Cursor, and comparable tools every day to explore more options and ship faster.\nHelp build the design team's agent workflows and playbook so the whole team compounds.\nRequired Qualifications\nA portfolio of shipped consumer product work that shows exceptional UI/UX craft: typography, layout, motion, interaction, and polish.\nA consistent pattern of customer obsession across your career. Your case studies start with the user and end with what changed ",
+    "posted_at": "4h",
+    "priority": 5,
+    "first_seen": "2026-10-13T03:53:39.700353-07:00",
     "status": "active",
     "applied_at": null
   }
