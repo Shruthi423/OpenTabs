@@ -1,47 +1,32 @@
 [
   {
     "item": {
-      "company": "Elisity",
-      "amount": "$1.3B",
-      "stage": null,
+      "company": "Clueso",
+      "amount": "$10.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
-      "blurb": "Quantum computer maker IonQ to buy cybersecurity startup Elisity for $1.3B. IonQ Inc., a publicly traded supplier of quantum computers, today announced\u00a0plans to acquire Elisity Inc. for $1.3 billion. The price tag includes $150 million in performance incentives that are contingent on Elisity meeting certain business milestones. The all-stock deal is set to close by year\u2019s end.\u00a0 IonQ\u2019s flagship product is a 256-qubit quantum computer called [&#8230;]\nThe post Quantum computer maker IonQ to buy cy",
+      "blurb": "Agentic video startup Clueso raises $10M in Series A funding round - YourStory.com. Agentic video startup Clueso raises $10M in Series A funding round&nbsp;&nbsp;YourStory.com",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/12/quantum-computer-maker-ionq-to-buy-cybersecurity-startup-elisity-for-1-3b/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbW0za1MzZ0tOSndSbnVtd1IxcGRJV2IwS1hCSDFEX2YtQ2RNbUdpc0NoZEJCTndmUkQxX01BOERSLWpsYll3OTdseUdPUVlNaE9CMExfdDNjTUZHSHgzZmhqTHNVay1SNmNpR29kTVlPeTdiOE9odGIwS2xwVTNSUVNwdU1mamR1Y3c?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-10-12T16:28:28.443569-07:00"
+    "remind_at": "2026-10-12T20:52:00.722291-07:00"
   },
   {
     "item": {
-      "company": "Decart",
-      "amount": "$7.0B",
+      "company": "Alphabet President Ruth Porat",
+      "amount": "$200.0B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Amazon in talks to acquire AI startup Decart for $7 billion as AI computing race heats up. Amazon is in talks to acquire Nvidia-backed AI startup Decart for approximately $7 billion, a deal that could give the e-commerce giant a major advantage in its growing battle with Nvidia over the future of AI computing. The proposed acquisition [&#8230;]\nThe post Amazon in talks to acquire AI startup Decart for $7 billion as AI computing race heats up first appeared on Tech Startups.",
+      "blurb": "Alphabet President Ruth Porat on how Google is funding AI to win long term, and the biggest risks ahead. Google is spending about $200 billion on its AI buildout this year, Porat confirmed at Fortune's Most Powerful Women Summit on Monday, and the peak is still around the corner.",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/12/amazon-in-talks-to-acquire-ai-startup-decart-for-7-billion-as-ai-computing-race-heats-up/",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/12/google-ruth-porat-ai-spending-risks/",
       "priority": 3
     },
-    "remind_at": "2026-10-12T16:28:31.328139-07:00"
-  },
-  {
-    "item": {
-      "company": "SOAR AI",
-      "amount": "$1.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "SOAR AI secures up to $1 billion in equity financing to expand AI data centers across the U.S. and beyond. SOAR AI has secured access to up to $1 billion in equity financing to build more AI data centers, starting with a major project in Ohio. The agreement comes just weeks after the company signed $1.17 billion in customer contracts [&#8230;]\nThe post SOAR AI secures up to $1 billion in equity financing to expand AI data centers across the U.S. and beyond first appeared on Tech Startups.",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/12/soar-ai-secures-up-to-1-billion-in-equity-financing-to-expand-ai-data-centers-across-the-u-s-and-beyond/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-12T16:28:35.037233-07:00"
+    "remind_at": "2026-10-12T20:52:09.009874-07:00"
   }
 ]

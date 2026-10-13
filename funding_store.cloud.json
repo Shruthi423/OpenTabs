@@ -5010,5 +5010,37 @@
     "roles": [],
     "first_seen": "2026-10-12T15:58:36.037375-07:00",
     "status": "active"
+  },
+  "1ff9cb7ea7b57a5fd79fa5ffff2dbde2": {
+    "id": "1ff9cb7ea7b57a5fd79fa5ffff2dbde2",
+    "company": "Clueso",
+    "amount": "$10.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbW0za1MzZ0tOSndSbnVtd1IxcGRJV2IwS1hCSDFEX2YtQ2RNbUdpc0NoZEJCTndmUkQxX01BOERSLWpsYll3OTdseUdPUVlNaE9CMExfdDNjTUZHSHgzZmhqTHNVay1SNmNpR29kTVlPeTdiOE9odGIwS2xwVTNSUVNwdU1mamR1Y3c?oc=5",
+    "priority": 8,
+    "blurb": "Agentic video startup Clueso raises $10M in Series A funding round - YourStory.com. Agentic video startup Clueso raises $10M in Series A funding round&nbsp;&nbsp;YourStory.com",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-12T20:22:01.722487-07:00",
+    "status": "active"
+  },
+  "d9f8eff88687b8c6cd3c77744374b9e8": {
+    "id": "d9f8eff88687b8c6cd3c77744374b9e8",
+    "company": "Alphabet President Ruth Porat",
+    "amount": "$200.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/10/12/google-ruth-porat-ai-spending-risks/",
+    "priority": 3,
+    "blurb": "Alphabet President Ruth Porat on how Google is funding AI to win long term, and the biggest risks ahead. Google is spending about $200 billion on its AI buildout this year, Porat confirmed at Fortune's Most Powerful Women Summit on Monday, and the peak is still around the corner.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-12T20:22:10.010072-07:00",
+    "status": "active"
   }
 }
