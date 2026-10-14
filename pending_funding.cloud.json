@@ -1,92 +1,107 @@
 [
   {
     "item": {
-      "company": "Salehli",
-      "amount": null,
+      "company": "Intellivisa",
+      "amount": "$3.0M",
       "stage": "Pre-Seed",
-      "investors": "EBLA Ventures",
-      "location": "Syria",
-      "blurb": "Salehli Raises $100,000 Pre-seed. Syria-based professional services platform Salehli raises $100,000 in a pre-seed round led by EBLA Ventures to expand its B2B offerings.",
+      "investors": "Mu Ventures and Incisive Ventures",
+      "location": null,
+      "blurb": "Intellivisa Raises $3M Pre-seed. Intellivisa raises $3 million in pre-seed funding led by Mu Ventures and Incisive Ventures to scale its AI travel authorization engine.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/salehli-raises-100000-pre-seed/",
+      "url": "https://www.thesaasnews.com/news/intellivisa-raises-3m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-10-13T23:40:17.655753-07:00"
+    "remind_at": "2026-10-14T05:19:38.179747-07:00"
   },
   {
     "item": {
-      "company": "Guardare",
-      "amount": "$5.6M",
-      "stage": "Seed",
-      "investors": "Album",
+      "company": "Affinity Labs",
+      "amount": "$2.0M",
+      "stage": "Pre-Seed",
+      "investors": "Fuel Ventures",
       "location": null,
-      "blurb": "Guardare Raises $5.6M Seed Extension. Clearwater cybersecurity startup Guardare raises $5.6 million in seed extension funding led by Album to scale sales and accelerate hiring.",
+      "blurb": "Affinity Labs Raises $2M Pre-seed. Affinity Labs raises $2M in pre-seed funding led by Fuel Ventures to expand its portfolio of AI-powered software brands built with content creators.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/guardare-raises-5-6m-seed-extension/",
-      "priority": 9
+      "url": "https://www.thesaasnews.com/news/affinity-labs-raises-2m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-10-13T23:40:20.640128-07:00"
+    "remind_at": "2026-10-14T05:19:45.269024-07:00"
   },
   {
     "item": {
-      "company": "Obsero",
-      "amount": "$1.2M",
+      "company": "Dapta",
+      "amount": "$6.0M",
       "stage": "Seed",
-      "investors": "SFC Capital",
+      "investors": "Chingona Ventures",
       "location": null,
-      "blurb": "Obsero Raises $1.2M Seed. Obsero raises $1.2M seed round led by SFC Capital to expand its AI search visibility and marketing analytics platform for consumer brands.",
+      "blurb": "Dapta Raises $6M Seed. Dapta raises $6M in Seed funding led by Chingona Ventures to accelerate its AI sales agent platform expansion across the U.S. and Latin America.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/obsero-raises-1-2m-seed/",
+      "url": "https://www.thesaasnews.com/news/dapta-raises-6m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-10-13T23:40:28.099861-07:00"
+    "remind_at": "2026-10-14T05:19:48.257883-07:00"
   },
   {
     "item": {
-      "company": "RevRag AI",
+      "company": "Lightsprint",
+      "amount": "$6.1M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Lightsprint Raises $6.1M Seed. Lightsprint raises $6.1M in seed funding led by 645 Ventures to expand its platform enabling non-engineers to ship code changes safely.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/lightsprint-raises-6-1m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-14T05:19:51.304615-07:00"
+  },
+  {
+    "item": {
+      "company": "Reach Security",
+      "amount": "$50.0M",
+      "stage": "Series B",
+      "investors": "Top Tier Capital Partners",
+      "location": null,
+      "blurb": "Reach Security Raises $50M Series B. Reach Security raises $50M in Series B funding led by Top Tier Capital Partners to advance its AI-powered security control validation platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/reach-security-raises-50m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-10-14T05:19:57.190644-07:00"
+  },
+  {
+    "item": {
+      "company": "Albert",
+      "amount": "$55.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "blurb": "Albert Raises $55M Series B. Albert raises $55M in Series B funding led by TCV to scale its chemistry-native AI operating system for enterprise research and development.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/albert-raises-55m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-10-14T05:20:00.297964-07:00"
+  },
+  {
+    "item": {
+      "company": "Problems",
       "amount": null,
-      "stage": "Seed",
+      "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Enterprise AI startup RevRag AI raises $2.5 Mn in seed round - Entrackr. Enterprise AI startup RevRag AI raises $2.5 Mn in seed round&nbsp;&nbsp;Entrackr",
+      "blurb": "How I Learned That Some Startup Problems Are Too Big For A Minimum Viable Product. Complex, interconnected problems like compliance require a comprehensive product from the outset, argues guest columnist Daniel Kjell\u00e9n, CEO and co-founder of Freda. Drawing on his experience selling Tink, he explains how repeat founders can combine capital, credibility and hard-earned lessons with AI\u2019s development speed to pursue bigger ambitions without shrinking their vision.",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTm1ZUnUya2F6UVhlazBFeFVuaFhfWVpOakJwNXRZTVl5enVIcXpDRlI1ZXJzWmh1MUtDUTJSSE02bzA1U3pOMEFlb3gwWWc2MXhVVmxJdnZHNm56eU05NDJtM25ZV1VZZ19sU2FIVk1FS3oyZVQyZEJzRmNZTlZ3TmpodkxMdFhodEtFYlpWZEd4OVBObzZGZnFSUE1kZ9IBngFBVV95cUxPTm1ZUnUya2F6UVhlazBFeFVuaFhfWVpOakJwNXRZTVl5enVIcXpDRlI1ZXJzWmh1MUtDUTJSSE02bzA1U3pOMEFlb3gwWWc2MXhVVmxJdnZHNm56eU05NDJtM25ZV1VZZ19sU2FIVk1FS3oyZVQyZEJzRmNZTlZ3TmpodkxMdFhodEtFYlpWZEd4OVBObzZGZnFSUE1kZw?oc=5",
-      "priority": 9
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/startups/minimum-viable-product-problems-ai-fintech-kjellen-freda/",
+      "priority": 3
     },
-    "remind_at": "2026-10-13T23:40:31.215793-07:00"
-  },
-  {
-    "item": {
-      "company": "RevRag.AI",
-      "amount": "$2.5M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "RevRag.AI raises $2.5M seed to put AI relationship managers inside lenders' apps - Dealroom. RevRag.AI raises $2.5M seed to put AI relationship managers inside lenders' apps&nbsp;&nbsp;Dealroom",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEY5a0hwRWJ6c01XUk83NldObDdZTlpJOS1DRGJkYzVXV1gyTEtzSUl2OEZNMjBzUkNoVHFiTVF4MEFKVDdkdEQwQjQxVk51azJ0aldGZURaQ291OEVfN01RQUNGZ0RESmg1TE5mLUZJbXpsSVZrcUE4dHdnd1U5U3U0WF8tdGxZVGYxZlNyM0p5a29nSDNVeTdqSEFaY0RsLUFhMkFxTnVfaUVJNkZOT0xB?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-10-13T23:40:34.014045-07:00"
-  },
-  {
-    "item": {
-      "company": "AZOO",
-      "amount": "$3.09M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Hotel OS startup AZOO raises $3.09M Series A to automate lodging operations with AI - Dealroom. Hotel OS startup AZOO raises $3.09M Series A to automate lodging operations with AI&nbsp;&nbsp;Dealroom",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbjMzbkZxLXNUM0VlMTRnRHFvaGJjbVJ1UEhzWjVIMDhLLTI4QXY5S0xBNW1MNHdiVEVyYmhCcWNGYTZZcnlnaUp5UkxBVWt4eU9PMHEzLWFDZkxEaFNBd09iaE80YlpudWZCTERYZHF0M2RTRTFpb0NZVU51bGNNQXdSX2F5VG5zYUUyTWhfM2lIakNQYWxUTUZhTEdaX1k0Nl9oZUZ3OExfU0x5d3BId3dwMmVNbzQ?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-10-13T23:40:36.897369-07:00"
+    "remind_at": "2026-10-14T05:20:03.407406-07:00"
   }
 ]
