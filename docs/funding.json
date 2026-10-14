@@ -1,5 +1,35 @@
 [
   {
+    "id": "f8a99916819df71eddfb608848a7c706",
+    "company": "Scuba",
+    "amount": "$34.0M",
+    "stage": "?",
+    "investors": "Accel, Scribble Ventures",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/13/scuba-launches-with-34m-to-help-teams-and-ai-agents-manage-business-data/",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-13T18:13:58.326857-07:00",
+    "status": "active"
+  },
+  {
+    "id": "7ba47392b87abe07473c44b5fd11f0b9",
+    "company": "Pluto Security",
+    "amount": "$42.0M",
+    "stage": "Seed",
+    "investors": "TLV Partners",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/13/pluto-security-nabs-42m-to-help-enterprises-secure-their-ai-agents/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-13T18:13:55.418240-07:00",
+    "status": "active"
+  },
+  {
     "id": "523b11cf0a2f6af2cdeb34e89f115b33",
     "company": "Clearwater Cybersecurity Startup",
     "amount": "$5.6M",

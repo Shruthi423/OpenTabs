@@ -5234,5 +5234,37 @@
     "roles": [],
     "first_seen": "2026-10-13T15:12:08.093191-07:00",
     "status": "active"
+  },
+  "7ba47392b87abe07473c44b5fd11f0b9": {
+    "id": "7ba47392b87abe07473c44b5fd11f0b9",
+    "company": "Pluto Security",
+    "amount": "$42.0M",
+    "stage": "Seed",
+    "investors": "TLV Partners",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/13/pluto-security-nabs-42m-to-help-enterprises-secure-their-ai-agents/",
+    "priority": 9,
+    "blurb": "Pluto Security nabs $42M to help enterprises secure their AI agents. Pluto Security Inc., a provider of artificial intelligence security software, today announced that it has raised $42 million in funding. The company raised about a fifth of the sum through a seed round led by TLV Partners. The rest arrived in the form of a Series A investment led by Jump Capital. The latter deal [&#8230;]\nThe post Pluto Security nabs $42M to help enterprises secure their AI agents appeared first on SiliconANGLE",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-13T18:13:55.418240-07:00",
+    "status": "active"
+  },
+  "f8a99916819df71eddfb608848a7c706": {
+    "id": "f8a99916819df71eddfb608848a7c706",
+    "company": "Scuba",
+    "amount": "$34.0M",
+    "stage": "?",
+    "investors": "Accel, Scribble Ventures",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/13/scuba-launches-with-34m-to-help-teams-and-ai-agents-manage-business-data/",
+    "priority": 6,
+    "blurb": "Scuba launches with $34M to help teams and AI agents manage business data. Scuba, the developer of an eponymous productivity service, today announced that it has received $34 million in funding. The company raised the capital over two rounds. Accel led the first investment and co-led the second with IVP. The firms were joined by BoxGroup, Conviction, Homebrew and Scribble Ventures. Scuba also boasts a long list of [&#8230;]\nThe post Scuba launches with $34M to help teams and AI agents manage bus",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-13T18:13:58.326857-07:00",
+    "status": "active"
   }
 }
