@@ -1,32 +1,92 @@
 [
   {
     "item": {
-      "company": "Pluto Security",
-      "amount": "$42.0M",
-      "stage": "Seed",
-      "investors": "TLV Partners",
-      "location": null,
-      "blurb": "Pluto Security nabs $42M to help enterprises secure their AI agents. Pluto Security Inc., a provider of artificial intelligence security software, today announced that it has raised $42 million in funding. The company raised about a fifth of the sum through a seed round led by TLV Partners. The rest arrived in the form of a Series A investment led by Jump Capital. The latter deal [&#8230;]\nThe post Pluto Security nabs $42M to help enterprises secure their AI agents appeared first on SiliconANGLE",
+      "company": "Salehli",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": "EBLA Ventures",
+      "location": "Syria",
+      "blurb": "Salehli Raises $100,000 Pre-seed. Syria-based professional services platform Salehli raises $100,000 in a pre-seed round led by EBLA Ventures to expand its B2B offerings.",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/13/pluto-security-nabs-42m-to-help-enterprises-secure-their-ai-agents/",
-      "priority": 9
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/salehli-raises-100000-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-10-13T18:43:54.418112-07:00"
+    "remind_at": "2026-10-13T23:40:17.655753-07:00"
   },
   {
     "item": {
-      "company": "Scuba",
-      "amount": "$34.0M",
-      "stage": null,
-      "investors": "Accel, Scribble Ventures",
+      "company": "Guardare",
+      "amount": "$5.6M",
+      "stage": "Seed",
+      "investors": "Album",
       "location": null,
-      "blurb": "Scuba launches with $34M to help teams and AI agents manage business data. Scuba, the developer of an eponymous productivity service, today announced that it has received $34 million in funding. The company raised the capital over two rounds. Accel led the first investment and co-led the second with IVP. The firms were joined by BoxGroup, Conviction, Homebrew and Scribble Ventures. Scuba also boasts a long list of [&#8230;]\nThe post Scuba launches with $34M to help teams and AI agents manage bus",
+      "blurb": "Guardare Raises $5.6M Seed Extension. Clearwater cybersecurity startup Guardare raises $5.6 million in seed extension funding led by Album to scale sales and accelerate hiring.",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/13/scuba-launches-with-34m-to-help-teams-and-ai-agents-manage-business-data/",
-      "priority": 6
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/guardare-raises-5-6m-seed-extension/",
+      "priority": 9
     },
-    "remind_at": "2026-10-13T18:43:57.326740-07:00"
+    "remind_at": "2026-10-13T23:40:20.640128-07:00"
+  },
+  {
+    "item": {
+      "company": "Obsero",
+      "amount": "$1.2M",
+      "stage": "Seed",
+      "investors": "SFC Capital",
+      "location": null,
+      "blurb": "Obsero Raises $1.2M Seed. Obsero raises $1.2M seed round led by SFC Capital to expand its AI search visibility and marketing analytics platform for consumer brands.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/obsero-raises-1-2m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-13T23:40:28.099861-07:00"
+  },
+  {
+    "item": {
+      "company": "RevRag AI",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Enterprise AI startup RevRag AI raises $2.5 Mn in seed round - Entrackr. Enterprise AI startup RevRag AI raises $2.5 Mn in seed round&nbsp;&nbsp;Entrackr",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTm1ZUnUya2F6UVhlazBFeFVuaFhfWVpOakJwNXRZTVl5enVIcXpDRlI1ZXJzWmh1MUtDUTJSSE02bzA1U3pOMEFlb3gwWWc2MXhVVmxJdnZHNm56eU05NDJtM25ZV1VZZ19sU2FIVk1FS3oyZVQyZEJzRmNZTlZ3TmpodkxMdFhodEtFYlpWZEd4OVBObzZGZnFSUE1kZ9IBngFBVV95cUxPTm1ZUnUya2F6UVhlazBFeFVuaFhfWVpOakJwNXRZTVl5enVIcXpDRlI1ZXJzWmh1MUtDUTJSSE02bzA1U3pOMEFlb3gwWWc2MXhVVmxJdnZHNm56eU05NDJtM25ZV1VZZ19sU2FIVk1FS3oyZVQyZEJzRmNZTlZ3TmpodkxMdFhodEtFYlpWZEd4OVBObzZGZnFSUE1kZw?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-10-13T23:40:31.215793-07:00"
+  },
+  {
+    "item": {
+      "company": "RevRag.AI",
+      "amount": "$2.5M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "RevRag.AI raises $2.5M seed to put AI relationship managers inside lenders' apps - Dealroom. RevRag.AI raises $2.5M seed to put AI relationship managers inside lenders' apps&nbsp;&nbsp;Dealroom",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEY5a0hwRWJ6c01XUk83NldObDdZTlpJOS1DRGJkYzVXV1gyTEtzSUl2OEZNMjBzUkNoVHFiTVF4MEFKVDdkdEQwQjQxVk51azJ0aldGZURaQ291OEVfN01RQUNGZ0RESmg1TE5mLUZJbXpsSVZrcUE4dHdnd1U5U3U0WF8tdGxZVGYxZlNyM0p5a29nSDNVeTdqSEFaY0RsLUFhMkFxTnVfaUVJNkZOT0xB?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-10-13T23:40:34.014045-07:00"
+  },
+  {
+    "item": {
+      "company": "AZOO",
+      "amount": "$3.09M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Hotel OS startup AZOO raises $3.09M Series A to automate lodging operations with AI - Dealroom. Hotel OS startup AZOO raises $3.09M Series A to automate lodging operations with AI&nbsp;&nbsp;Dealroom",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbjMzbkZxLXNUM0VlMTRnRHFvaGJjbVJ1UEhzWjVIMDhLLTI4QXY5S0xBNW1MNHdiVEVyYmhCcWNGYTZZcnlnaUp5UkxBVWt4eU9PMHEzLWFDZkxEaFNBd09iaE80YlpudWZCTERYZHF0M2RTRTFpb0NZVU51bGNNQXdSX2F5VG5zYUUyTWhfM2lIakNQYWxUTUZhTEdaX1k0Nl9oZUZ3OExfU0x5d3BId3dwMmVNbzQ?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-10-13T23:40:36.897369-07:00"
   }
 ]
