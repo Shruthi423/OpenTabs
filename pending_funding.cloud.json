@@ -1,122 +1,182 @@
 [
   {
     "item": {
-      "company": "CodeWall",
-      "amount": "$4.0M",
+      "company": "Matters",
+      "amount": "$5.0M",
       "stage": "Pre-Seed",
-      "investors": "Osney Capital",
+      "investors": null,
       "location": null,
-      "blurb": "CodeWall Raises $4M Pre-seed. CodeWall raises $4M in pre-seed funding led by Osney Capital to scale its autonomous attack agents for enterprise cybersecurity testing.",
+      "blurb": "Matters Raises $5M Pre-seed. Matters raises $5M in pre-seed funding to build an AI-native consumer banking platform focused on financial wellbeing and automated savings.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/codewall-raises-4m-pre-seed/",
+      "url": "https://www.thesaasnews.com/news/matters-raises-5m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-10-14T23:57:56.500004-07:00"
+    "remind_at": "2026-10-15T05:25:36.087161-07:00"
+  },
+  {
+    "item": {
+      "company": "Solvera",
+      "amount": "$6.3M",
+      "stage": "Pre-Seed",
+      "investors": "Seedcamp",
+      "location": null,
+      "blurb": "Solvera Raises $6.3M Pre-seed. Solvera raises $6.3M pre-seed round led by Seedcamp to scale its AI-native engineering firm for the construction industry.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/solvera-raises-6-3m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-10-15T05:25:39.100259-07:00"
+  },
+  {
+    "item": {
+      "company": "Miracly",
+      "amount": "$2.0M",
+      "stage": "Pre-Seed",
+      "investors": "Beenext Ventures",
+      "location": null,
+      "blurb": "Miracly Raises $2M Pre-seed. Miracly raises $2 million in pre-seed funding led by Beenext Ventures and Lotus to scale its AI-powered marketing operating system for agencies.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/miracly-raises-2m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-10-15T05:25:42.088935-07:00"
   },
   {
     "item": {
       "company": "Cosmochute",
-      "amount": null,
+      "amount": "$1.5M",
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
-      "blurb": "Space robotics startup Cosmochute raises $1.5 Mn in pre-seed round - Entrackr. Space robotics startup Cosmochute raises $1.5 Mn in pre-seed round&nbsp;&nbsp;Entrackr",
+      "blurb": "Space Robotics Startup Cosmochute Raises $1.5 Million in Pre-Seed Funding - CXO Digitalpulse. Space Robotics Startup Cosmochute Raises $1.5 Million in Pre-Seed Funding&nbsp;&nbsp;CXO Digitalpulse",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2pjR3VLV2l1ajl2bXVJMGtLdExWTHNxNF83dllLRmpHU0Exd0w3TWlFYW5xX2pSRkRWZkJMaFZmQjNvLVZqckc4WTVoQWg5QXlKdVUya3VHZlpsb01jT0JYYUhaRFBlZS0wTDZ2NUltdTBSaDE0SVFWZXlGYTF4bUpLdTl0Qy1ROXFTc1J0MldycWlzYjNTZmtUNDBNdWhURmx1Qlp30gGmAUFVX3lxTE43amNHdUtXaXVqOXZtdUkwa0t0TFZMc3E0Xzd2WUtGakdTQTF3TDdNaUVhbnFfalJGRFZmQkxoVmZCM28tVmpyRzhZNWhBaDlBeUp1VTJrdUdmWmxvTWNPQlhhSFpEUGVlLTBMNnY1SW11MFJoMTRJUVZleUZhMXhtSkt1OXRDLVE5cVNzUnQyV3JxaXNiM1Nma1Q0ME11aFRGbHVCWnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0dDc2Rmd3VkcUV4MEtoTmMzR3d5ODFYMVpaVlhjQTg5TXpDN0FFbUEzR1VCYjRWWVFzOXIwTFdSbDl0VG1KMmFSWmx2NDZmaEgzQ3dYU1ZjS2pDVUsxUlZFbXJJRTFYY3FkUVVENjJRWXlQN0tYU2xoS25OZ3BvTklReHg3VDRiN2dlRjVXWi1wdG1fV1V4SjZ3SFphS01LclJYTGM3c2E?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-10-14T23:57:59.483827-07:00"
+    "remind_at": "2026-10-15T05:25:45.330352-07:00"
   },
   {
     "item": {
-      "company": "Othello",
-      "amount": "$8.0M",
+      "company": "RevRag AI",
+      "amount": "$2.5M",
       "stage": "Seed",
-      "investors": "Owl Capital",
+      "investors": "Accion Ventures",
       "location": null,
-      "blurb": "Othello Raises $8M Seed. Othello raises $8 million in seed funding led by A16z Speedrun and Owl Capital to scale its AI-powered real-time sales coaching platform.",
+      "blurb": "RevRag AI Raises $2.5M Seed. RevRag AI raises $2.5 million in a seed round led by Accion Ventures to expand its AI agent platform for the banking and fintech sectors.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/othello-raises-8m-seed/",
+      "url": "https://www.thesaasnews.com/news/revrag-ai-raises-2-5m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-10-14T23:58:02.484335-07:00"
+    "remind_at": "2026-10-15T05:25:48.216082-07:00"
   },
   {
     "item": {
-      "company": "Duvo",
-      "amount": "$32.0M",
-      "stage": "Series A",
-      "investors": "Balderton Capital",
+      "company": "Shamrock AI",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": "Endiya Partners",
       "location": null,
-      "blurb": "Duvo Raises $32M Series A. Duvo raises $32M Series A led by Balderton Capital to expand its enterprise execution OS platform into the U.S. market for retail and CPG companies.",
+      "blurb": "Shamrock AI Raises $5M Seed. Shamrock AI raises $5 million in a seed funding round led by Endiya Partners to advance its agentic assurance platform for enterprise AI adoption.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/duvo-raises-32m-series-a/",
+      "url": "https://www.thesaasnews.com/news/shamrock-ai-raises-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-15T05:25:51.228512-07:00"
+  },
+  {
+    "item": {
+      "company": "Salary Hero",
+      "amount": "$7.6M",
+      "stage": "Series A",
+      "investors": "Cento Ventures",
+      "location": null,
+      "blurb": "Salary Hero Raises $7.6M Series A. Salary Hero raises $7.6M Series A led by Cento Ventures to expand its earned-wage access fintech platform into the Malaysian market.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/salary-hero-raises-7-6m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-10-14T23:58:05.432403-07:00"
+    "remind_at": "2026-10-15T05:25:57.119339-07:00"
   },
   {
     "item": {
-      "company": "Readily",
-      "amount": "$11.0M",
+      "company": "Spill Games",
+      "amount": "$10.5M",
       "stage": "Series A",
-      "investors": "Define Ventures",
+      "investors": "Elevation Capital",
       "location": null,
-      "blurb": "Readily Raises $11M Series A. Readily raises $11M Series A led by Define Ventures to advance its AI-powered regulatory compliance platform for healthcare organizations.",
+      "blurb": "Spill Games Raises $10.5M Series A. Spill Games raises $10.5M in a Series A funding round led by Elevation Capital to scale its AI-driven mobile gaming portfolio.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/readily-raises-11m-series-a/",
+      "url": "https://www.thesaasnews.com/news/spill-games-raises-10-5m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-10-14T23:58:08.392680-07:00"
+    "remind_at": "2026-10-15T05:26:04.321433-07:00"
   },
   {
     "item": {
-      "company": "Zippy",
-      "amount": "$20.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "blurb": "Zippy Raises $20M Series C. Zippy raises $20M Series C led by Saluda Grade to expand its technology-driven manufactured housing lending platform across the United States.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/zippy-raises-20m-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-10-14T23:58:11.356834-07:00"
-  },
-  {
-    "item": {
-      "company": "Ahead of IPO",
-      "amount": "$16.8B",
+      "company": "JustAd",
+      "amount": "$5.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Ahead of IPO, Anthropic reveals its revenue grew 45% sequentially to $16.8B in Q3. Anthropic PBC pulled in $16.8 billion in revenue during the third quarter, according to a report today by the Financial Times &#8212; and also achieved profitability on an adjusted basis for the first time. The revelations came at a private meeting between Anthropic executives and investors interested in buying shares of the artificial intelligence company [&#8230;]\nThe post Ahead of IPO, Anthropic reveals its rev",
+      "blurb": "JustAd Raises $5M in Funding. JustAd raises $5M in funding from angel investor Emad Gomaa to scale its marketing technology and advertising financing platform into new markets.",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/justad-raises-5m-unknown/",
       "priority": 3
     },
-    "remind_at": "2026-10-14T23:58:19.516723-07:00"
+    "remind_at": "2026-10-15T05:26:07.339700-07:00"
   },
   {
     "item": {
-      "company": "Archa",
-      "amount": "$61.0M",
+      "company": "Scanntech",
+      "amount": "$180.0M",
+      "stage": "Series F",
+      "investors": null,
+      "location": null,
+      "blurb": "Scanntech Raises $180M Series F. Scanntech raises $180M in a Series F round led by L Catterton to advance its AI-powered retail intelligence and data analytics platform in Latin America.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/scanntech-raises-180m-series-f/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-15T05:26:10.348150-07:00"
+  },
+  {
+    "item": {
+      "company": "Labelbox",
+      "amount": "$100.0M",
+      "stage": "Series E",
+      "investors": "Infinitum Partners",
+      "location": null,
+      "blurb": "Labelbox Raises $100M+ Series E. Labelbox raises $100 million in Series E funding led by Infinitum Partners to advance its reinforcement learning and enterprise AI agent technology.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/labelbox-raises-100m-series-e/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-15T05:26:13.383196-07:00"
+  },
+  {
+    "item": {
+      "company": "MotifDrive",
+      "amount": "$4.9M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Archa Raises $61M Growth Capital. Archa raises $61M in a mix of equity and debt to expand its corporate card platform and enhance its AI-powered expense management software features.",
+      "blurb": "MotifDrive Raises $4.9M in Funding. MotifDrive raises $4.9M led by MYSC to advance its end-to-end AI software for autonomous vehicles and expand global commercialization efforts.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/archa-raises-61m-growth-capital/",
+      "url": "https://www.thesaasnews.com/news/motifdrive-raises-4-9m-other/",
       "priority": 3
     },
-    "remind_at": "2026-10-14T23:58:22.485995-07:00"
+    "remind_at": "2026-10-15T05:26:16.365442-07:00"
   }
 ]
