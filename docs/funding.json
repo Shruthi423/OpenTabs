@@ -1,5 +1,76 @@
 [
   {
+    "id": "fb2e389a4902fe5873eaf3a7d6e70311",
+    "company": "Anthropic",
+    "amount": "$16.8B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/10/15/top-tech-news-today-october-15-2026-anthropic-cisco-gartner-google-openai-ramp-tsmc-more/",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "roles": [
+      {
+        "title": "Product Designer, Claude Developer Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397654008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      },
+      {
+        "title": "Product Designer, Design Systems",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428124008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer, Growth",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446776008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer, Safeguards",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      },
+      {
+        "title": "User Experience Researcher, Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392007008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      }
+    ],
+    "first_seen": "2026-10-15T09:09:33.459838-07:00",
+    "status": "active"
+  },
+  {
+    "id": "02d7d5f0a088823967be44bf0cd48b2b",
+    "company": "OQT",
+    "amount": "$10.4M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90T3dnZk96RVZSM1NIT3ItOGhWdUlrVWdmOF9RbU40RENWTGU2THpGM1p3cEVQZHdRcEtCc0ZsbWRlTXFBaXdCSFNNd21HdmFrWXJDOHpLbG1xWGJZVWt5clZoaGJ4ZHYtYlpMakx0M3RuQkNFZmc?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-15T09:09:27.374658-07:00",
+    "status": "active"
+  },
+  {
+    "id": "491033a3e0d8eee5fca2c8d801c753e0",
+    "company": "EMode Photonix",
+    "amount": "$1.0M",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOXpreGd4RDRCVGxQcGxXOFVYcXBmNjNhcjVWWVMyM1NuWnFhVU50Z2R1TmlFcTZfb0hvdTZHVzgtRHNjQ0RvMUJMeDM0elNLZVNRWFlNQ1hMTVloQVFGWGs5YjFJdk5sZjYyZ2ktU1VvZGdWNm1mWE5xb0Q2OW1XRlNta280ZmY3TmdQUjJQdkdMaWxmcDlzSUxTd1V2SDZXYjI3N214V0RmelI0a0FnNzN2R1dlVnlRRTh5bg?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-15T09:09:24.308414-07:00",
+    "status": "active"
+  },
+  {
     "id": "6661c0ebf616931c020fe54c5f36af69",
     "company": "MotifDrive",
     "amount": "$4.9M",

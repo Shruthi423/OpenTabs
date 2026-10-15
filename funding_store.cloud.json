@@ -6020,5 +6020,101 @@
     "roles": [],
     "first_seen": "2026-10-15T04:56:17.365575-07:00",
     "status": "active"
+  },
+  "491033a3e0d8eee5fca2c8d801c753e0": {
+    "id": "491033a3e0d8eee5fca2c8d801c753e0",
+    "company": "EMode Photonix",
+    "amount": "$1.0M",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOXpreGd4RDRCVGxQcGxXOFVYcXBmNjNhcjVWWVMyM1NuWnFhVU50Z2R1TmlFcTZfb0hvdTZHVzgtRHNjQ0RvMUJMeDM0elNLZVNRWFlNQ1hMTVloQVFGWGs5YjFJdk5sZjYyZ2ktU1VvZGdWNm1mWE5xb0Q2OW1XRlNta280ZmY3TmdQUjJQdkdMaWxmcDlzSUxTd1V2SDZXYjI3N214V0RmelI0a0FnNzN2R1dlVnlRRTh5bg?oc=5",
+    "priority": 10,
+    "blurb": "Photonics Simulation Software Startup EMode Photonix Raises $1 Million Pre-Seed - The Quantum Insider. Photonics Simulation Software Startup EMode Photonix Raises $1 Million Pre-Seed&nbsp;&nbsp;The Quantum Insider",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-15T09:09:24.308414-07:00",
+    "status": "active"
+  },
+  "02d7d5f0a088823967be44bf0cd48b2b": {
+    "id": "02d7d5f0a088823967be44bf0cd48b2b",
+    "company": "OQT",
+    "amount": "$10.4M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90T3dnZk96RVZSM1NIT3ItOGhWdUlrVWdmOF9RbU40RENWTGU2THpGM1p3cEVQZHdRcEtCc0ZsbWRlTXFBaXdCSFNNd21HdmFrWXJDOHpLbG1xWGJZVWt5clZoaGJ4ZHYtYlpMakx0M3RuQkNFZmc?oc=5",
+    "priority": 8,
+    "blurb": "Neutral-Atom Quantum Computing Startup OQT Raises \u20a914 Billion (approximately $10.4 Million) in Pre-Series A, Gearing Up for Global Expansion - BigGo Finance. Neutral-Atom Quantum Computing Startup OQT Raises \u20a914 Billion (approximately $10.4 Million) in Pre-Series A, Gearing Up for Global Expansion&nbsp;&nbsp;BigGo Finance",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-15T09:09:27.374658-07:00",
+    "status": "active"
+  },
+  "64e1b43421a77135e8742878e563dc27": {
+    "id": "64e1b43421a77135e8742878e563dc27",
+    "company": "Ramp",
+    "amount": "$60.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+    "priority": 3,
+    "blurb": "Ramp reaches $60B valuation as it pushes deeper into AI. The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/ramp/eca54d0e-232a-4c3e-bfcc-d6c6add393f5",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-10-15T09:09:30.449221-07:00",
+    "status": "active"
+  },
+  "fb2e389a4902fe5873eaf3a7d6e70311": {
+    "id": "fb2e389a4902fe5873eaf3a7d6e70311",
+    "company": "Anthropic",
+    "amount": "$16.8B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/10/15/top-tech-news-today-october-15-2026-anthropic-cisco-gartner-google-openai-ramp-tsmc-more/",
+    "priority": 3,
+    "blurb": "Top Tech News Today, October 15, 2026: Anthropic, Cisco, Gartner, Google, OpenAI, Ramp, TSMC & More. Daily Global Technology Digest &#124; Thursday, October 15, 2026 It\u2019s Thursday, October 15, 2026, and the tech world is balancing explosive AI momentum against fresh regulatory pressure, debt-market jitters, and a wave of new hardware. Anthropic&#8217;s $16.8 billion quarter and [&#8230;]\nThe post Top Tech News Today, October 15, 2026: Anthropic, Cisco, Gartner, Google, OpenAI, Ramp, TSMC & More ",
+    "founders": [],
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "roles": [
+      {
+        "title": "Product Designer, Claude Developer Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397654008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      },
+      {
+        "title": "Product Designer, Design Systems",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428124008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer, Growth",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446776008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer, Safeguards",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      },
+      {
+        "title": "User Experience Researcher, Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392007008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      }
+    ],
+    "first_seen": "2026-10-15T09:09:33.459838-07:00",
+    "status": "active"
   }
 }
