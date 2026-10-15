@@ -1,17 +1,32 @@
 [
   {
     "item": {
-      "company": "Modal",
-      "amount": "$750.0M",
-      "stage": "Series D",
-      "investors": "Accel, Kleiner Perkins",
+      "company": "augustlab",
+      "amount": "$1.6M",
+      "stage": "Series A",
+      "investors": null,
       "location": null,
-      "blurb": "AI cloud startup Modal raises $750M at $15.75B valuation. Modal Labs Inc., a provider of artificial intelligence infrastructure, today announced that it has raised $750 million in late-stage funding.\u00a0 Accel led the Series D round. It was joined by Kleiner Perkins and a half-dozen existing Modal investors. The company is now valued at $15.75 billion, more than triple what it was worth after its [&#8230;]\nThe post AI cloud startup Modal raises $750M at $15.75B valuation appeared first on SiliconAN",
+      "blurb": "AI music startup augustlab raises Series A, tops $1.6M in cumulative revenue - Dealroom. AI music startup augustlab raises Series A, tops $1.6M in cumulative revenue&nbsp;&nbsp;Dealroom",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/14/ai-cloud-startup-modal-raises-750m-at-15-75b-valuation/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWTlVbzB1Rk5sLURmMU1oSE4tTVhxU1ItbS12dnlCZlBaSlVlYWZYY01tc0J3MUJyUU13MS03MGQwTnNoaU5KaWVOcjlnNkxqOUY2YTlUSXNOLWoyVkhJRXAxZjZ3Z1d6R0kzTEtodzdtTWVGR0w0T3pXOVZVM252N3hpaUZCbFd2M19pSHF0V1VZRGdYeHR6ZEIxQ0d4cE94Z21fM0UzNHUzN1VE?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-10-14T16:51:41.588981-07:00"
+    "remind_at": "2026-10-14T19:08:36.808764-07:00"
+  },
+  {
+    "item": {
+      "company": "Jev",
+      "amount": "$7.5B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Jev, the AI That Doesn't Write Text, Surpasses $7.5 Billion Valuation Three Weeks After Launch - BigGo Finance. Jev, the AI That Doesn't Write Text, Surpasses $7.5 Billion Valuation Three Weeks After Launch&nbsp;&nbsp;BigGo Finance",
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJMUNqZl9tSEdlQ3RLdy02OW40aktXYndLNkxFalNFZEZxN2VjbDVHUmEzTjdKZXJzMWlzSVc2R3lvYkljM25qdkNkNGM0RWc0X2dNdHdwd2M4ZzAzYnFMcUI4bmR5NW5ObHFKSUlxQkp6VnpIdEE?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-10-14T19:08:39.671786-07:00"
   }
 ]

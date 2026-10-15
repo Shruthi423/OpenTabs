@@ -1,5 +1,35 @@
 [
   {
+    "id": "0e8e1b1be638460e053c2b5061d922b4",
+    "company": "Jev",
+    "amount": "$7.5B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJMUNqZl9tSEdlQ3RLdy02OW40aktXYndLNkxFalNFZEZxN2VjbDVHUmEzTjdKZXJzMWlzSVc2R3lvYkljM25qdkNkNGM0RWc0X2dNdHdwd2M4ZzAzYnFMcUI4bmR5NW5ObHFKSUlxQkp6VnpIdEE?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-14T18:38:40.671968-07:00",
+    "status": "active"
+  },
+  {
+    "id": "968ffcc77fc10af16ef706ef4c87c9c9",
+    "company": "augustlab",
+    "amount": "$1.6M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWTlVbzB1Rk5sLURmMU1oSE4tTVhxU1ItbS12dnlCZlBaSlVlYWZYY01tc0J3MUJyUU13MS03MGQwTnNoaU5KaWVOcjlnNkxqOUY2YTlUSXNOLWoyVkhJRXAxZjZ3Z1d6R0kzTEtodzdtTWVGR0w0T3pXOVZVM252N3hpaUZCbFd2M19pSHF0V1VZRGdYeHR6ZEIxQ0d4cE94Z21fM0UzNHUzN1VE?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-14T18:38:37.808895-07:00",
+    "status": "active"
+  },
+  {
     "id": "7352c6a41e2b5541a32a1462fdf952ce",
     "company": "Modal",
     "amount": "$750.0M",
