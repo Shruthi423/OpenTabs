@@ -1,17 +1,32 @@
 [
   {
     "item": {
-      "company": "North",
-      "amount": "$60.0M",
-      "stage": "Series B",
-      "investors": null,
+      "company": "Ramp",
+      "amount": "$1.85B",
+      "stage": null,
+      "investors": "Thrive Capital, Founders Fund, Sands Capital",
       "location": null,
-      "blurb": "Cloud spend startup North raises $60M Series B - Dealroom. Cloud spend startup North raises $60M Series B&nbsp;&nbsp;Dealroom",
+      "blurb": "Ramp raises $1.85B as it expands beyond finance software. Ramp Business Corp., a provider of corporate credit cards and business software, today announced that it has raised $1.85 billion in late-stage funding. Dragoneer led the Series G round. Thrive Capital, Founders Fund, Sands Capital and Avenir Growth joined as co-leads. The deal, which values Ramp at $60 billion, also drew contributions from two dozen [&#8230;]\nThe post Ramp raises $1.85B as it expands beyond finance software appeared firs",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/15/ramp-raises-1-85b-as-it-expands-beyond-finance-software/",
+      "priority": 6
+    },
+    "remind_at": "2026-10-15T16:21:38.280837-07:00"
+  },
+  {
+    "item": {
+      "company": "Kapta Space",
+      "amount": "$24.0M",
+      "stage": null,
+      "investors": null,
+      "location": "Seattle",
+      "blurb": "Seattle radar tech startup Kapta Space raises $24 million, with assist from Gates-backed firm - The Business Journals. Seattle radar tech startup Kapta Space raises $24 million, with assist from Gates-backed firm&nbsp;&nbsp;The Business Journals",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOGQ3cmNJV3ZISkhCdEg3VGluQ05mLUpNMkNnZTFYelJMMnhQU1dlLWxVdUQxWUpzaXJtVGRQWG0tNXdwZHR1WGxyRDdlU2lCVHZtU2l0bUktckVKc3QzWmozcFBQM3J3cDFPLWxXMXNYRjNrSl8wR3JWYTN3cVA2OS05Wm02dw?oc=5",
-      "priority": 7
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjhfU19Ja1NfMWZIeERvVE5XZ1NIVzdEQWI0RWJldnNvQk1hcGFXVFNDWnN3OGVXaW90T3hNZFdEYW1WMnl6cWpPNmM0VVowS0swSU1za0Rwc1Z3Q2VLeDdiSVJ1aDJCb0gxUEsyM3VjQW5kU1M3bmF3MEU2LU1oeVRFX3FMQXlOUUFLelRrOWluRmt4TGFYaUVHRU81WVFkYk1hT0s3RkJWZw?oc=5",
+      "priority": 3
     },
-    "remind_at": "2026-10-15T13:23:30.782966-07:00"
+    "remind_at": "2026-10-15T16:21:44.153611-07:00"
   }
 ]

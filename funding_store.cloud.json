@@ -6132,5 +6132,43 @@
     "roles": [],
     "first_seen": "2026-10-15T12:53:31.783127-07:00",
     "status": "active"
+  },
+  "ce11cfa79c870e8eb40308f2220c1fec": {
+    "id": "ce11cfa79c870e8eb40308f2220c1fec",
+    "company": "Ramp",
+    "amount": "$1.85B",
+    "stage": "?",
+    "investors": "Thrive Capital, Founders Fund, Sands Capital",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/15/ramp-raises-1-85b-as-it-expands-beyond-finance-software/",
+    "priority": 6,
+    "blurb": "Ramp raises $1.85B as it expands beyond finance software. Ramp Business Corp., a provider of corporate credit cards and business software, today announced that it has raised $1.85 billion in late-stage funding. Dragoneer led the Series G round. Thrive Capital, Founders Fund, Sands Capital and Avenir Growth joined as co-leads. The deal, which values Ramp at $60 billion, also drew contributions from two dozen [&#8230;]\nThe post Ramp raises $1.85B as it expands beyond finance software appeared firs",
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/ramp/eca54d0e-232a-4c3e-bfcc-d6c6add393f5",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-10-15T15:51:39.281014-07:00",
+    "status": "active"
+  },
+  "cff4f66d7a4f5f9ca623a05a247f742a": {
+    "id": "cff4f66d7a4f5f9ca623a05a247f742a",
+    "company": "Kapta Space",
+    "amount": "$24.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjhfU19Ja1NfMWZIeERvVE5XZ1NIVzdEQWI0RWJldnNvQk1hcGFXVFNDWnN3OGVXaW90T3hNZFdEYW1WMnl6cWpPNmM0VVowS0swSU1za0Rwc1Z3Q2VLeDdiSVJ1aDJCb0gxUEsyM3VjQW5kU1M3bmF3MEU2LU1oeVRFX3FMQXlOUUFLelRrOWluRmt4TGFYaUVHRU81WVFkYk1hT0s3RkJWZw?oc=5",
+    "priority": 3,
+    "blurb": "Seattle radar tech startup Kapta Space raises $24 million, with assist from Gates-backed firm - The Business Journals. Seattle radar tech startup Kapta Space raises $24 million, with assist from Gates-backed firm&nbsp;&nbsp;The Business Journals",
+    "founders": [],
+    "location": "Seattle",
+    "roles": [],
+    "first_seen": "2026-10-15T15:51:45.153771-07:00",
+    "status": "active"
   }
 }
