@@ -1,5 +1,35 @@
 [
   {
+    "id": "7143813a83e1b083549bd8c54fb0e796",
+    "company": "North.cloud",
+    "amount": "$60.0M",
+    "stage": "Series B",
+    "investors": "PeakSpan Capital, Litquidity Ventures",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/15/north-cloud-bags-60m-in-funding-to-help-businesses-keep-runaway-cloud-costs-in-check/",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-15T22:27:37.176897-07:00",
+    "status": "active"
+  },
+  {
+    "id": "cd08be4870acd4a84765067833135c9b",
+    "company": "IP Tokenization Platform IPX",
+    "amount": "$4.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yTHU3ZWVaQnJXTWM3bFpnVUJIM21VRlFOUVZ4VGVYUFBoYjBmc3V2TDQ3ZmNTT3JIS3UycUJVYU8tZDBGTHRCZkx4WGlxdzl3cnY4OQ?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-15T22:27:34.392559-07:00",
+    "status": "active"
+  },
+  {
     "id": "4bdc762f12cfdf8bacfdcda3198363db",
     "company": "Mueon",
     "amount": "$65.0M",
