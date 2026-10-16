@@ -59,7 +59,7 @@
     "first_seen": "2026-09-22T03:22:08.509836-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T23:26:45.670954-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "bdb14dafce4b23a44f92807bbc0a78ec": {
@@ -80,7 +80,7 @@
     "first_seen": "2026-09-22T03:22:10.327840-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T23:26:45.670954-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "b3f6c7a25c8e1b2266ff9b918206d756": {
@@ -269,7 +269,7 @@
     "first_seen": "2026-09-22T03:22:25.993393-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "eb007648a27932c616f096b30949c4c5": {
@@ -710,7 +710,7 @@
     "first_seen": "2026-09-24T05:17:54.502271-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "621507666705255764ac4a74053c97c5": {
@@ -731,7 +731,7 @@
     "first_seen": "2026-09-24T10:26:01.232533-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "116ff82c2622e4d1240a78e55a260055": {
@@ -752,7 +752,7 @@
     "first_seen": "2026-09-24T10:26:03.142034-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "f5755c4d4879d808ae536504e43eb498": {
@@ -773,7 +773,7 @@
     "first_seen": "2026-09-24T13:38:14.460756-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00"
+    "checked_at": "2026-10-16T03:01:14.375766-07:00"
   },
   "240e613f86f51a1d7a50ccf37f4435cc": {
     "id": "240e613f86f51a1d7a50ccf37f4435cc",
@@ -793,7 +793,7 @@
     "first_seen": "2026-09-24T13:38:16.127427-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "73237cd9463700cf877546641409be1d": {
@@ -814,7 +814,7 @@
     "first_seen": "2026-09-24T13:38:18.035206-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "0e4a6e580e7a9650bc7fbac55859a4e1": {
@@ -835,7 +835,7 @@
     "first_seen": "2026-09-24T16:27:51.239906-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "08db4b834c816c493d7f063a3055df9f": {
@@ -856,7 +856,7 @@
     "first_seen": "2026-09-24T16:27:52.844092-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "14fec50e5aff7081f9aadbf149f20639": {
@@ -877,7 +877,7 @@
     "first_seen": "2026-09-25T05:14:48.936345-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "76294d003296ac3c3dbb887cf12679be": {
@@ -1338,7 +1338,7 @@
     "first_seen": "2026-09-28T07:30:27.260693-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "57567fa3eddf0987857bb972b5e1bbe8": {
@@ -1674,7 +1674,7 @@
     "first_seen": "2026-09-29T05:53:37.349893-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "11a652c7b752140c957225d16c3a04f0": {
@@ -1695,7 +1695,7 @@
     "first_seen": "2026-09-29T05:53:38.896942-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "388b918f0ca570ec7b961aeef8a5aefc": {
@@ -3207,7 +3207,7 @@
     "first_seen": "2026-10-07T06:41:57.202770-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "bd7b90e9af4da6d8e0a9446915d7df43": {
@@ -3228,7 +3228,7 @@
     "first_seen": "2026-10-07T06:41:58.752602-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "b9746e0201333c1235fd9baa7d1acc95": {
@@ -3249,7 +3249,7 @@
     "first_seen": "2026-10-07T06:42:00.388788-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "47bc454b57baf3d03d66f53721d1ecfc": {
@@ -3270,7 +3270,7 @@
     "first_seen": "2026-10-07T06:42:02.153454-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "c49ac8b4f3c90ceb14322ce8e444d0ce": {
@@ -3291,7 +3291,7 @@
     "first_seen": "2026-10-07T06:42:03.930900-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "b1e27b64c972c940e80456788a9d1205": {
@@ -3312,7 +3312,7 @@
     "first_seen": "2026-10-07T06:42:05.718774-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "c1727041f5dc8cd3140b063705223cc2": {
@@ -3480,7 +3480,7 @@
     "first_seen": "2026-10-08T15:45:17.879732-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "689d05191ec1fcce227b05079f87f19d": {
@@ -3501,7 +3501,7 @@
     "first_seen": "2026-10-08T15:45:19.511364-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "a2f8f84acc32450cbbec237ff3ee8c14": {
@@ -3522,7 +3522,7 @@
     "first_seen": "2026-10-08T15:45:21.205449-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "fd6cb52fb1b2be65e05b370d1c97f060": {
@@ -3753,7 +3753,7 @@
     "first_seen": "2026-10-11T17:41:13.428107-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-14T18:37:19.654549-07:00",
+    "checked_at": "2026-10-16T03:01:14.375766-07:00",
     "dead_strikes": 0
   },
   "0124364b37e61eee0057de47ca124bec": {
@@ -4598,6 +4598,25 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-10-15T15:51:16.535642-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "916079af75c638042dafb73196464475": {
+    "id": "916079af75c638042dafb73196464475",
+    "title": "Interactive Designer / Creative Developer (Web Animation & Data Viz) at We Are Rosie",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "$80",
+    "url": "https://remotefirstjobs.com/companies/we-are-rosie/jobs/interactive-designer-creative-developer-web-animation-data-viz-872251",
+    "source": "JobsCollider-Product",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Company Description\n\nOur client, a global alternative asset manager, is looking for a freelance interactive motion designer with front-end prototyping skills to help bring its corporate website to life. You\u2019ll design and prototype interactive data visualizations, scroll-based storytelling, parallax",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-10-16T03:02:14.512281-07:00",
     "status": "active",
     "applied_at": null
   }
