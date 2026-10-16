@@ -6170,5 +6170,21 @@
     "roles": [],
     "first_seen": "2026-10-15T15:51:45.153771-07:00",
     "status": "active"
+  },
+  "4bdc762f12cfdf8bacfdcda3198363db": {
+    "id": "4bdc762f12cfdf8bacfdcda3198363db",
+    "company": "Mueon",
+    "amount": "$65.0M",
+    "stage": "Series A",
+    "investors": "Oregon Venture Fund, Wellington Capital",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/15/mueon-nabs-65m-in-funding-to-develop-3d-computing-modules/",
+    "priority": 8,
+    "blurb": "Mueon nabs $65M in funding to develop 3D computing modules. Data center hardware startup Mueon Corp. today announced that it has raised $65 million in funding.\u00a0 Semiconductor-focused fund Maverick Silicon led the Series A round. It was joined by Intel Corp.\u2019s venture capital arm, Oregon Venture Fund, Wellington Capital, IQT and several others. Mueon was founded last year by former Intel engineers Wilfred Gomes and [&#8230;]\nThe post Mueon nabs $65M in funding to develop 3D computing modules appe",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-15T17:58:06.214405-07:00",
+    "status": "active"
   }
 }
