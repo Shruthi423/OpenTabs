@@ -1,5 +1,20 @@
 [
   {
+    "id": "e2e66a269c0a04917b56f555ae32db4b",
+    "company": "Sunbound",
+    "amount": "$24.0M",
+    "stage": "Series A",
+    "investors": "TTV Capital",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/sunbound-raises-24m-series-a/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-16T07:50:40.619953-07:00",
+    "status": "active"
+  },
+  {
     "id": "d94da52d8f2e61d43ed501e8b9e5ca95",
     "company": "Goodweek",
     "amount": "$12.0M",

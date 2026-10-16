@@ -1,185 +1,32 @@
 [
   {
     "item": {
-      "company": "MixRoom",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "MYSC",
-      "location": null,
-      "blurb": "MixRoom Raises Seed Funding from MYSC. MixRoom, a music-tech startup, has secured seed funding from MYSC to advance its AI-powered cloud-based digital audio workstation software.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/mixroom-raises-seed-funding-from-mysc/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-16T03:32:53.911570-07:00"
-  },
-  {
-    "item": {
-      "company": "IPX Exchange",
-      "amount": "$4.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "IPX Exchange Raises $4M Seed. IPX Exchange raises $4M seed round at a $125M valuation to build an agentic operating system and tokenized exchange for intellectual property on Base.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ipx-exchange-raises-4m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-16T03:33:04.450592-07:00"
-  },
-  {
-    "item": {
-      "company": "Sprout Family",
-      "amount": "$3.55M",
-      "stage": "Seed",
-      "investors": "BDC Thrive Venture Fund",
-      "location": null,
-      "blurb": "Sprout Family Raises $3.55M CAD Seed. Sprout Family raises $3.55M CAD in an oversubscribed seed round led by BDC Thrive Venture Fund to expand its integrated family benefits platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sprout-family-raises-3-55m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-16T03:33:11.180326-07:00"
-  },
-  {
-    "item": {
-      "company": "Sharp Performance",
-      "amount": "$18.0M",
+      "company": "Sunbound",
+      "amount": "$24.0M",
       "stage": "Series A",
-      "investors": null,
+      "investors": "TTV Capital",
       "location": null,
-      "blurb": "Sharp Performance Raises $18M Series A. Sharp Performance raises $18M Series A led by Hidden Variable to expand its coaching and training marketplace for first responders.",
+      "blurb": "Sunbound Raises $24M Series A. Sunbound raises $24 million in a Series A round led by TTV Capital to accelerate the growth of its AI-powered revenue operating system for senior living.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sharp-performance-raises-18m-series-a/",
+      "url": "https://www.thesaasnews.com/news/sunbound-raises-24m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-10-16T03:33:17.758870-07:00"
+    "remind_at": "2026-10-16T08:20:39.619772-07:00"
   },
   {
     "item": {
-      "company": "Chariot",
-      "amount": "$10.0M",
-      "stage": "Series A",
-      "investors": "Silverton Partners",
-      "location": null,
-      "blurb": "Chariot Raises $10M Series A. Chariot raises $10M Series A round led by Silverton Partners to scale its AI-driven legal tech platform for mass consumer arbitration claims.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/chariot-raises-10m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-10-16T03:33:20.757616-07:00"
-  },
-  {
-    "item": {
-      "company": "Confido Health",
-      "amount": "$12.5M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Confido Health Raises $12.5M Series A Extension. Confido Health raises $12.5M in a Series A extension round led by Z47 to expand its AI-driven administrative automation platform for healthcare providers.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/confido-health-raises-12-5m-series-a-extension/",
-      "priority": 8
-    },
-    "remind_at": "2026-10-16T03:33:26.536283-07:00"
-  },
-  {
-    "item": {
-      "company": "PIT IN",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "PIT IN Raises 12 Billion Won in Series A to Build Distributed Energy Platform for Commercial EVs - Wowtale. PIT IN Raises 12 Billion Won in Series A to Build Distributed Energy Platform for Commercial EVs&nbsp;&nbsp;Wowtale",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kMlc2NXFvLUVWejZ4dDhLTFZNYlN5eUpuWHp6T2hOSDJ4SDRBYXViVFl6c2hZemdBTjk5LWpPUS14UFo1YWtUcmVTaGR6VjYwXzFr?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-10-16T03:33:32.327403-07:00"
-  },
-  {
-    "item": {
-      "company": "RapidCanvas",
-      "amount": "$29.0M",
-      "stage": "Series B",
-      "investors": "Vertex Ventures",
-      "location": null,
-      "blurb": "RapidCanvas Raises $29M Series B. RapidCanvas raises $29M in a Series B round led by Vertex Ventures to expand its enterprise AI platform and grow engineering teams globally.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/rapidcanvas-raises-29m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-10-16T03:33:35.193469-07:00"
-  },
-  {
-    "item": {
-      "company": "Stand",
-      "amount": "$70.0M",
-      "stage": "Series C",
-      "investors": "Saga Ventures",
-      "location": null,
-      "blurb": "Stand Raises $70M Series C. Stand raises $70 million in a Series C funding round led by Saga Ventures to scale its property-resilience insurance platform and digital modeling technology.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/stand-raises-70m-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-10-16T03:33:38.422619-07:00"
-  },
-  {
-    "item": {
-      "company": "Sirona Medical",
-      "amount": "$40.0M",
-      "stage": "Series D",
-      "investors": "Avidity Partners",
-      "location": null,
-      "blurb": "Sirona Medical Raises $40M Series D. Sirona Medical raises $40M in a Series D round led by Avidity Partners to scale its cloud-native radiology operating system and AI-driven workflow platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sirona-medical-raises-40m-series-d/",
-      "priority": 5
-    },
-    "remind_at": "2026-10-16T03:33:44.234791-07:00"
-  },
-  {
-    "item": {
-      "company": "Banks",
-      "amount": "$23.0B",
+      "company": "Funding News Today",
+      "amount": "$1.85B",
       "stage": null,
       "investors": null,
-      "location": null,
-      "blurb": "Banks are pulling back as AI's massive debt pile disconnects from economic reality. Wall Street appears to be hitting its limit on AI, and financiers are starting to say the quiet part out loud: All of this AI spending doesn't look like it can pay off, at least not for everyone.Why it matters: The gap between what it costs to build AI infrastructure and what companies are actually paying to use it is widening. Wall Street's anxiety is surging as the debt piling up to fund data centers and chips ",
-      "founders": [
-        "Ioannis Antonoglou",
-        "Jensen Huang"
-      ],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/16/wall-street-limit-ai-spending-debt",
-      "priority": 3
-    },
-    "remind_at": "2026-10-16T03:33:47.693878-07:00"
-  },
-  {
-    "item": {
-      "company": "Goodweek",
-      "amount": "$12.0M",
-      "stage": null,
-      "investors": "Adara Ventures",
-      "location": null,
-      "blurb": "Goodweek Raises $12M in Funding. Goodweek raises $12 million in a funding round led by Adara Ventures to scale its AI management platform for small and medium-sized businesses.",
+      "location": "New York",
+      "blurb": "Startup Funding News Today, October 16, 2026: Ramp, Abby Care, Origin, North.cloud, Mueon & More. Venture capital continues to pour into fintech, AI infrastructure, semiconductor manufacturing, healthcare, and physical AI over the past 24 hours, with Ramp leading global funding activity after raising $1.85 billion at a $60 billion valuation. The New York fintech company [&#8230;]\nThe post Startup Funding News Today, October 16, 2026: Ramp, Abby Care, Origin, North.cloud, Mueon & More first appea",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/goodweek-raises-12m-unknown/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/16/startup-funding-news-today-october-16-2026-ramp-abby-care-origin-north-cloud-mueon-more/",
       "priority": 3
     },
-    "remind_at": "2026-10-16T03:33:50.683728-07:00"
+    "remind_at": "2026-10-16T08:20:45.585945-07:00"
   }
 ]

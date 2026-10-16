@@ -6413,5 +6413,37 @@
     "roles": [],
     "first_seen": "2026-10-16T03:03:51.683884-07:00",
     "status": "active"
+  },
+  "e2e66a269c0a04917b56f555ae32db4b": {
+    "id": "e2e66a269c0a04917b56f555ae32db4b",
+    "company": "Sunbound",
+    "amount": "$24.0M",
+    "stage": "Series A",
+    "investors": "TTV Capital",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/sunbound-raises-24m-series-a/",
+    "priority": 8,
+    "blurb": "Sunbound Raises $24M Series A. Sunbound raises $24 million in a Series A round led by TTV Capital to accelerate the growth of its AI-powered revenue operating system for senior living.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-16T07:50:40.619953-07:00",
+    "status": "active"
+  },
+  "1a118da34949ba3df2b8236dbf1c26c2": {
+    "id": "1a118da34949ba3df2b8236dbf1c26c2",
+    "company": "Funding News Today",
+    "amount": "$1.85B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/10/16/startup-funding-news-today-october-16-2026-ramp-abby-care-origin-north-cloud-mueon-more/",
+    "priority": 3,
+    "blurb": "Startup Funding News Today, October 16, 2026: Ramp, Abby Care, Origin, North.cloud, Mueon & More. Venture capital continues to pour into fintech, AI infrastructure, semiconductor manufacturing, healthcare, and physical AI over the past 24 hours, with Ramp leading global funding activity after raising $1.85 billion at a $60 billion valuation. The New York fintech company [&#8230;]\nThe post Startup Funding News Today, October 16, 2026: Ramp, Abby Care, Origin, North.cloud, Mueon & More first appea",
+    "founders": [],
+    "location": "New York",
+    "roles": [],
+    "first_seen": "2026-10-16T07:50:46.586083-07:00",
+    "status": "active"
   }
 }
