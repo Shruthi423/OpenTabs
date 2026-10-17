@@ -1,5 +1,20 @@
 [
   {
+    "id": "cd7a5611117e724740eaee2954eb1f09",
+    "company": "You Have",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "To Deploy The Capital",
+    "source": "SaaStr",
+    "url": "https://www.saastr.com/why-cmo-is-a-really-tough-job/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-17T07:26:36.150282-07:00",
+    "status": "active"
+  },
+  {
     "id": "eed21839d9ab72df3c0826dbb4eece5e",
     "company": "TypeSafeAI",
     "amount": "$870.0M",
