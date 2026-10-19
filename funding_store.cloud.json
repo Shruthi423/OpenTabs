@@ -6825,5 +6825,53 @@
     "roles": [],
     "first_seen": "2026-10-19T08:49:07.389610-07:00",
     "status": "active"
+  },
+  "a5d2b0ca08978b4303aedbc7d5a0e141": {
+    "id": "a5d2b0ca08978b4303aedbc7d5a0e141",
+    "company": "Dream Labs",
+    "amount": "$90.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2xhZkd5MmEzUHF5M201VF8xN1VwQmc3b1FqUVVVYWxrc19DUUd1VV94YUd1N2lBb1BUT0h0QXE0R2JTTnV6cXp5enlkd1BnUDZZTjh1bGdOSkNDYWF6V1h4dGVsOXJMaGxRYkx1WmZIeHFDVVdGZmt6dnpJNk9hTTJTQ0xVYzNuZ184cWNoQVhwaUJWYU1HVC0zN3JGX09nVGk5b09xVENuOERBNkt1R2hUeklQZWc?oc=5",
+    "priority": 9,
+    "blurb": "Dream Labs Raises $90M in Seed Funding to Build Foundation Models for Any Robot - AI Insider. Dream Labs Raises $90M in Seed Funding to Build Foundation Models for Any Robot&nbsp;&nbsp;AI Insider",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-19T13:51:15.010190-07:00",
+    "status": "active"
+  },
+  "37d70a4a92ae151003a6f8eec9042114": {
+    "id": "37d70a4a92ae151003a6f8eec9042114",
+    "company": "Town",
+    "amount": "$108.0M",
+    "stage": "Series B",
+    "investors": "Forerunner Ventures and Menlo Ventures",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+    "priority": 7,
+    "blurb": "AI assistant startup Town nabs unicorn valuation 4 months after launch. AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-19T13:51:17.796062-07:00",
+    "status": "active"
+  },
+  "3f2d52d6ab5934be652e63f946c8d4af": {
+    "id": "3f2d52d6ab5934be652e63f946c8d4af",
+    "company": "Tenstorrent",
+    "amount": "$6.2B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "priority": 3,
+    "blurb": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips. After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-19T13:51:20.663229-07:00",
+    "status": "active"
   }
 }

@@ -1,92 +1,47 @@
 [
   {
     "item": {
-      "company": "Sharp",
-      "amount": "$18.0M",
-      "stage": "Series A",
-      "investors": "Hidden Variable For First Responder Coaching Platform - Pulse",
-      "location": null,
-      "blurb": "Sharp Raises $18 Million Series A Led By Hidden Variable For First Responder Coaching Platform - Pulse 2.0. Sharp Raises $18 Million Series A Led By Hidden Variable For First Responder Coaching Platform&nbsp;&nbsp;Pulse 2.0",
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTlzRGg2cUx6OXJWRW1qU1BSVjdaWFZRcGVZNzdBZkoyaDltQmhkX0ktVTZ6Si16WnNFM1JTNE1lWHBWZUdQXy0wQ2R6VEhlalctb1lVYXVkSWVFdWdXUkYyWm1kdm4zLTkzdnJSenFiT1F5Si02cVJnU0JLOUFYcmhyVXI3VXRCYjZXTktDZ0J1eWlLcmw5R0QtYTFYeHpjZGZhamVYU0duZDh6UmtPbDFuOA?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-10-19T09:18:35.604221-07:00"
-  },
-  {
-    "item": {
-      "company": "Hunar.AI",
-      "amount": "$4.15M",
-      "stage": "Series A",
+      "company": "Dream Labs",
+      "amount": "$90.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
-      "blurb": "Hunar.AI raises $4.15M Series A, valuation climbs 71% - Dealroom. Hunar.AI raises $4.15M Series A, valuation climbs 71%&nbsp;&nbsp;Dealroom",
+      "blurb": "Dream Labs Raises $90M in Seed Funding to Build Foundation Models for Any Robot - AI Insider. Dream Labs Raises $90M in Seed Funding to Build Foundation Models for Any Robot&nbsp;&nbsp;AI Insider",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTE5cjNpRDIwX1dLOHpxRHZRZHZKcklIZEFSZzBEOXhXRGYweGRRb3p5TGs4SHNlVVRlaGxCcEIwU1hERk9GRmpCX2hzU3l2VFlFcEhGZzBWX25XN2ZVbDgydlREN3ZmV0NhZVZ6WnU0RC1IVTgxYVdOM3VCc3hGWDV1dDhUcmliTGYzNw?oc=5",
-      "priority": 8
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2xhZkd5MmEzUHF5M201VF8xN1VwQmc3b1FqUVVVYWxrc19DUUd1VV94YUd1N2lBb1BUT0h0QXE0R2JTTnV6cXp5enlkd1BnUDZZTjh1bGdOSkNDYWF6V1h4dGVsOXJMaGxRYkx1WmZIeHFDVVdGZmt6dnpJNk9hTTJTQ0xVYzNuZ184cWNoQVhwaUJWYU1HVC0zN3JGX09nVGk5b09xVENuOERBNkt1R2hUeklQZWc?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-10-19T09:18:44.956369-07:00"
+    "remind_at": "2026-10-19T14:21:14.010045-07:00"
   },
   {
     "item": {
-      "company": "Rabot Energy",
-      "amount": "$50.0M",
+      "company": "Town",
+      "amount": "$108.0M",
       "stage": "Series B",
-      "investors": "Endeit Capital",
+      "investors": "Forerunner Ventures and Menlo Ventures",
       "location": null,
-      "blurb": "Rabot Energy Raises $50M Series B. Rabot Energy raises $50M Series B round led by Endeit Capital to expand its virtual power plant platform and grow its customer base to one million.",
+      "blurb": "AI assistant startup Town nabs unicorn valuation 4 months after launch. AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/rabot-energy-raises-50m-series-b/",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
       "priority": 7
     },
-    "remind_at": "2026-10-19T09:18:57.582610-07:00"
+    "remind_at": "2026-10-19T14:21:16.795938-07:00"
   },
   {
     "item": {
       "company": "Tenstorrent",
-      "amount": "$1.5B",
-      "stage": "Series E",
+      "amount": "$6.2B",
+      "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "AI chip startup Tenstorrent raises $1.5 billion at $6.2 billion valuation to take on Nvidia. AI chip startup Tenstorrent has raised $1.5 billion in Series E funding, more than doubling its valuation to $6.2 billion as the Jim Keller-led company steps up its challenge to Nvidia&#8217;s dominance in AI computing. The funding gives Tenstorrent fresh [&#8230;]\nThe post AI chip startup Tenstorrent raises $1.5 billion at $6.2 billion valuation to take on Nvidia first appeared on Tech Startups.",
+      "blurb": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips. After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/19/ai-chip-startup-tenstorrent-raises-1-5-billion-at-6-2-billion-valuation-to-take-on-nvidia/",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
       "priority": 3
     },
-    "remind_at": "2026-10-19T09:19:00.653527-07:00"
-  },
-  {
-    "item": {
-      "company": "Punch",
-      "amount": "$2.0M",
-      "stage": null,
-      "investors": "Gutter Capital",
-      "location": null,
-      "blurb": "Punch Raises $2M in Funding. Punch raises $2 million in a funding round led by Gutter Capital to expand its AI-powered construction intelligence platform for field and office teams.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/punch-raises-2m-other/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-19T09:19:03.482556-07:00"
-  },
-  {
-    "item": {
-      "company": "Opsin",
-      "amount": "$21.0M",
-      "stage": null,
-      "investors": "SYN Ventures, Race Capital",
-      "location": null,
-      "blurb": "Opsin Raises $21M in Funding. Opsin raises $21M in funding led by SYN Ventures and Race Capital to scale its AI governance and security platform for enterprise AI agents.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/opsin-raises-21m-other/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-19T09:19:06.389466-07:00"
+    "remind_at": "2026-10-19T14:21:19.663094-07:00"
   }
 ]
