@@ -1,1 +1,167 @@
-[]
+[
+  {
+    "item": {
+      "company": "TechNovaTime",
+      "amount": "$3.4M",
+      "stage": "Pre-Seed",
+      "investors": "AIN Ventures",
+      "location": null,
+      "blurb": "TechNovaTime Raises $3.4M Pre-seed. TechNovaTime raises $3.4M in pre-seed funding led by AIN Ventures to scale its AI platform for healthcare administrative workflow automation.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/technovatime-raises-3-4m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-10-19T01:54:12.126740-07:00"
+  },
+  {
+    "item": {
+      "company": "Popcorn AI Studio",
+      "amount": "$1.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Popcorn AI Studio Raises $1M Pre-seed. Popcorn AI Studio raises $1M in pre-seed funding led by Mohammed Bin Bouta Alharsoosi to expand its AI-powered filmmaking platform in the Middle East.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/popcorn-ai-studio-raises-1m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-10-19T01:54:17.731632-07:00"
+  },
+  {
+    "item": {
+      "company": "Syncrowin",
+      "amount": "$3.0M",
+      "stage": "Pre-Seed",
+      "investors": "Collide Capital",
+      "location": null,
+      "blurb": "Syncrowin Raises $3M Pre-seed. Syncrowin raises $3 million in pre-seed funding led by Collide Capital to expand its industrial AI platform for factory and energy maintenance.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/syncrowin-raises-3m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-10-19T01:54:20.734961-07:00"
+  },
+  {
+    "item": {
+      "company": "Otter Health",
+      "amount": "$8.0M",
+      "stage": "Seed",
+      "investors": "Fika Ventures",
+      "location": null,
+      "blurb": "Otter Health Raises $8M Seed. Otter Health raises $8 million in seed funding led by Fika Ventures and Evidenced to scale its AI platform for healthcare utilization and quality management.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/otter-health-raises-8m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-19T01:54:26.698440-07:00"
+  },
+  {
+    "item": {
+      "company": "Homa",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": "Quiet Capital",
+      "location": null,
+      "blurb": "Homa Raises $5M Seed. Homa raises $5M in seed funding led by Quiet Capital to expand its AI-powered homebuying platform and integrate mortgage lending services.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/homa-raises-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-19T01:54:29.670611-07:00"
+  },
+  {
+    "item": {
+      "company": "Aerium",
+      "amount": "$2.5M",
+      "stage": "Seed",
+      "investors": "Gutter Capital",
+      "location": null,
+      "blurb": "Aerium Raises $2.5M Seed. Aerium raises $2.5 million in a seed round from Gutter Capital and angel investors to expand its AI workforce platform for the manufacturing sector.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/aerium-raises-2-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-19T01:54:32.650210-07:00"
+  },
+  {
+    "item": {
+      "company": "Geniez AI",
+      "amount": "$6.0M",
+      "stage": "Seed",
+      "investors": "StageOne Ventures, Canapi Ventures",
+      "location": null,
+      "blurb": "Geniez AI Raises $6M Seed. Geniez AI raises $6M in seed funding co-led by StageOne Ventures and Canapi Ventures to connect LLMs and AI agents with real-time mainframe data.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/geniez-ai-raises-6m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-19T01:54:35.618586-07:00"
+  },
+  {
+    "item": {
+      "company": "Antithesis",
+      "amount": "$105.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Antithesis Raises $105M Series A. Antithesis raises $105M Series A round led by Jane Street to expand its deterministic software-testing platform and scale global operations.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/antithesis-raises-105m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-19T01:54:38.496240-07:00"
+  },
+  {
+    "item": {
+      "company": "FlexM",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "FlexM Secures Series A Funding. FlexM raises a Series A round from 24 Hermes VCC to scale its global payments, remittance, and compliance infrastructure platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/flexm-secures-series-a-funding/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-19T01:54:41.346483-07:00"
+  },
+  {
+    "item": {
+      "company": "Abby Care",
+      "amount": "$82.0M",
+      "stage": "Series C",
+      "investors": "Transformation Capital",
+      "location": null,
+      "blurb": "Abby Care Raises $82M Series C. Abby Care raises $82M in Series C funding led by Transformation Capital to expand its AI-powered family caregiving platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/abby-care-raises-82m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-10-19T01:54:57.394197-07:00"
+  },
+  {
+    "item": {
+      "company": "Meow",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Meow Secures Strategic Investment. Meow Technologies secures strategic investment from Stifel Financial to expand its white-label treasury management and digital banking platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/meow-secures-strategic-investment/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-19T01:55:00.195032-07:00"
+  }
+]

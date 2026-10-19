@@ -17,7 +17,7 @@
     "first_seen": "2026-09-21T17:51:48.978740-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T23:15:09.805109-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "4e9b72139a8169d723a2eedcb19cad54": {
@@ -38,7 +38,7 @@
     "first_seen": "2026-09-22T03:22:06.758392-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T23:15:09.805109-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "c8cefd6dc21effde5535e39bf72c8180": {
@@ -122,7 +122,7 @@
     "first_seen": "2026-09-22T03:22:13.749514-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T23:15:09.805109-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "39a0c51ba0ef2d9bf145dd5fac84a850": {
@@ -1150,7 +1150,7 @@
     "first_seen": "2026-09-28T07:30:03.916536-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T23:15:09.805109-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "4ab550a49700c2d85cd721ac63118e89": {
@@ -1171,7 +1171,7 @@
     "first_seen": "2026-09-28T07:30:05.753400-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T23:15:09.805109-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "9f9496bfe8c4a6d5eb95dfe1f7d6cf18": {
@@ -1192,7 +1192,7 @@
     "first_seen": "2026-09-28T07:30:07.652048-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T23:15:09.805109-07:00"
+    "checked_at": "2026-10-19T01:22:19.256538-07:00"
   },
   "c9a4c8df018f48a8f46d5627827bd2a6": {
     "id": "c9a4c8df018f48a8f46d5627827bd2a6",
@@ -1212,7 +1212,7 @@
     "first_seen": "2026-09-28T07:30:11.391639-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T23:15:09.805109-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "5e6d43dcd034d8d641e149b60ae4eae4": {
@@ -1233,7 +1233,7 @@
     "first_seen": "2026-09-28T07:30:13.235535-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T23:15:09.805109-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "f3fa66f73fd78fee4d0a708d7effc8d3": {
@@ -2159,7 +2159,7 @@
     "first_seen": "2026-10-01T17:01:42.112198-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T23:15:09.805109-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "8f1900a1743ac8553046a676d6d1f13f": {
@@ -2180,7 +2180,7 @@
     "first_seen": "2026-10-01T17:01:44.024355-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T23:15:09.805109-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "06139a1e141a16e7a0ddc9c5ce28b3ed": {
@@ -2535,10 +2535,10 @@
     "posted_at": "Recently",
     "priority": 2,
     "first_seen": "2026-10-05T08:59:40.674820-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-10-18T16:51:00.702801-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
+    "dead_strikes": 2
   },
   "8dff198c748de4ebb30af80c69ccf7a5": {
     "id": "8dff198c748de4ebb30af80c69ccf7a5",
@@ -2768,7 +2768,7 @@
     "first_seen": "2026-10-05T08:59:58.863639-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T18:22:58.471298-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "bbfbd1a2b9deed417ef274f49eb2afac": {
@@ -2789,7 +2789,7 @@
     "first_seen": "2026-10-05T09:00:00.576084-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T18:22:58.471298-07:00"
+    "checked_at": "2026-10-19T01:22:19.256538-07:00"
   },
   "a0554122bc9c13d7b940fff828e4b7e1": {
     "id": "a0554122bc9c13d7b940fff828e4b7e1",
@@ -3795,7 +3795,7 @@
     "first_seen": "2026-10-12T09:07:55.690307-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T18:22:58.471298-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "151d0c21ba0c9be288f83d7e15ac3cab": {
@@ -3816,7 +3816,7 @@
     "first_seen": "2026-10-12T09:07:57.238374-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T18:22:58.471298-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "1d7ee3b6d8dc838a6071203599d1bb22": {
@@ -3837,7 +3837,7 @@
     "first_seen": "2026-10-12T09:07:58.787375-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T18:22:58.471298-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "fd1cb3da55c17849acadde868a0733f4": {
@@ -3858,7 +3858,7 @@
     "first_seen": "2026-10-12T09:08:00.527382-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T18:22:58.471298-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "a652307fcf52042bbeb1d96cfdbd9e91": {
@@ -3879,7 +3879,7 @@
     "first_seen": "2026-10-12T09:08:02.850048-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T18:22:58.471298-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "d41099e81ee258d8830d700370a5f0d4": {
@@ -3900,7 +3900,7 @@
     "first_seen": "2026-10-12T09:08:04.457421-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T18:22:58.471298-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "591a4e353b2d00257c0410deca87d94d": {
@@ -3921,7 +3921,7 @@
     "first_seen": "2026-10-12T09:08:06.006188-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T18:22:58.471298-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "268dfb37b047f41982882e35a7b37f9c": {
@@ -3942,7 +3942,7 @@
     "first_seen": "2026-10-12T09:08:07.709664-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T18:22:58.471298-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "1402ec01f80c06c4d30796de37a84ede": {
@@ -3963,7 +3963,7 @@
     "first_seen": "2026-10-12T09:08:09.403082-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T18:22:58.471298-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "e2b2121e7ca4ae4cff1fcdb8122330d1": {
@@ -3984,7 +3984,7 @@
     "first_seen": "2026-10-12T09:08:11.109303-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T18:22:58.471298-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "e7a32b1786110a501e36a6015dfd361d": {
@@ -4423,7 +4423,7 @@
     "first_seen": "2026-10-13T15:11:39.117000-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T18:22:58.471298-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "b4383b7ed1a43495c62eae6afba5eaf4": {
@@ -4444,7 +4444,7 @@
     "first_seen": "2026-10-13T15:11:40.717126-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-17T18:22:58.471298-07:00",
+    "checked_at": "2026-10-19T01:22:19.256538-07:00",
     "dead_strikes": 0
   },
   "5787ca497cf4466d5f09e5e316b48df3": {
@@ -4690,6 +4690,46 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-10-17T23:16:07.892002-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "34df14fd6183f543a64d86ba7a3d94ce": {
+    "id": "34df14fd6183f543a64d86ba7a3d94ce",
+    "title": "Product Designer, Product Platform",
+    "company": "Otter",
+    "location": "Los Angeles, CA",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/otter/jobs/8783008002",
+    "source": "\ud83d\udcb0 Otter Health (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Otter Health raised $8.0M",
+    "founders": [],
+    "description": "In the past, to be a successful restaurateur, you simply had to have a passion for food and a passion for people - but to succeed as a digital restaurateur you also need to have a passion for technology. We believe in the joy of serving others, and that's why we created Otter \u2013 to help restaurateurs succeed in online food delivery. Restaurants around the world, both large and small, including Chick-fil-A, Ben & Jerry\u2019s, KFC, and Eataly trust our software to power their delivery business. We increase sales, reduce order issues, and decrease delivery headaches.\nWhat you\u2019ll do\nAs Product Designer for Platform, you\u2019ll define the experience architecture and critical cross-product systems that shape how Otter works as a unified platform. Your work will influence the foundations every product team builds on and some of the most important journeys across the customer lifecycle. You will:\nDefine platform-level experience architecture across navigation, hierarchy, permissions, configuration, entitlements, and shared interaction patterns.\nLead critical cross-product workflows such as onboarding, activation, setup, upsell, and expansion.\nSimplify complex, workflow-heavy tools by creating clear mental models, scalable interaction frameworks, and reusable product patterns.\nPartner deeply with Product and Engineering to align user experience with underlying system models, platform capabilities, and technical constraints.\nWork closely with the Design System team to translate shared product patterns into reusable, consistent UI foundations.\nEmbrace new technologies and ways of working to prototype faster, iterate more effectively, and raise the quality of design outcomes.\nExplore how AI and new technologies can lower the barrier to complex software and shift experiences from \u201cusing tools\u201d to \u201cgetting outcomes as a service,\u201d with strong judgment about when to use them\u2014and when not to.\n10+ years of product design experience, or equivalent seniority, with a track record of leading complex, high-impact product work.\nStrong systems thinking and information architecture skills, with experience designing workflow-heavy products or tools with meaningful complexity.\nProven ability to define scalable experience models, frameworks, and patterns that work across multiple products, teams, or customer journeys.\nExcellent product judgment, including the ability to simplify complexity while balancing usability, flexibility, and technical constraints.\nStrong cross-functional leadership and influence, with the ability to drive alignment across Product, Engineering, Design, and other stakeholders.\nComfort working with complex system models, including permissions, configuration, object relationships, states, dependencies, and edge cases.\nExperience partnering closely with Design System teams and understanding the relationship between product architecture and reusable UI foundations.\nAdaptable and forward-looking in how design gets done, with meaningful use of emerging technologies such as AI, prototyping, and implementation tools to improve speed and quality.\nComfortable operating in ambiguity and proactively identifying opportunities beyond a single feature or product area.\nB2B or enterprise experience is a plus, but not required; we care more about the complexity of the product and workflows they\u2019ve designed.\nDemand for online food delivery is growing really fast! In the last 5 years, just in the US, the overall market has expanded 10X from $10B to $100B, and could expand to $500bn- $1T by 2030.\nChanging the restaurant industry: You\u2019ll be part of a team that helps restaurants succeed in online food delivery.\nCollaborative environment: You will receive support and guidance from experienced colleagues and managers, helping you to learn, grow and achieve your goals, and you\u2019ll work closely with other teams to ensure our customer\u2019s success.\nThis role is based in our Los Angeles office location. As a company driven by innovation and continuous change, close collabor",
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-10-19T01:24:24.386877-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "2b7b11180d97d1984ef9c0c6d04d6ba4": {
+    "id": "2b7b11180d97d1984ef9c0c6d04d6ba4",
+    "title": "Product Designer",
+    "company": "Abby Care",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/abby-care/45e4e621-488e-4f0f-ac2b-ac11e600b436",
+    "source": "\ud83d\udcb0 Abby Care (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Abby Care raised $82.0M",
+    "founders": [],
+    "description": "ABOUT ABBY CARE: POWERING THE FUTURE OF CARE AT HOME FOR ALL OF AMERICA.\n\n\nAbby Care is building the leading AI-native platform for family-led care. America is facing a growing care crisis. Millions more people need care at home than ever. Over 50 million family caregivers support loved ones without",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-10-19T01:24:54.903518-07:00",
     "status": "active",
     "applied_at": null
   }
