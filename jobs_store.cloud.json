@@ -353,7 +353,7 @@
     "first_seen": "2026-09-22T08:06:17.569451-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T16:51:00.702801-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "fe6321fc181e5be2bf77cd3a37c33b97": {
@@ -374,7 +374,7 @@
     "first_seen": "2026-09-22T08:06:19.160001-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T16:51:00.702801-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "10f8ad78623cfa0a4596ebd90a2efde2": {
@@ -395,7 +395,7 @@
     "first_seen": "2026-09-22T08:06:21.361538-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T16:51:00.702801-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "0423a63376758c2fbb85b86765a34695": {
@@ -1590,7 +1590,7 @@
     "first_seen": "2026-09-28T07:31:14.180845-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T16:51:00.702801-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "c14b4432cc4db13f925bed5c7d88e526": {
@@ -1611,7 +1611,7 @@
     "first_seen": "2026-09-28T07:31:15.917577-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T16:51:00.702801-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "dca797605980e9e9dedde756f709178b": {
@@ -1632,7 +1632,7 @@
     "first_seen": "2026-09-28T17:34:18.773033-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T16:51:00.702801-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "5074a217ab5ad6e37711b00506c7d9d5": {
@@ -1653,7 +1653,7 @@
     "first_seen": "2026-09-28T23:13:33.262357-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T16:51:00.702801-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "92f4e29404fc251e369c09d30eaef759": {
@@ -1863,7 +1863,7 @@
     "first_seen": "2026-09-30T00:06:35.732744-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "cdba54f31aba7514617678ec86042276": {
@@ -1884,7 +1884,7 @@
     "first_seen": "2026-09-30T06:41:13.748417-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "0cfab41e2572d6071672702011fbabea": {
@@ -1905,7 +1905,7 @@
     "first_seen": "2026-09-30T06:41:15.307856-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "e2c0d715f3b14444a1de7ed0aa4bd064": {
@@ -1926,7 +1926,7 @@
     "first_seen": "2026-09-30T06:41:17.096576-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "3d3582687f9e0a47964cbdaa80fc9466": {
@@ -2138,7 +2138,7 @@
     "first_seen": "2026-10-01T13:16:53.123472-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "2a6dd976db11fd041c76dce30180eb91": {
@@ -2222,7 +2222,7 @@
     "first_seen": "2026-10-02T17:13:26.197709-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "bbb290d89c1f3690a7b38b5e1e5f1e43": {
@@ -2306,7 +2306,7 @@
     "first_seen": "2026-10-03T22:49:57.749488-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "860143327273372e54182a8b2c22f50b": {
@@ -2369,7 +2369,7 @@
     "first_seen": "2026-10-05T00:01:23.759932-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "b0e48c9b5684c5507e00d41ee374027e": {
@@ -2390,7 +2390,7 @@
     "first_seen": "2026-10-05T00:01:25.260635-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T16:51:00.702801-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "ac71f9b11e8f76f0806cdd232f03ec17": {
@@ -3354,7 +3354,7 @@
     "first_seen": "2026-10-07T12:32:40.200539-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "ba97dce995990eabaaad416ca60777b6": {
@@ -3375,7 +3375,7 @@
     "first_seen": "2026-10-07T12:32:41.926114-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "595cad5bdb0870a8bf744a96a6bc8559": {
@@ -4277,7 +4277,7 @@
     "first_seen": "2026-10-13T03:53:30.879100-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "168e5d1265668900fd6e1e839c3196ee": {
@@ -4298,7 +4298,7 @@
     "first_seen": "2026-10-13T03:53:32.509702-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "fe4772aa419ef205f2de1cc44cd6d1bf": {
@@ -4319,7 +4319,7 @@
     "first_seen": "2026-10-13T03:53:34.222146-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00"
+    "checked_at": "2026-10-20T07:28:54.183054-07:00"
   },
   "69f7e972acc790ddd8111eb022e9ab9b": {
     "id": "69f7e972acc790ddd8111eb022e9ab9b",
@@ -4339,7 +4339,7 @@
     "first_seen": "2026-10-13T03:53:36.201665-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "87426913689cd614bbe5b378150bb4cb": {
@@ -4360,7 +4360,7 @@
     "first_seen": "2026-10-13T03:53:37.898491-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "d49bb815cb1a287df1c54d47f599f873": {
@@ -4381,7 +4381,7 @@
     "first_seen": "2026-10-13T03:53:39.700353-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-18T14:53:08.384319-07:00",
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
     "dead_strikes": 0
   },
   "d8f9800b476a33b0ce69fcf028ea612d": {
@@ -4674,7 +4674,9 @@
     "priority": 1,
     "first_seen": "2026-10-17T04:37:11.326834-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-20T07:28:54.183054-07:00",
+    "dead_strikes": 0
   },
   "f30cef694fb296143e31443ece08fa73": {
     "id": "f30cef694fb296143e31443ece08fa73",
@@ -5150,6 +5152,63 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-10-19T13:50:51.412792-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "178e2e7b54fda7a3018df46e17821938": {
+    "id": "178e2e7b54fda7a3018df46e17821938",
+    "title": "Product Designer",
+    "company": "Greptile (W24)",
+    "location": "San Francisco",
+    "salary": "Not listed",
+    "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D114293&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29226",
+    "source": "Y Combinator",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "AI code review agent with complete context of your codebase",
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-10-20T07:30:08.050974-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "73bb8859aa6e08d14494188e2f52ff7e": {
+    "id": "73bb8859aa6e08d14494188e2f52ff7e",
+    "title": "UX Consultant",
+    "company": "Solirius Reply",
+    "location": "London",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1646026-ux-consultant-london-united-kingdom",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "We operate as a flat organisation and believe in trusting and supporting our team to operate independently. We pride ourselves on being specialists at what we do, making the most of our consultants\u2019 expertise in their fields in order to provide a best-in-class service to our clients. All our consultants have the opportunity to work on a range of different projects, providing a broad range of knowledge on which to develop their careers and progress in the direction they choose.users can all benefit.\nThe role\nWe\u2019re looking for a UX consultant to join our multidisciplinary team designing and delivering innovative, user-centred digital products and public services for Government and Private Sector clients.\nYou\u2019ll be a great listener and communicator with a creative, structured, and logical approach to understanding problems and designing inclusive, human-centred experiences.\nWe\u2019re specifically looking for a pragmatic team player with an appreciation of both business and user needs, who is keen to develop their \u2018T-shaped\u2019 skills and is not afraid to take on new challenges.\nExperience designing content and interactions for UK Government or public sector digital services, working to the Government Service Standard, and WCAG\nAbility to design simple, usable, accessible services that meet user needs, policy intent, and business objectives.\nDemonstrable knowledge of GOV.UK content and design standards, including plain English and accessibility, ideally with experience of taking services through service assessments\nExperience working in agile, multidisciplinary teams with developers, researchers, product managers, and stakeholders on government projects and programmes across the phases of the delivery cycle (Discovery through to Beta/Live)\nAbility to facilitate workshops, co-design sessions, and usability testing.\nConfidence influencing stakeholders using user needs and evidence.\nExcellent written, verbal, and facilitation skills.\nStrong understanding of technical and delivery constraints in government environments.\nAbility to support teams in user-centred design and agile ways of working.\nProven experience writing, editing, and iterating user-centred content to meet identified user needs including pair-writing with colleagues and stakeholders.\nAbility to devise, test, and refine different content formats (e.g. transactional content or UX microcopy, forms, GOV.UK guidance, notifications) across the whole user journey.\nExperience iterating content based on user research findings, usability testing, analytics, and service data.\nAbility to write plain English content that meets statutory, regulatory, or policy requirements while remaining usable and accessible to all users\nExperience designing intuitive, accessible interactions for digital services, using GOV.UK patterns.\nAbility to create and iterate user flows, scenarios, wireframes, and interaction designs, informed by data and user insights\nExperience prototyping and testing solutions using paper, digital, and code-based prototypes, using Figma and the GOV.UK Prototype Kit.\nAbility to test and refine designs for usability and accessibility across devices and platforms.\nExperience planning and conducting user research with internal and external users, selecting appropriate qualitative and quantitative methods.\nAbility to analyse research findings and service data, and communicate clear, evidence-based insights to inform design decisions\nAbility to support iterative improvement through evidence and data-informed decision-making, clearly communicating to stakeholders\nExperience working with stakeholders to define success metrics and evaluate the impact of services.\nContributes to the development of the Design practice and community\nSupports thought leadership, case studies, and insights showcasing expertise in both content and interaction design.\nMentors, coaches, supports and manages colleagues\nContributes to client proposals and presentations to help win new projects\nThe ideal candidate ",
+    "posted_at": "8h",
+    "priority": 4,
+    "first_seen": "2026-10-20T07:30:09.646653-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "f022810b16a990f72098b60b0d268194": {
+    "id": "f022810b16a990f72098b60b0d268194",
+    "title": "UX Designer III",
+    "company": "Expeditors",
+    "location": "Seattle, WA",
+    "salary": "$124,000 - $186,000",
+    "url": "https://uiuxjobsboard.com/job/1645226-ux-designer-iii-seattle-wa-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "\u201cWe\u2019re not in the shipping business; we\u2019re in the information business\u201d -Peter Rose, Expeditors Founder\nGlobal supply chain management is what we do, but at the heart of Expeditors you will find professionalism, leadership, and a friendly environment, all of which foster an innovative, customer service-based approach to logistics.\n350+ locations worldwide across 60+ countries\nJob Description\nThe UX Designer III leads the design of complex workflows, features, and user experiences across digital products, platforms, and services. This role owns design efforts from discovery through delivery, balancing user needs, business objectives, accessibility requirements, and technical constraints to create intuitive, scalable, and accessible experiences.\nWorking with a high degree of independence, this role solves complex design challenges, drives product outcomes, and helps elevate team capabilities through feedback, mentorship, and knowledge sharing.\nThis role serves on the central UX team and partners with one or more product teams based on current organizational needs. You will design across the product spectrum at Expeditors, from customer-facing products to applications used by thousands of employees across the global network. You will partner closely with Technical Product Management and Engineering, using workshops, user research, and Product Requirement Documents (PRDs) to design user workflows and experiences. You will use modern design tools, including Figma and approved AI-enabled tools, and contribute reusable, scalable components to the design system.\nBecome a trusted partner to Technical Product Management and Engineering.\nDeliver intuitive, scalable, and accessible experiences from discovery through implementation.\nImprove efficiency, usability, accuracy, and error reduction through design.\nContribute reusable, scalable components to the design system.\nElevate team quality through design reviews, feedback, mentorship, and knowledge sharing.\nPlan and execute appropriately scoped user research, synthesizing qualitative and quantitative inputs into actionable insights and design direction.\nIdentify critical learning objectives, validate assumptions, and translate research findings into recommendations that improve user experience and business outcomes.\nInteraction Design and Information Architecture\nOwn complex workflows and multi-step experiences spanning related features, including permissions, exceptions, validation, recovery scenarios, and other real-world cases.\nCreate workflows, prototypes, and interaction specifications that minimize implementation ambiguity and reduce cognitive load through effective information architecture and workflow simplification.\nDesign and deliver high-quality user experiences for complex enterprise workflows while maintaining visual consistency, usability, and accessibility within supported product areas.\nIntegrate accessibility throughout the design process and partner with engineering teams to validate accessibility and design quality during implementation.\nClarify ambiguous requirements and define design approaches that balance user needs, technical constraints, accessibility requirements, and business priorities.\nConnect design recommendations to measurable outcomes, including efficiency, usability, and error reduction, while identifying risks and improvement opportunities early.\nCollaborate with Technical Product Managers, engineers, stakeholders, and designers, facilitating workshops and design discussions that resolve ambiguity and support decision-making.\nPartner with the UX design team to set standards and raise the bar of the UX craft across the organization. Provide timely and actionable feedback while communicating design rationale, tradeoffs, and recommendations clearly.\nContribute reusable, scalable patterns and components to the design system when product requirements are not supported by existing components.\nPartner with design system owners and engineering teams to reduce on",
+    "posted_at": "9h",
+    "priority": 3,
+    "first_seen": "2026-10-20T07:30:11.229244-07:00",
     "status": "active",
     "applied_at": null
   }
