@@ -1,124 +1,32 @@
 [
   {
     "item": {
-      "company": "insurtech Delegance Brokerage",
-      "amount": "$3.1M",
-      "stage": "Pre-Seed",
+      "company": "Eka Robotics",
+      "amount": "$150.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
-      "blurb": "Startup insurtech Delegance Brokerage raises $3.1 million in pre-seed funding - theinsurer.com. Startup insurtech Delegance Brokerage raises $3.1 million in pre-seed funding&nbsp;&nbsp;theinsurer.com",
+      "blurb": "Eka Robotics Raises $150M Series A to Scale Vision-Force-Action Model for Dexterous Robots - AI Insider. Eka Robotics Raises $150M Series A to Scale Vision-Force-Action Model for Dexterous Robots&nbsp;&nbsp;AI Insider",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEZVTld2OTNLbGxTa3pUa2V4MGRfZDlLd2s3bGxLVFdNaUxHTE9rVE9KTU5sX0hqekFmQ3gxVnNKLU8tbVRHRHc0YVgzODBTbkdFOW51WUR4NmRCU2NxWENhYnhSWXhReGhySzB5RDU0eEJjWVJSa3AxMUllcTBTSlYwUFh6ZzI4eDdXTUM0ZFUzY0ZYT1NFN1dVV2szWEhBRE5jTTRlVXhwZHdkbGwyVEFQNzN1SjRSUFVxQXJPbw?oc=5",
-      "priority": 10
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcmE3ME1hazhZMzhMbVNob19JNDJKMUt3NDdoRjNaZlFjM1VBb0RlQ0tocUZyQjRxZ255VlhNRkVYNTB6SU9DcUNkaGFIdTdQMzZnLVVfSy1DRWNUbXNfQ2JyYi1Cckd0cVNFQmRBaF9ZWjVfN3kzaHF3aThFczdCUUVTX0FUWjRiQmhBaEhPcjFaU3Vnd1BrNi11cnRmSENvWkFvUFk5SXRRTXZLYmZLQ1NoX0dhcm56LWJtZzFoWVM2dEZsVXc?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-10-20T12:08:58.113608-07:00"
-  },
-  {
-    "item": {
-      "company": "Daytona",
-      "amount": "$60.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": "The San Francisco",
-      "blurb": "Daytona raises $60M at $1B valuation to provide AI agent infrastructure to OpenAI, Anthropic, and others. AI infrastructure startup Daytona has raised $60 million in Series B funding at a $1 billion valuation, joining the growing ranks of AI unicorns as demand surges for the computing infrastructure needed to run autonomous AI agents. The San Francisco-based [&#8230;]\nThe post Daytona raises $60M at $1B valuation to provide AI agent infrastructure to OpenAI, Anthropic, and others first appeared ",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/",
-      "priority": 7
-    },
-    "remind_at": "2026-10-20T12:09:01.038710-07:00"
-  },
-  {
-    "item": {
-      "company": "Blackwall",
-      "amount": "$100.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": "Estonia. It",
-      "blurb": "Blackwall raises $100M at $2.2B valuation to scale its web traffic optimization and management platform. Blackwall, a global web infrastructure company building a web traffic management ecosystem, today announced it raised $100 million in a Series C funding, valuing the company at $2.2 billion. The firm is a cybersecurity and web-traffic management company headquartered in Estonia. It develops tools that help web-hosting companies, cloud providers and managed service providers protect [&#8230;]\n",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/20/blackwall-raises-100m-at-2-2b-valuation-to-scale-its-web-traffic-optimization-and-management-platform/",
-      "priority": 6
-    },
-    "remind_at": "2026-10-20T12:09:03.958416-07:00"
-  },
-  {
-    "item": {
-      "company": "Reliable Robotics",
-      "amount": "$115.0M",
-      "stage": "Series D",
-      "investors": null,
-      "location": "Silicon Valley",
-      "blurb": "Reliable Robotics raises $115M in new funding, tops $1B valuation as autonomous aviation takes off. Reliable Robotics has raised $115 million in fresh capital, pushing its valuation past $1 billion as the Silicon Valley startup races to bring autonomous aircraft into commercial aviation. The new financing extends its previously announced $160 million Series D to [&#8230;]\nThe post Reliable Robotics raises $115M in new funding, tops $1B valuation as autonomous aviation takes off first appeared on",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/20/reliable-robotics-raises-115m-in-new-funding-tops-1b-valuation-as-autonomous-aviation-takes-off/",
-      "priority": 5
-    },
-    "remind_at": "2026-10-20T12:09:12.552412-07:00"
-  },
-  {
-    "item": {
-      "company": "Agents",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Agents are breaking AI economics, and the fix starts in the data layer. When companies talk about the cost of artificial intelligence, the conversation almost always starts with models: which one to use, what it costs per million tokens, and whether a smaller model is &#8220;good enough.&#8221; That made sense when AI meant a chatbot. It makes much less sense now that agents are doing real work in [&#8230;]\nThe post Agents are breaking AI economics, and the fix starts in the data layer appeared ",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/20/agents-are-breaking-ai-economics-and-the-fix-starts-in-the-data-layer/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-20T12:09:15.647428-07:00"
+    "remind_at": "2026-10-20T15:24:06.328027-07:00"
   },
   {
     "item": {
       "company": "Salesforce",
-      "amount": "$5.7B",
+      "amount": "$5.66B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Salesforce to acquire Braze for $5.7 billion in major AI marketing push. Salesforce is buying AI-powered customer engagement platform Braze for $5.66 billion, adding another multibillion-dollar acquisition to its growing AI portfolio as the enterprise software giant races to reshape its business around artificial intelligence. The deal, announced Tuesday, sent Braze shares [&#8230;]\nThe post Salesforce to acquire Braze for $5.7 billion in major AI marketing push first appeared on Tech Startups.",
+      "blurb": "Salesforce to acquire marketing automation provider Braze for $5.66B. Salesforce Inc. today announced plans to acquire Braze Inc. for $5.66 billion in cash. The deal values the marketing software provider at $47.5 per share, which is about 58% higher than its last closing price. The steep premium is a reflection of Braze\u2019s strong finances. The company\u2019s revenue grew 26% year-over-year last quarter, to $227.2 [&#8230;]\nThe post Salesforce to acquire marketing automation provider Braze for $5.66B ",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/20/salesforce-to-acquire-braze-for-5-7-billion-in-major-ai-marketing-push/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/20/salesforce-to-acquire-marketing-automation-provider-braze-for-5-66b/",
       "priority": 3
     },
-    "remind_at": "2026-10-20T12:09:18.481328-07:00"
-  },
-  {
-    "item": {
-      "company": "Daptic",
-      "amount": "$15.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Daptic Raises $15M to End Late-Stage Compliance Surprises for Manufacturers. Too many engineers learn which regulations govern their product after the design is locked. Daptic cofounder and CEO Baptiste Bouvier saw that pattern up close at MIT and in consulting, where he helped some of the world's largest manufacturers speed up development. He built a platform that pulls rules from 10,000+ sources into the design phase, and large Fortune 200 companies already use it.",
-      "founders": [
-        "Baptiste Bouvier"
-      ],
-      "source": "AlleyWatch",
-      "url": "https://www.alleywatch.com/2026/10/daptic-physical-product-compliance-software-regulatory-ai-lifestyle-management-baptiste-bouvier/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-20T12:09:21.519645-07:00"
-  },
-  {
-    "item": {
-      "company": "Asymptote Labs",
-      "amount": "$5.5M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Asymptote Labs raises $5.5M to track and control what AI agents do - The Next Web. Asymptote Labs raises $5.5M to track and control what AI agents do&nbsp;&nbsp;The Next Web",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5cl9STUhwVjJNSHNQeEdwTjdiUm9Cbm8xdUE0YzRITUk0YUJqbnNybGdwc1FPMmltR25aQm9TdmhTQktmVXpfTUctWUc0WFFGRTRKT3AxZm9zdDBXSXJlZGlPVFVqa1R4TVhLcW5WVXZuMUVsRERrZGVn?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-10-20T12:09:24.539671-07:00"
+    "remind_at": "2026-10-20T15:24:09.279903-07:00"
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "id": "8d6b3942d38b3b64762eb6e3122de586",
+    "company": "Salesforce",
+    "amount": "$5.66B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/20/salesforce-to-acquire-marketing-automation-provider-braze-for-5-66b/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-20T14:54:10.280096-07:00",
+    "status": "active"
+  },
+  {
+    "id": "ede3b9cbaec88e963adc7fcb52700ddd",
+    "company": "Eka Robotics",
+    "amount": "$150.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcmE3ME1hazhZMzhMbVNob19JNDJKMUt3NDdoRjNaZlFjM1VBb0RlQ0tocUZyQjRxZ255VlhNRkVYNTB6SU9DcUNkaGFIdTdQMzZnLVVfSy1DRWNUbXNfQ2JyYi1Cckd0cVNFQmRBaF9ZWjVfN3kzaHF3aThFczdCUUVTX0FUWjRiQmhBaEhPcjFaU3Vnd1BrNi11cnRmSENvWkFvUFk5SXRRTXZLYmZLQ1NoX0dhcm56LWJtZzFoWVM2dEZsVXc?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-20T14:54:07.328161-07:00",
+    "status": "active"
+  },
+  {
     "id": "02bc5ed286617e7e70da925027ca6e39",
     "company": "Asymptote Labs",
     "amount": "$5.5M",

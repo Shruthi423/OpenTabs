@@ -7309,5 +7309,37 @@
     "roles": [],
     "first_seen": "2026-10-20T11:39:25.539842-07:00",
     "status": "active"
+  },
+  "ede3b9cbaec88e963adc7fcb52700ddd": {
+    "id": "ede3b9cbaec88e963adc7fcb52700ddd",
+    "company": "Eka Robotics",
+    "amount": "$150.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcmE3ME1hazhZMzhMbVNob19JNDJKMUt3NDdoRjNaZlFjM1VBb0RlQ0tocUZyQjRxZ255VlhNRkVYNTB6SU9DcUNkaGFIdTdQMzZnLVVfSy1DRWNUbXNfQ2JyYi1Cckd0cVNFQmRBaF9ZWjVfN3kzaHF3aThFczdCUUVTX0FUWjRiQmhBaEhPcjFaU3Vnd1BrNi11cnRmSENvWkFvUFk5SXRRTXZLYmZLQ1NoX0dhcm56LWJtZzFoWVM2dEZsVXc?oc=5",
+    "priority": 8,
+    "blurb": "Eka Robotics Raises $150M Series A to Scale Vision-Force-Action Model for Dexterous Robots - AI Insider. Eka Robotics Raises $150M Series A to Scale Vision-Force-Action Model for Dexterous Robots&nbsp;&nbsp;AI Insider",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-20T14:54:07.328161-07:00",
+    "status": "active"
+  },
+  "8d6b3942d38b3b64762eb6e3122de586": {
+    "id": "8d6b3942d38b3b64762eb6e3122de586",
+    "company": "Salesforce",
+    "amount": "$5.66B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/20/salesforce-to-acquire-marketing-automation-provider-braze-for-5-66b/",
+    "priority": 3,
+    "blurb": "Salesforce to acquire marketing automation provider Braze for $5.66B. Salesforce Inc. today announced plans to acquire Braze Inc. for $5.66 billion in cash. The deal values the marketing software provider at $47.5 per share, which is about 58% higher than its last closing price. The steep premium is a reflection of Braze\u2019s strong finances. The company\u2019s revenue grew 26% year-over-year last quarter, to $227.2 [&#8230;]\nThe post Salesforce to acquire marketing automation provider Braze for $5.66B ",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-20T14:54:10.280096-07:00",
+    "status": "active"
   }
 }
