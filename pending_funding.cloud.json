@@ -1,32 +1,107 @@
 [
   {
     "item": {
-      "company": "Ayan",
+      "company": "Databuddy Analytics",
       "amount": null,
       "stage": "Pre-Seed",
-      "investors": null,
+      "investors": "Y Combinator",
       "location": null,
-      "blurb": "Ayan raises $599K pre-seed to track how AI assistants pitch brands to shoppers - Dealroom. Ayan raises $599K pre-seed to track how AI assistants pitch brands to shoppers&nbsp;&nbsp;Dealroom",
+      "blurb": "Databuddy Analytics raises $560,000 pre-Seed and joins Y Combinator to launch AI platform for product analytics - Zawya. Databuddy Analytics raises $560,000 pre-Seed and joins Y Combinator to launch AI platform for product analytics&nbsp;&nbsp;Zawya",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUE1nR3NzcG10bW9rNTJCMzBiSzZnc0kzS2h1Rk1GVGVvbldSZ2NqRndsSG1Qd0lDeTR3aFQ1UnVDSlh0MG5wNUx1YnNNck8zcTVrZ3NvZkFLdG5NVmt5VGZoc2VTZTlmQkI4MzJPcG9HU3RZRDlPU1VVZllxNXhNdVMzRERyUERZZXVWUmpsQk9GZzd4ZjlrQ1lsUzhZNGRYUFVaVDUwckQ3S0o4X0dneA?oc=5",
-      "priority": 10
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNYjJtZGcxcVZIMzROR3JidGRwXzVRdE5MVnJyV01nb2tMa015UjdyQnVNYWNsM1hWaUFPdnRreEY4LWdraU5zWERsTDM1cHphZTY1MlFFZXNvWEtFZ3dUTFhsVDFrSGlEN2NmNWJhVXdEckZlTmRIUmFsZUpmQU43VExNSEpxNno4YWh3cWwwcEFnZXBGVjJ3WjhJUHY0MHMzdmR2M0R4eG5XV0tTbVNBcDlCT2lUWml6NVpSWmNrSFIxeVdvUzZSWWxpS0dIazZpcEE0X1JzVjdsaC1LcVhURjBpVE83Um5sUUVLVmNRR3FqcXJ3bTV5ZnltbUx2QzRE?oc=5",
+      "priority": 13
     },
-    "remind_at": "2026-10-19T22:16:28.814341-07:00"
+    "remind_at": "2026-10-20T03:11:12.730336-07:00"
   },
   {
     "item": {
-      "company": "Sunlight AI",
-      "amount": "$17.4M",
-      "stage": "Seed",
+      "company": "WarpWare",
+      "amount": "$1.2M",
+      "stage": "Pre-Seed",
       "investors": null,
-      "location": "Miami",
-      "blurb": "Sunlight AI launches with $17.4M in seed funding to help independent physicians cut administrative costs. Sunlight AI has launched with $17.4 million in announced seed funding to help independent medical practices cut administrative costs and avoid the grip of large hospital systems. The New York- and Miami-based startup is betting that artificial intelligence can take [&#8230;]\nThe post Sunlight AI launches with $17.4M in seed funding to help independent physicians cut administrative costs firs",
+      "location": null,
+      "blurb": "WarpWare Raises $1.2M Pre-seed. WarpWare raises $1.2M in pre-seed funding to expand its AI-enabled engineering platform for spacecraft flight software and agentic workflows.",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/19/sunlight-ai-launches-with-17-4m-in-seed-funding-to-help-independent-physicians-cut-administrative-costs/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/warpware-raises-1-2m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-10-20T03:11:15.619282-07:00"
+  },
+  {
+    "item": {
+      "company": "Arosa AI",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "Taryag Capital",
+      "location": null,
+      "blurb": "Arosa AI Raises $500K Seed. Arosa AI has raised $500K in seed funding led by Taryag Capital to support product development of its real estate research and planning platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/arosa-ai-raises-500k-seed/",
       "priority": 9
     },
-    "remind_at": "2026-10-19T22:16:31.718228-07:00"
+    "remind_at": "2026-10-20T03:11:18.497687-07:00"
+  },
+  {
+    "item": {
+      "company": "XRlabs",
+      "amount": "$8.4M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "XRlabs Raises $8.4M Seed. XRlabs raises $8.4 million in seed funding led by Playground Global to scale its AI-powered surgical co-pilot platform for operating rooms.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/xrlabs-raises-8-4m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-20T03:11:21.509438-07:00"
+  },
+  {
+    "item": {
+      "company": "ScribeUp",
+      "amount": "$13.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "ScribeUp Raises $13M Series A. ScribeUp raises $13M in Series A funding led by Curql Collective to expand its AI-powered recurring bill management platform for financial institutions.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/scribeup-raises-13m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-20T03:11:24.400574-07:00"
+  },
+  {
+    "item": {
+      "company": "Tolan",
+      "amount": "$30.0M",
+      "stage": null,
+      "investors": "Union Square Ventures, Khosla Ventures, and Homebrew",
+      "location": null,
+      "blurb": "Tolan Raises $30M in Funding. Tolan raises $30M in a funding round with participation from Union Square Ventures, Khosla Ventures, and Homebrew for its AI companion app.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/tolan-raises-30m-other/",
+      "priority": 6
+    },
+    "remind_at": "2026-10-20T03:11:27.295645-07:00"
+  },
+  {
+    "item": {
+      "company": "Aqar Exit",
+      "amount": "$2.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Aqar Exit Raises $200,000 Investment. Aqar Exit, an Egyptian proptech startup, raises $200,000 in a funding round at a $2 million valuation to expand its property contract transfer platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/aqar-exit-raises-200000-unknown/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-20T03:11:33.494837-07:00"
   }
 ]
