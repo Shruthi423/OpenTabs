@@ -143,7 +143,7 @@
     "first_seen": "2026-09-22T03:22:15.496251-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T08:46:36.492055-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "4d314eccce618ca81ff6869f45f7d0d7": {
@@ -248,7 +248,7 @@
     "first_seen": "2026-09-22T03:22:24.224681-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T08:46:36.492055-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "1edd106a29675674d38ab47075da871c": {
@@ -522,7 +522,7 @@
     "first_seen": "2026-09-23T01:12:52.104392-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T08:46:36.492055-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "9b3776b3b7c23d6a9a40218f80edcfec": {
@@ -543,7 +543,7 @@
     "first_seen": "2026-09-23T06:38:51.154849-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T08:46:36.492055-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "efc03e2d6473f748bee45db20c3389a0": {
@@ -564,7 +564,7 @@
     "first_seen": "2026-09-23T10:58:42.233068-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T08:46:36.492055-07:00"
+    "checked_at": "2026-10-20T17:19:13.353130-07:00"
   },
   "68d2ae500a30a47bf5f206ffcb01df0c": {
     "id": "68d2ae500a30a47bf5f206ffcb01df0c",
@@ -584,7 +584,7 @@
     "first_seen": "2026-09-23T10:58:45.509153-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T08:46:36.492055-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "27d9dffa4b36387f287ee83f2f8b55e7": {
@@ -605,7 +605,7 @@
     "first_seen": "2026-09-23T14:12:55.292881-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T08:46:36.492055-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "f23c0f146e9a6a760c9962de997a1030": {
@@ -626,7 +626,7 @@
     "first_seen": "2026-09-24T05:17:47.523859-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T08:46:36.492055-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "f5f98924cb7078753d950752c87e99ca": {
@@ -647,7 +647,7 @@
     "first_seen": "2026-09-24T05:17:49.118580-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T08:46:36.492055-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "7ce140ec6cabdc63071c796a21e66b3c": {
@@ -668,7 +668,7 @@
     "first_seen": "2026-09-24T05:17:50.924487-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T08:46:36.492055-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "e41fa9324692211a4202d7e0ee27fd3b": {
@@ -2180,7 +2180,7 @@
     "first_seen": "2026-10-01T17:01:44.024355-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T01:22:19.256538-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "06139a1e141a16e7a0ddc9c5ce28b3ed": {
@@ -2768,7 +2768,7 @@
     "first_seen": "2026-10-05T08:59:58.863639-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T01:22:19.256538-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "bbfbd1a2b9deed417ef274f49eb2afac": {
@@ -2789,7 +2789,7 @@
     "first_seen": "2026-10-05T09:00:00.576084-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T01:22:19.256538-07:00"
+    "checked_at": "2026-10-20T17:19:13.353130-07:00"
   },
   "a0554122bc9c13d7b940fff828e4b7e1": {
     "id": "a0554122bc9c13d7b940fff828e4b7e1",
@@ -3795,7 +3795,7 @@
     "first_seen": "2026-10-12T09:07:55.690307-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T01:22:19.256538-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "151d0c21ba0c9be288f83d7e15ac3cab": {
@@ -3816,7 +3816,7 @@
     "first_seen": "2026-10-12T09:07:57.238374-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T01:22:19.256538-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "1d7ee3b6d8dc838a6071203599d1bb22": {
@@ -3837,7 +3837,7 @@
     "first_seen": "2026-10-12T09:07:58.787375-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T01:22:19.256538-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "fd1cb3da55c17849acadde868a0733f4": {
@@ -3858,7 +3858,7 @@
     "first_seen": "2026-10-12T09:08:00.527382-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T01:22:19.256538-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "a652307fcf52042bbeb1d96cfdbd9e91": {
@@ -3879,7 +3879,7 @@
     "first_seen": "2026-10-12T09:08:02.850048-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T01:22:19.256538-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "d41099e81ee258d8830d700370a5f0d4": {
@@ -3900,7 +3900,7 @@
     "first_seen": "2026-10-12T09:08:04.457421-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T01:22:19.256538-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "591a4e353b2d00257c0410deca87d94d": {
@@ -3921,7 +3921,7 @@
     "first_seen": "2026-10-12T09:08:06.006188-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T01:22:19.256538-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "268dfb37b047f41982882e35a7b37f9c": {
@@ -3942,7 +3942,7 @@
     "first_seen": "2026-10-12T09:08:07.709664-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T01:22:19.256538-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "1402ec01f80c06c4d30796de37a84ede": {
@@ -3963,7 +3963,7 @@
     "first_seen": "2026-10-12T09:08:09.403082-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T01:22:19.256538-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "e2b2121e7ca4ae4cff1fcdb8122330d1": {
@@ -3984,7 +3984,7 @@
     "first_seen": "2026-10-12T09:08:11.109303-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T01:22:19.256538-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "e7a32b1786110a501e36a6015dfd361d": {
@@ -4423,7 +4423,7 @@
     "first_seen": "2026-10-13T15:11:39.117000-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T01:22:19.256538-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "b4383b7ed1a43495c62eae6afba5eaf4": {
@@ -4444,7 +4444,7 @@
     "first_seen": "2026-10-13T15:11:40.717126-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-19T01:22:19.256538-07:00",
+    "checked_at": "2026-10-20T17:19:13.353130-07:00",
     "dead_strikes": 0
   },
   "5787ca497cf4466d5f09e5e316b48df3": {
@@ -5209,6 +5209,44 @@
     "posted_at": "9h",
     "priority": 3,
     "first_seen": "2026-10-20T07:30:11.229244-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "8904e028dd2c3772ce1663dff14b5d0d": {
+    "id": "8904e028dd2c3772ce1663dff14b5d0d",
+    "title": "Product Designer / UX/UI Designer",
+    "company": "See posting",
+    "location": "San Francisco Bay Area, CA",
+    "salary": "Not listed",
+    "url": "https://www.builtinsf.com/job/product-designer-ux-ui-designer/11781481",
+    "source": "BuiltIn SF",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Design and optimize user experiences for websites and subscription platforms using research, analytics, competitive analysis, A/B testing, and KPI insights. Create wireframes, prototypes, mockups, and design specifications while collaborating with marketing, developers, and stakeholders. Focus on im",
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-10-20T17:20:12.443372-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "6d8753d0f8b47342b2e1e9b8d0ce9c09": {
+    "id": "6d8753d0f8b47342b2e1e9b8d0ce9c09",
+    "title": "UI/UX Researcher & Designer",
+    "company": "See posting",
+    "location": "San Francisco Bay Area, CA",
+    "salary": "Not listed",
+    "url": "https://www.builtinsf.com/job/ui-ux-researcher-designer/11779821",
+    "source": "BuiltIn SF",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Own end-to-end UX research and interface design for medical imaging products. Plan and conduct qualitative and quantitative research with clinicians, synthesize findings into actionable insights, and create wireframes, prototypes, specifications, and design standards. Partner with product managers,",
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-10-20T17:20:14.255649-07:00",
     "status": "active",
     "applied_at": null
   }

@@ -7341,5 +7341,27 @@
     "roles": [],
     "first_seen": "2026-10-20T14:54:10.280096-07:00",
     "status": "active"
+  },
+  "bacc891cec433bd2307def10290c147d": {
+    "id": "bacc891cec433bd2307def10290c147d",
+    "company": "Otter.ai",
+    "amount": "$320.0M",
+    "stage": "?",
+    "investors": "General Catalyst, Customer Value Fund",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/20/otter-ai-raises-320m-in-funding-for-its-ai-meeting-assistant/",
+    "priority": 6,
+    "blurb": "Otter.ai raises $320M in funding for its AI meeting assistant. Otter.ai Inc., the developer of a popular artificial intelligence meeting assistant, today announced that it has raised $320 million in funding. The capital came entirely from General Catalyst\u2019s Customer Value Fund. The investment vehicle provides startups with financing for sales and marketing initiatives. General Catalyst doesn\u2019t take a stake in portfolio companies, but instead receives [&#8230;]\nThe post Otter.ai raises $320M in f",
+    "founders": [],
+    "location": "Los Angeles, CA",
+    "roles": [
+      {
+        "title": "Product Designer, Product Platform",
+        "url": "https://job-boards.greenhouse.io/otter/jobs/8783008002",
+        "location": "Los Angeles, CA"
+      }
+    ],
+    "first_seen": "2026-10-20T17:20:38.464236-07:00",
+    "status": "active"
   }
 }
