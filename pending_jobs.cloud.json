@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "job": {
+      "title": "UX Designer",
+      "company": "Workbrew",
+      "location": "Remote",
+      "url": "https://uiuxjobsboard.com/job/1646826-remote-united-kingdom-ux-designer",
+      "salary": "Not listed",
+      "description": "",
+      "posted_at": "7h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-21T08:44:01.005452-07:00"
+  },
+  {
+    "job": {
+      "title": "UX/UI Designer",
+      "company": "Ajaia",
+      "location": "New York",
+      "url": "https://uiuxjobsboard.com/job/1646426-ux-ui-designer-new-york-united-states",
+      "salary": "$90,000 - $210,000",
+      "description": "",
+      "posted_at": "7h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-21T08:44:02.552059-07:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Geordie",
+      "location": "Remote",
+      "url": "https://uiuxjobsboard.com/job/1647326-remote-united-kingdom-product-designer",
+      "salary": "Not listed",
+      "description": "",
+      "posted_at": "8h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-21T08:44:04.219105-07:00"
+  },
+  {
+    "job": {
+      "title": "UX Researcher",
+      "company": "HeyMilo Labs",
+      "location": "Remote",
+      "url": "https://uiuxjobsboard.com/job/1647426-remote-anywhere-ux-researcher",
+      "salary": "$83,200 - $208,000",
+      "description": "",
+      "posted_at": "10h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-21T08:44:05.889303-07:00"
+  }
+]
