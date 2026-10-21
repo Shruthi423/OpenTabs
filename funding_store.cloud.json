@@ -7707,5 +7707,43 @@
     "roles": [],
     "first_seen": "2026-10-21T08:15:02.198009-07:00",
     "status": "active"
+  },
+  "c56b919faa85edf51c4366447f1ebc50": {
+    "id": "c56b919faa85edf51c4366447f1ebc50",
+    "company": "Blacksmith",
+    "amount": "$66.0M",
+    "stage": "Series C",
+    "investors": "Sequoia",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+    "priority": 9,
+    "blurb": "Blacksmith hits unicorn valuation after Sequoia leads Series C. Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+    "founders": [],
+    "location": "SF / NYC",
+    "roles": [
+      {
+        "title": "Brand Designer",
+        "url": "https://jobs.ashbyhq.com/blacksmith/9c14a5cf-2e94-4b04-90f3-cb0fae25f1ee",
+        "location": "SF / NYC"
+      }
+    ],
+    "first_seen": "2026-10-21T12:19:07.014448-07:00",
+    "status": "active"
+  },
+  "aafeae15559cc247d5d3ee2374437b43": {
+    "id": "aafeae15559cc247d5d3ee2374437b43",
+    "company": "Legora",
+    "amount": "$550.0M",
+    "stage": "Series E",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+    "priority": 3,
+    "blurb": "Legal AI startup Legora raises $550M Series E at $8.8B valuation. Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-21T12:19:10.873477-07:00",
+    "status": "active"
   }
 }

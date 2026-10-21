@@ -1,5 +1,41 @@
 [
   {
+    "id": "aafeae15559cc247d5d3ee2374437b43",
+    "company": "Legora",
+    "amount": "$550.0M",
+    "stage": "Series E",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-21T12:19:10.873477-07:00",
+    "status": "active"
+  },
+  {
+    "id": "c56b919faa85edf51c4366447f1ebc50",
+    "company": "Blacksmith",
+    "amount": "$66.0M",
+    "stage": "Series C",
+    "investors": "Sequoia",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+    "priority": 9,
+    "founders": [],
+    "location": "SF / NYC",
+    "roles": [
+      {
+        "title": "Brand Designer",
+        "url": "https://jobs.ashbyhq.com/blacksmith/9c14a5cf-2e94-4b04-90f3-cb0fae25f1ee",
+        "location": "SF / NYC"
+      }
+    ],
+    "first_seen": "2026-10-21T12:19:07.014448-07:00",
+    "status": "active"
+  },
+  {
     "id": "a3e26b1fed92645470f0f8b4c115a065",
     "company": "Azoma",
     "amount": "$11.2M",
