@@ -1,17 +1,49 @@
 [
   {
     "item": {
-      "company": "Otter.ai",
-      "amount": "$320.0M",
-      "stage": null,
-      "investors": "General Catalyst, Customer Value Fund",
+      "company": "ASI",
+      "amount": "$3.0B",
+      "stage": "Series C",
+      "investors": "Spark Capital, Craft Ventures, Meritech Capital",
       "location": null,
-      "blurb": "Otter.ai raises $320M in funding for its AI meeting assistant. Otter.ai Inc., the developer of a popular artificial intelligence meeting assistant, today announced that it has raised $320 million in funding. The capital came entirely from General Catalyst\u2019s Customer Value Fund. The investment vehicle provides startups with financing for sales and marketing initiatives. General Catalyst doesn\u2019t take a stake in portfolio companies, but instead receives [&#8230;]\nThe post Otter.ai raises $320M in f",
+      "blurb": "AI infrastructure management software startup ASI hits $3B valuation after raising $325M in funding. An artificial intelligence startup called ASI Inc., which builds complex models of air traffic and energy grids, said today it has scored $325 million in a Series C funding, bringing its valuation to a cool $3 billion. The round was led by Spark Capital and joined by participants including Citadel Securities, Craft Ventures, Meritech Capital, [&#8230;]\nThe post AI infrastructure management softwa",
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/20/otter-ai-raises-320m-in-funding-for-its-ai-meeting-assistant/",
+      "url": "https://siliconangle.com/2026/10/20/ai-infrastructure-management-software-startup-asi-hits-3b-valuation-after-raising-325m-in-funding/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-20T22:37:16.293603-07:00"
+  },
+  {
+    "item": {
+      "company": "Genie Health",
+      "amount": "$3.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "PropertyGuru ex-CEO\u2019s AI health startup Genie Health raises US$3 million in seed funding - The Business Times. PropertyGuru ex-CEO\u2019s AI health startup Genie Health raises US$3 million in seed funding&nbsp;&nbsp;The Business Times",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM05vNTJQazlVajdfVU13bHpteG9kX0JWT3k3OGZRS0dORnd2UGVpVk0wdVRHVzkyaEJaT3RSUzlzV1RSTkxmemlrZVd1V3lsdFd5U0JZc05lNWt1TzVTRjF6M1ZYb25qdl95dktqOGZXelEwMHJ2WHBNclotMVllWDBxNmJTelhtVm9nUHVzNE5WMWVkRFd1bVNJVHEzQmdLcjFqMmJmYkludmhMYl90UUZodE5KMFB0UGFCaDVTaUZ1Y0x3NVRYakxsY1A2VTNRYjl5X2J3?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-10-20T22:37:21.593209-07:00"
+  },
+  {
+    "item": {
+      "company": "Arda Industries",
+      "amount": "$232.0M",
+      "stage": null,
+      "investors": "Accel, Founders Fund, Khosla",
+      "location": null,
+      "blurb": "Arda Industries raises $232M to make production lines more adaptable. Arda Industries Inc., a startup that develops artificial intelligence software for factories, launched today with $232 million in funding. Accel, Altimeter, Founders Fund and Khosla Ventures led the investment. They were joined by XYZ Venture Capital, 8VC, SVAngel and Felicis. Arda is led by co-founder and Chief Executive Bob McGrew, the former Chief Research Officer [&#8230;]\nThe post Arda Industries raises $232M to make prod",
+      "founders": [
+        "Bob Mc"
+      ],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/20/arda-industries-raises-232m-to-make-production-lines-more-adaptable/",
       "priority": 6
     },
-    "remind_at": "2026-10-20T17:50:37.464078-07:00"
+    "remind_at": "2026-10-20T22:37:26.889903-07:00"
   }
 ]

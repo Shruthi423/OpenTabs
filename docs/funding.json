@@ -1,5 +1,52 @@
 [
   {
+    "id": "658a964a635cacca0a5c56700536d724",
+    "company": "Arda Industries",
+    "amount": "$232.0M",
+    "stage": "?",
+    "investors": "Accel, Founders Fund, Khosla",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/20/arda-industries-raises-232m-to-make-production-lines-more-adaptable/",
+    "priority": 6,
+    "founders": [
+      "Bob Mc"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-20T22:07:27.890065-07:00",
+    "status": "active"
+  },
+  {
+    "id": "8019b6a002d11965aa73a9f4c21691b8",
+    "company": "Genie Health",
+    "amount": "$3.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM05vNTJQazlVajdfVU13bHpteG9kX0JWT3k3OGZRS0dORnd2UGVpVk0wdVRHVzkyaEJaT3RSUzlzV1RSTkxmemlrZVd1V3lsdFd5U0JZc05lNWt1TzVTRjF6M1ZYb25qdl95dktqOGZXelEwMHJ2WHBNclotMVllWDBxNmJTelhtVm9nUHVzNE5WMWVkRFd1bVNJVHEzQmdLcjFqMmJmYkludmhMYl90UUZodE5KMFB0UGFCaDVTaUZ1Y0x3NVRYakxsY1A2VTNRYjl5X2J3?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-20T22:07:22.593402-07:00",
+    "status": "active"
+  },
+  {
+    "id": "7405337fa206ad283c861cb8e1b48105",
+    "company": "ASI",
+    "amount": "$3.0B",
+    "stage": "Series C",
+    "investors": "Spark Capital, Craft Ventures, Meritech Capital",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/20/ai-infrastructure-management-software-startup-asi-hits-3b-valuation-after-raising-325m-in-funding/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-20T22:07:17.293778-07:00",
+    "status": "active"
+  },
+  {
     "id": "8d6b3942d38b3b64762eb6e3122de586",
     "company": "Salesforce",
     "amount": "$5.66B",
