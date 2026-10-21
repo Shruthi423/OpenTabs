@@ -1,49 +1,182 @@
 [
   {
     "item": {
-      "company": "ASI",
-      "amount": "$3.0B",
-      "stage": "Series C",
-      "investors": "Spark Capital, Craft Ventures, Meritech Capital",
+      "company": "Quminex",
+      "amount": "$1.06M",
+      "stage": "Pre-Seed",
+      "investors": "QAI Ventures",
       "location": null,
-      "blurb": "AI infrastructure management software startup ASI hits $3B valuation after raising $325M in funding. An artificial intelligence startup called ASI Inc., which builds complex models of air traffic and energy grids, said today it has scored $325 million in a Series C funding, bringing its valuation to a cool $3 billion. The round was led by Spark Capital and joined by participants including Citadel Securities, Craft Ventures, Meritech Capital, [&#8230;]\nThe post AI infrastructure management softwa",
+      "blurb": "Quminex Raises $1.06M Pre-seed. Quminex raises $1.06M in pre-seed funding led by Quantacet and QAI Ventures to advance its machine learning-based mineral discovery platform.",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/20/ai-infrastructure-management-software-startup-asi-hits-3b-valuation-after-raising-325m-in-funding/",
-      "priority": 9
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/quminex-raises-1-06m-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-10-20T22:37:16.293603-07:00"
+    "remind_at": "2026-10-21T03:37:22.107820-07:00"
   },
   {
     "item": {
-      "company": "Genie Health",
-      "amount": "$3.0M",
-      "stage": "Seed",
-      "investors": null,
+      "company": "PataBid",
+      "amount": "$2.0M",
+      "stage": "Pre-Seed",
+      "investors": "Graphite Ventures",
       "location": null,
-      "blurb": "PropertyGuru ex-CEO\u2019s AI health startup Genie Health raises US$3 million in seed funding - The Business Times. PropertyGuru ex-CEO\u2019s AI health startup Genie Health raises US$3 million in seed funding&nbsp;&nbsp;The Business Times",
+      "blurb": "PataBid Raises $2M Pre-seed. PataBid raises $2M in pre-seed funding led by Graphite Ventures to expand its AI-powered construction estimation platform across North America.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/patabid-raises-2m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-10-21T03:37:25.136391-07:00"
+  },
+  {
+    "item": {
+      "company": "Delegance",
+      "amount": "$3.1M",
+      "stage": "Pre-Seed",
+      "investors": "Grit Capital Partners",
+      "location": null,
+      "blurb": "Delegance Raises $3.1M Pre-seed. Delegance raises $3.1 million in pre-seed funding led by Grit Capital Partners to expand its AI-native commercial insurance brokerage platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/delegance-raises-3-1m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-10-21T03:37:30.729417-07:00"
+  },
+  {
+    "item": {
+      "company": "TraceWeave",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "Mirae Asset Capital - Wowtale On-Device AI Startup TraceWeave Raises USD",
+      "location": null,
+      "blurb": "On-Device AI Startup TraceWeave Raises USD 2.3M Seed Round Led by Mirae Asset Capital - Wowtale. On-Device AI Startup TraceWeave Raises USD 2.3M Seed Round Led by Mirae Asset Capital&nbsp;&nbsp;Wowtale",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM05vNTJQazlVajdfVU13bHpteG9kX0JWT3k3OGZRS0dORnd2UGVpVk0wdVRHVzkyaEJaT3RSUzlzV1RSTkxmemlrZVd1V3lsdFd5U0JZc05lNWt1TzVTRjF6M1ZYb25qdl95dktqOGZXelEwMHJ2WHBNclotMVllWDBxNmJTelhtVm9nUHVzNE5WMWVkRFd1bVNJVHEzQmdLcjFqMmJmYkludmhMYl90UUZodE5KMFB0UGFCaDVTaUZ1Y0x3NVRYakxsY1A2VTNRYjl5X2J3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43bkRJRmFBNUV2T19xY2FkSkd1U055cF8zcjh5U0t6TG0yZEpqWnZxZmR2VW5XLUJGQ25TRFo1SWhsSWgxUzFZZUVXUkdCWlZ4MUhB?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-10-20T22:37:21.593209-07:00"
+    "remind_at": "2026-10-21T03:37:34.613281-07:00"
   },
   {
     "item": {
-      "company": "Arda Industries",
-      "amount": "$232.0M",
-      "stage": null,
-      "investors": "Accel, Founders Fund, Khosla",
+      "company": "Qualitate",
+      "amount": "$25.0M",
+      "stage": "Series A",
+      "investors": "Insight Partners",
       "location": null,
-      "blurb": "Arda Industries raises $232M to make production lines more adaptable. Arda Industries Inc., a startup that develops artificial intelligence software for factories, launched today with $232 million in funding. Accel, Altimeter, Founders Fund and Khosla Ventures led the investment. They were joined by XYZ Venture Capital, 8VC, SVAngel and Felicis. Arda is led by co-founder and Chief Executive Bob McGrew, the former Chief Research Officer [&#8230;]\nThe post Arda Industries raises $232M to make prod",
-      "founders": [
-        "Bob Mc"
-      ],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/20/arda-industries-raises-232m-to-make-production-lines-more-adaptable/",
-      "priority": 6
+      "blurb": "Qualitate Raises $25M Series A. Qualitate raises $25M in a Series A round led by Insight Partners to scale its AI-native continuous intelligence system for primary market research.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/qualitate-raises-25m-series-a/",
+      "priority": 8
     },
-    "remind_at": "2026-10-20T22:37:26.889903-07:00"
+    "remind_at": "2026-10-21T03:37:37.562622-07:00"
+  },
+  {
+    "item": {
+      "company": "VECKTA",
+      "amount": "$11.0M",
+      "stage": "Series A",
+      "investors": "Origin Ventures",
+      "location": null,
+      "blurb": "VECKTA Raises $11M Series A. VECKTA raises $11M in Series A funding led by Origin Ventures to expand its onsite energy planning and procurement platform for business customers.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/veckta-raises-11m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-21T03:37:40.617225-07:00"
+  },
+  {
+    "item": {
+      "company": "Baba",
+      "amount": "$40.0M",
+      "stage": "Series A",
+      "investors": "FirstMark Capital",
+      "location": null,
+      "blurb": "Baba Raises $40M Series A. Baba raises $40 million in a Series A round led by FirstMark Capital to expand its applied AI platform for Medicare and Medicaid care coordination.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/baba-raises-40m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-21T03:37:43.698247-07:00"
+  },
+  {
+    "item": {
+      "company": "Rebill",
+      "amount": "$5.4M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Rebill Raises $5.4M Pre-Series A. Rebill raises $5.4 million in a pre-Series A round to expand its payment infrastructure platform across the Americas and develop new treasury services.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/rebill-raises-5-4m-pre-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-21T03:37:46.699812-07:00"
+  },
+  {
+    "item": {
+      "company": "AuxoAI",
+      "amount": null,
+      "stage": "Series A",
+      "investors": "NTTVC - Entrackr Forward deployed AI startup AuxoAI raises",
+      "location": null,
+      "blurb": "Forward deployed AI startup AuxoAI raises $20.7 Mn in Series A round led by NTTVC - Entrackr. Forward deployed AI startup AuxoAI raises $20.7 Mn in Series A round led by NTTVC&nbsp;&nbsp;Entrackr",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1VtUDJUWGdPTi03M05wdkVldFlHc0RCUUJWUW13alB5OEVyS2xZZ3pOb0V3cVJnUmlJbUVzQ1ZNX1lYY2M0UldPU2R2anpOc0FVeUkzWEJMSXlQUm1BRS1JeW9DMG5WSFFPbXA5ODhzbXJCWjRJVTBCdjFBUUg1SFpuLW9XRzNyNFJ2a0o0d0ZNMzRGcWlzWjJCSVUzLXo5ZXRPWHhXMEFfTTBGOU9hdVpOWTTSAbQBQVVfeXFMTU9VbVAyVFhnT04tNzNOcHZFZXRZR3NEQlFCVlFtd2pQeThFcktsWWd6Tm9Fd3FSZ1JpSW1Fc0NWTV9ZWGNjNFJXT1Nkdmp6TnNBVXlJM1hCTEl5UFJtQUUtSXlvQzBuVkhRT21wOTg4c21yQlo0SVUwQnYxQVFINUhabi1vV0czcjRSdmtKNHdGTTM0RnFpc1oyQklVMy16OWV0T1h4VzBBX00wRjlPYXVaTlk0?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-10-21T03:37:49.553811-07:00"
+  },
+  {
+    "item": {
+      "company": "Executives",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Executives are more likely to trust AI than themselves. Executives are twice as likely as rank-and-file workers to trust AI over their own judgment, per a survey out Wednesday morning.Why it matters: It's a worrying development. Leaders are hired for their experience and knowledge. Outsourcing that to AI raises the risk of making decisions that don't line up with reality, which then reverberate across companies and beyond.By the numbers: 32.8% of executives said that they trust AI more than thei",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/21/ai-trust-executives-survey",
+      "priority": 3
+    },
+    "remind_at": "2026-10-21T03:37:52.466680-07:00"
+  },
+  {
+    "item": {
+      "company": "VIVA Finance",
+      "amount": "$150.0M",
+      "stage": null,
+      "investors": "Viola Credit",
+      "location": null,
+      "blurb": "VIVA Finance Secures $150 Million Credit Facility. VIVA Finance secures a $150 million debt financing round from Viola Credit to scale its payroll-linked consumer credit platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/viva-finance-raises-150m-debt-financing/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-21T03:38:02.761258-07:00"
+  },
+  {
+    "item": {
+      "company": "Pigment",
+      "amount": "$250.0M",
+      "stage": "Series E",
+      "investors": "EQT at a",
+      "location": null,
+      "blurb": "Pigment Raises $250M Series E. Pigment raises $250M in a Series E round led by EQT at a $2.3B valuation to accelerate its AI-powered autonomous business planning platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/pigment-raises-250m-series-e/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-21T03:38:06.716224-07:00"
   }
 ]
