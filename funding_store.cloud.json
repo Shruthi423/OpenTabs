@@ -7745,5 +7745,53 @@
     "roles": [],
     "first_seen": "2026-10-21T12:19:10.873477-07:00",
     "status": "active"
+  },
+  "31c68c52e66f3397956729ca8f981f9e": {
+    "id": "31c68c52e66f3397956729ca8f981f9e",
+    "company": "Whop",
+    "amount": "$5.1B",
+    "stage": "?",
+    "investors": "Sequoia, Shopify Ventures",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZTB3QTF1XzlQYXBMeVNQYnhxUzAwa1pHS1doT2tMWGo3UmZIWTBCekdybGRkcHdmRWFKTG82WjJNdkdsT1pXV3FRQTJDbms4aW1PY3FiZ0tvR0EtbVBDMlpwMFJkaDhmdHNiUExoc2VFODRTWVBhajAzcHloaHYzSHhhamYwcDROc3N4V3B1X1JBbS1TTHc?oc=5",
+    "priority": 6,
+    "blurb": "Whop announces funding round at $5.1B valuation, led by Sequoia and Shopify Ventures, to advance universal economic freedom in the wake of AI - Yahoo Finance. Whop announces funding round at $5.1B valuation, led by Sequoia and Shopify Ventures, to advance universal economic freedom in the wake of AI&nbsp;&nbsp;Yahoo Finance",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-21T15:34:51.899746-07:00",
+    "status": "active"
+  },
+  "6d34c36697dd42f953363502e71d277a": {
+    "id": "6d34c36697dd42f953363502e71d277a",
+    "company": "Eureka Robotics",
+    "amount": "$150.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDJtY3B0UWEwV0dmLUFTNEVZWU1OQnB0VFFlNFJxem5YdG1leTQwYW5sMEppRTM2azd6QU1NejFYcjl4aS12cnltdzhCbXkyWU5BVVprREFsaVIzWlJ5eWlfRGdwZlFfNXFFOWMtdENGenZVUF9lWVFOZjQtUnMxUFk5THlESFk4a3hNeXNfc0J6b3FjSjY3Slg1cw?oc=5",
+    "priority": 3,
+    "blurb": "Eureka Robotics raises $150M to put touch into dextrous robots - Dealroom. Eureka Robotics raises $150M to put touch into dextrous robots&nbsp;&nbsp;Dealroom",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-21T15:34:57.552149-07:00",
+    "status": "active"
+  },
+  "be42dec2f86025428fd35a3588ad6c8e": {
+    "id": "be42dec2f86025428fd35a3588ad6c8e",
+    "company": "ASI",
+    "amount": "$325.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaZjFmcGJFTG9XUW8xZ01pU0k1bWFfdTFuWXNPVHNrYkVlQkdZcEJkYjNJTzFiN1RQRzJzUms1R0w3d01md2sybVNzcXc4LXZSUkxSMG5GaDJuRml1MDVKRFI5WmlNaEc4NlJ2ckpkZi04NVRrNlE?oc=5",
+    "priority": 3,
+    "blurb": "ASI Raises $325 Million at a $3 Billion Valuation as AI Moves From Chatbots Into Air Traffic and Power Grids - BigGo Finance. ASI Raises $325 Million at a $3 Billion Valuation as AI Moves From Chatbots Into Air Traffic and Power Grids&nbsp;&nbsp;BigGo Finance",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-21T15:35:00.892942-07:00",
+    "status": "active"
   }
 }

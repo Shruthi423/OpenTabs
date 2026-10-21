@@ -1,32 +1,47 @@
 [
   {
     "item": {
-      "company": "Blacksmith",
-      "amount": "$66.0M",
-      "stage": "Series C",
-      "investors": "Sequoia",
+      "company": "Whop",
+      "amount": "$5.1B",
+      "stage": null,
+      "investors": "Sequoia, Shopify Ventures",
       "location": null,
-      "blurb": "Blacksmith hits unicorn valuation after Sequoia leads Series C. Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "blurb": "Whop announces funding round at $5.1B valuation, led by Sequoia and Shopify Ventures, to advance universal economic freedom in the wake of AI - Yahoo Finance. Whop announces funding round at $5.1B valuation, led by Sequoia and Shopify Ventures, to advance universal economic freedom in the wake of AI&nbsp;&nbsp;Yahoo Finance",
       "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "priority": 9
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZTB3QTF1XzlQYXBMeVNQYnhxUzAwa1pHS1doT2tMWGo3UmZIWTBCekdybGRkcHdmRWFKTG82WjJNdkdsT1pXV3FRQTJDbms4aW1PY3FiZ0tvR0EtbVBDMlpwMFJkaDhmdHNiUExoc2VFODRTWVBhajAzcHloaHYzSHhhamYwcDROc3N4V3B1X1JBbS1TTHc?oc=5",
+      "priority": 6
     },
-    "remind_at": "2026-10-21T12:49:06.014288-07:00"
+    "remind_at": "2026-10-21T16:04:50.899571-07:00"
   },
   {
     "item": {
-      "company": "Legora",
-      "amount": "$550.0M",
-      "stage": "Series E",
+      "company": "Eureka Robotics",
+      "amount": "$150.0M",
+      "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Legal AI startup Legora raises $550M Series E at $8.8B valuation. Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+      "blurb": "Eureka Robotics raises $150M to put touch into dextrous robots - Dealroom. Eureka Robotics raises $150M to put touch into dextrous robots&nbsp;&nbsp;Dealroom",
       "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDJtY3B0UWEwV0dmLUFTNEVZWU1OQnB0VFFlNFJxem5YdG1leTQwYW5sMEppRTM2azd6QU1NejFYcjl4aS12cnltdzhCbXkyWU5BVVprREFsaVIzWlJ5eWlfRGdwZlFfNXFFOWMtdENGenZVUF9lWVFOZjQtUnMxUFk5THlESFk4a3hNeXNfc0J6b3FjSjY3Slg1cw?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-10-21T12:49:09.873314-07:00"
+    "remind_at": "2026-10-21T16:04:56.551987-07:00"
+  },
+  {
+    "item": {
+      "company": "ASI",
+      "amount": "$325.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "ASI Raises $325 Million at a $3 Billion Valuation as AI Moves From Chatbots Into Air Traffic and Power Grids - BigGo Finance. ASI Raises $325 Million at a $3 Billion Valuation as AI Moves From Chatbots Into Air Traffic and Power Grids&nbsp;&nbsp;BigGo Finance",
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaZjFmcGJFTG9XUW8xZ01pU0k1bWFfdTFuWXNPVHNrYkVlQkdZcEJkYjNJTzFiN1RQRzJzUms1R0w3d01md2sybVNzcXc4LXZSUkxSMG5GaDJuRml1MDVKRFI5WmlNaEc4NlJ2ckpkZi04NVRrNlE?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-10-21T16:04:59.892772-07:00"
   }
 ]
