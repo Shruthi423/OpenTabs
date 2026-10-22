@@ -1,152 +1,152 @@
 [
   {
     "item": {
-      "company": "Reduck",
-      "amount": "$3.0M",
+      "company": "Onto",
+      "amount": "$1.0M",
       "stage": "Pre-Seed",
-      "investors": "Daphni",
+      "investors": "Stargazer Fund",
       "location": null,
-      "blurb": "Reduck Raises $3M Pre-seed. Reduck raises $3M in a pre-seed round led by Daphni to advance its browser automation platform for AI agents.",
+      "blurb": "Onto Raises $1M Pre-seed. Onto raises $1 million in a pre-seed round led by Stargazer Fund to scale its travel technology platform and post-booking price-tracking service.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/reduck-raises-3m-pre-seed/",
+      "url": "https://www.thesaasnews.com/news/onto-raises-1m-pre-seed/",
       "priority": 10
     },
-    "remind_at": "2026-10-22T04:09:49.672924-07:00"
+    "remind_at": "2026-10-22T09:10:28.159037-07:00"
   },
   {
     "item": {
-      "company": "Flapping Airplanes",
-      "amount": "$1.0B",
+      "company": "Atlian",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Atlian Raises Pre-Seed for Construction Insurance AI - Konsulteer. Atlian Raises Pre-Seed for Construction Insurance AI&nbsp;&nbsp;Konsulteer",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjV3M1ZDS09PM3BDVTdEaW1nWmxiSVVuQzJ1M2hBSXpVVXFWenBSc1FXMzJ1c0FnbFd0VWs3T0l3bDFjSjNNWEdTT2VrTTVDYWJ1MDFKMWNRRV9oNm1iZ3laRExZSHpBWkY5b0xzOHJycmVIdVpmN1ZKanhDVXI2b01FNUZCSVFEQm4wSzZiMzk0WUZoVmctMWl3STJwMG1qdXZmSDN5MEM1bFJ4WDQ3UU8wb3N5ZmdJekI0ZQ?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-10-22T09:10:44.886833-07:00"
+  },
+  {
+    "item": {
+      "company": "Slingshot",
+      "amount": "$27.0M",
+      "stage": "Seed",
+      "investors": "Rally Ventures and Skyward Group, it tells Crunchbase News exclusively",
+      "location": "Minneapolis",
+      "blurb": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout. Slingshot Insurance, a Minneapolis-based AI-native embedded insurance startup, is emerging from stealth with $27 million in a seed funding round co-led by Rally Ventures and Skyward Group, it tells Crunchbase News exclusively.",
+      "founders": [],
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-22T09:10:47.757191-07:00"
+  },
+  {
+    "item": {
+      "company": "MARC",
+      "amount": "$5.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
-      "blurb": "Flapping Airplanes raises $1B at $6B from Index and Lux to make every AI chip work harder. Nine months ago, Flapping Airplanes introduced itself with a $180 million seed round that valued it at $1.5&#8230;",
+      "blurb": "Real Estate Tech Startup MARC Raises $5M Seed Round - Commercial Observer. Real Estate Tech Startup MARC Raises $5M Seed Round&nbsp;&nbsp;Commercial Observer",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85TDk0SWFwTmJhMFA0R0pFdkJmb2tCbkozNFRaRmQ3OXVQaGZTdm1QX0RQX0t3VTg0NHBZQ3FnRmZTeVpldjNiUDdkVE9Udll2cE1IM240NTlXU0R6MDhKUThOX3pKUQ?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-10-22T09:10:52.791609-07:00"
+  },
+  {
+    "item": {
+      "company": "Mave",
+      "amount": "$28.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Cyber startup Mave raises $28 million Series A to automate threat investigations - CTech. Cyber startup Mave raises $28 million Series A to automate threat investigations&nbsp;&nbsp;CTech",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1feWlKQnBYYlVNVXprSC13Ri1BSmlZdXhBZEhMREVsVktRcV9hX2ItM2Qzbk5VNE13MjhRWjZmYTFjSTh1RHpFUXlCZVVZcG1ybmdwV2htTmgyMjlDUFJtQXdhN2FGRlp3?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-10-22T09:11:07.962503-07:00"
+  },
+  {
+    "item": {
+      "company": "Helion",
+      "amount": "$225.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Fusion startup Helion is developing new semiconductors that could double output of its power plants. Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-22T09:11:11.120165-07:00"
+  },
+  {
+    "item": {
+      "company": "Indurex",
+      "amount": "$8.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Indurex raises $8M from climate VC Contrarian to protect industrial plants\u2019 safety systems. Most industrial cybersecurity tools watch the network. Indurex looks at the data underneath it: the engineering settings, protection&#8230;",
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/flapping-airplanes-raises-1b-at-6b-from-index-and-lux-to-make-every-ai-chip-work-harder/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-22T04:10:11.255409-07:00"
-  },
-  {
-    "item": {
-      "company": "Ultra Security",
-      "amount": "$10.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Ultra Security Raises $10M Seed. Ultra Security raises $10M seed round to provide real-time security and governance for autonomous AI agents and their tool interactions.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ultra-security-raises-10m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-22T04:10:17.025327-07:00"
-  },
-  {
-    "item": {
-      "company": "AnyBridge",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "AI Inference Infrastructure Startup AnyBridge Raises Seed Funding, Selected for TIPS - Wowtale. AI Inference Infrastructure Startup AnyBridge Raises Seed Funding, Selected for TIPS&nbsp;&nbsp;Wowtale",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vQXo2cFgyNVE5MEhWa18yNFZsdWFpbmYySjlSQzlKMWtMVXc1bldtMl9ZaXg4NVJ0d0hycVU5aGZ2RFFYMFkxeHZXLUF1VG10dFRr?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-10-22T04:10:20.163317-07:00"
-  },
-  {
-    "item": {
-      "company": "Genie Health",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "PropertyGuru ex-CEO\u2019s AI Health Startup Genie Health Raises Seed Funding - www.tabla.com.sg. PropertyGuru ex-CEO\u2019s AI Health Startup Genie Health Raises Seed Funding&nbsp;&nbsp;www.tabla.com.sg",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWt1NzhoWEpGN2I1dXZBQzY1c3dNQzQzRklqNXNUa2pJLXFjOUJOTnhabDFsMlpJUFZWanFyQW1VY1Zua0hOMU8xeXlMOFVsNlZ3UkhCU0w2N0tmM3NLeG9HSi1RelhFZFZMcEllaERzRXlGVC1QNDgtM1ozNWg0dllkbHZISU8yZWtJeDRWdTJMLVNITWlWblJRbDZyektWNGR0X0pqWmNueW9wNXZkdnZvWQ?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-10-22T04:10:25.917563-07:00"
-  },
-  {
-    "item": {
-      "company": "CapitalOS",
-      "amount": "$21.9M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "CapitalOS Raises $21.9M Series A. CapitalOS raises $21.9M Series A led by LGVP to scale its embedded money orchestration and financial infrastructure platform for B2B software companies.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/capitalos-raises-21-9m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-10-22T04:10:28.790887-07:00"
-  },
-  {
-    "item": {
-      "company": "NationA",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "AI Video Startup NationA Raises USD 6.5M Series A to Relaunch Integrated AI Video Production Platform - Wowtale. AI Video Startup NationA Raises USD 6.5M Series A to Relaunch Integrated AI Video Production Platform&nbsp;&nbsp;Wowtale",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxVDcwQ1RxVlVKbURTSGJYQmZYVVdRX3dYM1lXSzMtcE1GTmtLZWlBNWNySXJoaXIyV0ZHWkJzU3UzejAydHlpdkJxTjI1NGJvejhz?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-10-22T04:10:31.823993-07:00"
-  },
-  {
-    "item": {
-      "company": "Hive",
-      "amount": "$27.0M",
-      "stage": "Series B",
-      "investors": "Frontier Growth",
-      "location": null,
-      "blurb": "Hive Raises $27M Series B. Hive raises $27M Series B round led by Frontier Growth to expand its event marketing platform and AI-powered automation for live events.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hive-raises-27m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-10-22T04:10:36.890689-07:00"
-  },
-  {
-    "item": {
-      "company": "Tamr",
-      "amount": "$21.0M",
-      "stage": null,
-      "investors": "Volition Capital",
-      "location": null,
-      "blurb": "Tamr Raises $21M Growth Capital. Tamr raises $21M in growth equity led by Volition Capital to advance its AI-native master data management and agentic data curation platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/tamr-raises-21m-growth-capital/",
+      "url": "https://techfundingnews.com/indurex-raises-8m-from-climate-vc-contrarian-to-protect-industrial-plants-safety-systems/",
       "priority": 3
     },
-    "remind_at": "2026-10-22T04:10:41.186262-07:00"
+    "remind_at": "2026-10-22T09:11:13.934796-07:00"
   },
   {
     "item": {
-      "company": "Atombeam",
-      "amount": "$18.3M",
+      "company": "Nvidia-backed Fireworks AI",
+      "amount": "$30.0B",
+      "stage": null,
+      "investors": null,
+      "location": "California",
+      "blurb": "Nvidia-backed Fireworks AI eyes $30B to $40B valuation, roughly double its July price. Fireworks AI was valued at $4 billion in October 2025. Business Insider reported that the California-based startup is&#8230;",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/nvidia-backed-fireworks-ai-eyes-30b-to-40b-valuation-roughly-double-its-july-price/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-22T09:11:19.535429-07:00"
+  },
+  {
+    "item": {
+      "company": "Funding News Today",
+      "amount": "$2.0B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Atombeam Raises $18.3M Other. Atombeam raises $18.3 million in a funding round to accelerate the commercialization of its AI data compaction and encryption software.",
+      "blurb": "Startup Funding News Today, October 22, 2026: Flapping Airplanes, Legora, Mach9, Peak Energy, Whop & More. More than $2 billion in fresh venture capital funding poured into startups over the past 24 hours, as investors doubled down on artificial intelligence and the technologies needed to sustain its growth. From AI research and developer infrastructure to legal [&#8230;]\nThe post Startup Funding News Today, October 22, 2026: Flapping Airplanes, Legora, Mach9, Peak Energy, Whop & More first appe",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/atombeam-raises-18-3m-other/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/22/startup-funding-news-today-october-22-2026-flapping-airplanes-legora-mach9-peak-energy-whop-more/",
       "priority": 3
     },
-    "remind_at": "2026-10-22T04:10:46.775332-07:00"
+    "remind_at": "2026-10-22T09:11:26.349444-07:00"
+  },
+  {
+    "item": {
+      "company": "Nvidia-backed Nebius",
+      "amount": "$3.5B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Nvidia-backed Nebius secures $3.5 billion in Citi financing to expand AI data centers and GPU capacity. The AI cloud provider secures fresh financing to accelerate its global expansion, supported by more than $40 billion in long-term customer contracts. Nvidia-backed AI cloud provider Nebius Group has secured a $3.5 billion financing facility from Citigroup to build more [&#8230;]\nThe post Nvidia-backed Nebius secures $3.5 billion in Citi financing to expand AI data centers and GPU capacity firs",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/22/nvidia-backed-nebius-secures-3-5-billion-in-citi-financing-to-expand-ai-data-centers-and-gpu-capacity/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-22T09:11:34.984055-07:00"
   }
 ]
