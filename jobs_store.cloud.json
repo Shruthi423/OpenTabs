@@ -143,7 +143,7 @@
     "first_seen": "2026-09-22T03:22:15.496251-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T17:19:13.353130-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "4d314eccce618ca81ff6869f45f7d0d7": {
@@ -248,7 +248,7 @@
     "first_seen": "2026-09-22T03:22:24.224681-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T17:19:13.353130-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "1edd106a29675674d38ab47075da871c": {
@@ -522,7 +522,7 @@
     "first_seen": "2026-09-23T01:12:52.104392-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T17:19:13.353130-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "9b3776b3b7c23d6a9a40218f80edcfec": {
@@ -543,7 +543,7 @@
     "first_seen": "2026-09-23T06:38:51.154849-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T17:19:13.353130-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "efc03e2d6473f748bee45db20c3389a0": {
@@ -564,7 +564,7 @@
     "first_seen": "2026-09-23T10:58:42.233068-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T17:19:13.353130-07:00"
+    "checked_at": "2026-10-22T03:38:28.295000-07:00"
   },
   "68d2ae500a30a47bf5f206ffcb01df0c": {
     "id": "68d2ae500a30a47bf5f206ffcb01df0c",
@@ -584,7 +584,7 @@
     "first_seen": "2026-09-23T10:58:45.509153-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T17:19:13.353130-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "27d9dffa4b36387f287ee83f2f8b55e7": {
@@ -605,7 +605,7 @@
     "first_seen": "2026-09-23T14:12:55.292881-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T17:19:13.353130-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "f23c0f146e9a6a760c9962de997a1030": {
@@ -1948,7 +1948,7 @@
     "first_seen": "2026-09-30T06:42:11.100196-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "32bf5e923fcc81db13c9fe640996c9d9": {
@@ -2159,7 +2159,7 @@
     "first_seen": "2026-10-01T17:01:42.112198-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "8f1900a1743ac8553046a676d6d1f13f": {
@@ -2642,7 +2642,7 @@
     "first_seen": "2026-10-05T08:59:48.824863-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "d4d7d41ced439a64511d0db47e75808b": {
@@ -2663,7 +2663,7 @@
     "first_seen": "2026-10-05T08:59:50.524414-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "496c1b221e37c8f7cfb5d284d66b687a": {
@@ -2684,7 +2684,7 @@
     "first_seen": "2026-10-05T08:59:52.263199-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "926f19a55f28704f9fb515498704d3c2": {
@@ -2705,7 +2705,7 @@
     "first_seen": "2026-10-05T08:59:53.963797-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "6500c8e64fb9f702191c3f6e64a82c3d": {
@@ -2726,7 +2726,7 @@
     "first_seen": "2026-10-05T08:59:55.534317-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "2349a6896688dd963d350fd27595214c": {
@@ -3102,7 +3102,7 @@
     "first_seen": "2026-10-06T08:57:06.004095-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "4a412be48de8116c0f5f0bba18b4560c": {
@@ -3123,7 +3123,7 @@
     "first_seen": "2026-10-06T08:57:07.806601-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "b2a4ea9a7c95f5fcf8390dd0ea93d17e": {
@@ -3144,7 +3144,7 @@
     "first_seen": "2026-10-06T08:57:09.597537-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "c04435f2b60249b8547190b392c4aea6": {
@@ -3438,7 +3438,7 @@
     "first_seen": "2026-10-07T21:00:43.121369-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "ca861399d7d29ce5287a6adc986a1c49": {
@@ -3585,7 +3585,7 @@
     "first_seen": "2026-10-09T02:38:52.526659-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "f70862c797d91c4b84a29be375bccdb6": {
@@ -3606,7 +3606,7 @@
     "first_seen": "2026-10-09T09:35:42.023904-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "0cfdfff14010103e97eab724de63c087": {
@@ -3627,7 +3627,7 @@
     "first_seen": "2026-10-09T14:17:39.965292-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "a22652aedb72a2354e48db6b4ced0310": {
@@ -3774,7 +3774,7 @@
     "first_seen": "2026-10-12T09:07:54.179531-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "7539fd8485b9b9399f2c50dc3ebf5d59": {
@@ -4591,7 +4591,7 @@
     "first_seen": "2026-10-14T16:21:17.590923-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-20T14:52:35.846935-07:00",
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
     "dead_strikes": 0
   },
   "283babf767e5dae0217ad28c561581bb": {
@@ -4716,7 +4716,9 @@
     "priority": 3,
     "first_seen": "2026-10-19T01:24:24.386877-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
+    "dead_strikes": 0
   },
   "2b7b11180d97d1984ef9c0c6d04d6ba4": {
     "id": "2b7b11180d97d1984ef9c0c6d04d6ba4",
@@ -4736,7 +4738,9 @@
     "priority": 5,
     "first_seen": "2026-10-19T01:24:54.903518-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-22T03:38:28.295000-07:00",
+    "dead_strikes": 0
   },
   "2869c468032fd1ed5a6aa51f496c9618": {
     "id": "2869c468032fd1ed5a6aa51f496c9618",
@@ -5400,6 +5404,64 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-10-21T17:54:46.881691-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "388f65e6caca8f5fd8db3f9552199750": {
+    "id": "388f65e6caca8f5fd8db3f9552199750",
+    "title": "UX Product Designer",
+    "company": "Skydio",
+    "location": "San Mateo, CA",
+    "salary": "$150,000 - $200,000",
+    "url": "https://uiuxjobsboard.com/job/1648526-ux-product-designer-san-mateo-ca-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Our UX Product Designers are inventing the interfaces of the future. You will not be designing generic dashboards. You will be helping to design the critical trust-bridge between human operators and advanced AI hardware, translating extreme technological complexity into intuitive, reliable, and beautiful experiences.\nAbout the Role\nAs a UX Designer, you are a passionate craftsperson who embraces how technology is shifting the design discipline. You are comfortable taking ownership of complex features, collaborating effectively with Design Leadership and Product Managers, and executing with an incredibly high bar for detail.\nYou will work closely with Design Leadership, Product Managers, and Engineers to map out Critical User Journeys (CUJs) and build cross-platform experiences (Web, Mobile, Ground Control Stations) that our customers in the national security/defense vertical will implicitly trust.\nYou will be instrumental in designing intuitive, high-quality user interfaces that bridge complex autonomous systems with streamlined tactical workflows, improving operator decision-making.\nAbout the Role:\nAs a UX Product Designer, you are a passionate craftsperson who embraces how technology is shifting the design discipline. You are comfortable taking ownership of complex features, collaborating effectively with Design Leadership and Product Managers, and executing with an incredibly high bar for detail.\nYou will work closely with Design Leadership, Product Managers, and Engineers to map out Critical User Journeys (CUJs) and build cross-platform experiences (Web, Mobile, Ground Control Stations) that our customers in the national security/defense vertical will implicitly trust.\nLocation: This position is based onsite at least 3 days/week at Skydio HQ in San Mateo, CA. We offer relocation assistance if needed.\nDesign for Trust: Own the UX execution for key features on our core platforms (including remote operations). You will build interfaces for autonomous flying robots that make the operator trust the job will get done, ensuring every interaction reinforces confidence, reliability, and system transparency.\nSolve Unsolved Problems: Tackle complex challenges where there is no existing playbook. You will think pragmatically and creatively to design interfaces for remote hardware sensing, 3D spatial awareness, and AI-driven missions.\nCommunicate & Defend Rationale: Effectively communicate user needs and frame complex problems. You will present your design solutions clearly, defending your rationale with user data and system logic to align with Engineering and Product Management.\nElevate the Craft: Bring an uncompromising attention to detail and craftsmanship to the team. You will build high-fidelity prototypes to test assumptions quickly, leveraging AI tools as a seamless part of your daily process to move faster and explore wider.\nLearn from the Field: Participate in on-site visits with our customers to deeply understand their chaotic, high-stress environments. Bring that \"ground truth\" back to the studio to inform your design decisions.\nWhat Makes You a Great Fit (Your Superpowers):\nProven Execution: 3-6 years of hands-on UX/UI product design experience, including translating product requirements into clear design concepts and specifications that Engineering has built and shipped.\nFirst-Principles Problem Solver: You are an out-of-the-box thinker, doer, and builder who loves operating in ambiguous spaces where no existing design patterns exist. You actively explore solutions by conducting research, building prototypes, and running user studies to get continuous feedback.\nUncompromising Craftsmanship: You have a portfolio of work that clearly demonstrates an exceptionally high bar for visual design, complex systems architecture, and attention to detail.\nComfortable with Complexity: You have experience designing for technical tools being used in the real world. We'd love to see portfolios featuring: mapping or navigation apps, tools t",
+    "posted_at": "1h",
+    "priority": 2,
+    "first_seen": "2026-10-22T03:39:24.099517-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "d88d9a58ac00541859e7767763296cc9": {
+    "id": "d88d9a58ac00541859e7767763296cc9",
+    "title": "Product Designer",
+    "company": "H Company",
+    "location": "London",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1648126-product-designer-london-united-kingdom",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Testing what you build with users, measuring its impact (A/B testing, user interviews, users daily use data...) and iterating quickly based on what you learn.\nShaping the roadmap together with the whole team, engineers and PMs alike.\nThe role sits in our Product team, which is responsible for product direction, strategy and design. You'll join the product designer who owns design and UX today, and work closely with product, engineering and forward deployed engineers.\nAbove all, we want someone who cares deeply about users, has great product taste and can explain it, moves fast while keeping quality high, leaves their ego at the door and welcomes feedback.\nHave 5+ years of experience as a Product Designer at tech companies.\nHave excellent UX, UI and interaction design skills, and can make complex, technical flows, like building and running AI agent workflows, feel simple and intuitive.\nHave a portfolio that shows your latest work.\nHave hands-on experience running user tests and A/B tests.\nKnow when a proven solution is good enough and when a problem deserves something new.\nHave designed complex data or ML/AI-driven products: you know how to make complex systems understandable and how to design for AI behaviour that isn't always predictable, building trust and keeping users in control.\nAre comfortable in technical discussions: you can dig into constraints and trade-offs with engineers and ramp up quickly on technical topics to discuss them with our researchers and more technical engineers.\nCan work within a design system and contribute to it.\nHave designed platforms: complex B2B web or desktop software used by professionals, whether that's tools to build and run workflows, big data and analytics software, operational dashboards or other data-dense interfaces.\nAre curious about code and AI in your design workflow. Every design team is still figuring out how AI changes the way we work, and we're no different, so we'd love someone who has started experimenting, whether by prototyping in code, building small tools or bringing AI into their process, and who wants to keep exploring with us.\nIf you match most of this but not every point, apply anyway. We care far more about how you think, your curiosity and your care for users than a perfect match.\nFour stages: a 30-minute call with our Talent team, a 60-minute portfolio review, a 60-minute design interview in person at our London office, and a closing 30-minute conversation.\nThe portfolio review and design interview are built around your own work and how you design. Please apply with your CV and a link to your portfolio showing your latest work.\nI Staff Product Designer at Imprint Y Senior Product Designer at YAZIO B Senior Product Designer at Beyond Sports M Senior Product Designer at Molecule H Staff Product Designer at Handshake\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nProduct Design Salary Guide Product Design Salary in London Product Design Salary in United Kingdom\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nRelated Jobs See more jobs from United Kingdom\nBeyond Sports is hiring Senior Product Designer\nMEDvidi is hiring Staff Product Designer (AI Track)\nIhsan is hiring Product Designer \u2014 Mobile UX/UI & Motion",
+    "posted_at": "4h",
+    "priority": 4,
+    "first_seen": "2026-10-22T03:39:26.285108-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "96c7088298584a1044f5dc161ae79ff1": {
+    "id": "96c7088298584a1044f5dc161ae79ff1",
+    "title": "UI / UX Designer",
+    "company": "Hive",
+    "location": "San Francisco",
+    "salary": "Not listed",
+    "url": "https://jobs.lever.co/hive/cf90f190-fcf5-4bc8-8c07-a0c0f337f5cd",
+    "source": "\ud83d\udcb0 Hive (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Hive raised $27.0M",
+    "founders": [],
+    "description": "About Hive\n\u00a0\nHive is the leading provider of cloud-based AI solutions to understand, search, and generate content, and is trusted by hundreds of the world's largest and most innovative organizations. The company empowers developers with a portfolio of best-in-class, pre-trained AI models, serving billions of customer API requests every month. Hive also offers turnkey software applications powered",
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-10-22T03:40:34.590747-07:00",
     "status": "active",
     "applied_at": null
   }

@@ -1,17 +1,152 @@
 [
   {
     "item": {
-      "company": "OpenEvidence",
-      "amount": "$15.0B",
+      "company": "Reduck",
+      "amount": "$3.0M",
+      "stage": "Pre-Seed",
+      "investors": "Daphni",
+      "location": null,
+      "blurb": "Reduck Raises $3M Pre-seed. Reduck raises $3M in a pre-seed round led by Daphni to advance its browser automation platform for AI agents.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/reduck-raises-3m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-10-22T04:09:49.672924-07:00"
+  },
+  {
+    "item": {
+      "company": "Flapping Airplanes",
+      "amount": "$1.0B",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Flapping Airplanes raises $1B at $6B from Index and Lux to make every AI chip work harder. Nine months ago, Flapping Airplanes introduced itself with a $180 million seed round that valued it at $1.5&#8230;",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/flapping-airplanes-raises-1b-at-6b-from-index-and-lux-to-make-every-ai-chip-work-harder/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-22T04:10:11.255409-07:00"
+  },
+  {
+    "item": {
+      "company": "Ultra Security",
+      "amount": "$10.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Ultra Security Raises $10M Seed. Ultra Security raises $10M seed round to provide real-time security and governance for autonomous AI agents and their tool interactions.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/ultra-security-raises-10m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-22T04:10:17.025327-07:00"
+  },
+  {
+    "item": {
+      "company": "AnyBridge",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "AI Inference Infrastructure Startup AnyBridge Raises Seed Funding, Selected for TIPS - Wowtale. AI Inference Infrastructure Startup AnyBridge Raises Seed Funding, Selected for TIPS&nbsp;&nbsp;Wowtale",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vQXo2cFgyNVE5MEhWa18yNFZsdWFpbmYySjlSQzlKMWtMVXc1bldtMl9ZaXg4NVJ0d0hycVU5aGZ2RFFYMFkxeHZXLUF1VG10dFRr?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-10-22T04:10:20.163317-07:00"
+  },
+  {
+    "item": {
+      "company": "Genie Health",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "PropertyGuru ex-CEO\u2019s AI Health Startup Genie Health Raises Seed Funding - www.tabla.com.sg. PropertyGuru ex-CEO\u2019s AI Health Startup Genie Health Raises Seed Funding&nbsp;&nbsp;www.tabla.com.sg",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWt1NzhoWEpGN2I1dXZBQzY1c3dNQzQzRklqNXNUa2pJLXFjOUJOTnhabDFsMlpJUFZWanFyQW1VY1Zua0hOMU8xeXlMOFVsNlZ3UkhCU0w2N0tmM3NLeG9HSi1RelhFZFZMcEllaERzRXlGVC1QNDgtM1ozNWg0dllkbHZISU8yZWtJeDRWdTJMLVNITWlWblJRbDZyektWNGR0X0pqWmNueW9wNXZkdnZvWQ?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-10-22T04:10:25.917563-07:00"
+  },
+  {
+    "item": {
+      "company": "CapitalOS",
+      "amount": "$21.9M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "CapitalOS Raises $21.9M Series A. CapitalOS raises $21.9M Series A led by LGVP to scale its embedded money orchestration and financial infrastructure platform for B2B software companies.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/capitalos-raises-21-9m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-22T04:10:28.790887-07:00"
+  },
+  {
+    "item": {
+      "company": "NationA",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "AI Video Startup NationA Raises USD 6.5M Series A to Relaunch Integrated AI Video Production Platform - Wowtale. AI Video Startup NationA Raises USD 6.5M Series A to Relaunch Integrated AI Video Production Platform&nbsp;&nbsp;Wowtale",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxVDcwQ1RxVlVKbURTSGJYQmZYVVdRX3dYM1lXSzMtcE1GTmtLZWlBNWNySXJoaXIyV0ZHWkJzU3UzejAydHlpdkJxTjI1NGJvejhz?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-10-22T04:10:31.823993-07:00"
+  },
+  {
+    "item": {
+      "company": "Hive",
+      "amount": "$27.0M",
+      "stage": "Series B",
+      "investors": "Frontier Growth",
+      "location": null,
+      "blurb": "Hive Raises $27M Series B. Hive raises $27M Series B round led by Frontier Growth to expand its event marketing platform and AI-powered automation for live events.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hive-raises-27m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-10-22T04:10:36.890689-07:00"
+  },
+  {
+    "item": {
+      "company": "Tamr",
+      "amount": "$21.0M",
+      "stage": null,
+      "investors": "Volition Capital",
+      "location": null,
+      "blurb": "Tamr Raises $21M Growth Capital. Tamr raises $21M in growth equity led by Volition Capital to advance its AI-native master data management and agentic data curation platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/tamr-raises-21m-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-22T04:10:41.186262-07:00"
+  },
+  {
+    "item": {
+      "company": "Atombeam",
+      "amount": "$18.3M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "OpenEvidence hits $15 billion valuation as AI reshapes how doctors treat patients - Crypto Briefing. OpenEvidence hits $15 billion valuation as AI reshapes how doctors treat patients&nbsp;&nbsp;Crypto Briefing",
+      "blurb": "Atombeam Raises $18.3M Other. Atombeam raises $18.3 million in a funding round to accelerate the commercialization of its AI data compaction and encryption software.",
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OTkstTk9TVzBaLTdTcFNkc1FrbkNlaWNLWXR6THpkMjF6MVVkRVdNMU9DbVVOaUdKbWc0UVlweGZmTV9FRjVsUlhGazdZbGJmMWc0ZUxJdkhVT3RHY0hPSS0zN0FnR1c4SW5UbWxEMi1VRW5OWDNSenkyV3c?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/atombeam-raises-18-3m-other/",
       "priority": 3
     },
-    "remind_at": "2026-10-21T23:10:44.409686-07:00"
+    "remind_at": "2026-10-22T04:10:46.775332-07:00"
   }
 ]
