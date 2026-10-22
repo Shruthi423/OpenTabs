@@ -1,152 +1,47 @@
 [
   {
     "item": {
-      "company": "Onto",
-      "amount": "$1.0M",
-      "stage": "Pre-Seed",
-      "investors": "Stargazer Fund",
+      "company": "Nirva",
+      "amount": "$25.0M",
+      "stage": null,
+      "investors": "Lightspeed Venture Partners, South Park Commons and others",
       "location": null,
-      "blurb": "Onto Raises $1M Pre-seed. Onto raises $1 million in a pre-seed round led by Stargazer Fund to scale its travel technology platform and post-booking price-tracking service.",
+      "blurb": "Nirva raises $25M to make AI jewelry with \u2018perspective\u2019 that listens and provides insights. Personal artificial intelligence wearable company Nirva Labs today announced it has raised $25 million in early funding to accelerate development of its sleek AI jewelry, which brings emotional perspective to users. The company is backed by Lightspeed Venture Partners, South Park Commons and others. Today\u2019s round brings Nirva&#8217;s total funding to $33 million, following an [&#8230;]\nThe post Nirva rais",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/onto-raises-1m-pre-seed/",
-      "priority": 10
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/22/nirva-raises-25m-to-make-ai-jewelry-with-perspective-that-listens-and-provides-insights/",
+      "priority": 6
     },
-    "remind_at": "2026-10-22T09:10:28.159037-07:00"
-  },
-  {
-    "item": {
-      "company": "Atlian",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Atlian Raises Pre-Seed for Construction Insurance AI - Konsulteer. Atlian Raises Pre-Seed for Construction Insurance AI&nbsp;&nbsp;Konsulteer",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjV3M1ZDS09PM3BDVTdEaW1nWmxiSVVuQzJ1M2hBSXpVVXFWenBSc1FXMzJ1c0FnbFd0VWs3T0l3bDFjSjNNWEdTT2VrTTVDYWJ1MDFKMWNRRV9oNm1iZ3laRExZSHpBWkY5b0xzOHJycmVIdVpmN1ZKanhDVXI2b01FNUZCSVFEQm4wSzZiMzk0WUZoVmctMWl3STJwMG1qdXZmSDN5MEM1bFJ4WDQ3UU8wb3N5ZmdJekI0ZQ?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-10-22T09:10:44.886833-07:00"
-  },
-  {
-    "item": {
-      "company": "Slingshot",
-      "amount": "$27.0M",
-      "stage": "Seed",
-      "investors": "Rally Ventures and Skyward Group, it tells Crunchbase News exclusively",
-      "location": "Minneapolis",
-      "blurb": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout. Slingshot Insurance, a Minneapolis-based AI-native embedded insurance startup, is emerging from stealth with $27 million in a seed funding round co-led by Rally Ventures and Skyward Group, it tells Crunchbase News exclusively.",
-      "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-22T09:10:47.757191-07:00"
-  },
-  {
-    "item": {
-      "company": "MARC",
-      "amount": "$5.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Real Estate Tech Startup MARC Raises $5M Seed Round - Commercial Observer. Real Estate Tech Startup MARC Raises $5M Seed Round&nbsp;&nbsp;Commercial Observer",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85TDk0SWFwTmJhMFA0R0pFdkJmb2tCbkozNFRaRmQ3OXVQaGZTdm1QX0RQX0t3VTg0NHBZQ3FnRmZTeVpldjNiUDdkVE9Udll2cE1IM240NTlXU0R6MDhKUThOX3pKUQ?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-10-22T09:10:52.791609-07:00"
+    "remind_at": "2026-10-22T13:01:09.610172-07:00"
   },
   {
     "item": {
       "company": "Mave",
-      "amount": "$28.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Cyber startup Mave raises $28 million Series A to automate threat investigations - CTech. Cyber startup Mave raises $28 million Series A to automate threat investigations&nbsp;&nbsp;CTech",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1feWlKQnBYYlVNVXprSC13Ri1BSmlZdXhBZEhMREVsVktRcV9hX2ItM2Qzbk5VNE13MjhRWjZmYTFjSTh1RHpFUXlCZVVZcG1ybmdwV2htTmgyMjlDUFJtQXdhN2FGRlp3?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-10-22T09:11:07.962503-07:00"
-  },
-  {
-    "item": {
-      "company": "Helion",
-      "amount": "$225.0M",
+      "amount": "$34.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Fusion startup Helion is developing new semiconductors that could double output of its power plants. Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-22T09:11:11.120165-07:00"
-  },
-  {
-    "item": {
-      "company": "Indurex",
-      "amount": "$8.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Indurex raises $8M from climate VC Contrarian to protect industrial plants\u2019 safety systems. Most industrial cybersecurity tools watch the network. Indurex looks at the data underneath it: the engineering settings, protection&#8230;",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/indurex-raises-8m-from-climate-vc-contrarian-to-protect-industrial-plants-safety-systems/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-22T09:11:13.934796-07:00"
-  },
-  {
-    "item": {
-      "company": "Nvidia-backed Fireworks AI",
-      "amount": "$30.0B",
-      "stage": null,
-      "investors": null,
-      "location": "California",
-      "blurb": "Nvidia-backed Fireworks AI eyes $30B to $40B valuation, roughly double its July price. Fireworks AI was valued at $4 billion in October 2025. Business Insider reported that the California-based startup is&#8230;",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/nvidia-backed-fireworks-ai-eyes-30b-to-40b-valuation-roughly-double-its-july-price/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-22T09:11:19.535429-07:00"
-  },
-  {
-    "item": {
-      "company": "Funding News Today",
-      "amount": "$2.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Startup Funding News Today, October 22, 2026: Flapping Airplanes, Legora, Mach9, Peak Energy, Whop & More. More than $2 billion in fresh venture capital funding poured into startups over the past 24 hours, as investors doubled down on artificial intelligence and the technologies needed to sustain its growth. From AI research and developer infrastructure to legal [&#8230;]\nThe post Startup Funding News Today, October 22, 2026: Flapping Airplanes, Legora, Mach9, Peak Energy, Whop & More first appe",
+      "blurb": "Mave raises $34M to help enterprises detect and stop cyberattacks using AI agents. AI is changing the speed of cyberattacks. Techniques that once took hours or days can now unfold in minutes, leaving security teams scrambling to identify threats before attackers cause serious damage. U.S. businesses lose an estimated $30 billion annually to [&#8230;]\nThe post Mave raises $34M to help enterprises detect and stop cyberattacks using AI agents first appeared on Tech Startups.",
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/22/startup-funding-news-today-october-22-2026-flapping-airplanes-legora-mach9-peak-energy-whop-more/",
+      "url": "https://techstartups.com/2026/10/22/mave-raises-34m-to-help-enterprises-detect-and-stop-cyberattacks-using-ai-agents/",
       "priority": 3
     },
-    "remind_at": "2026-10-22T09:11:26.349444-07:00"
+    "remind_at": "2026-10-22T13:01:12.562104-07:00"
   },
   {
     "item": {
-      "company": "Nvidia-backed Nebius",
-      "amount": "$3.5B",
+      "company": "Barclays",
+      "amount": "$15.0B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Nvidia-backed Nebius secures $3.5 billion in Citi financing to expand AI data centers and GPU capacity. The AI cloud provider secures fresh financing to accelerate its global expansion, supported by more than $40 billion in long-term customer contracts. Nvidia-backed AI cloud provider Nebius Group has secured a $3.5 billion financing facility from Citigroup to build more [&#8230;]\nThe post Nvidia-backed Nebius secures $3.5 billion in Citi financing to expand AI data centers and GPU capacity firs",
+      "blurb": "Tech News Today, October 22, 2026: Barclays, DeepSeek, IBM, Google, Meta, Nokia, Palantir, Tesla & More. Daily Global Technology Digest &#124; Thursday, October 22, 2026 It\u2019s Thursday, October 22, 2026, and the tech industry&#8217;s contradictions are becoming harder to ignore. AI investment continues to soar, with DeepSeek reportedly nearing a $15 billion funding round and Meta [&#8230;]\nThe post Tech News Today, October 22, 2026: Barclays, DeepSeek, IBM, Google, Meta, Nokia, Palantir, Tesla & ",
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/22/nvidia-backed-nebius-secures-3-5-billion-in-citi-financing-to-expand-ai-data-centers-and-gpu-capacity/",
+      "url": "https://techstartups.com/2026/10/22/tech-news-today-october-22-2026-barclays-deepseek-ibm-meta-nokia-palantir-tesla-more/",
       "priority": 3
     },
-    "remind_at": "2026-10-22T09:11:34.984055-07:00"
+    "remind_at": "2026-10-22T13:01:15.546595-07:00"
   }
 ]
