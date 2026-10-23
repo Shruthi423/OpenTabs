@@ -1,17 +1,32 @@
 [
   {
     "item": {
-      "company": "In AI",
-      "amount": null,
+      "company": "Daytona",
+      "amount": "$1.0B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "In AI, it\u2019s a tale of two diverging investor classes. Depending on where you sit as an investor, artificial intelligence still looks like a massive opportunity, or it&#8217;s now looking way too risky given growing infrastructure investments and the public&#8217;s souring on AI and all the data centers needed to power it. Really, it&#8217;s both. This week saw continued big venture capital investments in AI [&#8230;]\nThe post In AI, it&#8217;s a tale of two diverging investor classes appeared fi",
+      "blurb": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who\u2019s who of angels. Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/23/in-ai-its-a-tale-of-two-diverging-investor-classes/",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
       "priority": 3
     },
-    "remind_at": "2026-10-23T08:59:18.956914-07:00"
+    "remind_at": "2026-10-23T12:58:39.502076-07:00"
+  },
+  {
+    "item": {
+      "company": "Strella",
+      "amount": "$4.25M",
+      "stage": null,
+      "investors": null,
+      "location": "Seattle",
+      "blurb": "Watching fruit ripen pays off: Seattle ag-tech startup Strella lands $4.25M. Seattle startup Strella raised $4.25 million to expand its technology that tracks how fruit is ripening as it moves from growers to grocery stores. The goal is to help businesses spot potential spoilage and waste less food. Read More",
+      "founders": [],
+      "source": "GeekWire Funding",
+      "url": "https://www.geekwire.com/2026/watching-fruit-ripen-pays-off-seattle-ag-tech-startup-strella-lands-4-25m/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-23T12:58:43.608873-07:00"
   }
 ]

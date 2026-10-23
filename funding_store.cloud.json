@@ -8295,5 +8295,37 @@
     "roles": [],
     "first_seen": "2026-10-23T08:29:19.957075-07:00",
     "status": "active"
+  },
+  "64c60129d1dbe4bb6cba09b0233abf8e": {
+    "id": "64c60129d1dbe4bb6cba09b0233abf8e",
+    "company": "Daytona",
+    "amount": "$1.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+    "priority": 3,
+    "blurb": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who\u2019s who of angels. Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-23T12:28:40.502208-07:00",
+    "status": "active"
+  },
+  "1c244ba06000e0ad5e4c243d6197ddca": {
+    "id": "1c244ba06000e0ad5e4c243d6197ddca",
+    "company": "Strella",
+    "amount": "$4.25M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "GeekWire Funding",
+    "url": "https://www.geekwire.com/2026/watching-fruit-ripen-pays-off-seattle-ag-tech-startup-strella-lands-4-25m/",
+    "priority": 3,
+    "blurb": "Watching fruit ripen pays off: Seattle ag-tech startup Strella lands $4.25M. Seattle startup Strella raised $4.25 million to expand its technology that tracks how fruit is ripening as it moves from growers to grocery stores. The goal is to help businesses spot potential spoilage and waste less food. Read More",
+    "founders": [],
+    "location": "Seattle",
+    "roles": [],
+    "first_seen": "2026-10-23T12:28:44.609025-07:00",
+    "status": "active"
   }
 }

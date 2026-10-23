@@ -1,5 +1,20 @@
 [
   {
+    "id": "64c60129d1dbe4bb6cba09b0233abf8e",
+    "company": "Daytona",
+    "amount": "$1.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-23T12:28:40.502208-07:00",
+    "status": "active"
+  },
+  {
     "id": "25abba91b31dceef04201a8073329d14",
     "company": "In AI",
     "amount": "Undisclosed",
@@ -6934,36 +6949,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-09-22T14:45:54.730671-07:00",
-    "status": "active"
-  },
-  {
-    "id": "91200767f04f1f5121616844b30ecc0e",
-    "company": "Cyera",
-    "amount": "$400.0M",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "TechStartups",
-    "url": "https://techstartups.com/2026/09/22/cyera-raises-400-million-from-goldman-sachs-at-12-billion-valuation-to-secure-enterprise-ai-agents/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-09-22T11:54:10.858819-07:00",
-    "status": "active"
-  },
-  {
-    "id": "8267cba4536e39bd1f7aa869ea60765c",
-    "company": "Cheap",
-    "amount": "Undisclosed",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "Axios",
-    "url": "https://www.axios.com/2026/09/22/cheap-powerful-models-new-ai-frontier",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-09-22T11:54:07.495178-07:00",
     "status": "active"
   }
 ]

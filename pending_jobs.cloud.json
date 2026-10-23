@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "job": {
+      "title": "Founding Designer",
+      "company": "Phonely (S24)",
+      "location": "San Francisco, CA, US",
+      "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D117510&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29645",
+      "salary": "$140K - $230K",
+      "description": "AI call centers ",
+      "posted_at": "Recently",
+      "source": "Y Combinator",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-23T12:58:13.610818-07:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer / UX Researcher Intern",
+      "company": "See posting",
+      "location": "San Francisco Bay Area, CA",
+      "url": "https://www.builtinsf.com/job/product-designer-ux-researcher-intern/11845731",
+      "salary": "Not listed",
+      "description": "Design interactive prototypes, wireframes, user flows, and high-fidelity mockups in Figma. Conduct user interviews and usability tests, analyze feedback and behavioral data, and translate insights into simple UX solutions. Collaborate directly with the CEO, CTO, and Head of Brand to influence produc",
+      "posted_at": "Recently",
+      "source": "BuiltIn SF",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-23T12:58:15.243469-07:00"
+  },
+  {
+    "job": {
+      "title": "Freelance UX/UI Designer (100% Remote)",
+      "company": "See posting",
+      "location": "San Francisco Bay Area, CA",
+      "url": "https://www.builtinsf.com/job/freelance-ux-ui-designer-100-remote/11842303",
+      "salary": "Not listed",
+      "description": "Design browser-based digital experiences using no-code tools for eCommerce, SaaS, marketplaces, MVPs, mobile apps, and internal products. Own the complete design lifecycle, including research, wireframing, high-fidelity design, handoff, testing, and iteration. Create scalable design systems and intu",
+      "posted_at": "Recently",
+      "source": "BuiltIn SF",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-23T12:58:16.983076-07:00"
+  }
+]
