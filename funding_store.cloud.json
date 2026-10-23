@@ -8199,5 +8199,21 @@
     "roles": [],
     "first_seen": "2026-10-22T12:31:16.546706-07:00",
     "status": "active"
+  },
+  "a5c817ae2abeb4f0bb775c9b97d79e9a": {
+    "id": "a5c817ae2abeb4f0bb775c9b97d79e9a",
+    "company": "Coast",
+    "amount": "$35.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/10/22/fintech-startup-coast-35-million-track-workers-company-credit-cards/",
+    "priority": 3,
+    "blurb": "Fintech startup Coast raises $35 million to better track what workers do with company credit cards. The New York-based startup wants to help contractors control employee purchases, pay vendors, and track expenses in one place.",
+    "founders": [],
+    "location": "The New York",
+    "roles": [],
+    "first_seen": "2026-10-22T22:44:01.143377-07:00",
+    "status": "active"
   }
 }
