@@ -1,62 +1,17 @@
 [
   {
     "item": {
-      "company": "Slingshot Insurance",
-      "amount": "$27.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Slingshot Insurance Raises $27M Seed. Slingshot Insurance raises $27 million in seed funding to expand its AI-native infrastructure platform for the embedded insurance market.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/slingshot-insurance-raises-27m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-23T04:03:04.384596-07:00"
-  },
-  {
-    "item": {
-      "company": "BOB",
-      "amount": "$5.5M",
-      "stage": "Seed",
-      "investors": "Mischief",
-      "location": null,
-      "blurb": "BOB Raises $5.5M Seed. BOB raises $5.5M in seed funding led by Mischief to expand its AI-powered financial assistant for small business owners.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/bob-raises-5-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-23T04:03:07.440161-07:00"
-  },
-  {
-    "item": {
-      "company": "Vitalls",
-      "amount": "$1.5M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Vitalls Raises $1.5M Seed. Vitalls raises $1.5 million in seed funding from EST Growmore to expand its AI-powered digital health passport platform for managing medical records.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/vitalls-raises-1-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-23T04:03:10.511054-07:00"
-  },
-  {
-    "item": {
-      "company": "Cognitive Credit",
-      "amount": "$40.0M",
+      "company": "In AI",
+      "amount": null,
       "stage": null,
-      "investors": "Summit Partners",
+      "investors": null,
       "location": null,
-      "blurb": "Cognitive Credit Raises $40M Growth Capital. Cognitive Credit raises $40M in growth capital led by Summit Partners to scale its AI-powered data and analytics platform for global credit markets.",
+      "blurb": "In AI, it\u2019s a tale of two diverging investor classes. Depending on where you sit as an investor, artificial intelligence still looks like a massive opportunity, or it&#8217;s now looking way too risky given growing infrastructure investments and the public&#8217;s souring on AI and all the data centers needed to power it. Really, it&#8217;s both. This week saw continued big venture capital investments in AI [&#8230;]\nThe post In AI, it&#8217;s a tale of two diverging investor classes appeared fi",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/cognitive-credit-raises-40m-growth-capital/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/23/in-ai-its-a-tale-of-two-diverging-investor-classes/",
       "priority": 3
     },
-    "remind_at": "2026-10-23T04:03:16.610884-07:00"
+    "remind_at": "2026-10-23T08:59:18.956914-07:00"
   }
 ]
