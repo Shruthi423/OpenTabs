@@ -1,5 +1,22 @@
 [
   {
+    "id": "f6f2ed4b6d4d72e126870fb147b1383c",
+    "title": "Product Designer",
+    "company": "Roadrunner",
+    "location": "San Francisco",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/Roadrunner/ed48acf6-8764-4aef-ac41-e69cab289b90",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-10-23T17:59:22.237669-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "4b43f2183766f0d6541d85288b388d26",
     "title": "Freelance UX/UI Designer (100% Remote)",
     "company": "See posting",
@@ -4008,23 +4025,6 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-09-22T19:51:22.709997-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "d78701edf3bd1e470240ec3c147832d2",
-    "title": "Product Designer",
-    "company": "Robinhood",
-    "location": "Menlo Park, CA; New York, NY",
-    "salary": "Not listed",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7490017?t=gh_src=&gh_jid=7490017",
-    "source": "Robinhood",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 2,
-    "first_seen": "2026-09-22T16:52:20.429134-07:00",
     "status": "active",
     "jd": "yes"
   }
