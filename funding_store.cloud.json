@@ -8343,5 +8343,21 @@
     "roles": [],
     "first_seen": "2026-10-23T17:59:45.052879-07:00",
     "status": "active"
+  },
+  "72d743dc0d5fb78b75c0d1c8096339d7": {
+    "id": "72d743dc0d5fb78b75c0d1c8096339d7",
+    "company": "Therapists",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/10/24/ai-sudden-wealth-syndrome-therapists-billionaires-isolation/",
+    "priority": 3,
+    "blurb": "\u2018Sudden wealth syndrome 2.0\u2019: Therapists say AI\u2019s new multimillionaires feel guilty, isolated and cut off from everyone else. The therapists who coined the term during the dot-com boom say the AI windfall has brought it roaring back\u2014with more guilt, more isolation and a cottage industry ready to treat it.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-24T06:38:07.526762-07:00",
+    "status": "active"
   }
 }

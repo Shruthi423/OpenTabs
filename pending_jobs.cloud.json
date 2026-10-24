@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "job": {
+      "title": "UX Researcher",
+      "company": "Intrinsic",
+      "location": "Mountain View, CA",
+      "url": "https://uiuxjobsboard.com/job/1649526-ux-researcher-mountain-view-ca-united-states",
+      "salary": "$159,200 - $217,300",
+      "description": "",
+      "posted_at": "4h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-24T07:07:44.106731-07:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Verkada",
+      "location": "San Mateo, CA",
+      "url": "https://uiuxjobsboard.com/job/1649326-product-designer-san-mateo-ca-united-states",
+      "salary": "$120,000 - $160,000",
+      "description": "",
+      "posted_at": "6h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-24T07:07:45.938989-07:00"
+  }
+]
