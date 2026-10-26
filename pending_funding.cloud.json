@@ -1,107 +1,137 @@
 [
   {
     "item": {
-      "company": "PreScalar",
-      "amount": "$7.0M",
-      "stage": "Seed",
-      "investors": "Dynamo Ventures",
+      "company": "Colare",
+      "amount": "$2.5M",
+      "stage": "Pre-Seed",
+      "investors": "Afore Capital, Garage Capital and Acadian Ventures",
       "location": null,
-      "blurb": "PreScalar Raises $7M Seed. PreScalar raises $7M in seed funding co-led by Dynamo Ventures and BMW i Ventures to scale its software deployment and testing platform for manufacturers.",
+      "blurb": "Colare raises $2.5M to help firms vet engineering candidates with advanced simulations. Engineering talent vetting startup Colare Inc. says its simulated candidate testing platform is ready for prime time today after closing on a $2.5 million pre-seed funding round backed by Afore Capital, Garage Capital and Acadian Ventures. The company has created a simulation-based technical screening platform that companies can use to assess an engineering candidate\u2019s ability [&#8230;]\nThe post Colare raises",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/prescalar-raises-7m-seed/",
-      "priority": 9
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/26/colare-raises-2-5m-to-help-aerospace-and-defense-firms-vet-engineering-candidates-with-advanced-simulations/",
+      "priority": 10
     },
-    "remind_at": "2026-10-26T01:39:12.163941-07:00"
+    "remind_at": "2026-10-26T08:42:18.506147-07:00"
   },
   {
     "item": {
-      "company": "Karta AI",
-      "amount": "$3.0M",
+      "company": "Assembler AI",
+      "amount": "$4.0M",
       "stage": "Seed",
-      "investors": "Cedar Hill Capital",
+      "investors": "Diagram ClimateTech Fund",
       "location": null,
-      "blurb": "Karta AI Raises $3M Seed. Karta AI raises $3M seed funding led by PeerCapital and Cedar Hill Capital to expand its AI voice agent platform for financial services customer operations.",
+      "blurb": "Assembler AI Raises $4M Seed. Assembler AI raises $4 million in seed funding led by Diagram ClimateTech Fund to scale its AI-driven computer vision platform for manufacturers.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/karta-ai-raises-3m-seed/",
+      "url": "https://www.thesaasnews.com/news/assembler-ai-raises-4m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-10-26T01:39:15.341497-07:00"
+    "remind_at": "2026-10-26T08:42:21.456073-07:00"
   },
   {
     "item": {
-      "company": "Pythag Tech",
-      "amount": "$4.25M",
-      "stage": "Seed",
-      "investors": "Azolla Ventures",
-      "location": null,
-      "blurb": "Pythag Tech Raises $4.25M Seed. Pythag Tech raises $4.25 million in seed funding led by Azolla Ventures to expand its AI platform for optimizing cultivated meat production processes.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pythag-tech-raises-4-25m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-26T01:39:20.910651-07:00"
-  },
-  {
-    "item": {
-      "company": "Bucketlistt.com",
+      "company": "QBlack AI",
       "amount": null,
       "stage": "Seed",
-      "investors": "Kairon Capital, Entrackr Kairon Capital",
+      "investors": null,
       "location": null,
-      "blurb": "Kairon Capital leads Rs 7.6 Cr seed round in travel-tech startup Bucketlistt.com - Entrackr. Kairon Capital leads Rs 7.6 Cr seed round in travel-tech startup Bucketlistt.com&nbsp;&nbsp;Entrackr",
+      "blurb": "QBlack AI Raises Seed Funding. QBlack AI secures seed funding from Partners Lounge and Korea Investment Accelerator to advance its computer vision design and data simulation platform.",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeFQyZUdMUnd1QUg1S1JjOTlaZmJLeGRoMF8yRWZvVXpNeG9FNE1ybkk5SVJQYVJuaXFYMXRmeFlJaTkyeUFiVjNEdG1KNlRVZlk3Y3o5S2hxcTAzMWViU1VFOHdLWWI1ZXZuV3RMQUt6WFlJd3V4UjlQMTd4ajR5TFo1UE90ZnFtVWxuTGdMTzNJNkhtUHFwaFpyMzlkRVcwNWszWXBYYUhHVGVyREdyMTlEN2h6NUdi0gG4AUFVX3lxTE14VDJlR0xSd3VBSDVLUmM5OVpmYkt4ZGgwXzJFZm9Vek14b0U0TXJuSTlJUlBhUm5pcVgxdGZ4WUlpOTJ5QWJWM0R0bUo2VFVmWTdjejlLaHFxMDMxZWJTVUU4d0tZYjVldm5XdExBS3pYWUl3dXhSOVAxN3hqNHlMWjVQT3RmcW1VbG5MZ0xPM0k2SG1QcXBoWnIzOWRFVzA1azNZcFhhSEdUZXJER3IxOUQ3aHo1R2I?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/qblack-ai-raises-undisclosed-seed/",
       "priority": 9
     },
-    "remind_at": "2026-10-26T01:39:25.212335-07:00"
+    "remind_at": "2026-10-26T08:42:24.397645-07:00"
   },
   {
     "item": {
-      "company": "Arda Industries",
-      "amount": "$160.0M",
+      "company": "Omabit",
+      "amount": "$2.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Genomics Data Analysis AI Startup Omabit Raises $2M in Seed Financing - GenomeWeb. Genomics Data Analysis AI Startup Omabit Raises $2M in Seed Financing&nbsp;&nbsp;GenomeWeb",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNVBJR2tNQnBfR3BhTGRITkhmclhUYnRNcTdZMV92U3RXMV91T3p6bVdSZVpVVGIyX1JTa3Vfb1BZQUFOWUEyVEl5d2RTWElvbkcxcDhhSWttNExXdXAtRVFiWkVUVEN0SUQxMk5zSlJzQWVBdmduNVF4ay10dWZqRkFVa1lWeEZxVUt0RWVlNGRqZVpLNlEwRXNaVQ?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-10-26T08:42:27.286287-07:00"
+  },
+  {
+    "item": {
+      "company": "BioStack",
+      "amount": "$9.5M",
+      "stage": "Seed",
+      "investors": "Peak XV, others - YourStory",
+      "location": null,
+      "blurb": "Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others - YourStory.com. Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others&nbsp;&nbsp;YourStory.com",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUJhQzV5UGZKMHlXSkYtMDdWUDNjS2dEdXJJamdTY0FSTjUwTlh6R3ZTdXUwTDE1U3JNeHlYOHlBTGVyZW9QMlE1clFYeXBtRkhHVXhZRTlTWGNfSnNULXRVN0d4dDdMbVd3eVBjMUp0LUxBcFR0SDEteGJtc3FoSmNSc2luX192SnBrQlcwenFvd0Q2U2NR?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-10-26T08:42:30.203290-07:00"
+  },
+  {
+    "item": {
+      "company": "Overwatch",
+      "amount": "$15.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
-      "blurb": "Arda Industries Raises $160M Series A. Arda Industries raises $160M in Series A funding at a $1.5B valuation to further develop its AI-powered software for manufacturing engineering.",
+      "blurb": "Overwatch raises $15M Series A to fight AI-powered cybercrime - Dealroom. Overwatch raises $15M Series A to fight AI-powered cybercrime&nbsp;&nbsp;Dealroom",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/arda-industries-raises-160m-series-a/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTJjZ3VxZ3daWmYtd2p2Mkg0eGY3NmRqRVhrMTRCMklFZllnUVlzLS1YVkNQT2YycmlUbmlkODJXVTZIS25kZHVuUWYyY0p2RXlpTmZ6OXpraDB4TlhnYWNtVmh0YUZWNjBCanlLQjhwVzZuNHh5TDA2MWFFU3RqUGMtdjdqODR4cjRKSF9qYUdWQlVnSldvNjJR?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-10-26T01:39:30.788437-07:00"
+    "remind_at": "2026-10-26T08:42:33.197170-07:00"
   },
   {
     "item": {
-      "company": "Kevel",
-      "amount": "$52.0M",
+      "company": "Nvidia",
+      "amount": "$5.0B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Kevel Raises $52M Growth Capital. Kevel raises $52M in growth capital to scale its API-first ad tech infrastructure and AI-driven commerce media solutions for global retailers.",
+      "blurb": "Nvidia, AMD and Broadcom eye $5B of Meta stock: is AI funding going circular?. According to reports, Meta is raising $95 billion for AI. Yet, the filings show it&#8217;s a much more&#8230;",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kevel-raises-52m-growth-capital/",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/meta-95b-ai-stock-plan-12-5b-up-front/",
       "priority": 3
     },
-    "remind_at": "2026-10-26T01:39:33.757505-07:00"
+    "remind_at": "2026-10-26T08:42:36.048009-07:00"
   },
   {
     "item": {
-      "company": "Ailytics",
-      "amount": "$7.4M",
+      "company": "Albert Invent",
+      "amount": null,
       "stage": null,
-      "investors": "Tin Men Capital&nbsp",
-      "location": "SG",
-      "blurb": "SG-based industrial AI startup Ailytics raises $7.4m led by Tin Men Capital - DealStreetAsia. SG-based industrial AI startup Ailytics raises $7.4m led by Tin Men Capital&nbsp;&nbsp;DealStreetAsia",
+      "investors": "Applied Ventures",
+      "location": null,
+      "blurb": "Albert Invent Raises Growth Equity. Albert Invent secures a growth equity investment from Applied Ventures to expand its chemistry-native AI platform for materials R&amp;D.",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZFFTU2tvTDBzSXI0WEpsZmtDQjBLQ0kyaVYwOGUtTmZINzM2ZGVZVGJNdFJydUd3QUVyckVPVWRlV2VDWEQxTnNfbF84alJxOHFfczcxWUdIU2J1bEJhNmY1VXVIRFFsMFd6d3hCMGtvZndfbkV6aW9YU1pSd3BjN2NKZ2FYZw?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/albert-secures-strategic-growth-funding/",
       "priority": 3
     },
-    "remind_at": "2026-10-26T01:39:37.218127-07:00"
+    "remind_at": "2026-10-26T08:42:41.896674-07:00"
+  },
+  {
+    "item": {
+      "company": "just",
+      "amount": "$15.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "AI is giving cybercrime a makeover, and this startup just raised $15 million to fight back - Fortune. AI is giving cybercrime a makeover, and this startup just raised $15 million to fight back&nbsp;&nbsp;Fortune",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQejYtdVAwa1V0Vy0tb2ZHTGg4eUNpbVdvVjN1cjhEeFcwNjZ6NnJwSnhHRWN5OW9xNWJncTM4UzVxemZrUmJWU19VenA1dHUyYUJEa3I2VnRWTGhnUFI1cEV0b3VYVC1yTlU0MUdqQTZzU2c3SlExMmhRbUE4aDE0cXRUcW9rcUhqTGY2VUdMUWtWRHc0Z3hpbEREU3VMQ2ZLYllSZGZYNU9XdGtYMjRiTg?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-10-26T08:42:44.855125-07:00"
   }
 ]
