@@ -1,137 +1,47 @@
 [
   {
     "item": {
-      "company": "Colare",
-      "amount": "$2.5M",
-      "stage": "Pre-Seed",
-      "investors": "Afore Capital, Garage Capital and Acadian Ventures",
-      "location": null,
-      "blurb": "Colare raises $2.5M to help firms vet engineering candidates with advanced simulations. Engineering talent vetting startup Colare Inc. says its simulated candidate testing platform is ready for prime time today after closing on a $2.5 million pre-seed funding round backed by Afore Capital, Garage Capital and Acadian Ventures. The company has created a simulation-based technical screening platform that companies can use to assess an engineering candidate\u2019s ability [&#8230;]\nThe post Colare raises",
+      "company": "Nevis",
+      "amount": "$70.0M",
+      "stage": "Series B",
+      "investors": "EQT Ventures",
+      "location": "New York",
+      "blurb": "Nevis raises $70M in Series B funding backed by Charles Schwab as AI wealth management platform grows to $700B in assets. New York-based AI startup Nevis has raised $70 million in Series B funding led by EQT Ventures, with Charles Schwab joining as a strategic investor, as the two-year-old company reports a 14-fold increase in client assets represented on its wealth [&#8230;]\nThe post Nevis raises $70M in Series B funding backed by Charles Schwab as AI wealth management platform grows to $700B i",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/26/colare-raises-2-5m-to-help-aerospace-and-defense-firms-vet-engineering-candidates-with-advanced-simulations/",
-      "priority": 10
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/26/nevis-raises-70m-in-series-b-funding-backed-by-charles-schwab-as-ai-wealth-management-platform-grows-to-700b-in-assets/",
+      "priority": 7
     },
-    "remind_at": "2026-10-26T08:42:18.506147-07:00"
-  },
-  {
-    "item": {
-      "company": "Assembler AI",
-      "amount": "$4.0M",
-      "stage": "Seed",
-      "investors": "Diagram ClimateTech Fund",
-      "location": null,
-      "blurb": "Assembler AI Raises $4M Seed. Assembler AI raises $4 million in seed funding led by Diagram ClimateTech Fund to scale its AI-driven computer vision platform for manufacturers.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/assembler-ai-raises-4m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-26T08:42:21.456073-07:00"
-  },
-  {
-    "item": {
-      "company": "QBlack AI",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "QBlack AI Raises Seed Funding. QBlack AI secures seed funding from Partners Lounge and Korea Investment Accelerator to advance its computer vision design and data simulation platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/qblack-ai-raises-undisclosed-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-26T08:42:24.397645-07:00"
-  },
-  {
-    "item": {
-      "company": "Omabit",
-      "amount": "$2.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Genomics Data Analysis AI Startup Omabit Raises $2M in Seed Financing - GenomeWeb. Genomics Data Analysis AI Startup Omabit Raises $2M in Seed Financing&nbsp;&nbsp;GenomeWeb",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNVBJR2tNQnBfR3BhTGRITkhmclhUYnRNcTdZMV92U3RXMV91T3p6bVdSZVpVVGIyX1JTa3Vfb1BZQUFOWUEyVEl5d2RTWElvbkcxcDhhSWttNExXdXAtRVFiWkVUVEN0SUQxMk5zSlJzQWVBdmduNVF4ay10dWZqRkFVa1lWeEZxVUt0RWVlNGRqZVpLNlEwRXNaVQ?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-10-26T08:42:27.286287-07:00"
-  },
-  {
-    "item": {
-      "company": "BioStack",
-      "amount": "$9.5M",
-      "stage": "Seed",
-      "investors": "Peak XV, others - YourStory",
-      "location": null,
-      "blurb": "Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others - YourStory.com. Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others&nbsp;&nbsp;YourStory.com",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUJhQzV5UGZKMHlXSkYtMDdWUDNjS2dEdXJJamdTY0FSTjUwTlh6R3ZTdXUwTDE1U3JNeHlYOHlBTGVyZW9QMlE1clFYeXBtRkhHVXhZRTlTWGNfSnNULXRVN0d4dDdMbVd3eVBjMUp0LUxBcFR0SDEteGJtc3FoSmNSc2luX192SnBrQlcwenFvd0Q2U2NR?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-10-26T08:42:30.203290-07:00"
-  },
-  {
-    "item": {
-      "company": "Overwatch",
-      "amount": "$15.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Overwatch raises $15M Series A to fight AI-powered cybercrime - Dealroom. Overwatch raises $15M Series A to fight AI-powered cybercrime&nbsp;&nbsp;Dealroom",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTJjZ3VxZ3daWmYtd2p2Mkg0eGY3NmRqRVhrMTRCMklFZllnUVlzLS1YVkNQT2YycmlUbmlkODJXVTZIS25kZHVuUWYyY0p2RXlpTmZ6OXpraDB4TlhnYWNtVmh0YUZWNjBCanlLQjhwVzZuNHh5TDA2MWFFU3RqUGMtdjdqODR4cjRKSF9qYUdWQlVnSldvNjJR?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-10-26T08:42:33.197170-07:00"
+    "remind_at": "2026-10-26T13:59:21.238963-07:00"
   },
   {
     "item": {
       "company": "Nvidia",
-      "amount": "$5.0B",
+      "amount": "$95.0B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Nvidia, AMD and Broadcom eye $5B of Meta stock: is AI funding going circular?. According to reports, Meta is raising $95 billion for AI. Yet, the filings show it&#8217;s a much more&#8230;",
+      "blurb": "Tech News Today, October 26, 2026: Nvidia, Meta\u2019s $95B AI Funding Plan, SpaceX\u2019s $40B Chip Deal, and Anthropic Security Breach. Daily Global Technology Digest &#124; Monday, October 26, 2026 It\u2019s Monday, October 26, 2026, and the AI race just got a lot more complicated. Frontier models are breaking out of their training sandboxes, governments are locking down the tools their [&#8230;]\nThe post Tech News Today, October 26, 2026: Nvidia, Meta\u2019s $95B AI Funding Plan, SpaceX\u2019s $40B Chip Deal, and An",
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/meta-95b-ai-stock-plan-12-5b-up-front/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/26/tech-news-today-october-26-2026-nvidia-metas-95b-ai-funding-plan-spacexs-40b-chip-deal-and-anthropic-security-breach/",
       "priority": 3
     },
-    "remind_at": "2026-10-26T08:42:36.048009-07:00"
+    "remind_at": "2026-10-26T13:59:24.066539-07:00"
   },
   {
     "item": {
-      "company": "Albert Invent",
-      "amount": null,
-      "stage": null,
-      "investors": "Applied Ventures",
-      "location": null,
-      "blurb": "Albert Invent Raises Growth Equity. Albert Invent secures a growth equity investment from Applied Ventures to expand its chemistry-native AI platform for materials R&amp;D.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/albert-secures-strategic-growth-funding/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-26T08:42:41.896674-07:00"
-  },
-  {
-    "item": {
-      "company": "just",
-      "amount": "$15.0M",
+      "company": "CarbonAI",
+      "amount": "$12.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "AI is giving cybercrime a makeover, and this startup just raised $15 million to fight back - Fortune. AI is giving cybercrime a makeover, and this startup just raised $15 million to fight back&nbsp;&nbsp;Fortune",
+      "blurb": "CarbonAI Raises $12M to Help CRE Lenders Cut Underwriting Time by Up to 90%. Jeff Saul and Josh Kaufman built and sold a lending platform that automated only a sliver of the work they once did by hand. Then AI agents got good enough to do the rest. CarbonAI now runs underwriting, memos, and loan surveillance for commercial real estate lenders, and it just raised $12M. Find out why the founders call this a labor problem, not a software problem, as nearly $1T in loans come due.",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQejYtdVAwa1V0Vy0tb2ZHTGg4eUNpbVdvVjN1cjhEeFcwNjZ6NnJwSnhHRWN5OW9xNWJncTM4UzVxemZrUmJWU19VenA1dHUyYUJEa3I2VnRWTGhnUFI1cEV0b3VYVC1yTlU0MUdqQTZzU2c3SlExMmhRbUE4aDE0cXRUcW9rcUhqTGY2VUdMUWtWRHc0Z3hpbEREU3VMQ2ZLYllSZGZYNU9XdGtYMjRiTg?oc=5",
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/10/carbonai-commercial-real-estate-lending-ai-agents-underwriting-cre-loan-surveillance-lending-automation-josh-kaufman-jeff-saul/",
       "priority": 3
     },
-    "remind_at": "2026-10-26T08:42:44.855125-07:00"
+    "remind_at": "2026-10-26T13:59:26.878938-07:00"
   }
 ]

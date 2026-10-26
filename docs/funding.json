@@ -1,5 +1,35 @@
 [
   {
+    "id": "d5f127719ad0a502913cf6a614b93cab",
+    "company": "CarbonAI",
+    "amount": "$12.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "AlleyWatch",
+    "url": "https://www.alleywatch.com/2026/10/carbonai-commercial-real-estate-lending-ai-agents-underwriting-cre-loan-surveillance-lending-automation-josh-kaufman-jeff-saul/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-26T13:29:27.879077-07:00",
+    "status": "active"
+  },
+  {
+    "id": "2b0c3279a3a9beb81110c7dbc936c6b7",
+    "company": "Nvidia",
+    "amount": "$95.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/10/26/tech-news-today-october-26-2026-nvidia-metas-95b-ai-funding-plan-spacexs-40b-chip-deal-and-anthropic-security-breach/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-26T13:29:25.066721-07:00",
+    "status": "active"
+  },
+  {
     "id": "38c41232a48a4b7867c56ccdc1b33cbf",
     "company": "just",
     "amount": "$15.0M",

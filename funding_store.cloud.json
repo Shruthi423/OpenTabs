@@ -8647,5 +8647,64 @@
     "roles": [],
     "first_seen": "2026-10-26T08:12:45.855266-07:00",
     "status": "active"
+  },
+  "7f9c1ba893f07f651d2dab2e0bb11f84": {
+    "id": "7f9c1ba893f07f651d2dab2e0bb11f84",
+    "company": "Nevis",
+    "amount": "$70.0M",
+    "stage": "Series B",
+    "investors": "EQT Ventures",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/10/26/nevis-raises-70m-in-series-b-funding-backed-by-charles-schwab-as-ai-wealth-management-platform-grows-to-700b-in-assets/",
+    "priority": 7,
+    "blurb": "Nevis raises $70M in Series B funding backed by Charles Schwab as AI wealth management platform grows to $700B in assets. New York-based AI startup Nevis has raised $70 million in Series B funding led by EQT Ventures, with Charles Schwab joining as a strategic investor, as the two-year-old company reports a 14-fold increase in client assets represented on its wealth [&#8230;]\nThe post Nevis raises $70M in Series B funding backed by Charles Schwab as AI wealth management platform grows to $700B i",
+    "founders": [],
+    "location": "New York",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/nevis/ad7665b4-a7e3-4216-a833-cb136499bb44",
+        "location": "London"
+      },
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/nevis/a387af7b-075a-4b84-8380-480a91af5c85",
+        "location": "New York"
+      }
+    ],
+    "first_seen": "2026-10-26T13:29:22.239135-07:00",
+    "status": "active"
+  },
+  "2b0c3279a3a9beb81110c7dbc936c6b7": {
+    "id": "2b0c3279a3a9beb81110c7dbc936c6b7",
+    "company": "Nvidia",
+    "amount": "$95.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/10/26/tech-news-today-october-26-2026-nvidia-metas-95b-ai-funding-plan-spacexs-40b-chip-deal-and-anthropic-security-breach/",
+    "priority": 3,
+    "blurb": "Tech News Today, October 26, 2026: Nvidia, Meta\u2019s $95B AI Funding Plan, SpaceX\u2019s $40B Chip Deal, and Anthropic Security Breach. Daily Global Technology Digest &#124; Monday, October 26, 2026 It\u2019s Monday, October 26, 2026, and the AI race just got a lot more complicated. Frontier models are breaking out of their training sandboxes, governments are locking down the tools their [&#8230;]\nThe post Tech News Today, October 26, 2026: Nvidia, Meta\u2019s $95B AI Funding Plan, SpaceX\u2019s $40B Chip Deal, and An",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-26T13:29:25.066721-07:00",
+    "status": "active"
+  },
+  "d5f127719ad0a502913cf6a614b93cab": {
+    "id": "d5f127719ad0a502913cf6a614b93cab",
+    "company": "CarbonAI",
+    "amount": "$12.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "AlleyWatch",
+    "url": "https://www.alleywatch.com/2026/10/carbonai-commercial-real-estate-lending-ai-agents-underwriting-cre-loan-surveillance-lending-automation-josh-kaufman-jeff-saul/",
+    "priority": 3,
+    "blurb": "CarbonAI Raises $12M to Help CRE Lenders Cut Underwriting Time by Up to 90%. Jeff Saul and Josh Kaufman built and sold a lending platform that automated only a sliver of the work they once did by hand. Then AI agents got good enough to do the rest. CarbonAI now runs underwriting, memos, and loan surveillance for commercial real estate lenders, and it just raised $12M. Find out why the founders call this a labor problem, not a software problem, as nearly $1T in loans come due.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-26T13:29:27.879077-07:00",
+    "status": "active"
   }
 }

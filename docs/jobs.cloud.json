@@ -1,5 +1,22 @@
 [
   {
+    "id": "08311c6523c97fa434964d9e17ea7beb",
+    "title": "Product Designer",
+    "company": "Nevis",
+    "location": "London",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/nevis/ad7665b4-a7e3-4216-a833-cb136499bb44",
+    "source": "\ud83d\udcb0 Nevis (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-10-26T13:29:18.936424-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "235ca6dda60c2526f71c1d6cf98d0c2c",
     "title": "Product Designer, Core Experience",
     "company": "Figma",
@@ -3315,23 +3332,6 @@
     "jd": "yes"
   },
   {
-    "id": "409cf86997ac15d75c57ba8211b66cce",
-    "title": "Product Designer - US",
-    "company": "Conduct",
-    "location": "NYC, US",
-    "salary": "Not listed",
-    "url": "https://jobs.ashbyhq.com/conduct/38f17333-1b48-4a55-b6b7-e211bd0b5e4a",
-    "source": "Startups.Gallery",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 3,
-    "first_seen": "2026-10-01T08:01:34.378282-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "240070cd7f838e56efaf0ba3e05e2d0a",
     "title": "Product Designer",
     "company": "Conduct",
@@ -4080,23 +4080,6 @@
     "jd": "yes"
   },
   {
-    "id": "6525d9fbcb976e34664293e55985f5fb",
-    "title": "Brand Designer",
-    "company": "Bland",
-    "location": "San Francisco",
-    "salary": "Not listed",
-    "url": "https://jobs.ashbyhq.com/bland/948112f0-8400-4b0c-a900-4ece9a7c2845",
-    "source": "Startups.Gallery",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 1,
-    "first_seen": "2026-09-27T18:00:39.766190-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "32725013c67fe8cb2d1a5efa16103d13",
     "title": "Product Designer at AcuityMD",
     "company": "Unknown",
@@ -4195,40 +4178,6 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-09-25T13:31:13.682021-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "9ac28c3d639f08c98b4a70bf904870ff",
-    "title": "Product Designer, Safeguards",
-    "company": "Anthropic",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "salary": "Not listed",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008",
-    "source": "Anthropic",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 1,
-    "first_seen": "2026-09-25T10:14:43.228538-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "5f79d30033c0b6d809a37936f492afb1",
-    "title": "Product Designer",
-    "company": "Kobalt Labs (S23)",
-    "location": "New York City",
-    "salary": "Not listed",
-    "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D110832&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28971",
-    "source": "Y Combinator",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 3,
-    "first_seen": "2026-09-25T10:14:41.473556-07:00",
     "status": "active",
     "jd": "yes"
   }
