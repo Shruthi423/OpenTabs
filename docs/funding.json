@@ -1,5 +1,35 @@
 [
   {
+    "id": "708262516add36f63be9d9d8df508973",
+    "company": "Nvidia",
+    "amount": "$4.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/27/nvidia-amd-to-buy-4b-in-meta-shares-as-part-of-expanded-chip-partnerships/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-27T16:54:47.642725-07:00",
+    "status": "active"
+  },
+  {
+    "id": "2118115072804f28a886fb1d050cb676",
+    "company": "Infisical",
+    "amount": "$40.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnWkw0RFFaTy1SZE1sS3ozdkEzSDNBUTNIMFpnQmRzLWVndDR5UHhFTExDRDF2Y292al9pQk16QXRPcnA0QS1FT0dQQldENHQyYzd3?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-27T16:54:44.758733-07:00",
+    "status": "active"
+  },
+  {
     "id": "f6afe5ebed775ec6ac2a77b9920f6528",
     "company": "Disruptive",
     "amount": "$10.0B",

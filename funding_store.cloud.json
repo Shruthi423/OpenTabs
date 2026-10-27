@@ -9044,5 +9044,37 @@
     "roles": [],
     "first_seen": "2026-10-27T13:23:21.490822-07:00",
     "status": "active"
+  },
+  "2118115072804f28a886fb1d050cb676": {
+    "id": "2118115072804f28a886fb1d050cb676",
+    "company": "Infisical",
+    "amount": "$40.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnWkw0RFFaTy1SZE1sS3ozdkEzSDNBUTNIMFpnQmRzLWVndDR5UHhFTExDRDF2Y292al9pQk16QXRPcnA0QS1FT0dQQldENHQyYzd3?oc=5",
+    "priority": 7,
+    "blurb": "Infisical Raises $40M Series B at $600M Valuation to Secure Credentials for AI Agents - Wowtale. Infisical Raises $40M Series B at $600M Valuation to Secure Credentials for AI Agents&nbsp;&nbsp;Wowtale",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-27T16:54:44.758733-07:00",
+    "status": "active"
+  },
+  "708262516add36f63be9d9d8df508973": {
+    "id": "708262516add36f63be9d9d8df508973",
+    "company": "Nvidia",
+    "amount": "$4.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/27/nvidia-amd-to-buy-4b-in-meta-shares-as-part-of-expanded-chip-partnerships/",
+    "priority": 3,
+    "blurb": "Nvidia, AMD to buy $4B in Meta shares as part of expanded chip partnerships. Meta Platforms Inc. today announced that Nvidia Corp. and Advanced Micro Devices Inc. plan to buy $4 billion worth of its shares. The chipmakers will purchase the equity as part of an up to $95 billion stock sale that the Facebook parent intends to kick off in the near future. The fundraising initiative will also [&#8230;]\nThe post Nvidia, AMD to buy $4B in Meta shares as part of expanded chip partnerships appeared firs",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-27T16:54:47.642725-07:00",
+    "status": "active"
   }
 }
