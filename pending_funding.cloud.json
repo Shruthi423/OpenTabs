@@ -1,47 +1,17 @@
 [
   {
     "item": {
-      "company": "Nevis",
-      "amount": "$70.0M",
-      "stage": "Series B",
-      "investors": "EQT Ventures",
-      "location": "New York",
-      "blurb": "Nevis raises $70M in Series B funding backed by Charles Schwab as AI wealth management platform grows to $700B in assets. New York-based AI startup Nevis has raised $70 million in Series B funding led by EQT Ventures, with Charles Schwab joining as a strategic investor, as the two-year-old company reports a 14-fold increase in client assets represented on its wealth [&#8230;]\nThe post Nevis raises $70M in Series B funding backed by Charles Schwab as AI wealth management platform grows to $700B i",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/26/nevis-raises-70m-in-series-b-funding-backed-by-charles-schwab-as-ai-wealth-management-platform-grows-to-700b-in-assets/",
-      "priority": 7
-    },
-    "remind_at": "2026-10-26T13:59:21.238963-07:00"
-  },
-  {
-    "item": {
-      "company": "Nvidia",
+      "company": "Meta",
       "amount": "$95.0B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Tech News Today, October 26, 2026: Nvidia, Meta\u2019s $95B AI Funding Plan, SpaceX\u2019s $40B Chip Deal, and Anthropic Security Breach. Daily Global Technology Digest &#124; Monday, October 26, 2026 It\u2019s Monday, October 26, 2026, and the AI race just got a lot more complicated. Frontier models are breaking out of their training sandboxes, governments are locking down the tools their [&#8230;]\nThe post Tech News Today, October 26, 2026: Nvidia, Meta\u2019s $95B AI Funding Plan, SpaceX\u2019s $40B Chip Deal, and An",
+      "blurb": "Meta to sell up to $95B in stock to finance AI infrastructure buildout. Meta Platforms Inc. will sell up to $95 billion worth of stock to finance its data center projects. The fundraising initiative, which the company announced today, will kick off with a series of transactions cumulatively worth $35 billion. About two-thirds of that sum will come from the sale of common stock. Meta said Nvidia Corp., [&#8230;]\nThe post Meta to sell up to $95B in stock to finance AI infrastructure buildout appea",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/26/tech-news-today-october-26-2026-nvidia-metas-95b-ai-funding-plan-spacexs-40b-chip-deal-and-anthropic-security-breach/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/26/meta-to-sell-up-to-95b-in-stock-to-finance-ai-infrastructure-buildout/",
       "priority": 3
     },
-    "remind_at": "2026-10-26T13:59:24.066539-07:00"
-  },
-  {
-    "item": {
-      "company": "CarbonAI",
-      "amount": "$12.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "CarbonAI Raises $12M to Help CRE Lenders Cut Underwriting Time by Up to 90%. Jeff Saul and Josh Kaufman built and sold a lending platform that automated only a sliver of the work they once did by hand. Then AI agents got good enough to do the rest. CarbonAI now runs underwriting, memos, and loan surveillance for commercial real estate lenders, and it just raised $12M. Find out why the founders call this a labor problem, not a software problem, as nearly $1T in loans come due.",
-      "founders": [],
-      "source": "AlleyWatch",
-      "url": "https://www.alleywatch.com/2026/10/carbonai-commercial-real-estate-lending-ai-agents-underwriting-cre-loan-surveillance-lending-automation-josh-kaufman-jeff-saul/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-26T13:59:26.878938-07:00"
+    "remind_at": "2026-10-26T17:31:11.105301-07:00"
   }
 ]
