@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "job": {
+      "title": "UX Researcher",
+      "company": "User Research International",
+      "location": "Kirkland, WA",
+      "url": "https://uiuxjobsboard.com/job/1654726-ux-researcher-kirkland-wa-united-states",
+      "salary": "$114,400 - $145,600",
+      "description": "",
+      "posted_at": "7h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-27T09:23:09.524611-07:00"
+  },
+  {
+    "job": {
+      "title": "Graduate UX Researcher",
+      "company": "Wise",
+      "location": "London",
+      "url": "https://uiuxjobsboard.com/job/1654426-graduate-ux-researcher-london-united-kingdom",
+      "salary": "\u00a340,000",
+      "description": "",
+      "posted_at": "8h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-27T09:23:11.243511-07:00"
+  },
+  {
+    "job": {
+      "title": "UI/UX Researcher & Designer",
+      "company": "Intelerad",
+      "location": "Remote",
+      "url": "https://uiuxjobsboard.com/job/1654526-remote-united-states-ui-ux-researcher-designer",
+      "salary": "$64,500 - $86,000",
+      "description": "",
+      "posted_at": "11h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-27T09:23:12.858755-07:00"
+  }
+]

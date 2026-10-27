@@ -1,122 +1,154 @@
 [
   {
     "item": {
-      "company": "CopperPilot",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": "Neon Fund",
-      "location": null,
-      "blurb": "CopperPilot Raises $390,000 Pre-seed. CopperPilot raises $390,000 in a pre-seed round led by Neon Fund to further develop its AI-powered electronic design automation software platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/copperpilot-raises-390000-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-10-27T03:33:56.002933-07:00"
-  },
-  {
-    "item": {
-      "company": "CipherData",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "JB Financial Group",
-      "location": "AI",
-      "blurb": "CipherData Raises Seed Round. CipherData, an AI security startup, received an investment from JB Financial Group to advance its generative AI-based incident response platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/jb-financial-group-forms-usd-23m-ai-fund-makes-first-investment-in-ai-security-startup/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-27T03:34:00.836238-07:00"
-  },
-  {
-    "item": {
-      "company": "Epoch",
-      "amount": "$4.25M",
-      "stage": "Seed",
-      "investors": "Burnt Island Ventures",
-      "location": null,
-      "blurb": "Epoch Raises $4.25M Seed. Epoch raises $4.25M in a seed round led by Burnt Island Ventures and Sand River to scale its AI supply chain compliance platform for SMEs.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/epoch-raises-4-25m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-27T03:34:09.934223-07:00"
-  },
-  {
-    "item": {
-      "company": "Turuq Innovations",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "Den VC",
-      "location": null,
-      "blurb": "Turuq Innovations Raises Seed. Egyptian logistics technology startup Turuq Innovations secures seed funding from Den VC to expand its e-commerce fulfillment and delivery infrastructure.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/egypt-s-turuq-innovations-attracts-seed-investment-from-den-vc-to-strengthen-e-commerce/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-27T03:34:16.968711-07:00"
-  },
-  {
-    "item": {
-      "company": "Lette",
-      "amount": "$6.5M",
+      "company": "EchoTwin",
+      "amount": "$5.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
-      "blurb": "Lette Raises $6.5M Seed. Lette raises $6.5M in seed funding led by Peak to scale its AI-powered property management automation platform for residential rental operators.",
+      "blurb": "EchoTwin raises $5M seed to turn city vehicles into AI inspectors - Dealroom. EchoTwin raises $5M seed to turn city vehicles into AI inspectors&nbsp;&nbsp;Dealroom",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/lette-raises-6-5m-seed/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcng0Q05qTlV0ZWhQNy1ndW9pSmlCd1BXaFk3Nks4SUZqbElpV2hXcFF6R2ZSYmtON3c3cTFTUFIyZ3gwejYyempfVWtIWlB0RWs3SEQ0SWRkWXdWM1A5Z2ZxcnBERmpENmM4T0VUSjJSbHpvUFdlaERMcFl2ME5oWTRWcUhEN3M1cjVNd1N5N1djTTJJdTRFWkpOYWFCbTQ?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-10-27T03:34:20.263746-07:00"
+    "remind_at": "2026-10-27T09:23:34.096673-07:00"
   },
   {
     "item": {
-      "company": "Sequoia-Backed Blacksmith",
-      "amount": "$66.0M",
-      "stage": null,
-      "investors": "Sequoia",
+      "company": "Hyphenate",
+      "amount": "$45.0M",
+      "stage": "Series A",
+      "investors": "Nexus Venture Partners, Foundation Capital",
       "location": null,
-      "blurb": "Sequoia-Backed Blacksmith Raises $66M at $1B to Fix CI Broken by AI Coding Agents - Tech Times. Sequoia-Backed Blacksmith Raises $66M at $1B to Fix CI Broken by AI Coding Agents&nbsp;&nbsp;Tech Times",
+      "blurb": "Hyphenate bags $45M in funding to accelerate autonomous financial operations. A startup called Hyphenate says it&#8217;s quickly helping enterprises to overcome their fear of artificial intelligence hallucinations and trust it to fully automate their financial operations after raising $45 million in early-stage funding today. The Series A round was led by Nexus Venture Partners and saw participation from B Capital and existing backers Foundation Capital, [&#8230;]\nThe post Hyphenate bags $45M in",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/27/hyphenate-bags-45m-in-funding-to-accelerate-autonomous-financial-operations/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-27T09:23:37.723180-07:00"
+  },
+  {
+    "item": {
+      "company": "General Compute",
+      "amount": "$100.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "General Compute raises $100 million Series A, countering the neocloud disaster narrative - TechCrunch. General Compute raises $100 million Series A, countering the neocloud disaster narrative&nbsp;&nbsp;TechCrunch",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVVicEc0Q1FoTEpHcXI0SERMUjN5QTl2VXNyQldXbHkxYnNkaHZNX2swY3djNmQ1ZDdOU2tqaFhfblFXZl9IMjFkOXZxZzQ3WldLVl9XM0Q3YVFiVGdUOGZveUV1S3lneFNKeTJ4YTE0ZGN2NXBKclplcGZhMUQ1dm5uUGxTYmdSd1JaVjRxck9vdm1oWC1iUUl3c21HTVVjT215d3o4Z05rOEdleFpIbmRTOXl4YUhiRVo4LVNB?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-10-27T09:23:45.549079-07:00"
+  },
+  {
+    "item": {
+      "company": "Predicate",
+      "amount": "$8.0M",
+      "stage": "Series A",
+      "investors": "Blockchain Capital&nbsp",
+      "location": null,
+      "blurb": "Compliance startup Predicate raises $8M Series A led by Blockchain Capital - CryptoRank. Compliance startup Predicate raises $8M Series A led by Blockchain Capital&nbsp;&nbsp;CryptoRank",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FNktleW1mRTBIc3BRenJ6ZC1sVFZobVlQTlU3SEFRd0FkRzZfSkRkdlUzT2VhTktnWUkzbEdzaHpmMmxmaGZPTzg1TERJbWZwX0VNRWwtQk1RMWVIN0wwVDluOGFBb0hucTZPaEtSS09Va0Vh?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-10-27T09:23:48.446419-07:00"
+  },
+  {
+    "item": {
+      "company": "Cent",
+      "amount": "$15.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Healthtech startup Cent raises $15M in Series A - YourStory.com. Healthtech startup Cent raises $15M in Series A&nbsp;&nbsp;YourStory.com",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZWVkUXQ3SnlxRk53RFc3WmU0MXZyWDRZR3RxNnZWaFhLc2Q5c0lnd0d6cFBvb2s1MnAxQnpENnY3TTZrMk1DMjh1dFRGMmhlN2dzZnlXOXZtTEZ3Zl90eDBPS205UGpYbmhjdDlvTDZsWWxLcmlrLWoxdGMzTElnN1hIZEVzVTltTFNn?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-10-27T09:23:51.353205-07:00"
+  },
+  {
+    "item": {
+      "company": "AI Operating System",
+      "amount": "$70.0M",
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "blurb": "AI Operating System for Wealth Management Nevis Raises $70M Series B - Wowtale. AI Operating System for Wealth Management Nevis Raises $70M Series B&nbsp;&nbsp;Wowtale",
       "founders": [],
       "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMF85ampqZmNlTHVfdE1rTnNINXk3SERmaGtaTDA1N0xDWlJ1c3g0dkI4OHphWWpXWTMyc0NhUkc5eUJnODYyNVZ4V1JuQkdSZjdhQndXVXp5aTNSVWwxcXQ0RXlkUWFndUJlYVVNQm1XWHBfSWVrTk94YkE5VlhtVUxMWnVYVjAtdk9uNEkyTTdVb0hnN0o5ak1KRjd1bFdGUWJlZ1Q0TzN3WlMtLXlWVzNsRjZrSGFKTlBYa1lWWk93U1U?oc=5",
-      "priority": 6
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NTHdmU2RNd2x6LW0yam92Qjd1eFhjcG5sVUtPamQ5LW55Snl3b3lLYms1NjBhSXRPbndzNkl3dkY0aXJKTWxHU25fWWNEMldqRUhV?oc=5",
+      "priority": 7
     },
-    "remind_at": "2026-10-27T03:34:26.061031-07:00"
+    "remind_at": "2026-10-27T09:23:59.454543-07:00"
   },
   {
     "item": {
-      "company": "Ambiki",
-      "amount": null,
+      "company": "Edge Sound",
+      "amount": "$2.0M",
       "stage": null,
-      "investors": "Green Hills Partners",
-      "location": "Nashville",
-      "blurb": "Ambiki Secures Investment. Ambiki, a pediatric therapy software provider based in Nashville, has secured additional growth capital from Green Hills Partners to expand its EMR platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ambiki-secures-investment/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-27T03:34:30.605970-07:00"
-  },
-  {
-    "item": {
-      "company": "Nethive",
-      "amount": null,
-      "stage": null,
-      "investors": "Nethive Secures Majority Growth",
+      "investors": "Stormbreaker Ventures",
       "location": null,
-      "blurb": "Nethive Secures Majority Growth Investment from Bregal Milestone. Nethive secures a majority growth investment from Bregal Milestone to expand its cybersecurity software platform and pursue strategic acquisitions.",
+      "blurb": "Edge Sound raises $2M to help physical AI make sense of audio. Edge Sound Research Inc. today announced it has raised $2 million in new funding to build audio infrastructure that isolates useful sounds and combines them with other sensor data to help physical AI systems understand what\u2019s happening in real time. Stormbreaker Ventures led the round, bringing the company\u2019s total funding to $9 million. When the [&#8230;]\nThe post Edge Sound raises $2M to help physical AI make sense of audio appeared",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/nethive-secures-majority-growth-investment-from-bregal-milestone/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/27/edge-sound-raises-2m-to-help-physical-ai-make-sense-of-audio/",
       "priority": 3
     },
-    "remind_at": "2026-10-27T03:34:33.524923-07:00"
+    "remind_at": "2026-10-27T09:24:05.881146-07:00"
+  },
+  {
+    "item": {
+      "company": "Hyperbolic",
+      "amount": "$30.0M",
+      "stage": null,
+      "investors": "Intel CEO Lip-Bu Tan\u2019s VC firm first appeared on Tech Startups",
+      "location": null,
+      "blurb": "Hyperbolic raises $30M to build global AI compute grid, backed by Intel CEO Lip-Bu Tan\u2019s VC firm. AI infrastructure startup Hyperbolic has raised $30 million in strategic funding to build a global computing grid that connects underused GPUs across hundreds of cloud providers, giving AI companies a simpler way to access compute capacity without juggling multiple vendors. [&#8230;]\nThe post Hyperbolic raises $30M to build global AI compute grid, backed by Intel CEO Lip-Bu Tan\u2019s VC firm first appea",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/27/hyperbolic-raises-30m-to-build-global-ai-compute-grid-backed-by-intel-ceo-lip-bu-tans-vc-firm/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-27T09:24:08.762408-07:00"
+  },
+  {
+    "item": {
+      "company": "Nvidia",
+      "amount": "$3.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Nvidia to invest $3 billion in Meta as part of expanded AI partnership amid Zuckerberg\u2019s $97.5 billion fundraising push. Nvidia is investing $3 billion in Meta as Mark Zuckerberg&#8217;s social media giant prepares one of the largest equity fundraising efforts in corporate history to finance its growing artificial intelligence ambitions. The investment, announced Tuesday, deepens a relationship between two [&#8230;]\nThe post Nvidia to invest $3 billion in Meta as part of expanded AI partnership ",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/27/nvidia-to-invest-3-billion-in-meta-as-part-of-expanded-ai-partnership-amid-zuckerbergs-97-5-billion-fundraising-push/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-27T09:24:11.610851-07:00"
+  },
+  {
+    "item": {
+      "company": "Ultra",
+      "amount": "$50.0M",
+      "stage": null,
+      "investors": null,
+      "location": "Brooklyn",
+      "blurb": "Ultra Raises $50M to Put AI Packing Robots on More Warehouse Floors. Most robotics startups build for a future that sits five to 10 years away, and warehouses cannot use a future. Brooklyn\u2019s Ultra took the opposite route, shipping a robot that goes from crate to working in under a day. CEO Jon Miller Schwartz explains what makes robotics a different game from software, and how a fresh $50M, bringing total funding to $62M, will put hundreds more robots to work on warehouse floors.",
+      "founders": [
+        "Jon Miller Schwartz"
+      ],
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/10/ultra-robotics-warehouse-robots-as-a-service-order-packing-logistics-ecommerce-fufillment-automation-jon-miller-schwartz/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-27T09:24:14.531045-07:00"
   }
 ]

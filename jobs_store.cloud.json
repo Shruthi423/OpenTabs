@@ -290,7 +290,7 @@
     "first_seen": "2026-09-22T03:22:27.646932-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T12:15:41.622767-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "cad3956d12d13da5e6f8be20ea78728d": {
@@ -793,7 +793,7 @@
     "first_seen": "2026-09-24T13:38:16.127427-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T12:15:41.622767-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "73237cd9463700cf877546641409be1d": {
@@ -814,8 +814,8 @@
     "first_seen": "2026-09-24T13:38:18.035206-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T12:15:41.622767-07:00",
-    "dead_strikes": 0
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
+    "dead_strikes": 1
   },
   "0e4a6e580e7a9650bc7fbac55859a4e1": {
     "id": "0e4a6e580e7a9650bc7fbac55859a4e1",
@@ -835,7 +835,7 @@
     "first_seen": "2026-09-24T16:27:51.239906-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T12:15:41.622767-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "08db4b834c816c493d7f063a3055df9f": {
@@ -856,7 +856,7 @@
     "first_seen": "2026-09-24T16:27:52.844092-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T12:15:41.622767-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "14fec50e5aff7081f9aadbf149f20639": {
@@ -877,7 +877,7 @@
     "first_seen": "2026-09-25T05:14:48.936345-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T12:15:41.622767-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "76294d003296ac3c3dbb887cf12679be": {
@@ -2893,7 +2893,7 @@
     "first_seen": "2026-10-05T09:00:38.254248-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T09:39:21.203334-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "e1358debc2de849fc762e05987576e6a": {
@@ -2914,7 +2914,7 @@
     "first_seen": "2026-10-05T09:00:39.977968-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T09:39:21.203334-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "d6dc85cac0cb653d5b7fe56ef240f7d5": {
@@ -2935,7 +2935,7 @@
     "first_seen": "2026-10-05T09:00:41.743611-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T12:15:41.622767-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "b37e39d5902f3b50b074509261f1d9ad": {
@@ -2956,7 +2956,7 @@
     "first_seen": "2026-10-05T09:00:43.492310-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T12:15:41.622767-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "fe3385b653b77c1c26ee1d2e92f08f68": {
@@ -3795,7 +3795,7 @@
     "first_seen": "2026-10-12T09:07:55.690307-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T09:39:21.203334-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "151d0c21ba0c9be288f83d7e15ac3cab": {
@@ -3816,7 +3816,7 @@
     "first_seen": "2026-10-12T09:07:57.238374-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T09:39:21.203334-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "1d7ee3b6d8dc838a6071203599d1bb22": {
@@ -3837,7 +3837,7 @@
     "first_seen": "2026-10-12T09:07:58.787375-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T09:39:21.203334-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "fd1cb3da55c17849acadde868a0733f4": {
@@ -3858,7 +3858,7 @@
     "first_seen": "2026-10-12T09:08:00.527382-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T09:39:21.203334-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "a652307fcf52042bbeb1d96cfdbd9e91": {
@@ -3879,7 +3879,7 @@
     "first_seen": "2026-10-12T09:08:02.850048-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T09:39:21.203334-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "d41099e81ee258d8830d700370a5f0d4": {
@@ -3900,7 +3900,7 @@
     "first_seen": "2026-10-12T09:08:04.457421-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T09:39:21.203334-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "591a4e353b2d00257c0410deca87d94d": {
@@ -3921,7 +3921,7 @@
     "first_seen": "2026-10-12T09:08:06.006188-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T09:39:21.203334-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "268dfb37b047f41982882e35a7b37f9c": {
@@ -3942,7 +3942,7 @@
     "first_seen": "2026-10-12T09:08:07.709664-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T09:39:21.203334-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "1402ec01f80c06c4d30796de37a84ede": {
@@ -3963,7 +3963,7 @@
     "first_seen": "2026-10-12T09:08:09.403082-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T09:39:21.203334-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "e2b2121e7ca4ae4cff1fcdb8122330d1": {
@@ -4739,7 +4739,7 @@
     "first_seen": "2026-10-19T01:24:54.903518-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T09:39:21.203334-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "2869c468032fd1ed5a6aa51f496c9618": {
@@ -5285,7 +5285,7 @@
     "first_seen": "2026-10-20T17:20:12.443372-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T09:39:21.203334-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "6d8753d0f8b47342b2e1e9b8d0ce9c09": {
@@ -5306,7 +5306,7 @@
     "first_seen": "2026-10-20T17:20:14.255649-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-25T09:39:21.203334-07:00",
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
     "dead_strikes": 0
   },
   "29b6cb31a810bcbd89ea1f8fb5c9adc8": {
@@ -5536,10 +5536,10 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-10-22T03:40:34.590747-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
-    "dead_strikes": 1
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
+    "dead_strikes": 2
   },
   "c61b3b8922bf5e21285a17586afaa289": {
     "id": "c61b3b8922bf5e21285a17586afaa289",
@@ -5684,7 +5684,9 @@
     "priority": 2,
     "first_seen": "2026-10-24T06:37:43.362094-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
+    "dead_strikes": 0
   },
   "e0fd907f03a4f38581a2e1609d31090e": {
     "id": "e0fd907f03a4f38581a2e1609d31090e",
@@ -5703,7 +5705,9 @@
     "priority": 2,
     "first_seen": "2026-10-24T06:37:45.107242-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-27T08:52:07.351513-07:00",
+    "dead_strikes": 0
   },
   "cb248a7fd9058a1d2e18aae32dc09322": {
     "id": "cb248a7fd9058a1d2e18aae32dc09322",
@@ -6292,6 +6296,63 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-10-26T13:29:18.936424-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "ce48ba73f825a28cca5f8284362c0bc0": {
+    "id": "ce48ba73f825a28cca5f8284362c0bc0",
+    "title": "UX Researcher",
+    "company": "User Research International",
+    "location": "Kirkland, WA",
+    "salary": "$114,400 - $145,600",
+    "url": "https://uiuxjobsboard.com/job/1654726-ux-researcher-kirkland-wa-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Collaborate with engineers, data scientists, and ML practitioners to uncover workflow friction.\nSynthesize technical feedback into clear, actionable product recommendations.\nDeliver high-quality insights while managing multiple studies with minimal oversight.\nRequirements\n5+ years of UX research experience, including independent benchmark or structured usability study ownership.\nStrong grounding in HCI, study design, and measurement frameworks.\nExperience researching developer tools, ML workflows, APIs, CLIs, or cloud platforms.\nExcellent communication skills for technical and non-technical audiences.\nHighly organized, self-directed, and comfortable working in technical environments.\nFamiliarity with machine learning concepts, data workflows, or software engineering.\nUser Research International is a User Experience (UX) consulting research company specializing in usability testing and market research based in Kirkland, Washington. We work with some of the most recognized brands on some of the most cutting-edge technologies, and we help our clients build in-depth understanding of their customers\u2019 needs. Our culture is collaborative and we equally value people skills and technical skills. We work in a fast-paced environment with quick turn around and rich variety. Our team is passionate about enabling our clients to make their products and services more usable and accessible.\nEQUAL OPPORTUNITY EMPLOYER:\u00a0User Research values diversity and seeks to offer a safe, respectful, enjoyable workplace for all people. User Research International provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, religion, color, national origin, caste, sex, sexual orientation, gender identity or expression, pregnancy, age, genetic information, disability, or veteran/military status.\nW Graduate UX Researcher at Wise L Senior UX Researcher at LexisNexis Legal P UX Researcher at Priceline\nUX Researcher II at 6sense I UX Researcher at Intrinsic\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUX Research Salary Guide UX Research Salary in United States\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nRelated Jobs See more jobs from United States\nCollabera is hiring Director of User Experience\nBright Horizons is hiring Senior Manager, Enterprise UX Design\nArlo is hiring UX Design Operations Coordinator\nMEDvidi is hiring Staff Product Designer (AI Track)\nIhsan is hiring Product Designer \u2014 Mobile UX/UI & Motion",
+    "posted_at": "7h",
+    "priority": 4,
+    "first_seen": "2026-10-27T08:53:09.008069-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "db60c2117d34f47c784b4bca22cf2ea4": {
+    "id": "db60c2117d34f47c784b4bca22cf2ea4",
+    "title": "Graduate UX Researcher",
+    "company": "Wise",
+    "location": "London",
+    "salary": "\u00a340,000",
+    "url": "https://uiuxjobsboard.com/job/1654426-graduate-ux-researcher-london-united-kingdom",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Wise is a global technology company, building the best way to move and manage the world\u2019s money.\nWhether people and businesses are sending money to another country, spending abroad, or making and receiving international payments, Wise is on a mission to make their lives easier and save them money.\nAs part of our team, you will be helping us create an entirely new network for the world's money.\nJob Description\nWe\u2019re looking for a Graduate UX Researcher to join our multidisciplinary Design team in London. Your time will be spent working and learning in product teams, where you\u2019ll shape useful, usable, and memorable customer experiences.You\u2019ll be part of Wise\u2019s global mission to build an open, fair, and human financial system. Because people without borders need money without borders.\nYou'll be mentored by several UX Researchers at Wise, collaborating with other Wisers and fellow grads on cross-functional projects. We plan our focus areas every quarter, and your mission will be mapped out with your lead. You\u2019ll have plenty of room to grow and help to define your scope.\nYou will spend the first 10 months working in a product team, where you\u2019ll shape useful, usable, and memorable customer experiences.\u00a0 You will then rotate into a second 12 month placement with a different team and add breadth and depth to the skills you developed in your first placement.\u00a0 At the end of the 22 month grad programme\u00a0 you will settle into your permanent role in the Regional Squad.\nYou\u2019ll focus on building empathy for our customers, developing a deep understanding of their needs and helping your teams use those insights to make better decisions.\nYou\u2019ll be honing and flexing your quantitative and qualitative research craft skills while working closely with others to deliver measurable, lasting impact.\nYou will have flexibility in how and where you work . We understand everyone needs a little something different - so we\u2019ll do our best to make it happen, but we recommend coming to the office as much as possible in your first months.\nYou\u2019ll learn to connect research insights with customer behaviour data and analytics to build a more complete understanding of customer needs.\nQualifications\nYou are graduating in 2027 or you\u2019ve graduated in 2026 with a Bachelors or Masters degree.\nYou are able to start work in a full-time role in September 2027\nYou\u2019re naturally curious about people and ready to question assumptions about people\nYou\u2019re interested in building a career in User/Design Research\nYou have a good understanding of different qualitative and quantitative research methods and are interested in applying them in a commercial setting\nYou\u2019ve been accountable during your studies for all or a part of a project from start to finish, and are able to talk about how you planned the research, picked your methodology, and your approach to data analysis\nYou\u2019re able to clearly rationalise your decisions to other team members\nYou\u2019re confident talking about key insights, learnings, and, if applicable, the impact of your work\nWe don\u2019t expect you will have a portfolio of UX projects you have worked on, we\u2019re hoping to hear from great social researchers who want to work at pace on impactful projects, without the constraints of academia.\nAnd these would be great, but aren\u2019t essential:\nUnderstanding of how to design responsive web experiences.\nYou\u2019re curious about learning from user testing and iterating on your work.\nYou have knowledge or experience of creating production ready deliverables\nHave a real impact. Solve real customer problems\nSalary of \u00a340,000 plus a $9,600 new hire stock grant and then $4,800 annualised stock grant\nEmbrace global connection during Mission Days\nBe part of a global team with a global mindset\nFor everyone, everywhere. We're people building money without borders\u00a0 \u2014 without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive.\nWe're proud to have a truly international team, and we celebrate our d",
+    "posted_at": "8h",
+    "priority": 4,
+    "first_seen": "2026-10-27T08:53:10.525020-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "a410db0c6ad53382acdef12344ffca3b": {
+    "id": "a410db0c6ad53382acdef12344ffca3b",
+    "title": "UI/UX Researcher & Designer",
+    "company": "Intelerad",
+    "location": "Remote",
+    "salary": "$64,500 - $86,000",
+    "url": "https://uiuxjobsboard.com/job/1654526-remote-united-states-ui-ux-researcher-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Headquartered in Raleigh, NC and Montreal, Intelerad has nearly 800 employees located in offices across four countries. The company empowers nearly 2,000 healthcare organizations around the world with the speed, scalability, and simplicity needed to increase business performance while, most importantly, improving patient outcomes. Intelerad\u2019s modern enterprise solutions have been acknowledged by a Best in KLAS recognition, ranking #1 for PACS Europe UK/Ireland in the\u00a0 2026 Best in KLAS: Global Software (Non-US) report .\nJob Description\nAs a UI/UX Researcher & Designer at Intelerad, you will play a meaningful role in shaping how clinicians and healthcare professionals interact with our medical imaging products. You will independently own research and design for one or more product areas, partnering with product managers, developers, and end users to turn complex clinical needs and business goals into intuitive, high-quality experiences, from early discovery through to successful release. You will bring a balanced skillset, grounding design decisions in rigorous user research, translating insight into compelling, usable interfaces, and helping raise the quality of UX practice across the team.\nIndependently plan and lead qualitative and quantitative UX research across the product lifecycle, using field studies, direct observation, interviews, workflow and task analysis, usability testing, and surveys to identify opportunities, validate assumptions, and shape product direction.\nSet research priorities and methodologies for your product area in partnership with product management; recruit participants and moderate sessions with clinicians and other end users.\nSynthesize research data into personas, journey maps, and actionable insights, and translate findings into design and product recommendations that influence roadmap decisions.\nOwn and evolve our research repository so findings stay discoverable and continue to inform current and future work.\nLead the design of intuitive interfaces from concept to release, grounded in a strong understanding of user goals, clinical workflows, and product requirements, delivering screen layouts, interaction patterns, and UI elements that meet usability and business standards.\nOwn design work end-to-end: produce wireframes, storyboards, functional prototypes, and detailed specifications that clearly communicate intent to developers, QA, and technical writers.\nDrive the creation and adoption of design standards that ensure consistency across the product suite, and guide developers through UI design decisions and trade-offs during implementation.\nBuild trust with users through deep empathy, active listening, and strong facilitation, enabling a thorough understanding of their goals, workflows, and challenges.\nPresent design and research findings clearly to audiences ranging from engineers to product leadership, and lead design and research critique sessions to ensure alignment and quality.\nMentor and provide feedback to less experienced designers and researchers, sharing methods and best practices across the team.\nQualifications\nQualifications & Experience\nBachelor's degree in Human-Computer Interaction (HCI), User Experience (UX) Design, Interaction Design, Human Factors / Ergonomics, Psychology, Graphic Design, or equivalent experience.\n4+ years of experience in UI/UX design and UX research, with a portfolio demonstrating both strong web and mobile design capabilities and end-to-end research work.\nProficiency in industry-standard design tools, including Figma and/or Adobe Creative Cloud (Photoshop, Illustrator, XD, or equivalent).\nDemonstrated expertise in wireframing, prototyping, and producing design specifications.\nDemonstrated experience independently planning and leading user research using qualitative and quantitative methods, and synthesizing findings into personas, journey maps, and actionable insights.\nFamiliarity with UX research tools and repositories (e.g., Dovetail, UserZoom, Optimal W",
+    "posted_at": "11h",
+    "priority": 5,
+    "first_seen": "2026-10-27T08:53:12.244209-07:00",
     "status": "active",
     "applied_at": null
   }
