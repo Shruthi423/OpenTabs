@@ -1,154 +1,32 @@
 [
   {
     "item": {
-      "company": "EchoTwin",
-      "amount": "$5.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "EchoTwin raises $5M seed to turn city vehicles into AI inspectors - Dealroom. EchoTwin raises $5M seed to turn city vehicles into AI inspectors&nbsp;&nbsp;Dealroom",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcng0Q05qTlV0ZWhQNy1ndW9pSmlCd1BXaFk3Nks4SUZqbElpV2hXcFF6R2ZSYmtON3c3cTFTUFIyZ3gwejYyempfVWtIWlB0RWs3SEQ0SWRkWXdWM1A5Z2ZxcnBERmpENmM4T0VUSjJSbHpvUFdlaERMcFl2ME5oWTRWcUhEN3M1cjVNd1N5N1djTTJJdTRFWkpOYWFCbTQ?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-10-27T09:23:34.096673-07:00"
-  },
-  {
-    "item": {
-      "company": "Hyphenate",
-      "amount": "$45.0M",
-      "stage": "Series A",
-      "investors": "Nexus Venture Partners, Foundation Capital",
-      "location": null,
-      "blurb": "Hyphenate bags $45M in funding to accelerate autonomous financial operations. A startup called Hyphenate says it&#8217;s quickly helping enterprises to overcome their fear of artificial intelligence hallucinations and trust it to fully automate their financial operations after raising $45 million in early-stage funding today. The Series A round was led by Nexus Venture Partners and saw participation from B Capital and existing backers Foundation Capital, [&#8230;]\nThe post Hyphenate bags $45M in",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/27/hyphenate-bags-45m-in-funding-to-accelerate-autonomous-financial-operations/",
-      "priority": 8
-    },
-    "remind_at": "2026-10-27T09:23:37.723180-07:00"
-  },
-  {
-    "item": {
-      "company": "General Compute",
-      "amount": "$100.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "General Compute raises $100 million Series A, countering the neocloud disaster narrative - TechCrunch. General Compute raises $100 million Series A, countering the neocloud disaster narrative&nbsp;&nbsp;TechCrunch",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVVicEc0Q1FoTEpHcXI0SERMUjN5QTl2VXNyQldXbHkxYnNkaHZNX2swY3djNmQ1ZDdOU2tqaFhfblFXZl9IMjFkOXZxZzQ3WldLVl9XM0Q3YVFiVGdUOGZveUV1S3lneFNKeTJ4YTE0ZGN2NXBKclplcGZhMUQ1dm5uUGxTYmdSd1JaVjRxck9vdm1oWC1iUUl3c21HTVVjT215d3o4Z05rOEdleFpIbmRTOXl4YUhiRVo4LVNB?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-10-27T09:23:45.549079-07:00"
-  },
-  {
-    "item": {
-      "company": "Predicate",
-      "amount": "$8.0M",
-      "stage": "Series A",
-      "investors": "Blockchain Capital&nbsp",
-      "location": null,
-      "blurb": "Compliance startup Predicate raises $8M Series A led by Blockchain Capital - CryptoRank. Compliance startup Predicate raises $8M Series A led by Blockchain Capital&nbsp;&nbsp;CryptoRank",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FNktleW1mRTBIc3BRenJ6ZC1sVFZobVlQTlU3SEFRd0FkRzZfSkRkdlUzT2VhTktnWUkzbEdzaHpmMmxmaGZPTzg1TERJbWZwX0VNRWwtQk1RMWVIN0wwVDluOGFBb0hucTZPaEtSS09Va0Vh?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-10-27T09:23:48.446419-07:00"
-  },
-  {
-    "item": {
-      "company": "Cent",
-      "amount": "$15.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Healthtech startup Cent raises $15M in Series A - YourStory.com. Healthtech startup Cent raises $15M in Series A&nbsp;&nbsp;YourStory.com",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZWVkUXQ3SnlxRk53RFc3WmU0MXZyWDRZR3RxNnZWaFhLc2Q5c0lnd0d6cFBvb2s1MnAxQnpENnY3TTZrMk1DMjh1dFRGMmhlN2dzZnlXOXZtTEZ3Zl90eDBPS205UGpYbmhjdDlvTDZsWWxLcmlrLWoxdGMzTElnN1hIZEVzVTltTFNn?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-10-27T09:23:51.353205-07:00"
-  },
-  {
-    "item": {
-      "company": "AI Operating System",
-      "amount": "$70.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "blurb": "AI Operating System for Wealth Management Nevis Raises $70M Series B - Wowtale. AI Operating System for Wealth Management Nevis Raises $70M Series B&nbsp;&nbsp;Wowtale",
-      "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NTHdmU2RNd2x6LW0yam92Qjd1eFhjcG5sVUtPamQ5LW55Snl3b3lLYms1NjBhSXRPbndzNkl3dkY0aXJKTWxHU25fWWNEMldqRUhV?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-10-27T09:23:59.454543-07:00"
-  },
-  {
-    "item": {
-      "company": "Edge Sound",
-      "amount": "$2.0M",
+      "company": "Disruptive",
+      "amount": "$10.0B",
       "stage": null,
-      "investors": "Stormbreaker Ventures",
+      "investors": null,
       "location": null,
-      "blurb": "Edge Sound raises $2M to help physical AI make sense of audio. Edge Sound Research Inc. today announced it has raised $2 million in new funding to build audio infrastructure that isolates useful sounds and combines them with other sensor data to help physical AI systems understand what\u2019s happening in real time. Stormbreaker Ventures led the round, bringing the company\u2019s total funding to $9 million. When the [&#8230;]\nThe post Edge Sound raises $2M to help physical AI make sense of audio appeared",
+      "blurb": "Disruptive raises $10B fund to make big bets on at least 10 companies. Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/27/edge-sound-raises-2m-to-help-physical-ai-make-sense-of-audio/",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
       "priority": 3
     },
-    "remind_at": "2026-10-27T09:24:05.881146-07:00"
+    "remind_at": "2026-10-27T13:53:17.565261-07:00"
   },
   {
     "item": {
-      "company": "Hyperbolic",
+      "company": "Avante",
       "amount": "$30.0M",
       "stage": null,
-      "investors": "Intel CEO Lip-Bu Tan\u2019s VC firm first appeared on Tech Startups",
-      "location": null,
-      "blurb": "Hyperbolic raises $30M to build global AI compute grid, backed by Intel CEO Lip-Bu Tan\u2019s VC firm. AI infrastructure startup Hyperbolic has raised $30 million in strategic funding to build a global computing grid that connects underused GPUs across hundreds of cloud providers, giving AI companies a simpler way to access compute capacity without juggling multiple vendors. [&#8230;]\nThe post Hyperbolic raises $30M to build global AI compute grid, backed by Intel CEO Lip-Bu Tan\u2019s VC firm first appea",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/27/hyperbolic-raises-30m-to-build-global-ai-compute-grid-backed-by-intel-ceo-lip-bu-tans-vc-firm/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-27T09:24:08.762408-07:00"
-  },
-  {
-    "item": {
-      "company": "Nvidia",
-      "amount": "$3.0B",
-      "stage": null,
       "investors": null,
-      "location": null,
-      "blurb": "Nvidia to invest $3 billion in Meta as part of expanded AI partnership amid Zuckerberg\u2019s $97.5 billion fundraising push. Nvidia is investing $3 billion in Meta as Mark Zuckerberg&#8217;s social media giant prepares one of the largest equity fundraising efforts in corporate history to finance its growing artificial intelligence ambitions. The investment, announced Tuesday, deepens a relationship between two [&#8230;]\nThe post Nvidia to invest $3 billion in Meta as part of expanded AI partnership ",
+      "location": "Seattle",
+      "blurb": "Seattle startup Avante raises $30M to bring AI agents to corporate benefits teams. The Seattle startup says bookings grew nearly fivefold over the past year as employers look for ways to rein in rising health care costs. Read More",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/10/27/nvidia-to-invest-3-billion-in-meta-as-part-of-expanded-ai-partnership-amid-zuckerbergs-97-5-billion-fundraising-push/",
+      "source": "GeekWire Funding",
+      "url": "https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/",
       "priority": 3
     },
-    "remind_at": "2026-10-27T09:24:11.610851-07:00"
-  },
-  {
-    "item": {
-      "company": "Ultra",
-      "amount": "$50.0M",
-      "stage": null,
-      "investors": null,
-      "location": "Brooklyn",
-      "blurb": "Ultra Raises $50M to Put AI Packing Robots on More Warehouse Floors. Most robotics startups build for a future that sits five to 10 years away, and warehouses cannot use a future. Brooklyn\u2019s Ultra took the opposite route, shipping a robot that goes from crate to working in under a day. CEO Jon Miller Schwartz explains what makes robotics a different game from software, and how a fresh $50M, bringing total funding to $62M, will put hundreds more robots to work on warehouse floors.",
-      "founders": [
-        "Jon Miller Schwartz"
-      ],
-      "source": "AlleyWatch",
-      "url": "https://www.alleywatch.com/2026/10/ultra-robotics-warehouse-robots-as-a-service-order-packing-logistics-ecommerce-fufillment-automation-jon-miller-schwartz/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-27T09:24:14.531045-07:00"
+    "remind_at": "2026-10-27T13:53:20.490668-07:00"
   }
 ]

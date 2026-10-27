@@ -9012,5 +9012,37 @@
     "roles": [],
     "first_seen": "2026-10-27T08:54:15.531230-07:00",
     "status": "active"
+  },
+  "f6afe5ebed775ec6ac2a77b9920f6528": {
+    "id": "f6afe5ebed775ec6ac2a77b9920f6528",
+    "company": "Disruptive",
+    "amount": "$10.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "priority": 3,
+    "blurb": "Disruptive raises $10B fund to make big bets on at least 10 companies. Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-27T13:23:18.565403-07:00",
+    "status": "active"
+  },
+  "017ab6bce13f1837e9a6f8cb3acae43b": {
+    "id": "017ab6bce13f1837e9a6f8cb3acae43b",
+    "company": "Avante",
+    "amount": "$30.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "GeekWire Funding",
+    "url": "https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/",
+    "priority": 3,
+    "blurb": "Seattle startup Avante raises $30M to bring AI agents to corporate benefits teams. The Seattle startup says bookings grew nearly fivefold over the past year as employers look for ways to rein in rising health care costs. Read More",
+    "founders": [],
+    "location": "Seattle",
+    "roles": [],
+    "first_seen": "2026-10-27T13:23:21.490822-07:00",
+    "status": "active"
   }
 }
