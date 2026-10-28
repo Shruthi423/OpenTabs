@@ -1,1 +1,167 @@
-[]
+[
+  {
+    "item": {
+      "company": "QwikBuild",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Enterprise AI Startup QwikBuild Raises $2.3 Mn In Pre-seed Funding - BW Disrupt. Enterprise AI Startup QwikBuild Raises $2.3 Mn In Pre-seed Funding&nbsp;&nbsp;BW Disrupt",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1oxbEg2QzBvSzlOTUdUaWJPLURwYVpKSG1OQzQ4Q2NVeDJxcE9JN2VsZWU2SkZ0UDVDOHM4NXBlT2h1d2ZFLTYycmcwLWdmdFpSdGczZm1famhsZjE4T19iVE5jRElveWIwVGN2SEU5S3RMX2x0OV9OVUNpU2hwVlRSMjltdDRJTHE3MzFxc1ROUHdVaEhzcFUzNng1aVFLem1SM2RhYm9Mdw?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-10-28T03:32:39.912866-07:00"
+  },
+  {
+    "item": {
+      "company": "Mostest",
+      "amount": "$4.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Mostest Raises $4M Seed. Mostest raises $4M seed round led by Capital Q Ventures and others to accelerate its AI-driven event booking and management software platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/mostest-raises-4m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-28T03:32:43.320291-07:00"
+  },
+  {
+    "item": {
+      "company": "Machenta",
+      "amount": "$40.0M",
+      "stage": "Seed",
+      "investors": "Union Square Ventures",
+      "location": null,
+      "blurb": "Machenta Raises $40M Seed. Machenta raises $40M in a seed round led by Creandum and Union Square Ventures to scale its AI foundation model for instant robot learning.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/machenta-raises-40m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-28T03:32:46.137577-07:00"
+  },
+  {
+    "item": {
+      "company": "Nation A",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Nation A Raises 8.5 Billion KRW Series A. Nation A raises 8.5 billion won in Series A funding to advance its AI-powered video production platform and expand global operations.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/nation-a-raises-8-5-billion-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-28T03:32:55.349285-07:00"
+  },
+  {
+    "item": {
+      "company": "Vera Health",
+      "amount": "$28.5M",
+      "stage": "Series A",
+      "investors": "Threshold Ventures",
+      "location": null,
+      "blurb": "Vera Health Raises $28.5M Series A. Vera Health raises $28.5 million in Series A funding led by Threshold Ventures to expand its AI assistant platform for medical professionals.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/vera-health-raises-28-5m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-28T03:33:00.141434-07:00"
+  },
+  {
+    "item": {
+      "company": "ClarityCare",
+      "amount": "$16.3M",
+      "stage": "Series A",
+      "investors": "Headline",
+      "location": null,
+      "blurb": "ClarityCare Raises $16.3M Series A. ClarityCare raises $16.3M in Series A funding led by Headline to scale its healthcare administrative and workflow automation platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/claritycare-raises-16-3m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-28T03:33:03.281004-07:00"
+  },
+  {
+    "item": {
+      "company": "Kivo Health",
+      "amount": "$10.0M",
+      "stage": "Series A",
+      "investors": "Allumia Ventures",
+      "location": null,
+      "blurb": "Kivo Health Raises $10M Series A. Kivo Health raises $10M Series A round led by Allumia Ventures to expand its AI-powered virtual care platform for seniors with chronic lung disease.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/kivo-health-raises-10m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-10-28T03:33:08.517969-07:00"
+  },
+  {
+    "item": {
+      "company": "Cent",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Cent Raises $15 Mn In Series A Funding, Acquires AI Radiology Platform Medsee - BW Disrupt. Cent Raises $15 Mn In Series A Funding, Acquires AI Radiology Platform Medsee&nbsp;&nbsp;BW Disrupt",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcG9tNHkwbXRDbGtXNFJzMUw0WXIxVnpIVjVGT0QyRXZrbHkxWWpDamNuc3Rkd1ZIMlgxcFRINVFLQTdHMzFiSnBaWjU5QWZCT2ZMVUVJcGxfQWpTazZ5b25PNXd1T0hmRDNPNjVVSHBfTXBnUnA1VFBaaVZQbS12ZE13YnpLVGdpb244ajBOQmVCOEEwbll3Nm9IRmxZTFdObXhfRFRlRmRka2EwSlBiXzdMOFlXdWM?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-10-28T03:33:11.394194-07:00"
+  },
+  {
+    "item": {
+      "company": "Simplismart",
+      "amount": "$14.0M",
+      "stage": "Series B",
+      "investors": "Dallas Venture Capital",
+      "location": "Dallas",
+      "blurb": "Simplismart Raises $14M Series B. Simplismart raises $14M Series B led by Dallas Venture Capital to scale its AI inference infrastructure platform for enterprise and cloud providers.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/simplismart-raises-14m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-10-28T03:33:15.147854-07:00"
+  },
+  {
+    "item": {
+      "company": "Prophecy",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Exclusive: Prophecy launches DataGPT to run data workflows inside ChatGPT, Claude and Copilot. Data preparation startup Prophecy Inc. today launched DataGPT, a new service that allows business analysts to run complete data workflows from inside OpenAI Group PBC&#8217;s ChatGPT, Anthropic PBC&#8217;s Claude and Microsoft Corp.&#8217;s Copilot. Each answer arrives with a visual map of the steps that produced it.\u00a0The service goes after a workaround that has become common [&#8230;]\nThe post Exclusiv",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/28/exclusive-prophecy-launches-datagpt-to-run-data-workflows-inside-chatgpt-claude-and-copilot/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-28T03:33:18.031476-07:00"
+  },
+  {
+    "item": {
+      "company": "Caju AI",
+      "amount": null,
+      "stage": null,
+      "investors": "Arthur Ventures",
+      "location": null,
+      "blurb": "Caju AI Secures Strategic Investment. Caju AI secures strategic investment from Arthur Ventures to scale its AI-powered messaging governance platform for global enterprises.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/caju-ai-secures-strategic-investment/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-28T03:33:21.100851-07:00"
+  }
+]

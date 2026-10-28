@@ -1,5 +1,22 @@
 [
   {
+    "id": "1fb420f85971b8d94d575db8a910eec5",
+    "title": "Founding Designer",
+    "company": "Verahealth",
+    "location": "San Francisco",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/verahealth/5bc47acc-5708-49f5-87c1-31a23fb16634",
+    "source": "\ud83d\udcb0 Vera Health (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-10-28T03:02:57.703597-07:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "8cc4b89cc6f8b6e3863f99c31615b50a",
     "title": "Motion Designer",
     "company": "OpenAI",
@@ -3855,23 +3872,6 @@
     "posted_at": "5h",
     "priority": 4,
     "first_seen": "2026-09-28T07:31:03.484503-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "b77548060145fd6a7309036a1fd0e5fa",
-    "title": "Junior Product Designer",
-    "company": "Quantum",
-    "location": "London, United Kingdom",
-    "salary": "Not listed",
-    "url": "https://jobs.ashbyhq.com/quantum/9b73d656-597b-47c0-b3b5-f19783c241f7",
-    "source": "OpenDoors",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 4,
-    "first_seen": "2026-09-28T07:30:39.929798-07:00",
     "status": "active",
     "jd": "yes"
   },
