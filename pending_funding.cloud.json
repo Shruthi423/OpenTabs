@@ -1,167 +1,107 @@
 [
   {
     "item": {
-      "company": "QwikBuild",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
+      "company": "Plato",
+      "amount": "$16.0M",
+      "stage": "Series A",
+      "investors": "Nava Ventures&nbsp",
       "location": null,
-      "blurb": "Enterprise AI Startup QwikBuild Raises $2.3 Mn In Pre-seed Funding - BW Disrupt. Enterprise AI Startup QwikBuild Raises $2.3 Mn In Pre-seed Funding&nbsp;&nbsp;BW Disrupt",
+      "blurb": "AI-training startup Plato raises $16M Series A led by Nava Ventures - Dealroom. AI-training startup Plato raises $16M Series A led by Nava Ventures&nbsp;&nbsp;Dealroom",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1oxbEg2QzBvSzlOTUdUaWJPLURwYVpKSG1OQzQ4Q2NVeDJxcE9JN2VsZWU2SkZ0UDVDOHM4NXBlT2h1d2ZFLTYycmcwLWdmdFpSdGczZm1famhsZjE4T19iVE5jRElveWIwVGN2SEU5S3RMX2x0OV9OVUNpU2hwVlRSMjltdDRJTHE3MzFxc1ROUHdVaEhzcFUzNng1aVFLem1SM2RhYm9Mdw?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-10-28T03:32:39.912866-07:00"
-  },
-  {
-    "item": {
-      "company": "Mostest",
-      "amount": "$4.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Mostest Raises $4M Seed. Mostest raises $4M seed round led by Capital Q Ventures and others to accelerate its AI-driven event booking and management software platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/mostest-raises-4m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-28T03:32:43.320291-07:00"
-  },
-  {
-    "item": {
-      "company": "Machenta",
-      "amount": "$40.0M",
-      "stage": "Seed",
-      "investors": "Union Square Ventures",
-      "location": null,
-      "blurb": "Machenta Raises $40M Seed. Machenta raises $40M in a seed round led by Creandum and Union Square Ventures to scale its AI foundation model for instant robot learning.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/machenta-raises-40m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-28T03:32:46.137577-07:00"
-  },
-  {
-    "item": {
-      "company": "Nation A",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Nation A Raises 8.5 Billion KRW Series A. Nation A raises 8.5 billion won in Series A funding to advance its AI-powered video production platform and expand global operations.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/nation-a-raises-8-5-billion-series-a/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXZCenZxWDJQNm16RVZKZmhBcXZmTFBzOHRIR3BCWnVrZ2dPY2gwOHB3ejdnV3kyamNvQzV2Y1VTclRRVHRHa2hSRVhhbVRvcld4RzNKekMtdjQ3aWdWVFZMX2hnWGZhQVRYeks3Qy0tcF9JeWhEUDJrSDlEdERrdkJnMUc0OUU5WWxhSjAtb29vVnRpemlfdDJXS090TG1sSXc?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-10-28T03:32:55.349285-07:00"
+    "remind_at": "2026-10-28T10:07:44.690190-07:00"
   },
   {
     "item": {
-      "company": "Vera Health",
-      "amount": "$28.5M",
-      "stage": "Series A",
-      "investors": "Threshold Ventures",
+      "company": "Fragment",
+      "amount": "$56.0M",
+      "stage": null,
+      "investors": "General Catalyst",
       "location": null,
-      "blurb": "Vera Health Raises $28.5M Series A. Vera Health raises $28.5 million in Series A funding led by Threshold Ventures to expand its AI assistant platform for medical professionals.",
+      "blurb": "Fragment raises $56M from 8VC, General Catalyst and A* to put AI agents on procurement exceptions. Pranav Mulgund was exposed to supply chain early in his career, later worked as a physics researcher, and&#8230;",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/vera-health-raises-28-5m-series-a/",
-      "priority": 8
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/fragment-56m-series-a-procurement-exceptions-ai-agents/",
+      "priority": 6
     },
-    "remind_at": "2026-10-28T03:33:00.141434-07:00"
+    "remind_at": "2026-10-28T10:07:47.967026-07:00"
   },
   {
     "item": {
-      "company": "ClarityCare",
-      "amount": "$16.3M",
-      "stage": "Series A",
-      "investors": "Headline",
-      "location": null,
-      "blurb": "ClarityCare Raises $16.3M Series A. ClarityCare raises $16.3M in Series A funding led by Headline to scale its healthcare administrative and workflow automation platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/claritycare-raises-16-3m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-10-28T03:33:03.281004-07:00"
-  },
-  {
-    "item": {
-      "company": "Kivo Health",
-      "amount": "$10.0M",
-      "stage": "Series A",
-      "investors": "Allumia Ventures",
-      "location": null,
-      "blurb": "Kivo Health Raises $10M Series A. Kivo Health raises $10M Series A round led by Allumia Ventures to expand its AI-powered virtual care platform for seniors with chronic lung disease.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kivo-health-raises-10m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-10-28T03:33:08.517969-07:00"
-  },
-  {
-    "item": {
-      "company": "Cent",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Cent Raises $15 Mn In Series A Funding, Acquires AI Radiology Platform Medsee - BW Disrupt. Cent Raises $15 Mn In Series A Funding, Acquires AI Radiology Platform Medsee&nbsp;&nbsp;BW Disrupt",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcG9tNHkwbXRDbGtXNFJzMUw0WXIxVnpIVjVGT0QyRXZrbHkxWWpDamNuc3Rkd1ZIMlgxcFRINVFLQTdHMzFiSnBaWjU5QWZCT2ZMVUVJcGxfQWpTazZ5b25PNXd1T0hmRDNPNjVVSHBfTXBnUnA1VFBaaVZQbS12ZE13YnpLVGdpb244ajBOQmVCOEEwbll3Nm9IRmxZTFdObXhfRFRlRmRka2EwSlBiXzdMOFlXdWM?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-10-28T03:33:11.394194-07:00"
-  },
-  {
-    "item": {
-      "company": "Simplismart",
-      "amount": "$14.0M",
-      "stage": "Series B",
-      "investors": "Dallas Venture Capital",
-      "location": "Dallas",
-      "blurb": "Simplismart Raises $14M Series B. Simplismart raises $14M Series B led by Dallas Venture Capital to scale its AI inference infrastructure platform for enterprise and cloud providers.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/simplismart-raises-14m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-10-28T03:33:15.147854-07:00"
-  },
-  {
-    "item": {
-      "company": "Prophecy",
-      "amount": null,
+      "company": "Northstar",
+      "amount": "$7.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Exclusive: Prophecy launches DataGPT to run data workflows inside ChatGPT, Claude and Copilot. Data preparation startup Prophecy Inc. today launched DataGPT, a new service that allows business analysts to run complete data workflows from inside OpenAI Group PBC&#8217;s ChatGPT, Anthropic PBC&#8217;s Claude and Microsoft Corp.&#8217;s Copilot. Each answer arrives with a visual map of the steps that produced it.\u00a0The service goes after a workaround that has become common [&#8230;]\nThe post Exclusiv",
+      "blurb": "Northstar launches with $7M to give AI agents the context to act on security risks. Cybersecurity startup Northstar Security AI Inc. launched today with $7 million in new funding to give artificial intelligence agents the context they need to act on security risks. Northstar offers a platform that feeds data from a company&#8217;s existing security and information technology tools into a real-time Security Context Graph. A known vulnerability, an unmanaged [&#8230;]\nThe post Northstar launches w",
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/28/exclusive-prophecy-launches-datagpt-to-run-data-workflows-inside-chatgpt-claude-and-copilot/",
+      "url": "https://siliconangle.com/2026/10/28/northstar-launches-with-7m-to-give-ai-agents-the-context-to-act-on-security-risks/",
       "priority": 3
     },
-    "remind_at": "2026-10-28T03:33:18.031476-07:00"
+    "remind_at": "2026-10-28T10:07:52.598849-07:00"
   },
   {
     "item": {
-      "company": "Caju AI",
-      "amount": null,
+      "company": "Upwind",
+      "amount": "$400.0M",
       "stage": null,
-      "investors": "Arthur Ventures",
+      "investors": null,
       "location": null,
-      "blurb": "Caju AI Secures Strategic Investment. Caju AI secures strategic investment from Arthur Ventures to scale its AI-powered messaging governance platform for global enterprises.",
+      "blurb": "Cloud security startup Upwind raises $400M at $3.8B valuation as revenue quadruples. Cloud and artificial intelligence security startup Upwind Security Inc. today revealed that it has raised $400 million in new funding at a valuation of $3.8 billion. Reports in early September had the round at $300 million. By the time it closed, Upwind had taken in an additional $100 million, and the company used the announcement [&#8230;]\nThe post Cloud security startup Upwind raises $400M at $3.8B valuation a",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/caju-ai-secures-strategic-investment/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/28/cloud-security-startup-upwind-raises-400m-at-3-8b-valuation-as-revenue-quadruples/",
       "priority": 3
     },
-    "remind_at": "2026-10-28T03:33:21.100851-07:00"
+    "remind_at": "2026-10-28T10:07:56.075791-07:00"
+  },
+  {
+    "item": {
+      "company": "Flat SDR Headcount",
+      "amount": "$200.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Databricks CRO Ron Gabrisko: 5 Interesting Learnings on Selling at a $200B AI Company: Flat SDR Headcount, 6-10% Reply Rates, and Free Seats That Unlocked Consumption. Ron Gabrisko joined Databricks as CRO when it was doing under $1M in ARR. Databricks is now a ~$200 billion company doing $7B+ ARR growing at a pace like we have never seen before. Ron sat down with Sam Blond, co-founder of Monaco and former CRO of Brex, on the SaaStr AI Podcast. They last... Continue Reading",
+      "founders": [],
+      "source": "SaaStr",
+      "url": "https://www.saastr.com/databricks-cro-ron-gabrisko-5-interesting-learnings-on-selling-at-a-200b-ai-company-flat-sdr-headcount-6-10-reply-rates-and-free-seats-that-unlocked-consumption/",
+      "priority": 3
+    },
+    "remind_at": "2026-10-28T10:08:01.853820-07:00"
+  },
+  {
+    "item": {
+      "company": "Investors Double Down",
+      "amount": "$23.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Investors Double Down on Brellium With $23 Million for AI That Audits Every Note - Breaking News ABA. Investors Double Down on Brellium With $23 Million for AI That Audits Every Note&nbsp;&nbsp;Breaking News ABA",
+      "founders": [],
+      "source": "First Round (news)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFVUZ0NoZlFvWlN1SWNPaUN2SHE1TWZkazRCUlR3UmdNMjlIejFrTWw5Z24yNXppbFprbzRrcHZRTjljVndrbThjd1N0X1hwRTh6dGNYNV9jTWcyRGwwZDhSNmkzOWFiUFJUMkZjZXJqME9qMEFIMm5kMFJkTFNJQmNlOEw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-10-28T10:08:09.394580-07:00"
+  },
+  {
+    "item": {
+      "company": "Casap",
+      "amount": "$56.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Financial AI startup Casap raises $56 million to help banks stop an explosion of customer fraud - Fortune. Financial AI startup Casap raises $56 million to help banks stop an explosion of customer fraud&nbsp;&nbsp;Fortune",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zVW5LU0VuODhsUllnUkN4V2pBQmN4bGhXVVBLLWJpQjJJMDNyRHJzYXFrSHhncHFQdHBuTTd0cVVfdFVvaWJPelVB?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-10-28T10:08:12.497249-07:00"
   }
 ]

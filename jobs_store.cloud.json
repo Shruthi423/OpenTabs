@@ -17,7 +17,7 @@
     "first_seen": "2026-09-21T17:51:48.978740-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T08:09:48.043799-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "4e9b72139a8169d723a2eedcb19cad54": {
@@ -458,7 +458,7 @@
     "first_seen": "2026-09-22T11:53:43.862047-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T08:09:48.043799-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "d78701edf3bd1e470240ec3c147832d2": {
@@ -1632,7 +1632,7 @@
     "first_seen": "2026-09-28T17:34:18.773033-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "5074a217ab5ad6e37711b00506c7d9d5": {
@@ -1653,7 +1653,7 @@
     "first_seen": "2026-09-28T23:13:33.262357-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "92f4e29404fc251e369c09d30eaef759": {
@@ -1737,7 +1737,7 @@
     "first_seen": "2026-09-29T05:53:42.126174-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "715d09ed0beab16e7e2e69a4e93283bb": {
@@ -1758,7 +1758,7 @@
     "first_seen": "2026-09-29T05:53:43.836976-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "c70dbdc9413f90878c60e88d7267d964": {
@@ -1779,7 +1779,7 @@
     "first_seen": "2026-09-29T11:25:59.052967-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "dd92cd2909c03f2a931048852dab284f": {
@@ -1800,7 +1800,7 @@
     "first_seen": "2026-09-29T11:26:00.714691-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "7fabaae9eec26e42d9eb8a373da349a1": {
@@ -2054,7 +2054,7 @@
     "first_seen": "2026-10-01T08:01:29.226298-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "9b0c1202343d4c9dc5a970979d442e39": {
@@ -2075,7 +2075,7 @@
     "first_seen": "2026-10-01T08:01:31.001378-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "240070cd7f838e56efaf0ba3e05e2d0a": {
@@ -2096,8 +2096,8 @@
     "first_seen": "2026-10-01T08:01:32.681122-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
-    "dead_strikes": 0
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
+    "dead_strikes": 1
   },
   "409cf86997ac15d75c57ba8211b66cce": {
     "id": "409cf86997ac15d75c57ba8211b66cce",
@@ -2243,7 +2243,7 @@
     "first_seen": "2026-10-03T03:31:23.685944-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "b4839c10c45b17aa2ee0a9a2de19bf65": {
@@ -2264,7 +2264,7 @@
     "first_seen": "2026-10-03T03:31:25.391232-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "5f476c4e977329d4eb7a012d38aa34f6": {
@@ -2285,7 +2285,7 @@
     "first_seen": "2026-10-03T07:56:01.953185-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "1f48915894cb27d755fcca0b261da808": {
@@ -3082,7 +3082,7 @@
     "first_seen": "2026-10-05T19:23:43.293173-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00"
+    "checked_at": "2026-10-28T09:36:27.386640-07:00"
   },
   "3fca551a71abd90cb8644802a0f7df65": {
     "id": "3fca551a71abd90cb8644802a0f7df65",
@@ -3207,7 +3207,7 @@
     "first_seen": "2026-10-07T06:41:57.202770-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "bd7b90e9af4da6d8e0a9446915d7df43": {
@@ -3228,7 +3228,7 @@
     "first_seen": "2026-10-07T06:41:58.752602-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "b9746e0201333c1235fd9baa7d1acc95": {
@@ -4214,7 +4214,7 @@
     "first_seen": "2026-10-12T15:57:46.878661-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "5109388face5fcd460d81ed6b9d4755a": {
@@ -4235,7 +4235,7 @@
     "first_seen": "2026-10-12T15:57:48.703126-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "4aea056fade0707d375d671fec1933bf": {
@@ -4256,7 +4256,7 @@
     "first_seen": "2026-10-12T15:57:50.530275-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "6e218068c9e40460edd0d17e3520ed77": {
@@ -4465,7 +4465,7 @@
     "first_seen": "2026-10-14T04:49:06.994203-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "c2d3b2d37b4c9b3371c01c12fccbad2a": {
@@ -4486,7 +4486,7 @@
     "first_seen": "2026-10-14T04:49:08.628527-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "88e5edf5421fac8bbc87a521f7473750": {
@@ -4507,7 +4507,7 @@
     "first_seen": "2026-10-14T04:49:10.461889-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "baaf712c6ac1906b3d740f37215809c6": {
@@ -5559,7 +5559,7 @@
     "first_seen": "2026-10-22T22:43:38.639493-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T01:08:00.556408-07:00",
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
     "dead_strikes": 0
   },
   "508ed83d316134eade8d04ec9fadffb0": {
@@ -5746,7 +5746,9 @@
     "priority": 5,
     "first_seen": "2026-10-25T05:17:27.422964-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-28T09:36:27.386640-07:00",
+    "dead_strikes": 0
   },
   "7e8795acc196ad3be68cf32f2b627cc7": {
     "id": "7e8795acc196ad3be68cf32f2b627cc7",
@@ -6393,6 +6395,44 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-10-28T03:02:57.703597-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "4ccd36022f43f8c318527e0ef6dafab8": {
+    "id": "4ccd36022f43f8c318527e0ef6dafab8",
+    "title": "Product Designer",
+    "company": "MLabs",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1655726-remote-united-kingdom-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "As the platform rebuilds around LLM-driven capabilities, the successful candidate will be responsible for defining not just how features look, but how complex data and AI experiences should function. The primary focus is transforming dense, aggregated trend data into clear, intuitive, and actionable insights.\nThis position joins a close-knit Frontend & UX team reporting directly to the Frontend Lead. The role is 100% remote and open to candidates based between US Central Time (UTC\u22126) and Central European Time (UTC+1). Candidates must be available during core collaboration hours of 9:00 AM\u201312:00 PM Eastern Standard Time (2:00 PM\u20135:00 PM UK / 3:00 PM\u20136:00 PM CET).\nEnd-to-End Product Design: Own features from initial framing to final launch, partnering closely with engineering leadership to deliver written proposals, user flows, prototypes, and Figma specifications.\nProblem Identification & Solution Design: Independently identify user pain points through customer calls, interviews, user feedback, and usage data to build compelling product proposals.\nAI & LLM Experience Design: Define user interactions for AI features (chat, automated reports, inline summaries), establish standards for insight attribution and uncertainty handling, and help refine the voice and structure of AI-generated content.\nDesign System Management: Own the principles and Figma library for the design system, partnering with frontend engineers to align with the React component library and establish robust data visualization and AI UX patterns.\nUX Quality & Feedback Loops: Co-own product metrics, user feedback tracking, and quality evaluation rubrics for LLM outputs alongside the Frontend Lead.\nNote: This position focuses strictly on product/UI/UX design. It does not involve writing production code, managing brand/marketing assets, or overseeing back-end API integrations.\nRequirements\nQualifications\nExperience: 3+ years of product design experience, ideally owning features end-to-end within a B2B or SaaS platform.\nProduct Thinking: Strong strategic perspective with a proven ability to define what to build and why , backed by a portfolio demonstrating strong problem-framing abilities.\nDomain Focus: Experience designing data-heavy products, such as dashboards, analytics platforms, or reporting tools.\nDesign Systems: Proven track record of working within and contributing to scalable design component libraries.\nTools & AI Integration: High proficiency in Figma, with active integration of AI tools into day-to-day design workflows and a strong curiosity regarding LLM product experiences.\nCommunication: Excellent written English skills, capable of producing clear proposals and documentation in an asynchronous remote environment.\nSchedule: Location within UTC\u22126 to UTC+1, with full availability during core collaboration hours (9:00 AM\u201312:00 PM EST).\nPreferred Qualifications (Nice to Have)\nExperience as the founding or primary designer on a product team.\nHands-on experience building or evolving design systems adopted by engineering teams.\nDirect experience designing AI features or creating evaluation rubrics for LLM output quality.\nExpertise in advanced data visualization patterns.\nFamiliarity with consumer goods, beauty, food & beverage, or marketing intelligence platforms.\nCapability to build rapid functional prototypes using AI-assisted tools to evaluate live outputs.\nCompetitive compensation package tailored to experience.\nCollaborative, high-impact environment with direct influence on core product direction.\nOpportunity to work closely alongside senior design leadership.\nFlexible starting timeline (target start date in January, with early onboarding available).\nInitial Video Screening: A brief introductory video conversation to discuss background, expectations, and role fit.\nPersonality Assessment: An online assessment to evaluate working style and team dynamics.\nDesign Leadership Interview: A 30-minute introductory chat with the Lead Designer.\nScreen-Recorded Case S",
+    "posted_at": "7h",
+    "priority": 5,
+    "first_seen": "2026-10-28T09:37:20.570194-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "1e539fe9661fdbfcc29563a84c527ed9": {
+    "id": "1e539fe9661fdbfcc29563a84c527ed9",
+    "title": "Product Designer",
+    "company": "Apollo GraphQL",
+    "location": "Remote",
+    "salary": "$150,000 - $180,000",
+    "url": "https://uiuxjobsboard.com/job/1656526-remote-north-america-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Apollo supports some of the largest GraphQL APIs in the world. Companies like Walmart, Expedia, Peloton, DoorDash, and The New York Times are just a small sample of our customers. And what consumes an API is changing: increasingly it\u2019s an agent acting on someone\u2019s behalf, one that needs a graph it can traverse and controls over what it can reach. That\u2019s the next thing we\u2019re building, and design will decide whether it\u2019s usable.\nAbout the role\nApollo assigns designers to our highest-leverage problems, and priorities are set quarterly. Current areas include developer onboarding, our core product interfaces, the design system, and emerging agentic products.\nYou\u2019ll work alongside our Head of Design, owning well-scoped problem areas end to end: understanding the users and the system behind them, shaping a v1 with engineering, and shipping polished, usable experiences. You\u2019ll bring a point of view to your work and help raise the craft bar across the team.\nWhat you\u2019ll do\nOwn design for defined workflows in our developer tools, from discovery through shipped experience.\nPartner day to day with engineers and PMs to shape what gets built, and bring a point of view on scope and trade-offs.\nScope v1s that deliver value quickly, then iterate based on usage and feedback.\nDesign for the details that make technical products trustworthy: states, edge cases, errors, and permissions.\nContribute reusable patterns and components to our design system, and help migrate product surfaces onto it.\nUse AI tools to prototype and test ideas quickly, and run lightweight usability tests when the cost of being wrong is high.\nTie your work to outcomes such as task completion, developer activation, or fewer support tickets from confusing flows.\nWho you are\nMinimum requirements\n5+ years designing software, with a focus on product or UX design.\nExperience designing complex products, ideally for technical users: developer tools, infrastructure, data, security, identity, or APIs.\nA track record of owning features or workflows end to end, from discovery through shipping.\nStrong visual design, interaction, and craft skills.\nComfortable working through ambiguity within a defined problem area.\nPreferred qualifications\nHave shipped developer-focused experiences, API tooling, or agent experiences.\nExperience contributing to a design system, and knowing when to work outside it.\nUse AI tools to prototype and explore ideas faster.\nAn engineering background, or comfort working in code.\nEqually comfortable thinking through a whole user journey and sweating the interaction details.\nApollo helps teams build, operate, and scale the graphs that power modern applications. If you\u2019ve streamed a show, booked a trip, or read the news online, there\u2019s a good chance Apollo was working quietly behind the scenes. We support some of the largest and most sophisticated GraphQL platforms in the world.\nBut we\u2019re not here just to maintain the status quo. Apollo is redefining how software teams build and ship - bringing clarity, speed, and leverage to increasingly complex systems. Our platform gives teams a single, coherent way to connect clients, services, and now AI-powered experiences, without drowning in endpoints or bespoke integrations.\nJust as importantly, we\u2019re building a company where ambitious people can do the best work of their careers. That means meaningful ownership, smart teammates, and tackling hard problems that actually matter. If you like moving fast, thinking deeply, and helping shape what comes next, you\u2019ll feel right at home here.\nG Product Designer at GoTymeX M Product Designer at MLabs T Staff Product Designer at Talkiatry m Senior Product Designer at mylo S Product Designer at Spate\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nServ",
+    "posted_at": "9h",
+    "priority": 5,
+    "first_seen": "2026-10-28T09:37:22.125856-07:00",
     "status": "active",
     "applied_at": null
   }
