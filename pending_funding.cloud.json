@@ -1,107 +1,62 @@
 [
   {
     "item": {
-      "company": "Plato",
-      "amount": "$16.0M",
-      "stage": "Series A",
-      "investors": "Nava Ventures&nbsp",
+      "company": "Cancore",
+      "amount": "$7.2M",
+      "stage": "Seed",
+      "investors": null,
       "location": null,
-      "blurb": "AI-training startup Plato raises $16M Series A led by Nava Ventures - Dealroom. AI-training startup Plato raises $16M Series A led by Nava Ventures&nbsp;&nbsp;Dealroom",
+      "blurb": "Cancore raises $7.2M in seed funding to connect tokenized assets to public blockchain liquidity. Cancore, a blockchain startup building infrastructure to connect tokenized financial assets with public blockchain liquidity, has raised $7.2 million in seed funding to address one of the biggest challenges in tokenized finance: moving capital between institutional blockchain networks and public [&#8230;]\nThe post Cancore raises $7.2M in seed funding to connect tokenized assets to public blockchain l",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/28/cancore-raises-7-2m-in-seed-funding-to-connect-tokenized-assets-to-public-blockchain-liquidity/",
+      "priority": 9
+    },
+    "remind_at": "2026-10-28T14:51:05.104617-07:00"
+  },
+  {
+    "item": {
+      "company": "Neocloud General Compute",
+      "amount": "$100.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Neocloud General Compute raises $100m in Series A funding round - Data Center Dynamics. Neocloud General Compute raises $100m in Series A funding round&nbsp;&nbsp;Data Center Dynamics",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXZCenZxWDJQNm16RVZKZmhBcXZmTFBzOHRIR3BCWnVrZ2dPY2gwOHB3ejdnV3kyamNvQzV2Y1VTclRRVHRHa2hSRVhhbVRvcld4RzNKekMtdjQ3aWdWVFZMX2hnWGZhQVRYeks3Qy0tcF9JeWhEUDJrSDlEdERrdkJnMUc0OUU5WWxhSjAtb29vVnRpemlfdDJXS090TG1sSXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbHJqNnJkbDQ5V21hVUo1TDFLTlh6S3FoMWlxWGZJcF9rU200cGs5ZFlYNUFzM0FYWkU2YXFLVUotVUNRN25kal9rZzYtYkxhdkQ2TjVCbHVoOGUxUEcxS1hxeVB3T3YxREdWSmRzc3lMYzVpbHlIcVA0MGk0R3haZEFFNjJtQm81SmlLSG5HTVRBakxjaEx4d29pRG80V0hwQmRwa2l0cjd0UQ?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-10-28T10:07:44.690190-07:00"
-  },
-  {
-    "item": {
-      "company": "Fragment",
-      "amount": "$56.0M",
-      "stage": null,
-      "investors": "General Catalyst",
-      "location": null,
-      "blurb": "Fragment raises $56M from 8VC, General Catalyst and A* to put AI agents on procurement exceptions. Pranav Mulgund was exposed to supply chain early in his career, later worked as a physics researcher, and&#8230;",
-      "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/fragment-56m-series-a-procurement-exceptions-ai-agents/",
-      "priority": 6
-    },
-    "remind_at": "2026-10-28T10:07:47.967026-07:00"
-  },
-  {
-    "item": {
-      "company": "Northstar",
-      "amount": "$7.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Northstar launches with $7M to give AI agents the context to act on security risks. Cybersecurity startup Northstar Security AI Inc. launched today with $7 million in new funding to give artificial intelligence agents the context they need to act on security risks. Northstar offers a platform that feeds data from a company&#8217;s existing security and information technology tools into a real-time Security Context Graph. A known vulnerability, an unmanaged [&#8230;]\nThe post Northstar launches w",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/28/northstar-launches-with-7m-to-give-ai-agents-the-context-to-act-on-security-risks/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-28T10:07:52.598849-07:00"
-  },
-  {
-    "item": {
-      "company": "Upwind",
-      "amount": "$400.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Cloud security startup Upwind raises $400M at $3.8B valuation as revenue quadruples. Cloud and artificial intelligence security startup Upwind Security Inc. today revealed that it has raised $400 million in new funding at a valuation of $3.8 billion. Reports in early September had the round at $300 million. By the time it closed, Upwind had taken in an additional $100 million, and the company used the announcement [&#8230;]\nThe post Cloud security startup Upwind raises $400M at $3.8B valuation a",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/28/cloud-security-startup-upwind-raises-400m-at-3-8b-valuation-as-revenue-quadruples/",
-      "priority": 3
-    },
-    "remind_at": "2026-10-28T10:07:56.075791-07:00"
+    "remind_at": "2026-10-28T14:51:11.535173-07:00"
   },
   {
     "item": {
       "company": "Flat SDR Headcount",
-      "amount": "$200.0B",
+      "amount": "$190.0B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Databricks CRO Ron Gabrisko: 5 Interesting Learnings on Selling at a $200B AI Company: Flat SDR Headcount, 6-10% Reply Rates, and Free Seats That Unlocked Consumption. Ron Gabrisko joined Databricks as CRO when it was doing under $1M in ARR. Databricks is now a ~$200 billion company doing $7B+ ARR growing at a pace like we have never seen before. Ron sat down with Sam Blond, co-founder of Monaco and former CRO of Brex, on the SaaStr AI Podcast. They last... Continue Reading",
+      "blurb": "Databricks CRO Ron Gabrisko: 5 Interesting Learnings on Selling at a $190B AI Company: Flat SDR Headcount, 6-10% Reply Rates, and Free Seats That Unlocked Consumption. Ron Gabrisko joined Databricks as CRO when it was doing under $1M in ARR. Databricks is now a $190 billion company doing $7B+ ARR growing at a pace like we have never seen before. Ron sat down with Sam Blond, co-founder of Monaco and former CRO of Brex, on the SaaStr AI Podcast. They last... Continue Reading",
       "founders": [],
       "source": "SaaStr",
       "url": "https://www.saastr.com/databricks-cro-ron-gabrisko-5-interesting-learnings-on-selling-at-a-200b-ai-company-flat-sdr-headcount-6-10-reply-rates-and-free-seats-that-unlocked-consumption/",
       "priority": 3
     },
-    "remind_at": "2026-10-28T10:08:01.853820-07:00"
+    "remind_at": "2026-10-28T14:51:17.007611-07:00"
   },
   {
     "item": {
-      "company": "Investors Double Down",
-      "amount": "$23.0M",
+      "company": "at Distinct Values",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Investors Double Down on Brellium With $23 Million for AI That Audits Every Note - Breaking News ABA. Investors Double Down on Brellium With $23 Million for AI That Audits Every Note&nbsp;&nbsp;Breaking News ABA",
+      "blurb": "AI Frenzy Sees Venture Capitalists Backing the Same Startup at Distinct Values - Bloomberg.com. AI Frenzy Sees Venture Capitalists Backing the Same Startup at Distinct Values&nbsp;&nbsp;Bloomberg.com",
       "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFVUZ0NoZlFvWlN1SWNPaUN2SHE1TWZkazRCUlR3UmdNMjlIejFrTWw5Z24yNXppbFprbzRrcHZRTjljVndrbThjd1N0X1hwRTh6dGNYNV9jTWcyRGwwZDhSNmkzOWFiUFJUMkZjZXJqME9qMEFIMm5kMFJkTFNJQmNlOEw?oc=5",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNVlha3FlbGMwZGxmTGM5blpYaWFkRGRaNlJfR2V4ejJLTWxmUHZSUTF2a0dFOTFFYWItcjFDbFJjMUlBalVQV0NYS3ZxbTVsZzhLNFVabGZwalJZLV9FeFc0UnRHbVpaa2hGRmJVbG5CUGN3V1c4TFBmalRfU1VtUDhLSUQ5Tm1EcG1vdS1jOXdVd2NHc0ZTOHVXR1ItT2MzMG9xMzdmYzczU0F1Yy1vV2gyY0xYSEpYb1RleGNJTjdaZFE2X2JqTUtB?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-10-28T10:08:09.394580-07:00"
-  },
-  {
-    "item": {
-      "company": "Casap",
-      "amount": "$56.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Financial AI startup Casap raises $56 million to help banks stop an explosion of customer fraud - Fortune. Financial AI startup Casap raises $56 million to help banks stop an explosion of customer fraud&nbsp;&nbsp;Fortune",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zVW5LU0VuODhsUllnUkN4V2pBQmN4bGhXVVBLLWJpQjJJMDNyRHJzYXFrSHhncHFQdHBuTTd0cVVfdFVvaWJPelVB?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-10-28T10:08:12.497249-07:00"
+    "remind_at": "2026-10-28T14:51:22.555664-07:00"
   }
 ]
