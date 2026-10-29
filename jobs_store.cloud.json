@@ -689,7 +689,7 @@
     "first_seen": "2026-09-24T05:17:52.701314-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "e625058339775322206312f0f24a20e5": {
@@ -710,7 +710,7 @@
     "first_seen": "2026-09-24T05:17:54.502271-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "621507666705255764ac4a74053c97c5": {
@@ -731,7 +731,7 @@
     "first_seen": "2026-09-24T10:26:01.232533-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "116ff82c2622e4d1240a78e55a260055": {
@@ -752,7 +752,7 @@
     "first_seen": "2026-09-24T10:26:03.142034-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "f5755c4d4879d808ae536504e43eb498": {
@@ -773,7 +773,7 @@
     "first_seen": "2026-09-24T13:38:14.460756-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00"
+    "checked_at": "2026-10-29T07:14:48.527828-07:00"
   },
   "240e613f86f51a1d7a50ccf37f4435cc": {
     "id": "240e613f86f51a1d7a50ccf37f4435cc",
@@ -2159,7 +2159,7 @@
     "first_seen": "2026-10-01T17:01:42.112198-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "8f1900a1743ac8553046a676d6d1f13f": {
@@ -2180,7 +2180,7 @@
     "first_seen": "2026-10-01T17:01:44.024355-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "06139a1e141a16e7a0ddc9c5ce28b3ed": {
@@ -2600,7 +2600,7 @@
     "first_seen": "2026-10-05T08:59:45.491665-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "b4c6ad471ee036c9880baf96ed96ad9c": {
@@ -2621,7 +2621,7 @@
     "first_seen": "2026-10-05T08:59:47.208740-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "f22d834424a32faf63ba2c036b42832c": {
@@ -2642,7 +2642,7 @@
     "first_seen": "2026-10-05T08:59:48.824863-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "d4d7d41ced439a64511d0db47e75808b": {
@@ -2663,7 +2663,7 @@
     "first_seen": "2026-10-05T08:59:50.524414-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "496c1b221e37c8f7cfb5d284d66b687a": {
@@ -2684,7 +2684,7 @@
     "first_seen": "2026-10-05T08:59:52.263199-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "926f19a55f28704f9fb515498704d3c2": {
@@ -2705,7 +2705,7 @@
     "first_seen": "2026-10-05T08:59:53.963797-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "6500c8e64fb9f702191c3f6e64a82c3d": {
@@ -2726,7 +2726,7 @@
     "first_seen": "2026-10-05T08:59:55.534317-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "2349a6896688dd963d350fd27595214c": {
@@ -2768,7 +2768,7 @@
     "first_seen": "2026-10-05T08:59:58.863639-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "bbfbd1a2b9deed417ef274f49eb2afac": {
@@ -2789,7 +2789,7 @@
     "first_seen": "2026-10-05T09:00:00.576084-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00"
+    "checked_at": "2026-10-29T07:14:48.527828-07:00"
   },
   "a0554122bc9c13d7b940fff828e4b7e1": {
     "id": "a0554122bc9c13d7b940fff828e4b7e1",
@@ -3102,7 +3102,7 @@
     "first_seen": "2026-10-06T08:57:06.004095-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "4a412be48de8116c0f5f0bba18b4560c": {
@@ -3396,7 +3396,7 @@
     "first_seen": "2026-10-07T12:32:43.698923-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "d2890c83d508b4cb474e153841862e25": {
@@ -3417,7 +3417,7 @@
     "first_seen": "2026-10-07T12:32:45.486989-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "efa67c30f789a724ab086ecfe28b9bba": {
@@ -3564,7 +3564,7 @@
     "first_seen": "2026-10-08T19:36:07.567925-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "a9a5d6e060149b2bae753dde42542a6e": {
@@ -4402,7 +4402,7 @@
     "first_seen": "2026-10-13T10:54:32.269823-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "87fe2efed863e887806dcafc5d61f45a": {
@@ -4528,7 +4528,7 @@
     "first_seen": "2026-10-14T13:17:15.489673-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "e505444d252c37290d4889063941da3c": {
@@ -4549,7 +4549,7 @@
     "first_seen": "2026-10-14T13:17:17.138319-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "ec6c0d22eda261690bfd26fee225658d": {
@@ -4633,7 +4633,7 @@
     "first_seen": "2026-10-15T15:51:16.535642-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "4ed36a62030d61f33bd7667f633c0fb6": {
@@ -5664,7 +5664,7 @@
     "first_seen": "2026-10-23T17:59:22.237669-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T21:31:16.778519-07:00",
+    "checked_at": "2026-10-29T07:14:48.527828-07:00",
     "dead_strikes": 0
   },
   "139211385ce3288c9dc4583dee842789": {
@@ -6492,6 +6492,120 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-10-28T18:07:48.074988-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "75db837f7c9edd21ce52781e5d6ab5ba": {
+    "id": "75db837f7c9edd21ce52781e5d6ab5ba",
+    "title": "Founding Product Designer",
+    "company": "Kernel",
+    "location": "London",
+    "salary": "\u00a3110,000 - \u00a3150,000",
+    "url": "https://uiuxjobsboard.com/job/1656926-founding-product-designer-london-united-kingdom",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Kernel is building that layer: the business registry for agents. We issue a permanent KERN ID for every business, plus the context an agent needs to act on it. Ops, data and revenue teams at Gong, Legora, Mistral, Canva and Checkout already use Kernel on their own systems. Agents are next, and there will be far more of them.\nWe have raised $20M from top VCs and operators at Plaid, OpenAI, Slack and others, and we are growing 5x YoY.\nThe role\nYou\u2019ll be Kernel\u2019s Founding Product Designer , shaping how people experience Kernel and building a product they\u2019ll love to use.\nYour mission: simplify complexity . Make a powerful product feel effortless: clearer workflows, sharper mental models, fewer decisions, more confidence.\nWhat you\u2019ll do\nOwn core UX end-to-end: flows, IA, interaction design, and visual craft.\nRun ground-truth discovery: lead user interviews, synthesize fast, turn insight into shipped changes.\nPrototype quickly: use whatever gets to a high-signal prototype (Figma, v0, Figma Make, code, etc.).\nShip with engineering + PM: tight loops, high quality in production, iterate fast.\nBuild the design foundation: principles, patterns, lightweight system - without slowing the team down.\n5% \u201cother stuff\u201d: occasional help with decks/narrative when it moves the business.\nFounding designer experience is a plus, but not a requirement - what matters most is that you have early-stage startup experience and can point to tangible examples of transforming a business through design.\nYou\u2019ve shipped meaningful product work and can walk through decisions + outcomes.\nYou\u2019re strong at simplifying complexity (not just polishing UI).\nYou can run discovery independently and get to the truth.\nYou move fast, communicate clearly, and collaborate tightly with engineers.\nYou have taste and execution: prototype \u2192 production details.\nWant fully remote work (we move faster in-person).\nWe will do our best to offer you a ride of a lifetime. It will not be easy, but it will be thrilling.\n\ud83d\udcbb Top-spec equipment and central London office\n\ud83d\ude80 Work directly with the founders to scale the systems that power enterprise AI\n\ud83c\udfc6 High-autonomy, high-trust environment with a small team shipping at pace\nWe sponsor visas for exceptional candidates and provide relocation support for those moving to London.\nStage 1: Introductory Call with Stefan (45 minutes)\nStage 2: Founding Team Conversation with Marcus (30 min)\nStage 3: Take-Home Assessment with Remote Working Session with Stefan & Sam (60 minutes)\nFinal Stage: Founders Interview - A conversation with Anders (CEO) and Marcus (co-founder) focused on values alignment and long-term vision (45 minutes).\nFollowing Mutual Fit: Reference checks and offer stage.\nP Senior Product Designer at PlayerZero M Product Design Lead at MoneyHero Group N Product Designer at Neon One P Product Designer at Plaid P Product Design Intern at Patreon\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nProduct Design Salary Guide Product Design Salary in London Product Design Salary in United Kingdom\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nRelated Jobs See more jobs from United Kingdom\nLexisNexis Legal is hiring Senior UX Researcher\nMEDvidi is hiring Staff Product Designer (AI Track)\nIhsan is hiring Product Designer \u2014 Mobile UX/UI & Motion",
+    "posted_at": "5h",
+    "priority": 4,
+    "first_seen": "2026-10-29T07:15:46.719604-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "58e168e6375f7920383ee14bb2071fd5": {
+    "id": "58e168e6375f7920383ee14bb2071fd5",
+    "title": "Product Designer",
+    "company": "Neon One",
+    "location": "Remote",
+    "salary": "$105,000 - $120,000",
+    "url": "https://uiuxjobsboard.com/job/1657426-remote-united-states-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Our culture is powered by empathy, innovation, and a shared mission to empower organizations making a difference. We operate with a customer-first mindset, take pride in extraordinary results, and grow together by supporting each other and embracing bold new ideas. If you\u2019re passionate about using your skills to drive real impact and want to thrive in a collaborative, fully remote environment, Neon One is the place for you.\nAbout the Role\nThe Product Designer will help design and build user-friendly experiences across Neon One\u2019s products. Working closely with Product Managers and Engineers, you\u2019ll take features from early research and design through prototyping and implementation.\nThis role combines product design with front-end development. You\u2019ll use customer feedback, design systems, and AI-powered tools to create intuitive, accessible, and consistent product experiences.\nLead the design of features within your area end to end, creating intuitive user flows, interactions, and states.\nConduct user research, participate in customer interviews, and run usability tests to gather feedback and inform design decisions.\nCreate visual designs and interactive prototypes to test ideas and improve usability.\nBuild interactive prototypes in code and accessible, production-ready front-end components using HTML, CSS, JavaScript or TypeScript, and React.\nUse AI-powered tools to support research, design exploration, prototyping, and front-end development.\nDesign AI and agentic experiences that build user trust, transparency, and control, following responsible AI and data practices.\nWork with Product Managers and Engineers to turn validated designs into production-ready features that balance customer needs, technical feasibility, and business goals.\nUse and contribute to Neon One\u2019s design system in both design files and code, including new components, variants, and usage guidance, and keep design and code in sync.\nApply WCAG 2.1 AA standards in every design and component, including keyboard navigation, focus management, and screen reader support.\nReview and refine implemented designs to maintain visual consistency, usability, and quality.\nCollaborate with cross-functional teams, share design decisions, and incorporate feedback to continuously improve the product.\n3+ years of experience in product design, design engineering, or a hybrid design and front-end development role.\nStrong design skills across user flows, interaction design, visual design, and prototyping.\nWorking proficiency in HTML, CSS, and JavaScript or TypeScript, with experience in modern frameworks such as React or Vue.\nFamiliarity with version control and code review.\nExperience with Figma or similar tools, and experience using and contributing to design systems and component libraries in both design files and code.\nHands-on experience using AI tools, including AI coding tools, to support design and development.\nFoundational UX research skills, including usability testing and incorporating feedback into design decisions.\nWorking knowledge of accessibility standards (WCAG) and assistive technology testing.\nA portfolio demonstrating end-to-end process, from research through shipped outcomes, including work built in code.\nStrong communication and collaboration skills, with the ability to work effectively with Product Managers and Engineers.\nExperience working in a B2B SaaS environment.\nAt Neon One, our values are how we show up every day. We make good happen by putting empathy and passion at the center of our work, using technology to uplift mission-driven organizations. We stand for our customers, act with care and intention in every decision, own the solution, and grow together. We innovate fearlessly, always exploring new ways to support our community and each other.\nWe use AI tools to support our recruitment process, including helping us organize applications and identify early matches based on role criteria. That said, every rejection decision is made by a human. We encoura",
+    "posted_at": "7h",
+    "priority": 5,
+    "first_seen": "2026-10-29T07:15:48.164285-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "d42823994e6b1fecaf88b69fdd955c22": {
+    "id": "d42823994e6b1fecaf88b69fdd955c22",
+    "title": "Product Design Intern",
+    "company": "Patreon",
+    "location": "New York",
+    "salary": "$97,760",
+    "url": "https://uiuxjobsboard.com/job/1657126-product-design-intern-new-york-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "This role is based in San Francisco or New York and open to those who are able to be in-office 3 days per week on a hybrid work model.\nOur summer internship is a 12-week program running May\u2013August 2027 or June\u2013September 2027 . This internship is designed for students graduating between December 2027 and June 2028 .\nAbout the Role\nMake an impact. You\u2019ll build and ship a feature that directly supports the creator economy and helps your favorite creators turn their passions into sustainable careers.\nCollaborate with the best. You\u2019ll be embedded within a world-class product team, working closely with engineers, product managers, data scientists, and other designers to bring your project to life.\nLearn and grow. With guidance from an experienced design mentor, you\u2019ll tackle design challenges, gain hands-on experience, and grow your skills throughout the internship.\nHave fun! Beyond building great products, you\u2019ll join an intern cohort in San Francisco or New York City and participate in professional development opportunities and fun events.\nAbout You\nCurrently pursuing a Bachelor\u2019s or Master\u2019s degree in Product Design, Interaction Design, UI/UX, Human-Computer Interaction (HCI), or a related field.\nYou have a creative portfolio that showcases your experience bridging thoughtful product strategy with design execution through user-centered design.\nFoundation in visual design, interaction design, and prototyping.\nYou\u2019re curious, enjoy experimenting with new ideas, and are excited to build from 0 to 1.\nEagerness to learn, adapt, and grow through feedback.\nGenuine passion for Patreon\u2019s mission and supporting the creator economy.\nPatreon powers creators to do what they love and get paid by the people who love what they do. Our team is passionate about making this mission and our core values come to life every day in our work. Through this work, our Patronauts:\nPut Creators First | They\u2019re the reason we\u2019re here. When creators win, we win.\nBuild with Craft | We sign our name to every deliverable, just like the creators we serve.\nMake it Happen | We don\u2019t quit. We learn and deliver.\nWin Together | We grow as individuals. We win as a team.\nWe hire talented and passionate people from different backgrounds because workplace diversity and inclusion is critical to our ability to serve creators worldwide. If you\u2019re excited about a role but your past experience doesn\u2019t match with every bullet point outlined above, we strongly encourage you to apply anyway. If you\u2019re a creator at heart, are energized by our mission, and share our company values, we\u2019d love to hear from you.\nPatreon is proud to be an equal opportunity employer. We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, veteran status, or any other protected class. If you need a reasonable accommodation during the interview process, please let us know via email at accomodations@patreon.\nPatreon operates under a hybrid work model, where engineering interns are expected to come into the office three days per week, excluding sick time and leave. The goal of this policy is to be intentional about the in-person time we spend together to strengthen the feeling of community at Patreon.\nAt Patreon, we believe in fair and transparent pay. In compliance with New York and California pay transparency laws, we are sharing the expected salary range for this role.\nThe posted salary range is dependent on the location and the level. This range may encompass multiple levels within the role\u2019s job family. The final offer will be based on candidate\u2019s experience, skills, competencies, and geographic location, aligning with the appropriate job level within Patreon\u2019s leveling framework.\nPatreon reserves the right to modify or update compensation and benefits at any time.\nFounding Product Designer at Kernel M Product Design Lead at MoneyHero Group N Product Designer at Neon One P Product Desig",
+    "posted_at": "9h",
+    "priority": 3,
+    "first_seen": "2026-10-29T07:15:49.708009-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "c68192488f5ffad93acd4d12205fb5c4": {
+    "id": "c68192488f5ffad93acd4d12205fb5c4",
+    "title": "Product Designer",
+    "company": "Pure",
+    "location": "New York",
+    "salary": "$100,000 - $250,000",
+    "url": "https://uiuxjobsboard.com/job/1657826-product-designer-new-york-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "About the role\nPure is looking for a Product Designer to shape how people experience our app, from first open to everyday use. You'll own features end to end: understanding the problem, mapping flows, designing polished interfaces in Figma, and working with engineers until it ships.\nYou'll work closely with product, engineering and our motion team, so the experience feels cohesive, playful and easy to use.\nWhat you'll do\nOwn features end to end, from problem definition and user flows to high-fidelity UI and handoff.\nDesign intuitive, polished interfaces for iOS, Android and web in Figma.\nCreate wireframes, user flows and interactive prototypes to explore ideas and test them quickly.\nRun lightweight user research and usability tests, and turn findings into design decisions.\nBuild and maintain our design system: components, styles, tokens and documentation.\nPartner with engineers through implementation, reviewing builds and polishing details until they ship.\nWork with the motion team to define how screens, interactions and transitions should feel.\n[3+] years designing digital products, ideally consumer mobile apps.\nA strong portfolio showing shipped work, your process and the reasoning behind your decisions.\nExpert-level Figma skills, including components, auto layout, variables and prototyping.\nStrong visual design craft: typography, layout, color and attention to detail.\nSolid UX fundamentals: information architecture, interaction design and usability.\nClear communication and comfort presenting, defending and iterating on your work.\nAbility to move quickly in a fast-paced environment.\nExperience designing for games, social or AI-powered products.\nMotion or prototyping skills (Rive, Protopie, After Effects).\nBasic front-end knowledge (HTML, CSS, React) to work smoothly with engineers.\nExperience building a design system from scratch.\nMedical, dental and vision insurance, with 100% of premiums covered by Pure, starting on your first day.\nUp to $60/day for other meals when in the office.\nPure is an equal opportunity employer. We consider all qualified applicants without regard to race, color, religion, sex, national origin, age, disability, sexual orientation, gender identity, veteran status, or any other status protected by applicable law.\nFounding Product Designer at Kernel M Product Design Lead at MoneyHero Group N Product Designer at Neon One P Product Designer at Plaid\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nProduct Design Salary Guide Product Design Salary in United States Product Design Salary in New York City\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nRelated Jobs See more jobs from United States\nMEDvidi is hiring Staff Product Designer (AI Track)\nIhsan is hiring Product Designer \u2014 Mobile UX/UI & Motion",
+    "posted_at": "9h",
+    "priority": 3,
+    "first_seen": "2026-10-29T07:15:51.383281-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "ea6f9284f50bfc77e775f631c7c2a350": {
+    "id": "ea6f9284f50bfc77e775f631c7c2a350",
+    "title": "Product UX Designer",
+    "company": "Finvari",
+    "location": "Seattle, WA",
+    "salary": "$170,000 - $250,000",
+    "url": "https://uiuxjobsboard.com/job/1657326-product-ux-designer-seattle-wa-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Stay current on design trends, tooling, and AI-assisted design workflows, and evaluate what's worth adopting\nPair directly with Product and Engineering from early discovery through development on large features and new products\nCo-own with product translating ambiguous problems and business requirements into clear, testable design\nPresent design rationale clearly to both technical and non-technical stakeholders, including leadership\nHelp grow our design team by mentoring other designers on systems thinking, craft, or domain knowledge and collaborating on process improvement\nSet the design vision for your product area and align it with overall company design strategy\nDesign end-to-end workflows for complex, multi-step financial processes (e.g., invoice approvals, multi-entity billing, vendor management, payment routing)\nSimplify dense, data-heavy interfaces without stripping out the nuance that matters for compliance or accuracy\nDesign trust and transparency into automated decisions and human-in-the-loop workflows\nConduct or partner on user research, usability testing, and interviews to validate design decisions before and after launch\nRepresent the user's perspective in roadmap and prioritization conversations\nLearn the unique challenges of the construction industry and connect with users from diverse backgrounds\nMinimum Qualifications:\nSelf-Motivated and enthusiastic about building great software for construction accounting\n5+ years experience as a product/UX designer on a B2B product\nExperience with Figma and/or other design tools\nOther experience (not required, we're happy for you to learn):\nAre passionate about solving complex challenges and helping others succeed.\nThrive in a dynamic, fast-paced environment where creativity and adaptability are key.\nEnjoy working with customers and product managers to translate their needs into actionable solutions.\nAre a proactive problem solver who takes ownership and delivers results.\nBelieve in the power of teamwork and open collaboration to drive impact.\nAre a curious, self-driven learner who likes the details.\nLike rolling up your sleeves and putting the customer first.\nWe want you to love your work, team and environment - this may not be a good fit if you:\nPrefer a highly structured, well-defined environment\nAre uncomfortable being the first to figure something out\nLeveling and compensation will be based on skills and experience.\n100% premium coverage for employee health insurance premiums and partial coverage for dependents.\nHealth Savings Account with a company contribution\nFlexible Spending Account Options: Health Care and Dependent Care\n11 paid company holidays plus generous Paid Time Off (PTO) policy\nPlus stock options so that you can participate in the company\u2019s success!\nAt this time, Finvari is not able to sponsor employment based visas such as H1-B. Candidates must be authorized to work lawfully in the United States.\nFinvari is an equal opportunity employer and welcomes applications from all suitably qualified persons regardless of their race, sex, disability, religion/belief, sexual orientation or age.\nIf you wish to communicate with us about any of our job postings, please contact [email\u00a0protected]\nS Product Designer at Shadow V Senior UX/UI Designer at Voldex A Senior Product Designer at Ande M UI/UX Designer at Moyasar C Digital Designer at Costello Medical\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUI/UX Design Salary Guide UI/UX Design Salary in United States UI/UX Design Salary in Seattle\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nRelated Jobs See more jobs from United States\nMEDvidi is hiring Staff Product Designer (AI Track)\nIhsan is hiring Product Designer \u2014 Mobile UX/UI & Motion",
+    "posted_at": "9h",
+    "priority": 3,
+    "first_seen": "2026-10-29T07:15:53.045738-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "22fc4e0ef1c908eac9ba7ec8f6a0a044": {
+    "id": "22fc4e0ef1c908eac9ba7ec8f6a0a044",
+    "title": "Brand Designer",
+    "company": "Dualentry",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/dualentry/3bc2e5cd-ce79-4427-b3d0-ab7f3c964558",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "ABOUT DUALENTRY\n\nDualEntry is building the OS for finance.\n\nEvery business needs a financial system of record, yet the world's largest fintech market ($220B+) still runs on software from the 1990s. DualEntry's AI-native ERP automates accounting from data entry to close, so finance teams move faster,",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-10-29T07:15:54.618309-07:00",
     "status": "active",
     "applied_at": null
   }
