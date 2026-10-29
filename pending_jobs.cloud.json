@@ -1,12 +1,12 @@
 [
   {
     "job": {
-      "title": "Product Designer",
-      "company": "Lovable",
-      "location": "London",
-      "url": "https://jobs.ashbyhq.com/lovable/cf78be5e-41ca-478a-b480-0d0839c24543",
+      "title": "Frontend Engineer - Design Systems",
+      "company": "Mercury",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6233910004",
       "salary": "Not listed",
-      "description": "TL;DR - We\u2019re looking for world-class product designers to help shape Lovable. You\u2019ll lead projects end-to-end, collaborating closely with engineering. We expect a broad range of design skills, and exceptional taste. You\u2019ll join a team at the forefront of AI, enabling anyone to create software.\n\n\n\n\n",
+      "description": "",
       "posted_at": "Recently",
       "source": "Startups.Gallery",
       "relevant": true,
@@ -14,6 +14,23 @@
       "is_big_tech": false,
       "visa": null
     },
-    "remind_at": "2026-10-28T14:50:43.250073-07:00"
+    "remind_at": "2026-10-28T18:37:47.007744-07:00"
+  },
+  {
+    "job": {
+      "title": "Brand Designer",
+      "company": "Thinkingmachines",
+      "location": "New York",
+      "url": "https://jobs.ashbyhq.com/ThinkingMachines/9ab3e86f-b636-4a75-867c-4ffd04d7b87d",
+      "salary": "Not listed",
+      "description": "ABOUT THINKING MACHINES\n\nThe mission of Thinking Machines is to build AI that extends human will and judgment. We are training frontier models with Inkling, developing Tinker to let people make models their own, and crafting interfaces that broaden human-AI communication. We believe the future worth",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-10-28T18:37:48.669613-07:00"
   }
 ]

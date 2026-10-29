@@ -143,7 +143,7 @@
     "first_seen": "2026-09-22T03:22:15.496251-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T16:59:44.894636-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "4d314eccce618ca81ff6869f45f7d0d7": {
@@ -248,7 +248,7 @@
     "first_seen": "2026-09-22T03:22:24.224681-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T16:59:44.894636-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "1edd106a29675674d38ab47075da871c": {
@@ -522,7 +522,7 @@
     "first_seen": "2026-09-23T01:12:52.104392-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T16:59:44.894636-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "9b3776b3b7c23d6a9a40218f80edcfec": {
@@ -543,7 +543,7 @@
     "first_seen": "2026-09-23T06:38:51.154849-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T16:59:44.894636-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "efc03e2d6473f748bee45db20c3389a0": {
@@ -564,7 +564,7 @@
     "first_seen": "2026-09-23T10:58:42.233068-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T16:59:44.894636-07:00"
+    "checked_at": "2026-10-28T18:06:46.180826-07:00"
   },
   "68d2ae500a30a47bf5f206ffcb01df0c": {
     "id": "68d2ae500a30a47bf5f206ffcb01df0c",
@@ -584,7 +584,7 @@
     "first_seen": "2026-09-23T10:58:45.509153-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T16:59:44.894636-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "27d9dffa4b36387f287ee83f2f8b55e7": {
@@ -1192,7 +1192,7 @@
     "first_seen": "2026-09-28T07:30:07.652048-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00"
+    "checked_at": "2026-10-28T18:06:46.180826-07:00"
   },
   "c9a4c8df018f48a8f46d5627827bd2a6": {
     "id": "c9a4c8df018f48a8f46d5627827bd2a6",
@@ -1212,7 +1212,7 @@
     "first_seen": "2026-09-28T07:30:11.391639-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "5e6d43dcd034d8d641e149b60ae4eae4": {
@@ -1233,7 +1233,7 @@
     "first_seen": "2026-09-28T07:30:13.235535-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "f3fa66f73fd78fee4d0a708d7effc8d3": {
@@ -1884,7 +1884,7 @@
     "first_seen": "2026-09-30T06:41:13.748417-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "0cfab41e2572d6071672702011fbabea": {
@@ -1905,7 +1905,7 @@
     "first_seen": "2026-09-30T06:41:15.307856-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "e2c0d715f3b14444a1de7ed0aa4bd064": {
@@ -1926,7 +1926,7 @@
     "first_seen": "2026-09-30T06:41:17.096576-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "3d3582687f9e0a47964cbdaa80fc9466": {
@@ -2138,7 +2138,7 @@
     "first_seen": "2026-10-01T13:16:53.123472-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "2a6dd976db11fd041c76dce30180eb91": {
@@ -2222,7 +2222,7 @@
     "first_seen": "2026-10-02T17:13:26.197709-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "bbb290d89c1f3690a7b38b5e1e5f1e43": {
@@ -2306,7 +2306,7 @@
     "first_seen": "2026-10-03T22:49:57.749488-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "860143327273372e54182a8b2c22f50b": {
@@ -2369,7 +2369,7 @@
     "first_seen": "2026-10-05T00:01:23.759932-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "b0e48c9b5684c5507e00d41ee374027e": {
@@ -3522,7 +3522,7 @@
     "first_seen": "2026-10-08T15:45:21.205449-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "fd6cb52fb1b2be65e05b370d1c97f060": {
@@ -3753,7 +3753,7 @@
     "first_seen": "2026-10-11T17:41:13.428107-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "0124364b37e61eee0057de47ca124bec": {
@@ -5222,7 +5222,7 @@
     "first_seen": "2026-10-20T07:30:08.050974-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "73bb8859aa6e08d14494188e2f52ff7e": {
@@ -5243,7 +5243,7 @@
     "first_seen": "2026-10-20T07:30:09.646653-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "f022810b16a990f72098b60b0d268194": {
@@ -5264,7 +5264,7 @@
     "first_seen": "2026-10-20T07:30:11.229244-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "8904e028dd2c3772ce1663dff14b5d0d": {
@@ -5601,7 +5601,7 @@
     "first_seen": "2026-10-23T12:28:13.031305-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "70a6f7402009d8bf2173e9c76aedb040": {
@@ -5622,7 +5622,7 @@
     "first_seen": "2026-10-23T12:28:14.637927-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "4b43f2183766f0d6541d85288b388d26": {
@@ -5643,7 +5643,7 @@
     "first_seen": "2026-10-23T12:28:16.244374-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-26T13:28:01.935748-07:00",
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
     "dead_strikes": 0
   },
   "f6f2ed4b6d4d72e126870fb147b1383c": {
@@ -5767,7 +5767,9 @@
     "priority": 5,
     "first_seen": "2026-10-25T14:59:04.924420-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-28T18:06:46.180826-07:00",
+    "dead_strikes": 0
   },
   "71e991b485b62642178461645d53cdee": {
     "id": "71e991b485b62642178461645d53cdee",
@@ -6452,6 +6454,44 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-10-28T14:20:42.686407-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "cf24d0027959b9241eb738bba4a152a1": {
+    "id": "cf24d0027959b9241eb738bba4a152a1",
+    "title": "Frontend Engineer - Design Systems",
+    "company": "Mercury",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6233910004",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States\nMercury's Design Systems team helps product teams build interfaces that feel consistent, accessible, and carefully considered. We're hiring a Frontend Engineer to help evolve the shared components and patterns behind those experiences, making it easier for teams across Mercury to turn good ideas into well-crafted software.\nYou'll work closely with designers and engineers to understand product needs, explore solutions, and carry improvements into the hands of the teams using them. This role is open to early-career and intermediate engineers. You'll build depth in frontend engineering and design systems through meaningful project ownership, with guidance from experienced teammates suited to your experience.\nDesign systems will be your initial focus within the team's broader Design Foundations work. As opportunities and interests align, you can also contribute to code-based prototyping and tools that help designers and AI agents work with Mercury's components. Strong AI fluency is part of how we build from the start.\nBuild shared components and patterns that make Mercury's interfaces better. You'll work in React and TypeScript, turning recurring product needs into flexible solutions that teams can use across different experiences.\nPartner with designers and product engineers to connect design intent with working software. Help evolve components and tokens across Figma and code, using feedback from real product work to improve the system.\nImprove the quality of the experiences built with our components. Consider how they look and behave for different users, bringing accessibility, thoughtful interactions, and reliable behavior into implementation and testing.\nMake the design system easier to use. Help teams adopt shared patterns and improve the examples, documentation, and workflows that let people build confidently with them.\nUse AI tools to explore approaches and move ideas into working code. Apply your judgment to what agents produce, test the results in context, and contribute useful approaches back to the team.\nWe're interested in what you've built and how you think. Your experience may come from professional work, internships, coursework, open source, or personal projects.\nA foundation in React, TypeScript, HTML, and CSS, with experience building interfaces and the ability to explain the decisions behind your code.\nCare for visual craft and how people use software, including an interest in accessible interfaces and the details that make interactions feel right.\nHands-on fluency with AI coding tools. You can provide useful context, evaluate and improve generated code, and verify that it works as intended.\nOwnership and a willingness to learn: you follow work through, communicate when you need help, and use feedback to improve your approach.\nCuriosity about reusable systems and the tradeoffs involved in serving different product needs with shared components.\nAn interest in solving problems alongside designers and engineers, contributing ideas, and understanding the needs behind a request.\nExperience with design systems, prototyping, or developer tooling is a plus. You don't need to have held a design systems role to bring useful skills and ideas to this team.\nIf this role interests you, we invite you to explore our public demo at demo.mercury.com .\n*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.\nMercury values diversity & belonging and is proud to be an Equal Employment Opportunity employer. All individuals seeking employment at Mercury are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected characteristic. We are committed to providing reasonable accommodations throughout the rec",
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-10-28T18:07:46.421375-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "2741544970fdc881dd63e5c13e10ccd8": {
+    "id": "2741544970fdc881dd63e5c13e10ccd8",
+    "title": "Brand Designer",
+    "company": "Thinkingmachines",
+    "location": "New York",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/ThinkingMachines/9ab3e86f-b636-4a75-867c-4ffd04d7b87d",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "ABOUT THINKING MACHINES\n\nThe mission of Thinking Machines is to build AI that extends human will and judgment. We are training frontier models with Inkling, developing Tinker to let people make models their own, and crafting interfaces that broaden human-AI communication. We believe the future worth",
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-10-28T18:07:48.074988-07:00",
     "status": "active",
     "applied_at": null
   }
