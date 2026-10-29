@@ -9802,5 +9802,37 @@
     "roles": [],
     "first_seen": "2026-10-29T12:43:26.103680-07:00",
     "status": "active"
+  },
+  "7d4fb68e64478bfa9b01dd7f78d19bc8": {
+    "id": "7d4fb68e64478bfa9b01dd7f78d19bc8",
+    "company": "Up",
+    "amount": "$5.8B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/10/29/binance-hacked-over-5-6-billion-in-crypto-reportedly-stolen-in-potentially-largest-ever-exchange-heist/",
+    "priority": 3,
+    "blurb": "Binance hack: Up to $5.8 billion in crypto reportedly stolen as Tether and Circle freeze funds amid investigation. Binance, the world&#8217;s largest cryptocurrency exchange, is investigating a suspected hack that may have exposed more than $5.6 billion in digital assets, potentially the biggest cryptocurrency theft in history. The suspected breach triggered a scramble among blockchain investigators and stablecoin [&#8230;]\nThe post Binance hack: Up to $5.8 billion in crypto reportedly stolen as",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-29T16:36:55.677295-07:00",
+    "status": "active"
+  },
+  "31ec7299e7a7ec8ea65645938a2bb663": {
+    "id": "31ec7299e7a7ec8ea65645938a2bb663",
+    "company": "Wabi",
+    "amount": "$55.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWI0WEhWVE9WZUtfekpYcnlQdkI5bm5SSTNyenA3Y2NtZHZjakhEZnNTM3hNMUdEX1Rjclc5X0pZRnVuYmFJSGZXRWtScXBoQjVOb2Z4MVZLQWowUGFvV2VjVXVKcG0wXzBmeG1CZUtEbHdfbFU1WVQ1ZGVtT05JTURrMUlDUmFoVXJoMGRBY0pTbEJHUXlwTEk2bXRHNmZLd2hZd0V1MVJTc3hFM0ZETjF3Q09ZZ2s?oc=5",
+    "priority": 3,
+    "blurb": "AI Assistant Startup Wabi Raises $55 Million at $1.25 Billion Value - Bloomberg.com. AI Assistant Startup Wabi Raises $55 Million at $1.25 Billion Value&nbsp;&nbsp;Bloomberg.com",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-29T16:36:58.491793-07:00",
+    "status": "active"
   }
 }

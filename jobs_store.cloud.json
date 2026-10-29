@@ -290,7 +290,7 @@
     "first_seen": "2026-09-22T03:22:27.646932-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T08:52:07.351513-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "cad3956d12d13da5e6f8be20ea78728d": {
@@ -793,7 +793,7 @@
     "first_seen": "2026-09-24T13:38:16.127427-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T08:52:07.351513-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "73237cd9463700cf877546641409be1d": {
@@ -835,7 +835,7 @@
     "first_seen": "2026-09-24T16:27:51.239906-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T08:52:07.351513-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "08db4b834c816c493d7f063a3055df9f": {
@@ -856,7 +856,7 @@
     "first_seen": "2026-09-24T16:27:52.844092-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T08:52:07.351513-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "14fec50e5aff7081f9aadbf149f20639": {
@@ -877,7 +877,7 @@
     "first_seen": "2026-09-25T05:14:48.936345-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T08:52:07.351513-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "76294d003296ac3c3dbb887cf12679be": {
@@ -2809,7 +2809,7 @@
     "first_seen": "2026-10-05T09:00:02.317654-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "f3853b3d5e1e247abaf22482c514f28f": {
@@ -2830,7 +2830,7 @@
     "first_seen": "2026-10-05T09:00:04.083004-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "90187358971f9219bf46156b1f1d8acb": {
@@ -2872,7 +2872,7 @@
     "first_seen": "2026-10-05T09:00:36.623251-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "0a581bcabb05b325dee204d5f12f2d58": {
@@ -2893,7 +2893,7 @@
     "first_seen": "2026-10-05T09:00:38.254248-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T08:52:07.351513-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "e1358debc2de849fc762e05987576e6a": {
@@ -2914,7 +2914,7 @@
     "first_seen": "2026-10-05T09:00:39.977968-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T08:52:07.351513-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "d6dc85cac0cb653d5b7fe56ef240f7d5": {
@@ -2935,7 +2935,7 @@
     "first_seen": "2026-10-05T09:00:41.743611-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T08:52:07.351513-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "b37e39d5902f3b50b074509261f1d9ad": {
@@ -3123,7 +3123,7 @@
     "first_seen": "2026-10-06T08:57:07.806601-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "b2a4ea9a7c95f5fcf8390dd0ea93d17e": {
@@ -3144,7 +3144,7 @@
     "first_seen": "2026-10-06T08:57:09.597537-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "c04435f2b60249b8547190b392c4aea6": {
@@ -3438,7 +3438,7 @@
     "first_seen": "2026-10-07T21:00:43.121369-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "ca861399d7d29ce5287a6adc986a1c49": {
@@ -3585,7 +3585,7 @@
     "first_seen": "2026-10-09T02:38:52.526659-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "f70862c797d91c4b84a29be375bccdb6": {
@@ -3606,7 +3606,7 @@
     "first_seen": "2026-10-09T09:35:42.023904-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "0cfdfff14010103e97eab724de63c087": {
@@ -3627,7 +3627,7 @@
     "first_seen": "2026-10-09T14:17:39.965292-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "a22652aedb72a2354e48db6b4ced0310": {
@@ -3774,7 +3774,7 @@
     "first_seen": "2026-10-12T09:07:54.179531-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "7539fd8485b9b9399f2c50dc3ebf5d59": {
@@ -4591,7 +4591,7 @@
     "first_seen": "2026-10-14T16:21:17.590923-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "283babf767e5dae0217ad28c561581bb": {
@@ -4717,7 +4717,7 @@
     "first_seen": "2026-10-19T01:24:24.386877-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "2b7b11180d97d1984ef9c0c6d04d6ba4": {
@@ -5495,7 +5495,7 @@
     "first_seen": "2026-10-22T03:39:24.099517-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "d88d9a58ac00541859e7767763296cc9": {
@@ -5516,7 +5516,7 @@
     "first_seen": "2026-10-22T03:39:26.285108-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-27T03:02:39.984102-07:00",
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
     "dead_strikes": 0
   },
   "96c7088298584a1044f5dc161ae79ff1": {
@@ -6312,7 +6312,9 @@
     "priority": 5,
     "first_seen": "2026-10-26T08:11:55.029274-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
+    "dead_strikes": 0
   },
   "235ca6dda60c2526f71c1d6cf98d0c2c": {
     "id": "235ca6dda60c2526f71c1d6cf98d0c2c",
@@ -6331,7 +6333,9 @@
     "priority": 1,
     "first_seen": "2026-10-26T08:11:56.584224-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
+    "dead_strikes": 0
   },
   "08311c6523c97fa434964d9e17ea7beb": {
     "id": "08311c6523c97fa434964d9e17ea7beb",
@@ -6351,7 +6355,9 @@
     "priority": 4,
     "first_seen": "2026-10-26T13:29:18.936424-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-29T16:35:18.669333-07:00",
+    "dead_strikes": 0
   },
   "ce48ba73f825a28cca5f8284362c0bc0": {
     "id": "ce48ba73f825a28cca5f8284362c0bc0",
@@ -6655,6 +6661,82 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-10-29T07:15:54.618309-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "12dd105389a1da2621452408fc4a45ff": {
+    "id": "12dd105389a1da2621452408fc4a45ff",
+    "title": "Brand Designer",
+    "company": "Thatch",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://weworkremotely.com/remote-jobs/thatch-brand-designer",
+    "source": "WeWorkRemotely",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Headquarters: United States\n    URL: https://thatch.com/\n\n\nAbout the role\nFor most people, health insurance happens to them: a plan chosen by someone else, with little room to fit their life. Thatch is changing that. We help companies give employees a healthcare budget instead of a one-size-fit",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-10-29T16:36:15.743838-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "01fc0aa3fd0ab2c16d84cd20d6a1aa9e": {
+    "id": "01fc0aa3fd0ab2c16d84cd20d6a1aa9e",
+    "title": "Edison Scientific is hiring for a position of Brand Designer in San Francisco, CA",
+    "company": "Edison Scientific",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://dribbble.com/jobs/311495-Brand-Designer?source=feed",
+    "source": "Dribbble",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "About Us\nEdison Scientific builds and deploys AI scientist agents to accelerate science and the development of new medicines. We are an ambitious team run by scientists and engineers from leading institutions across biology, physics, chemistry, and AI.\nAbout the Role\nWe're seeking a Designer to own the day-to-day creative execution that brings our brand to life. You'll be responsible for creating clear, compelling visual experiences across marketing, recruiting, events, executive communications, and company storytelling.\nOperating as a highly versatile designer, you'll transform high-level concepts into polished final deliverables, from event experiences and conference collateral to investor presentations, recruiting materials, and brand systems. You'll help define and maintain a visual identity that feels distinctly Edison.\nAs our design needs evolve, you'll also have opportunities to contribute to product design initiatives. Extensive product design experience is not required on day one, but curiosity and enthusiasm for growing in that direction are important given the broad scope of design at a fast-growing startup.\nThis role is based in San Francisco and works closely with operations, product and leadership.\nKey Responsibilities\nOwn design execution across brand, events, recruiting, marketing, and executive communications.\n\nCreate event collateral, conference experiences, signage, presentations, digital assets, recruiting materials, and marketing content that elevate the Edison brand.\n\nMaintain and evolve Edison's sophisticated, minimal visual identity, across every touchpoint.\n\nDevelop scalable templates, systems, and assets that allow great design work to be produced consistently and efficiently.\n\nUse AI to move faster, not to replace judgment.\n\nPick up product design work with Platform as bandwidth allows.\n\nRequired Qualifications\nTypically, 3-5 years of professional design experience with a portfolio that shows your range: brand identity, event/exhibit design, marketing collateral, and decks.\n\nExpert-level Figma and Adobe Creative Suite skills.\n\nA strong, defensible point of view on what \"good\" looks like, paired with tactful editing discipline.\n\nAbility to strip a design down to its essential elements rather than layering more on.\n\nComfort working fast and independently against ambiguous, time-sensitive requests.\n\nPreferred Qualifications\nMotion or 3D experience (After Effects, Blender, or Cinema 4D).\n\nPrior experience designing in-house for a fast-moving startup, where you owned output end to end.\n\nCuriosity about product design and/or early exposure to it.\n\nGenuine interest in Edison's mission and the life sciences space.",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-10-29T16:36:17.342287-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "7a8f567e4fbfcb122226830972fe88b4": {
+    "id": "7a8f567e4fbfcb122226830972fe88b4",
+    "title": "UX/UI Designer \u2013 Scientific Software",
+    "company": "See posting",
+    "location": "San Francisco Bay Area, CA",
+    "salary": "Not listed",
+    "url": "https://www.builtinsf.com/job/ux-ui-designer-scientific-software/11977268",
+    "source": "BuiltIn SF",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Design user-centered software experiences for cell analysis and laboratory automation. Conduct qualitative UX research, map scientific and laboratory workflows, create information architectures, prototypes, and interfaces, and translate user insights into product recommendations. Collaborate with sc",
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-10-29T16:36:18.986607-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "d0b9b9c6eca6fb4f022bf0ba5582aef0": {
+    "id": "d0b9b9c6eca6fb4f022bf0ba5582aef0",
+    "title": "UI/UX Designer Intern (Summer 2027)",
+    "company": "See posting",
+    "location": "San Francisco Bay Area, CA",
+    "salary": "Not listed",
+    "url": "https://www.builtinsf.com/job/ui-ux-designer-intern-summer-2027/11973698",
+    "source": "BuiltIn SF",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Supports the product design team in researching user needs, developing web-based UX/UI concepts, creating prototypes, improving design components, and maintaining the design library. Collaborates with product managers, customers, designers, and engineers; presents and defends design recommendations;",
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-10-29T16:36:20.669321-07:00",
     "status": "active",
     "applied_at": null
   }
