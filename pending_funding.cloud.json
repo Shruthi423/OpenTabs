@@ -1,152 +1,77 @@
 [
   {
     "item": {
-      "company": "Mintive",
+      "company": "Dalet Labs",
       "amount": "$7.0M",
-      "stage": "Seed",
-      "investors": "Cowboy Ventures",
-      "location": null,
-      "blurb": "Mintive Raises $7M Seed. Mintive raises $7M in a seed round led by Cowboy Ventures to expand its enterprise AI agent identity and governance platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/mintive-raises-7m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-30T03:10:21.735852-07:00"
-  },
-  {
-    "item": {
-      "company": "ShareWillow",
-      "amount": "$8.5M",
-      "stage": "Seed",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
-      "blurb": "ShareWillow Raises $8.5M Seed. ShareWillow raises $8.5M seed funding to expand its AI platform that links job performance and earnings for home service technicians.",
+      "blurb": "Dalet Labs raises $7M pre-seed to sell shopping via AI-image feeds - Dealroom. Dalet Labs raises $7M pre-seed to sell shopping via AI-image feeds&nbsp;&nbsp;Dealroom",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTlA1YUVlb1VRZDAyMXpqVHl4NzhMdEVQdmlrYmZ6OUtkc01FamI5b2JoUHM2MVRLUlVaU241elIycDVQTTdQU1BWcjY1a2s5ZExjTzRXOVl4UzdsZ0p0RkVWSXduamxZT0IwUnNBSmFvTk5IcjdldFVjRXRmR2tVTnA2WnRpcVJqUHNFUU10U1piMzVTMktpVjFDcm0zUHla?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-10-30T09:45:17.081450-07:00"
+  },
+  {
+    "item": {
+      "company": "Birch Hill",
+      "amount": "$4.0M",
+      "stage": "Seed",
+      "investors": "Multicoin Capital",
+      "location": null,
+      "blurb": "Birch Hill Raises $4M Seed. Birch Hill raises $4M seed round led by Multicoin Capital to build a regulated platform for bringing U.S. credit assets onchain.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sharewillow-raises-8-5m-seed/",
+      "url": "https://www.thesaasnews.com/news/birch-hill-raises-4m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-10-30T03:10:24.801335-07:00"
+    "remind_at": "2026-10-30T09:45:27.184830-07:00"
   },
   {
     "item": {
-      "company": "FluxCap",
-      "amount": "$6.4M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "FluxCap Raises $6.4M Seed. FluxCap raises $6.4M in seed funding to launch an AI-powered legaltech platform designed to help lawyers manage complex antitrust litigation.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/fluxcap-raises-6-4m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-30T03:10:27.742520-07:00"
-  },
-  {
-    "item": {
-      "company": "Pixel Systems",
-      "amount": "$3.1M",
-      "stage": "Seed",
-      "investors": "Unconventional Ventures",
-      "location": null,
-      "blurb": "Pixel Systems Raises $3.1M Seed. Pixel Systems raises $3.1M seed round led by Unconventional Ventures to scale its AI-powered digital content verification platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pixel-systems-raises-3-1m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-10-30T03:10:33.429493-07:00"
-  },
-  {
-    "item": {
-      "company": "a16z Backs Dream",
-      "amount": "$17.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "a16z Backs Dream, an AI Architect of Record, With $17M Seed - FourWeekMBA. a16z Backs Dream, an AI Architect of Record, With $17M Seed&nbsp;&nbsp;FourWeekMBA",
-      "founders": [],
-      "source": "First Round (news)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQmxza2ZGUHBvb0JPZTRuNXRaQVlhQnFmYTk0VG5qMUZRdjVPNXRfV21IY3hnMjVGajEzQzFmSlRXeWs3aTE3c2VRQ0dWdFpwc0NSaTN6Wk80UkVjTmhfMkpHTnVNaUxGMjNnbnNORmdRMWoxVFBoSTQ0MTZRcG5nVW91RWptS082cWRveg?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-10-30T03:10:39.158611-07:00"
-  },
-  {
-    "item": {
-      "company": "Midstream Health",
-      "amount": "$20.0M",
+      "company": "Manastu Space",
+      "amount": "$2.31M",
       "stage": "Series A",
       "investors": null,
       "location": null,
-      "blurb": "Midstream Health Raises $20M Series A. Midstream Health raises $20M Series A led by Valtruis to expand its AI-native financial operations platform for health systems.",
+      "blurb": "Manastu Space raises $2.31M in Series A extension for green satellite propulsion - Dealroom. Manastu Space raises $2.31M in Series A extension for green satellite propulsion&nbsp;&nbsp;Dealroom",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/midstream-health-raises-20m-series-a/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMnd2VlFjcm40OTFKNTVKTS15Uy03NWgwSW04UlVYelUyeUJsZHliVGpKMVdpWWRBcE95QjA2eGZQTEQydVpQeGZkdWtVYXFKRm5wbWVPX3lNaVJpUkV1U0thQWZJNy1IaWhpTHlsR1F6VEE2aWhxRlV0c3hwM29qVm9KYV9VdzJWTl9NeWJOTjNCaEVhRjRZWmFLNWdIT1Y1bk1pQWU3TU9DUHh4U2NOSm1CQQ?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-10-30T03:10:44.779093-07:00"
+    "remind_at": "2026-10-30T09:45:36.228354-07:00"
   },
   {
     "item": {
-      "company": "ALPHA10X",
-      "amount": "$5.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "ALPHA10X Raises $5M Pre-Series A. ALPHA10X raises $5 million in a Pre-Series A round led by Growth X Capital to scale its AI platform for private market investment decision-making.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/alpha10x-raises-5m-pre-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-10-30T03:10:47.737441-07:00"
-  },
-  {
-    "item": {
-      "company": "PhotonPay",
-      "amount": "$40.0M",
-      "stage": "Series C",
-      "investors": "Blockchain Capital",
-      "location": null,
-      "blurb": "PhotonPay Raises $40M Series C. PhotonPay raises $40M Series C led by Blockchain Capital to expand its stablecoin-focused financial operating system and cross-border payment infrastructure.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/photonpay-raises-40m-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-10-30T03:10:50.693614-07:00"
-  },
-  {
-    "item": {
-      "company": "CoverGo",
-      "amount": "$6.0M",
+      "company": "Microsoft",
+      "amount": "$25.0B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "CoverGo Raises $6M Series B1. CoverGo raises $6M in Series B1 funding led by Betatron Venture Group to accelerate development of its AI-native insurance technology platform.",
+      "blurb": "Microsoft to raise $25 billion in debt to fund AI expansion despite record revenue and 60,000 employee buyout offers. Microsoft is preparing to borrow $25 billion to support its growing AI infrastructure ambitions, just three days after offering voluntary buyouts to roughly 60,000 employees. The timing raises a bigger question about the AI boom: How much money will even [&#8230;]\nThe post Microsoft to raise $25 billion in debt to fund AI expansion despite record revenue and 60,000 employee buyou",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/covergo-raises-6m-series-b1/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/30/microsoft-to-raise-25-billion-in-debt-to-fund-ai-expansion-despite-record-revenue-and-60000-employee-buyout-offers/",
       "priority": 3
     },
-    "remind_at": "2026-10-30T03:10:54.279803-07:00"
+    "remind_at": "2026-10-30T09:45:39.155419-07:00"
   },
   {
     "item": {
-      "company": "SuperMe",
-      "amount": "$20.0M",
+      "company": "GTM",
+      "amount": "$5.66B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "SuperMe raises $20M for its network of AI expert profiles - TechCrunch. SuperMe raises $20M for its network of AI expert profiles&nbsp;&nbsp;TechCrunch",
+      "blurb": "The B2B Category the Markets \u201cHate\u201d the Most Today: GTM. Salesforce agreed the other day to buy Braze for $5.66 billion, 6.8x trailing revenue. In most of B2B that price would be unremarkable. In go-to-market software it&#8217;s a 58% premium, because Braze traded at 3.7x on Monday. I pulled the multiples for the public GTM and front-office apps and compared them with infrastructure and security.... Continue Reading",
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3F1bGUyUXZ0VldpNlVESHdNc0FmWXRrc0lPakpVaFNLU3l6WXp5bEhhX3RVRk1PM1NxLVRfa3JsMzZ0M05FYzYxQlVEcGdjMjlaSU5BcnU1dmtOOGNtSEMxcmdvcnE2RDBJcURNVjJjQnJrcmdQdjhNYU9aVXBHd2NGQkJhNUJ0c3k0X0NHR0pKejVjMnc?oc=5",
+      "source": "SaaStr",
+      "url": "https://www.saastr.com/the-b2b-category-the-markets-hate-the-most-today-gtm/",
       "priority": 3
     },
-    "remind_at": "2026-10-30T03:10:57.202313-07:00"
+    "remind_at": "2026-10-30T09:45:41.989960-07:00"
   }
 ]
