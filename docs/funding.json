@@ -1,5 +1,20 @@
 [
   {
+    "id": "7615f0ca4ae827fed53465ab711768bb",
+    "company": "Obsero",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeE1zelVkemlpeWJSS0pmTzRkMUdlNGVEd2F0Z3JUdmZ0OWZPZU95WWxyRS1SaTM1d1cyZ3JLdktTZHJIUVZ5TWx0dVF5SjJVUG9kWHZhRmxsWHotekZzUGdvM2stUnZOckRzOHd1NFNQbHIwNkRQLXctamFLM0tXZXU2cTJKYzdFVWNuYjdpM3JOS3ZsUjdVcmU4Z3dBelhRWDQw?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-30T13:50:29.421076-07:00",
+    "status": "active"
+  },
+  {
     "id": "fbb59c82535de352ccdd08e6673e695e",
     "company": "GTM",
     "amount": "$5.66B",
@@ -6906,57 +6921,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-09-29T15:30:26.629400-07:00",
-    "status": "active"
-  },
-  {
-    "id": "88a0876bea6cd13d1b8b6e05b0ccbdbf",
-    "company": "Anthropic",
-    "amount": "$8.2B",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "TechStartups",
-    "url": "https://techstartups.com/2026/09/29/top-tech-news-today-september-29-2026-anthropic-bytedance-google-meta-openai-samsung-more/",
-    "priority": 3,
-    "founders": [],
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "roles": [
-      {
-        "title": "Product Designer, Claude Developer Platform",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397654008",
-        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
-      },
-      {
-        "title": "Product Designer, Design Systems",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428124008",
-        "location": "San Francisco, CA"
-      },
-      {
-        "title": "Product Designer, Safeguards",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008",
-        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
-      },
-      {
-        "title": "User Experience Researcher, Platform",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392007008",
-        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
-      }
-    ],
-    "first_seen": "2026-09-29T11:26:31.743284-07:00",
-    "status": "active"
-  },
-  {
-    "id": "2d0d8c93f1cae6a0d85a5540da53210b",
-    "company": "Peak XV",
-    "amount": "$5.0M",
-    "stage": "Seed",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDVuRlg5SnF2OFprVDRZQkZ1b0RkYUtIUmJHdTB4cXl4ZFJJZGZXRFNrbExhSXFobmdLcDFKeE1DNG1ZNW1KUEFMNnFGRzBETEFkQXRmOUVyM2J2N29SWVdEN3gwczNJRjBraXBjTjN4QXF4bVhYWUxCUW1yMW5JdTRjQVNoV294M3BmbEN1RFRtWGlS?oc=5",
-    "priority": 9,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-09-29T11:26:28.308974-07:00",
     "status": "active"
   }
 ]
