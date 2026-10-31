@@ -143,7 +143,7 @@
     "first_seen": "2026-09-22T03:22:15.496251-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T18:06:46.180826-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "4d314eccce618ca81ff6869f45f7d0d7": {
@@ -248,7 +248,7 @@
     "first_seen": "2026-09-22T03:22:24.224681-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T18:06:46.180826-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "1edd106a29675674d38ab47075da871c": {
@@ -522,7 +522,7 @@
     "first_seen": "2026-09-23T01:12:52.104392-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T18:06:46.180826-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "9b3776b3b7c23d6a9a40218f80edcfec": {
@@ -543,7 +543,7 @@
     "first_seen": "2026-09-23T06:38:51.154849-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T18:06:46.180826-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "efc03e2d6473f748bee45db20c3389a0": {
@@ -564,7 +564,7 @@
     "first_seen": "2026-09-23T10:58:42.233068-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T18:06:46.180826-07:00"
+    "checked_at": "2026-10-31T05:21:27.751061-07:00"
   },
   "68d2ae500a30a47bf5f206ffcb01df0c": {
     "id": "68d2ae500a30a47bf5f206ffcb01df0c",
@@ -584,7 +584,7 @@
     "first_seen": "2026-09-23T10:58:45.509153-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T18:06:46.180826-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "27d9dffa4b36387f287ee83f2f8b55e7": {
@@ -1192,7 +1192,7 @@
     "first_seen": "2026-09-28T07:30:07.652048-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T18:06:46.180826-07:00"
+    "checked_at": "2026-10-31T05:21:27.751061-07:00"
   },
   "c9a4c8df018f48a8f46d5627827bd2a6": {
     "id": "c9a4c8df018f48a8f46d5627827bd2a6",
@@ -1212,7 +1212,7 @@
     "first_seen": "2026-09-28T07:30:11.391639-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T18:06:46.180826-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "5e6d43dcd034d8d641e149b60ae4eae4": {
@@ -1233,7 +1233,7 @@
     "first_seen": "2026-09-28T07:30:13.235535-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T18:06:46.180826-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "f3fa66f73fd78fee4d0a708d7effc8d3": {
@@ -1884,7 +1884,7 @@
     "first_seen": "2026-09-30T06:41:13.748417-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T18:06:46.180826-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "0cfab41e2572d6071672702011fbabea": {
@@ -1905,7 +1905,7 @@
     "first_seen": "2026-09-30T06:41:15.307856-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T18:06:46.180826-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "e2c0d715f3b14444a1de7ed0aa4bd064": {
@@ -1926,7 +1926,7 @@
     "first_seen": "2026-09-30T06:41:17.096576-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T18:06:46.180826-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "3d3582687f9e0a47964cbdaa80fc9466": {
@@ -2138,7 +2138,7 @@
     "first_seen": "2026-10-01T13:16:53.123472-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T18:06:46.180826-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "2a6dd976db11fd041c76dce30180eb91": {
@@ -3270,7 +3270,7 @@
     "first_seen": "2026-10-07T06:42:02.153454-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T14:19:43.908636-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "c49ac8b4f3c90ceb14322ce8e444d0ce": {
@@ -3291,7 +3291,7 @@
     "first_seen": "2026-10-07T06:42:03.930900-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T14:19:43.908636-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "b1e27b64c972c940e80456788a9d1205": {
@@ -3312,7 +3312,7 @@
     "first_seen": "2026-10-07T06:42:05.718774-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T14:19:43.908636-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "c1727041f5dc8cd3140b063705223cc2": {
@@ -3333,7 +3333,7 @@
     "first_seen": "2026-10-07T12:32:38.680159-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T14:19:43.908636-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "e9c0244391bafdc83af39404fe67b278": {
@@ -3480,7 +3480,7 @@
     "first_seen": "2026-10-08T15:45:17.879732-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T14:19:43.908636-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "689d05191ec1fcce227b05079f87f19d": {
@@ -3501,7 +3501,7 @@
     "first_seen": "2026-10-08T15:45:19.511364-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T14:19:43.908636-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "a2f8f84acc32450cbbec237ff3ee8c14": {
@@ -4612,7 +4612,7 @@
     "first_seen": "2026-10-15T09:08:55.675108-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T14:19:43.908636-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "05cd34841729cf600d3f054fb0be51e1": {
@@ -5411,7 +5411,7 @@
     "first_seen": "2026-10-21T12:18:40.760858-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T14:19:43.908636-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "d107e0ec41bbe69e1977fc8ab44c5636": {
@@ -5432,7 +5432,7 @@
     "first_seen": "2026-10-21T12:18:42.442095-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T14:19:43.908636-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "44a220f7c51922d3b4f2eefed02f7c59": {
@@ -5453,7 +5453,7 @@
     "first_seen": "2026-10-21T12:18:44.201220-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T14:19:43.908636-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "09411203aaebf75d7991cad552c35044": {
@@ -5580,7 +5580,7 @@
     "first_seen": "2026-10-23T03:32:39.482154-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-28T14:19:43.908636-07:00",
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
     "dead_strikes": 0
   },
   "fa778487709de930c72a5f65d89f1d9d": {
@@ -6461,7 +6461,9 @@
     "priority": 1,
     "first_seen": "2026-10-28T03:02:57.703597-07:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "dead_strikes": 0
   },
   "4ccd36022f43f8c318527e0ef6dafab8": {
     "id": "4ccd36022f43f8c318527e0ef6dafab8",
@@ -6821,6 +6823,25 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-10-30T13:50:06.174683-07:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "db19cb75fed34ad2fd77c8476a965fe3": {
+    "id": "db19cb75fed34ad2fd77c8476a965fe3",
+    "title": "Conversational AI UX Writer",
+    "company": "Maven Clinic",
+    "location": "Remote",
+    "salary": "$93,600 - $104,000",
+    "url": "https://uiuxjobsboard.com/job/1658626-remote-united-states-conversational-ai-ux-writer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Fortune Best Workplaces for Millennials (2024)\nFortune Best Workplaces in Health Care (2024)\nFast Company Most Innovative Companies (2020, 2023)\nFortune Best Workplaces NY (2020, 2021, 2022, 2023, 2024)\nAbout the Role:\nWe\u2019re looking for a conversational AI UX writer and voice partner who can define what Maven\u2019s product and AI agents sounds like. You\u2019ll be the expert eye on the language across our product\u2014from navigation to CTAs, clinical modules to our AI agents: calling out when copy could be clearer or more compelling, or an agent response is too clinical, emotional, or complex. You\u2019ll also help shape how we position and showcase AI in the product, including how we educate members about it and how we write disclaimers. Just as importantly, you\u2019ll write and refine UX copy for core member experiences, such as care plan screens and AI agent intro and onboarding screens.\nThis is a hands-on, high-autonomy role for someone who has worked in both UX product copy and conversational AI and understands the nuances of prompting and its limitations. You will partner directly with Engineering, who owns prompts and configuration, as well as Clinical and Product to bring a single, consistent point of view on voice, tone, taxonomy and language, and to hold a high bar for usability, clinical integrity, clarity, and the right amount of empathy in a health context.\nThis position is expected to last 3 months, with the potential to extend based on business needs and fit. The expected commitment is 20 hours per week.\nWhat You\u2019ll Do:\nReview real AI agent conversations and give expert feedback on tone, emotional register, reading level, and word choice (e.g., \u201cthis is too emotional,\u201d \u201clet\u2019s use simpler words to explain this,\u201d \u201cwe missed a chance to be more empathetic\u201d)\nDefine and champion what AI at Maven sounds like, translating our brand voice into clear language principles that work within the realities and limits of LLM-generated responses\nSynthesize voice and language feedback coming from many places (Clinical, Product, Engineering, Brand, coaches) into a clear, prioritized set of themes, and act as the decision-maker when the team needs one voice\nWork with Clinical and Engineering to find conversations where a theme went well and where it didn\u2019t, workshop them with users, and distill the findings into what Engineering needs to improve prompts and evaluations (Engineering owns prompts and configuration)\nAdvise on the anatomy of agent responses (e.g., when to offer options, when to ask a follow-up question, how to structure a reply) and recommend patterns for Engineering and Clinical to implement and approve\nPartner with product, engineering, clinical, and legal/compliance teams to translate requirements into clear language guidance\nPosition how we showcase AI in the product, including how we introduce AI to members, how we handle education, and how we write disclaimers and expectation-setting language\nWrite and refine UX copy for in-product experiences such as care plan screens, AI agent intro and onboarding screens, navigation and CTAs, empty and error states, and in-app education\nCraft language that is empowering and action-oriented, balancing clinical accuracy and compliance with a human, non-alarming Maven-branded tone\nWork within design systems and with product designers to balance copy density, hierarchy, and usability\nName products, features, programs, and agents as needed, using a structured approach to generating, screening, and recommending names with rationale\nWork closely and directly with the Member Copy, Comms & Content team, clinicians, product managers, designers, and engineers\nExpected to attend weekly check-in meetings; as well as brainstorm sessions as needed\nDocument your approach (voice and tone principles, language patterns, conversation theme summaries, naming frameworks) and share a summary of what changed whenever updates go out, so the team can continue to build on it\n5+ years of experience in UX writing or product co",
+    "posted_at": "6h",
+    "priority": 5,
+    "first_seen": "2026-10-31T05:22:31.031190-07:00",
     "status": "active",
     "applied_at": null
   }
