@@ -1,5 +1,35 @@
 [
   {
+    "id": "52f6ef51bf72c6fb0d0e62e7d5572532",
+    "company": "NAVER",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SNTRnNHZUc1hLcHpmU1hyLWY4QU1zRkNXeUVEQmFjSzhuNWdPZkR6dmhsX3BLOHpkN0dZMzhERXJyT3dlODh4OXd1ZW5sdWNUYXdN?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-31T19:39:36.109291-07:00",
+    "status": "active"
+  },
+  {
+    "id": "bb110ca9f1b2c004287ba4f6aa50d16d",
+    "company": "Surghive",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXVlZXE1TGE1ZllZMDdOZk1CenozNVRwMVZ1Wlo5QjA5aHVNdDRPb3M2NjlqWUw1QUpRTmQtUms5SUdNVWJQU0hvSmZQNkNodlRpc0x6YW12OFpNQjJhSlczVlAwYzVDeWw5RmFTRllFaTUwMEYybDlMaXhwVHlYSDZ1QkV0WnZfWGU0d3BqaWFhY0k3c3Z6LVpJTXJQY1BuSlY2NEpIaW9sNmxwOHc?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-10-31T19:39:33.260927-07:00",
+    "status": "active"
+  },
+  {
     "id": "09b5a0642fd8a7d3da1447b3c4cb7754",
     "company": "Even OpenAI",
     "amount": "$10.0B",
