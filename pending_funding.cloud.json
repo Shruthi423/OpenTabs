@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "item": {
+      "company": "Marble Cognition",
+      "amount": "$3.75M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Marble Cognition raises $3.75M for its AI agent workers that watch and learn how people work. Artificial intelligence agents have become two a penny in the enterprise today, but just because they\u2019re rapidly being commoditized does not mean organizations know how best to use them. That&#8217;s the challenge a startup called Marble Cognition is trying to solve after raising $3.75 million in pre-seed funding to coincide with its launch today. The [&#8230;]\nThe post Marble Cognition raises $3.75M fo",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/02/marble-cognition-raises-3-75m-for-its-ai-agent-workers-that-watch-and-learn-how-people-work/",
+      "priority": 10
+    },
+    "remind_at": "2026-11-02T04:28:22.350721-08:00"
+  },
+  {
+    "item": {
+      "company": "Talent Nation",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": "Enza Capital",
+      "location": null,
+      "blurb": "Talent Nation Raises Pre-Seed Funding. Talent Nation raises a pre-seed round from investors including Enza Capital and LocalGlobe to expand its AI engineering training programs across Africa.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/talent-nation-raises-pre-seed-funding/",
+      "priority": 10
+    },
+    "remind_at": "2026-11-02T04:28:28.277178-08:00"
+  },
+  {
+    "item": {
+      "company": "Dispatch",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Dispatch raises $527K pre-seed to build AI layer for last-mile delivery - Dealroom. Dispatch raises $527K pre-seed to build AI layer for last-mile delivery&nbsp;&nbsp;Dealroom",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2pQUVBMaUI0SW10R1ZPQVVZSmdnU3dneXJQQ3d3WkdmZXBQUmFpbEZKUXVsaVQyTGhhXzdBMWVmd1Z2bEJwWXl0WjU3aW5KWHE4LTJGcldXTnlWNUpwVEJnaDdpR05tMkRNRmw5SXBEamJYRXp1QnVyRWhGamdDN1JXMk9jSXBrbzNNT1FVdGJmbGIyOGJYX1FsLXZuOEppZENwSVBvOA?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-11-02T04:28:31.399767-08:00"
+  },
+  {
+    "item": {
+      "company": "Neuron Industries",
+      "amount": "$10.0M",
+      "stage": "Seed",
+      "investors": "Obvious Ventures",
+      "location": null,
+      "blurb": "Neuron Industries Raises $10M Seed. Neuron Industries raises $10 million in a seed round led by FCVC and Obvious Ventures to accelerate its AI-native industrial control software and hardware.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/neuron-industries-raises-10m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-02T04:28:37.116130-08:00"
+  },
+  {
+    "item": {
+      "company": "&Truth",
+      "amount": "$70.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "&Truth Raises $70M Seed. &amp;Truth raises $70M in seed funding to build a universal verification machine that mathematically proves the safety and correctness of software code.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/truth-raises-70m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-02T04:28:40.124935-08:00"
+  },
+  {
+    "item": {
+      "company": "Pathfinder",
+      "amount": "$12.0M",
+      "stage": "Series A",
+      "investors": "Portage Ventures",
+      "location": null,
+      "blurb": "Pathfinder Raises $12M Series A. Pathfinder raises $12 million in Series A funding led by Portage Ventures to scale its fintech platform for managing Education Savings Account funds.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/pathfinder-raises-12m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-11-02T04:28:43.294639-08:00"
+  },
+  {
+    "item": {
+      "company": "Lumaril",
+      "amount": "$66.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Lumaril Raises $66M Series A. Lumaril raises $66M Series A led by Elad Gil to scale its industrial AI platform that digitizes operator knowledge for manufacturing efficiency.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/lumaril-raises-66m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-11-02T04:28:46.235825-08:00"
+  },
+  {
+    "item": {
+      "company": "Cloud Firm",
+      "amount": "$100.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": "Los Angeles",
+      "blurb": "Cloud Firm Lands $100M Series A - Los Angeles Business Journal. Cloud Firm Lands $100M Series A&nbsp;&nbsp;Los Angeles Business Journal",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4talBPUWZRRUpGRnhYNm9rc2hQY0FmcmtnaTB3Z3RoZ3ZueTI0MnNKRkJTNWhtMlhRQktRZmhQZWxFZUZsSi15bVFWcXNiUUIwTHJaOFNQWkF0V3F5YVM5SjNWSlA2d3V0azh0OTYyb2FwWkhDXzdaaFZVb2w?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-11-02T04:28:52.536442-08:00"
+  },
+  {
+    "item": {
+      "company": "CYTO",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "CYTO Raises $40,000 Angel Funding. Angolan fintech CYTO raises $40,000 in angel funding to expand its financial automation platform for invoice management and tax compliance.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/cyto-raises-40000-angel-funding/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-02T04:28:55.432675-08:00"
+  },
+  {
+    "item": {
+      "company": "AvalonX",
+      "amount": "$10.0M",
+      "stage": null,
+      "investors": "Ridown Capital",
+      "location": null,
+      "blurb": "AvalonX Raises $10M in Funding. AvalonX raises $10M in funding from Ridown Capital to provide continuous AI-powered penetration testing for small and midsize businesses.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/avalonx-raises-10m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-02T04:28:59.057027-08:00"
+  },
+  {
+    "item": {
+      "company": "Verisma",
+      "amount": null,
+      "stage": null,
+      "investors": "Golub Capital",
+      "location": null,
+      "blurb": "Verisma Announces Financing. Verisma secures new debt financing from Golub Capital to accelerate growth, enhance its technology platform, and pursue strategic acquisition opportunities.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/verisma-announces-financing/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-02T04:29:01.867058-08:00"
+  },
+  {
+    "item": {
+      "company": "PredictPro",
+      "amount": "$4.0M",
+      "stage": null,
+      "investors": "Becker Ventures",
+      "location": null,
+      "blurb": "PredictPro Raises $4M Strategic Investment. PredictPro raises $4M in a strategic investment round from DuckDAO, Becker Ventures, and M2M Capital to scale its AI-powered prediction-market platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/predictpro-raises-4m-strategic-investment/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-02T04:29:04.817256-08:00"
+  }
+]
