@@ -1,5 +1,65 @@
 [
   {
+    "id": "99d1c85bba9d9ac7ef50bde7254e67a8",
+    "company": "Clinics",
+    "amount": "Undisclosed",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzUwQWRVSEwxUGhyWEh1QmxyN1p3bWVKQ1V0OFdkTXZwaHdwR09MZlhTTExKMVF0UHItSTl3M3o4VkhHRUp6S3VSaG5tLTBMS04zWXdHMU10dnU1Ty1pakdYMEp3ZDBUMWItNnhOZjc1OUhVZEI3VnVkenVlYVZscjhIZDBtVmFfeUg2bklwYTdtT0x0RVppRE45bHVOOEN4NE9vMTV30gGmAUFVX3lxTFBLNTBBZFVITDFQaHJYSHVCbHI3WndtZUpDVXQ4V2RNdnBod3BHT0xmWFNMTEoxUXRQci1JOXczejhWSEdFSnpLdVJobm0tMExLTjNZd0cxTXR2dTVPLWlqR1gwSndkMFQxYi02eE5mNzU5SFVkQjdWdWR6dWVhVmxyOEhkMG1WYV95SDZuSXBhN21PTHRFWmlETjlsdU44Q3g0T28xNXc?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-02T13:20:35.189442-08:00",
+    "status": "active"
+  },
+  {
+    "id": "e87de0a0369f3742b55dde78a7d86d3e",
+    "company": "GenRobot AI",
+    "amount": "$100.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjIzTjU1OUtrZDVXNmZrU2lfSnlNODZIdlg5c3J1UTBCTnp1bFhrcWNUdXRNS1c1aXlCT2hjek5fbTZtSEZ6c01SNFYxOWg4REhVNV8tdnNQV2xOTzdtNlhnY1BMUTBKV1FPX1V1SE5PdUxhZGRKV04xZDRpV3lmZHpnanJJcnpUUDFMM3E1QWZndU1uVlBLZXdjN19wbk1seVdRQU1UR2p1SFVVZGc4Yg?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-02T13:20:20.618961-08:00",
+    "status": "active"
+  },
+  {
+    "id": "7e5e4758cd597d1ef983e9225dab6931",
+    "company": "Larridin",
+    "amount": "$30.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRS14OGNER2dRT3Q2eE40aUJJb0t6ZjhSYWVxRkhkcGhZTEJhUmNVU1p0TzVDSU50RHYzVmQ1anpsNUk0VVhnZC1tdWRIaE5NaTg0Q1RXaFNiS0pJUFNMWGhhRVc4bm5wZjBTR0Mta0pPZ2RvMkprMWdScGI2MEJOUE80MTNDX1RoVHJRTThMckFITllVbjV6YVFOQTRBbEMyNGZsMW0wWjdidW5xT09TVHhLcjUwWU9v?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-02T13:20:17.741964-08:00",
+    "status": "active"
+  },
+  {
+    "id": "ae7d55a400a75fc0c30254705fefcb5c",
+    "company": "Tutor Intelligence",
+    "amount": "$75.0M",
+    "stage": "Series B",
+    "investors": "Andreessen Horowitz",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclhxcTVBZFRDUzhsT3NocFUxNG4xNmFtSkxCdC03THhZSTgyTjJQTFZZdW5ueWpsbVJpOWJaT09EbnphWFFoSlozN05Zc2xrSVhCQ0Y4T3hoVVh2TTZsQThSSl9lUFlxT1JGN05TVXV1c01VZEFBUEJZZGhzWDk4bUFjaEtfMGc0QXJ2UWswWndUY2pTb2VlNzkyY29LTUVWWVE?oc=5",
+    "priority": 10,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-02T13:20:11.859938-08:00",
+    "status": "active"
+  },
+  {
     "id": "3c40edf90edf5ad499d5a1c33c120e26",
     "company": "PredictPro",
     "amount": "$4.0M",
@@ -6298,21 +6358,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-10-03T03:31:48.578366-07:00",
-    "status": "active"
-  },
-  {
-    "id": "0197b6f31b520c14c0f28f4d1bc47903",
-    "company": "Amazon",
-    "amount": "$8.0B",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "TechStartups",
-    "url": "https://techstartups.com/2026/10/02/amazon-seeks-to-offload-8-billion-in-nvidia-ai-chips-to-investors-as-big-tech-turns-to-wall-street-for-ai-compute-financing/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-02T09:38:52.580854-07:00",
     "status": "active"
   }
 ]
