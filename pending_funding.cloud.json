@@ -1,62 +1,62 @@
 [
   {
     "item": {
-      "company": "Athena",
-      "amount": "$2.5M",
-      "stage": "Pre-Seed",
-      "investors": "Andreessen Horowitz\u2019s accelerator program, a",
+      "company": "Freshworks CEO",
+      "amount": "$1.0B",
+      "stage": null,
+      "investors": null,
       "location": null,
-      "blurb": "Startup Athena raises $2.5M in pre-seed funding to revamp the revenue model for legal AI. Athena Circle Corp., an artificial intelligence-native legal technology startup that\u2019s automating the nitty gritty of commercial real estate deals, said today it has raised $2.5 million in pre-seed funding. The round was led by Andreessen Horowitz\u2019s accelerator program, a16z Speedrun. No other investors were named. Legal AI technology is nothing new, but its adoption in [&#8230;]\nThe post Startup Athena rai",
+      "blurb": "\u2018You have to be willing to make those hard choices\u2019: Freshworks CEO on crossing $1 billion in ARR with 30% fewer employees in the AI software age. Freshworks killed \u201c$5 million ideas\u201d and moved early-career work to AI, Woodside told Fortune. It was like \"saying to somebody that your baby's ugly.\"",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/11/03/freshworks-1-billion-arr-dennis-woodside-ai-what-companies-stop-doing/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-03T15:51:40.594296-08:00"
+  },
+  {
+    "item": {
+      "company": "fal",
+      "amount": "$1.3B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Generative media inference startup fal raises $1.3B at a $16B valuation. Generative media inference startup fal\u00a0today announced it has raised $1.3 billion in new funding at a valuation of $16 billion, according to Bloomberg. The company will spend the money on computing power and on hiring beyond its current 185 employees. Fal provides a cloud platform for running image, video and audio generation models, and developers [&#8230;]\nThe post Generative media inference startup fal raises $1.3B at a ",
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/03/startup-athena-raises-2-5m-in-pre-seed-funding-to-revamp-the-revenue-model-for-legal-ai/",
-      "priority": 13
+      "url": "https://siliconangle.com/2026/11/03/generative-media-inference-startup-fal-raises-1-3b-at-a-16b-valuation/",
+      "priority": 3
     },
-    "remind_at": "2026-11-03T10:33:49.048344-08:00"
+    "remind_at": "2026-11-03T15:51:43.284811-08:00"
   },
   {
     "item": {
-      "company": "Traversal",
-      "amount": "$120.0M",
-      "stage": null,
-      "investors": "Kleiner Perkins, Redpoint [&#",
-      "location": null,
-      "blurb": "Traversal raises $120M at $1B valuation to build AI engineers that tackle software outages. Traversal, an AI startup building autonomous engineers to diagnose and resolve software outages, has raised $120 million in fresh funding at a $1 billion valuation, joining the growing ranks of AI unicorns. The round was co-led by Kleiner Perkins, Redpoint [&#8230;]\nThe post Traversal raises $120M at $1B valuation to build AI engineers that tackle software outages first appeared on Tech Startups.",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/11/03/traversal-raises-120m-at-1b-valuation-to-build-ai-engineers-that-tackle-software-outages/",
-      "priority": 6
-    },
-    "remind_at": "2026-11-03T10:33:53.897711-08:00"
-  },
-  {
-    "item": {
-      "company": "Oracle",
-      "amount": "$20.0B",
+      "company": "Cresta",
+      "amount": "$2.7B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Oracle to raise $20 billion in stock and debt sales to fund AI expansion as shares plunge nearly 9%. Oracle is turning to Wall Street for another $20 billion to finance its massive artificial intelligence ambitions, raising fresh questions about how much debt and shareholder dilution investors will accept before its AI investments begin paying off. The software giant [&#8230;]\nThe post Oracle to raise $20 billion in stock and debt sales to fund AI expansion as shares plunge nearly 9% first appea",
+      "blurb": "Salesforce to buy customer service automation startup Cresta for reported $2.7B. Salesforce Inc. has agreed to buy Cresta Intelligence Inc., a venture-backed provider of customer service software. The cloud giant didn\u2019t disclose the financial terms in its late Monday announcement of the deal. The Information reported that Salesforce is paying $2.7 billion. Cresta\u2019s platform uses artificial intelligence to answer customer inquiries. It can also perform more [&#8230;]\nThe post Salesforce to buy cu",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/11/03/oracle-to-raise-20-billion-in-stock-and-debt-sales-to-fund-ai-expansion-as-shares-plunge-nearly-9/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/03/salesforce-to-buy-customer-service-automation-startup-cresta-for-reported-2-7b/",
       "priority": 3
     },
-    "remind_at": "2026-11-03T10:33:57.703041-08:00"
+    "remind_at": "2026-11-03T15:51:45.971292-08:00"
   },
   {
     "item": {
-      "company": "Northwood Space",
-      "amount": "$375.0M",
+      "company": "Binance",
+      "amount": "$6.3B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Northwood Space Raises $375m at $2bn Valuation to Expand Satellite Infrastructure - Tekedia. Northwood Space Raises $375m at $2bn Valuation to Expand Satellite Infrastructure&nbsp;&nbsp;Tekedia",
+      "blurb": "Binance says hackers used fake job interviews and AI tools to steal $6.3 billion in record crypto heist. A fake job interview, a malicious coding assignment, and a compromised internal AI tool helped hackers steal $6.34 billion from Binance in what could be the largest financial heist in history. The world&#8217;s largest cryptocurrency exchange revealed Tuesday that attackers [&#8230;]\nThe post Binance says hackers used fake job interviews and AI tools to steal $6.3 billion in record crypto hei",
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGxVc1BuM3BQUVkwRjRsNjhIY3RNZWRuS0ZpZWhhU0xldUdfUzBGRU1JcTZnM2dZelhQMzhEVlpPTU1obDhHZXpPSUtRVGdvc2NqdFRVQjZraHA4QjhYY2U3ckU1UUtrejRpMW42V3JPWFhFaTBBcWZhWU9FM2t1STdUWkwwT3FXVExhRGVfWDZrNzRONGZDc0ZIV0xoaUw1SHVhSkQ2VQ?oc=5",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/11/03/binance-says-hackers-used-fake-job-interviews-and-ai-tools-to-steal-6-3-billion-in-record-crypto-heist/",
       "priority": 3
     },
-    "remind_at": "2026-11-03T10:34:10.289296-08:00"
+    "remind_at": "2026-11-03T15:51:48.785218-08:00"
   }
 ]
