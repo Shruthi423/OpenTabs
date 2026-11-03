@@ -59,7 +59,7 @@
     "first_seen": "2026-09-22T03:22:08.509836-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "bdb14dafce4b23a44f92807bbc0a78ec": {
@@ -80,7 +80,7 @@
     "first_seen": "2026-09-22T03:22:10.327840-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "b3f6c7a25c8e1b2266ff9b918206d756": {
@@ -269,7 +269,7 @@
     "first_seen": "2026-09-22T03:22:25.993393-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "eb007648a27932c616f096b30949c4c5": {
@@ -605,7 +605,7 @@
     "first_seen": "2026-09-23T14:12:55.292881-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "f23c0f146e9a6a760c9962de997a1030": {
@@ -626,7 +626,7 @@
     "first_seen": "2026-09-24T05:17:47.523859-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "f5f98924cb7078753d950752c87e99ca": {
@@ -647,7 +647,7 @@
     "first_seen": "2026-09-24T05:17:49.118580-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "7ce140ec6cabdc63071c796a21e66b3c": {
@@ -668,7 +668,7 @@
     "first_seen": "2026-09-24T05:17:50.924487-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "e41fa9324692211a4202d7e0ee27fd3b": {
@@ -1231,10 +1231,10 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-09-28T07:30:13.235535-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-11-02T18:58:57.437123-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
+    "dead_strikes": 2
   },
   "f3fa66f73fd78fee4d0a708d7effc8d3": {
     "id": "f3fa66f73fd78fee4d0a708d7effc8d3",
@@ -1842,7 +1842,7 @@
     "first_seen": "2026-09-29T15:30:03.962203-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "019dca12fe3aacc70d8f725f58d26672": {
@@ -1948,7 +1948,7 @@
     "first_seen": "2026-09-30T06:42:11.100196-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "32bf5e923fcc81db13c9fe640996c9d9": {
@@ -2222,7 +2222,7 @@
     "first_seen": "2026-10-02T17:13:26.197709-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "bbb290d89c1f3690a7b38b5e1e5f1e43": {
@@ -2306,7 +2306,7 @@
     "first_seen": "2026-10-03T22:49:57.749488-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "860143327273372e54182a8b2c22f50b": {
@@ -2369,7 +2369,7 @@
     "first_seen": "2026-10-05T00:01:23.759932-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "b0e48c9b5684c5507e00d41ee374027e": {
@@ -2390,7 +2390,7 @@
     "first_seen": "2026-10-05T00:01:25.260635-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "ac71f9b11e8f76f0806cdd232f03ec17": {
@@ -2411,7 +2411,7 @@
     "first_seen": "2026-10-05T00:01:27.143654-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "e414d3db5614404cfab4ab421408e910": {
@@ -3522,7 +3522,7 @@
     "first_seen": "2026-10-08T15:45:21.205449-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "fd6cb52fb1b2be65e05b370d1c97f060": {
@@ -3753,7 +3753,7 @@
     "first_seen": "2026-10-11T17:41:13.428107-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "0124364b37e61eee0057de47ca124bec": {
@@ -5222,7 +5222,7 @@
     "first_seen": "2026-10-20T07:30:08.050974-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "73bb8859aa6e08d14494188e2f52ff7e": {
@@ -5243,7 +5243,7 @@
     "first_seen": "2026-10-20T07:30:09.646653-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "f022810b16a990f72098b60b0d268194": {
@@ -5264,7 +5264,7 @@
     "first_seen": "2026-10-20T07:30:11.229244-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T10:18:32.009096-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "8904e028dd2c3772ce1663dff14b5d0d": {
@@ -5411,7 +5411,7 @@
     "first_seen": "2026-10-21T12:18:40.760858-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "d107e0ec41bbe69e1977fc8ab44c5636": {
@@ -5432,7 +5432,7 @@
     "first_seen": "2026-10-21T12:18:42.442095-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "44a220f7c51922d3b4f2eefed02f7c59": {
@@ -5453,7 +5453,7 @@
     "first_seen": "2026-10-21T12:18:44.201220-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "09411203aaebf75d7991cad552c35044": {
@@ -5580,7 +5580,7 @@
     "first_seen": "2026-10-23T03:32:39.482154-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "fa778487709de930c72a5f65d89f1d9d": {
@@ -6462,7 +6462,7 @@
     "first_seen": "2026-10-28T03:02:57.703597-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-03T02:35:33.102777-08:00",
     "dead_strikes": 0
   },
   "4ccd36022f43f8c318527e0ef6dafab8": {
@@ -7357,22 +7357,155 @@
     "status": "active",
     "applied_at": null
   },
-  "a964a3638196bba514ff3b6ceafab1d4": {
-    "id": "a964a3638196bba514ff3b6ceafab1d4",
-    "title": "Sales Development Representative (SDR) at Eleken.",
-    "company": "Unknown",
-    "location": "Remote",
-    "salary": "See posting",
-    "url": "https://remotefirstjobs.com/companies/eleken/jobs/sales-development-representative-sdr-878471",
-    "source": "JobsCollider",
+  "1e857a15dbf4793acfc298057c3594f4": {
+    "id": "1e857a15dbf4793acfc298057c3594f4",
+    "title": "Product Design Intern",
+    "company": "ServiceNow",
+    "location": "Santa Clara, CA",
+    "salary": "$81,328 - $104,250",
+    "url": "https://uiuxjobsboard.com/job/1662426-product-design-intern-santa-clara-ca-united-states",
+    "source": "UIUXJobsBoard",
     "is_new_grad": false,
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "Description\n\n\ud83c\udfe2 Department: Sales Development\n\n\ud83d\udc65 Team: Head of Sales Development &amp; Lead Generation department\n\n\ud83d\udccd Location: Remote\n\n\u23f3 Employment Type: Full-time\n\nWho we are?\n\nEleken is a product design partner for SaaS companies. We work on asubscription-based model, giving clients a fast, stable,",
-    "posted_at": "Recently",
+    "description": "It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone\u2014freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow\u2014 helping 85% of the Fortune 500\u00ae work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.\nJob Description\nWe are the Experience Team (EX)! We are made up of Product\u202fDesigners, UX Researchers, Technical Writers, Design Operations, and Visual Designers.\nWe are successful because of the collective minds of diverse individuals within the Experience Team, contributing to building innovative software that makes workflows smarter. We embrace representation in and from all professional and personal backgrounds and cultures to help propel passion and innovation in all our products.\nWe are looking for students who want to learn, grow, and take a giant step early in their career, all while making a giant impact. We\u202foffer\u202f12-week summer internship\u202fopportunities across various business functions.\nLearn more about our team here\u202f https://www.linkedin.com/company/servicenow/life/userexperience/\nWe hire in multiple locations including, but not limited to: Santa Clara, CA, San Diego, CA, West Palm Beach, FL and other geographical areas. Work location will be determined based on team growth strategies.\nLearn from a team of experts in UX Design, Visual Design, Interaction Design, UX Research, and Front-End Development.\nWork closely with designers on ServiceNow\u2019s Product and Platform design teams.\nCraft visuals that help illustrate and help reinforce storytelling from end-to-end.\nExperience first-hand creative processes as they exist in an Enterprise software environment.\nDevelop your current skills even further and add more skills to your toolbox.\nWork closely with designers on ServiceNow\u2019s Product and Platform design teams.\nCreate new concepts, produce high-fidelity mockups and prototypes, write detailed documentation, and critically assess designs.\nExperience first-hand creative processes as they exist in an Enterprise software environment.\nContribute to projects that bring great product experiences to our customers\nQualifications\nExperience in leveraging, or critical thinking, about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry.\nCurrently pursuing a Bachelor's degree\u202fin Design, Human-Computer Interaction, UI/UX Design, Graphic/Visual Design, Cognitive Science, Interaction Design, or related disciplines\nAble to work full time for 12-weeks during the summer\nProficient using Figma and AI prototyping, to prototype design artifacts\nUnderstands user interface design, heuristic methods, or other usability evaluation techniques, perception, cognition, task analysis, experimental design and statistics\nAbility to work independently and as part of a team, and bring a willingness to learn through design thinking and execution\nWritten and verbal English communication skills, including the ability to articulate and explain your design decisions\nAbility to apply design methods to solving problems and/or project management experience, preferred\nBonus points for having basic knowledge of front-end development technologies, such as HTML, CSS, and/or JavaScript and comfort with AI coding tools to generate front-end code.\nA go-getter, ambitious problem solver with a growth mindset\nComfortable interfacing with various types of people and roles, either in presentation setting, informal stakeholder interviews, or large meetings.\nReady to showcase your work and/or proje",
+    "posted_at": "1h",
+    "priority": 2,
+    "first_seen": "2026-11-03T02:36:29.003497-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "9c4a778da7cfdd76d5e9d4947bc3fc26": {
+    "id": "9c4a778da7cfdd76d5e9d4947bc3fc26",
+    "title": "UI/UX Researcher",
+    "company": "Intelerad",
+    "location": "Remote",
+    "salary": "$64,500 - $86,000",
+    "url": "https://uiuxjobsboard.com/job/1663226-remote-united-states-ui-ux-researcher",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Intelerad offers one of healthcare\u2019s most comprehensive imaging and analytics platforms. Headquartered in Raleigh, NC and Montreal, Intelerad has nearly 700 employees located in offices across six countries. The company empowers nearly 2,000 healthcare organizations around the world with the speed, scalability, and simplicity needed to increase business performance while, most importantly, improving patient outcomes. Intelerad\u2019s modern enterprise solutions have been acknowledged by a Best in KLAS recognition, ranking #1 for PACS Asia/Oceania in the 2021 Best in KLAS: Global Software (Non-US) report. To learn more, visit\u00a0 intelerad.com \u00a0and follow Intelerad on LinkedIn and Twitter.\nJob Description\nAs a UI/UX Researcher at Intelerad, you will play a meaningful role in shaping how clinicians and healthcare professionals interact with our medical imaging products. You will independently own research activities for one or more product areas, partnering with product managers, developers, and end users to turn complex clinical needs and business goals into intuitive, high-quality experiences, from early discovery through to successful release.\nIndependently plan and lead qualitative and quantitative UX research across the product lifecycle to understand user goals, workflows, and challenges; evaluate product concepts and design solutions; and provide actionable insights that inform product and design decisions.\nSet research priorities and methodologies for your product area in partnership with product management; recruit participants and moderate sessions with clinicians and other end users.\nSynthesize research data into personas, journey maps, and actionable insights, and translate findings into design and product recommendations that influence roadmap decisions.\nOwn and evolve our research repository so findings stay discoverable and continue to inform current and future work.\nBuild trust with users through deep empathy, active listening, and strong facilitation, enabling a thorough understanding of their goals, workflows, and challenges.\nPresent design and research findings to audiences ranging from engineers to product leadership, and lead design and research critique sessions to ensure alignment and quality.\nMentor and provide feedback to less experienced researchers, sharing methods and best practices across the team.\nQualifications\nQualifications & Experience\n4+ years of experience in UX research, with a portfolio demonstrating end-to-end research projects, research methodologies, synthesis, and impact on product decisions.\nProficiency with research and collaboration tools, including Figma for communicating concepts and UX research platforms such as Dovetail, UserZoom, Optimal Workshop, or similar.\nDemonstrated expertise in wireframing and prototyping.\nDemonstrated experience independently planning and leading user research using qualitative and quantitative methods, and synthesizing findings into personas, journey maps, and actionable insights.\nStrong knowledge of HCI principles and design best practices.\nProven ability to communicate design rationale and research findings effectively to technical and non-technical audiences, including senior stakeholders.\nPreferred Qualifications & Special Requirements\nBachelor's degree in Human-Computer Interaction (HCI), User Experience (UX) Design, Interaction Design, Human Factors / Ergonomics, Psychology, or equivalent.\nExperience prototyping with HTML and CSS or similar front-end tools.\nExperience in healthcare IT or complex enterprise software; experience conducting research with clinical or healthcare users.\nFamiliarity with accessibility standards (WCAG) and inclusive design practices.\nFamiliarity with survey design and basic statistical analysis.\nExperience working in Agile development environments.\nExperience mentoring or informally guiding other researchers.\nTravel Requirements\nThis job description is not a comprehensive list of tasks or requirements and Intelerad reserves the ri",
+    "posted_at": "3h",
     "priority": 5,
-    "first_seen": "2026-11-02T19:00:09.636000-08:00",
+    "first_seen": "2026-11-03T02:36:30.827230-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "8a95302925ec40c1c5143e2832c19d0e": {
+    "id": "8a95302925ec40c1c5143e2832c19d0e",
+    "title": "Product Designer",
+    "company": "VERSANT",
+    "location": "Carlsbad, CA",
+    "salary": "$120,000 - $138,000",
+    "url": "https://uiuxjobsboard.com/job/1662626-product-designer-carlsbad-ca-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "VERSANT (Nasdaq: VSNT) is an industry-changing media and entertainment business and home to trusted brands that shape culture, inform audiences, and build lasting connections. It operates across four core markets: political news and opinion, business news and personal finance, golf, and sports and genre entertainment. These markets are served through a powerful portfolio of iconic and innovative brands, including CNBC, MS NOW, USA Network, Golf Channel, Oxygen, E!, SYFY, and Versant's sports division USA Sports, along with complementary digital assets including Fandango, Rotten Tomatoes, GolfNow and GolfPass.\nJob Description\nFull Swing builds the technology serious golfers and athletes train on \u2014 from simulator experiences to a\ngrowing family of connected mobile apps and hardware. Our mobile design team owns the companion apps\nthat pair with our devices, guiding users through setup, calibration, live sessions, and performance tracking. As\nour hardware ecosystem expands, our apps are expanding with it \u2014 and design plays a central role in making\ncomplex, connected experiences feel simple. We partner closely with Product and Engineering from concept\nthrough ship, and care as much about craft as we do about shipping fast and learning from real usage.\nWe\u2019re looking for a mid-level Product Designer to lead scoped, end-to-end design work for key mobile app\nfeature areas. You\u2019ll take ambiguous problems, turn them into clear user flows and polished UI, and partner\nwith cross-functional teams to ship features that real people rely on every day. This role is a strong fit for\nsomeone who thrives in a fast-paced, lean product environment\u2014someone who brings structure to\nambiguity, moves quickly without sacrificing craft, and takes real ownership of their product area.\nReasonable accommodations may be made to enable individuals with disabilities to perform the essential\nOwn the end-to-end design process for mobile features \u2014 from problem framing and user flows to high-fidelity UI and developer handoff\nDesign and maintain detailed user flows and prototypes in Figma that clearly communicate logic, edge cases, and states to engineering\nPartner with Product Managers and Engineers from early discovery through launch, balancing user needs, technical constraints, and business goals\nContribute to and help evolve our design system, ensuring consistency across iOS and Android\nUse qualitative and quantitative data (user research, analytics, usability testing) to validate design decisions and iterate post-launch\nPresent design rationale clearly to stakeholders, including leadership, and incorporate feedback without losing sight of the user problem\nCollaborate with other designers on critique, systems thinking, and shared UX patterns across the broader product\nDesign accessible mobile experiences, applying platform accessibility standards across interaction, visual hierarchy, typography, color, and touch targets.\nPartner with engineers through implementation and QA to ensure shipped experiences match intended behavior, quality, and edge-case handling.\nQualifications\n3+ years of product design experience shipping consumer or professional mobile applications for iOS and/or Android\nA portfolio that demonstrates end-to-end ownership of shipped product work, including problem\nframing, user flows, wireframes, high-fidelity UI, prototypes, and iteration informed by user feedback or product data\nProficiency in Figma, including building and maintaining detailed user flows, component libraries, and interactive prototypes\nSolid understanding of iOS and Android design guidelines (Human Interface Guidelines / Material\nDemonstrated ability to work in ambiguity and move quickly in a fast-paced environment \u2014 you're comfortable defining the problem, not just solving one that's handed to you\nExperience working directly with engineers through implementation and QA, not just handoff\nClear communicator who can articulate design decisions to both design and non-design audienc",
+    "posted_at": "4h",
+    "priority": 4,
+    "first_seen": "2026-11-03T02:36:32.706396-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "c0e1d023d6301e2987f08a2ca8daff36": {
+    "id": "c0e1d023d6301e2987f08a2ca8daff36",
+    "title": "UI/UX Design Intern",
+    "company": "Sophinea",
+    "location": "Manassas, VA",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1663726-ui-ux-design-intern-manassas-va-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Sophinea is an AI, data, and analytics firm in Manassas, Virginia, serving federal and commercial clients since 2018. We build AI products, including Halo, our secure AI and analytics platform.\nAs a UI/UX Design Intern, you'll help design how people interact with AI and data products, from dashboards to mobile and web apps. You'll work on real products alongside our engineers, not side projects.\nWhat you'll do:\nDesign wireframes, user flows, and high-fidelity mockups for web and mobile products\nBuild interactive prototypes to test ideas before engineering starts\nRun lightweight user research: interviews, usability tests, and synthesis\nContribute components and patterns to our design system\nDesign dashboards and data visualizations that make complex information easy to read\nHand off designs to developers and review what ships\nA typical day might include a team standup, a few hours in Figma on a new feature, a usability session with a test user, and a design review with the engineering team.\nThis is a paid, part-time, semester-long internship (about 10-15 hours per week), hybrid in Manassas, VA.\nRequirements\nCurrently enrolled in a bachelor's or master's program in UX, interaction design, graphic design, HCI, or a related field\nA portfolio that shows your design process, not just final screens\nUnderstanding of usability principles and accessibility basics (WCAG)\nClear communication and comfort receiving feedback\nAble to work on-site in Manassas on hybrid days\nExperience designing dashboards or data-heavy interfaces\nFamiliarity with Apple Human Interface Guidelines or Material Design\nInterest in AI products and how people build trust in them\nFlexible part-time schedule built around your class load\nHybrid work: on-site collaboration in Manassas plus remote days\nPortfolio-ready work on products used by real clients\nMentorship from Sophinea's design and engineering team\nExposure to AI, analytics, and federal technology work\nS Senior UX/UI Designer at Significa K UI/UX Designer at Koru UX Design B Product Designer at Base44 O Senior UX/UI Product Designer at OleOle D Senior UX/UI Product Designer at Daimler Truck North America\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUI/UX Design Salary Guide UI/UX Design Salary in United States UI/UX Design Salary in Virginia\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nRelated Jobs See more jobs from United States\nMEDvidi is hiring Staff Product Designer (AI Track)\nIhsan is hiring Product Designer \u2014 Mobile UX/UI & Motion",
+    "posted_at": "4h",
+    "priority": 4,
+    "first_seen": "2026-11-03T02:36:34.601801-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "2486b1d11c90d74b6137623d137f79fa": {
+    "id": "2486b1d11c90d74b6137623d137f79fa",
+    "title": "Digital Product Designer",
+    "company": "Ajaia",
+    "location": "Remote",
+    "salary": "$120,000 - $168,000",
+    "url": "https://uiuxjobsboard.com/job/1663826-remote-united-states-digital-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "AI use is a core execution requirement at Ajaia, not optional tooling. You will use AI tools daily to move from interview notes to synthesis, from synthesis to wireframe, and from wireframe to something clickable. You are judged on what you keep from that process, not on how much of it AI produced.\nStaying current with new design and prototyping tools is part of the job, and so is knowing when a shortcut needs your hand back on it before a user ever sees it.\nWhat you will do\nRun discovery on client engagements: interview the people doing the work, watch them do it over screen-share, and find the gap between what they say and what they actually do.\nTalk to users of Ajaia\u2019s own products the same way. The product suite is not exempt from the same rigor client work gets.\nSynthesize findings into what people actually need, stated separately from what they asked for, with the evidence for each.\nDesign the solution: user journeys, wireframes, and prototypes that an engineer can build from without guessing.\nDecide where a human has to sign off inside a workflow, and design that checkpoint into the product rather than bolting it on afterward.\nTest designs with real users before code exists, not after.\nPush back on a stakeholder\u2019s feature list when the evidence points somewhere else, and explain why in terms they can act on.\nOwn the design standard across Ajaia\u2019s product suite so a designer joining engagement three does not have to reinvent decisions made on engagement one.\nPrototype with AI tools as a default, not a novelty. Know when the AI-native path saves real time and when it produces something you have to rebuild by hand anyway.\nHand off design work in a state an engineer can actually start from, and stay involved enough during the build to catch it when implementation drifts from the intent.\nRequirements\nRuns discovery yourself: interviews, usability testing, and reading behavioral data.\nMoves from synthesis to a working prototype fast.\nDesigns the human checkpoints into a workflow rather than bolting them on later.\nComfortable holding your ground when the evidence points somewhere a stakeholder does not expect.\nAI fluent: uses AI daily to research, synthesize, and prototype, and can tell good output from slop.\nComfortable working directly alongside engineers through build.\nNo minimum years required. We hire on the work.\nFully remote, and comfortable running interviews and user testing over video.\nA bachelor\u2019s degree is preferred and is not a requirement.\nA public portfolio or case studies we can look at before we meet.\nExperience designing AI-native workflows, including where a human checkpoint belongs.\nConsulting, agency, or professional services experience with concurrent clients.\nComfort with lightweight front-end implementation.\nS Product Design Intern at ServiceNow Q Senior Product Designer at QBench V Product Designer at VERSANT\nProduct Designer at Simulmedia H Lead Product Designer at Housing & Development Board\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nProduct Design Salary Guide Product Design Salary in United States\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nQuility Insurance is hiring Lead UX/UI Designer\nMEDvidi is hiring Staff Product Designer (AI Track)\nIhsan is hiring Product Designer \u2014 Mobile UX/UI & Motion",
+    "posted_at": "5h",
+    "priority": 5,
+    "first_seen": "2026-11-03T02:36:36.530013-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "699e913d0c0c302d5f240bc8e918e327": {
+    "id": "699e913d0c0c302d5f240bc8e918e327",
+    "title": "UX Design Associate",
+    "company": "Kyndryl",
+    "location": "Frisco, TX",
+    "salary": "$77,000",
+    "url": "https://uiuxjobsboard.com/job/1662326-ux-design-associate-frisco-tx-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world\u2019s leading businesses.\u00a0 We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edge. For our people\u2014Kyndryls\u2014that means doing purposeful work that powers human progress. Join us and experience a flexible, supportive environment where your well-being is prioritized and your potential can thrive.\nThe Role\nAs a UX Design Associate, you'll help create digital experiences that are intuitive, accessible, and meaningful for customers. You'll explore how people interact with technology, identify opportunities to improve those experiences, and contribute design solutions that make products easier to use and understand.\nWorking alongside experienced designers, researchers, product teams, and engineers, you'll help turn customer and business needs into user journeys, wireframes, prototypes, and experience concepts. You'll contribute throughout the design process, from discovery and research through to testing and delivery.\nThis role offers the opportunity to gain hands-on experience designing for enterprise-scale products while learning how emerging technologies, including AI-enabled experiences, are changing the way people interact with digital products. You'll balance creative problem solving with structured analysis, using research and feedback to inform design decisions and improve customer outcomes.\nThrough Kyndryl's Early Career experience, you'll strengthen your skills in user research, interaction design, accessibility, facilitation, and storytelling while building a portfolio of real-world work that delivers meaningful impact.\nWhat you will do\nSupport user research activities to better understand customer goals, challenges, and opportunities\nParticipate in interviews, workshops, usability testing, and other research activities\nOrganize research findings and help translate insights into design opportunities\nCreate journey maps, personas, workflows, and other experience design artefacts\nDevelop wireframes, user flows, prototypes, and experience concepts for digital products\nContribute to experiences that are intuitive, accessible, and easy to navigate\nTranslate customer needs and business requirements into practical design solutions\nApply human-centred design principles throughout the design process\nPartner with designers, researchers, engineers, and product teams to develop customer-focused solutions\nParticipate in design reviews and incorporate feedback into evolving concepts\nHelp communicate design ideas through visual storytelling, presentations, and prototypes\nBalance customer expectations, business goals, and technical considerations when developing solutions\nContribute to projects that incorporate AI-enabled experiences and digital innovation\nExplore how evolving technologies can support better user experiences and customer outcomes\nUse design and productivity tools to support research, ideation, and prototyping activities\nHelp evaluate new concepts through testing, feedback, and iteration\nBuild expertise in UX research, interaction design, accessibility, and digital product design\nLearn from experienced designers through coaching, collaboration, and hands-on project work\nDevelop a portfolio of customer-focused design experiences\nExpand your ability to solve complex problems through research, creativity, and collaboration\nWho You Are\nWe\u2019re a purpose-driven company committed to innovation and empowering our people. Here, your work contributes to meaningful outcomes for clients and communities.\nEvery position at Kyndryl offers a way forward to grow your career. We have opportunities that you won\u2019t find anywhere else, including hands-on experience, learning opportunities, and the chance to certify in all four major platforms. Whether you want to broaden your knowledge base or narrow your scope and speciali",
+    "posted_at": "5h",
+    "priority": 4,
+    "first_seen": "2026-11-03T02:36:38.343585-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "3f40fd0d0f355240c8c66959520325e9": {
+    "id": "3f40fd0d0f355240c8c66959520325e9",
+    "title": "Product Designer (Growth)",
+    "company": "Tailscale",
+    "location": "Remote (United States)",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4726090005",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Thank you for considering Tailscale. If this job description resonates with you, please apply.\u00a0 Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic!\nTailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.\nAbout the Role\nThe Product Design team at Tailscale is looking for an experienced Designer to join our dedicated Product Growth team. You will be the second designer on an existing cross-functional team and work to propel initiatives around activation, onboarding, monetization, user expansion, and the referral flywheel.\nWorking closely with Product, UX Research, and Engineering, this role will focus on delivering minimum-viable solutions intended to test a hypothesis. We\u2019re looking for someone who enjoys the cadence of regular delivery, learning from experiments, and upholding a high craft bar.\nThis role will work closely with an experienced Product Designer within the Growth space and will report to the Product Design Manager.\nDraft & propose product changes that intend to move the needle on existing growth initiatives.\nParticipate in the experimentation lifecycle, learning from research and iterating based on feedback.\nContribute to a backlog of experiment ideas, generating multiple ways to address friction areas and influence user behavior through interaction design and prototyping.\nUnderstand what our users are trying to do and advocate for product changes that support their best interests.\nUphold a high quality standard for what ships, balancing the need for experimentation with a high bar for permanent changes.\nPartner with your PM, researcher, fellow designer, and engineers to define problems, define experiment goals as they relate to solutions proposed, and measure impact through experimentation.\n3-5+ years of product design experience, ideally with time spent on onboarding, growth, or monetization work\nHands-on experience with common growth tooling and approaches such as A/B testing and behavioral analytics tooling (Amplitude, Pendo, etc.)\nExperience with self-serve, product-led SaaS business motions\nComfort working with experiment results and interpreting findings that will guide design decisions\nSkilled at balancing speed and quality of deliverable designs\nExperience and skill working in distributed, async environments\nHands-on experience with Tailscale, or working familiarity with networking concepts such as DNS, VPNs, or traffic routing\nExperience and opinion on thoughtful LLM tool usage within the design workflow, especially for prototyping and user testing\nAs a company, we strive to maintain fair and equitable compensation practices within our team across all roles and all levels. Tailscale's compensation package includes base salary, equity, and comprehensive benefits. The salary range displayed on each job posting represents the target range for a new hire's base salary. Individual offers may vary based on experience and skill set.\nAn inclusive, flexible environment where you can be your authentic self. We recognize the impact of diverse voices and backgrounds on the growth of our people, product, and company. And that flexibility in how and when you work empowers our team to integrate work and life.\nA competitive total compensation package. This includes a base salary, an equity incentive plan and variable commission (for quota-based roles).\nComprehensive group benefits with no waiting",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-11-03T02:36:40.240540-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "b49bf66a5cc246265fb931a70d4904a5": {
+    "id": "b49bf66a5cc246265fb931a70d4904a5",
+    "title": "Consumer Product Designer",
+    "company": "Base Power",
+    "location": "Austin, TX",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/base-power/160b2184-7238-47f6-aa64-61ddc8fafd49",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "ABOUT BASE\n\nBase is America\u2019s next-generation power company. We\u2019re rebuilding the foundation of modern civilization\u2013electricity\u2013by deploying a vast network of distributed batteries that is transforming today\u2019s fragile, centralized grid into a resilient and abundant system. We are engineers, operator",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-11-03T02:36:42.186812-08:00",
     "status": "active",
     "applied_at": null
   }

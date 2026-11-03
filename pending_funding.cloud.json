@@ -1,17 +1,122 @@
 [
   {
     "item": {
-      "company": "Trajectory",
-      "amount": "$45.0M",
+      "company": "Wardsora",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Wardsora Raises $560,000 Seed. Wardsora raises $560,000 in a seed round led by Pillar VC to develop its AI-assisted operational workspace for hospital coordination and patient flow.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/wardsora-raises-560000-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-03T03:07:10.273071-08:00"
+  },
+  {
+    "item": {
+      "company": "MOVIN",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": "LiDAR",
+      "blurb": "MOVIN Raises \u20a910B Series A. MOVIN raises 10 billion won in Series A funding led by IMM Investment to expand its LiDAR-based 3D motion capture and physical AI technology.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/movin-raises-10b-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-11-03T03:07:13.231575-08:00"
+  },
+  {
+    "item": {
+      "company": "Wegofair",
+      "amount": null,
+      "stage": "Series A",
+      "investors": "Albatross Investment",
+      "location": "AI",
+      "blurb": "Wegofair Raises \u20a91B Pre-Series A. Wegofair raises 1 billion won in a pre-Series A round led by Albatross Investment to scale its AI-based brand protection platform globally.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/wegofair-raises-1b-pre-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-11-03T03:07:16.292855-08:00"
+  },
+  {
+    "item": {
+      "company": "Clinics",
+      "amount": "$12.5M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Clinics On Cloud Raises $12.5 Million in Series A Funding - Siliconindia. Clinics On Cloud Raises $12.5 Million in Series A Funding&nbsp;&nbsp;Siliconindia",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeUQ4UzlYNFpremgtNTVHblJEaTRkUUlPSnFDci0zd3ZKQ1RNemcyZjMtZ1RVWVY1ZDFWOExLRVh6Vy14V293dzExd2puQnpYbzdTbUtDLVhKeDlacmwwcXJMN18zcjBiZkdzQWZOY2tpbTFXTmN3eW1nMGJ6SmtPZHdnVDBuVzRURVlTOXhQZTFwcWpnOG5YNnkwNEwyVU5aVUNrN2txLUpSSEdiSEQ3SzhEYnloN19sNVA3clFsRWp6QQ?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-11-03T03:07:19.230086-08:00"
+  },
+  {
+    "item": {
+      "company": "CapGrid",
+      "amount": null,
+      "stage": "Series B",
+      "investors": "Hero Enterprise Venture Partners",
+      "location": null,
+      "blurb": "CapGrid Raises Rs 50 Cr Pre-Series B. CapGrid raises Rs 50 crore in a Pre-Series B round led by Hero Enterprise Venture Partners to expand its manufacturing platform into drones and data centers.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/capgrid-raises-rs-50-cr-pre-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-11-03T03:07:23.077183-08:00"
+  },
+  {
+    "item": {
+      "company": "PowerUp Money",
+      "amount": "$10.0M",
+      "stage": null,
+      "investors": "Flourish Ventures",
+      "location": null,
+      "blurb": "PowerUp Money Raises $10M in Funding. PowerUp Money raises $10M in a funding round led by Flourish Ventures to expand its AI-led wealth management platform and advisory services.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/powerup-money-raises-10m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-03T03:07:35.173857-08:00"
+  },
+  {
+    "item": {
+      "company": "PropHub",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Trajectory raises $45M to make AI model training accessible to nontechnical experts. The one-year-old startup is now valued at $300 million.",
+      "blurb": "PropHub Announces Strategic Venture Round. PropHub raises a strategic venture round led by Merchant Seven to scale its trading infrastructure platform for brokerages, prop firms, and crypto exchanges.",
       "founders": [],
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/prophub-announces-strategic-venture-round/",
       "priority": 3
     },
-    "remind_at": "2026-11-02T19:30:33.535917-08:00"
+    "remind_at": "2026-11-03T03:07:38.087192-08:00"
+  },
+  {
+    "item": {
+      "company": "Sortrace",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Sortrace Raises $800,000 in Funding. Sortrace raises $800,000 in a funding round led by Almi Invest to scale its AI-powered waste analysis software for municipalities and recyclers.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/sortrace-raises-800000-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-03T03:07:41.285891-08:00"
   }
 ]
