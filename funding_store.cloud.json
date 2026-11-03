@@ -10458,5 +10458,21 @@
     "roles": [],
     "first_seen": "2026-11-02T13:20:35.189442-08:00",
     "status": "active"
+  },
+  "da271d13484702f9f5ec91827f9d586e": {
+    "id": "da271d13484702f9f5ec91827f9d586e",
+    "company": "Trajectory",
+    "amount": "$45.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Venture",
+    "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "priority": 3,
+    "blurb": "Trajectory raises $45M to make AI model training accessible to nontechnical experts. The one-year-old startup is now valued at $300 million.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-02T19:00:34.536048-08:00",
+    "status": "active"
   }
 }

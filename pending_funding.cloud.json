@@ -1,77 +1,17 @@
 [
   {
     "item": {
-      "company": "Tutor Intelligence",
-      "amount": "$75.0M",
-      "stage": "Series B",
-      "investors": "Andreessen Horowitz",
-      "location": null,
-      "blurb": "Tutor Intelligence Raises $75 Million Series B Led by Andreessen Horowitz to Scale Frontier Robotics Model Training, Manufacturing and Deployment - Yahoo Finance. Tutor Intelligence Raises $75 Million Series B Led by Andreessen Horowitz to Scale Frontier Robotics Model Training, Manufacturing and Deployment&nbsp;&nbsp;Yahoo Finance",
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclhxcTVBZFRDUzhsT3NocFUxNG4xNmFtSkxCdC03THhZSTgyTjJQTFZZdW5ueWpsbVJpOWJaT09EbnphWFFoSlozN05Zc2xrSVhCQ0Y4T3hoVVh2TTZsQThSSl9lUFlxT1JGN05TVXV1c01VZEFBUEJZZGhzWDk4bUFjaEtfMGc0QXJ2UWswWndUY2pTb2VlNzkyY29LTUVWWVE?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-11-02T13:50:10.859789-08:00"
-  },
-  {
-    "item": {
-      "company": "Clark",
-      "amount": "$11.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": "New York",
-      "blurb": "Clark raises $11M to launch autonomous AI employees that perform audits for CPA firms. New York-based AI startup Clark has raised $11 million in seed funding and launched Clerks, autonomous AI employees that can carry out audit work for accounting firms without waiting for instructions at every step. The funding round was led by [&#8230;]\nThe post Clark raises $11M to launch autonomous AI employees that perform audits for CPA firms first appeared on Tech Startups.",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/11/02/clark-raises-11m-to-launch-autonomous-ai-employees-that-perform-audits-for-cpa-firms/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-02T13:50:13.662390-08:00"
-  },
-  {
-    "item": {
-      "company": "Larridin",
-      "amount": "$30.0M",
-      "stage": "Series A",
+      "company": "Trajectory",
+      "amount": "$45.0M",
+      "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Larridin Raises $30 Million in Series A to Prove AI\u2019s Impact Across the Human and Agent Workforce - 01net. Larridin Raises $30 Million in Series A to Prove AI\u2019s Impact Across the Human and Agent Workforce&nbsp;&nbsp;01net",
+      "blurb": "Trajectory raises $45M to make AI model training accessible to nontechnical experts. The one-year-old startup is now valued at $300 million.",
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRS14OGNER2dRT3Q2eE40aUJJb0t6ZjhSYWVxRkhkcGhZTEJhUmNVU1p0TzVDSU50RHYzVmQ1anpsNUk0VVhnZC1tdWRIaE5NaTg0Q1RXaFNiS0pJUFNMWGhhRVc4bm5wZjBTR0Mta0pPZ2RvMkprMWdScGI2MEJOUE80MTNDX1RoVHJRTThMckFITllVbjV6YVFOQTRBbEMyNGZsMW0wWjdidW5xT09TVHhLcjUwWU9v?oc=5",
-      "priority": 8
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "priority": 3
     },
-    "remind_at": "2026-11-02T13:50:16.741810-08:00"
-  },
-  {
-    "item": {
-      "company": "GenRobot AI",
-      "amount": "$100.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Robot-training data startup GenRobot AI raises $100 million in Series A+ funding - TechNode. Robot-training data startup GenRobot AI raises $100 million in Series A+ funding&nbsp;&nbsp;TechNode",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjIzTjU1OUtrZDVXNmZrU2lfSnlNODZIdlg5c3J1UTBCTnp1bFhrcWNUdXRNS1c1aXlCT2hjek5fbTZtSEZ6c01SNFYxOWg4REhVNV8tdnNQV2xOTzdtNlhnY1BMUTBKV1FPX1V1SE5PdUxhZGRKV04xZDRpV3lmZHpnanJJcnpUUDFMM3E1QWZndU1uVlBLZXdjN19wbk1seVdRQU1UR2p1SFVVZGc4Yg?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-11-02T13:50:19.618825-08:00"
-  },
-  {
-    "item": {
-      "company": "Clinics",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Health-tech startup Clinics On Cloud raises $12.5 Mn in Series A round - Entrackr. Health-tech startup Clinics On Cloud raises $12.5 Mn in Series A round&nbsp;&nbsp;Entrackr",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzUwQWRVSEwxUGhyWEh1QmxyN1p3bWVKQ1V0OFdkTXZwaHdwR09MZlhTTExKMVF0UHItSTl3M3o4VkhHRUp6S3VSaG5tLTBMS04zWXdHMU10dnU1Ty1pakdYMEp3ZDBUMWItNnhOZjc1OUhVZEI3VnVkenVlYVZscjhIZDBtVmFfeUg2bklwYTdtT0x0RVppRE45bHVOOEN4NE9vMTV30gGmAUFVX3lxTFBLNTBBZFVITDFQaHJYSHVCbHI3WndtZUpDVXQ4V2RNdnBod3BHT0xmWFNMTEoxUXRQci1JOXczejhWSEdFSnpLdVJobm0tMExLTjNZd0cxTXR2dTVPLWlqR1gwSndkMFQxYi02eE5mNzU5SFVkQjdWdWR6dWVhVmxyOEhkMG1WYV95SDZuSXBhN21PTHRFWmlETjlsdU44Q3g0T28xNXc?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-11-02T13:50:34.189280-08:00"
+    "remind_at": "2026-11-02T19:30:33.535917-08:00"
   }
 ]

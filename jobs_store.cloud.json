@@ -143,7 +143,7 @@
     "first_seen": "2026-09-22T03:22:15.496251-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "4d314eccce618ca81ff6869f45f7d0d7": {
@@ -248,7 +248,7 @@
     "first_seen": "2026-09-22T03:22:24.224681-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "1edd106a29675674d38ab47075da871c": {
@@ -522,7 +522,7 @@
     "first_seen": "2026-09-23T01:12:52.104392-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "9b3776b3b7c23d6a9a40218f80edcfec": {
@@ -543,7 +543,7 @@
     "first_seen": "2026-09-23T06:38:51.154849-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "efc03e2d6473f748bee45db20c3389a0": {
@@ -564,7 +564,7 @@
     "first_seen": "2026-09-23T10:58:42.233068-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00"
+    "checked_at": "2026-11-02T18:58:57.437123-08:00"
   },
   "68d2ae500a30a47bf5f206ffcb01df0c": {
     "id": "68d2ae500a30a47bf5f206ffcb01df0c",
@@ -584,7 +584,7 @@
     "first_seen": "2026-09-23T10:58:45.509153-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "27d9dffa4b36387f287ee83f2f8b55e7": {
@@ -1192,7 +1192,7 @@
     "first_seen": "2026-09-28T07:30:07.652048-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00"
+    "checked_at": "2026-11-02T18:58:57.437123-08:00"
   },
   "c9a4c8df018f48a8f46d5627827bd2a6": {
     "id": "c9a4c8df018f48a8f46d5627827bd2a6",
@@ -1212,7 +1212,7 @@
     "first_seen": "2026-09-28T07:30:11.391639-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "5e6d43dcd034d8d641e149b60ae4eae4": {
@@ -1233,8 +1233,8 @@
     "first_seen": "2026-09-28T07:30:13.235535-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
-    "dead_strikes": 0
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
+    "dead_strikes": 1
   },
   "f3fa66f73fd78fee4d0a708d7effc8d3": {
     "id": "f3fa66f73fd78fee4d0a708d7effc8d3",
@@ -1884,7 +1884,7 @@
     "first_seen": "2026-09-30T06:41:13.748417-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "0cfab41e2572d6071672702011fbabea": {
@@ -1905,7 +1905,7 @@
     "first_seen": "2026-09-30T06:41:15.307856-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "e2c0d715f3b14444a1de7ed0aa4bd064": {
@@ -1926,7 +1926,7 @@
     "first_seen": "2026-09-30T06:41:17.096576-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "3d3582687f9e0a47964cbdaa80fc9466": {
@@ -2138,7 +2138,7 @@
     "first_seen": "2026-10-01T13:16:53.123472-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "2a6dd976db11fd041c76dce30180eb91": {
@@ -3270,7 +3270,7 @@
     "first_seen": "2026-10-07T06:42:02.153454-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "c49ac8b4f3c90ceb14322ce8e444d0ce": {
@@ -3291,7 +3291,7 @@
     "first_seen": "2026-10-07T06:42:03.930900-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "b1e27b64c972c940e80456788a9d1205": {
@@ -3312,7 +3312,7 @@
     "first_seen": "2026-10-07T06:42:05.718774-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "c1727041f5dc8cd3140b063705223cc2": {
@@ -3333,7 +3333,7 @@
     "first_seen": "2026-10-07T12:32:38.680159-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "e9c0244391bafdc83af39404fe67b278": {
@@ -3480,7 +3480,7 @@
     "first_seen": "2026-10-08T15:45:17.879732-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "689d05191ec1fcce227b05079f87f19d": {
@@ -3501,7 +3501,7 @@
     "first_seen": "2026-10-08T15:45:19.511364-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "a2f8f84acc32450cbbec237ff3ee8c14": {
@@ -4486,7 +4486,7 @@
     "first_seen": "2026-10-14T04:49:08.628527-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-30T23:03:31.403618-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "88e5edf5421fac8bbc87a521f7473750": {
@@ -4507,7 +4507,7 @@
     "first_seen": "2026-10-14T04:49:10.461889-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-30T23:03:31.403618-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "baaf712c6ac1906b3d740f37215809c6": {
@@ -4612,7 +4612,7 @@
     "first_seen": "2026-10-15T09:08:55.675108-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T05:21:27.751061-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "05cd34841729cf600d3f054fb0be51e1": {
@@ -5559,7 +5559,7 @@
     "first_seen": "2026-10-22T22:43:38.639493-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-30T23:03:31.403618-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "508ed83d316134eade8d04ec9fadffb0": {
@@ -5747,7 +5747,7 @@
     "first_seen": "2026-10-25T05:17:27.422964-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-30T23:03:31.403618-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "7e8795acc196ad3be68cf32f2b627cc7": {
@@ -6440,7 +6440,7 @@
     "first_seen": "2026-10-27T20:33:49.900885-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-30T23:03:31.403618-07:00",
+    "checked_at": "2026-11-02T18:58:57.437123-08:00",
     "dead_strikes": 0
   },
   "1fb420f85971b8d94d575db8a910eec5": {
@@ -7354,6 +7354,25 @@
     "posted_at": "6h",
     "priority": 2,
     "first_seen": "2026-11-02T03:57:56.876493-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "a964a3638196bba514ff3b6ceafab1d4": {
+    "id": "a964a3638196bba514ff3b6ceafab1d4",
+    "title": "Sales Development Representative (SDR) at Eleken.",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://remotefirstjobs.com/companies/eleken/jobs/sales-development-representative-sdr-878471",
+    "source": "JobsCollider",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Description\n\n\ud83c\udfe2 Department: Sales Development\n\n\ud83d\udc65 Team: Head of Sales Development &amp; Lead Generation department\n\n\ud83d\udccd Location: Remote\n\n\u23f3 Employment Type: Full-time\n\nWho we are?\n\nEleken is a product design partner for SaaS companies. We work on asubscription-based model, giving clients a fast, stable,",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-02T19:00:09.636000-08:00",
     "status": "active",
     "applied_at": null
   }
