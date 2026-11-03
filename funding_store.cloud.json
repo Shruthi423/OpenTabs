@@ -10602,5 +10602,75 @@
     "roles": [],
     "first_seen": "2026-11-03T02:37:42.286053-08:00",
     "status": "active"
+  },
+  "11007744a1145b9d5deeb93645c7d989": {
+    "id": "11007744a1145b9d5deeb93645c7d989",
+    "company": "Athena",
+    "amount": "$2.5M",
+    "stage": "Pre-Seed",
+    "investors": "Andreessen Horowitz\u2019s accelerator program, a",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/11/03/startup-athena-raises-2-5m-in-pre-seed-funding-to-revamp-the-revenue-model-for-legal-ai/",
+    "priority": 13,
+    "blurb": "Startup Athena raises $2.5M in pre-seed funding to revamp the revenue model for legal AI. Athena Circle Corp., an artificial intelligence-native legal technology startup that\u2019s automating the nitty gritty of commercial real estate deals, said today it has raised $2.5 million in pre-seed funding. The round was led by Andreessen Horowitz\u2019s accelerator program, a16z Speedrun. No other investors were named. Legal AI technology is nothing new, but its adoption in [&#8230;]\nThe post Startup Athena rai",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-03T10:03:50.048481-08:00",
+    "status": "active"
+  },
+  "9d1165ec9caf91a3d662b351fa46682d": {
+    "id": "9d1165ec9caf91a3d662b351fa46682d",
+    "company": "Traversal",
+    "amount": "$120.0M",
+    "stage": "?",
+    "investors": "Kleiner Perkins, Redpoint [&#",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/11/03/traversal-raises-120m-at-1b-valuation-to-build-ai-engineers-that-tackle-software-outages/",
+    "priority": 6,
+    "blurb": "Traversal raises $120M at $1B valuation to build AI engineers that tackle software outages. Traversal, an AI startup building autonomous engineers to diagnose and resolve software outages, has raised $120 million in fresh funding at a $1 billion valuation, joining the growing ranks of AI unicorns. The round was co-led by Kleiner Perkins, Redpoint [&#8230;]\nThe post Traversal raises $120M at $1B valuation to build AI engineers that tackle software outages first appeared on Tech Startups.",
+    "founders": [],
+    "location": "New York",
+    "roles": [
+      {
+        "title": "Brand Designer",
+        "url": "https://jobs.ashbyhq.com/traversal/e25df69d-070e-4b99-a81e-936be497f3ea",
+        "location": "New York"
+      }
+    ],
+    "first_seen": "2026-11-03T10:03:54.897860-08:00",
+    "status": "active"
+  },
+  "2568a155c9ff9743d177e935d748c34d": {
+    "id": "2568a155c9ff9743d177e935d748c34d",
+    "company": "Oracle",
+    "amount": "$20.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/11/03/oracle-to-raise-20-billion-in-stock-and-debt-sales-to-fund-ai-expansion-as-shares-plunge-nearly-9/",
+    "priority": 3,
+    "blurb": "Oracle to raise $20 billion in stock and debt sales to fund AI expansion as shares plunge nearly 9%. Oracle is turning to Wall Street for another $20 billion to finance its massive artificial intelligence ambitions, raising fresh questions about how much debt and shareholder dilution investors will accept before its AI investments begin paying off. The software giant [&#8230;]\nThe post Oracle to raise $20 billion in stock and debt sales to fund AI expansion as shares plunge nearly 9% first appea",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-03T10:03:58.703203-08:00",
+    "status": "active"
+  },
+  "96ef0b1ee47c1a0a96ac4043c6f97958": {
+    "id": "96ef0b1ee47c1a0a96ac4043c6f97958",
+    "company": "Northwood Space",
+    "amount": "$375.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGxVc1BuM3BQUVkwRjRsNjhIY3RNZWRuS0ZpZWhhU0xldUdfUzBGRU1JcTZnM2dZelhQMzhEVlpPTU1obDhHZXpPSUtRVGdvc2NqdFRVQjZraHA4QjhYY2U3ckU1UUtrejRpMW42V3JPWFhFaTBBcWZhWU9FM2t1STdUWkwwT3FXVExhRGVfWDZrNzRONGZDc0ZIV0xoaUw1SHVhSkQ2VQ?oc=5",
+    "priority": 3,
+    "blurb": "Northwood Space Raises $375m at $2bn Valuation to Expand Satellite Infrastructure - Tekedia. Northwood Space Raises $375m at $2bn Valuation to Expand Satellite Infrastructure&nbsp;&nbsp;Tekedia",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-03T10:04:11.289456-08:00",
+    "status": "active"
   }
 }
