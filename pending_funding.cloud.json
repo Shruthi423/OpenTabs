@@ -1,92 +1,152 @@
 [
   {
     "item": {
-      "company": "Guava",
-      "amount": "$12.5M",
-      "stage": "Seed",
-      "investors": "Acrew Capital",
+      "company": "Syncere",
+      "amount": "$11.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
       "location": null,
-      "blurb": "Guava Raises $12.5M Seed. Guava raises $12.5M seed round led by Acrew Capital to expand its full-stack developer platform for building AI voice agents for enterprise use.",
+      "blurb": "Syncere Raises $11M in Pre-Seed Funding to Develop Home Robot Disguised as a Lamp - AI Insider. Syncere Raises $11M in Pre-Seed Funding to Develop Home Robot Disguised as a Lamp&nbsp;&nbsp;AI Insider",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/guava-raises-12-5m-seed/",
-      "priority": 9
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS2Z5WElDVTdROFR4S0J1LVZWSDRFMG9OSHlzS2ZpNktPdkpvTU1INkhUZmExRXAyUkg4R1g0dlE4OGdHcGZsbm45Zk9HdEstMkxqVnpYQmd0cmVaM0NtQkdpS1pFMXY2X2FjV2hlVFpDby1taXk2cDFPYk5WY0ZkR3JyXzM2QlF1WFBrSkh5M2xCaUpzRHlIVVM3MmZ1LTdMekVjQ2VmYjhlSkdMR1BlaWRwaFVFaFJsUVE?oc=5",
+      "priority": 10
     },
-    "remind_at": "2026-11-04T03:22:34.244912-08:00"
+    "remind_at": "2026-11-04T10:53:23.529254-08:00"
   },
   {
     "item": {
-      "company": "E2e",
-      "amount": "$8.0M",
+      "company": "Shackleton AI",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": "Battery Ventures",
+      "location": "New York",
+      "blurb": "Shackleton AI raises $5M led by Battery Ventures to automate construction projects with AI agents. Shackleton AI, a New York-based construction technology startup, has emerged from stealth with $5 million in seed funding led by Battery Ventures, betting that AI agents can take over the administrative work slowing down construction projects. The company says its [&#8230;]\nThe post Shackleton AI raises $5M led by Battery Ventures to automate construction projects with AI agents first appeared on T",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/11/04/shackleton-ai-raises-5m-led-by-battery-ventures-to-automate-construction-projects-with-ai-agents/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-04T10:53:26.407351-08:00"
+  },
+  {
+    "item": {
+      "company": "Brava",
+      "amount": "$15.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
-      "blurb": "E2e Raises $8M Seed. E2e raises $8M in seed funding to develop a verification layer for agentic coding and expand its open-source software testing framework.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/e2e-raises-8m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-04T03:22:38.612744-08:00"
-  },
-  {
-    "item": {
-      "company": "Thermit",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "Mashup Ventures&nbsp",
-      "location": null,
-      "blurb": "AI Commerce Startup Thermit, Operator of Creazy Content Agent, Raises Seed Funding Led by Mashup Ventures - Wowtale. AI Commerce Startup Thermit, Operator of Creazy Content Agent, Raises Seed Funding Led by Mashup Ventures&nbsp;&nbsp;Wowtale",
+      "blurb": "Unit 8200 and Microsoft veterans raise $15 million Seed for cybersecurity startup Brava - CTech. Unit 8200 and Microsoft veterans raise $15 million Seed for cybersecurity startup Brava&nbsp;&nbsp;CTech",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tdjJfQ2lQTlpISDlBOGZ3cXRiM2tRaHZ0TkhYbDU1cjQteE5KTDF5M09CdWpvOG9SRVFpLWh1UFBMaEVrdUV5N2Z6Rl9IQXE3bGww?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzbkJVTmd5bS1DVWNuT2FuZi05cDBTdWN0OWxUcFNQRVNKX2FyYnctZjZTeVc5cGI2emdrVzM3N3NDVXgxc1pwamdJSVEzR0F6LXlUQjEwSW42Tzl6RERTOVZvREF6TnB5?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-11-04T03:22:41.589406-08:00"
+    "remind_at": "2026-11-04T10:53:29.669373-08:00"
   },
   {
     "item": {
-      "company": "Reflex",
-      "amount": "$15.0M",
-      "stage": "Series A",
-      "investors": "Standard Capital",
+      "company": "Estonia\u2019s Golbriak Space",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
       "location": null,
-      "blurb": "Reflex Raises $15M Series A. Reflex raises $15M in Series A funding led by Standard Capital to scale its open-source Python web framework and enterprise features.",
+      "blurb": "Estonia\u2019s Golbriak Space raises seed funding to scale satellite laser communications - BeBeez International. Estonia\u2019s Golbriak Space raises seed funding to scale satellite laser communications&nbsp;&nbsp;BeBeez International",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/reflex-raises-15m-series-a/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQjRjWnhySkxIV2x4Z09iR3lCbDloOFI0TFp5UkNQaUNGelZzcGlaT0lLaW1LdUlCSzNNYUR3b1lLMlltM0FrMDZOTmVtUUlDN1JsNlQ2MUwyUEJaOVBTUjJBTFdsT0d0WjJ3NlBwanNEV3dVem5QQWoyODdZYWFSaTdRcEZjeThSTHI1UnJCSU5TRUU0LVdaUVNnWW5QdU1TeGFGRWNRY1pxWUhZQzM1MFZhWQ?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-11-04T10:53:35.920701-08:00"
+  },
+  {
+    "item": {
+      "company": "Journify",
+      "amount": "$12.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Journify Raises $12 Million Series A to Expand Adtech Platform - CairoScene. Journify Raises $12 Million Series A to Expand Adtech Platform&nbsp;&nbsp;CairoScene",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX2w1ZmY4VHZzaUlwM2JjU2dDT0hWUm5NMTFNQ3JuaWxPRjNlOFFXNTlPc1ZMYXJyOTZ3alcxWUkyQlRuNEN0ZlZNVlhBQ0Q2WlFxY3NCSHhjajhZdE5hcHk2UldKZnhJNDFOWnpMNTlwYnpqanhGVzJHMV9WYmxpVXJTQmZiaVZkbTh2a083Wk5sYW5BS3lpaw?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-11-04T03:22:44.414712-08:00"
+    "remind_at": "2026-11-04T10:53:53.756811-08:00"
   },
   {
     "item": {
-      "company": "Hex Technologies",
-      "amount": "$100.0M",
-      "stage": "Series D",
-      "investors": "Peak XV Partners at a",
-      "location": null,
-      "blurb": "Hex Technologies Raises $100M Series D. Hex Technologies raises $100M Series D led by Peak XV Partners at a $1.2B valuation to advance its AI-powered data analytics and agent-first platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hex-technologies-raises-100m-series-d/",
-      "priority": 5
-    },
-    "remind_at": "2026-11-04T03:22:49.164944-08:00"
-  },
-  {
-    "item": {
-      "company": "Hoxton Wealth",
-      "amount": "$135.0M",
+      "company": "Sequoia",
+      "amount": "$10.0B",
       "stage": null,
-      "investors": "Aspirity Partners",
+      "investors": "Sequoia",
       "location": null,
-      "blurb": "Hoxton Wealth Raises $135M Strategic Minority Investment. Hoxton Wealth raises $135 million in growth capital from Aspirity Partners to expand its wealth management platform and international operations.",
+      "blurb": "Sequoia Raises Approximately $10B in New Funds as Teams Merge - Unite.AI. Sequoia Raises Approximately $10B in New Funds as Teams Merge&nbsp;&nbsp;Unite.AI",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hoxton-wealth-raises-135m-strategic-minority-investment/",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkZvUzFzLTZYeFNQYjNETUozd1ZZN0J2VXpIbUgxM0dLMnlfek1RTnowSG9qa0p5X2piUExWLXA3RnV6VlNtV3NWRmZwWlgtVXYzeUtWd2pwYmRMS1ZpNTVXbGhaUGdpRU9CMVNla2pjNUk1d0pIMWtwZVRVd1ZXalExR1ZLNGhUQWc?oc=5",
+      "priority": 6
+    },
+    "remind_at": "2026-11-04T10:53:56.553118-08:00"
+  },
+  {
+    "item": {
+      "company": "Sentra",
+      "amount": "$150.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Sentra raises $150M to control what AI agents can reach in corporate data. Data security startup Sentra Inc. today revealed it has raised $150 million in new funding to expand its platform for controlling what artificial intelligence agents can reach inside corporate data stores. Sentra, which provides data security software, says its business grew more than 300% over the past year. The platform works on data at rest, [&#8230;]\nThe post Sentra raises $150M to control what AI agents can reach in ",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/04/sentra-raises-150m-to-control-what-ai-agents-can-reach-in-corporate-data/",
       "priority": 3
     },
-    "remind_at": "2026-11-04T03:22:54.547761-08:00"
+    "remind_at": "2026-11-04T10:54:02.549739-08:00"
+  },
+  {
+    "item": {
+      "company": "CrowdStrike",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "CrowdStrike launches AI kill switch to shut down rogue AI agents before they cause damage. CrowdStrike has launched a new AI kill switch that lets companies shut down rogue artificial intelligence agents before they can cause serious damage, addressing one of the biggest security concerns around the growing use of autonomous AI systems. The cybersecurity [&#8230;]\nThe post CrowdStrike launches AI kill switch to shut down rogue AI agents before they cause damage first appeared on Tech Startups.",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/11/04/crowdstrike-launches-ai-kill-switch-to-shut-down-rogue-ai-agents-before-they-cause-damage/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-04T10:54:05.364374-08:00"
+  },
+  {
+    "item": {
+      "company": "Funding News Today",
+      "amount": "$1.3B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Startup Funding News Today, November 4, 2026: Fal, Journify, Traversal, Lazarus AI, Lingchuan Technology & More. The AI funding boom shows no signs of slowing, but investors are increasingly betting on the companies supplying the infrastructure rather than just building the models. Fal emerged as the standout, raising $1.3 billion at a $16 billion valuation as [&#8230;]\nThe post Startup Funding News Today, November 4, 2026: Fal, Journify, Traversal, Lazarus AI, Lingchuan Technology & More first ",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/11/04/startup-funding-news-today-november-4-2026-fal-traversal-lingchuan-technology-more/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-04T10:54:11.219680-08:00"
+  },
+  {
+    "item": {
+      "company": "AI Spend",
+      "amount": "$177.0B",
+      "stage": null,
+      "investors": "Menlo Ventures",
+      "location": null,
+      "blurb": "AI Spend Hit $177 Billion This Year. Only 22% of It Came Out of Software Budgets.  The 4th Annual State of Enterprise AI Report from Menlo Ventures,. Menlo Ventures just released its fourth annual State of Enterprise AI report. Enterprises will spend $176.8 billion deploying AI in 2026, up 5.4x from $33 billion in 2025. AI deployment spend now equals about 30% of public cloud revenue, up from about 6% a year ago. For B2B founders, the more useful number is where... Continue Reading",
+      "founders": [],
+      "source": "SaaStr",
+      "url": "https://www.saastr.com/ai-spend-hit-177-billion-this-year-only-22-of-it-came-out-of-software-budgets/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-04T10:54:14.615127-08:00"
   }
 ]

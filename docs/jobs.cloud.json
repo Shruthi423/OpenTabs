@@ -1,5 +1,22 @@
 [
   {
+    "id": "1e383a280c727312a0c1cd8191fa5a15",
+    "title": "Founding Product Designer",
+    "company": "Sentra",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/sentra/9717d4c7-7500-47af-a5f5-964ae51c1258",
+    "source": "\ud83d\udcb0 Sentra (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-04T10:24:00.418112-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "50f665b76bc1d952465b49ecdb855553",
     "title": "Brand Designer",
     "company": "Hex",
@@ -47,23 +64,6 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-04T02:52:09.659924-08:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "149179f6ac44da813c4224ba6ba20011",
-    "title": "CRM Analytics Professionals (Fintech Services) at Trendyol Group",
-    "company": "Unknown",
-    "location": "Remote",
-    "salary": "See posting",
-    "url": "https://remotefirstjobs.com/companies/trendyol-group/jobs/crm-analytics-professionals-fintech-services-878947",
-    "source": "JobsCollider",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-11-04T02:52:08.009010-08:00",
     "status": "active",
     "jd": "yes"
   },
@@ -557,7 +557,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-03T15:19:41.150739-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "8809c7eb96ff5cd6a47dc57c7e1abf5f",
@@ -590,7 +591,8 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-11-03T15:19:37.966717-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "0843077d23edaab1912e2ded80196a10",
@@ -606,7 +608,8 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-11-03T15:19:36.259034-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "04d1229039983aeee52a6cab93e06c94",

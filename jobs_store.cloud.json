@@ -162,10 +162,10 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-09-22T03:22:17.264063-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-11-04T02:51:12.223603-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
+    "dead_strikes": 2
   },
   "0bdda4a48d2cf2cb72bf6afea0b4bac4": {
     "id": "0bdda4a48d2cf2cb72bf6afea0b4bac4",
@@ -206,7 +206,7 @@
     "first_seen": "2026-09-22T03:22:20.802879-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T08:24:44.181233-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "887aef28ce44fa80a1ab1a3add2580fc": {
@@ -311,7 +311,7 @@
     "first_seen": "2026-09-22T03:22:29.873420-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T08:24:44.181233-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "7b6bee2ac981bf3153494d6365160faa": {
@@ -1254,7 +1254,7 @@
     "first_seen": "2026-09-28T07:30:18.258984-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T08:24:44.181233-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "e76650ece293922318a5eadc9c094b26": {
@@ -1275,7 +1275,7 @@
     "first_seen": "2026-09-28T07:30:19.990583-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T08:24:44.181233-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "6c3a52498c4ad099793ed7e06805fb0e": {
@@ -3774,7 +3774,7 @@
     "first_seen": "2026-10-12T09:07:54.179531-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "7539fd8485b9b9399f2c50dc3ebf5d59": {
@@ -3795,7 +3795,7 @@
     "first_seen": "2026-10-12T09:07:55.690307-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "151d0c21ba0c9be288f83d7e15ac3cab": {
@@ -3816,7 +3816,7 @@
     "first_seen": "2026-10-12T09:07:57.238374-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T08:24:44.181233-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "1d7ee3b6d8dc838a6071203599d1bb22": {
@@ -3837,7 +3837,7 @@
     "first_seen": "2026-10-12T09:07:58.787375-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T08:24:44.181233-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "fd1cb3da55c17849acadde868a0733f4": {
@@ -3858,7 +3858,7 @@
     "first_seen": "2026-10-12T09:08:00.527382-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T08:24:44.181233-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "a652307fcf52042bbeb1d96cfdbd9e91": {
@@ -3879,7 +3879,7 @@
     "first_seen": "2026-10-12T09:08:02.850048-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T08:24:44.181233-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "d41099e81ee258d8830d700370a5f0d4": {
@@ -3900,7 +3900,7 @@
     "first_seen": "2026-10-12T09:08:04.457421-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T08:24:44.181233-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "591a4e353b2d00257c0410deca87d94d": {
@@ -3921,7 +3921,7 @@
     "first_seen": "2026-10-12T09:08:06.006188-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T08:24:44.181233-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "268dfb37b047f41982882e35a7b37f9c": {
@@ -3942,7 +3942,7 @@
     "first_seen": "2026-10-12T09:08:07.709664-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T08:24:44.181233-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "1402ec01f80c06c4d30796de37a84ede": {
@@ -3963,7 +3963,7 @@
     "first_seen": "2026-10-12T09:08:09.403082-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T08:24:44.181233-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "e2b2121e7ca4ae4cff1fcdb8122330d1": {
@@ -3984,7 +3984,7 @@
     "first_seen": "2026-10-12T09:08:11.109303-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T08:24:44.181233-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "e7a32b1786110a501e36a6015dfd361d": {
@@ -4423,7 +4423,7 @@
     "first_seen": "2026-10-13T15:11:39.117000-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T08:24:44.181233-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "b4383b7ed1a43495c62eae6afba5eaf4": {
@@ -4591,7 +4591,7 @@
     "first_seen": "2026-10-14T16:21:17.590923-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "283babf767e5dae0217ad28c561581bb": {
@@ -4717,7 +4717,7 @@
     "first_seen": "2026-10-19T01:24:24.386877-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "2b7b11180d97d1984ef9c0c6d04d6ba4": {
@@ -5495,7 +5495,7 @@
     "first_seen": "2026-10-22T03:39:24.099517-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "d88d9a58ac00541859e7767763296cc9": {
@@ -5516,7 +5516,7 @@
     "first_seen": "2026-10-22T03:39:26.285108-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "96c7088298584a1044f5dc161ae79ff1": {
@@ -6313,7 +6313,7 @@
     "first_seen": "2026-10-26T08:11:55.029274-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "235ca6dda60c2526f71c1d6cf98d0c2c": {
@@ -6334,7 +6334,7 @@
     "first_seen": "2026-10-26T08:11:56.584224-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "08311c6523c97fa434964d9e17ea7beb": {
@@ -6356,7 +6356,7 @@
     "first_seen": "2026-10-26T13:29:18.936424-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
     "dead_strikes": 0
   },
   "ce48ba73f825a28cca5f8284362c0bc0": {
@@ -6942,7 +6942,9 @@
     "priority": 4,
     "first_seen": "2026-11-01T08:25:40.795683-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-04T10:22:05.354073-08:00",
+    "dead_strikes": 0
   },
   "e8a39edc66ad0cdf23056f71dc62a601": {
     "id": "e8a39edc66ad0cdf23056f71dc62a601",
@@ -7628,7 +7630,7 @@
     "first_seen": "2026-11-03T15:19:20.544809-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "4bc972a8c6b746b30a8766034c5d5a1d": {
     "id": "4bc972a8c6b746b30a8766034c5d5a1d",
@@ -7819,7 +7821,7 @@
     "first_seen": "2026-11-03T15:19:36.259034-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "c8637dfb18693272e82f2c185543150a": {
     "id": "c8637dfb18693272e82f2c185543150a",
@@ -7839,7 +7841,7 @@
     "first_seen": "2026-11-03T15:19:37.966717-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "8809c7eb96ff5cd6a47dc57c7e1abf5f": {
     "id": "8809c7eb96ff5cd6a47dc57c7e1abf5f",
@@ -7878,7 +7880,7 @@
     "first_seen": "2026-11-03T15:19:41.150739-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "6663351b356a3afbc5dc6d1519bf6550": {
     "id": "6663351b356a3afbc5dc6d1519bf6550",
@@ -8419,25 +8421,6 @@
     "status": "active",
     "applied_at": null
   },
-  "149179f6ac44da813c4224ba6ba20011": {
-    "id": "149179f6ac44da813c4224ba6ba20011",
-    "title": "CRM Analytics Professionals (Fintech Services) at Trendyol Group",
-    "company": "Unknown",
-    "location": "Remote",
-    "salary": "See posting",
-    "url": "https://remotefirstjobs.com/companies/trendyol-group/jobs/crm-analytics-professionals-fintech-services-878947",
-    "source": "JobsCollider",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "visa": null,
-    "founders": [],
-    "description": "ABOUT THE TEAM\n\nTrendPay is where cutting-edge payment technology meets seamless user experience. This team designs and manages end-to-end payment solutions for millions of users across the globe. Trendyol Pay is focused on building secure, fast, and reliable payment infrastructure not just for toda",
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-11-04T02:52:08.009010-08:00",
-    "status": "active",
-    "applied_at": null
-  },
   "5fd56047f3b34aa47af52de4b04c3d3f": {
     "id": "5fd56047f3b34aa47af52de4b04c3d3f",
     "title": "Product Designer (UX/UI)",
@@ -8493,6 +8476,26 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-04T02:52:46.692283-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "1e383a280c727312a0c1cd8191fa5a15": {
+    "id": "1e383a280c727312a0c1cd8191fa5a15",
+    "title": "Founding Product Designer",
+    "company": "Sentra",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/sentra/9717d4c7-7500-47af-a5f5-964ae51c1258",
+    "source": "\ud83d\udcb0 Sentra (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Sentra raised $150.0M",
+    "founders": [],
+    "description": "At Sentra we embarked on an exciting journey to build a one-of-a-kind company memory to help growing startups overcome scaling challenges. At Sentra https://www.sentra.app/app/memory, we've developed a true AI teammate that understands an organization's context, goals, and culture - offering both IC",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-04T10:24:00.418112-08:00",
     "status": "active",
     "applied_at": null
   }
