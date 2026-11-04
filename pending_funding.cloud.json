@@ -1,62 +1,62 @@
 [
   {
     "item": {
-      "company": "Freshworks CEO",
-      "amount": "$1.0B",
-      "stage": null,
+      "company": "Lingchuan",
+      "amount": "$150.0M",
+      "stage": "Series B",
       "investors": null,
       "location": null,
-      "blurb": "\u2018You have to be willing to make those hard choices\u2019: Freshworks CEO on crossing $1 billion in ARR with 30% fewer employees in the AI software age. Freshworks killed \u201c$5 million ideas\u201d and moved early-career work to AI, Woodside told Fortune. It was like \"saying to somebody that your baby's ugly.\"",
+      "blurb": "Kuaishou-backed chip startup Lingchuan raises $150M Series B - Dealroom. Kuaishou-backed chip startup Lingchuan raises $150M Series B&nbsp;&nbsp;Dealroom",
       "founders": [],
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/11/03/freshworks-1-billion-arr-dennis-woodside-ai-what-companies-stop-doing/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMU56ekRxQlBmZTRnMUJhZlVGUnpYUVloSl9WVG9zUFp6MHhHaVVSbzhFdzNwQ0E4UXU1Q0JkZUdLV1dncjhMVXFWVUhjMTNwTGJ1V055TGdyRkpKUmdHU2hST1l6RnNhOVozMm5jYkt6dGdvQlBvaUNrcklpSEtXb2xBVFJFVDY3R2ZFWXJfaHJuVkRGRjFuaw?oc=5",
+      "priority": 7
     },
-    "remind_at": "2026-11-03T15:51:40.594296-08:00"
+    "remind_at": "2026-11-03T19:36:35.622062-08:00"
   },
   {
     "item": {
-      "company": "fal",
-      "amount": "$1.3B",
-      "stage": null,
-      "investors": null,
+      "company": "Fal",
+      "amount": null,
+      "stage": "Series F",
+      "investors": "Bessemer",
       "location": null,
-      "blurb": "Generative media inference startup fal raises $1.3B at a $16B valuation. Generative media inference startup fal\u00a0today announced it has raised $1.3 billion in new funding at a valuation of $16 billion, according to Bloomberg. The company will spend the money on computing power and on hiring beyond its current 185 employees. Fal provides a cloud platform for running image, video and audio generation models, and developers [&#8230;]\nThe post Generative media inference startup fal raises $1.3B at a ",
+      "blurb": "Fal Announces Series F Led by Bessemer to Expand AI Inference Capacity - Unite.AI. Fal Announces Series F Led by Bessemer to Expand AI Inference Capacity&nbsp;&nbsp;Unite.AI",
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHY0SFI3SGJFMlJsd21SYzFFSWdwejIxbWhYV1JSOTUyT0JCRmd5MlRtckltS0dTa3p4b1YtMzJvN0VORVkwTWF4dVdjcTNqZFd5Qk1TaEtxUXBwdmZOZTdMMlZoNWJkVllPMVNoanNsck1USnNadXJuX1hKcHNWTWRjQkhKa3A5eXBON1FPeExiQ1M0eFhJ?oc=5",
+      "priority": 6
+    },
+    "remind_at": "2026-11-03T19:36:38.428721-08:00"
+  },
+  {
+    "item": {
+      "company": "Applied Compute",
+      "amount": "$350.0M",
+      "stage": null,
+      "investors": "Nvidia Corp",
+      "location": null,
+      "blurb": "AI cloud startup Applied Compute raises $350M after reaching key revenue milestone. Applied Compute Inc., a fast-growing provider of artificial intelligence infrastructure, has raised $350 million in funding at a $3.25 billion valuation. The startup announced the deal on Monday. Prominent angel investor Elad Gil led the round with participation from Nvidia Corp., Shopify Ventures, HubSpot Ventures and more than a dozen others. Applied Compute operates a [&#8230;]\nThe post AI cloud startup Applie",
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/03/generative-media-inference-startup-fal-raises-1-3b-at-a-16b-valuation/",
+      "url": "https://siliconangle.com/2026/11/03/ai-cloud-startup-applied-compute-raises-350m-after-reaching-key-revenue-milestone/",
       "priority": 3
     },
-    "remind_at": "2026-11-03T15:51:43.284811-08:00"
+    "remind_at": "2026-11-03T19:36:47.525692-08:00"
   },
   {
     "item": {
-      "company": "Cresta",
-      "amount": "$2.7B",
+      "company": "Fiddler AI",
+      "amount": "$495.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Salesforce to buy customer service automation startup Cresta for reported $2.7B. Salesforce Inc. has agreed to buy Cresta Intelligence Inc., a venture-backed provider of customer service software. The cloud giant didn\u2019t disclose the financial terms in its late Monday announcement of the deal. The Information reported that Salesforce is paying $2.7 billion. Cresta\u2019s platform uses artificial intelligence to answer customer inquiries. It can also perform more [&#8230;]\nThe post Salesforce to buy cu",
+      "blurb": "CrowdStrike to acquire cybersecurity startups Fiddler AI, Dreadnode for reported $495M. CrowdStrike Holdings Inc. today disclosed plans to buy Fiddler AI Inc. and Dreadnode Inc., two startups that specialize in securing artificial intelligence agents. The company announced the deals alongside an update to its Falcon Guardian product. The Wall Street Journal reported that CrowdStrike will spend $495 million on the acquisitions. Fiddler is believed to account [&#8230;]\nThe post CrowdStrike to acqu",
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/03/salesforce-to-buy-customer-service-automation-startup-cresta-for-reported-2-7b/",
+      "url": "https://siliconangle.com/2026/11/03/crowdstrike-to-acquire-cybersecurity-startups-fiddler-ai-dreadnode-for-reported-495m/",
       "priority": 3
     },
-    "remind_at": "2026-11-03T15:51:45.971292-08:00"
-  },
-  {
-    "item": {
-      "company": "Binance",
-      "amount": "$6.3B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Binance says hackers used fake job interviews and AI tools to steal $6.3 billion in record crypto heist. A fake job interview, a malicious coding assignment, and a compromised internal AI tool helped hackers steal $6.34 billion from Binance in what could be the largest financial heist in history. The world&#8217;s largest cryptocurrency exchange revealed Tuesday that attackers [&#8230;]\nThe post Binance says hackers used fake job interviews and AI tools to steal $6.3 billion in record crypto hei",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/11/03/binance-says-hackers-used-fake-job-interviews-and-ai-tools-to-steal-6-3-billion-in-record-crypto-heist/",
-      "priority": 3
-    },
-    "remind_at": "2026-11-03T15:51:48.785218-08:00"
+    "remind_at": "2026-11-03T19:36:50.820053-08:00"
   }
 ]

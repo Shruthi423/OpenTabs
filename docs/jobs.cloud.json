@@ -1,5 +1,73 @@
 [
   {
+    "id": "03812e7b71acd0000fadc20eb673003e",
+    "title": "UX Test Engineer - New Grad (2027)",
+    "company": "Applied",
+    "location": "Sunnyvale",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4",
+    "source": "\ud83d\udcb0 Applied Compute (just raised)",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 2,
+    "first_seen": "2026-11-03T19:06:45.383011-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "dec535dcff2a27bc7487bf8df091c80a",
+    "title": "Product Design - Tools",
+    "company": "Applied",
+    "location": "Sunnyvale",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/applied/89ce3202-6b09-45db-8dc3-c0bac601f6cb",
+    "source": "\ud83d\udcb0 Applied Compute (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 2,
+    "first_seen": "2026-11-03T19:06:43.671826-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "9ff73b3fad8245d60b633be2eb0a88e3",
+    "title": "Product Designer, Defense",
+    "company": "Applied",
+    "location": "Sunnyvale",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/applied/3036d5f2-5723-4ffb-8599-269435b35200",
+    "source": "\ud83d\udcb0 Applied Compute (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 2,
+    "first_seen": "2026-11-03T19:06:42.191999-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "7bfe22306b4d62da607f216cb5d30505",
+    "title": "Product Designer (7+ YOE)",
+    "company": "Mirage",
+    "location": "Union Square, New York City",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/mirage/3dda30fd-4460-46ec-89ce-64b9dcd7a693",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-11-03T19:06:14.192102-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "adfeafabc835446f2326b9db544eda9d",
     "title": "Product Designer",
     "company": "Adapt",
@@ -349,7 +417,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-03T15:19:47.652670-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "76c5547be4e3f1d65ea736e76e569d19",
@@ -365,7 +434,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-03T15:19:45.992296-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "b08139bc4b8e819159d57ecab4d6f196",
@@ -381,7 +451,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-03T15:19:44.344317-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "6663351b356a3afbc5dc6d1519bf6550",
@@ -397,7 +468,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-03T15:19:42.831643-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d6c8dfeba833617ee120fdfed87bfb3f",
@@ -429,7 +501,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-03T15:19:39.605504-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c8637dfb18693272e82f2c185543150a",
@@ -477,7 +550,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-03T15:19:34.599695-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "878b4122a4358bbeb253ff5bf2bb7fb7",
@@ -493,7 +567,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-03T15:19:33.076673-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a787efc8af00ddeb45202040bd3686c4",
@@ -509,7 +584,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-03T15:19:31.549838-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "58cb17cbd06db6643e38e1925efee371",
@@ -525,7 +601,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-03T15:19:30.040328-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "fab64e8e5306d327248e14e912a45b1b",
@@ -541,7 +618,8 @@
     "posted_at": "Recently",
     "priority": 2,
     "first_seen": "2026-11-03T15:19:28.400723-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c85f8a6e9eb99529145e4949e5d4bd8d",
@@ -557,7 +635,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-03T15:19:26.759492-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "c7a85459c91703b09cf92c8c4e4059b4",
@@ -573,7 +652,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-03T15:19:25.128147-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "757acde589edc684512113a01bdadc01",
@@ -589,7 +669,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-03T15:19:23.484564-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "4bc972a8c6b746b30a8766034c5d5a1d",

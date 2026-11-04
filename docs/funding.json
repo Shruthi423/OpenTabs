@@ -1,5 +1,96 @@
 [
   {
+    "id": "ccf546eec44f248ef961f6125fcdd815",
+    "company": "Fiddler AI",
+    "amount": "$495.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/11/03/crowdstrike-to-acquire-cybersecurity-startups-fiddler-ai-dreadnode-for-reported-495m/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-03T19:06:51.820204-08:00",
+    "status": "active"
+  },
+  {
+    "id": "1112e56590ece7fa4cc5002e034a4fe8",
+    "company": "Applied Compute",
+    "amount": "$350.0M",
+    "stage": "?",
+    "investors": "Nvidia Corp",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/11/03/ai-cloud-startup-applied-compute-raises-350m-after-reaching-key-revenue-milestone/",
+    "priority": 3,
+    "founders": [],
+    "location": "Sunnyvale",
+    "roles": [
+      {
+        "title": "Product Designer, HMI",
+        "url": "https://jobs.ashbyhq.com/applied/4e7b038e-6c5d-4735-8bef-d8425b6985e3",
+        "location": "Sunnyvale"
+      },
+      {
+        "title": "Brand Designer",
+        "url": "https://jobs.ashbyhq.com/applied/e0c23485-f535-4086-8b1e-41c5a0cd6de4",
+        "location": "Sunnyvale"
+      },
+      {
+        "title": "Product Designer, Defense",
+        "url": "https://jobs.ashbyhq.com/applied/3036d5f2-5723-4ffb-8599-269435b35200",
+        "location": "Sunnyvale"
+      },
+      {
+        "title": "Product Design - Tools",
+        "url": "https://jobs.ashbyhq.com/applied/89ce3202-6b09-45db-8dc3-c0bac601f6cb",
+        "location": "Sunnyvale"
+      },
+      {
+        "title": "Product Designer, Defense",
+        "url": "https://jobs.ashbyhq.com/applied/9be0a3c4-4489-4392-9ceb-ac85ff3db3d5",
+        "location": "Sunnyvale"
+      },
+      {
+        "title": "UX Test Engineer - New Grad (2027)",
+        "url": "https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4",
+        "location": "Sunnyvale"
+      }
+    ],
+    "first_seen": "2026-11-03T19:06:48.525843-08:00",
+    "status": "active"
+  },
+  {
+    "id": "1f108e8f62e52b0f55ec7bfa1d71ea1b",
+    "company": "Fal",
+    "amount": "Undisclosed",
+    "stage": "Series F",
+    "investors": "Bessemer",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHY0SFI3SGJFMlJsd21SYzFFSWdwejIxbWhYV1JSOTUyT0JCRmd5MlRtckltS0dTa3p4b1YtMzJvN0VORVkwTWF4dVdjcTNqZFd5Qk1TaEtxUXBwdmZOZTdMMlZoNWJkVllPMVNoanNsck1USnNadXJuX1hKcHNWTWRjQkhKa3A5eXBON1FPeExiQ1M0eFhJ?oc=5",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-03T19:06:39.428961-08:00",
+    "status": "active"
+  },
+  {
+    "id": "1429aafe48991fa8c1a49702c563bae3",
+    "company": "Lingchuan",
+    "amount": "$150.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMU56ekRxQlBmZTRnMUJhZlVGUnpYUVloSl9WVG9zUFp6MHhHaVVSbzhFdzNwQ0E4UXU1Q0JkZUdLV1dncjhMVXFWVUhjMTNwTGJ1V055TGdyRkpKUmdHU2hST1l6RnNhOVozMm5jYkt6dGdvQlBvaUNrcklpSEtXb2xBVFJFVDY3R2ZFWXJfaHJuVkRGRjFuaw?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-03T19:06:36.622259-08:00",
+    "status": "active"
+  },
+  {
     "id": "c54938f00a16a6d3a824632691e91387",
     "company": "Binance",
     "amount": "$6.3B",
