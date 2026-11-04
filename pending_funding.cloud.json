@@ -1,62 +1,92 @@
 [
   {
     "item": {
-      "company": "Lingchuan",
-      "amount": "$150.0M",
-      "stage": "Series B",
+      "company": "Guava",
+      "amount": "$12.5M",
+      "stage": "Seed",
+      "investors": "Acrew Capital",
+      "location": null,
+      "blurb": "Guava Raises $12.5M Seed. Guava raises $12.5M seed round led by Acrew Capital to expand its full-stack developer platform for building AI voice agents for enterprise use.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/guava-raises-12-5m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-04T03:22:34.244912-08:00"
+  },
+  {
+    "item": {
+      "company": "E2e",
+      "amount": "$8.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
-      "blurb": "Kuaishou-backed chip startup Lingchuan raises $150M Series B - Dealroom. Kuaishou-backed chip startup Lingchuan raises $150M Series B&nbsp;&nbsp;Dealroom",
+      "blurb": "E2e Raises $8M Seed. E2e raises $8M in seed funding to develop a verification layer for agentic coding and expand its open-source software testing framework.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/e2e-raises-8m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-04T03:22:38.612744-08:00"
+  },
+  {
+    "item": {
+      "company": "Thermit",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "Mashup Ventures&nbsp",
+      "location": null,
+      "blurb": "AI Commerce Startup Thermit, Operator of Creazy Content Agent, Raises Seed Funding Led by Mashup Ventures - Wowtale. AI Commerce Startup Thermit, Operator of Creazy Content Agent, Raises Seed Funding Led by Mashup Ventures&nbsp;&nbsp;Wowtale",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMU56ekRxQlBmZTRnMUJhZlVGUnpYUVloSl9WVG9zUFp6MHhHaVVSbzhFdzNwQ0E4UXU1Q0JkZUdLV1dncjhMVXFWVUhjMTNwTGJ1V055TGdyRkpKUmdHU2hST1l6RnNhOVozMm5jYkt6dGdvQlBvaUNrcklpSEtXb2xBVFJFVDY3R2ZFWXJfaHJuVkRGRjFuaw?oc=5",
-      "priority": 7
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tdjJfQ2lQTlpISDlBOGZ3cXRiM2tRaHZ0TkhYbDU1cjQteE5KTDF5M09CdWpvOG9SRVFpLWh1UFBMaEVrdUV5N2Z6Rl9IQXE3bGww?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-11-03T19:36:35.622062-08:00"
+    "remind_at": "2026-11-04T03:22:41.589406-08:00"
   },
   {
     "item": {
-      "company": "Fal",
-      "amount": null,
-      "stage": "Series F",
-      "investors": "Bessemer",
+      "company": "Reflex",
+      "amount": "$15.0M",
+      "stage": "Series A",
+      "investors": "Standard Capital",
       "location": null,
-      "blurb": "Fal Announces Series F Led by Bessemer to Expand AI Inference Capacity - Unite.AI. Fal Announces Series F Led by Bessemer to Expand AI Inference Capacity&nbsp;&nbsp;Unite.AI",
+      "blurb": "Reflex Raises $15M Series A. Reflex raises $15M in Series A funding led by Standard Capital to scale its open-source Python web framework and enterprise features.",
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHY0SFI3SGJFMlJsd21SYzFFSWdwejIxbWhYV1JSOTUyT0JCRmd5MlRtckltS0dTa3p4b1YtMzJvN0VORVkwTWF4dVdjcTNqZFd5Qk1TaEtxUXBwdmZOZTdMMlZoNWJkVllPMVNoanNsck1USnNadXJuX1hKcHNWTWRjQkhKa3A5eXBON1FPeExiQ1M0eFhJ?oc=5",
-      "priority": 6
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/reflex-raises-15m-series-a/",
+      "priority": 8
     },
-    "remind_at": "2026-11-03T19:36:38.428721-08:00"
+    "remind_at": "2026-11-04T03:22:44.414712-08:00"
   },
   {
     "item": {
-      "company": "Applied Compute",
-      "amount": "$350.0M",
+      "company": "Hex Technologies",
+      "amount": "$100.0M",
+      "stage": "Series D",
+      "investors": "Peak XV Partners at a",
+      "location": null,
+      "blurb": "Hex Technologies Raises $100M Series D. Hex Technologies raises $100M Series D led by Peak XV Partners at a $1.2B valuation to advance its AI-powered data analytics and agent-first platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hex-technologies-raises-100m-series-d/",
+      "priority": 5
+    },
+    "remind_at": "2026-11-04T03:22:49.164944-08:00"
+  },
+  {
+    "item": {
+      "company": "Hoxton Wealth",
+      "amount": "$135.0M",
       "stage": null,
-      "investors": "Nvidia Corp",
+      "investors": "Aspirity Partners",
       "location": null,
-      "blurb": "AI cloud startup Applied Compute raises $350M after reaching key revenue milestone. Applied Compute Inc., a fast-growing provider of artificial intelligence infrastructure, has raised $350 million in funding at a $3.25 billion valuation. The startup announced the deal on Monday. Prominent angel investor Elad Gil led the round with participation from Nvidia Corp., Shopify Ventures, HubSpot Ventures and more than a dozen others. Applied Compute operates a [&#8230;]\nThe post AI cloud startup Applie",
+      "blurb": "Hoxton Wealth Raises $135M Strategic Minority Investment. Hoxton Wealth raises $135 million in growth capital from Aspirity Partners to expand its wealth management platform and international operations.",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/03/ai-cloud-startup-applied-compute-raises-350m-after-reaching-key-revenue-milestone/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/hoxton-wealth-raises-135m-strategic-minority-investment/",
       "priority": 3
     },
-    "remind_at": "2026-11-03T19:36:47.525692-08:00"
-  },
-  {
-    "item": {
-      "company": "Fiddler AI",
-      "amount": "$495.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "CrowdStrike to acquire cybersecurity startups Fiddler AI, Dreadnode for reported $495M. CrowdStrike Holdings Inc. today disclosed plans to buy Fiddler AI Inc. and Dreadnode Inc., two startups that specialize in securing artificial intelligence agents. The company announced the deals alongside an update to its Falcon Guardian product. The Wall Street Journal reported that CrowdStrike will spend $495 million on the acquisitions. Fiddler is believed to account [&#8230;]\nThe post CrowdStrike to acqu",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/03/crowdstrike-to-acquire-cybersecurity-startups-fiddler-ai-dreadnode-for-reported-495m/",
-      "priority": 3
-    },
-    "remind_at": "2026-11-03T19:36:50.820053-08:00"
+    "remind_at": "2026-11-04T03:22:54.547761-08:00"
   }
 ]

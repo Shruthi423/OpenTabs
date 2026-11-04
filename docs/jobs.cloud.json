@@ -1,5 +1,73 @@
 [
   {
+    "id": "50f665b76bc1d952465b49ecdb855553",
+    "title": "Brand Designer",
+    "company": "Hex",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/hex/50ca3b21-52f0-44bd-88b8-a285a45e38ed",
+    "source": "\ud83d\udcb0 Hex Technologies (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-04T02:52:46.692283-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "fd603ddf2c07c7eed1c3560b9487383e",
+    "title": "Product Designer II",
+    "company": "Whoop",
+    "location": "Boston, MA",
+    "salary": "$125,000 - $170,000",
+    "url": "https://uiuxjobsboard.com/job/1665426-product-designer-ii-boston-ma-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2h",
+    "priority": 4,
+    "first_seen": "2026-11-04T02:52:11.292696-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "5fd56047f3b34aa47af52de4b04c3d3f",
+    "title": "Product Designer (UX/UI)",
+    "company": "See posting",
+    "location": "San Francisco Bay Area, CA",
+    "salary": "Not listed",
+    "url": "https://www.builtinsf.com/job/product-designer-ux-ui/12057544",
+    "source": "BuiltIn SF",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-11-04T02:52:09.659924-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "149179f6ac44da813c4224ba6ba20011",
+    "title": "CRM Analytics Professionals (Fintech Services) at Trendyol Group",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://remotefirstjobs.com/companies/trendyol-group/jobs/crm-analytics-professionals-fintech-services-878947",
+    "source": "JobsCollider",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-04T02:52:08.009010-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "03812e7b71acd0000fadc20eb673003e",
     "title": "UX Test Engineer - New Grad (2027)",
     "company": "Applied",
@@ -149,7 +217,8 @@
     "posted_at": "Recently",
     "priority": 2,
     "first_seen": "2026-11-03T15:20:42.702324-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "099cf32ca7f32523e92e4bfa0efea1c5",
@@ -165,7 +234,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-03T15:20:41.058670-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "6ffeff88c083d18104a87e0c270470f4",
@@ -215,7 +285,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-03T15:20:36.270834-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "52c057d1a854e1f41ed52825eb1c5fdb",
@@ -333,7 +404,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-03T15:20:25.183889-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3f50ca143c066c66a18eb7bda0b6318e",
@@ -686,7 +758,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-03T15:19:21.976849-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "67b29e68c850954dc196043b4377541e",
@@ -735,7 +808,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-03T15:19:17.362983-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "1afd83b6e833e985429459696a4c59a4",
@@ -4865,23 +4939,6 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-10-04T15:25:27.015751-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "1f48915894cb27d755fcca0b261da808",
-    "title": "Product Designer II, Growth and Membership at Brigit",
-    "company": "Unknown",
-    "location": "Remote",
-    "salary": "$90,000 - $115,000",
-    "url": "https://remotefirstjobs.com/companies/brigit/jobs/product-designer-ii-growth-and-membership-867963",
-    "source": "JobsCollider-Product",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-10-03T22:49:57.749488-07:00",
     "status": "active",
     "jd": "yes"
   }

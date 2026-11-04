@@ -164,8 +164,8 @@
     "first_seen": "2026-09-22T03:22:17.264063-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
-    "dead_strikes": 0
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
+    "dead_strikes": 1
   },
   "0bdda4a48d2cf2cb72bf6afea0b4bac4": {
     "id": "0bdda4a48d2cf2cb72bf6afea0b4bac4",
@@ -185,7 +185,7 @@
     "first_seen": "2026-09-22T03:22:19.021719-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "15226e6da22c8bbeb8868d4a73d755be": {
@@ -898,7 +898,7 @@
     "first_seen": "2026-09-25T05:14:50.555658-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "5f79d30033c0b6d809a37936f492afb1": {
@@ -919,7 +919,7 @@
     "first_seen": "2026-09-25T10:14:41.473556-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "9ac28c3d639f08c98b4a70bf904870ff": {
@@ -940,7 +940,7 @@
     "first_seen": "2026-09-25T10:14:43.228538-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "2176990d574c00ec3797d4b0e1a30dac": {
@@ -982,7 +982,7 @@
     "first_seen": "2026-09-25T16:29:08.186164-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "0b53bb078bcdfad538d6de9257c13b28": {
@@ -2914,7 +2914,7 @@
     "first_seen": "2026-10-05T09:00:39.977968-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "d6dc85cac0cb653d5b7fe56ef240f7d5": {
@@ -2935,7 +2935,7 @@
     "first_seen": "2026-10-05T09:00:41.743611-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "b37e39d5902f3b50b074509261f1d9ad": {
@@ -2956,7 +2956,7 @@
     "first_seen": "2026-10-05T09:00:43.492310-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "fe3385b653b77c1c26ee1d2e92f08f68": {
@@ -2977,7 +2977,7 @@
     "first_seen": "2026-10-05T09:00:45.382936-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "7a8815a727eb4ec7c0bd98a91ceb521e": {
@@ -3123,7 +3123,7 @@
     "first_seen": "2026-10-06T08:57:07.806601-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "b2a4ea9a7c95f5fcf8390dd0ea93d17e": {
@@ -3144,7 +3144,7 @@
     "first_seen": "2026-10-06T08:57:09.597537-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "c04435f2b60249b8547190b392c4aea6": {
@@ -3438,7 +3438,7 @@
     "first_seen": "2026-10-07T21:00:43.121369-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "ca861399d7d29ce5287a6adc986a1c49": {
@@ -3585,7 +3585,7 @@
     "first_seen": "2026-10-09T02:38:52.526659-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "f70862c797d91c4b84a29be375bccdb6": {
@@ -3606,7 +3606,7 @@
     "first_seen": "2026-10-09T09:35:42.023904-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "0cfdfff14010103e97eab724de63c087": {
@@ -3627,7 +3627,7 @@
     "first_seen": "2026-10-09T14:17:39.965292-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T01:43:10.175990-08:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "a22652aedb72a2354e48db6b4ced0310": {
@@ -6166,7 +6166,7 @@
     "first_seen": "2026-10-26T08:11:14.401272-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T19:38:18.385932-07:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "047ea51f4435d8e59ce160828c04778c": {
@@ -6187,7 +6187,7 @@
     "first_seen": "2026-10-26T08:11:16.074021-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T19:38:18.385932-07:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "8fe0b6f2687feb30b801900710f8bfce": {
@@ -6208,7 +6208,7 @@
     "first_seen": "2026-10-26T08:11:17.754013-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T19:38:18.385932-07:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "ee147121208c0f356ffd14856ebf2a75": {
@@ -6229,7 +6229,7 @@
     "first_seen": "2026-10-26T08:11:44.826306-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T19:38:18.385932-07:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "b478e7f71706a5a56425940ef8770746": {
@@ -6250,7 +6250,7 @@
     "first_seen": "2026-10-26T08:11:46.661891-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T19:38:18.385932-07:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "4d173559f5268fc7633dc9e6325bcfd9": {
@@ -6271,7 +6271,7 @@
     "first_seen": "2026-10-26T08:11:48.323769-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T19:38:18.385932-07:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "0bd42e635aacecd0ff0c23a3d956ff5d": {
@@ -6292,7 +6292,7 @@
     "first_seen": "2026-10-26T08:11:49.981183-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T19:38:18.385932-07:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "f09164c60377a79d4fa64a7840beecb0": {
@@ -6546,7 +6546,7 @@
     "first_seen": "2026-10-28T18:07:46.421375-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T19:38:18.385932-07:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "2741544970fdc881dd63e5c13e10ccd8": {
@@ -6567,7 +6567,7 @@
     "first_seen": "2026-10-28T18:07:48.074988-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-10-31T19:38:18.385932-07:00",
+    "checked_at": "2026-11-04T02:51:12.223603-08:00",
     "dead_strikes": 0
   },
   "75db837f7c9edd21ce52781e5d6ab5ba": {
@@ -7584,7 +7584,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "ABOUT BEZOS ACADEMY\n\nAt Bezos Academy, we believe all children deserve the great start that excellent early education provides, including in under-resourced communities. Our mission is to nurture the potential in every child to become a creative leader, original thinker, and lifelong learner by inventing the solutions needed to scale early childhood education. We are a unique organization that realizes our mission in two distinct ways. First, we operate a multi-state network of schools in under-resourced communities, offering quality Montessori preschools at no cost to families. Second, we invest in creating tools, products, technology, and other solutions designed to reach children well beyond the walls of our schools. We aspire to have a profound, large-scale impact on children ages zero to five.\n\nDESCRIPTION\nAs a Brand Designer at Bezos Academy, you will provide dedicated support to shape how families first experience a new consumer product and brand, from initial awareness through early engagement. You\u2019ll design thoughtful brand moments across marketing and product experiences, helping parents understand what we offer, why it matters, and how it fits into their daily lives.\nThis role supports the launch and growth of a new, mission-driven product focused on families with young children. You\u2019ll contribute to building the brand from the ground up by designing digital and physical touchpoints that create a clear, consistent, and emotionally resonant story as the product comes to life. You\u2019ll collaborate closely with product designers, other brand designers, curriculum experts, and content partners to bring this experience together across channels. This full-time, 12-month limited term role offers an opportunity to help establish foundational marketing and brand systems while supporting real launches from day one.\n\nLOCATION\nSeattle, WA\n\nThis role is expected to work in-person with other product team members in our office in the Eastlake neighborhood of Seattle at least two days a week.\n\nCOMPENSATION & BENEFITS\nThis is a (12 month) temporary, full-time position anticipated through December 17, 2027. This role is benefits-eligible, and exempt (salaried).\n\nThe full salary range for this position in Seattle, WA is $100,000 - $160,000 per year. The upper portion of the salary range is typically reserved for employees who have been in the role for multiple years and have demonstrated strong performance over time. Starting salary will vary by qualifications and prior experience.\n\nThis role includes an annual accrual of 15 paid days of vacation, 4 days of paid personal time off, 9 paid days of sick (care) time, 9 paid holidays, 5 paid days off for an organization-wide winter break, and additional time off if required by applicable law. Benefits for this role include medical, dental, and vision insurance, life insurance, disability insurance, a 401(k) plan with a 4% employer contribution match, an employer-matched flexible spending account for dependent care, and more. Details on benefits can be found here: https://tinyurl.com/k2au3ch7\n\nMINIMUM QUALIFICATIONS\nBachelor\u2019s degree in a relevant field such as design, visual communication, or equivalent experience\n\nFive or more years of professional experience, including at least two years in brand, marketing, or visual design, with a portfolio demonstrating strong craft across digital and print\n\nExperience designing marketing websites, customer acquisition paths, lifecycle or email communications, and multi-channel brand touchpoints\n\nStrong visual design skills, including typography, layout, hierarchy, and color\n\nExpertise in Figma, including working with components, templates, and scalable systems\n\nFamiliarity with AI-assisted design and development tools, with the ability to independently create and ship end-to-end work\n\nExperience collaborating closely with cross-functional partners and incorporating feedback productively\n\nAbility to take projects from brief to final delivery with minima",
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-03T15:19:17.362983-08:00",
@@ -7627,7 +7627,8 @@
     "priority": 5,
     "first_seen": "2026-11-03T15:19:20.544809-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "4bc972a8c6b746b30a8766034c5d5a1d": {
     "id": "4bc972a8c6b746b30a8766034c5d5a1d",
@@ -7641,7 +7642,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "Job Description At Agilent, you'll help transform the laboratories that are advancing life-changing therapies and expanding our understanding of biological systems. As a UX Designer on our global UX team, you'll create intuitive software and connected workflows that enable scientists to focus on discovery, not technology. This unique role spans Cell Analysis and next-generation Laboratory Automation, offering the opportunity to shape the software experiences scientists use today while helping define the intelligent, automated laboratories of the future. Based in the Santa Clara area, you'll collaborate closely with scientists, product managers, software engineers, and automation experts across Agilent's global organization. Key Responsibilities Cell Analysis Design intuitive software experiences for Cell Analysis instruments, applications, and scientific workflows. Develop a deep understanding of cellular analysis workflows and user needs to create scientifically grounded, user-centered solutions. Translate scientific, technical, business, and user requirements into workflows, prototypes, and intuitive interfaces. Help create a seamless experience across software, instruments, and user touchpoints. Partner with UX researchers and stakeholders to evaluate concepts and improve usability. Laboratory Automation Conduct UX research to understand how scientists and laboratory teams work today and how automation will shape future workflows. Map end-to-end laboratory processes, identifying pain points, opportunities, dependencies, and automation needs. Engage customers and internal experts through interviews, observations, and workshops to uncover insights. Translate research findings into workflow models, recommendations, and opportunity areas that guide product strategy. Collaborate with scientists, automation specialists, product managers, and development teams to ensure solutions are grounded in real-world needs. Validate concepts with users and refine solutions before implementation. Across Both Areas Advocate for the user perspective in cross-functional discussions and decision-making. Partner with Product Management, Engineering, and UX teams throughout discovery, design, development, and validation. Apply and contribute to Agilent's design system to create consistent, scalable experiences. Leverage modern AI-powered design and prototyping tools to accelerate innovation and communication. Help shape the future of connected, intelligent laboratory software that empowers scientists worldwide. Qualifications Minimum Qualifications Bachelor's or Master's degree in UX Design, Interaction Design, Human-Computer Interaction, Human Factors, or a related field. 3+ years of UX design experience in life sciences, laboratory software, medical technology, enterprise software, or other complex technical environments. Experience conducting qualitative UX research and translating findings into actionable product insights. Strong skills in workflow design, interaction design, information architecture, prototyping, and UI design. Proficiency with Figma and modern design tools. Excellent communication and collaboration skills with cross-functional teams. Preferred Qualifications Experience supporting products from discovery through launch. Experience with laboratory automation, instrument-connected software, workflow orchestration, or data-rich applications. Familiarity with software design systems and agile product development. Passion for designing solutions that connect people, software, instruments, and laboratory processes. Additional Details This job has a full time weekly schedule. It includes the option to work remotely. Applications for this job will be accepted until at least November 5, 2026 or until the job is no longer posted. The full-time equivalent pay range for this position is $140,160.00 - $219,000.00/yr plus eligibility for bonus, stock and benefits. Our pay ranges are determined by role, level, and location. Within the range,",
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-03T15:19:21.976849-08:00",
@@ -7818,7 +7819,7 @@
     "first_seen": "2026-11-03T15:19:36.259034-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "c8637dfb18693272e82f2c185543150a": {
     "id": "c8637dfb18693272e82f2c185543150a",
@@ -7838,7 +7839,7 @@
     "first_seen": "2026-11-03T15:19:37.966717-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "8809c7eb96ff5cd6a47dc57c7e1abf5f": {
     "id": "8809c7eb96ff5cd6a47dc57c7e1abf5f",
@@ -7877,7 +7878,7 @@
     "first_seen": "2026-11-03T15:19:41.150739-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "6663351b356a3afbc5dc6d1519bf6550": {
     "id": "6663351b356a3afbc5dc6d1519bf6550",
@@ -8049,7 +8050,7 @@
     "first_seen": "2026-11-03T15:20:25.183889-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "3c461d107d8ce58470c2fbffce782fa8": {
     "id": "3c461d107d8ce58470c2fbffce782fa8",
@@ -8183,7 +8184,7 @@
     "first_seen": "2026-11-03T15:20:36.270834-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "e88acf076edc62fbe54e774a2922b607": {
     "id": "e88acf076edc62fbe54e774a2922b607",
@@ -8241,7 +8242,7 @@
     "first_seen": "2026-11-03T15:20:41.058670-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "08fddb52d87dad5477d84d9ced565f1c": {
     "id": "08fddb52d87dad5477d84d9ced565f1c",
@@ -8261,7 +8262,7 @@
     "first_seen": "2026-11-03T15:20:42.702324-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "5c21cafacaba9767ac8d9e33f3a31bc5": {
     "id": "5c21cafacaba9767ac8d9e33f3a31bc5",
@@ -8415,6 +8416,83 @@
     "posted_at": "Recently",
     "priority": 2,
     "first_seen": "2026-11-03T19:06:45.383011-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "149179f6ac44da813c4224ba6ba20011": {
+    "id": "149179f6ac44da813c4224ba6ba20011",
+    "title": "CRM Analytics Professionals (Fintech Services) at Trendyol Group",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://remotefirstjobs.com/companies/trendyol-group/jobs/crm-analytics-professionals-fintech-services-878947",
+    "source": "JobsCollider",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "ABOUT THE TEAM\n\nTrendPay is where cutting-edge payment technology meets seamless user experience. This team designs and manages end-to-end payment solutions for millions of users across the globe. Trendyol Pay is focused on building secure, fast, and reliable payment infrastructure not just for toda",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-04T02:52:08.009010-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "5fd56047f3b34aa47af52de4b04c3d3f": {
+    "id": "5fd56047f3b34aa47af52de4b04c3d3f",
+    "title": "Product Designer (UX/UI)",
+    "company": "See posting",
+    "location": "San Francisco Bay Area, CA",
+    "salary": "Not listed",
+    "url": "https://www.builtinsf.com/job/product-designer-ux-ui/12057544",
+    "source": "BuiltIn SF",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Design intuitive UX/UI experiences from discovery through launch, rapidly creating wireframes and interactive prototypes, conducting user research, incorporating feedback, and using AI tools to accelerate workflows. The role also supports presentation decks, marketing materials, and website graphics",
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-11-04T02:52:09.659924-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "fd603ddf2c07c7eed1c3560b9487383e": {
+    "id": "fd603ddf2c07c7eed1c3560b9487383e",
+    "title": "Product Designer II",
+    "company": "Whoop",
+    "location": "Boston, MA",
+    "salary": "$125,000 - $170,000",
+    "url": "https://uiuxjobsboard.com/job/1665426-product-designer-ii-boston-ma-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Own and maintain Design System Figma libraries, ensuring alignment with production code and established system architecture, while driving education, adoption, and effective use of the Design System across design, engineering, and product teams.\nCollaborate with design leadership and cross-functional stakeholders to make informed system decisions, balancing visual quality, technical constraints, accessibility, compliance requirements, product timelines, and the needs of designers, developers, and members.\nContribute to quarterly and annual Design System roadmap planning, identifying opportunities to improve product quality and team efficiency while leveraging AI and emerging tools to accelerate workflows and streamline system development.\nChampion design excellence by ensuring Design System elements meet WCAG 2.2 AA accessibility standards, sharing expertise, incorporating feedback, and helping elevate the quality and consistency of experiences across WHOOP.\nQUALIFICATIONS:\n3+ years of professional experience in product design, including at least 1 year of hands-on experience contributing to and governing a design system.\nA portfolio demonstrating meaningful design system contributions, including examples of reusable components, system architecture, or improvements to designer, developer, and end-user experiences.\nStrong visual and interaction design skills, with exceptional attention to detail and a demonstrated ability to create polished, accessible, and scalable UI solutions.\nAdvanced proficiency in Figma, including experience building and maintaining component libraries, variables, styles, and design system documentation.\nStrong understanding of design system principles and architecture, with sufficient technical knowledge to collaborate effectively with engineering partners across web and mobile platforms.\nAbility to independently drive design work from problem definition through execution, navigating ambiguity, incorporating cross-functional feedback, and balancing competing technical, accessibility, and product requirements.\nStrong communication and collaboration skills, with the ability to articulate design decisions, influence stakeholders, and support the adoption of shared systems and standards.\nStrong commitment to embracing and leveraging AI tools in day-to-day tasks, ensuring AI-assisted work aligns with the same high-quality standards as personal contributions.\nThis role is based in the WHOOP office located in Boston, MA. The successful candidate must be prepared to relocate if necessary to work out of the Boston, MA office.\nInterested in the role, but don\u2019t meet every qualification? We encourage you to still apply! At WHOOP, we believe there is much more to a candidate than what is written on paper, and we value character as much as experience. As we continue to build a diverse and inclusive environment, we encourage anyone who is interested in this role to apply.\nWHOOP is an Equal Opportunity Employer and participates in E-verify to determine employment eligibility. It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\nThe WHOOP compensation philosophy is designed to attract, motivate, and retain exceptional talent by offering competitive base salaries, meaningful equity, and consistent pay practices that reflect our mission and core values.\nAt WHOOP, we view total compensation as the combination of base salary, equity, and benefits, with equity serving as a key differentiator that aligns our employees with the long-term success of the company and allows every member of our corporate team to own part of WHOOP and share in the company\u2019s long-term growth and success.\nThe U.S. base salary range for this full-time position is $125,000 - $170,000. Salary ranges are determined by role, level, and location. Within each range, individual pay is based",
+    "posted_at": "2h",
+    "priority": 4,
+    "first_seen": "2026-11-04T02:52:11.292696-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "50f665b76bc1d952465b49ecdb855553": {
+    "id": "50f665b76bc1d952465b49ecdb855553",
+    "title": "Brand Designer",
+    "company": "Hex",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/hex/50ca3b21-52f0-44bd-88b8-a285a45e38ed",
+    "source": "\ud83d\udcb0 Hex Technologies (just raised)",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "is_funded": true,
+    "funding_note": "Hex Technologies raised $100.0M",
+    "founders": [],
+    "description": "ABOUT HEX\n\nHex is growing our team of builders on a mission to make everyone a data person. Our platform solves key pain points with today\u2019s data and analytics tooling, and empowers anyone to explore data using natural language, with or without code, on trusted context. Thousands of customers like R",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-04T02:52:46.692283-08:00",
     "status": "active",
     "applied_at": null
   }
