@@ -5096,7 +5096,7 @@
     "first_seen": "2026-10-19T13:50:42.727591-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T15:54:13.071582-08:00",
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
     "dead_strikes": 0
   },
   "bbdff515791a635cfcbf67988a22d3fa": {
@@ -5117,7 +5117,7 @@
     "first_seen": "2026-10-19T13:50:44.311471-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T15:54:13.071582-08:00",
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
     "dead_strikes": 0
   },
   "da8ae35935844ddef6b752a6f8dbd181": {
@@ -5138,7 +5138,7 @@
     "first_seen": "2026-10-19T13:50:46.104109-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-01T15:54:13.071582-08:00",
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
     "dead_strikes": 0
   },
   "59561dbcdbcf0fbc16ae421477cf9f51": {
@@ -6963,7 +6963,9 @@
     "priority": 3,
     "first_seen": "2026-11-02T03:56:52.546364-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "8e9d4f4bc5cce9d0491f99ab8adfc004": {
     "id": "8e9d4f4bc5cce9d0491f99ab8adfc004",
@@ -6982,7 +6984,9 @@
     "priority": 4,
     "first_seen": "2026-11-02T03:56:54.031052-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "848f39287bd02682f82e972f6a000b80": {
     "id": "848f39287bd02682f82e972f6a000b80",
@@ -7001,7 +7005,9 @@
     "priority": 4,
     "first_seen": "2026-11-02T03:56:55.639218-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "eb4b3062cdbfa93ccf1499ed6d28ab71": {
     "id": "eb4b3062cdbfa93ccf1499ed6d28ab71",
@@ -7020,7 +7026,9 @@
     "priority": 4,
     "first_seen": "2026-11-02T03:56:57.184535-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "69b95ef8fef21e74e66bf8c9b5e405da": {
     "id": "69b95ef8fef21e74e66bf8c9b5e405da",
@@ -7039,7 +7047,9 @@
     "priority": 4,
     "first_seen": "2026-11-02T03:56:58.726393-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "9873644d783e0d369741175a59f3761a": {
     "id": "9873644d783e0d369741175a59f3761a",
@@ -7058,7 +7068,9 @@
     "priority": 4,
     "first_seen": "2026-11-02T03:57:02.078065-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "223a0d9e60749df27b5006ddf8af5b8b": {
     "id": "223a0d9e60749df27b5006ddf8af5b8b",
@@ -7077,7 +7089,9 @@
     "priority": 4,
     "first_seen": "2026-11-02T03:57:03.640467-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "1cf1a7c09e26152e502dfaa8871240b1": {
     "id": "1cf1a7c09e26152e502dfaa8871240b1",
@@ -7096,7 +7110,9 @@
     "priority": 4,
     "first_seen": "2026-11-02T03:57:05.203826-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "aafb7fb93bfdb9dcb430b9c3208d86e0": {
     "id": "aafb7fb93bfdb9dcb430b9c3208d86e0",
@@ -7115,7 +7131,9 @@
     "priority": 5,
     "first_seen": "2026-11-02T03:57:06.872052-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "128c1fee096b79af5718364db062902e": {
     "id": "128c1fee096b79af5718364db062902e",
@@ -7134,7 +7152,9 @@
     "priority": 5,
     "first_seen": "2026-11-02T03:57:08.401588-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "bea70fcbdb30c49540e1786c008a16be": {
     "id": "bea70fcbdb30c49540e1786c008a16be",
@@ -7153,7 +7173,9 @@
     "priority": 1,
     "first_seen": "2026-11-02T03:57:09.950774-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "3af8ea62c064fb06a94f5f3fd0129e08": {
     "id": "3af8ea62c064fb06a94f5f3fd0129e08",
@@ -7172,7 +7194,9 @@
     "priority": 4,
     "first_seen": "2026-11-02T03:57:11.680010-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "875c0583925b385f7898a38647d0666e": {
     "id": "875c0583925b385f7898a38647d0666e",
@@ -7191,7 +7215,9 @@
     "priority": 3,
     "first_seen": "2026-11-02T03:57:13.425950-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "15cd5f50055edb166531e10a2bfd7f17": {
     "id": "15cd5f50055edb166531e10a2bfd7f17",
@@ -7210,7 +7236,9 @@
     "priority": 4,
     "first_seen": "2026-11-02T03:57:15.129952-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "85d902688fd971f7fb390474b7ac46ad": {
     "id": "85d902688fd971f7fb390474b7ac46ad",
@@ -7229,7 +7257,9 @@
     "priority": 4,
     "first_seen": "2026-11-02T03:57:16.687544-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "5d18414fd0e7d26dc6f578a6f7afa7a3": {
     "id": "5d18414fd0e7d26dc6f578a6f7afa7a3",
@@ -7248,7 +7278,9 @@
     "priority": 4,
     "first_seen": "2026-11-02T03:57:18.356511-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "e948f693e02c84315b5f80f1e4bbae54": {
     "id": "e948f693e02c84315b5f80f1e4bbae54",
@@ -7267,7 +7299,9 @@
     "priority": 5,
     "first_seen": "2026-11-02T03:57:20.034820-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "9b84630d940f242c371ea60248695f81": {
     "id": "9b84630d940f242c371ea60248695f81",
@@ -7286,7 +7320,9 @@
     "priority": 5,
     "first_seen": "2026-11-02T03:57:21.699801-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "0c60ec52411cba6da0173dbe0fbe9e89": {
     "id": "0c60ec52411cba6da0173dbe0fbe9e89",
@@ -7305,7 +7341,9 @@
     "priority": 5,
     "first_seen": "2026-11-02T03:57:23.378991-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "812b54bbda54af13b1387eb4e6912188": {
     "id": "812b54bbda54af13b1387eb4e6912188",
@@ -7324,7 +7362,9 @@
     "priority": 4,
     "first_seen": "2026-11-02T03:57:25.045232-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "d54c862177fd451050089a00154bc68a": {
     "id": "d54c862177fd451050089a00154bc68a",
@@ -7343,7 +7383,9 @@
     "priority": 5,
     "first_seen": "2026-11-02T03:57:55.191467-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "2e2f1319c3db65a04ad8cb0889cefd6f": {
     "id": "2e2f1319c3db65a04ad8cb0889cefd6f",
@@ -7362,7 +7404,9 @@
     "priority": 2,
     "first_seen": "2026-11-02T03:57:56.876493-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-05T04:44:37.586395-08:00",
+    "dead_strikes": 0
   },
   "1e857a15dbf4793acfc298057c3594f4": {
     "id": "1e857a15dbf4793acfc298057c3594f4",
@@ -8534,6 +8578,44 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-04T20:42:08.569654-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "d6f7f8311e0b52235ae0fc71246bc19f": {
+    "id": "d6f7f8311e0b52235ae0fc71246bc19f",
+    "title": "Full Stack Java Developer",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://himalayas.app/companies/savageone/jobs/full-stack-java-developer",
+    "source": "Himalayas",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "We have opened our doors in line with our commitment to create jobs and grow our economy and are in search for a Full Stack Developer with a strong background building robust, scalable APIs and beautiful, functional User Interfaces (UIs).",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-05T04:45:40.894745-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "6ce588029be90275feb9e1c038406f56": {
+    "id": "6ce588029be90275feb9e1c038406f56",
+    "title": "Graduate Product Design intern",
+    "company": "ACLU",
+    "location": "New York",
+    "salary": "$43,680 - $43,680",
+    "url": "https://uiuxjobsboard.com/job/1665826-graduate-product-design-intern-new-york-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "The ACLU\u2019s Technology & Analytics team partners with departments across the ACLU in order to build and maintain innovative, robust and secure digital products and technical systems that accelerate the ACLU\u2019s mission as our nationwide guardian of rights and liberties. We are a team of Engineers, Designers, Product Managers, Data Scientists, and Administrators who take pride in creating technical solutions that help raise money, get our message out in the world, mobilize our supporters, and manage our data with integrity.\nWhat You\u2019ll Do:\nThe Product Design internship will be an opportunity to contribute to the web and mobile experiences that drive audience engagement, action, and giving. You'll work with a cross-functional group of Designers, Product Managers and Engineers to research, design, prototype, and deliver compelling digital experiences that help the broader public understand the work the ACLU is doing and understand how they can support it.\nCreate: Design and document wireframes, prototypes, mid-to-high fidelity visual and interaction designs, and web elements ( design system components) for web and mobile experiences.\nResearch : Participate in research and synthesis of feedback from our constituents and stakeholders to make minor and major improvements to our products .\nCollaborat e : Engage with ACLU Product Designers in brainstorms and design critiques , and support projects as needed. \u00a0 .\nTest : Participat e in Quality Assurance testing for components and features before launch , including testing for accessibility compliance .\nCenter principles of equity, inclusion, and belonging in all work, embedding the values in program development, policy application, and organizational practices and processes\nThis internship is geared towards designers who are in or recently completed graduate school in a relevant field. Interns should possess the following:\nA portfolio showcasing examples of relevant digital product design work.\nA systems-first, problem-solving mindset with the ability to transform complex problems into scalable UX features and solutions.\nStrong skills in the areas of UX design, UI design, digital interactions, and accessibility best practices.\nExcellent collaboration and presentation skills.\nFamiliarity with and interest in contributing to Design Systems.\nExperience designing user-centered experiences for the web, across device types, from early concepts to final delivery.\nAbility to create low and high-fidelity designs, user flows, and documentation/specs in Figma. Experience with prototyping in Figma is a plus.\nPlease Note: the ACLU Product Design Team does not currently use AI-powered design or research tools in our processes. We expect all applicants to be proficient in their work without AI support or tooling.\nBe committed to advancing the mission of the ACLU\nCenter and embed the principles of equity, inclusion and belonging in their work by demonstrating commitment to diversity with an approach that respects and values multiple perspectives\nBe committed to work collaboratively and respectfully toward resolving obstacles and conflict\nLocation: Our internship program offers a limited number of remote or hybrid intern positions. This internship can be full-time/part-time and hybrid/remote from our New York City office.\nTime Commitment: Part-time (10,15 or 20hrs/wk) or Full-time (35hrs/wk) Please indicate your availability in your cover letter.\nInternship Duration: Full-time internships span 10 consecutive weeks; Part-time internships span 12 consecutive weeks. This internship has a start date of: Jan. 11th or Jan. 25th, 2027\nStipend: \u00a0A stipend is available for students who are lawfully authorized to work. Arrangements can be made with educational institutions for work/study or course credit.\n$20/hr for undergraduate students or equivalent experience\n$24/hr for graduate students or equivalent experience\nFor over 100 years, the ACLU has worked to defend and preserve the individual rights and liberties g",
+    "posted_at": "4h",
+    "priority": 3,
+    "first_seen": "2026-11-05T04:45:42.561190-08:00",
     "status": "active",
     "applied_at": null
   }
