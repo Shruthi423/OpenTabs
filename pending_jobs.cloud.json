@@ -1,36 +1,53 @@
 [
   {
     "job": {
-      "title": "Full Stack Java Developer",
+      "title": "University of Kentucky College of Design is seeking a  Assistant/Associate Professor of Product Design",
       "company": "Unknown",
       "location": "Remote",
-      "url": "https://himalayas.app/companies/savageone/jobs/full-stack-java-developer",
+      "url": "https://www.coroflot.com/design-jobs/AssistantAssociate-Professor-of-Product-Design-University-of-Kentucky-College-of-Design-Lexington-KY-685481",
       "salary": "See posting",
-      "description": "We have opened our doors in line with our commitment to create jobs and grow our economy and are in search for a Full Stack Developer with a strong background building robust, scalable APIs and beautiful, functional User Interfaces (UIs).",
+      "description": "Lexington, KY",
       "posted_at": "Recently",
-      "source": "Himalayas",
+      "source": "Coroflot",
       "relevant": true,
-      "is_new_grad": false,
+      "is_new_grad": true,
       "is_big_tech": false,
       "visa": null
     },
-    "remind_at": "2026-11-05T05:15:41.533629-08:00"
+    "remind_at": "2026-11-06T15:18:31.822932-08:00"
   },
   {
     "job": {
-      "title": "Graduate Product Design intern",
-      "company": "ACLU",
-      "location": "New York",
-      "url": "https://uiuxjobsboard.com/job/1665826-graduate-product-design-intern-new-york-united-states",
-      "salary": "$43,680 - $43,680",
+      "title": "Product Designer",
+      "company": "Sustainment",
+      "location": "Austin, TX",
+      "url": "https://uiuxjobsboard.com/job/1666626-product-designer-austin-tx-united-states",
+      "salary": "Not listed",
       "description": "",
-      "posted_at": "4h",
+      "posted_at": "17h",
       "source": "UIUXJobsBoard",
       "relevant": true,
       "is_new_grad": false,
       "is_big_tech": false,
       "visa": null
     },
-    "remind_at": "2026-11-05T05:15:43.265137-08:00"
+    "remind_at": "2026-11-06T15:18:33.542898-08:00"
+  },
+  {
+    "job": {
+      "title": "Product Design Intern",
+      "company": "Stripe",
+      "location": "San Francisco, Seattle, New York City",
+      "url": "https://stripe.com/jobs/search?gh_jid=8332681",
+      "salary": "Not listed",
+      "description": "",
+      "posted_at": "Recently",
+      "source": "Stripe",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": true,
+      "visa": null
+    },
+    "remind_at": "2026-11-06T15:18:35.241967-08:00"
   }
 ]

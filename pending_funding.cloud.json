@@ -1,197 +1,302 @@
 [
   {
     "item": {
-      "company": "Simulacra",
+      "company": "Nayara",
       "amount": null,
       "stage": "Pre-Seed",
-      "investors": null,
+      "investors": "SFC Capital",
       "location": null,
-      "blurb": "Simulacra Secures Funding From ANRI. Simulacra raises a pre-seed round from ANRI to scale its AI-driven digital twin foundation model for simulating human behavior and societal decision-making.",
+      "blurb": "Nayara Closes Pre-seed Round. Nayara raises a pre-seed round led by SFC Capital to expand its AI-powered patient companion platform for hospitals and healthcare systems.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/simulacra-secures-funding-from-anri/",
+      "url": "https://www.thesaasnews.com/news/nayara-closes-pre-seed-round/",
       "priority": 10
     },
-    "remind_at": "2026-11-05T05:16:03.317484-08:00"
+    "remind_at": "2026-11-06T15:18:55.583140-08:00"
   },
   {
     "item": {
-      "company": "Venomics AI",
-      "amount": null,
+      "company": "Siggy",
+      "amount": "$6.0M",
       "stage": "Pre-Seed",
-      "investors": "Speciale Invest, South Park Commons - BW Disrupt Venomics AI Raises",
+      "investors": null,
+      "location": "AI",
+      "blurb": "Siggy Raises $6M Pre-seed. Siggy raises $6M in pre-seed funding led by Village Global to expand its AI-based mental health service that monitors patient progress for clinicians.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/siggy-raises-6m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-11-06T15:18:58.395408-08:00"
+  },
+  {
+    "item": {
+      "company": "OnSport AI",
+      "amount": "$2.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
       "location": null,
-      "blurb": "Venomics AI Raises $2.7 Mn In Pre-Seed Round Led By Speciale Invest, South Park Commons - BW Disrupt. Venomics AI Raises $2.7 Mn In Pre-Seed Round Led By Speciale Invest, South Park Commons&nbsp;&nbsp;BW Disrupt",
+      "blurb": "OnSport AI Raises $2M in Pre-Seed Funding - FinSMEs. OnSport AI Raises $2M in Pre-Seed Funding&nbsp;&nbsp;FinSMEs",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbDItMkpXTWhxWWpGaXFpQjRoTjlZdFZpLUNIZnNHZUNSSkN5bkc2eldEY1FyZm9GaUdmTjZWOUR2eEpPZHlyYldHdVFmR2ZLeFoydl83NWF6QUVyTmJaR2NLOUZXQTJQRTQyazdCeFJTR3BtUms3bnpfbTRRYzhVRGgtZFY5V2FYUHBiWHI0dEk4MTlRY2VFR3dobkE0NnVmcHB3dTNoNXhiX1lYSmplWWl2M3VkUGhGRlAySmVqX0NuRTd4dGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUhGUWZrd1dublBWY3J4VkxMc1pqcUpzNHFKZ2N2Wm81cTBLQ2ZENldlNnVJaGg2ckNNaWcwMGdxMmRQVWtWcFNQUUdidm8wcTExMFYwY0dSNE8zaXVuMTJCN0JtVm1BUjlvRk1rV292QVY0Q1dKVTJmdHJlamdEWmg3aw?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-11-05T05:16:06.186094-08:00"
+    "remind_at": "2026-11-06T15:19:01.194114-08:00"
   },
   {
     "item": {
-      "company": "Takenos",
-      "amount": "$7.0M",
-      "stage": "Seed",
-      "investors": "North Island Ventures, Road Capital",
-      "location": null,
-      "blurb": "Takenos Raises $7M Seed Extension. Takenos raises $7M seed extension led by North Island Ventures and Road Capital Management to expand its stablecoin financial platform in Latin America.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/takenos-raises-7m-seed-extension/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-05T05:16:09.086445-08:00"
-  },
-  {
-    "item": {
-      "company": "Enza",
-      "amount": "$6.0M",
+      "company": "Gaio",
+      "amount": "$5.5M",
       "stage": "Seed",
       "investors": null,
       "location": null,
-      "blurb": "Enza Raises $6M Seed Extension. Enza raises $6M in a Seed+ round led by 4DX Ventures to expand its payments infrastructure platform for banks and fintechs across Africa.",
+      "blurb": "Gaio Raises R$5.5M Seed. Gaio raises R$5.5M in a Seed round led by G4 to evolve its social selling platform into an AI-native solution for automated lead conversion.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/enza-raises-6m-seed-extension/",
+      "url": "https://www.thesaasnews.com/news/gaio-raises-r5-5m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-11-05T05:16:12.002585-08:00"
+    "remind_at": "2026-11-06T15:19:03.987315-08:00"
   },
   {
     "item": {
-      "company": "Atmospheric AI",
-      "amount": "$10.0M",
+      "company": "Avanlee Care",
+      "amount": "$3.5M",
       "stage": "Seed",
-      "investors": "DBL Partners",
+      "investors": "BEA Venture Fund",
       "location": null,
-      "blurb": "Atmospheric AI Raises $10M Seed. Atmospheric AI raises $10M in seed funding led by DBL Partners to expand its AI-powered supply chain procurement and carbon footprint modeling platform.",
+      "blurb": "Avanlee Care Raises $3.5M Seed. Avanlee Care raises $3.5M in seed funding led by BEA Venture Fund to expand its caregiver support platform across the Medicare Advantage market.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/atmospheric-ai-raises-10m-seed/",
+      "url": "https://www.thesaasnews.com/news/avanlee-care-raises-3-5m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-11-05T05:16:14.936765-08:00"
+    "remind_at": "2026-11-06T15:19:09.426448-08:00"
   },
   {
     "item": {
-      "company": "Finpilot",
-      "amount": "$10.0M",
-      "stage": "Series A",
-      "investors": "Lobby Capital",
+      "company": "Aformic",
+      "amount": "$6.95M",
+      "stage": "Seed",
+      "investors": null,
       "location": null,
-      "blurb": "Finpilot Raises $10M Series A. Finpilot raises $10M in a Series A round led by Lobby Capital to expand its AI agents that automate administrative workflows for institutional investors.",
+      "blurb": "Aformic Raises $6.95M in Seed Funding to Develop Autonomous Industrial Robots - AI Insider. Aformic Raises $6.95M in Seed Funding to Develop Autonomous Industrial Robots&nbsp;&nbsp;AI Insider",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/finpilot-raises-10m-series-a/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQm4wcG1HbDZ0bWpHY3JfRGtpMnFic0RBMGpHcWE5ZHBWODEwU21EVkRydEhOdGZtblBFajBhd1BXczNoWGhNMktxZUZXTXdOM0VmX1Y1SWlxbkZYZlhUaE1rWDZPWHAzTG9QOUMyR1EwZmItdmxZQTNBV05VOTRWb250V0U2SWU3NW13SnFyenU3aHBmeEhnTml5aUJpZzhCUThVN3VydUo3OFFIWjBXQk4wUU4?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-11-06T15:19:12.334065-08:00"
+  },
+  {
+    "item": {
+      "company": "Shackleton",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": "Battery Ventures&nbsp",
+      "location": null,
+      "blurb": "Construction AI startup Shackleton raises $5 million seed led by Battery Ventures - Dealroom. Construction AI startup Shackleton raises $5 million seed led by Battery Ventures&nbsp;&nbsp;Dealroom",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVzNwX3RLQXd4dkktQ0d2RThGank1R0dxcUp1SXYwa1lxNlBWT2FTVlpSSW52WElkT3NWOG9aamdHaXdKVmtoLWQtMXdBblAtdGtDUk9HbUJnVTY4VDN6R3oya3QyNkc4WmdJZncyU2w0Sl9MeWNFVkg5TF9OVWtuYlN0TXFQaXR5X1ZhRldiNHhjNFZvQmU1YnFaeUVpOXdpWDI5UGlnUmVQRGZJZ0ZfQWp6VnY?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-11-06T15:19:18.899929-08:00"
+  },
+  {
+    "item": {
+      "company": "Kalepa",
+      "amount": "$75.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Five years after its Series A, insurance AI startup Kalepa raises $75M at $470M valuation. Kalepa waited five years between funding rounds and has been cash flow positive for over two years. The&#8230;",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/kalepa-75m-series-b-updata-insurance-ai/",
       "priority": 8
     },
-    "remind_at": "2026-11-05T05:16:17.909947-08:00"
+    "remind_at": "2026-11-06T15:19:21.770025-08:00"
   },
   {
     "item": {
-      "company": "Ocient",
-      "amount": "$100.0M",
-      "stage": "Series C",
+      "company": "Uranium Digital",
+      "amount": "$16.5M",
+      "stage": "Series A",
+      "investors": "Blockchain Capital",
+      "location": null,
+      "blurb": "Uranium Digital Raises $16.5M Series A. Uranium Digital raises $16.5M Series A led by Blockchain Capital to expand its blockchain-based electronic uranium trading platform for institutions.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/uranium-digital-raises-16-5m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-11-06T15:19:27.185127-08:00"
+  },
+  {
+    "item": {
+      "company": "firmly",
+      "amount": "$15.0M",
+      "stage": "Series A",
+      "investors": "Squarepoint Capital",
+      "location": null,
+      "blurb": "firmly Raises $15M Series A. firmly raises $15M Series A round led by Squarepoint Capital to scale its no-code agentic commerce infrastructure platform for merchants.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/firmly-raises-15m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-11-06T15:19:30.007756-08:00"
+  },
+  {
+    "item": {
+      "company": "Claimlane",
+      "amount": null,
+      "stage": "Series A",
       "investors": null,
       "location": null,
-      "blurb": "Ocient raises $100 million as agentic AI drives growth in large-scale analytics. Ocient Inc., the maker of a speedy data analytics platform, today said it has raised $100 million in a Series C funding to expand its agentic artificial intelligence analytics business. That business is fueled by growing demand from national security organizations and telecommunications providers seeking to analyze massive datasets without sampling. The new round brings [&#8230;]\nThe post Ocient raises $100 million ",
+      "blurb": "Claimlane Raises \u20ac5.6M Series A. Claimlane raises \u20ac5.6 million in a Series A funding round to scale its AI-powered aftersales product resolution platform and expand in North America.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/claimlane-raises-5-6m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-11-06T15:19:33.075729-08:00"
+  },
+  {
+    "item": {
+      "company": "URobotics",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Physical AI Startup URobotics Raises USD 30M in Series A Funding for Autonomous Mobility - Wowtale. Physical AI Startup URobotics Raises USD 30M in Series A Funding for Autonomous Mobility&nbsp;&nbsp;Wowtale",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wZ3dVVFpGQUxGV0I2UU1pd3BnVVA4eWpua1Bqc3Q5UFpVcmRzb2lWcEhFUWl2cGVTQXRRa2RqQm41MjM5QloxS0ZfVlVVdjJ5alJr?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-11-06T15:19:35.980123-08:00"
+  },
+  {
+    "item": {
+      "company": "Thinking Machines",
+      "amount": "$5.0B",
+      "stage": null,
+      "investors": "Accel",
+      "location": null,
+      "blurb": "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push. Thinking Machines Labs Inc. has released a new large language model that can automate artificial intelligence training tasks. The algorithm, Inkling 2 Small, made its debut late Thursday. Around the same time, Business Insider reported that Thinking Machine is in the process of raising a $5 billion funding round led by Accel. The company, which [&#8230;]\nThe post Thinking Machines debuts Inkling 2 Small amid reported $5",
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/05/ocient-raises-100-million-as-agentic-ai-drives-growth-in-large-scale-analytics/",
+      "url": "https://siliconangle.com/2026/11/06/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/",
       "priority": 6
     },
-    "remind_at": "2026-11-05T05:16:21.031693-08:00"
+    "remind_at": "2026-11-06T15:19:38.848141-08:00"
   },
   {
     "item": {
-      "company": "Pliant",
+      "company": "Zipline",
+      "amount": "$21.5B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery. Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-06T15:19:41.616210-08:00"
+  },
+  {
+    "item": {
+      "company": "Level AI",
+      "amount": "$325.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Five9 buys contact center intelligence startup Level AI after posting narrow earnings beat. Contact center company Five9 Inc. flexed its acquisitive muscles today as it announced a $325 million all-cash deal to buy an artificial intelligence-native rival called Level AI as it posted its third-quarter financial results. The deal is expected to close in the fourth quarter, subject to customary closing conditions. Five9 is a leading player in [&#8230;]\nThe post Five9 buys contact center intelligenc",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/05/five9-buys-contact-center-intelligence-startup-level-ai-after-posting-narrow-earnings-beat/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-06T15:19:44.568069-08:00"
+  },
+  {
+    "item": {
+      "company": "Funding News Today",
+      "amount": "$1.5B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Startup Funding News Today, November 6, 2026: Zipline, Harbinger, Humble Robotics, Kalepa, Ocient & More. One drone-delivery startup just raised more capital than most companies will see in a lifetime. Zipline secured $1.5 billion at a $21.5 billion valuation, leading a new wave of venture investment in companies building the infrastructure, machines, and specialized software [&#8230;]\nThe post Startup Funding News Today, November 6, 2026: Zipline, Harbinger, Humble Robotics, Kalepa, Ocient & Mo",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/11/06/startup-funding-news-today-november-6-2026-zipline-harbinger-humble-robotics-kalepa-ocient-more/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-06T15:19:50.191025-08:00"
+  },
+  {
+    "item": {
+      "company": "Zipline",
+      "amount": "$1.5B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Zipline raises $1.5 billion at $21.5 billion valuation to expand drone delivery across the U.S.. Drone delivery startup Zipline has raised $1.5 billion in fresh funding at a $21.5 billion valuation, nearly tripling its worth in just 10 months as it prepares to bring autonomous delivery to homes across America. The massive investment comes alongside [&#8230;]\nThe post Zipline raises $1.5 billion at $21.5 billion valuation to expand drone delivery across the U.S. first appeared on Tech Startups.",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/11/05/zipline-raises-1-5-billion-at-21-5-billion-valuation-to-expand-drone-delivery-across-the-u-s/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-06T15:19:52.974147-08:00"
+  },
+  {
+    "item": {
+      "company": "Saidot",
+      "amount": null,
+      "stage": null,
+      "investors": "BackingMinds",
+      "location": null,
+      "blurb": "Saidot Secures Funding Round. Saidot raises new capital led by BackingMinds with participation from Crowberry Capital and Ventic to expand its AI governance platform to the US market.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/saidot-secures-funding-round/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-06T15:19:56.244751-08:00"
+  },
+  {
+    "item": {
+      "company": "Numica",
+      "amount": "$21.0M",
+      "stage": null,
+      "investors": "Flashpoint Capital",
+      "location": null,
+      "blurb": "Numica Raises $21M in Funding. Numica raises $21M in growth capital from Roosh X and Flashpoint Capital to accelerate its acquisition of accounting firms and scale its AI platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/numica-raises-21m-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-06T15:19:59.214376-08:00"
+  },
+  {
+    "item": {
+      "company": "Future",
       "amount": "$80.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "blurb": "Pliant Raises $80M Series C. Pliant raises $80 million in a Series C round led by Seaya Nova and Speedinvest to expand its B2B payment infrastructure for AI agents.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/pliant-raises-80m-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-11-05T05:16:25.481447-08:00"
-  },
-  {
-    "item": {
-      "company": "EloElo Group",
-      "amount": "$80.0M",
-      "stage": "Series C",
-      "investors": "Hornbill Capital",
-      "location": null,
-      "blurb": "EloElo Group Raises $80M Series C. EloElo Group raises $80 million in Series C funding led by Hornbill Capital and NBCUniversal to expand its AI-powered entertainment platform globally.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/eloelo-group-raises-80m-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-11-05T05:16:31.558640-08:00"
-  },
-  {
-    "item": {
-      "company": "Nooks",
-      "amount": "$500.0M",
-      "stage": null,
-      "investors": "General Catalyst",
-      "location": null,
-      "blurb": "Nooks Raises $500M Growth Capital. Nooks raises $500 million in growth capital from General Catalyst to scale its revenue agent platform and launch its new AI sales assistant, Node.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/nooks-raises-500m-growth-capital/",
-      "priority": 6
-    },
-    "remind_at": "2026-11-05T05:16:34.515076-08:00"
-  },
-  {
-    "item": {
-      "company": "Construction Robotics Funding Soars",
-      "amount": "$1.6B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Sector Snapshot: Construction Robotics Funding Soars To $1.6B, Tripling Previous Peak. Companies spanning construction and robotics have raised about $1.6 billion so far this year  \u2014\u00a0more than 4x the $389 million recorded in all of 2025 \u2014 according to Crunchbase data. The surge was driven by three companies that raised the majority of the funding.",
-      "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/sector-snapshot-2026-construction-robotics-funding-soars-bedrock/",
-      "priority": 3
-    },
-    "remind_at": "2026-11-05T05:16:40.573181-08:00"
-  },
-  {
-    "item": {
-      "company": "Mindmax",
-      "amount": "$3.3M",
-      "stage": null,
-      "investors": "Concept Ventures",
-      "location": null,
-      "blurb": "Mindmax Raises $3.3M in Funding. Mindmax raises $3.3M in funding led by Concept Ventures to advance its AI-powered interactive learning platform for professional exam preparation.",
+      "blurb": "Future Secure AI Raises $80M Other. Future Secure AI raises $80 million at a $1.2 billion valuation to scale its AI co-worker platform for global enterprise clients.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/mindmax-raises-3-3m-other/",
+      "url": "https://www.thesaasnews.com/news/future-secure-ai-raises-80m-other/",
       "priority": 3
     },
-    "remind_at": "2026-11-05T05:16:43.322091-08:00"
-  },
-  {
-    "item": {
-      "company": "Lazarus AI",
-      "amount": "$43.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Lazarus AI Raises $43M in Funding. Lazarus AI raises $43 million to scale its independent AI platform that allows enterprises and governments to retain control over their data and models.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/lazarus-ai-raises-43m-unknown/",
-      "priority": 3
-    },
-    "remind_at": "2026-11-05T05:16:56.254665-08:00"
+    "remind_at": "2026-11-06T15:20:02.259368-08:00"
   }
 ]
