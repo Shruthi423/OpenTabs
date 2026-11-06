@@ -6,7 +6,8 @@ name: OpenTabs cloud scrape
 
 on:
   schedule:
-    - cron: "*/15 * * * *"      # every ~15 min (GitHub may delay under load)
+    - cron: "*/30 * * * *"      # every ~30 min (GitHub throttles tighter
+                                # schedules on free runners and silently skips runs)
   workflow_dispatch:            # let you trigger a run by hand from the Actions tab
 
 # Don't let a slow run overlap the next scheduled one.
