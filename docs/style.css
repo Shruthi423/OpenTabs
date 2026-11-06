@@ -187,32 +187,15 @@ a.role:hover { border-bottom-color: var(--spec); }
 .col-head .hint { color: var(--mut); font-size: 11px; }
 .col-head .showing { color: var(--co); font-size: 11px; }
 .col-head .clear-all { margin-left: auto; }
-.job { display: block; padding: 16px 18px 16px 46px; border-bottom: 1px solid var(--line); }
+.job { display: block; padding: 16px 18px; border-bottom: 1px solid var(--line); }
 /* Fixed height, centred: a 17px LinkedIn icon used to make some top rows
-   taller than others, so company names (and the checkbox beside them) sat at
-   a different height from card to card. */
+   taller than others, so company names sat at a different height from card
+   to card. */
 .job-top {
   display: flex; align-items: center; gap: 8px; height: 24px;
   color: var(--mut); font-size: 11px; margin-bottom: 9px;
 }
 .job-top .idx { color: var(--mut); }
-/* The checkbox lives alone in the left gutter, centred on the 24px top row
-   (16px card padding + (24 - 15) / 2). Every line of text starts at the same
-   left edge beside it. */
-.job-check {
-  position: absolute; left: 18px; top: 20px; width: 15px; height: 15px; margin: 0; cursor: pointer;
-  /* outline only: no fill, the tick is drawn by hand */
-  -webkit-appearance: none; appearance: none; background: transparent;
-  border: 1.5px solid var(--mut); border-radius: 3px;
-  transition: border-color .15s ease;
-}
-.job-check:hover { border-color: var(--fg); }
-.job-check:checked { border-color: var(--co); }
-.job-check:checked::after {
-  content: ""; position: absolute; left: 4px; top: 0px; width: 4px; height: 8px;
-  border: solid var(--co); border-width: 0 1.5px 1.5px 0; transform: rotate(45deg);
-}
-.job-check:focus-visible { outline: 1px solid var(--co); outline-offset: 2px; }
 .job { position: relative; }
 .job-top .co { color: var(--fg); }
 .job-top .src { margin-left: auto; display: inline-flex; align-items: center; gap: 4px; }
@@ -261,7 +244,7 @@ a.role:hover { border-bottom-color: var(--spec); }
 /* Filing is always available and never the point, so it sits apart from the
    verbs that move a job forward. One rule for all three card types. */
 .verbs-tail { margin-left: auto; display: inline-flex; align-items: baseline; gap: 14px; }
-.verb.quiet { color: var(--mut); }
+.verb.quiet { color: var(--danger); }
 .verb.quiet:hover { color: var(--danger); border-bottom-color: var(--danger); }
 .vsep { color: var(--mut); opacity: .5; }
 /* The focused card is read from further back, so its verbs scale up. */
@@ -282,8 +265,8 @@ a.verb { text-decoration: none; }
 .job-meta .sep { opacity: .45; margin: 0 5px; }
 .badge {
   white-space: nowrap;            /* "1 design role" was wrapping to 2 lines */
-  font-size: 10px; letter-spacing: 0;
-  border: 1px solid var(--line); border-radius: 20px; padding: 2px 8px; color: var(--fg);
+  font-size: 10px; letter-spacing: .01em; line-height: 1.5;
+  border: 1px solid var(--line); border-radius: 20px; padding: 4px 10px; color: var(--fg);
 }
 .job-title { cursor: pointer; }
 /* Wraps rather than overflows: the footer gained a second button and at
@@ -390,7 +373,10 @@ body.drawer-trash #drawerTrash {
 .clear-all {
   background: none; border: 0; cursor: pointer; color: var(--danger);
   font-family: var(--font-ui); font-size: 11px; padding: 0; white-space: nowrap;
-  font-weight: 500; letter-spacing: .02em;
+  font-weight: 500;
+  /* All caps, like the verb line: these are the header's own actions and the
+     tracking keeps them legible at 11px once capitalised. */
+  text-transform: uppercase; letter-spacing: .07em;
   border-bottom: 1px solid transparent;
 }
 .clear-all:hover { border-bottom-color: var(--danger); }
@@ -704,7 +690,7 @@ a.cog-co:hover { text-decoration: underline; }
   font-size: 13px; color: var(--mut); line-height: 1.7;
 }
 .cog-card .cog-meta .sep { margin: 0 9px; opacity: .45; }
-.cog-card .badges { display: flex; flex-wrap: wrap; gap: 7px; }
+.cog-card .badges { display: flex; flex-wrap: wrap; gap: 8px 9px; }
 .cog-card .roles { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
 
 /* Read it, then decide: open is the loud one, filing is quiet. */
@@ -926,7 +912,7 @@ a.cog-co:hover { text-decoration: underline; }
    parts, so the columns line up rank for rank. Anything that cannot fit
    is truncated on its own line — never allowed to spill past the card
    edge or push the action row out. */
-:root { --row-h: calc(var(--spec-size) * 2.2 + 62px); --card-h: 220px; }   /* a floor, not a fixed height */
+:root { --row-h: calc(var(--spec-size) * 2.2 + 62px); --card-h: 252px; }   /* a floor, not a fixed height */
 
 /* Cards size to their content now. The fixed row height existed so pill
    footers lined up across columns, but with a verb line pinned to the
@@ -975,7 +961,7 @@ a.cog-co:hover { text-decoration: underline; }
 .col-raised .job > .job-title { -webkit-line-clamp: 1; }
 /* The card's own badges sit on their own line now that the footer is a
    sentence rather than a row competing for width. */
-.job .badges { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 9px; }
+.job .badges { display: flex; flex-wrap: wrap; gap: 8px 9px; margin-top: 13px; }
 
 /* The Applied / Trash edge tabs float over the right edge of the board, so
    the last column keeps a lane clear for them instead of letting them sit

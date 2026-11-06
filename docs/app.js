@@ -13,7 +13,7 @@ let FUND = [];                          // raw data from funding.json
 
 const state = {
   q: "", source: [], loc: [], date: "",              // source/loc = multi
-  mode: localStorage.getItem("mode") || "board",    // board | cognition
+  mode: "board",                                    // cognition mode was retired from the rail
   cog: localStorage.getItem("cogCol") || "today",   // which column cognition mode works
   view: localStorage.getItem("view") === "list" ? "list" : "board",   // board (3 columns) | list (one)
   tab: localStorage.getItem("tab") || "today",       // which column the list view shows
@@ -24,9 +24,9 @@ const state = {
 };
 /* Labels for the confirm dialog and the empty states. */
 const LABELS = { today: "Last 24h", prev: "Older than 24h", raised: "Just Raised", app: "Applied", trash: "Trash" };
-/* Rail modes. "board" is this three-column triage surface; "brain" is
-   cognition mode — the icon is in the rail but the mode does not exist
-   yet, so it is listed here and deliberately not switchable. */
+/* Rail modes. "board" is this three-column triage surface. Cognition mode
+   ("brain") was retired from the rail: its code below is still here and
+   working, but nothing can reach it until a control is put back. */
 const MODES = ["board", "cognition"];
 const COG_COLS = ["today", "prev", "raised"];
 const THEMES = ["dark", "paper", "blush", "mint", "cream"];
@@ -976,17 +976,19 @@ function jobHTML(j, n, mode) {
     "posted " + esc(postedAgo(j)),
   ].filter(Boolean).join('<span class="sep">·</span>');
 
+  const pending = mode !== "app" && APPLY_T[j.id];
+  const applyVerb = mode === "app"
+    ? verb("unapply", { label: "applied", done: true, hint: "Applied — click to move it back to the board" })
+    : verb("apply", { label: "applied", done: !!pending, hint: "File this posting to Applied" });
   const verbs = mode === "trash"
     ? verb("restore", { label: "put it back" })
-    : [ verb("resume", RESUME_VERB[RESUMES[j.id]] || RESUME_VERB.undefined),
+    : [ applyVerb,
+        verb("resume", RESUME_VERB[RESUMES[j.id]] || RESUME_VERB.undefined),
         verb("reach", outreachVerb(j)),
       ].filter(Boolean).join('<span class="vsep">·</span>')
-      + `<span class="verbs-tail">${verb("delete", { label: "not for me", quiet: true, hint: "Move to Trash" })}</span>`;
+      + `<span class="verbs-tail">${verb("delete", { label: "remove", quiet: true, hint: "Move to Trash" })}</span>`;
 
-  const hasCheck = mode !== "trash";
-  const pending = mode !== "app" && APPLY_T[j.id];
   return `<div class="job${pending ? " is-done" : ""}" data-id="${esc(j.id)}"${j._ids ? ` data-ids="${esc(j._ids.join(" "))}"` : ""} data-url="${esc(j.url || "#")}" data-title="${esc(j.title)}" data-flip-id="${esc(j.id)}" style="--age:${decayOf(j).toFixed(3)}">
-      ${hasCheck ? `<input type="checkbox" class="job-check" data-act="${mode === "app" ? "unapply" : "apply"}"${mode === "app" || pending ? " checked" : ""} title="${mode === "app" ? "Applied — uncheck to move back to the board" : "Check when you've applied"}" aria-label="Applied">` : ""}
       <div class="job-top">
         <span class="idx">${idx}</span>
         ${co}
@@ -1042,7 +1044,7 @@ function raiseHTML(f, n) {
       <div class="verbs">
         ${f.url ? `<a class="verb" href="${esc(f.url)}" target="_blank" rel="noopener">read the article</a><span class="vsep">·</span>` : ""}
         ${verb("reach", { label: "find people", hint: `Designers and design hiring at ${f.company}` })}
-        <span class="verbs-tail">${verb("dismiss", { label: "not for me", quiet: true, hint: "Dismiss this raise" })}</span>
+        <span class="verbs-tail">${verb("dismiss", { label: "remove", quiet: true, hint: "Dismiss this raise" })}</span>
       </div>
     </div>`;
 }
@@ -1375,8 +1377,8 @@ function cogJobHTML(j) {
         ${ov ? `<button class="verb${ov.done ? " is-done" : ""}${ov.live ? " is-live" : ""}" type="button" data-cog-act="reach" title="${esc(ov.hint)}">${esc(ov.label)} <kbd>P</kbd></button><span class="vsep">·</span>` : ""}
         <button class="verb${rv.done ? " is-done" : ""}" type="button" data-cog-act="resume" title="${esc(rv.hint)}">${esc(rv.label)} <kbd>R</kbd></button>
         <span class="verbs-tail">
-          <button class="verb" type="button" data-cog-act="apply">mark applied <kbd>A</kbd></button>
-          <button class="verb quiet" type="button" data-cog-act="trash">not for me <kbd>X</kbd></button>
+          <button class="verb" type="button" data-cog-act="apply">applied <kbd>A</kbd></button>
+          <button class="verb quiet" type="button" data-cog-act="trash">remove <kbd>X</kbd></button>
         </span>
       </div>
     </article>`;
@@ -1402,7 +1404,7 @@ function cogRaiseHTML(f) {
       ${rolesLine}
       <div class="verbs verbs-lg">
         ${f.url ? `<a class="verb" href="${esc(f.url)}" target="_blank" rel="noopener">read the article <kbd>&crarr;</kbd></a><span class="vsep">·</span>` : ""}
-        <button class="verb" type="button" data-cog-act="dismiss">not for me <kbd>X</kbd></button>
+        <button class="verb quiet" type="button" data-cog-act="dismiss">remove <kbd>X</kbd></button>
       </div>
     </article>`;
 }
@@ -1753,13 +1755,15 @@ function bind() {
       return;
     }
     if (e.target.closest('[data-act="apply"]')) {
-      // Tick: strike through and dim the card, then file it a moment later so
-      // the change is seen. Unticking in that window cancels it.
+      // Strike through and dim the card, then file it a moment later so the
+      // change is seen. Clicking again inside that window cancels it.
+      const wasPending = !!APPLY_T[id];
       clearTimeout(APPLY_T[id]); delete APPLY_T[id];
-      if (e.target.checked) {
+      if (wasPending) { card.classList.remove("is-done"); render(false); }
+      else {
         card.classList.add("is-done");
         APPLY_T[id] = setTimeout(() => { delete APPLY_T[id]; setApplied(ids, true); render(false); }, 900);
-      } else card.classList.remove("is-done");
+      }
       return;
     }
     if (e.target.closest('[data-act="unapply"]')) { setApplied(ids, false); render(false); return; }
