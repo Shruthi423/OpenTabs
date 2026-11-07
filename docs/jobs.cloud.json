@@ -1,5 +1,22 @@
 [
   {
+    "id": "35b606389e054780c35774c63ca2968c",
+    "title": "Product Designer",
+    "company": "Lumaril",
+    "location": "New York",
+    "salary": "$200,000 - $250,000",
+    "url": "https://uiuxjobsboard.com/job/1667626-product-designer-new-york-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2h",
+    "priority": 3,
+    "first_seen": "2026-11-07T02:32:14.891007-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "26348d2fdd659b5b88f7f98801a945bc",
     "title": "Product Design Intern",
     "company": "Stripe",
@@ -319,23 +336,6 @@
     "posted_at": "Recently",
     "priority": 2,
     "first_seen": "2026-11-03T15:20:42.702324-08:00",
-    "status": "active",
-    "jd": "no"
-  },
-  {
-    "id": "099cf32ca7f32523e92e4bfa0efea1c5",
-    "title": "Service Designer",
-    "company": "Steampunk",
-    "location": "Mc Lean, VA",
-    "salary": "See posting",
-    "url": "https://careers-steampunk.icims.com/jobs/8350/service-designer/job",
-    "source": "UX Jobs (Substack)",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 4,
-    "first_seen": "2026-11-03T15:20:41.058670-08:00",
     "status": "active",
     "jd": "no"
   },
@@ -680,23 +680,6 @@
     "jd": "yes"
   },
   {
-    "id": "c8637dfb18693272e82f2c185543150a",
-    "title": "UX Researcher (Mid-Level) - Contract Role / NYC",
-    "company": "User Research International",
-    "location": "New York City, NY",
-    "salary": "See posting",
-    "url": "https://userresearchinternationalllc.applytojob.com/apply/bsXPYKZvmd/UX-RESEARCHER-MIDLEVEL-CONTRACT-ROLE-NYC",
-    "source": "UX Jobs (Substack)",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 3,
-    "first_seen": "2026-11-03T15:19:37.966717-08:00",
-    "status": "active",
-    "jd": "no"
-  },
-  {
     "id": "0843077d23edaab1912e2ded80196a10",
     "title": "Digital Product Designer",
     "company": "Ajaia",
@@ -712,23 +695,6 @@
     "first_seen": "2026-11-03T15:19:36.259034-08:00",
     "status": "active",
     "jd": "no"
-  },
-  {
-    "id": "04d1229039983aeee52a6cab93e06c94",
-    "title": "Product Designer (Wearables)",
-    "company": "TEKsystems",
-    "location": "San Francisco, CA",
-    "salary": "See posting",
-    "url": "https://careers.teksystems.com/us/en/job/JP-006373762/Product-Designer-Wearables",
-    "source": "UX Jobs (Substack)",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 1,
-    "first_seen": "2026-11-03T15:19:34.599695-08:00",
-    "status": "active",
-    "jd": "yes"
   },
   {
     "id": "878b4122a4358bbeb253ff5bf2bb7fb7",
@@ -761,23 +727,6 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-03T15:19:31.549838-08:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "58cb17cbd06db6643e38e1925efee371",
-    "title": "Service Designer, Intelligence & Investigations",
-    "company": "OpenAI",
-    "location": "San Francisco, CA",
-    "salary": "See posting",
-    "url": "https://jobs.ashbyhq.com/openai/33250b88-936a-4994-950c-fc5fe346446c",
-    "source": "UX Jobs (Substack)",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 1,
-    "first_seen": "2026-11-03T15:19:30.040328-08:00",
     "status": "active",
     "jd": "yes"
   },
@@ -4416,23 +4365,6 @@
     "posted_at": "2h",
     "priority": 5,
     "first_seen": "2026-10-07T06:41:57.202770-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "ca1ff4d2300ef02f81ebb17d4f2a1192",
-    "title": "Product Designer",
-    "company": "Sant\u00e9 (S23)",
-    "location": "New York, NY, US",
-    "salary": "$120K - $160K",
-    "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D112874&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29042",
-    "source": "Y Combinator",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 3,
-    "first_seen": "2026-10-06T23:16:30.525731-07:00",
     "status": "active",
     "jd": "yes"
   }

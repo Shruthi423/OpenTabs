@@ -185,7 +185,7 @@
     "first_seen": "2026-09-22T03:22:19.021719-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-04T02:51:12.223603-08:00",
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
     "dead_strikes": 0
   },
   "15226e6da22c8bbeb8868d4a73d755be": {
@@ -898,7 +898,7 @@
     "first_seen": "2026-09-25T05:14:50.555658-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-04T02:51:12.223603-08:00",
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
     "dead_strikes": 0
   },
   "5f79d30033c0b6d809a37936f492afb1": {
@@ -919,7 +919,7 @@
     "first_seen": "2026-09-25T10:14:41.473556-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-04T02:51:12.223603-08:00",
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
     "dead_strikes": 0
   },
   "9ac28c3d639f08c98b4a70bf904870ff": {
@@ -940,7 +940,7 @@
     "first_seen": "2026-09-25T10:14:43.228538-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-04T02:51:12.223603-08:00",
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
     "dead_strikes": 0
   },
   "2176990d574c00ec3797d4b0e1a30dac": {
@@ -982,7 +982,7 @@
     "first_seen": "2026-09-25T16:29:08.186164-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-04T02:51:12.223603-08:00",
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
     "dead_strikes": 0
   },
   "0b53bb078bcdfad538d6de9257c13b28": {
@@ -1819,10 +1819,10 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-09-29T11:26:02.367751-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-11-06T16:43:21.260357-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
+    "dead_strikes": 2
   },
   "b82d1067c95b01daa2d7a2408ce3a674": {
     "id": "b82d1067c95b01daa2d7a2408ce3a674",
@@ -2136,10 +2136,10 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-10-01T13:16:53.123472-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:04:13.944237-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
+    "dead_strikes": 2
   },
   "2a6dd976db11fd041c76dce30180eb91": {
     "id": "2a6dd976db11fd041c76dce30180eb91",
@@ -2914,7 +2914,7 @@
     "first_seen": "2026-10-05T09:00:39.977968-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-04T02:51:12.223603-08:00",
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
     "dead_strikes": 0
   },
   "d6dc85cac0cb653d5b7fe56ef240f7d5": {
@@ -2935,7 +2935,7 @@
     "first_seen": "2026-10-05T09:00:41.743611-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-04T02:51:12.223603-08:00",
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
     "dead_strikes": 0
   },
   "b37e39d5902f3b50b074509261f1d9ad": {
@@ -2956,7 +2956,7 @@
     "first_seen": "2026-10-05T09:00:43.492310-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-04T02:51:12.223603-08:00",
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
     "dead_strikes": 0
   },
   "fe3385b653b77c1c26ee1d2e92f08f68": {
@@ -2977,7 +2977,7 @@
     "first_seen": "2026-10-05T09:00:45.382936-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-04T02:51:12.223603-08:00",
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
     "dead_strikes": 0
   },
   "7a8815a727eb4ec7c0bd98a91ceb521e": {
@@ -6082,7 +6082,7 @@
     "first_seen": "2026-10-26T08:11:07.176518-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-03T19:05:07.393450-08:00",
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
     "dead_strikes": 0
   },
   "6449dd06fcbe2e16b9deb4cf8eadd4b2": {
@@ -6103,7 +6103,7 @@
     "first_seen": "2026-10-26T08:11:08.718432-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-03T19:05:07.393450-08:00",
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
     "dead_strikes": 0
   },
   "cf9f8fbaa064ea6339d1dea2c3163171": {
@@ -6124,7 +6124,7 @@
     "first_seen": "2026-10-26T08:11:10.390080-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-03T19:05:07.393450-08:00",
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
     "dead_strikes": 0
   },
   "bd4eadcae8ad6d3dc9c4d82b79cee8a8": {
@@ -6145,7 +6145,7 @@
     "first_seen": "2026-10-26T08:11:12.082381-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-03T19:05:07.393450-08:00",
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
     "dead_strikes": 0
   },
   "e28692794362e636dc836d17deb7d933": {
@@ -6525,7 +6525,7 @@
     "first_seen": "2026-10-28T14:20:42.686407-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-03T19:05:07.393450-08:00",
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
     "dead_strikes": 0
   },
   "cf24d0027959b9241eb738bba4a152a1": {
@@ -6923,7 +6923,7 @@
     "first_seen": "2026-10-31T19:39:07.651070-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-03T19:05:07.393450-08:00"
+    "checked_at": "2026-11-07T02:31:14.152962-08:00"
   },
   "3f0701b8c21d3107d5b536babc297f8c": {
     "id": "3f0701b8c21d3107d5b536babc297f8c",
@@ -7825,10 +7825,10 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-03T15:19:30.040328-08:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-11-06T15:33:06.682351-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
+    "dead_strikes": 2
   },
   "a787efc8af00ddeb45202040bd3686c4": {
     "id": "a787efc8af00ddeb45202040bd3686c4",
@@ -7888,10 +7888,10 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-03T15:19:34.599695-08:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-11-06T15:33:06.682351-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
+    "dead_strikes": 2
   },
   "0843077d23edaab1912e2ded80196a10": {
     "id": "0843077d23edaab1912e2ded80196a10",
@@ -7931,11 +7931,11 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-11-03T15:19:37.966717-08:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-06T15:33:06.682351-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
+    "dead_strikes": 2
   },
   "8809c7eb96ff5cd6a47dc57c7e1abf5f": {
     "id": "8809c7eb96ff5cd6a47dc57c7e1abf5f",
@@ -8376,11 +8376,11 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-03T15:20:41.058670-08:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-06T16:08:59.595673-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
+    "dead_strikes": 2
   },
   "08fddb52d87dad5477d84d9ced565f1c": {
     "id": "08fddb52d87dad5477d84d9ced565f1c",
@@ -8505,7 +8505,9 @@
     "priority": 3,
     "first_seen": "2026-11-03T19:06:14.192102-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
+    "dead_strikes": 0
   },
   "9ff73b3fad8245d60b633be2eb0a88e3": {
     "id": "9ff73b3fad8245d60b633be2eb0a88e3",
@@ -8525,7 +8527,9 @@
     "priority": 2,
     "first_seen": "2026-11-03T19:06:42.191999-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
+    "dead_strikes": 0
   },
   "dec535dcff2a27bc7487bf8df091c80a": {
     "id": "dec535dcff2a27bc7487bf8df091c80a",
@@ -8545,7 +8549,9 @@
     "priority": 2,
     "first_seen": "2026-11-03T19:06:43.671826-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
+    "dead_strikes": 0
   },
   "03812e7b71acd0000fadc20eb673003e": {
     "id": "03812e7b71acd0000fadc20eb673003e",
@@ -8565,7 +8571,9 @@
     "priority": 2,
     "first_seen": "2026-11-03T19:06:45.383011-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-07T02:31:14.152962-08:00",
+    "dead_strikes": 0
   },
   "5fd56047f3b34aa47af52de4b04c3d3f": {
     "id": "5fd56047f3b34aa47af52de4b04c3d3f",
@@ -8756,6 +8764,25 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-06T14:48:34.635332-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "35b606389e054780c35774c63ca2968c": {
+    "id": "35b606389e054780c35774c63ca2968c",
+    "title": "Product Designer",
+    "company": "Lumaril",
+    "location": "New York",
+    "salary": "$200,000 - $250,000",
+    "url": "https://uiuxjobsboard.com/job/1667626-product-designer-new-york-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "We're actively building a culture that fosters productive collaboration on difficult problems with real-world consequences. We're early-stage, moving fast, and looking for people who thrive with high autonomy (and high ambiguity).\nWhat You'll Do\nYou'll be the first product designer at Lumaril and own the product experience end to end. Our users are plant operators and engineers deciding, in real time, whether to trust a system that is adjusting their process. The core design problem is making an autonomous system legible, elegant, and intuitive: showing what it sees, what it plans to do, and why, so an operator can understand and work with it with confidence.\nYou'll work directly with the founders, engineers, and customers, on site at plants when it matters, and ship through fast iteration with real operators.\nAs the team grows, you'll set the design principles and the hiring bar, with a path to leading the design function and the philosophy of how to transform global industries, including how people interact with autonomous systems.\nTurn ambiguous operator and customer problems into clear, shippable designs\nConduct user research and testing to deeply understand pain points, workflows, and mental models\nPrototype and test rapidly with customers from discovery through delivery, using feedback to guide product direction and validate decisions\nPartner with engineering to ship designs at high fidelity\nEstablish early design principles, patterns, and systems to enable consistency and scalability\nDesign the views that show operators how the system perceives, plans, and acts\nUse motion, animation and interactive prototypes to make complex system behavior legible, intuitive and elegant for users\nWork with engineers to visualize what the system sees and decides: live machinery states, sensor inputs, world models, and multi-step plans\nHelp define the foundation of our design culture and philosophy\nLead future hiring and building a full design function for the company\nCollaborate across product, strategy, and go-to-market to create cohesive experiences that connect product, narrative, and customer value\nWho You Are\nRequirements\nA portfolio showing iterative, research-driven design in 0 to 1 or early-stage products\n5+ years of product design experience, including UX for complex systems or workflows\nProven ability to lead user research, prototyping, and usability testing\nFluent in Figma or equivalent, including prototyping and design systems\nBonus: if you're comfortable in code and can prototype and ship your own work alongside engineering\nExperience shipping products in B2B markets in fast-paced environments\nExperience with natural language interfaces (voice, chat, AI-driven UX)\nExperience with operator/industrial interfaces\nExperience in robotics, autonomy, or other physical world AI products\nStrong skills in motion/interactive design or storytelling through data visualization\nThe whole team together in person every six weeks\nFully paid medical, dental, and vision for employees and families\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\nH Senior Product Designer at Hatch D Senior Product Designer at DKatalis K Director of Product Design at Kettle S Product Designer at Sustainment H Senior Staff Product Designer at Honor Technology\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nProduct Design Salary Guide Product Design Salary in United States Product Design Salary in New York City\nApply for this job Please mention you found this po",
+    "posted_at": "2h",
+    "priority": 3,
+    "first_seen": "2026-11-07T02:32:14.891007-08:00",
     "status": "active",
     "applied_at": null
   }
