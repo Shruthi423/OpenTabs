@@ -23,7 +23,7 @@ const state = {
   drawer: null,                                     // null | "app" | "trash"
 };
 /* Labels for the confirm dialog and the empty states. */
-const LABELS = { today: "Last 24h", prev: "Older than 24h", raised: "Just Raised", app: "Applied", trash: "Trash" };
+const LABELS = { today: "Last 24h", prev: "Older than 24h", raised: "Just Raised", app: "Applied", trash: "Trash", bury: "Trash" };
 /* Rail modes. "board" is this three-column triage surface. Cognition mode
    ("brain") was retired from the rail: its code below is still here and
    working, but nothing can reach it until a control is put back. */
@@ -77,6 +77,11 @@ function refreshKeys() {
 function loadSet(key) { try { return new Set(JSON.parse(localStorage.getItem(key) || "[]")); } catch { return new Set(); } }
 let TRASH = loadSet("trash");                      // Set<jobId>
 function saveTrash() { localStorage.setItem("trash", JSON.stringify([...TRASH])); changed(); }
+/* Emptying the Trash is the one permanent act on this board. A buried id is
+   not merely untrashed — it is withheld from every list for good, so the
+   scraper re-finding the same posting tomorrow cannot put it back. */
+let BURIED = loadSet("buried");                    // Set<jobId>
+function saveBuried() { localStorage.setItem("buried", JSON.stringify([...BURIED])); changed(); }
 let DISMISSED = loadSet("raisedDismissed");        // Set<fundingId>
 function saveDismissed() { localStorage.setItem("raisedDismissed", JSON.stringify([...DISMISSED])); changed(); }
 
@@ -104,7 +109,7 @@ function tier1Of(f) {
 /* Funding records have no stable id field — derive one the same way twice. */
 function fundId(f) { return (f.id || (f.company || "") + "|" + (f.url || f.first_seen || "")); }
 
-const UNDO_STACK = [];   // {type:"mark",ids,prev} | {type:"trash"|"restore"|"dismiss",ids}
+const UNDO_STACK = [];   // {type:"mark",ids,prev} | {type:"trash"|"restore"|"dismiss"|"bury",ids}
 function pushUndo(e) { UNDO_STACK.push(e); }
 function undoLast() {
   const e = UNDO_STACK.pop();
@@ -119,6 +124,9 @@ function undoLast() {
   } else if (e.type === "trash")     { e.ids.forEach((id) => TRASH.delete(id)); saveTrash(); }
   else if (e.type === "restore")     { e.ids.forEach((id) => TRASH.add(id));    saveTrash(); }
   else if (e.type === "dismiss")     { e.ids.forEach((id) => DISMISSED.delete(id)); saveDismissed(); }
+  // Undoing an empty-trash digs the postings back up and re-files them.
+  else if (e.type === "bury")        { e.ids.forEach((id) => { BURIED.delete(id); TRASH.add(id); });
+                                       saveBuried(); saveTrash(); }
   render(true);
 }
 /* Mark / un-mark a set of jobs as applied, recording one undo entry. */
@@ -155,9 +163,11 @@ function snapshotApplied() {
 }
 /* Live postings plus applied ones that have since dropped off the feed. */
 function allJobs() {
-  const live = new Set(JOBS.map((j) => j.id));
-  const gone = Object.keys(MARKS).filter((id) => MARKS[id] === "done" && !live.has(id) && SNAPS[id]);
-  return gone.length ? JOBS.concat(gone.map((id) => ({ ...SNAPS[id], _gone: true }))) : JOBS;
+  const feed = BURIED.size ? JOBS.filter((j) => !BURIED.has(j.id)) : JOBS;
+  const live = new Set(feed.map((j) => j.id));
+  const gone = Object.keys(MARKS).filter((id) =>
+    MARKS[id] === "done" && !live.has(id) && SNAPS[id] && !BURIED.has(id));
+  return gone.length ? feed.concat(gone.map((id) => ({ ...SNAPS[id], _gone: true }))) : feed;
 }
 
 function setApplied(ids, applied) {
@@ -187,7 +197,8 @@ const SYNC_FILE = "docs/state.json";
 const TOMB_MS = 45 * 864e5;                  // cleared entries only need to outlive the other devices' next sync
 let SYNC_SHA = null, syncBusy = false, syncAgain = false, pushT = 0, lastSync = 0;
 
-const flagsOf = (id) => (MARKS[id] === "done" ? "a" : "") + (TRASH.has(id) ? "t" : "") + (DISMISSED.has(id) ? "d" : "");
+const flagsOf = (id) => (MARKS[id] === "done" ? "a" : "") + (TRASH.has(id) ? "t" : "")
+  + (DISMISSED.has(id) ? "d" : "") + (BURIED.has(id) ? "b" : "");
 
 /* Runs after every local change: stamp what differs from the synced copy,
    keep the applied snapshots current, and queue an upload. */
@@ -195,7 +206,7 @@ function changed() {
   snapshotApplied();
   const now = Date.now();
   let diff = false;
-  new Set([...Object.keys(MARKS), ...TRASH, ...DISMISSED, ...Object.keys(SYNC)]).forEach((id) => {
+  new Set([...Object.keys(MARKS), ...TRASH, ...DISMISSED, ...BURIED, ...Object.keys(SYNC)]).forEach((id) => {
     const f = flagsOf(id), cur = SYNC[id];
     if ((cur ? cur[0] : "") === f) return;
     // a mark that predates syncing keeps the date you applied, not "now"
@@ -208,18 +219,20 @@ function changed() {
 }
 
 function rebuildFromSync() {
-  MARKS = {}; TRASH = new Set(); DISMISSED = new Set();
+  MARKS = {}; TRASH = new Set(); DISMISSED = new Set(); BURIED = new Set();
   const at = {};
   Object.entries(SYNC).forEach(([id, [f, t]]) => {
     if (f.includes("a")) { MARKS[id] = "done"; at[id] = APPLIED_AT[id] || new Date(t).toISOString(); }
     if (f.includes("t")) TRASH.add(id);
     if (f.includes("d")) DISMISSED.add(id);
+    if (f.includes("b")) BURIED.add(id);
   });
   APPLIED_AT = at;
   try {
     localStorage.setItem("marks", JSON.stringify(MARKS));
     localStorage.setItem("trash", JSON.stringify([...TRASH]));
     localStorage.setItem("raisedDismissed", JSON.stringify([...DISMISSED]));
+    localStorage.setItem("buried", JSON.stringify([...BURIED]));
     localStorage.setItem("appliedAt", JSON.stringify(APPLIED_AT));
     localStorage.setItem("syncDoc", JSON.stringify(SYNC));
   } catch {}
@@ -1225,7 +1238,11 @@ function render(animate, reset) {
   $$('[data-count="out"]').forEach((el) => (el.textContent = due));
   $("#tabOutreach").classList.toggle("has-due", due > 0);
 
-  $$('[data-clear]').forEach((b) => (b.hidden = !(LISTS[b.dataset.clear] || []).length));
+  // "bury" empties the same list "trash" restores, so it reads that count.
+  $$('[data-clear]').forEach((b) => {
+    const k = b.dataset.clear === "bury" ? "trash" : b.dataset.clear;
+    b.hidden = !(LISTS[k] || []).length;
+  });
 
   $("#status").textContent = JOBS.length ? "Updated " + new Date().toLocaleTimeString() : "No data yet";
   setNum($("#statOpen"), totals.today + totals.prev);
@@ -1571,7 +1588,9 @@ function closeModal() { $("#modalScrim").hidden = true; pendingClear = null; }
 function openModal(k) {
   if (!LABELS[k]) return;
   pendingClear = k;
-  const copy = k === "trash"
+  const copy = k === "bury"
+    ? ['This will <b>permanently delete everything in Trash</b>. These postings will not come back, even if they are found again. Continue?', "Yes, delete for good"]
+    : k === "trash"
     ? ['This will restore <b>everything in Trash</b> to the board. Continue?', "Yes, restore all"]
     : k === "raised"
       ? ['This will dismiss every raise shown in <b>Just Raised</b>. Undo still works. Continue?', "Yes, dismiss"]
@@ -1711,6 +1730,13 @@ function bind() {
     if (k === "raised") {
       const ids = visibleRaises().map(fundId);
       if (ids.length) { pushUndo({ type: "dismiss", ids }); ids.forEach((id) => DISMISSED.add(id)); saveDismissed(); }
+    } else if (k === "bury") {
+      const ids = [...TRASH];
+      if (ids.length) {
+        pushUndo({ type: "bury", ids });
+        ids.forEach((x) => { TRASH.delete(x); BURIED.add(x); });
+        saveTrash(); saveBuried();
+      }
     } else if (k === "trash") {
       const ids = allJobs().filter(isTrashed).map((j) => j.id);
       if (ids.length) { pushUndo({ type: "restore", ids }); ids.forEach((id) => TRASH.delete(id)); saveTrash(); }
