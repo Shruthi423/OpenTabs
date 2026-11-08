@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "job": {
+      "title": "Founding Product Designer",
+      "company": "Blue (S25)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D120009&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30813",
+      "salary": "$160K - $300K",
+      "description": "AI rebuilt coding. We\u2019re rebuilding the phone",
+      "posted_at": "Recently",
+      "source": "Y Combinator",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-08T11:07:36.581602-08:00"
+  }
+]
