@@ -1,5 +1,20 @@
 [
   {
+    "id": "3e3011f61053adf403c9e307a3f63903",
+    "company": "Peppermint Robotics",
+    "amount": "Undisclosed",
+    "stage": "Series B",
+    "investors": "Crane Venture Partners",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU1VuOHMtT0liRzdXXzc0dnZkVG1qRXYtVDVCRHRyY1laVGtUOXBjaTMxMXFqR1JTUjN1QUpRVUQ3TGIzbno0ZkNyMUF4VGlqQi1mNFp2Z0J4UDdBbFlrWnJfLUlPOG9JN1JsU3JRa0M3QmRCZlNWb3U2SGJwRWhFeXpLcmctMEJQNTF5MWhVeWpCeWxRSV9lU0Z3cW9NUW9xZEd3RThUSVowYldTRktPOTliTThyeFFnb1pBMGI0X2RCVC1HenlCeVB1MNIBywFBVV95cUxPU1VuOHMtT0liRzdXXzc0dnZkVG1qRXYtVDVCRHRyY1laVGtUOXBjaTMxMXFqR1JTUjN1QUpRVUQ3TGIzbno0ZkNyMUF4VGlqQi1mNFp2Z0J4UDdBbFlrWnJfLUlPOG9JN1JsU3JRa0M3QmRCZlNWb3U2SGJwRWhFeXpLcmctMEJQNTF5MWhVeWpCeWxRSV9lU0Z3cW9NUW9xZEd3RThUSVowYldTRktPOTliTThyeFFnb1pBMGI0X2RCVC1HenlCeVB1MA?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-07T22:28:02.790719-08:00",
+    "status": "active"
+  },
+  {
     "id": "92e81e4a34af45b7af1b276f3ce43b9e",
     "company": "Venomics AI",
     "amount": "$2.7M",
@@ -6555,36 +6570,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-10-08T04:16:11.793166-07:00",
-    "status": "active"
-  },
-  {
-    "id": "061ea88c1970a7f1fbbec3a4a0b73ba0",
-    "company": "Mecka AI",
-    "amount": "$60.0M",
-    "stage": "Series B",
-    "investors": "Sequoia",
-    "source": "Sequoia (news)",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeXctUGItbFdacDZ0Zl8xSG5mX19KVzdiYU1wNUU1UE52RGFfaWZSWUdGV2JqVU44ZG9FV0RfTjQ3Mngxd01EZ0FUWDh1QV92UWhLMXg4Y2ZvN3Y0RlFhR2RCcURxdVJWWHJOa09VXzBHMGx3c2MxVU9jbWZuNkhUTFRaQnlYRWhJUEUyS3RfZWtFeDNCbzU5Rk9jRWZkbG1fUnFXSDNjQUQxTS1INk12RXg4VQ?oc=5",
-    "priority": 10,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-07T21:01:21.534880-07:00",
-    "status": "active"
-  },
-  {
-    "id": "9dd6c0f181aae8f74321e4dc0fb58423",
-    "company": "Nous Research",
-    "amount": "$90.0M",
-    "stage": "Series B",
-    "investors": "Y Combinator, Robot Ventures",
-    "source": "SiliconANGLE",
-    "url": "https://siliconangle.com/2026/10/07/nvidia-samsung-back-90m-round-for-ai-agent-startup-nous-research/",
-    "priority": 10,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-07T21:01:18.627765-07:00",
     "status": "active"
   }
 ]
