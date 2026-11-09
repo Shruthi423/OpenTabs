@@ -1,12 +1,63 @@
 [
   {
     "job": {
-      "title": "UX Design - New Grad",
-      "company": "SeatGeek",
-      "location": "New York, United States",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=seatgeek&gh_src=94e407181&token=8248135",
+      "title": "DataAnnotation is seeking a Visual Designer - AI Model Evaluator",
+      "company": "Unknown",
+      "location": "Remote",
+      "url": "https://www.coroflot.com/design-jobs/Visual-Designer-AI-Model-Evaluator-DataAnnotation-United-States-685373",
+      "salary": "See posting",
+      "description": ",",
+      "posted_at": "Recently",
+      "source": "Coroflot",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:02:55.491044-08:00"
+  },
+  {
+    "job": {
+      "title": "Founding Designer",
+      "company": "Interfere (S25)",
+      "location": "New York City",
+      "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D121487&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30789",
+      "salary": "$150K - $250K",
+      "description": "Give engineering, product, and design teams insight into unseen issues",
+      "posted_at": "Recently",
+      "source": "Y Combinator",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:02:57.272546-08:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer Intern",
+      "company": "Sparengine",
+      "location": "Remote (Remote)",
+      "url": "https://careers.sparengine.com/jobs/37288d427d0581f983badde96351f0c4",
       "salary": "Not listed",
-      "description": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we\u2019re simplifying and modernizing the ticketing industry.By catering to both consumers and businesses, we\u2019re powering a new, open entertainment ecosystem where fans have effo",
+      "description": "You turn complex technical output (knowledge graphs, audit findings, confidence levels) into interfaces a lessor, MRO, or broker can trust in minutes instead of weeks. You work from design direction to structured Figma, you share the approach before building, and you understand that in a regulated, ",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:02:58.939372-08:00"
+  },
+  {
+    "job": {
+      "title": "UX Design Internship \u2013 Summer 2027",
+      "company": "Duke Energy Corporation",
+      "location": "Charlotte, United States",
+      "url": "https://dukeenergy.wd1.myworkdayjobs.com/Search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850",
+      "salary": "Not listed",
+      "description": "Job OverviewImportant Application Submission Information In order to ensure your application is successfully received before the job posting expires, please submit your application by 11:59 PM on Tuesday, November 10, 2026 More than a career - a chance to make a difference in people's lives. Build a",
       "posted_at": "Recently",
       "source": "OpenDoors",
       "relevant": true,
@@ -14,6 +65,397 @@
       "is_big_tech": false,
       "visa": null
     },
-    "remind_at": "2026-11-09T02:31:05.724474-08:00"
+    "remind_at": "2026-11-09T13:03:00.688888-08:00"
+  },
+  {
+    "job": {
+      "title": "Colleague User Experience (UX) Professional Degree Apprenticeship - Leeds",
+      "company": "Lloyds Banking Group",
+      "location": "Leeds, United Kingdom",
+      "url": "https://lbg.wd3.myworkdayjobs.com/lbg_Careers/job/Leeds-Wellington-Place/Colleague-User-Experience--UX--Professional-Degree-Apprenticeship---Leeds_164877",
+      "salary": "Not listed",
+      "description": "Job Description SummaryPlease note, this site is only for external candidate applications. If you currently work for Lloyds Banking Group please apply via the internal career site. Please note: In order to complete an apprenticeship there needs to be a significant learning need. You need to consider",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:02.338523-08:00"
+  },
+  {
+    "job": {
+      "title": "Junior Interaction Designer - Government Digital Service - HEO",
+      "company": "Manchester Digital",
+      "location": "Manchester, United Kingdom",
+      "url": "https://www.manchesterdigital.com/job/gds/junior-interaction-designer-government-digital-service-heo",
+      "salary": "Not listed",
+      "description": "Job descriptionYou will join the GOV.UK Web team where you\u2019ll be working on the improvements that help people find and use information and services easily.As a designer at GDS you\u2019ll work in multidisciplinary teams , alongside researchers and developers, to deliver world-class, user centred public s",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": true,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:04.091224-08:00"
+  },
+  {
+    "job": {
+      "title": "Product Management UX Intern (Hayu)",
+      "company": "NBCUniversal",
+      "location": "London, United Kingdom",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000159684039-product-management-ux-intern-hayu-",
+      "salary": "Not listed",
+      "description": "Programme&nbsp; EligibilityTo join one of our 12-month Internships you must meet one of the following criteria:You\u2019re currently an undergraduate studying at university and returning to full-time education in Autumn 2028&nbsp;and returning to full time education in Autumn 2028You\u2019re looking to gain w",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:05.843662-08:00"
+  },
+  {
+    "job": {
+      "title": "UI/UX Designer",
+      "company": "UPS",
+      "location": "Atlanta, United States",
+      "url": "https://upscareers.jobs/atlanta-ga/uiux-designer/24B1C4E0E405432EAEEC865DCBEAB129/job/",
+      "salary": "Not listed",
+      "description": "The UI/UX Designer is an experienced design professional responsible for creating intuitive, accessible, and effective digital experiences that solve complex business and user problems.This role leads user experience and interface design across products from discovery through delivery, translating b",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:07.624396-08:00"
+  },
+  {
+    "job": {
+      "title": "Associate UI/UX Designer",
+      "company": "Konrad",
+      "location": "New York, United States",
+      "url": "https://www.konrad.com/careers/job/associate-ui-ux-designer_8163693003",
+      "salary": "Not listed",
+      "description": "Who We AreKonrad Group is a next generation digital consultancy. We are dedicated to solving complex business problems for our global clients with creative and forward-thinking solutions. Our employees enjoy a culture built on innovation and a commitment to creating best-in-class digital products in",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": true,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:09.257186-08:00"
+  },
+  {
+    "job": {
+      "title": "Graduate Product Designer 2027 (London)",
+      "company": "Deliveroo",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8331619",
+      "salary": "Not listed",
+      "description": "About the RoleThere\u2019s a lot behind a morning coffee order. You could be part of it.A local caf\u00e9, a courier on the way and a customer ready to start their day. At Deliveroo, we connect people with the food, shops and products they love.As a Graduate Product Designer, you\u2019ll work at the intersection o",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:11.054735-08:00"
+  },
+  {
+    "job": {
+      "title": "UX Product Design Intern - Winter 2027",
+      "company": "Skydio",
+      "location": "San Mateo, United States",
+      "url": "https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1",
+      "salary": "Not listed",
+      "description": "Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and ",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:12.704442-08:00"
+  },
+  {
+    "job": {
+      "title": "Junior Product Designer",
+      "company": "Two Six Technologies",
+      "location": "Remote (Remote)",
+      "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6241561004",
+      "salary": "Not listed",
+      "description": "Overview of OpportunityTwo Six Technologies is seeking a part-time Junior Product Designer to join our dynamic team designing web-based user interface functionality and products for our Cyber Operations platform serving critical national security functions.The ideal candidate should have experience ",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": true,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:14.464615-08:00"
+  },
+  {
+    "job": {
+      "title": "Associate - Product Design",
+      "company": "American Express",
+      "location": "Phoenix, United States",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016094",
+      "salary": "Not listed",
+      "description": "The\u202fEnterprise Design and Research (EDR)\u202fteam is responsible for deepening customer engagement through our digital experiences on our mobile app, web, and push channels. The team\u2019s mission is to increase digital engagement, customer satisfaction and revenue through a combination of compelling featur",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": true,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:16.237044-08:00"
+  },
+  {
+    "job": {
+      "title": "User Experience Designer",
+      "company": "Department of the Treasury - Internal Revenue Service",
+      "location": "Washington, DC, United States",
+      "url": "https://apply.usastaffing.gov/ViewQuestionnaire/13100913",
+      "salary": "Not listed",
+      "description": "DutiesDesign mockups to communicate design themes for improved user experience that incorporate various elements of IRS branding and visual identity.Build interactive prototypes based on requirements, user experience (UX) best practices, and Section 508 accessibility guidelines and other applicable ",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:17.980394-08:00"
+  },
+  {
+    "job": {
+      "title": "Junior Interaction Designer - Government Digital Service",
+      "company": "Civil Service World",
+      "location": "Manchester, United Kingdom",
+      "url": "https://www.civilserviceworld.com/jobs/listing/junior-interaction-designer",
+      "salary": "Not listed",
+      "description": "Role OverviewYou will join the GOV.UK Web team where you\u2019ll be working on the improvements that help people find and use information and services easily.As a designer at GDS you\u2019ll work in multidisciplinary teams , alongside researchers and developers, to deliver world-class, user-centred public ser",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": true,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:19.604243-08:00"
+  },
+  {
+    "job": {
+      "title": "Product UI Designer",
+      "company": "Arva AI",
+      "location": "London, United Kingdom",
+      "url": "https://www.ycombinator.com/companies/arva-ai/jobs/AyapY7E-product-ui-designer",
+      "salary": "Not listed",
+      "description": "Location \u00b7 London, in person 4\u20135 days a weekType \u00b7 Full-timeCompensation \u00b7 \u00a370,000\u2013\u00a385,000 salary and 0.01%\u20130.1% equityVisa sponsorship \u00b7 AvailableAt Arva AI, we build AI agents for critical banking operations, from customer onboarding and screening to transaction monitoring and investigations. Our ",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": "yes"
+    },
+    "remind_at": "2026-11-09T13:03:21.359733-08:00"
+  },
+  {
+    "job": {
+      "title": "Associate Product Designer",
+      "company": "Taivo",
+      "location": "Dallas, United States",
+      "url": "https://ats.rippling.com/mergeco/jobs/e9aeb99a-8b66-4657-9f5a-8cab2df31036",
+      "salary": "Not listed",
+      "description": "Product Design @ TaivoAs an Associate Product Designer at Taivo you will work daily with Product Managers and Engineers to create solutions for new features and improve the usability of existing flows on Taivo\u2019s suite of platforms. You will collaborate interdepartmentally to shadow research conversa",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": true,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:22.981164-08:00"
+  },
+  {
+    "job": {
+      "title": "Summer 2027 UX Design Internship",
+      "company": "T-Mobile USA, Inc.",
+      "location": "Philadelphia, United States",
+      "url": "https://careers.t-mobile.com/summer-2027-ux-design-internship/job/48A706F1B21DE5EE1B4EB10765328207",
+      "salary": "Not listed",
+      "description": "What It\u2019s LikeYou\u2019ll join the Product Design team at T\u2011Mobile Advertising Solutions (T\u2011Ads). We design the enterprise software behind one of the world\u2019s largest digital out\u2011of\u2011home (DOOH) advertising marketplaces. The team is small enough that your work gets seen and big enough that it matters. A ty",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:24.786000-08:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Taskrabbit",
+      "location": "New York / San Francisco, United States",
+      "url": "https://job-boards.greenhouse.io/taskrabbit/jobs/8314929",
+      "salary": "Not listed",
+      "description": "About the JobTaskrabbit's mission is to transform lives, one task at a time. As a member of the Product Design team, you'll advance that mission through close partnership with cross-functional stakeholders to uncover problems and build solutions that reach millions of Clients and Taskers around the ",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:26.522588-08:00"
+  },
+  {
+    "job": {
+      "title": "Entry Level UX Design Apprenticeship",
+      "company": "UX Woman",
+      "location": "Remote (Philadelphia, PA / Los Angeles, CA / San Francisco, CA / Seattle, WA / Austin, TX)",
+      "url": "https://ux-woman.breezy.hr/p/f0d6d79eac59-entry-level-ux-design-apprenticeship",
+      "salary": "Not listed",
+      "description": "About the Program:Every year, we sponsor 2 remote UX apprentices from anywhere in the world to join us for 7 months, either in the fall or spring seasons or online. Our UX apprentices work through the end-to-end UX design and UX research process for a startup idea of their choice that will help them",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": true,
+      "is_big_tech": false,
+      "visa": "yes"
+    },
+    "remind_at": "2026-11-09T13:03:28.155303-08:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "SubImage",
+      "location": "San Francisco, United States",
+      "url": "https://www.ycombinator.com/companies/subimage/jobs/N6PmCch-product-designer",
+      "salary": "Not listed",
+      "description": "Subimage maps infrastructure the way an attacker does so security teams at scale-ups and enterprises can find and fix problems. We\u2019re built on Cartography , the open source tool our founders helped create at Lyft that\u2019s now a CNCF project, adopted at over 70 companies.We are a seed stage company (a ",
+      "posted_at": "Recently",
+      "source": "OpenDoors",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:57.470121-08:00"
+  },
+  {
+    "job": {
+      "title": "UX/UI Designer",
+      "company": "ReliaQuest",
+      "location": "Tampa, FL",
+      "url": "https://uiuxjobsboard.com/job/1670426-ux-ui-designer-tampa-fl-united-states",
+      "salary": "Not listed",
+      "description": "",
+      "posted_at": "12h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:03:59.225719-08:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Forge",
+      "location": "Remote",
+      "url": "https://uiuxjobsboard.com/job/1668726-remote-united-states-product-designer",
+      "salary": "$115,000 - $130,000",
+      "description": "",
+      "posted_at": "12h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:04:00.860204-08:00"
+  },
+  {
+    "job": {
+      "title": "UI/UX Designer",
+      "company": "Sabanto",
+      "location": "Ames, IA",
+      "url": "https://uiuxjobsboard.com/job/1668526-ui-ux-designer-ames-ia-united-states",
+      "salary": "Not listed",
+      "description": "",
+      "posted_at": "12h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:04:02.635277-08:00"
+  },
+  {
+    "job": {
+      "title": "Intern - UI/UX",
+      "company": "Little Caesars",
+      "location": "Detroit, MI",
+      "url": "https://uiuxjobsboard.com/job/1670126-intern-ui-ux-detroit-mi-united-states",
+      "salary": "Not listed",
+      "description": "",
+      "posted_at": "12h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:04:04.402783-08:00"
+  },
+  {
+    "job": {
+      "title": "UX/UI Specialist",
+      "company": "Leidos",
+      "location": "Woodlawn, MD",
+      "url": "https://uiuxjobsboard.com/job/1670226-ux-ui-specialist-woodlawn-md-united-states",
+      "salary": "$87,100 - $157,450",
+      "description": "",
+      "posted_at": "15h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:04:06.161059-08:00"
+  },
+  {
+    "job": {
+      "title": "UX Researcher",
+      "company": "Closer Conveyancing",
+      "location": "London",
+      "url": "https://uiuxjobsboard.com/job/1669026-ux-researcher-london-canada",
+      "salary": "$75,000 - $80,000",
+      "description": "",
+      "posted_at": "15h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-09T13:04:07.948085-08:00"
   }
 ]

@@ -1,47 +1,107 @@
 [
   {
     "item": {
-      "company": "Physicl",
-      "amount": "$10.0M",
-      "stage": "Seed",
-      "investors": "Inovia Capital",
+      "company": "Nominal",
+      "amount": "$240.0M",
+      "stage": "Series B",
+      "investors": "Lightspeed Venture Partners and Insight Partners",
       "location": null,
-      "blurb": "Physicl Raises $10M Seed. Physicl raises $10 million in seed funding led by Inovia Capital to expand its AI platform for generating training data for physical robotics models.",
+      "blurb": "Hardware-testing and engineering startup Nominal raises $240M at $3B valuation. Artificial intelligence-powered hardware-testing and engineering software startup Nominal Inc. today announced it has raised $240 million in new funding led by Lightspeed Venture Partners and Insight Partners. The investment triples the company\u2019s valuation to $3 billion,\u00a0up from $1 billion cemented in March after it raised\u00a0$80 million in a Series B-2 funding round. Additional major investors [&#8230;]\nThe post Hardwa",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/physicl-raises-10m-seed/",
-      "priority": 9
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/09/ai-powered-hardware-testing-and-engineering-startup-nominal-raises-240m-at-3b-valuation/",
+      "priority": 10
     },
-    "remind_at": "2026-11-09T02:31:26.680542-08:00"
+    "remind_at": "2026-11-09T13:04:31.184891-08:00"
   },
   {
     "item": {
-      "company": "Sand.ai",
-      "amount": "$200.0M",
-      "stage": "Series A",
+      "company": "geniosAI",
+      "amount": "$19.1M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
-      "blurb": "Sand.ai Raises $200M Series A Extension. Sand.ai raises $200M in a Series A+ round to reach a $1B valuation, aiming to advance its open-source AI video generation platform and global presence.",
+      "blurb": "geniosAI Raises $19.1M in Combined Seed and Series A Funding - Unite.AI. geniosAI Raises $19.1M in Combined Seed and Series A Funding&nbsp;&nbsp;Unite.AI",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sand-ai-raises-200m-series-a-extension/",
-      "priority": 8
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnlJUVg4anIzTW9ZemhybG43V201NFd1Zl9NY1BiNEJzS2VHZXM4bi1Fb3dWcmRwVEF5TDlFX0FKazJxWGpxZFVRLUhzVUQxRWNYRXNmUXVNYm1MVXl2S0xtdlhMdWQyaHVhNHRncWdCb2tuTnZiLW9HUHFpa25uZXdITy0xQ1ow?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-11-09T02:31:29.779945-08:00"
+    "remind_at": "2026-11-09T13:04:34.422861-08:00"
   },
   {
     "item": {
-      "company": "Synctera",
-      "amount": "$24.5M",
+      "company": "Snapp",
+      "amount": "$4.6M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Snapp lands $4.6M seed to build AI sports analytics - Dealroom. Snapp lands $4.6M seed to build AI sports analytics&nbsp;&nbsp;Dealroom",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGpQSHlNNWRPaGNwZ1pIRFlaMkhlbWNZck8teEtWcDZrODgxMFVMX2xGLUxySkxFOVZFRDFvakh4akxYb2lqdmFSdDNyczhGQWVGdGRRSHBqUUJ1M2hoWG50bllwcWlKNzFyaTI2MDJXeVE0b3JnaEVzMjNlY1ZvSDBRaHU3R19EWnNaUA?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-11-09T13:04:38.582877-08:00"
+  },
+  {
+    "item": {
+      "company": "Paper Unicorns",
+      "amount": "$1.0B",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Synctera Raises $24.5M in Funding. Synctera raises $24.5M to support its embedded finance and banking-as-a-service platform as it moves toward break-even status.",
+      "blurb": "Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table. AI startups should be judged by durable revenue, full-price renewals and healthy margins after delivery costs, with embedded customer workflows providing stronger defensibility as model access gets cheaper, rather than their paper valuation, writes guest author Ilman Shazhaev, founder and CEO of Dizzaract, who suggests that founders should build global investor bases that support customer acquisition and m",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/synctera-raises-24-5m-unknown/",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/",
       "priority": 3
     },
-    "remind_at": "2026-11-09T02:31:32.732584-08:00"
+    "remind_at": "2026-11-09T13:04:44.242395-08:00"
+  },
+  {
+    "item": {
+      "company": "$237K",
+      "amount": "$1.5M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "The New Normal in Revenue Per Employee: $237K Is the OldMedian, $655K Is the New Top Tier, and Six B2B Leaders Now Clear $1.5M. For 15 years, B2B ran on one planning ratio that almost no one questioned: Every $200K to $300K of new revenue needed another person. Boards approved hiring plans against it, CFOs modeled against it, and founders raised money to fund it. That ratio still describes the median older B2B / SaaS company. But it no... Continue Reading",
+      "founders": [],
+      "source": "SaaStr",
+      "url": "https://www.saastr.com/the-new-normal-in-revenue-per-employee-237k-is-the-median-655k-is-the-top-tier-and-six-b2b-leaders-now-clear-1-5m/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-09T13:04:47.280013-08:00"
+  },
+  {
+    "item": {
+      "company": "Kifiya",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Kifiya Secures Investment from IFC. Ethiopian fintech Kifiya secures an investment from the International Finance Corporation to scale its AI-powered agricultural lending and risk platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/kifiya-raises-undisclosed-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-09T13:04:50.191731-08:00"
+  },
+  {
+    "item": {
+      "company": "Northwood",
+      "amount": "$375.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Northwood Raises $375 Million to Expand Satellite Ground Network - Ventureburn. Northwood Raises $375 Million to Expand Satellite Ground Network&nbsp;&nbsp;Ventureburn",
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVW1lMG9tMkJwMDNMTV9WZnZ5LV9VTHJqeVprTnNNRjRnZ2xPMkcyeTU4SWs5SkN2YmZvVXNlY01PbmJfUU9EdVNoclBCNm1oWTIybGxWYU1VY05QTkdLYjdrMklRbC1BLW9MV1lhdXdSUEhUNDZzQzNNc0YtdWdaUHZvM3HSAYQBQVVfeXFMTVVtZTBvbTJCcDAzTE1fVmZ2eS1fVUxyanlaa05zTUY0Z2dsTzJHMnk1OElrOUpDdmJmb1VzZWNNT25iX1FPRHVTaHJQQjZtaFkyMmxsVmFNVWNOUE5HS2I3azJJUWwtQS1vTFdZYXV3UlBIVDQ2c0MzTXNGLXVnWlB2bzNx?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-11-09T13:04:53.080614-08:00"
   }
 ]
