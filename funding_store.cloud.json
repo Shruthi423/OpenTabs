@@ -11776,5 +11776,53 @@
     "roles": [],
     "first_seen": "2026-11-08T10:38:01.760147-08:00",
     "status": "active"
+  },
+  "792199537470b59c177c690bfd639b81": {
+    "id": "792199537470b59c177c690bfd639b81",
+    "company": "Physicl",
+    "amount": "$10.0M",
+    "stage": "Seed",
+    "investors": "Inovia Capital",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/physicl-raises-10m-seed/",
+    "priority": 9,
+    "blurb": "Physicl Raises $10M Seed. Physicl raises $10 million in seed funding led by Inovia Capital to expand its AI platform for generating training data for physical robotics models.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-09T02:01:27.680669-08:00",
+    "status": "active"
+  },
+  "b030be3897d96cdf8ec9d06a86b50480": {
+    "id": "b030be3897d96cdf8ec9d06a86b50480",
+    "company": "Sand.ai",
+    "amount": "$200.0M",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/sand-ai-raises-200m-series-a-extension/",
+    "priority": 8,
+    "blurb": "Sand.ai Raises $200M Series A Extension. Sand.ai raises $200M in a Series A+ round to reach a $1B valuation, aiming to advance its open-source AI video generation platform and global presence.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-09T02:01:30.780094-08:00",
+    "status": "active"
+  },
+  "45f74b1b93b02cc3dffdb187dcf03078": {
+    "id": "45f74b1b93b02cc3dffdb187dcf03078",
+    "company": "Synctera",
+    "amount": "$24.5M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/synctera-raises-24-5m-unknown/",
+    "priority": 3,
+    "blurb": "Synctera Raises $24.5M in Funding. Synctera raises $24.5M to support its embedded finance and banking-as-a-service platform as it moves toward break-even status.",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-09T02:01:33.732719-08:00",
+    "status": "active"
   }
 }

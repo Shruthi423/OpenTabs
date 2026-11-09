@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "item": {
+      "company": "Physicl",
+      "amount": "$10.0M",
+      "stage": "Seed",
+      "investors": "Inovia Capital",
+      "location": null,
+      "blurb": "Physicl Raises $10M Seed. Physicl raises $10 million in seed funding led by Inovia Capital to expand its AI platform for generating training data for physical robotics models.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/physicl-raises-10m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-09T02:31:26.680542-08:00"
+  },
+  {
+    "item": {
+      "company": "Sand.ai",
+      "amount": "$200.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Sand.ai Raises $200M Series A Extension. Sand.ai raises $200M in a Series A+ round to reach a $1B valuation, aiming to advance its open-source AI video generation platform and global presence.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/sand-ai-raises-200m-series-a-extension/",
+      "priority": 8
+    },
+    "remind_at": "2026-11-09T02:31:29.779945-08:00"
+  },
+  {
+    "item": {
+      "company": "Synctera",
+      "amount": "$24.5M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Synctera Raises $24.5M in Funding. Synctera raises $24.5M to support its embedded finance and banking-as-a-service platform as it moves toward break-even status.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/synctera-raises-24-5m-unknown/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-09T02:31:32.732584-08:00"
+  }
+]

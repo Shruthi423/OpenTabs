@@ -1,5 +1,22 @@
 [
   {
+    "id": "1c417689bfc91bd51b53e02baf81cdd3",
+    "title": "UX Design - New Grad",
+    "company": "SeatGeek",
+    "location": "New York, United States",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=seatgeek&gh_src=94e407181&token=8248135",
+    "source": "OpenDoors",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-11-09T02:01:05.157543-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "391ddc853ff79cf1b12793f10768d05b",
     "title": "Founding Product Designer",
     "company": "Blue (S25)",
@@ -4059,40 +4076,6 @@
     "posted_at": "10h",
     "priority": 5,
     "first_seen": "2026-10-09T09:35:42.023904-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "a9a5d6e060149b2bae753dde42542a6e",
-    "title": "Product Designer, Growth",
-    "company": "Anthropic",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446776008",
-    "source": "Anthropic",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 1,
-    "first_seen": "2026-10-09T02:38:52.526659-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "9a7496c9de43a84698047066f19fff02",
-    "title": "Product Designer, Player Experiences",
-    "company": "Discord",
-    "location": "San Francisco Bay Area",
-    "salary": "Not listed",
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8879502002",
-    "source": "Discord",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 1,
-    "first_seen": "2026-10-08T19:36:07.567925-07:00",
     "status": "active",
     "jd": "yes"
   }
