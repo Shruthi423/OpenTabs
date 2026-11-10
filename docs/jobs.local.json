@@ -1,5 +1,22 @@
 [
   {
+    "id": "deb4ca9042139adb76a55bacc87a3e61",
+    "title": "Product Designer",
+    "company": "State Farm",
+    "location": "Bloomington, IL, US",
+    "salary": "$97,000 \u2013 $112,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=ed432b9c494e48d4",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-11-08",
+    "priority": 4,
+    "first_seen": "2026-11-10T01:03:25.691960-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "4862a31e1c4f291345b4041a214bae86",
     "title": "UX/UI Designer",
     "company": "TP-Link Systems Inc.",
@@ -1951,23 +1968,6 @@
     "posted_at": "2026-11-03",
     "priority": 2,
     "first_seen": "2026-11-06T14:09:24.514825-08:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "1ed5d25f59d452b0711193ba3fb05448",
-    "title": "Junior Visual Designer",
-    "company": "HM Varahi",
-    "location": "Ohio, United States",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4487329686",
-    "source": "Linkedin",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "None",
-    "priority": 4,
-    "first_seen": "2026-11-06T12:23:39.160713-08:00",
     "status": "active",
     "jd": "yes"
   },
