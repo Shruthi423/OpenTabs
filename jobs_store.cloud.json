@@ -689,7 +689,7 @@
     "first_seen": "2026-09-24T05:17:52.701314-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T18:06:00.961572-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "e625058339775322206312f0f24a20e5": {
@@ -710,7 +710,7 @@
     "first_seen": "2026-09-24T05:17:54.502271-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T18:06:00.961572-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "621507666705255764ac4a74053c97c5": {
@@ -731,7 +731,7 @@
     "first_seen": "2026-09-24T10:26:01.232533-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T18:06:00.961572-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "116ff82c2622e4d1240a78e55a260055": {
@@ -752,7 +752,7 @@
     "first_seen": "2026-09-24T10:26:03.142034-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T18:06:00.961572-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "f5755c4d4879d808ae536504e43eb498": {
@@ -773,7 +773,7 @@
     "first_seen": "2026-09-24T13:38:14.460756-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T18:06:00.961572-08:00"
+    "checked_at": "2026-11-10T03:29:41.263420-08:00"
   },
   "240e613f86f51a1d7a50ccf37f4435cc": {
     "id": "240e613f86f51a1d7a50ccf37f4435cc",
@@ -1842,7 +1842,7 @@
     "first_seen": "2026-09-29T15:30:03.962203-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "019dca12fe3aacc70d8f725f58d26672": {
@@ -1948,7 +1948,7 @@
     "first_seen": "2026-09-30T06:42:11.100196-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "32bf5e923fcc81db13c9fe640996c9d9": {
@@ -2159,7 +2159,7 @@
     "first_seen": "2026-10-01T17:01:42.112198-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T18:06:00.961572-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "8f1900a1743ac8553046a676d6d1f13f": {
@@ -2222,7 +2222,7 @@
     "first_seen": "2026-10-02T17:13:26.197709-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "bbb290d89c1f3690a7b38b5e1e5f1e43": {
@@ -2306,7 +2306,7 @@
     "first_seen": "2026-10-03T22:49:57.749488-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "860143327273372e54182a8b2c22f50b": {
@@ -2369,7 +2369,7 @@
     "first_seen": "2026-10-05T00:01:23.759932-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "b0e48c9b5684c5507e00d41ee374027e": {
@@ -2390,7 +2390,7 @@
     "first_seen": "2026-10-05T00:01:25.260635-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "ac71f9b11e8f76f0806cdd232f03ec17": {
@@ -2411,7 +2411,7 @@
     "first_seen": "2026-10-05T00:01:27.143654-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "e414d3db5614404cfab4ab421408e910": {
@@ -3522,7 +3522,7 @@
     "first_seen": "2026-10-08T15:45:21.205449-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "fd6cb52fb1b2be65e05b370d1c97f060": {
@@ -3753,7 +3753,7 @@
     "first_seen": "2026-10-11T17:41:13.428107-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "0124364b37e61eee0057de47ca124bec": {
@@ -4486,7 +4486,7 @@
     "first_seen": "2026-10-14T04:49:08.628527-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "88e5edf5421fac8bbc87a521f7473750": {
@@ -4507,7 +4507,7 @@
     "first_seen": "2026-10-14T04:49:10.461889-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "baaf712c6ac1906b3d740f37215809c6": {
@@ -4612,7 +4612,7 @@
     "first_seen": "2026-10-15T09:08:55.675108-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "05cd34841729cf600d3f054fb0be51e1": {
@@ -5222,7 +5222,7 @@
     "first_seen": "2026-10-20T07:30:08.050974-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "73bb8859aa6e08d14494188e2f52ff7e": {
@@ -5243,7 +5243,7 @@
     "first_seen": "2026-10-20T07:30:09.646653-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "f022810b16a990f72098b60b0d268194": {
@@ -5264,7 +5264,7 @@
     "first_seen": "2026-10-20T07:30:11.229244-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "8904e028dd2c3772ce1663dff14b5d0d": {
@@ -5559,7 +5559,7 @@
     "first_seen": "2026-10-22T22:43:38.639493-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "508ed83d316134eade8d04ec9fadffb0": {
@@ -5747,7 +5747,7 @@
     "first_seen": "2026-10-25T05:17:27.422964-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "7e8795acc196ad3be68cf32f2b627cc7": {
@@ -6440,7 +6440,7 @@
     "first_seen": "2026-10-27T20:33:49.900885-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-06T17:33:59.007528-08:00",
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
     "dead_strikes": 0
   },
   "1fb420f85971b8d94d575db8a910eec5": {
@@ -8804,7 +8804,9 @@
     "priority": 3,
     "first_seen": "2026-11-07T02:32:14.891007-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-10T03:29:41.263420-08:00",
+    "dead_strikes": 0
   },
   "391ddc853ff79cf1b12793f10768d05b": {
     "id": "391ddc853ff79cf1b12793f10768d05b",
@@ -9373,6 +9375,177 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-09T19:06:58.936077-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "a20fc30f5a629cc7344593b62fd3382e": {
+    "id": "a20fc30f5a629cc7344593b62fd3382e",
+    "title": "Junior Product Designer",
+    "company": "NatWest Group",
+    "location": "London, United Kingdom",
+    "salary": "Not listed",
+    "url": "https://jobs.natwestgroup.com/jobs/18457710-junior-product-designer",
+    "source": "OpenDoors",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "This role is based in the United Kingdom and as such all normal working days must be carried out in the United Kingdom.Join us as a Junior Product DesignerYou'll be the designer in a cross-functional squad, working with Product and Engineering to turn real problems for small business owners into sim",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-11-10T03:30:33.565016-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "47a7feda50d5a698f521df24f5fb4717": {
+    "id": "47a7feda50d5a698f521df24f5fb4717",
+    "title": "Product Design Intern",
+    "company": "Tinder",
+    "location": "Los Angeles, United States",
+    "salary": "Not listed",
+    "url": "https://jobs.lever.co/matchgroup/dff2b57b-17a7-4ac7-b193-1ca6f143cfc2",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Our MissionAs humans, there are few things more exciting than meeting someone new. At Tinder, we\u2019re inspired by the challenge of keeping the magic of human connection alive. With tens of millions of users, hundreds of millions of downloads, 2+ billion swipes per day, 20+ million matches per day, and",
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-11-10T03:30:35.146212-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "9d0d4e497432ecb95a355ed95521703b": {
+    "id": "9d0d4e497432ecb95a355ed95521703b",
+    "title": "UX Designer",
+    "company": "Capgemini",
+    "location": "New York, United States",
+    "salary": "Not listed",
+    "url": "https://www.capgemini.com/jobs/590396-en_US_SAPBTP/UX-Designer",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you\u2019d like, where you\u2019ll be supported and inspired by\u202fa collaborative community of colleagues around the world, and where you\u2019ll be able to reimagine what\u2019s possible. Join us and help the world\u2019s",
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-11-10T03:30:36.772507-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "148644edeb8e6810d556afeb32f30bcd": {
+    "id": "148644edeb8e6810d556afeb32f30bcd",
+    "title": "Product Designer",
+    "company": "Spate",
+    "location": "Remote",
+    "salary": "$78,000 - $78,000",
+    "url": "https://uiuxjobsboard.com/job/1672426-remote-united-states-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Our founders, Yarden Horwitz and Olivier Zimmer, started Google's Trendspotting division and called trends like turmeric, cold brew, and face masks before they went mainstream. Spate is Y Combinator-backed, and more than 200 brands use it, including Sephora, L'Or\u00e9al Paris, Est\u00e9e Lauder Companies, Unilever, P&G, and e.l.f. Our data regularly appears in The New York Times, WWD, British Vogue, and The Business of Fashion.\nAbout the role\nWe're looking for a part-time contract product designer to shape Spate's core product: the dashboard where brand teams explore trends, build reports, and work with our AI assistant.\nOur platform will change a lot over the next year or two as we rebuild around LLM-powered features. We already ship an AI Assistant, AI Reports (an LLM powered dashboard builder), and in-dashboard summaries and analysis. We need someone who can work out what those experiences should be, not just how they should look.\nOur users are brand innovation teams, product marketers, social media teams, and agencies. Most aren't data analysts, so much of the job is turning dense trend data into something clear and actionable.\nYou'll join the Frontend & UX team, four people including you, and work closely with our frontend lead. The role is fully remote and part-time, about 20 hours a week. You\u2019ll need to be based in US Central Time (UTC\u22126) or US Eastern Time (UTC-5). We require you to be available for core collaboration hours of 9:00 AM\u201312:00 PM Eastern.\nThis is a remote, Part-time contractor position.\nThe product, not just the screens. At Spate, product design and UI/UX design happen together. Features aren't fully defined and then handed to a designer. You'll help decide what we build and why, and stay involved from the first conversation to launch. You'll work with our frontend lead to choose the right deliverable for each problem: a written proposal, a user flow, a prototype, or a full Figma spec.\nFinding problems worth solving. Find user pain points on your own, through customer calls, feedback, and usage data. Then take them from problem to proposal: frame the problem, explore options, and make the case for a direction. Leadership sets the overall direction and can help point you at problems, but you won't need our input to get started.\nHow our AI features work. Decide when something should be a chat, a report, or an inline summary. Define how we show where an insight came from, and how we handle loading, uncertainty, and wrong answers. Help shape the voice and structure of AI-generated insights, because in an LLM product the words are part of the UX.\nThe design system. We have a Figma library and a React component library that are only loosely in sync. You'll own the system's principles and the Figma side, and partner with our frontend engineers to make the two a single source of truth. The goal is that everyday design decisions are answered by the system, so engineers can ship UI that feels like Spate without waiting on design.\nAI quality, over time. As the role settles in, you'll help define what a good AI answer looks like for our users, and contribute to how we review user feedback and evaluate our LLM features.\nRequirements\nWe care more about mindset than years of experience. You're driven, you care about making a good product, and you have a growth mindset. You value autonomy and self-direction.\n2+ years of product design experience, with work shipped in a real product.\nStrong product opinions. You think about what to build and why, not just how it looks, and you're comfortable defending and revising your ideas.\nA portfolio that shows how you framed problems, not just how you solved them. At least one case study should start from a fuzzy problem with no spec.\nExperience with, or a strong interest in, data-heavy products such as dashboards, analytics, or reporting tools.\nYou've worked within or contributed to a design system, and understand how components and patterns scale.\nReal curiosity about AI products, ideally w",
+    "posted_at": "2h",
+    "priority": 5,
+    "first_seen": "2026-11-10T03:30:38.493764-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "3051837814fd58ef0eb12c2230a7829c": {
+    "id": "3051837814fd58ef0eb12c2230a7829c",
+    "title": "Product Designer (UI/UX)",
+    "company": "Ajaia",
+    "location": "Remote",
+    "salary": "$120,000 - $168,000",
+    "url": "https://uiuxjobsboard.com/job/1672526-remote-united-states-product-designer-ui-ux",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "AI use is a core execution requirement at Ajaia, not optional tooling. You will use AI tools daily to move from interview notes to synthesis, from synthesis to wireframe, and from wireframe to something clickable. You are judged on what you keep from that process, not on how much of it AI produced.\nStaying current with new design and prototyping tools is part of the job, and so is knowing when a shortcut needs your hand back on it before a user ever sees it.\nWhat you will do\nRun discovery on client engagements: interview the people doing the work, watch them do it over screen-share, and find the gap between what they say and what they actually do.\nTalk to users of Ajaia\u2019s own products the same way. The product suite is not exempt from the same rigor client work gets.\nSynthesize findings into what people actually need, stated separately from what they asked for, with the evidence for each.\nDesign the solution: user journeys, wireframes, and prototypes that an engineer can build from without guessing.\nDecide where a human has to sign off inside a workflow, and design that checkpoint into the product rather than bolting it on afterward.\nTest designs with real users before code exists, not after.\nPush back on a stakeholder\u2019s feature list when the evidence points somewhere else, and explain why in terms they can act on.\nOwn the design standard across Ajaia\u2019s product suite so a designer joining engagement three does not have to reinvent decisions made on engagement one.\nPrototype with AI tools as a default, not a novelty. Know when the AI-native path saves real time and when it produces something you have to rebuild by hand anyway.\nHand off design work in a state an engineer can actually start from, and stay involved enough during the build to catch it when implementation drifts from the intent.\nRequirements\nRuns discovery yourself: interviews, usability testing, and reading behavioral data.\nMoves from synthesis to a working prototype fast.\nDesigns the human checkpoints into a workflow rather than bolting them on later.\nComfortable holding your ground when the evidence points somewhere a stakeholder does not expect.\nAI fluent: uses AI daily to research, synthesize, and prototype, and can tell good output from slop.\nComfortable working directly alongside engineers through build.\nNo minimum years required. We hire on the work.\nFully remote, and comfortable running interviews and user testing over video.\nA bachelor\u2019s degree is preferred and is not a requirement.\nA public portfolio or case studies we can look at before we meet.\nExperience designing AI-native workflows, including where a human checkpoint belongs.\nConsulting, agency, or professional services experience with concurrent clients.\nComfort with lightweight front-end implementation.\nA UX/UI Designer at Activate Interactive A UI/UX Lead at ASICO V UI/UX Designer at VERSANT C UI/UX Designer at Codekeeper P UX/UI Designer at PA Consulting\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nUI/UX Design Salary Guide UI/UX Design Salary in United States\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nMEDvidi is hiring Staff Product Designer (AI Track)\nIhsan is hiring Product Designer \u2014 Mobile UX/UI & Motion",
+    "posted_at": "3h",
+    "priority": 5,
+    "first_seen": "2026-11-10T03:30:40.219511-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "8b085dc565b7835d014c478506053c78": {
+    "id": "8b085dc565b7835d014c478506053c78",
+    "title": "Product Designer",
+    "company": "Valis",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1672026-remote-anywhere-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "We are Valis - a company building an institutional AI operating layer for mid-market companies: shared company memory, workflow mining and agentic automation.\nProduct Designer owns the end-to-end experience of Valis: from the first time a CEO sees it, through the admin setting it up, to the moment an employee uses it every day.\nWhat you will do\nMap the journey for each type of user: CEO and founder, client admin, end user, and our own deployment team. Keep it current as the product changes.\nSit in on client rollouts and install sessions. Watch real people use the product, and turn what you see into clear, prioritised problems for engineering.\nDefine and track experience metrics with the product and deployment teams: activation, adoption, time to first value.\nDesign the core surfaces end to end: the desktop app (daily brief, meetings library, calendar, chat), the mobile app and the admin panel.\nDesign the onboarding: first install, connecting data sources, first useful answer.\nWrite specs and prototypes that engineers and AI agents can build from directly. Review what ships, and send it back when the experience is not right.\nQuestions we have heard: \u201cWhy can I only hide a task, not close it?\u201d, \u201cHow do I switch between my personal and company workspace?\u201d, \u201cWhat changed in the app since I last opened it?\u201d\nBuild the Valis design system from scratch, so engineers and their AI agents produce a consistent interface without a design review on every change.\nKeep it in the codebase, not only in Figma. The agents need to be able to use it.\nOwn how the product talks to users: in-app notifications, release notes, user guides and trainings.\nTailor them to the reader: a CEO needs to see which of their problems a release solves, and an employee needs to know what changed in their app.\nRequirements\n7+ years in product design, including 3+ years owning the experience of a B2B SaaS product end to end, not a single feature inside a large team.\nA portfolio that shows complex products made simple: data-heavy tools, admin and permission flows, desktop and mobile apps.\nStrong in both UX and UI: research, journey mapping, information architecture, and high-quality visual and interaction design.\nYou have built a design system from scratch and got engineers to adopt it.\nYou have designed onboarding and in-product communication, and can show the effect in numbers.\nHands-on with AI tools in daily work: you prototype with Claude, Claude Code or similar, and write specs an agent can execute. You use them yourself, not only read about them.\nYou shape the product rather than wait for a brief. The product changes daily.\nExperience designing AI-native products: assistants, agents, chat, generated content.\nPrototyping in code (React / TypeScript), working in GitHub alongside engineers.\nExperience with enterprise users: admins, IT, security and access settings.\nWe offer competitive base, performance-based bonus, and the opportunity to join the team during fast growth.\nR Senior Product Designer at Remofirst S Product Designer at Spate F Senior Product Designer at Fastbreak AI T Product Designer at The Greater Change H Intern Product Designer at Hubtype\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nMEDvidi is hiring Staff Product Designer (AI Track)\nIhsan is hiring Product Designer \u2014 Mobile UX/UI & Motion",
+    "posted_at": "3h",
+    "priority": 5,
+    "first_seen": "2026-11-10T03:30:41.973341-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "cb907625b4feceeeaa2dfc4cf72428b7": {
+    "id": "cb907625b4feceeeaa2dfc4cf72428b7",
+    "title": "Visual Designer",
+    "company": "99BrightMinds",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1671726-remote-jordan-visual-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Collaborate with marketing, content, and business teams to deliver work on time.\nPrepare final files for digital publishing and print production.\nReview and revise designs based on stakeholder feedback.\nRequirements\nRequirements\n4-7 years of experience in visual, graphic or brand design.\nStrong portfolio showing visual design work across digital and print.\nStrong proficiency in Adobe Photoshop, Illustrator and InDesign.\nStrong understanding of typography, layout, color and composition.\nAbility to work from briefs and follow brand guidelines.\nAbility to manage several projects and meet deadlines.\nExperience in visual or brand design rather than UI/UX or product design.\nExperience designing Arabic and English materials.\nMotion graphics or basic video editing skills.\nExperience working in an agency or a corporate marketing team.\nA UI Designer at APPLY C Senior Designer, UI at CourtAvenue O Senior Visual Designer at OKX I Senior UI Designer at Indegene T Senior Experience Designer - UI Design at Truist\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs UX writer jobs\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nMEDvidi is hiring Staff Product Designer (AI Track)\nIhsan is hiring Product Designer \u2014 Mobile UX/UI & Motion",
+    "posted_at": "4h",
+    "priority": 5,
+    "first_seen": "2026-11-10T03:30:43.717752-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "38472411854a5215cb338c4c4b44181c": {
+    "id": "38472411854a5215cb338c4c4b44181c",
+    "title": "UI/UX Designer",
+    "company": "VERSANT",
+    "location": "Carlsbad, CA",
+    "salary": "$120,000 - $138,000",
+    "url": "https://uiuxjobsboard.com/job/1671126-ui-ux-designer-carlsbad-ca-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "VERSANT (Nasdaq: VSNT) is an industry-changing media and entertainment business and home to trusted brands that shape culture, inform audiences, and build lasting connections. It operates across four core markets: political news and opinion, business news and personal finance, golf, and sports and genre entertainment. These markets are served through a powerful portfolio of iconic and innovative brands, including CNBC, MS NOW, USA Network, Golf Channel, Oxygen, E!, SYFY, and Versant's sports division USA Sports, along with complementary digital assets including Fandango, Rotten Tomatoes, GolfNow and GolfPass.\nJob Description\nFull Swing's design practice sits inside a Design Center of Excellence, with designers embedded directly in our product pods. This role will be placed into one of those pods based on where the team's needs are greatest, owning design for the companion apps that pair with our simulators and connected hardware, covering setup, calibration, live sessions, and performance tracking. As our hardware ecosystem grows, these apps grow with it, and design is what keeps that growing complexity feeling simple to the athletes and golfers using it.\nYou will own scoped, end-to-end design work for key app feature areas: turning ambiguous problems into clear user flows and polished UI, and partnering with Product and Engineering from concept through ship. You are measured on whether the features you design hold up for real users in real sessions, not on how clean the mockups look in isolation.\nReasonable accommodations may be made to enable individuals with disabilities to perform the essential\nEnd-to-end design for mobile app features, from problem framing and user flows through high-fidelity UI and developer handoff.\nDetailed user flows and prototypes in Figma that clearly communicate logic, edge cases, and states to engineering.\nDirect partnership with Product Managers and Engineers from early discovery through launch, balancing user needs, technical constraints, and business goals.\nContributions to a shared design system, keeping patterns and components consistent across iOS and Android.\nDesign decisions validated and iterated using real user research, analytics, and usability testing, not instinct alone.\nClear presentation of design rationale to stakeholders, including leadership, incorporating feedback without losing the underlying user problem.\nParticipation in critique with other designers, sharing patterns and systems thinking across the broader product.\nAccessible mobile design, applying platform accessibility standards across interaction, visual hierarchy, typography, color, and touch targets.\nPartnership with engineers through implementation and QA, so shipped experiences match intended behavior and edge-case handling, not just the handoff mockup.\nQualifications\n3+ years of product design experience shipping consumer or professional mobile applications for iOS and/or Android\nA portfolio that demonstrates end-to-end ownership of shipped product work, including problem\nframing, user flows, wireframes, high-fidelity UI, prototypes, and iteration informed by user feedback or product data\nProficiency in Figma, including building and maintaining detailed user flows, component libraries, and interactive prototypes\nSolid understanding of iOS and Android design guidelines (Human Interface Guidelines / Material\nDemonstrated ability to work in ambiguity and move quickly in a fast-paced environment \u2014 you're comfortable defining the problem, not just solving one that's handed to you\nExperience working directly with engineers through implementation and QA, not just handoff\nClear communicator who can articulate design decisions to both design and non-design audiences\nExperience designing connected hardware/software experiences, including Bluetooth/BLE pairing, device onboarding, setup, calibration, live-session, or device-status flows\nExperience contributing to, auditing, or scaling a component library or design system\nExperi",
+    "posted_at": "4h",
+    "priority": 4,
+    "first_seen": "2026-11-10T03:30:45.452204-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "b183f2d9635e447abc7b6087974e161e": {
+    "id": "b183f2d9635e447abc7b6087974e161e",
+    "title": "UX/UI Designer",
+    "company": "PA Consulting",
+    "location": "London",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1670826-ux-ui-designer-london-united-kingdom",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "We are over 4,000 strategists, innovators, designers, consultants, digital experts, scientists, engineers, and technologists. And we have deep expertise in consumer and manufacturing, defence and security, energy and utilities, financial services, government and public services, health and life sciences, and transport.\nOur teams operate globally from offices across the UK, Ireland, US, Nordics, and Netherlands.\nJob Description\nWe believe in the power of ingenuity to build a positive human future. We challenge where it matters and own the outcome. We combine strategic thinking, customer-centric service design, and agile engineering practices to accelerate innovation in a tech-driven world.\nWhy consider joining our Digital & Data community? \ud83e\udd14\nJoin our Digital & Data team working alongside product, design and a wide range of other experts and cross-disciplinary teams to bring ideas to life through innovative software solutions.\nGrow a flexible and unique career within a trust-based, inclusive environment that values excellence, innovation, and curiosity. You have the option to progress with us on a technical career track. No need to go onto the Partner career track if this doesn\u2019t align with what you want to do.\nHybrid working - our approach is to be in the office or on client site a minimum of 2 days per week.\nWork on a broad variety of projects and tech stacks for clients across seven sectors - no project is ever the same\nJoin other experts within our supportive and collaborative tech community through knowledge-sharing and peer-level support, coaching and mentoring\nDeepen your expertise through our a culture of learning and growth \u00a0\u2013 you\u2019ll have budget to take courses (technical and non-technical training), plus gain certifications\nAbout the role \ud83d\ude80\nAs a UX/UI Designer\u00a0at PA\u00a0Consulting,\u00a0you\u2019ll\u00a0design practical, usable interfaces and flows that move products from 0 --> 1 and beyond.\u00a0You\u2019ll\u00a0sometimes\u00a0sit at the heart of multidisciplinary delivery teams\u00a0and\u00a0sometimes\u00a0contribute as an individual designer embedded with a client\u2014all\u00a0while staying connected to our Design discipline and the wider Digital & Data community.\nYou\u2019ll\u00a0flex to different contexts\u2014one week shaping product UI for a global consumer brand, the next helping\u00a0visualise\u00a0journeys for a UK services client\u2014always focused on real outcomes and pragmatic\u00a0craft-proud\u00a0delivery.\nDesign user journeys, flows, wireframes, prototypes\u00a0(manually and using Figma Make, or similar generative platforms)\u00a0and UI that support shipping working software\u00a0across web and mobile\nTake concepts from\u00a0concept\u00a0to production\u2011ready designs and iterate based on evidence\u00a0or judgement and market-leading best practices\nWork\u00a0at pace\u00a0in agile dual\u2011track cycles (discovery and delivery), adapting\u00a0scope\u00a0and fidelity\u00a0as\u00a0needed to meet the goals of both projects,\u00a0organisations\u00a0and users alike\nOften partner with engineering,\u00a0product\u00a0and other designers to make practical decisions quickly\u00a0both on and off projects\nContribute to and use design systems; keep patterns consistent and accessible.\nApply AI tools\u00a0(e.g., Copilot,\u00a0Miro, ChatGPT, Claude,\u00a0agentic workflows,\u00a0and other\u00a0generative\u00a0tooling)\u00a0to speed ideation, auditing,\u00a0documentation\u00a0and analysis\nFacilitate client workshops, whiteboarding and design\u00a0reviews,\u00a0present decisions clearly\nQualifications\nWho you are \ud83d\udcad\nA hands\u2011on UX/UI practitioner with shipped product experience\nComfortable balancing best practice with technical constraints and timelines\nClear and concise when explaining design decisions to any audience\nCurious and experimental with AI\u2011enabled design workflows\nA constructive challenger who can reframe problems and propose workable options\nCollaborative, adaptable and energised by multidisciplinary delivery\nBreak down ambiguity into concrete steps; keep momentum without losing quality\nUse AI intentionally to explore options faster and document decisions \u2014 never as a crutch\nShare early, invite critique, and iterate with evidence\nSwitch fluidly between team",
+    "posted_at": "5h",
+    "priority": 4,
+    "first_seen": "2026-11-10T03:30:47.044545-08:00",
     "status": "active",
     "applied_at": null
   }
