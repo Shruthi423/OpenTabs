@@ -1,5 +1,96 @@
 [
   {
+    "id": "849fc19038d08d85fda5fc9550114265",
+    "company": "Impact AI",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12UUdFSGxKaGNCaFEzOV9pOVJuMVJYOUY1U0hkRWdXanl3X0lJOEtPMkRDVlVxZEVXbHl0SEV1NWI0SG5pZ054VUtmN1Q4TDRveU5v?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-10T15:52:19.338939-08:00",
+    "status": "active"
+  },
+  {
+    "id": "6e986b6f9a9930a629f9c4c08ebe3442",
+    "company": "Mercor",
+    "amount": "$750.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-10T15:52:16.531518-08:00",
+    "status": "active"
+  },
+  {
+    "id": "96ab1bc10f70d53481c9b91e06ded38b",
+    "company": "Daylight",
+    "amount": "$80.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/11/10/ai-driven-managed-security-startup-daylight-raises-80m-on-40-fold-revenue-growth/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-10T15:52:13.544106-08:00",
+    "status": "active"
+  },
+  {
+    "id": "53b25cb06241ae968faeb3438c5abe15",
+    "company": "Anthropic",
+    "amount": "$88.5B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco, CA",
+    "roles": [
+      {
+        "title": "Product Designer, Design Systems",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428124008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer, Growth",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446776008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer, Safeguards",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      }
+    ],
+    "first_seen": "2026-11-10T15:52:10.554417-08:00",
+    "status": "active"
+  },
+  {
+    "id": "1759f1a00983c3312506380e3aab69f3",
+    "company": "FUWEI",
+    "amount": "Undisclosed",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVJkUkFPSnY3c3FDS1hpSVhYakpBY3pBWm9fSjBmZTdzY3FFOEdNX1M3MkNjOUxBOHg5a25jNnVkQm9qZ2llQlJFUC13M0w2ZDJoVkFfSEFSMDEzLUVaV3NBRHhNNFRiRjZZQUZpemZBdlpaQ3pyOTVoUm55bU5hdEVDMXlfUGltNzNNc3JxWWhvMWdhYnV3UGxjb0s2dUozdUcyZFlHODI4VmJI?oc=5",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-10T15:52:07.729199-08:00",
+    "status": "active"
+  },
+  {
     "id": "cde8d1b372e90ab3b9f3d31fc0d45eca",
     "company": "Lumbra",
     "amount": "$25.0M",

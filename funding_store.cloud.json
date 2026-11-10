@@ -12224,5 +12224,101 @@
     "roles": [],
     "first_seen": "2026-11-10T10:47:29.847057-08:00",
     "status": "active"
+  },
+  "1759f1a00983c3312506380e3aab69f3": {
+    "id": "1759f1a00983c3312506380e3aab69f3",
+    "company": "FUWEI",
+    "amount": "Undisclosed",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVJkUkFPSnY3c3FDS1hpSVhYakpBY3pBWm9fSjBmZTdzY3FFOEdNX1M3MkNjOUxBOHg5a25jNnVkQm9qZ2llQlJFUC13M0w2ZDJoVkFfSEFSMDEzLUVaV3NBRHhNNFRiRjZZQUZpemZBdlpaQ3pyOTVoUm55bU5hdEVDMXlfUGltNzNNc3JxWWhvMWdhYnV3UGxjb0s2dUozdUcyZFlHODI4VmJI?oc=5",
+    "priority": 8,
+    "blurb": "Industrial robotics startup FUWEI raises tens of millions in yuan Series A - Dealroom. Industrial robotics startup FUWEI raises tens of millions in yuan Series A&nbsp;&nbsp;Dealroom",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-10T15:52:07.729199-08:00",
+    "status": "active"
+  },
+  "53b25cb06241ae968faeb3438c5abe15": {
+    "id": "53b25cb06241ae968faeb3438c5abe15",
+    "company": "Anthropic",
+    "amount": "$88.5B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
+    "priority": 3,
+    "blurb": "Anthropic Seeks Record $88.5B Tied To Public Market Debut. Anthropic is seeking to secure up to $88.5 billion in its planned IPO and a concurrent private placement, potentially making it the largest-ever fundraise tied to a public market debut. On Tuesday, the AI giant submitted an updated S-1 filing for its upcoming public offering, unveiling new details including a proposed share price range offering size.",
+    "founders": [],
+    "location": "San Francisco, CA",
+    "roles": [
+      {
+        "title": "Product Designer, Design Systems",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428124008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer, Growth",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446776008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer, Safeguards",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      }
+    ],
+    "first_seen": "2026-11-10T15:52:10.554417-08:00",
+    "status": "active"
+  },
+  "96ab1bc10f70d53481c9b91e06ded38b": {
+    "id": "96ab1bc10f70d53481c9b91e06ded38b",
+    "company": "Daylight",
+    "amount": "$80.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/11/10/ai-driven-managed-security-startup-daylight-raises-80m-on-40-fold-revenue-growth/",
+    "priority": 3,
+    "blurb": "AI-driven managed security startup Daylight raises $80M on 40-fold revenue growth. Managed detection and response startup Daylight Security Inc. today revealed that it has raised $80 million in new funding after what it says was more than 40-fold revenue growth over the past year. Daylight provides managed security operations in which artificial intelligence agents carry most of the routine load. Each customer gets a set of [&#8230;]\nThe post AI-driven managed security startup Daylight raises $8",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-10T15:52:13.544106-08:00",
+    "status": "active"
+  },
+  "6e986b6f9a9930a629f9c4c08ebe3442": {
+    "id": "6e986b6f9a9930a629f9c4c08ebe3442",
+    "company": "Mercor",
+    "amount": "$750.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/",
+    "priority": 3,
+    "blurb": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises. Artificial intelligence training data company Mercor.io Corp. today revealed that it has raised $750 million in new funding at a $20 billion valuation. Mercor provides the human expertise used to train and evaluate AI models, drawing on a network of more than 5 million domain experts. Most of that work so far has been for [&#8230;]\nThe post Mercor raises $750M at $20B valuation to take AI agent evaluation to enterp",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-10T15:52:16.531518-08:00",
+    "status": "active"
+  },
+  "849fc19038d08d85fda5fc9550114265": {
+    "id": "849fc19038d08d85fda5fc9550114265",
+    "company": "Impact AI",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12UUdFSGxKaGNCaFEzOV9pOVJuMVJYOUY1U0hkRWdXanl3X0lJOEtPMkRDVlVxZEVXbHl0SEV1NWI0SG5pZ054VUtmN1Q4TDRveU5v?oc=5",
+    "priority": 3,
+    "blurb": "AI Ad Startup Impact AI Raises USD 3M Pre-SeriesA for ADOASIS Marketing Platform - Wowtale. AI Ad Startup Impact AI Raises USD 3M Pre-SeriesA for ADOASIS Marketing Platform&nbsp;&nbsp;Wowtale",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-10T15:52:19.338939-08:00",
+    "status": "active"
   }
 }
