@@ -1,107 +1,47 @@
 [
   {
     "item": {
-      "company": "Nominal",
-      "amount": "$240.0M",
-      "stage": "Series B",
-      "investors": "Lightspeed Venture Partners and Insight Partners",
+      "company": "Round Size",
+      "amount": null,
+      "stage": "Series A",
+      "investors": null,
       "location": null,
-      "blurb": "Hardware-testing and engineering startup Nominal raises $240M at $3B valuation. Artificial intelligence-powered hardware-testing and engineering software startup Nominal Inc. today announced it has raised $240 million in new funding led by Lightspeed Venture Partners and Insight Partners. The investment triples the company\u2019s valuation to $3 billion,\u00a0up from $1 billion cemented in March after it raised\u00a0$80 million in a Series B-2 funding round. Additional major investors [&#8230;]\nThe post Hardwa",
+      "blurb": "Series A vs Series B: Round Size, Valuation and Dilution (2026) - AI Funding Tracker. Series A vs Series B: Round Size, Valuation and Dilution (2026)&nbsp;&nbsp;AI Funding Tracker",
+      "founders": [],
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EMUp3M1g1NzVwc0dNcF9oWWtzNklQX3VQaEFSX2dsZmpvSFdUN1JsV1lvSl96emtwMUpBb3Bpa1hhR1VnUzN3bVZ0bGZMX1RaZGtjRnE2TWQwdmRSU3pj?oc=5",
+      "priority": 8
+    },
+    "remind_at": "2026-11-09T19:37:24.478041-08:00"
+  },
+  {
+    "item": {
+      "company": "Alphabet\u2019s Wing",
+      "amount": "$125.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Alphabet\u2019s Wing to invest $125M in new delivery drone factory. Wing Aviation LLC today announced plans to spend $125 million on the construction of a new delivery drone factory.\u00a0 The initiative is part of a broader investment that also encompasses the Alphabet Inc. unit\u2019s research and development teams in California. Additionally, Wing stated that it plans to invest in the communities where it operates. It [&#8230;]\nThe post Alphabet\u2019s Wing to invest $125M in new delivery drone factory appeared ",
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/09/ai-powered-hardware-testing-and-engineering-startup-nominal-raises-240m-at-3b-valuation/",
-      "priority": 10
-    },
-    "remind_at": "2026-11-09T13:04:31.184891-08:00"
-  },
-  {
-    "item": {
-      "company": "geniosAI",
-      "amount": "$19.1M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "geniosAI Raises $19.1M in Combined Seed and Series A Funding - Unite.AI. geniosAI Raises $19.1M in Combined Seed and Series A Funding&nbsp;&nbsp;Unite.AI",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnlJUVg4anIzTW9ZemhybG43V201NFd1Zl9NY1BiNEJzS2VHZXM4bi1Fb3dWcmRwVEF5TDlFX0FKazJxWGpxZFVRLUhzVUQxRWNYRXNmUXVNYm1MVXl2S0xtdlhMdWQyaHVhNHRncWdCb2tuTnZiLW9HUHFpa25uZXdITy0xQ1ow?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-11-09T13:04:34.422861-08:00"
-  },
-  {
-    "item": {
-      "company": "Snapp",
-      "amount": "$4.6M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Snapp lands $4.6M seed to build AI sports analytics - Dealroom. Snapp lands $4.6M seed to build AI sports analytics&nbsp;&nbsp;Dealroom",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGpQSHlNNWRPaGNwZ1pIRFlaMkhlbWNZck8teEtWcDZrODgxMFVMX2xGLUxySkxFOVZFRDFvakh4akxYb2lqdmFSdDNyczhGQWVGdGRRSHBqUUJ1M2hoWG50bllwcWlKNzFyaTI2MDJXeVE0b3JnaEVzMjNlY1ZvSDBRaHU3R19EWnNaUA?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-11-09T13:04:38.582877-08:00"
-  },
-  {
-    "item": {
-      "company": "Paper Unicorns",
-      "amount": "$1.0B",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table. AI startups should be judged by durable revenue, full-price renewals and healthy margins after delivery costs, with embedded customer workflows providing stronger defensibility as model access gets cheaper, rather than their paper valuation, writes guest author Ilman Shazhaev, founder and CEO of Dizzaract, who suggests that founders should build global investor bases that support customer acquisition and m",
-      "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/",
+      "url": "https://siliconangle.com/2026/11/09/alphabets-wing-to-invest-125m-in-new-delivery-drone-factory/",
       "priority": 3
     },
-    "remind_at": "2026-11-09T13:04:44.242395-08:00"
+    "remind_at": "2026-11-09T19:37:29.968257-08:00"
   },
   {
     "item": {
-      "company": "$237K",
-      "amount": "$1.5M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "The New Normal in Revenue Per Employee: $237K Is the OldMedian, $655K Is the New Top Tier, and Six B2B Leaders Now Clear $1.5M. For 15 years, B2B ran on one planning ratio that almost no one questioned: Every $200K to $300K of new revenue needed another person. Boards approved hiring plans against it, CFOs modeled against it, and founders raised money to fund it. That ratio still describes the median older B2B / SaaS company. But it no... Continue Reading",
-      "founders": [],
-      "source": "SaaStr",
-      "url": "https://www.saastr.com/the-new-normal-in-revenue-per-employee-237k-is-the-median-655k-is-the-top-tier-and-six-b2b-leaders-now-clear-1-5m/",
-      "priority": 3
-    },
-    "remind_at": "2026-11-09T13:04:47.280013-08:00"
-  },
-  {
-    "item": {
-      "company": "Kifiya",
+      "company": "Bopu Semiconductor",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Kifiya Secures Investment from IFC. Ethiopian fintech Kifiya secures an investment from the International Finance Corporation to scale its AI-powered agricultural lending and risk platform.",
+      "blurb": "Bopu Semiconductor raises several hundred million yuan for AI data-center photonics - Dealroom. Bopu Semiconductor raises several hundred million yuan for AI data-center photonics&nbsp;&nbsp;Dealroom",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kifiya-raises-undisclosed-other/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMUZ1Mk14S05uRVhnV2YzOGVyTm52YWdpdTRsbHVaRnVxdmU1Q2YtNUN5UU44Wmt6MkVzWjB5My1ySXNkZGFGNXhLOXJHMmxPcV9RMnhfRnFzX3hFOHUxY1dXWDhmcVltUThBVnprcDhoNUNMWXNGOEtXNWFadjFFS1YwbWZNUUx2anVweXIzNVRFQ0NBazg2R0o1R1hYczRDdV9UNDdzQmIyelc5VlJWUHZWMklTOE50?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-11-09T13:04:50.191731-08:00"
-  },
-  {
-    "item": {
-      "company": "Northwood",
-      "amount": "$375.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Northwood Raises $375 Million to Expand Satellite Ground Network - Ventureburn. Northwood Raises $375 Million to Expand Satellite Ground Network&nbsp;&nbsp;Ventureburn",
-      "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVW1lMG9tMkJwMDNMTV9WZnZ5LV9VTHJqeVprTnNNRjRnZ2xPMkcyeTU4SWs5SkN2YmZvVXNlY01PbmJfUU9EdVNoclBCNm1oWTIybGxWYU1VY05QTkdLYjdrMklRbC1BLW9MV1lhdXdSUEhUNDZzQzNNc0YtdWdaUHZvM3HSAYQBQVVfeXFMTVVtZTBvbTJCcDAzTE1fVmZ2eS1fVUxyanlaa05zTUY0Z2dsTzJHMnk1OElrOUpDdmJmb1VzZWNNT25iX1FPRHVTaHJQQjZtaFkyMmxsVmFNVWNOUE5HS2I3azJJUWwtQS1vTFdZYXV3UlBIVDQ2c0MzTXNGLXVnWlB2bzNx?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-11-09T13:04:53.080614-08:00"
+    "remind_at": "2026-11-09T19:37:35.540091-08:00"
   }
 ]
