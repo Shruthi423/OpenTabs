@@ -1,197 +1,62 @@
 [
   {
     "item": {
-      "company": "Toutix",
-      "amount": "$3.0M",
-      "stage": "Seed",
-      "investors": "Evolution Equity Partners",
+      "company": "Sequoia-backed Reflect Orbital",
+      "amount": "$73.5M",
+      "stage": null,
+      "investors": "Sequoia",
       "location": null,
-      "blurb": "Toutix Raises $3M Seed. Toutix raises $3 million in seed funding from Evolution Equity Partners to expand its AI-powered fan data ownership platform for live events.",
+      "blurb": "Sequoia-backed Reflect Orbital raises $73.5M to beam sunlight to Earth after dark. Reflect Orbital, a Hawthorne, California, startup building satellites that redirect sunlight to Earth, has raised $73.5 million in&#8230;",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/toutix-raises-3m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-11T04:12:29.019340-08:00"
-  },
-  {
-    "item": {
-      "company": "Alterra Labs",
-      "amount": "$12.5M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Alterra Labs Raises $12.5M Seed. Alterra Labs raises $12.5M seed round led by Oak HC/FT to build training environments and improve safety for medical AI models.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/alterra-labs-raises-12-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-11T04:12:32.000382-08:00"
-  },
-  {
-    "item": {
-      "company": "Seva Money",
-      "amount": "$5.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Seva Money Raises $5M Seed. Seva Money raises $5M in a seed round led by Blockwall and Revent to expand its fintech remittance wallet services across global markets.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/seva-money-raises-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-11T04:12:37.486894-08:00"
-  },
-  {
-    "item": {
-      "company": "Trina",
-      "amount": null,
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "AI startup Trina raises $112,000 seed to build team-wide AI tools - Dealroom. AI startup Trina raises $112,000 seed to build team-wide AI tools&nbsp;&nbsp;Dealroom",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDIzQnNLejJ5TWc5aF95eDlZNXdtOHdPVWM3cWxWS25iZWlBLVZ4bVh3dHlTWHJRcjl6ZlhtbEJmUFhERVVOdE04OFFyMmJ0OVA3Yk8wdjd4d0hMSi10M1haOTA5Q0JLSGhBdHNrZTB5anBWQnlTaTBaZVJmNE11QnVXYjZTcFNzQkUzSEZfcHZMV1hKR01yMjc3anV5N0k?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-11-11T04:12:40.480157-08:00"
-  },
-  {
-    "item": {
-      "company": "PromptPath",
-      "amount": "$12.0M",
-      "stage": "Series A",
-      "investors": "FM Capital, Armory Square Ventures",
-      "location": null,
-      "blurb": "PromptPath Raises $12M Series A. PromptPath raises $12 million in Series A funding led by FM Capital and Armory Square Ventures to scale its AI-driven conversation intelligence platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/promptpath-raises-12m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-11-11T04:12:43.351421-08:00"
-  },
-  {
-    "item": {
-      "company": "Bay",
-      "amount": "$50.0M",
-      "stage": "Series A",
-      "investors": "Battery Ventures",
-      "location": null,
-      "blurb": "Bay Emerges From Stealth With $50M. Bay raises $37M Series A round led by Battery Ventures to scale its AI security platform for autonomous enterprise agents.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/bay-raises-50m-seed-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-11-11T04:12:46.690654-08:00"
-  },
-  {
-    "item": {
-      "company": "WhiteMatter",
-      "amount": "$20.0M",
-      "stage": "Series A",
-      "investors": "Blumberg Capital",
-      "location": null,
-      "blurb": "WhiteMatter Raises $20M Series A. WhiteMatter raises $20M Series A led by Blumberg Capital to expand its AI agent security and governance platform for enterprise customers.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/whitematter-raises-20m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-11-11T04:12:49.629884-08:00"
-  },
-  {
-    "item": {
-      "company": "Garage",
-      "amount": "$41.0M",
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "blurb": "Garage Raises $41M Series B. Garage raises $41M Series B round led by Invus Opportunities to scale its AI-powered marketplace for essential heavy equipment and municipal assets.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/garage-raises-41m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-11-11T04:12:52.485023-08:00"
-  },
-  {
-    "item": {
-      "company": "Charta Health",
-      "amount": "$55.0M",
-      "stage": "Series B",
-      "investors": "Insight Partners",
-      "location": null,
-      "blurb": "Charta Health Raises $55M Series B. Charta Health raises $55 million Series B led by Insight Partners to scale its AI-driven medical chart review platform for healthcare providers and payers.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/charta-health-raises-55m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-11-11T04:12:57.244939-08:00"
-  },
-  {
-    "item": {
-      "company": "Clara",
-      "amount": "$105.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "blurb": "Clara Raises $105M Series C. Clara raises $105M in Series C and growth financing to scale its AI-powered corporate spend management platform across Latin America.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/clara-raises-105m-series-c/",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/sequoia-backed-reflect-orbital-raises-73-5m-to-beam-sunlight-to-earth-after-dark/",
       "priority": 6
     },
-    "remind_at": "2026-11-11T04:13:00.149313-08:00"
+    "remind_at": "2026-11-11T11:36:06.667797-08:00"
   },
   {
     "item": {
-      "company": "Amity",
-      "amount": "$100.0M",
-      "stage": "Series D",
-      "investors": "Krungsri Finnovate",
-      "location": null,
-      "blurb": "Amity Raises $100M Series D Extension. Amity raises over $100M in a Series D extension round featuring investment from Krungsri Finnovate to fuel its enterprise AI platform expansion.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/amity-raises-100m-series-d-extension/",
-      "priority": 5
-    },
-    "remind_at": "2026-11-11T04:13:02.964657-08:00"
-  },
-  {
-    "item": {
-      "company": "Scalestack",
+      "company": "AI Bets",
       "amount": null,
       "stage": null,
-      "investors": "Leonis Capital",
+      "investors": "Benchmark, Benchmark Capital, Funding Tracker Benchmark Capital",
       "location": null,
-      "blurb": "Scalestack Raises New Funding. Scalestack raises new funding led by Leonis Capital with participation from Zapier and Deel to expand its autonomous AI agent infrastructure platform.",
+      "blurb": "Benchmark Capital Portfolio 2026: AI Bets, Exits and New Funds - AI Funding Tracker. Benchmark Capital Portfolio 2026: AI Bets, Exits and New Funds&nbsp;&nbsp;AI Funding Tracker",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/scalestack-raises-new-funding/",
-      "priority": 3
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NLUpuUUFKSWV3RTkwUzRaYmRGd05mZk5ka3F2MHgzRVo4Y2lOYlFGbFU4Q2NSNjdJNHVWNkRZMDRnOEp6clQtY1hVc0kwTFVrRENKMVVIbXlNTFdqN3o1RmJWNkt0ODhv?oc=5",
+      "priority": 6
     },
-    "remind_at": "2026-11-11T04:13:05.885715-08:00"
+    "remind_at": "2026-11-11T11:36:09.741004-08:00"
   },
   {
     "item": {
-      "company": "Blue J",
-      "amount": "$176.0M",
-      "stage": "Series E",
-      "investors": "JMI Equity",
+      "company": "Funding News Today",
+      "amount": "$1.6B",
+      "stage": null,
+      "investors": null,
       "location": null,
-      "blurb": "Blue J Raises $176M Series E. Blue J raises $176M in Series E funding led by JMI Equity to scale its agentic AI tax research platform and expand into international markets.",
+      "blurb": "Startup Funding News Today, November 11, 2026: Alta, Blue J, Mercor, Path Robotics, Clara, Reflect Orbital & More. Venture capital poured more than $1.6 billion into 10 major startup financing announcements over the past 24 hours, but the biggest story is where investors are placing their bets. From AI training and industrial robotics to cybersecurity, semiconductor design, and [&#8230;]\nThe post Startup Funding News Today, November 11, 2026: Alta, Blue J, Mercor, Path Robotics, Clara, Reflect O",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/blue-j-raises-176m-series-e/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/11/11/startup-funding-news-today-november-11-2026-alta-mercor-path-robotics-clara-reflect-orbital-more/",
       "priority": 3
     },
-    "remind_at": "2026-11-11T04:13:11.712983-08:00"
+    "remind_at": "2026-11-11T11:36:41.752641-08:00"
+  },
+  {
+    "item": {
+      "company": "Rox",
+      "amount": "$100.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Automation startup Rox raises $100 million at $1.3 billion valuation - Reuters. Automation startup Rox raises $100 million at $1.3 billion valuation&nbsp;&nbsp;Reuters",
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUtrODMtSnhzZldZdEpjMmFEdHlzdTBlTTdDZkJObUJMenZOSkZ0eGhpT3R0Z3prQ0ZZazE0dVVsMlFKMklla0dMVGhVOURMSG1fTHRjSFFoZE0xS3IwRUYyNm14T2RRbktPNERZVXdBejduY1U3T0xJelZsbXJ1T0U4Q1prZTR0Z2NmYXV4RDRrdWw0UE5GdE1vdjFJamFBb25JTElKMTdXV2s?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-11-11T11:36:44.725426-08:00"
   }
 ]
