@@ -1,5 +1,22 @@
 [
   {
+    "id": "3deec4bd2dbc079b909cc1467f4b185a",
+    "title": "Product Designer, Golf Products",
+    "company": "USGA",
+    "location": "NJ, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=e314ee5f572519b0",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-11-09",
+    "priority": 4,
+    "first_seen": "2026-11-10T20:15:25.612865-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "391bca0840f4a06a04652b8c88028273",
     "title": "User Experience Specialist (Temporary)",
     "company": "UW Advancement Careers",
@@ -15925,23 +15942,6 @@
     "posted_at": "2026-10-11",
     "priority": 4,
     "first_seen": "2026-10-11T10:37:56.828912-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "c7e3e89c57f7d1c146d066ed02fbd5a1",
-    "title": "Kids Home Print + Product Designer",
-    "company": "Target",
-    "location": "Minneapolis, MN, US",
-    "salary": "$73,000 \u2013 $132,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=98b95ec17107bde3",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-10-08",
-    "priority": 4,
-    "first_seen": "2026-10-10T21:07:11.251264-07:00",
     "status": "active",
     "jd": "yes"
   }
