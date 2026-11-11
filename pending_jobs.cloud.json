@@ -1,36 +1,100 @@
 [
   {
     "job": {
-      "title": "Enterprise Product Designer",
-      "company": "Typesafe Ai",
-      "location": "San Francisco Office",
-      "url": "https://jobs.ashbyhq.com/typesafe-ai/5b6c4a51-c4c7-4598-9e74-8cb45b17044e",
-      "salary": "Not listed",
-      "description": "We\u2019re building prod, not god. TypeSafe is an AI lab pushing frontier model intelligence in a new direction, starting with System One Models. We combine the reasoning of LLMs with the reliability of code, for truly trustworthy AI. Our first model, Jev, launched in September 2026.\n\nWhile others chase ",
+      "title": "Product Designer",
+      "company": "Eloquent AI (P25)",
+      "location": "San Francisco",
+      "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D79144&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30513",
+      "salary": "$120K - $180K",
+      "description": "The AI Operator for Financial Services",
       "posted_at": "Recently",
-      "source": "Startups.Gallery",
+      "source": "Y Combinator",
       "relevant": true,
-      "is_new_grad": true,
+      "is_new_grad": false,
       "is_big_tech": false,
       "visa": null
     },
-    "remind_at": "2026-11-10T20:28:22.541332-08:00"
+    "remind_at": "2026-11-11T04:12:00.087278-08:00"
   },
   {
     "job": {
-      "title": "Visual Designer",
-      "company": "Typesafe Ai",
-      "location": "San Francisco Office",
-      "url": "https://jobs.ashbyhq.com/typesafe-ai/f7591c57-a498-49c7-ac2f-2e57dc0e17be",
+      "title": "UI/UX Designer",
+      "company": "Kepora",
+      "location": "McLean, VA",
+      "url": "https://uiuxjobsboard.com/job/1673426-ui-ux-designer-mclean-va-united-states",
       "salary": "Not listed",
-      "description": "We\u2019re building prod, not god. TypeSafe is an AI lab pushing frontier model intelligence in a new direction, starting with System One Models. We combine the reasoning of LLMs with the reliability of code, for truly trustworthy AI. Our first model, Jev, launched in September 2026.\n\nWhile others chase ",
-      "posted_at": "Recently",
-      "source": "Startups.Gallery",
+      "description": "",
+      "posted_at": "2h",
+      "source": "UIUXJobsBoard",
       "relevant": true,
-      "is_new_grad": true,
+      "is_new_grad": false,
       "is_big_tech": false,
       "visa": null
     },
-    "remind_at": "2026-11-10T20:28:24.092293-08:00"
+    "remind_at": "2026-11-11T04:12:01.758240-08:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Clarify",
+      "location": "Seattle, WA",
+      "url": "https://uiuxjobsboard.com/job/1672926-product-designer-seattle-wa-united-states",
+      "salary": "$160,000 - $220,000",
+      "description": "",
+      "posted_at": "3h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-11T04:12:03.543162-08:00"
+  },
+  {
+    "job": {
+      "title": "UX Product Design Intern",
+      "company": "Skydio",
+      "location": "San Mateo, CA",
+      "url": "https://uiuxjobsboard.com/job/1673826-ux-product-design-intern-san-mateo-ca-united-states",
+      "salary": "$97,760 - $145,600",
+      "description": "",
+      "posted_at": "4h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-11T04:12:05.199036-08:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Yaklabs",
+      "location": "New York",
+      "url": "https://uiuxjobsboard.com/job/1673626-product-designer-new-york-united-states",
+      "salary": "$215,000 - $325,000",
+      "description": "",
+      "posted_at": "5h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-11T04:12:06.979102-08:00"
+  },
+  {
+    "job": {
+      "title": "Brand Designer",
+      "company": "Chartahealth",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/chartahealth/bc8cf02e-4d9c-4854-a5fe-4a77a607d001",
+      "salary": "Not listed",
+      "description": "ABOUT CHARTA HEALTH\n\n\u00a0\n\nIn an industry where the focus should rightly be on delivering quality care to patients, healthcare providers remain burdened by the complexities of non-clinical operations. Charta is changing that.\n\n\u00a0\n\nWe're building the operating system for modern healthcare organizations. ",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery"
+    },
+    "remind_at": "2026-11-11T04:12:55.471862-08:00"
   }
 ]
