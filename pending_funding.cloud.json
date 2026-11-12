@@ -1,152 +1,199 @@
 [
   {
     "item": {
-      "company": "Operand",
-      "amount": "$31.0M",
-      "stage": "Seed",
-      "investors": "Khosla, Khosla Ventures",
-      "location": null,
-      "blurb": "Operand Raises $31M at $220M Valuation. Operand raises $31M in Seed and Series A funding led by Khosla Ventures at a $220M valuation to scale its AI-driven due diligence platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/operand-raises-31m-seed-series-a/",
-      "priority": 12
-    },
-    "remind_at": "2026-11-12T01:33:29.726108-08:00"
-  },
-  {
-    "item": {
-      "company": "Anorak",
-      "amount": "$5.0M",
-      "stage": "Pre-Seed",
-      "investors": "Play Ventures",
-      "location": null,
-      "blurb": "Anorak Raises $5M Pre-seed. Anorak raises $5M in pre-seed funding led by Play Ventures and Backed VC to build an AI-powered interactive gaming platform for community-led content.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/anorak-raises-5m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-11-12T01:33:32.505817-08:00"
-  },
-  {
-    "item": {
-      "company": "Helix",
-      "amount": "$6.2M",
-      "stage": "Pre-Seed",
-      "investors": "Chicago Ventures",
-      "location": "Chicago",
-      "blurb": "Helix Raises $6.2M Pre-seed. Helix raises $6.2M in pre-seed funding led by Chicago Ventures to scale its voice-based human verification platform for the AI era.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/helix-raises-6-2m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-11-12T01:33:35.435416-08:00"
-  },
-  {
-    "item": {
-      "company": "Lumepay",
-      "amount": "$6.0M",
+      "company": "Distribution Demon",
+      "amount": null,
       "stage": "Pre-Seed",
       "investors": null,
       "location": null,
-      "blurb": "SA fintech startup Lumepay raises $6m pre-seed round - - Disrupt Africa. SA fintech startup Lumepay raises $6m pre-seed round&nbsp;&nbsp;- Disrupt Africa",
+      "blurb": "AI influencer startup Distribution Demon raises $200K pre-seed - Dealroom. AI influencer startup Distribution Demon raises $200K pre-seed&nbsp;&nbsp;Dealroom",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUtXazNJUURnUnVUZ1VIUE9qYU1ZWTNsVkMzTXhMcHg1YUsxV2pMQU8xR1RVcFpwMWhVb3ZvejdxeUhNa0xMV3RTNEZGUDNzMWpZRGJrWDBab1g1dzkxZWFfcTR4WVBFWWJua2pmLS0zLU5nR2ZlUVJzSmRnc05jRFVobzVvemNLbjlLdG45Yjc5SGs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUJadDhudUM2UjZ6NmpNNUUzT0kxbUFPbl9JQTVrSTdtOEFkb3ZVMEFZMzJYSlRtM1ZmTHNYZ2I2SEJNQWFRX1hKN3FTaW8wXzFISVJ0MUs3dnJrd1JBMDE3ckktVlFuYkQydGxhU0dXS3RGSVlnenVsbjlocWFTWnVjUnNBc1FCVkcyN3ozdUdjMGlQWXdSbkhWSQ?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-11-12T01:33:38.628429-08:00"
+    "remind_at": "2026-11-12T10:12:14.471231-08:00"
   },
   {
     "item": {
-      "company": "Tano",
-      "amount": "$4.0M",
-      "stage": "Seed",
-      "investors": "Cherry Ventures",
-      "location": null,
-      "blurb": "Tano Raises $4M Seed. Tano raises $4M seed round led by Cherry Ventures to scale its AI-powered creator advertising platform and expand operations.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/tano-raises-4m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-12T01:33:41.527908-08:00"
-  },
-  {
-    "item": {
-      "company": "vinny",
-      "amount": "$2.1M",
-      "stage": "Seed",
-      "investors": "York IE",
-      "location": null,
-      "blurb": "vinny Raises $2.1M Seed. vinny raises $2.1M seed round led by York IE to expand its digital workflow platform for the RV industry supply chain.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/vinny-raises-2-1m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-12T01:33:44.388869-08:00"
-  },
-  {
-    "item": {
-      "company": "Plurai",
-      "amount": "$13.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Plurai Raises $13M Seed. Plurai raises $13M seed round led by Team8 to expand its simulation infrastructure platform for trustworthy and self-improving AI agents.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/plurai-raises-13m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-12T01:34:02.202637-08:00"
-  },
-  {
-    "item": {
-      "company": "Palomma",
-      "amount": "$10.0M",
+      "company": "Tristar AI",
+      "amount": "$12.4M",
       "stage": "Series A",
       "investors": null,
       "location": null,
-      "blurb": "Palomma Raises $10M Series A. Palomma raises $10M Series A led by Cometa to expand its AI-driven rental management and financial services platform for the Latin American market.",
+      "blurb": "Computer vision startup Tristar AI pulls in $12.4M to automate quality control for manufacturers. All too often, manufacturing defects seem to slip past human eyes, with the result that high-speed production lines turn into expensive scrapheaps. Computer vision startup Tristar AI Inc. has just raised $12.4 million in early-stage funding in order to try to put an end to these costly mistakes. Today\u2019s Series A round was led by [&#8230;]\nThe post Computer vision startup Tristar AI pulls in $12.4M t",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/palomma-raises-10m-series-a/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/12/computer-vision-startup-tristar-ai-pulls-in-12-4m-to-automate-quality-control-for-manufacturers/",
       "priority": 8
     },
-    "remind_at": "2026-11-12T01:34:05.124310-08:00"
+    "remind_at": "2026-11-12T10:12:29.807676-08:00"
   },
   {
     "item": {
-      "company": "Nebuly",
-      "amount": "$21.0M",
+      "company": "Sequoia-backed Rox",
+      "amount": "$100.0M",
       "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Nebuly raises $21M from Planven to show enterprises what its AI agents are worth. Uber has effectively blown its entire 2026 AI budget in just four months, Fortune reports. Nebuly, which has&#8230;",
+      "investors": "Sequoia",
+      "location": "San Francisco",
+      "blurb": "Sequoia-backed Rox raises $100M at $1.3B valuation: can AI agents unseat Salesforce in sales?. Rox, a San Francisco-based AI startup developing autonomous revenue agents for large enterprises, has raised $100 million in&#8230;",
       "founders": [],
       "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/nebuly-ai-roi-platform-enterprise-agents/",
-      "priority": 3
+      "url": "https://techfundingnews.com/sequoia-backed-rox-raises-100m-at-1-3b-valuation-can-ai-agents-unseat-salesforce-in-sales/",
+      "priority": 6
     },
-    "remind_at": "2026-11-12T01:34:07.902300-08:00"
+    "remind_at": "2026-11-12T10:12:35.287230-08:00"
   },
   {
     "item": {
-      "company": "Imprint",
-      "amount": "$130.0M",
+      "company": "Qvyon",
+      "amount": "$8.0M",
+      "stage": null,
+      "investors": "BDC Capital, BKR Capital and Spotlight VP",
+      "location": null,
+      "blurb": "Qvyon launches with $8M to improve safety for physical AI deployments. Physical AI validation infrastructure and software development company Qvyon Technologies Inc. launched today with $8 million in total funding to help companies validate autonomous vehicles and robots before deployment. MaC Venture Capital led the funding, with participation from BDC Capital, BKR Capital and Spotlight VP. Physical AI is artificial intelligence that moves from digital brains [&#8230;]\nThe post Qvyon launches w",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/12/qvyon-launches-with-8m-to-improve-safety-for-physical-ai-deployments/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-12T10:12:38.206503-08:00"
+  },
+  {
+    "item": {
+      "company": "Hatz AI",
+      "amount": "$24.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Imprint Raises $130M at $1.9B Valuation. Imprint raises $130 million at a $1.9 billion valuation to expand its AI-powered payments and customer loyalty platform for global brands.",
+      "blurb": "Hatz AI raises $24M to help small businesses go AI-native through their MSPs. Large enterprises have emerged as the foremost adopters of artificial intelligence technology, and it\u2019s giving them an unfair advantage over their smaller competitors. Looking to change that is a startup called Hatz AI Inc., which has just raised $24 million in early-stage funding to empower managed services providers with the tools they need to keep [&#8230;]\nThe post Hatz AI raises $24M to help small businesses go AI",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/imprint-raises-130m-other/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/12/hatz-ai-raises-24m-to-help-small-businesses-go-ai-native-through-their-msps/",
       "priority": 3
     },
-    "remind_at": "2026-11-12T01:34:10.713328-08:00"
+    "remind_at": "2026-11-12T10:12:41.125496-08:00"
+  },
+  {
+    "item": {
+      "company": "Jensen Huang",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": "New York",
+      "blurb": "Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO. Jensen Huang resigned as CEO of Nvidia after he reportedly had two affairs, including one with a purported Chinese spy. Why it matters: It's impossible to overstate how critical Huang is to Nvidia, to the AI buildout, to the stock market and economy. His departure could, per Wall Street sources, be the catalyst that endangers a ballooning AI bubble.It's also unlikely to ease congressional scrutiny of the company or Huang himself. ",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/12/nvidia-jensen-huang-out",
+      "priority": 3
+    },
+    "remind_at": "2026-11-12T10:12:49.485973-08:00"
+  },
+  {
+    "item": {
+      "company": "Bracing",
+      "amount": "$600.0B",
+      "stage": null,
+      "investors": null,
+      "location": "New York",
+      "blurb": "Bracing for Nvidia's impact. Data: FactSet; Chart: Matt Phillips/AxiosNvidia CEO Jensen Huang's apparent from grace is a shock to a company at the core of the U.S. markets and the AI ecosystem that he did much to create. Why it matters: CEO scandals happen at companies. Their stocks fall. But there is no other company quite like Nvidia.Its size, financial resources and strategic position in the AI boom have made both the chipmaker and Huang, personally, pillars of the industry that has come to d",
+      "founders": [
+        "Jensen Huang's"
+      ],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/12/bracing-for-nvidias-impact",
+      "priority": 3
+    },
+    "remind_at": "2026-11-12T10:12:52.297776-08:00"
+  },
+  {
+    "item": {
+      "company": "YC-backed Luminal",
+      "amount": "$25.0M",
+      "stage": null,
+      "investors": "Standard Capital",
+      "location": null,
+      "blurb": "YC-backed Luminal raises $25M from Standard Capital to loosen Nvidia\u2019s grip on AI inference. As demand for artificial intelligence grows, the cost of running models is becoming a major infrastructure challenge. Much&#8230;",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/luminal-25m-series-a-ai-inference-compiler-cloud/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-12T10:12:57.932374-08:00"
+  },
+  {
+    "item": {
+      "company": "Kindo",
+      "amount": "$30.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Kindo raises $30M after 800% revenue growth: can one control center tame enterprise AI agents?. As businesses deploy AI agents across more departments, controlling what these systems can access, change and spend is&#8230;",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/kindo-raises-30m-after-800-revenue-growth-can-one-control-center-tame-enterprise-ai-agents/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-12T10:13:00.736207-08:00"
+  },
+  {
+    "item": {
+      "company": "Mondrio",
+      "amount": "$3.75M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Pitch deck: Mondrio raises $3.75M from Heartcore to put AI agents in charge of B2B pricing and quotes. Software companies are shipping AI features faster than they can set prices. Mondrio, founded in 2026 with headquarters&#8230;",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/mondrio-3-75m-seed-ai-pricing-agents/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-12T10:13:03.628316-08:00"
+  },
+  {
+    "item": {
+      "company": "Deploying Robots Day One",
+      "amount": "$60.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Viam Launchpad: Deploying Robots Day One. Billion-dollar valuations are pouring into Physical AI, yet too many brilliant founders are stuck in \u201cROS purgatory,\u201d unable to turn pilots into revenue-generating robots. Automation investment has topped $60 billion in nine months, but only $1.3 billion is going to the software that speeds up deployment. AWS just shut down RoboMaker after seven years, and Google\u2019s Intrinsic hasn\u2019t broken through either. Eliot Horowitz, co-founder of MongoDB, thinks he\u2019s",
+      "founders": [],
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/11/viam-launchpad-deploying-robots-day-one/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-12T10:13:10.461393-08:00"
+  },
+  {
+    "item": {
+      "company": "iCareManager",
+      "amount": null,
+      "stage": null,
+      "investors": "Announces Growth, Five Elms Capital",
+      "location": null,
+      "blurb": "iCareManager Announces Growth Investment. iCareManager secures growth investment from Five Elms Capital to expand its AI-native EHR and care management platform for IDD service providers.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/icaremanager-announces-growth-investment/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-12T10:13:13.368748-08:00"
+  },
+  {
+    "item": {
+      "company": "PortX",
+      "amount": null,
+      "stage": null,
+      "investors": "PortX Secures Growth Capital",
+      "location": null,
+      "blurb": "PortX Secures Growth Capital Financing. PortX secures growth capital from CIBC Innovation Banking to expand its AI-native data integration platform for community banks and credit unions.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/portx-secures-growth-capital-financing/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-12T10:13:16.275595-08:00"
   }
 ]

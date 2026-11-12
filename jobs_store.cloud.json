@@ -416,7 +416,7 @@
     "first_seen": "2026-09-22T08:06:23.035073-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-08T05:43:59.856344-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "59befdba3968c7ac0efae46fa3fc4e74": {
@@ -1024,7 +1024,7 @@
     "first_seen": "2026-09-26T09:21:50.447862-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-08T05:43:59.856344-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "2902d8a345ff5337c71f312e2d5ddbfb": {
@@ -1045,7 +1045,7 @@
     "first_seen": "2026-09-26T17:34:54.255684-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-08T05:43:59.856344-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "32725013c67fe8cb2d1a5efa16103d13": {
@@ -4129,10 +4129,10 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-10-12T09:08:24.132935-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "dead_strikes": 2
   },
   "d66bb1a6e6605bf1bd626f0770f968cd": {
     "id": "d66bb1a6e6605bf1bd626f0770f968cd",
@@ -4907,7 +4907,7 @@
     "first_seen": "2026-10-19T08:48:00.296952-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-07T22:26:42.603996-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "d4e66886065232968f49b6c92f4ea021": {
@@ -4928,7 +4928,7 @@
     "first_seen": "2026-10-19T08:48:01.970655-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-07T22:26:42.603996-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "12c1557107821fd0862e0bbfaac442bd": {
@@ -4949,7 +4949,7 @@
     "first_seen": "2026-10-19T08:48:03.638816-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-07T22:26:42.603996-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "87367e6dd922dea5f7016e565c368567": {
@@ -4970,7 +4970,7 @@
     "first_seen": "2026-10-19T08:48:05.210532-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-07T22:26:42.603996-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "59a7bebf6b4c4be60777a35bd4dfcf5f": {
@@ -4991,7 +4991,7 @@
     "first_seen": "2026-10-19T08:48:06.963664-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-07T22:26:42.603996-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "f8f901f11a66ba94a86e3787d47b346a": {
@@ -5012,7 +5012,7 @@
     "first_seen": "2026-10-19T08:48:08.509987-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-07T22:26:42.603996-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "fa43ab49a79ab5a2ffb7a1d74aa6577b": {
@@ -5033,7 +5033,7 @@
     "first_seen": "2026-10-19T08:48:10.236330-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-07T22:26:42.603996-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "0bbe5847c1024db43a1dc075d556727a": {
@@ -5054,7 +5054,7 @@
     "first_seen": "2026-10-19T08:48:11.928972-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-07T22:26:42.603996-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "caae30b460a0e79b35fa96f576c16cd3": {
@@ -5075,7 +5075,7 @@
     "first_seen": "2026-10-19T08:48:13.493764-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-07T22:26:42.603996-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "e4aa412cf5a829cac66d5df4028c9f3e": {
@@ -5096,7 +5096,7 @@
     "first_seen": "2026-10-19T13:50:42.727591-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-07T22:26:42.603996-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "bbdff515791a635cfcbf67988a22d3fa": {
@@ -5117,7 +5117,7 @@
     "first_seen": "2026-10-19T13:50:44.311471-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-07T22:26:42.603996-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "da8ae35935844ddef6b752a6f8dbd181": {
@@ -5138,7 +5138,7 @@
     "first_seen": "2026-10-19T13:50:46.104109-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-07T22:26:42.603996-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "59561dbcdbcf0fbc16ae421477cf9f51": {
@@ -6964,7 +6964,7 @@
     "first_seen": "2026-11-02T03:56:52.546364-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-07T22:26:42.603996-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "8e9d4f4bc5cce9d0491f99ab8adfc004": {
@@ -6985,7 +6985,7 @@
     "first_seen": "2026-11-02T03:56:54.031052-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-08T05:43:59.856344-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "848f39287bd02682f82e972f6a000b80": {
@@ -7006,7 +7006,7 @@
     "first_seen": "2026-11-02T03:56:55.639218-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-08T05:43:59.856344-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "eb4b3062cdbfa93ccf1499ed6d28ab71": {
@@ -7027,8 +7027,8 @@
     "first_seen": "2026-11-02T03:56:57.184535-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-08T05:43:59.856344-08:00",
-    "dead_strikes": 0
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "dead_strikes": 1
   },
   "69b95ef8fef21e74e66bf8c9b5e405da": {
     "id": "69b95ef8fef21e74e66bf8c9b5e405da",
@@ -7048,7 +7048,7 @@
     "first_seen": "2026-11-02T03:56:58.726393-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-08T05:43:59.856344-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "9873644d783e0d369741175a59f3761a": {
@@ -7069,7 +7069,7 @@
     "first_seen": "2026-11-02T03:57:02.078065-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-08T05:43:59.856344-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "223a0d9e60749df27b5006ddf8af5b8b": {
@@ -8679,7 +8679,7 @@
     "first_seen": "2026-11-04T20:42:07.008412-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-07T22:26:42.603996-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "1ebbcac0f22878b2a58f33af383248d2": {
@@ -8700,7 +8700,7 @@
     "first_seen": "2026-11-04T20:42:08.569654-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-07T22:26:42.603996-08:00",
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
     "dead_strikes": 0
   },
   "6ce588029be90275feb9e1c038406f56": {
@@ -8846,7 +8846,9 @@
     "priority": 3,
     "first_seen": "2026-11-09T02:01:05.157543-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "dead_strikes": 0
   },
   "ecfa5bda583a3733d2a9d37b195c2feb": {
     "id": "ecfa5bda583a3733d2a9d37b195c2feb",
@@ -9853,6 +9855,120 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-11T11:05:42.002567-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "103fa371fac327049236648f23181023": {
+    "id": "103fa371fac327049236648f23181023",
+    "title": "UX / UI Designer",
+    "company": "OXMAN",
+    "location": "New York",
+    "salary": "$122,000 - $153,000",
+    "url": "https://uiuxjobsboard.com/job/1674226-ux-ui-designer-new-york-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "This role sits at the intersection of interactive web design, spatial data and generative technology. The UX / UI Designer will own wireframing, visual prototyping and user experience design for a web platform that lets a non-expert explore how architectural site design can be optimized through ecosystem engineering, using spatial AI modeling. They will work closely with EDEN leadership, software engineers and data scientists to build that platform. The role is hands-on: the designer creates the first version of the product themselves, and the decisions they make will shape how EDEN\u2019s technology is experienced for years.\nMost product designers join a company that already has a product, a user and a backlog. This role joins one that has the technology and the clients but not yet the product. EDEN has spent several years as a tech-enabled design and engineering service, embedding with clients, using its own tools on their sites and learning what those tools need to become. The ideal candidate will turn that experience into a product, and the interface they build will decide whether a technology that works in EDEN\u2019s hands works in its clients\u2019 hands.\nThis role is based on-site in the EDEN office in New York City.\nDefine the product: Work with EDEN\u2019s applied technology team and the clients they embed with to understand how sites are designed, topography is reshaped and ecosystems are engineered today. Turn that into a clear picture of who the first user is and how they use EDEN\u2019s tools to get their job done.\nDesign the interface to a generative design engine: EDEN\u2019s technology searches over thousands of possible designs for a site, scores them against ecological and economic outcomes, and returns the best. Design how a user states what they want, how they read the result and how they steer it, including the goals they can set, the constraints they can lock, the trade-offs they can see, and the moments when they need to trust a number.\nMake complex spatial and scientific data legible: Design the maps, 3D views, charts and comparisons that let someone who is not a scientist or a designer understand a site and a proposal at a glance, across topography, hydrology, vegetation, microclimate and cost.\nBuild the design foundation: Establish the design system, component library and interaction patterns for a product that will span multiple industries, and work with engineering to make sure what is designed is what ships.\nPrototype and test with real users: Put rough work in front of clients early, run the sessions, synthesize the findings and change the product in response.\nReview the current suite of web demos to help create a design guide.\nEmbed with the Applied Technology team on a live client project to learn how EDEN\u2019s specialists use the current tools, where they spend their time and what clients ask for.\nMap the end-to-end user journey for the first product vertical, from site data to a validated design, and identify every step where the current workflow still needs EDEN\u2019s team in the room.\nDeliver the first design of the core product flow, prototyped and tested with at least one client.\nEstablish the design system and the working rhythm with engineering, including how designs are specified, reviewed and shipped.\nA clear definition of EDEN\u2019s first user and how they use its tools to get their job done.\nAn interface that lets non-experts state goals, lock constraints, see trade-offs and trust the results of a generative design engine.\nSpatial and scientific data presented so that a non-specialist can understand a site and a proposal at a glance.\nA design system, component library and interaction patterns that scale across industries, with what is designed matching what ships.\nA product that EDEN\u2019s clients can operate themselves, so that a technology that works in EDEN\u2019s hands works in theirs.\n5 to 7 years of product design experience, including at least one complex B2B or technical product designed from early stage to deployment.\nStro",
+    "posted_at": "9h",
+    "priority": 3,
+    "first_seen": "2026-11-12T09:41:27.370470-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "2ca8c70852977c73d7dd026aef14604b": {
+    "id": "2ca8c70852977c73d7dd026aef14604b",
+    "title": "UX Researcher",
+    "company": "Kalshi",
+    "location": "New York",
+    "salary": "$200,000 - $250,000",
+    "url": "https://uiuxjobsboard.com/job/1674126-ux-researcher-new-york-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Our culture is simple: we hire really talented people, work really hard, and enjoy the climb. We are looking for ambitious and exceptional people to join our (relatively small) team to help us build the next generation of financial markets.\nAbout the role:\nAt Kalshi, we build by understanding our users\u2019 needs, behaviors, and emotions. As a founding member of the UXR team, you\u2019ll help shape how research works here: what we study, how fast we learn, and how insights turn into decisions. You\u2019ll lead qualitative and quantitative research across the product lifecycle, from early problem framing through post-launch measurement, and bring the customer\u2019s perspective into the room before direction is set. You\u2019ll help a category-defining financial company scale how it learns from its customers.\nWhat you\u2019ll do:\nEnd-to-end research: Design and execute mixed-methods research across the product lifecycle. You know when to run an interview, when to run a survey, and when the answer is already in the data.\nShape what\u2019s next: Partner with product and design from the earliest stage of an idea. You\u2019ll frame problems, test concepts, run workshops, and push toward new bets, not just improve what already exists.\nTriangulate insights: Pair what you hear with what the data shows. You interpret dashboards, define metrics, and partner closely with data science.\nCompelling storytelling: Distill complex research into clear, actionable narratives that drive decisions across the business.\nBuild with, not for: Co-create with traders of every skill level. You\u2019ll develop deep empathy for their workflows, motivations, and pain points.\nExperience: 7+ years doing UX research in industry.\nSpeed in execution: You excel at prioritizing research in fast-moving 0\u21921 environments and are comfortable navigating ambiguity and knowing when to be scrappy vs. when to go deep.\nResearch craft: You know the right methodological approach for the question at hand, and you\u2019re an expert in mixed methods.\nData fluency: You use behavioral and business data to sharpen research questions, interpret results, and connect insights to measurable outcomes.\nAI-native research: AI is core to how you work, speeding up synthesis and sharpening questions, and you know where it falls short.\nUser obsession: You\u2019re energized by talking to customers regularly and believe that understanding people is the highest-leverage thing a product team can invest in.\nOwnership mindset: You take initiative in a self-directed environment, proactively identify what needs to be known, and drive research programs forward without waiting to be asked.\nSalary Range: $200,000 to $250,000 annually plus equity and benefits.\nThis salary range is based on the current available market data and represents the expected salary range for this role. Kalshi has minimal hierarchy and few titles, but a broad range of experience is represented within roles. Should you have compensation expectations that exceed these bands, we'd still love to hear from you.\nMeritocracy is at our core, and we value people who take ownership and figure (usually hard) things out. We dream big. We love our craft deeply and are proud of what we put out in the world. We are committed to our vision of building something big\u2026 but also useful: a product that brings more truth through the power of markets.\nKalshians are Kalshi\u2019s most important asset: we pick Kalshians carefully, so we trust them fully on day 1.\nKalshi is committed to creating a culture of inclusion and belonging, and we are proud to be an equal opportunity employer. We believe it is our collective responsibility to uphold these values and encourage candidates from all backgrounds to join us in our mission. All qualified applicants will be treated with respect and receive equal consideration for employment without regard to race, color, creed, religion, sex, gender identity, sexual orientation, national origin, disability, uniform service, veteran status, age, or any other protected characteris",
+    "posted_at": "11h",
+    "priority": 3,
+    "first_seen": "2026-11-12T09:41:28.878748-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "c34a7c63316c8f7e8bc5a04822b3f158": {
+    "id": "c34a7c63316c8f7e8bc5a04822b3f158",
+    "title": "UX Designer",
+    "company": "Andromeda",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1674026-ux-designer-san-francisco-ca-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Andromeda is building autonomous surgical robots designed to help surgeons perform procedures more safely, consistently, and efficiently. Our engineers and designers work across robotics, software, hardware, machine learning, and clinical operations to bring robotic systems from concept to real-world deployment. We are a small, highly collaborative team of 11 that values ownership, curiosity, craft, and the ability to move quickly from idea to execution.\nThe Role\nWe are looking for a creative UX Designer who thinks like an artist and is comfortable at the intersection of hardware and software. This is not a traditional product design role. You will design the experience through which surgeons control a surgical robot via an iPad, making complex real-time interactions feel intuitive, responsive, and human.\nThink of it like designing a game where every interaction has real consequences. If the surgeon pushes on tissue, the interface needs to respond visually, the way a game gives you feedback when you hit something. That level of craft and psychological thinking about interaction is what we are looking for.\nAs the first and only designer on the team, you'll be hands-on with everything from research to pixel-level execution, without a dedicated research team, design system, or large budget to lean on. We're looking for someone who sees that as an opportunity to build something foundational, not a constraint.\nWhat You'll Do\nDesign the touchscreen interface that lets surgeons control the robot intuitively in real time.\nCreate visual feedback systems that communicate robot state, tissue interaction, and surgical progress clearly and immediately.\nConduct user research with surgeons to understand their mental models, workflows, and pain points.\nRapidly prototype and iterate on interaction concepts, from rough sketches to high-fidelity mockups.\nWork across both 2D and 3D, designing dynamic interfaces with animation and motion, not static screens.\nCollaborate closely with hardware and software engineers to translate design intent into a working product.\nPrepare and maintain design documentation to support regulatory and compliance processes (e.g. FDA filings).\nDefine and maintain design guidelines for the surgical interface.\n3 to 4 years of experience in UX, interaction design, or a related creative field.\nA strong portfolio that demonstrates thoughtful, high-craft work. This is the main thing we evaluate, more than years of experience.\nExperience designing something genuinely impressive, ideally involving hardware-software interaction.\nReal ability across both 2D and 3D design, including dynamic interfaces, animation, and how interactions feel to the user.\nExperience conducting user research. You should have done user research before and know how to translate insights into design decisions.\nComfort working in a fast-paced, ambiguous startup environment with limited resources, where the scope evolves and you're expected to move fast with what you have.\nPreferred Qualifications\nBackground in game design or mobile game development.\nBackground at animation studios such as Pixar or Disney.\nExperience with Unity, Unreal Engine, or similar interactive tools.\nBackground in industrial design, having designed physical hardware products (form, materials, ergonomics).\nExperience working in a regulated or compliance-heavy environment (medical device, aerospace, automotive), including preparing design documentation for regulatory purposes.\nThis is not a front-end coding role. We have a UI Engineer for that.\nThis is not a traditional enterprise UX role focused on wireframes and user flows.\nThis is not for someone who has only designed digital-only products.\nSuccessful designers at Andromeda combine strong craft and taste with a deep curiosity about how people interact with complex systems. They prototype quickly, conduct real user research, and design interfaces that feel intuitive even when the underlying system is complex. They collaborate closely ",
+    "posted_at": "11h",
+    "priority": 1,
+    "first_seen": "2026-11-12T09:41:30.566352-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "974ed99544915a22c0c33c9b94bf6a02": {
+    "id": "974ed99544915a22c0c33c9b94bf6a02",
+    "title": "Product Designer",
+    "company": "Red Cell Partners",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1674326-remote-united-states-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Red Cell Partners is an incubation firm building and investing in rapidly scalable technology-led companies that are bringing revolutionary advancements to market in three distinct practice areas: healthcare, cyber, and national security. United by a shared sense of duty and deep belief in the power of innovation, Red Cell is developing powerful tools and solutions to address our Nation\u2019s most pressing problems.\nAbout the Role\nWe're hiring a mid-level Product Designer to own end-to-end design on one or more product areas. You will work directly with engineers, product, and subject-matter experts to turn ambiguous operational problems into interfaces that are dense, fast, and legible. This is a hands-on role: you will be in Figma, in the design system, and in code review conversations, not just in strategy decks.\nYou will work in a small team with a short distance between design and shipped software and direct contact with the people who use what we build. Designers have meaningful ownership of their product areas and are expected to bring informed opinions to the work.\nThis is a 1099 contract opportunity, with expected 40 hours per week. A Secret Clearance is required.\nOwn the design of features from discovery through shipped implementation \u2014 problem framing, flows, wireframes, high-fidelity UI, and design QA.\nDesign for complexity: data-dense tables, map and timeline views, simulation outputs, and multi-role workflows where information hierarchy is the whole job.\nContribute to and extend our design system (@defcon/ui) \u2014 build components in Figma, define tokens and variants, and partner with engineering on the React/TypeScript implementation.\nRun lightweight discovery with SMEs and end users, working within the access constraints of government environments. Translate what you learn into shared artifacts the team actually uses.\nDesign the unglamorous but critical parts of government software: authentication flows (CAC/PIV), role-based access control, permissions, empty and error states, and audit-friendly interactions.\nMeet accessibility requirements as a baseline, not a cleanup pass \u2014 WCAG 2.1 AA and Section 508 compliance.\nGive and receive critique. Present work clearly to non-designers, including customers and program stakeholders.\nRequired Qualifications\n4\u20135 years of product design experience shipping software, supported by a portfolio that demonstrates your process and decision-making, not just final screens.\nStrong proficiency in Figma, including components, variants, auto-layout, and variables.\nHands-on experience building and maintaining a design system, including defining tokens and component APIs, documenting usage, communicating version changes, managing deprecations, and keeping the design library aligned with its coded implementation.\nExperience designing complex, information-dense applications, such as enterprise, analytics, logistics, or operational tools. Portfolios focused exclusively on consumer products may be less aligned with this role.\nWorking knowledge of front-end concepts, including component structure, state, responsive behavior, and design tokens, with the ability to collaborate effectively with engineers and identify implementation drift.\nExperience using discovery, user research, or competitive analysis to inform design decisions and solve product problems.\nStrong cross-functional collaboration and stakeholder management skills, including the ability to translate business goals into functional design solutions, explain trade-offs, and respectfully challenge decisions when needed.\nAbility to work independently through standard design challenges while recognizing when to seek guidance on complex architectural or system-scaling decisions.\nStrong storytelling, presentation, written, and asynchronous communication skills, with the ability to clearly articulate design rationale and build alignment across teams, time zones, and security boundaries.\nActive Secret clearance and U.S. citizenship required.\nPre",
+    "posted_at": "12h",
+    "priority": 5,
+    "first_seen": "2026-11-12T09:41:32.265643-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "179c54f155f966af7e027c4c25762aa2": {
+    "id": "179c54f155f966af7e027c4c25762aa2",
+    "title": "Product Designer",
+    "company": "Nooks",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/nooks/3788a0bc-7abb-4d64-b470-1d8e4e59b28c",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "ABOUT NOOKS.AI http://Nooks.ai:\n\nNooks is an applied AI lab building revenue agents that power some of the fastest growing companies in the world. We build AI agents that operate across the full revenue lifecycle, from account strategy to prospect research and outreach. Building 0\u21921 has never been e",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-12T09:41:34.028330-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "6f62c9bfbeb99baa574e019182eefe4d": {
+    "id": "6f62c9bfbeb99baa574e019182eefe4d",
+    "title": "Brand Designer",
+    "company": "Rillet",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/rillet/fa6c2625-1e3d-4707-9efd-786f89aa5984",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "WHAT WE DO\n\nRillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight.\n\nRillet is the Agentic ERP built for modern finance teams. We help companies automate the most critical parts of fina",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-12T09:41:35.566602-08:00",
     "status": "active",
     "applied_at": null
   }
