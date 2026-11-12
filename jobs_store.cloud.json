@@ -7025,10 +7025,10 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-02T03:56:57.184535-08:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 2
   },
   "69b95ef8fef21e74e66bf8c9b5e405da": {
     "id": "69b95ef8fef21e74e66bf8c9b5e405da",
@@ -8867,7 +8867,9 @@
     "priority": 5,
     "first_seen": "2026-11-09T12:32:54.953022-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "ed3da13c87f5c0e5dc42da1b22bf3dd5": {
     "id": "ed3da13c87f5c0e5dc42da1b22bf3dd5",
@@ -8886,7 +8888,9 @@
     "priority": 3,
     "first_seen": "2026-11-09T12:32:56.502031-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "137bcfcdeb859ef42728f653e769d7c9": {
     "id": "137bcfcdeb859ef42728f653e769d7c9",
@@ -8905,7 +8909,9 @@
     "priority": 5,
     "first_seen": "2026-11-09T12:32:58.277015-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "979cedf255b17ea879c5b2d74188e9b1": {
     "id": "979cedf255b17ea879c5b2d74188e9b1",
@@ -8924,7 +8930,9 @@
     "priority": 4,
     "first_seen": "2026-11-09T12:32:59.940129-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "b1d3149fc72e764a5a50363c73c7704f": {
     "id": "b1d3149fc72e764a5a50363c73c7704f",
@@ -8943,7 +8951,9 @@
     "priority": 4,
     "first_seen": "2026-11-09T12:33:01.694274-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "d6de6fae1bfac623c5f3bd35ea0455f9": {
     "id": "d6de6fae1bfac623c5f3bd35ea0455f9",
@@ -8962,7 +8972,9 @@
     "priority": 4,
     "first_seen": "2026-11-09T12:33:03.366744-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "09c703efad7a0706abcf03909016c886": {
     "id": "09c703efad7a0706abcf03909016c886",
@@ -8981,7 +8993,9 @@
     "priority": 4,
     "first_seen": "2026-11-09T12:33:05.092097-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "64db6ffa35f857888816fc948a79e80d": {
     "id": "64db6ffa35f857888816fc948a79e80d",
@@ -9000,7 +9014,8 @@
     "priority": 4,
     "first_seen": "2026-11-09T12:33:06.844934-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00"
   },
   "a895714b9c2524d784db00da13bc14c8": {
     "id": "a895714b9c2524d784db00da13bc14c8",
@@ -9019,7 +9034,9 @@
     "priority": 3,
     "first_seen": "2026-11-09T12:33:08.627915-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 1
   },
   "43503ad90ca320b5e34a14a0c18f95b8": {
     "id": "43503ad90ca320b5e34a14a0c18f95b8",
@@ -9038,7 +9055,9 @@
     "priority": 4,
     "first_seen": "2026-11-09T12:33:10.258083-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "2fdda5fb29be98c4b94973543636521a": {
     "id": "2fdda5fb29be98c4b94973543636521a",
@@ -9057,7 +9076,9 @@
     "priority": 2,
     "first_seen": "2026-11-09T12:33:12.055449-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "faa87e3a044f5c2564500df270efe12c": {
     "id": "faa87e3a044f5c2564500df270efe12c",
@@ -9076,7 +9097,9 @@
     "priority": 5,
     "first_seen": "2026-11-09T12:33:13.705235-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "ff762068729d85188c549bffe1d5f997": {
     "id": "ff762068729d85188c549bffe1d5f997",
@@ -9095,7 +9118,9 @@
     "priority": 4,
     "first_seen": "2026-11-09T12:33:15.465507-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "06094acc4c4b93eb5405195bfd0f8b8c": {
     "id": "06094acc4c4b93eb5405195bfd0f8b8c",
@@ -9114,7 +9139,9 @@
     "priority": 4,
     "first_seen": "2026-11-09T12:33:17.237880-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "192e64c916b705496c5c28fdf8305e72": {
     "id": "192e64c916b705496c5c28fdf8305e72",
@@ -9133,7 +9160,9 @@
     "priority": 4,
     "first_seen": "2026-11-09T12:33:18.981134-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "b7ee003c72625a38ecd729f7cc510dca": {
     "id": "b7ee003c72625a38ecd729f7cc510dca",
@@ -9152,7 +9181,9 @@
     "priority": 4,
     "first_seen": "2026-11-09T12:33:20.605103-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "ab83f30ea6e3e70d79785265eae6c574": {
     "id": "ab83f30ea6e3e70d79785265eae6c574",
@@ -9171,7 +9202,9 @@
     "priority": 4,
     "first_seen": "2026-11-09T12:33:22.360532-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "5c96ebef529e4e7fd8761e34fdae612b": {
     "id": "5c96ebef529e4e7fd8761e34fdae612b",
@@ -9190,7 +9223,9 @@
     "priority": 3,
     "first_seen": "2026-11-09T12:33:23.981944-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 1
   },
   "00dfb608e1b95ab97268a39764820189": {
     "id": "00dfb608e1b95ab97268a39764820189",
@@ -9209,7 +9244,9 @@
     "priority": 1,
     "first_seen": "2026-11-09T12:33:25.786783-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "83231d86063a17d9bea530cce11a8e33": {
     "id": "83231d86063a17d9bea530cce11a8e33",
@@ -9228,7 +9265,9 @@
     "priority": 1,
     "first_seen": "2026-11-09T12:33:27.523388-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "7d9b29c950f93c8e1406a7adfbc0f10a": {
     "id": "7d9b29c950f93c8e1406a7adfbc0f10a",
@@ -9247,7 +9286,9 @@
     "priority": 1,
     "first_seen": "2026-11-09T12:33:29.156214-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "4cb012dd2bc51def2197b0f5a6daa544": {
     "id": "4cb012dd2bc51def2197b0f5a6daa544",
@@ -9266,7 +9307,9 @@
     "priority": 4,
     "first_seen": "2026-11-09T12:33:58.477010-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "7f2d666ad585adc5134b45562d73985c": {
     "id": "7f2d666ad585adc5134b45562d73985c",
@@ -9285,7 +9328,9 @@
     "priority": 5,
     "first_seen": "2026-11-09T12:34:00.226378-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "582d49f377d0518175f11ce6f22660ea": {
     "id": "582d49f377d0518175f11ce6f22660ea",
@@ -9304,7 +9349,9 @@
     "priority": 4,
     "first_seen": "2026-11-09T12:34:01.860619-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "dead_strikes": 0
   },
   "ab36c6c4813c76d93ae9ecff053a2c39": {
     "id": "ab36c6c4813c76d93ae9ecff053a2c39",
@@ -9969,6 +10016,44 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-12T09:41:35.566602-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "3a03936d1daafb8a18b3e9b0dcd6c0b6": {
+    "id": "3a03936d1daafb8a18b3e9b0dcd6c0b6",
+    "title": "Softgoods Product Design Engineer",
+    "company": "1X",
+    "location": "San Carlos, CA",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/1x/73739950-4a8b-49b5-9f9f-3ccc17882098",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "ABOUT 1X\n\nWe\u02bcre building humanoid robots that work in home - doing the chores, handling the tasks, and giving people their time back. Simple, but it\u02bcs not.\n\n\n\nTo do this right, we have to solve robotics, AI, manufacturing - at the same time, at scale, in a form factor that has to be safe enough to l",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-11-12T15:02:58.433556-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "f836017793882ebeb885e2af0e0c73be": {
+    "id": "f836017793882ebeb885e2af0e0c73be",
+    "title": "Product Designer, Physical Engineering",
+    "company": "OpenAI",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/openai/8e754a28-926e-40f9-b33d-6e2b838ef5dd",
+    "source": "OpenAI",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "description": "About the Team\n\nThe Physical Engineering team sits within OpenAI\u2019s Enterprise Verticals organization. We\u2019re exploring how frontier AI can help people design, simulate, and build better physical products - shortening development cycles, improving product performance, and expanding what engineering te",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-12T15:03:00.284968-08:00",
     "status": "active",
     "applied_at": null
   }
