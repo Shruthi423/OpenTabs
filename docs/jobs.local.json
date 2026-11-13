@@ -1,5 +1,22 @@
 [
   {
+    "id": "556aea9ba57e20276c9f31b1697c5ff7",
+    "title": "Product Designer, AWS Field Experience",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Boston, MA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4482134853",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-11-13T06:55:04.894130-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "9b273e1b0e793a9ac7b83fe91f366c5d",
     "title": "Brand Designer",
     "company": "Tinder",
@@ -13,23 +30,6 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-11-12T23:32:57.068538-08:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "6c20f431ed44b65f495daed6619237dc",
-    "title": "Design Engineer- Contract (Mid-level)",
-    "company": "Punchcut",
-    "location": "San Francisco, CA, US",
-    "salary": "$60 \u2013 $90 / hourly",
-    "url": "https://www.indeed.com/viewjob?jk=26c17f94bd395d25",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2020-07-16",
-    "priority": 1,
-    "first_seen": "2026-11-12T23:32:55.218419-08:00",
     "status": "active",
     "jd": "yes"
   },
@@ -14569,23 +14569,6 @@
     "jd": "yes"
   },
   {
-    "id": "269a70a5cedd64f176901a2f34f06a02",
-    "title": "Product Designer",
-    "company": "Scholaro",
-    "location": "Chicago, IL",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4479166818",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-10-15T16:38:17.818402-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "db5344d7d02146d3e6e83ffa1bd289a4",
     "title": "Product Designer II (Commerce)",
     "company": "nan",
@@ -15606,23 +15589,6 @@
     "jd": "yes"
   },
   {
-    "id": "c904d4a33f179988ce884eea6569596e",
-    "title": "Integrated Design Technologist",
-    "company": "HNTB",
-    "location": "Jacksonville, FL",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4478578771",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-10-13T18:16:16.402891-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "deaea9bac9a36c28df1b189df5970dc2",
     "title": "UX Designer, AI/ML",
     "company": "Amazon Web Services",
@@ -15823,23 +15789,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-10-13T14:33:43.527818-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "741a277cd48ebcae18f10f67fb663172",
-    "title": "UI/UX Designer",
-    "company": "Cognizant",
-    "location": "Dallas, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4478153861",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-10-13T14:33:41.665092-07:00",
     "status": "active",
     "jd": "yes"
   },
