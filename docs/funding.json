@@ -1,5 +1,20 @@
 [
   {
+    "id": "5fabd2309e045fb1cfbc154b4fb12a33",
+    "company": "Hardware Engineering Platform Nominal",
+    "amount": "$240.0M",
+    "stage": "Series C",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tek5GbFgtZ2tNQkRiLVJROEpvVkktTVllTjJfTnlMQllFbGhHeTFMNFNRR2NQRjNvOFU0VGlfMjFPMF9VSFhPUHRwc0hSVlc3MTB3?oc=5",
+    "priority": 6,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-12T19:31:25.851744-08:00",
+    "status": "active"
+  },
+  {
     "id": "bf07ef41b153da2a5fff51c153406979",
     "company": "PortX",
     "amount": "Undisclosed",
@@ -6757,36 +6772,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-10-13T03:54:03.384755-07:00",
-    "status": "active"
-  },
-  {
-    "id": "d9f8eff88687b8c6cd3c77744374b9e8",
-    "company": "Alphabet President Ruth Porat",
-    "amount": "$200.0B",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "Fortune",
-    "url": "https://fortune.com/2026/10/12/google-ruth-porat-ai-spending-risks/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-12T20:22:10.010072-07:00",
-    "status": "active"
-  },
-  {
-    "id": "1ff9cb7ea7b57a5fd79fa5ffff2dbde2",
-    "company": "Clueso",
-    "amount": "$10.0M",
-    "stage": "Series A",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbW0za1MzZ0tOSndSbnVtd1IxcGRJV2IwS1hCSDFEX2YtQ2RNbUdpc0NoZEJCTndmUkQxX01BOERSLWpsYll3OTdseUdPUVlNaE9CMExfdDNjTUZHSHgzZmhqTHNVay1SNmNpR29kTVlPeTdiOE9odGIwS2xwVTNSUVNwdU1mamR1Y3c?oc=5",
-    "priority": 8,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-12T20:22:01.722487-07:00",
     "status": "active"
   }
 ]
