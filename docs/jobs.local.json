@@ -1,22 +1,5 @@
 [
   {
-    "id": "149dca809aaba6d77eb8f09d0e9307a4",
-    "title": "Frontend Developer",
-    "company": "Embarca",
-    "location": "US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=6a907d863368cf50",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-11-12",
-    "priority": 4,
-    "first_seen": "2026-11-13T15:25:49.883361-08:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "413d266b1beed280ca2553256f9ee43a",
     "title": "Front-End Design Engineer \u2013 UI/UX Design, React, Next.js | Financial Applications",
     "company": "KORE1",
@@ -7374,23 +7357,6 @@
     "posted_at": "nan",
     "priority": 2,
     "first_seen": "2026-10-31T10:41:50.167201-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "8a54ca8d7fab4a9f5db7dfe521a2f10b",
-    "title": "UI/UX Designer",
-    "company": "MACHINE LEARNING TECHNOLOGIES LLC",
-    "location": "Memphis, TN",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4485147385",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-10-31T10:09:01.245444-07:00",
     "status": "active",
     "jd": "yes"
   },
