@@ -1,17 +1,137 @@
 [
   {
     "item": {
-      "company": "Hardware Engineering Platform Nominal",
-      "amount": "$240.0M",
+      "company": "Edelbyte",
+      "amount": "$70.0M",
+      "stage": "Seed",
+      "investors": "Sequoia and Quiet Capital",
+      "location": null,
+      "blurb": "Edelbyte Raises $70M in Funding. Edelbyte emerges from stealth with $70 million in seed and Series A funding led by Sequoia and Quiet Capital to power AI agent data analytics.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/edelbyte-raises-70m-seed-series-a/",
+      "priority": 12
+    },
+    "remind_at": "2026-11-13T03:58:24.215493-08:00"
+  },
+  {
+    "item": {
+      "company": "Opdo",
+      "amount": "$2.3M",
+      "stage": "Pre-Seed",
+      "investors": "Angular Ventures",
+      "location": null,
+      "blurb": "Opdo Raises $2.3M Pre-seed. Opdo raises $2.3M in pre-seed funding led by Angular Ventures to automate optical engineering workflows with its AI-driven design and simulation platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/opdo-raises-2-3m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-11-13T03:58:27.232333-08:00"
+  },
+  {
+    "item": {
+      "company": "Twin1 AI",
+      "amount": "$5.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Twin1 AI Raises $5M Seed Extension. Twin1 AI raises $5 million in a seed extension round led by Curql to expand its AI-powered digital twin platform for regulated enterprise industries.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/twin1-ai-raises-5m-seed-extension/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-13T03:58:30.228973-08:00"
+  },
+  {
+    "item": {
+      "company": "Qvyon Technologies",
+      "amount": "$8.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Qvyon Technologies Raises $8M Seed. Montr\u00e9al-based Qvyon Technologies raises $8M in seed funding to expand its AI-driven simulation and validation software for robotics and autonomous vehicles.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/qvyon-technologies-raises-8m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-13T03:58:33.315675-08:00"
+  },
+  {
+    "item": {
+      "company": "Mount Thor",
+      "amount": "$45.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Mount Thor Raises $45M Series A. Mount Thor raises $45M in funding to expand its cloud infrastructure, providing on-demand access to Apple silicon for AI agent development.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/mount-thor-raises-45m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-11-13T03:58:38.684398-08:00"
+  },
+  {
+    "item": {
+      "company": "XpertDox",
+      "amount": "$20.0M",
+      "stage": "Series A",
+      "investors": "Savant Growth",
+      "location": null,
+      "blurb": "XpertDox Raises $20M Series A. XpertDox raises $20M in Series A funding led by Savant Growth to scale its autonomous AI medical coding platform for healthcare providers.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/xpertdox-raises-20m-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-11-13T03:58:42.098193-08:00"
+  },
+  {
+    "item": {
+      "company": "Q-CTRL",
+      "amount": "$290.0M",
+      "stage": "Series C",
+      "investors": "Salesforce Ventures",
+      "location": null,
+      "blurb": "Q-CTRL Raises $290M Series C. Q-CTRL raises $290M in a Series C round led by Salesforce Ventures to expand its AI-powered quantum infrastructure software and global operations.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/q-ctrl-raises-290m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-11-13T03:58:45.120344-08:00"
+  },
+  {
+    "item": {
+      "company": "Databento",
+      "amount": "$100.0M",
       "stage": "Series C",
       "investors": null,
       "location": null,
-      "blurb": "Hardware Engineering Platform Nominal Raises $240M Series C at $3B Valuation - Wowtale. Hardware Engineering Platform Nominal Raises $240M Series C at $3B Valuation&nbsp;&nbsp;Wowtale",
+      "blurb": "Databento Raises $100M Series C. Databento raises $100 million Series C led by Fifth Down Capital at a $1.1 billion valuation to expand its financial market data platform infrastructure.",
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tek5GbFgtZ2tNQkRiLVJROEpvVkktTVllTjJfTnlMQllFbGhHeTFMNFNRR2NQRjNvOFU0VGlfMjFPMF9VSFhPUHRwc0hSVlc3MTB3?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/databento-raises-100m-series-c/",
       "priority": 6
     },
-    "remind_at": "2026-11-12T20:01:24.851591-08:00"
+    "remind_at": "2026-11-13T03:58:50.917578-08:00"
+  },
+  {
+    "item": {
+      "company": "Delphina",
+      "amount": "$7.5M",
+      "stage": null,
+      "investors": "Radical Ventures",
+      "location": null,
+      "blurb": "Delphina Raises $7.5M in Funding. Delphina raises $7.5 million in a funding round led by Radical Ventures and Costanoa to scale its AI-driven business analytics and Context Factory platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/delphina-raises-7-5m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-13T03:58:53.822474-08:00"
   }
 ]
