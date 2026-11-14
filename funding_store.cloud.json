@@ -13188,5 +13188,37 @@
     "roles": [],
     "first_seen": "2026-11-14T05:54:38.424891-08:00",
     "status": "active"
+  },
+  "f420577f2cf2e6c37456e1a37ed490b5": {
+    "id": "f420577f2cf2e6c37456e1a37ed490b5",
+    "company": "Qvyon",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaU00alByZ2JJbjNFUEtvY1JHSTZXYlBYUm43dS1HcTY1MG1UbTBEMWlPZl9qNU0tOTF2QmE2cjZyNm1abHdQbF9BS1hnVVhXQ0NUTUd1M3VmY2xjcUM4OTIxaGwtUHpLdDJ2Wjhtak5BUkctY2MyMF9EV29JODZqLXQyT2ZGMl94Skc1OGh5R3VYU2VMd1RIOFNoTmpfNkFYd2sweUZPSVU3clE?oc=5",
+    "priority": 9,
+    "blurb": "Exclusive: Qvyon raises seed round for physical AI testing - Axios. Exclusive: Qvyon raises seed round for physical AI testing&nbsp;&nbsp;Axios",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-14T10:56:24.538310-08:00",
+    "status": "active"
+  },
+  "3b1007f420de8b6ff171bdcf305ec1ae": {
+    "id": "3b1007f420de8b6ff171bdcf305ec1ae",
+    "company": "OpenRelay",
+    "amount": "$10.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHdFbHdra3pTWmhfV3dPTEhZbzhObmg2N1VKUDZZY21QU1F5aWNhdUljNFZIT3pBUEk5VzVZNXR1bmo2TXFIU3NQRUtudnloYnIzUlFfWkZqNWZEU3FjMXVfLUw1ZzduSDczOG5hWktySW9RUEhHSTI0blhTaE1fWHNONFpYRXdoOG1EdHRfMUJOdWxlbC1WMUFUcGY1UQ?oc=5",
+    "priority": 9,
+    "blurb": "OpenRelay raises $10M seed to route AI inference across any chip - Dealroom. OpenRelay raises $10M seed to route AI inference across any chip&nbsp;&nbsp;Dealroom",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-14T10:56:27.712477-08:00",
+    "status": "active"
   }
 }
