@@ -36,10 +36,10 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-09-22T03:22:06.758392-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-11-13T22:49:59.824708-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "dead_strikes": 2
   },
   "c8cefd6dc21effde5535e39bf72c8180": {
     "id": "c8cefd6dc21effde5535e39bf72c8180",
@@ -143,7 +143,7 @@
     "first_seen": "2026-09-22T03:22:15.496251-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T12:31:56.660595-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "4d314eccce618ca81ff6869f45f7d0d7": {
@@ -248,7 +248,7 @@
     "first_seen": "2026-09-22T03:22:24.224681-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T12:31:56.660595-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "1edd106a29675674d38ab47075da871c": {
@@ -522,7 +522,7 @@
     "first_seen": "2026-09-23T01:12:52.104392-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T12:31:56.660595-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "9b3776b3b7c23d6a9a40218f80edcfec": {
@@ -2264,7 +2264,7 @@
     "first_seen": "2026-10-03T03:31:25.391232-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T01:59:54.086522-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "5f476c4e977329d4eb7a012d38aa34f6": {
@@ -8188,7 +8188,7 @@
     "first_seen": "2026-11-03T15:20:26.748201-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T01:59:54.086522-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "75b36af6ff8caf5265eb3eced80a5d84": {
@@ -8209,7 +8209,7 @@
     "first_seen": "2026-11-03T15:20:28.405637-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T01:59:54.086522-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "d5fb4a6cf9db5cee5dd410a3364181ab": {
@@ -8230,7 +8230,7 @@
     "first_seen": "2026-11-03T15:20:29.910295-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T01:59:54.086522-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "dee9bcd33db8adccf39f5e739a0d6557": {
@@ -8251,7 +8251,7 @@
     "first_seen": "2026-11-03T15:20:31.570082-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T01:59:54.086522-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "9ebcc1ec2e21d54740f1c1212a1798a1": {
@@ -8272,7 +8272,7 @@
     "first_seen": "2026-11-03T15:20:33.086286-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T01:59:54.086522-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "52c057d1a854e1f41ed52825eb1c5fdb": {
@@ -8293,7 +8293,7 @@
     "first_seen": "2026-11-03T15:20:34.622791-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T01:59:54.086522-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "27fe4ffaa0922c1e6dccdd3d17a454f5": {
@@ -8315,7 +8315,7 @@
     "status": "active",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-09T01:59:54.086522-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "e88acf076edc62fbe54e774a2922b607": {
@@ -8336,7 +8336,7 @@
     "first_seen": "2026-11-03T15:20:37.913234-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T01:59:54.086522-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "6ffeff88c083d18104a87e0c270470f4": {
@@ -8357,7 +8357,7 @@
     "first_seen": "2026-11-03T15:20:39.424807-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T01:59:54.086522-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "099cf32ca7f32523e92e4bfa0efea1c5": {
@@ -8401,7 +8401,7 @@
     "status": "active",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-09T01:59:54.086522-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "5c21cafacaba9767ac8d9e33f3a31bc5": {
@@ -8422,7 +8422,7 @@
     "first_seen": "2026-11-03T15:20:44.363322-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T01:59:54.086522-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "d3badc3c4415db072bd0f13a1bd158df": {
@@ -8443,7 +8443,7 @@
     "first_seen": "2026-11-03T15:20:45.866785-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T01:59:54.086522-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "48299cdfbf7a499f85ea5f65941d7e7e": {
@@ -8464,7 +8464,7 @@
     "first_seen": "2026-11-03T15:20:47.518815-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T01:59:54.086522-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "adfeafabc835446f2326b9db544eda9d": {
@@ -8485,7 +8485,7 @@
     "first_seen": "2026-11-03T15:20:49.046046-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-09T01:59:54.086522-08:00",
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
     "dead_strikes": 0
   },
   "7bfe22306b4d62da607f216cb5d30505": {
@@ -9789,7 +9789,9 @@
     "priority": 1,
     "first_seen": "2026-11-11T03:41:59.445468-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "dead_strikes": 0
   },
   "94b2333f8dc437cc9cb10bb91fbfca45": {
     "id": "94b2333f8dc437cc9cb10bb91fbfca45",
@@ -9808,7 +9810,9 @@
     "priority": 4,
     "first_seen": "2026-11-11T03:42:01.143039-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "dead_strikes": 0
   },
   "5307cfe835fb0ef5f7ccc3b2f865d637": {
     "id": "5307cfe835fb0ef5f7ccc3b2f865d637",
@@ -9827,7 +9831,9 @@
     "priority": 3,
     "first_seen": "2026-11-11T03:42:02.758618-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "dead_strikes": 0
   },
   "2a6b608f1bb5dc87bbdf65f7d2235bf4": {
     "id": "2a6b608f1bb5dc87bbdf65f7d2235bf4",
@@ -9846,7 +9852,9 @@
     "priority": 2,
     "first_seen": "2026-11-11T03:42:04.543800-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "dead_strikes": 0
   },
   "454a08a3b4b45da8b9b9ed09ba5a60d0": {
     "id": "454a08a3b4b45da8b9b9ed09ba5a60d0",
@@ -9865,7 +9873,9 @@
     "priority": 3,
     "first_seen": "2026-11-11T03:42:06.199438-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "dead_strikes": 0
   },
   "144073526f400ef843a667c09a14509a": {
     "id": "144073526f400ef843a667c09a14509a",
@@ -9885,7 +9895,9 @@
     "priority": 1,
     "first_seen": "2026-11-11T03:42:54.769130-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "dead_strikes": 0
   },
   "bb5991c0a5d10456bf8b1e8b4ade220c": {
     "id": "bb5991c0a5d10456bf8b1e8b4ade220c",
@@ -10170,6 +10182,25 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-13T16:05:53.314735-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "77cab1ab65bf1c34a9840eda228d8ef3": {
+    "id": "77cab1ab65bf1c34a9840eda228d8ef3",
+    "title": "Product Designer",
+    "company": "Skyward",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1675726-remote-united-states-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Authentic: Made possible only because we embody the values listed above. We\u2019re relaxed and fun yet intensely curious and driven. Team members are placed with thought, care, and precision to ensure that Trust, Truth, and Transparency continue to represent our brand.\nBecause of that, we continue Onward, Upward, and Skyward.\nDo you get a little thrill from turning a tangle of requirements and research into a screen so clean it feels obvious? The kind where users just\u2026 get it? Are you the designer who sweats the spacing, the hierarchy, and the one-word label that makes a confusing flow finally click? You lead with craft, you back it with evidence, and you\u2019re not happy until the pixels earn their place.\nIf you love designing the answer (and know how to prove it\u2019s the right one), please apply.\nWhat you'll do:\nDesign the experience. Own the UX and UI for the Centers for Medicare and Medicaid Service\u2019s (CMS) enterprise AI platform, and for CMS\u2019s AI products, from concept to polished, high-fidelity, USWDS-aligned designs in Figma that are intuitive, elegant, and ready to build.\nMake it tangible fast. Move from sketches to wireframes to interactive prototypes, iterating quickly so stakeholders can see and feel the solution, not just read about it.\nBuild and extend the design system. Create and maintain reusable components, patterns, and standards so the product stays consistent and scalable as it grows.\nDesign with evidence. Plan and run lightweight research (usability sessions, interviews, feedback loops) and fold what you learn straight back into the design (design-primary, research-informed).\nMap the experience. Build user flows, journey maps, and service blueprints that show how people move through AI services and where the friction lives.\nMake accessibility non-negotiable. Design to Section 508 and WCAG from the first frame so what ships works beautifully for every user.\nPartner across the team. Work shoulder-to-shoulder with engineers, the AI team, and CMS stakeholders in a badgeless, one-team culture, handing off designs that developers love to build.\nA bachelor\u2019s degree and 5+ years in UX/product design (with hands-on research exposure) or a closely related field.\nA standout portfolio that shows strong visual and interaction design \u2014 real products you took from concept to polished, shipped UI.\nDeep Figma fluency: high-fidelity design, prototyping, and building/maintaining design systems and component libraries.\nA solid grasp of UX fundamentals: information architecture, interaction patterns, and usability principles, plus the ability to run lightweight research to validate your work.\nFamiliarity with the USWDS and federal CX mandates.\nGenuine accessibility awareness. 508 and WCAG are part of how you design, not an afterthought.\nDeep research chops to complement your design. You can lead the discovery as confidently as the design.\nFront-end familiarity (HTML/CSS, or designing closely with React teams) so your handoffs are build-ready.\nExperience designing data-heavy or AI-driven products (dashboards, search, chat, or knowledge tools).\nYou previously supported CMS or another federal agency.\nEven if you don\u2019t meet 100% of the qualifications, we encourage you to apply. At Skyward, we\u2019re focused on hiring individuals with the right skills and passion to grow, not just checking off every box.\nAnd now the important part. What we offer you:\n401K with 4% employer contribution (and no vesting period)\nUp to 4 weeks of paid paternity and maternity leave\n$600 per year for technical supplies and equipment\nLegal Shield and ID Shield Voluntary Benefits\nOpportunity to work in a collaborative, motivated team focused on modernizing government services with cutting-edge technology and innovative solutions. Who says government work can\u2019t be exciting!\nWe believe great work deserves great pay. That\u2019s why we ensure our compensation is not only competitive but also fair and transparent, as required by Maryland law. Expect a salary that matches your skil",
+    "posted_at": "5h",
+    "priority": 5,
+    "first_seen": "2026-11-14T05:54:16.765033-08:00",
     "status": "active",
     "applied_at": null
   }
