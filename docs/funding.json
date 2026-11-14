@@ -1,5 +1,20 @@
 [
   {
+    "id": "a6f3cc3504ee49759dfb7ff67ab24557",
+    "company": "Mirendil",
+    "amount": "$1.0B",
+    "stage": "Series A",
+    "investors": "Kleiner Perkins, Clearlake Capital",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development/",
+    "priority": 11,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-13T16:06:16.300797-08:00",
+    "status": "active"
+  },
+  {
     "id": "047dddaa49d99cd4b4d1006b94a088ae",
     "company": "Jensen Resigns",
     "amount": "Undisclosed",
@@ -6778,21 +6793,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-10-13T18:13:55.418240-07:00",
-    "status": "active"
-  },
-  {
-    "id": "523b11cf0a2f6af2cdeb34e89f115b33",
-    "company": "Clearwater Cybersecurity Startup",
-    "amount": "$5.6M",
-    "stage": "Series A",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJdnE3Z2thLXFpNnliaGpENlY0TVAyMzN5dVB5TFdfaXFRdG4xdWdKbXc0MHV4Z2xCb3pOU1ZRaFdodHpZZmxVbGlDSjIzYUs0ZWhmR3Y0RmpYWEhk?oc=5",
-    "priority": 8,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-13T15:12:08.093191-07:00",
     "status": "active"
   }
 ]

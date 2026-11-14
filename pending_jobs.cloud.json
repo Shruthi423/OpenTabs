@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "job": {
+      "title": "Product Designer, UI/UX (Contract)",
+      "company": "See posting",
+      "location": "San Francisco Bay Area, CA",
+      "url": "https://www.builtinsf.com/job/product-designer-ui-ux-contract/12251987",
+      "salary": "Not listed",
+      "description": "Design and ship web and mobile product features from problem framing through UI, including user flows, interactions, visual design, and interface states. Work within and improve an established design system, review and coach non-designers shipping UI, and collaborate with Product, Engineering, and c",
+      "posted_at": "Recently",
+      "source": "BuiltIn SF",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-13T16:35:52.312963-08:00"
+  },
+  {
+    "job": {
+      "title": "Junior UX Designer",
+      "company": "See posting",
+      "location": "San Francisco Bay Area, CA",
+      "url": "https://www.builtinsf.com/job/junior-ux-designer/12235406",
+      "salary": "Not listed",
+      "description": "The Junior UX Designer will create user flows, wireframes, and interactive Figma prototypes for web and mobile healthcare software. Responsibilities include improving onboarding, dashboards, questionnaires, navigation, accessibility, and multi-step workflows; collaborating with product designers, re",
+      "posted_at": "Recently",
+      "source": "BuiltIn SF",
+      "relevant": true,
+      "is_new_grad": true,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-13T16:35:54.173050-08:00"
+  }
+]
