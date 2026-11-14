@@ -1,5 +1,22 @@
 [
   {
+    "id": "a94efa908d4c1c4ec2979399e0ae0918",
+    "title": "Junior Visual Designer",
+    "company": "Process for Engineering Works",
+    "location": "Illinois, United States",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4489820934",
+    "source": "Linkedin",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "None",
+    "priority": 4,
+    "first_seen": "2026-11-13T16:04:30.745717-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "413d266b1beed280ca2553256f9ee43a",
     "title": "Front-End Design Engineer \u2013 UI/UX Design, React, Next.js | Financial Applications",
     "company": "KORE1",
@@ -15806,23 +15823,6 @@
     "posted_at": "2026-10-12",
     "priority": 3,
     "first_seen": "2026-10-13T17:29:35.234963-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "6a89b399e0c1420bcf896a38a8dfc886",
-    "title": "Technology User Experience Designer",
-    "company": "American Electric Power",
-    "location": "Gahanna, OH, US",
-    "salary": "$74,551 \u2013 $93,188 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=57bfdcdb7d748273",
-    "source": "Indeed",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-10-12",
-    "priority": 4,
-    "first_seen": "2026-10-13T16:45:51.148465-07:00",
     "status": "active",
     "jd": "yes"
   }
