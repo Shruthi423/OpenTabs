@@ -1,77 +1,122 @@
 [
   {
     "item": {
-      "company": "Agentcard",
-      "amount": "$8.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Agentcard Raises $8M Seed. Agentcard raises $8M in seed funding to enable AI agents to securely make online purchases for users through its specialized payment infrastructure.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/agentcard-raises-8m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-16T00:43:50.580473-08:00"
-  },
-  {
-    "item": {
-      "company": "Betterness",
-      "amount": "$1.0M",
-      "stage": "Seed",
-      "investors": null,
-      "location": "Seed Miami",
-      "blurb": "Betterness Raises $1M Seed. Miami-based healthtech startup Betterness raises $1M in seed extension to scale its AI-powered neighborhood wellness network initiative.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/betterness-raises-1m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-16T00:43:53.629020-08:00"
-  },
-  {
-    "item": {
-      "company": "Boston Medical Sciences",
+      "company": "Arborum Labs",
       "amount": null,
-      "stage": "Series B",
+      "stage": "Pre-Seed",
+      "investors": "Speciale Invest, Ideaspring Capital",
+      "location": null,
+      "blurb": "Arborum Labs raises pre-seed funding led by Speciale Invest, Ideaspring Capital to build AI world models - ET Enterprise AI. Arborum Labs raises pre-seed funding led by Speciale Invest, Ideaspring Capital to build AI world models&nbsp;&nbsp;ET Enterprise AI",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOU2lpbGJYeGtFQ185Zm1scU9mZ2ZvZUdzRUJ1SEhMYVlDX0w2R3A3c0xsUkpxSkN5UVBlMXgwNFBvYVd4OGkwSGpuSGIzTjRaV29XZlFId21LNmJZQXRrRlFrOUpZYXRpTnR2TE53TzI5eFZESkFWUUJHeWNCNnVZd2IwMFlKc05IQUh6dm9TUEFXZUVrcWFaUjlsNUgtTU1IOTNWR3BSYW11eTNNSWM2S1M2dlJlX3kyTXpoQUh6Zlg4M2FYa0xJbGxOUS1XWlotMFUzVThIb01iRS1rTF9jdjFKNFRPbkRXODM0YWtiRWJuNThXMDAyUXZpakJDY1dPTnRKSHdTdF_SAY4CQVVfeXFMUHJ1OFVXVE9Hb0NXLVlfN1VPclh2SXk4X2RIQlhqNnRrY1RnNl9mMXQza0Z3Mk1lNjVNM2NtbkNNM1N5YTBDdlFlb3pVT2NWUmM4aXJ2MDgtc1BHbWtibFdlZFRYWkRGWHFURDhjOEJUci1vTVpMXzQ2dmJvOE1WYk0zZDI1YzR0Rk85YlZKeTNmeVNZVjBnYmllUWlhblVFWDloNTVBb0hkRDNtbFFRNmRNOGlHWEdRLUFySmZnT2c4VW42SlRleVBmblYzVE1VQzFUbS0yeEpYa2ttbkh1bDd5UDJsMFA0dTcwQUZVd1lKUUpWeDJVVFVnWmNzZjJCaV9KeVRpQVhwS1plRFRB?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-11-16T11:19:41.584970-08:00"
+  },
+  {
+    "item": {
+      "company": "Morgan AI",
+      "amount": "$3.65M",
+      "stage": "Seed",
       "investors": null,
-      "location": "Boston",
-      "blurb": "Boston Medical Sciences Raises \u00a55.55B Series B. Boston Medical Sciences raises 5.55 billion yen in a Series B round to advance its medical AI diagnostic technology for colorectal cancer.",
+      "location": null,
+      "blurb": "Morgan AI Raises $3.65M Seed. Morgan AI raises $3.65M in a seed round led by Blackbird to automate insolvency and restructuring workflows for professional practitioners.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/boston-medical-sciences-raises-5-55b-series-b/",
-      "priority": 7
+      "url": "https://www.thesaasnews.com/news/morgan-ai-raises-3-65m-seed/",
+      "priority": 9
     },
-    "remind_at": "2026-11-16T00:43:59.433555-08:00"
+    "remind_at": "2026-11-16T11:19:44.392023-08:00"
   },
   {
     "item": {
-      "company": "Yoco",
-      "amount": "$100.0M",
-      "stage": null,
-      "investors": "Victory Park Capital",
+      "company": "Corma",
+      "amount": "$125.0M",
+      "stage": "Series A",
+      "investors": null,
       "location": null,
-      "blurb": "Yoco Raises $100M Credit Facility. South African fintech Yoco secures a $100M credit facility  from Victory Park Capital to scale its merchant cash advance operations for small businesses.",
+      "blurb": "Corma Raises $125M Series A at $1B Valuation to Scale Defensive AI - Unite.AI. Corma Raises $125M Series A at $1B Valuation to Scale Defensive AI&nbsp;&nbsp;Unite.AI",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/yoco-raises-100m-credit-facility/",
-      "priority": 3
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2g3Sm1FOGRpLXZrRFg5QnV2VHZKUDFMY3VxOUtvcjE1TmlVck9feVVwMmVzMnUwUXpoenRwMkMtdEk2bDh2ZUI2ZlNmNExaQy1rd3FxdVNhcks0UEU0emFYOXZIb2pSTDJBTzBRRHZERFFlT3o4NFRnUmFjbnlRZjVkU3poREU5YkdYWXc3VQ?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-11-16T00:44:02.441786-08:00"
+    "remind_at": "2026-11-16T11:19:47.296102-08:00"
   },
   {
     "item": {
-      "company": "StitchStudio",
-      "amount": "$8.0M",
-      "stage": null,
-      "investors": "Voyager Capital",
+      "company": "LangChain",
+      "amount": "$300.0M",
+      "stage": "Series C",
+      "investors": null,
       "location": null,
-      "blurb": "StitchStudio Raises $8M Other. StitchStudio raises $8M in financing led by Voyager Capital to expand its AI automation platform for insurance underwriting and brokerage workflows.",
+      "blurb": "LangChain Raises $300M Series C. LangChain raises $300M Series C led by CapitalG at a $3B valuation to advance its agent engineering platform and support enterprise AI adoption.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/stitchstudio-raises-8m-other/",
+      "url": "https://www.thesaasnews.com/news/langchain-raises-300m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-11-16T11:19:50.099808-08:00"
+  },
+  {
+    "item": {
+      "company": "In The AI Era",
+      "amount": null,
+      "stage": null,
+      "investors": "Strattam Capital",
+      "location": null,
+      "blurb": "In The AI Era, Keep Hiring New College Grads \u2014 And Make Them Managers From Day One. As AI takes over entry-level knowledge work, guest authors Bob Morse of Strattam Capital and Michael Quoia of KSE Leadership argue that these workers should begin their careers managing AI agents, developing skills in delegation, oversight and judgment traditionally learned later.",
+      "founders": [],
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/ai/new-college-grads-workforce-management-morse-strattam-quoia-kse/",
       "priority": 3
     },
-    "remind_at": "2026-11-16T00:44:05.653983-08:00"
+    "remind_at": "2026-11-16T11:19:59.303481-08:00"
+  },
+  {
+    "item": {
+      "company": "Numa",
+      "amount": "$45.0M",
+      "stage": null,
+      "investors": null,
+      "location": "Silicon Valley",
+      "blurb": "AI startup Numa raises $45M at $500M valuation to automate car dealerships with AI agents as ARR triples. Car dealerships lose customers every day through missed calls, unanswered messages, and slow follow-ups. AI startup Numa wants to fix that problem, and investors are betting $45 million that its AI agents can do the job. Numa, a Silicon Valley-based [&#8230;]\nThe post AI startup Numa raises $45M at $500M valuation to automate car dealerships with AI agents as ARR triples first appeared on Te",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/11/16/ai-startup-numa-raises-45m-at-500m-valuation-to-automate-car-dealerships-with-ai-agents-as-arr-triples/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-16T11:20:02.237094-08:00"
+  },
+  {
+    "item": {
+      "company": "Dreamteam",
+      "amount": "$53.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Freshworks veterans raise $53M for AI startup Dreamteam to challenge Salesforce and HubSpot. Three former Freshworks executives have raised $53 million to take on Salesforce and HubSpot, betting that artificial intelligence can fix one of enterprise software&#8217;s oldest frustrations: salespeople spending more time updating customer records than selling. Their startup, Dreamteam, announced Monday [&#8230;]\nThe post Freshworks veterans raise $53M for AI startup Dreamteam to challenge Salesforce",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/11/16/freshworks-veterans-raise-53m-for-ai-startup-dreamteam-to-challenge-salesforce-and-hubspot/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-16T11:20:13.930195-08:00"
+  },
+  {
+    "item": {
+      "company": "Axle",
+      "amount": "$9.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Axle Raises $9M to Give Investment Banks an Operating System for Corporate Access. Behind every bank-hosted roadshow sits a scheduling puzzle that most of Wall Street still solves in spreadsheets. Sam Shapiro worked the corporate access desk at Goldman Sachs, watched how much manual effort each investor meeting demanded, and then built software to take it over. Three of North America's largest banks now run on it, and Axle just raised $9M to push further. Find out what happens when AI agents sta",
+      "founders": [],
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/11/axle-sell-side-corporate-access-software-capital-markets-infrastructure-operating-system-sam-shapiro/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-16T11:20:16.639262-08:00"
   }
 ]
