@@ -1,5 +1,20 @@
 [
   {
+    "id": "f1f9589b57bbde190f1f478496d7034a",
+    "company": "Bharat Semi",
+    "amount": "$24.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1veUtGUlVDdERfTmdDMFZ4Y2ViTlc4MnlXb0dKQUJEVklHYk5WbXVTRnNKejg0Qm1qbmNrdTEyUGlDeHBqTzFtMmhoaTZOZ3RaZ3R4dUhYbGxqdGFRVHRQbUQ1UTd0N19wQzg1NV9MZkhJcUk?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-15T17:16:21.174724-08:00",
+    "status": "active"
+  },
+  {
     "id": "3b1007f420de8b6ff171bdcf305ec1ae",
     "company": "OpenRelay",
     "amount": "$10.0M",
@@ -6030,21 +6045,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-10-15T22:27:34.392559-07:00",
-    "status": "active"
-  },
-  {
-    "id": "4bdc762f12cfdf8bacfdcda3198363db",
-    "company": "Mueon",
-    "amount": "$65.0M",
-    "stage": "Series A",
-    "investors": "Oregon Venture Fund, Wellington Capital",
-    "source": "SiliconANGLE",
-    "url": "https://siliconangle.com/2026/10/15/mueon-nabs-65m-in-funding-to-develop-3d-computing-modules/",
-    "priority": 8,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-15T17:58:06.214405-07:00",
     "status": "active"
   }
 ]
