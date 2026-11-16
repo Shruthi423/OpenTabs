@@ -1,5 +1,50 @@
 [
   {
+    "id": "96c20db511579a155ef50014f57cccf8",
+    "company": "StitchStudio",
+    "amount": "$8.0M",
+    "stage": "?",
+    "investors": "Voyager Capital",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/stitchstudio-raises-8m-other/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-16T00:14:06.654128-08:00",
+    "status": "active"
+  },
+  {
+    "id": "f946ca64029cb56e2051a8d7182fd05f",
+    "company": "Yoco",
+    "amount": "$100.0M",
+    "stage": "?",
+    "investors": "Victory Park Capital",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/yoco-raises-100m-credit-facility/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-16T00:14:03.441931-08:00",
+    "status": "active"
+  },
+  {
+    "id": "9e9fa05892e8a5223bf8cba5cad47b65",
+    "company": "Agentcard",
+    "amount": "$8.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "The SaaS News",
+    "url": "https://www.thesaasnews.com/news/agentcard-raises-8m-seed/",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-16T00:13:51.580631-08:00",
+    "status": "active"
+  },
+  {
     "id": "f1f9589b57bbde190f1f478496d7034a",
     "company": "Bharat Semi",
     "amount": "$24.0M",
@@ -6015,36 +6060,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-10-16T03:02:54.911704-07:00",
-    "status": "active"
-  },
-  {
-    "id": "7143813a83e1b083549bd8c54fb0e796",
-    "company": "North.cloud",
-    "amount": "$60.0M",
-    "stage": "Series B",
-    "investors": "PeakSpan Capital, Litquidity Ventures",
-    "source": "SiliconANGLE",
-    "url": "https://siliconangle.com/2026/10/15/north-cloud-bags-60m-in-funding-to-help-businesses-keep-runaway-cloud-costs-in-check/",
-    "priority": 7,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-15T22:27:37.176897-07:00",
-    "status": "active"
-  },
-  {
-    "id": "cd08be4870acd4a84765067833135c9b",
-    "company": "IP Tokenization Platform IPX",
-    "amount": "$4.0M",
-    "stage": "Seed",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yTHU3ZWVaQnJXTWM3bFpnVUJIM21VRlFOUVZ4VGVYUFBoYjBmc3V2TDQ3ZmNTT3JIS3UycUJVYU8tZDBGTHRCZkx4WGlxdzl3cnY4OQ?oc=5",
-    "priority": 9,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-15T22:27:34.392559-07:00",
     "status": "active"
   }
 ]

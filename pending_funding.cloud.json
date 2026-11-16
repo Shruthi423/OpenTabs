@@ -1,17 +1,77 @@
 [
   {
     "item": {
-      "company": "Bharat Semi",
-      "amount": "$24.0M",
+      "company": "Agentcard",
+      "amount": "$8.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
-      "blurb": "Bharat Semi raises $24M seed round to build AI image sensors - Crypto Briefing. Bharat Semi raises $24M seed round to build AI image sensors&nbsp;&nbsp;Crypto Briefing",
+      "blurb": "Agentcard Raises $8M Seed. Agentcard raises $8M in seed funding to enable AI agents to securely make online purchases for users through its specialized payment infrastructure.",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1veUtGUlVDdERfTmdDMFZ4Y2ViTlc4MnlXb0dKQUJEVklHYk5WbXVTRnNKejg0Qm1qbmNrdTEyUGlDeHBqTzFtMmhoaTZOZ3RaZ3R4dUhYbGxqdGFRVHRQbUQ1UTd0N19wQzg1NV9MZkhJcUk?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/agentcard-raises-8m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-11-15T17:46:20.174548-08:00"
+    "remind_at": "2026-11-16T00:43:50.580473-08:00"
+  },
+  {
+    "item": {
+      "company": "Betterness",
+      "amount": "$1.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": "Seed Miami",
+      "blurb": "Betterness Raises $1M Seed. Miami-based healthtech startup Betterness raises $1M in seed extension to scale its AI-powered neighborhood wellness network initiative.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/betterness-raises-1m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-16T00:43:53.629020-08:00"
+  },
+  {
+    "item": {
+      "company": "Boston Medical Sciences",
+      "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": "Boston",
+      "blurb": "Boston Medical Sciences Raises \u00a55.55B Series B. Boston Medical Sciences raises 5.55 billion yen in a Series B round to advance its medical AI diagnostic technology for colorectal cancer.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/boston-medical-sciences-raises-5-55b-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-11-16T00:43:59.433555-08:00"
+  },
+  {
+    "item": {
+      "company": "Yoco",
+      "amount": "$100.0M",
+      "stage": null,
+      "investors": "Victory Park Capital",
+      "location": null,
+      "blurb": "Yoco Raises $100M Credit Facility. South African fintech Yoco secures a $100M credit facility  from Victory Park Capital to scale its merchant cash advance operations for small businesses.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/yoco-raises-100m-credit-facility/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-16T00:44:02.441786-08:00"
+  },
+  {
+    "item": {
+      "company": "StitchStudio",
+      "amount": "$8.0M",
+      "stage": null,
+      "investors": "Voyager Capital",
+      "location": null,
+      "blurb": "StitchStudio Raises $8M Other. StitchStudio raises $8M in financing led by Voyager Capital to expand its AI automation platform for insurance underwriting and brokerage workflows.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/stitchstudio-raises-8m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-16T00:44:05.653983-08:00"
   }
 ]
