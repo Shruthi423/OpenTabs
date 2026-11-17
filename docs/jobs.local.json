@@ -1,5 +1,22 @@
 [
   {
+    "id": "dc22221c98d9daee21c3d0c086621708",
+    "title": "Service Designer",
+    "company": "Accenture Federal Services",
+    "location": "Washington, DC",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4491540372",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-11-16T16:09:00.354974-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "15732cc4009a2c0bffcdcf102686938a",
     "title": "Product Design Engineer - Aeronautics",
     "company": "Cornerstone Management Solutions",
@@ -15279,23 +15296,6 @@
     "posted_at": "2026-10-14",
     "priority": 4,
     "first_seen": "2026-10-16T17:35:44.453480-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "53c3a886015f7e0c0b48c277fd1ad47e",
-    "title": "UX Designer",
-    "company": "David Yurman",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4480569011",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-10-16T16:55:16.498023-07:00",
     "status": "active",
     "jd": "yes"
   }
