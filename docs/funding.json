@@ -1,5 +1,50 @@
 [
   {
+    "id": "5490df518506961d9ab94d50542962ab",
+    "company": "BlueMatrix Acquires Aiera",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "AlleyWatch",
+    "url": "https://www.alleywatch.com/2026/11/bluematrix-acquisition-aiera-ai-research-distribution-financial-research-governance/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-16T18:15:29.656038-08:00",
+    "status": "active"
+  },
+  {
+    "id": "d70fffd4f7b61beffab7743b4cc5db68",
+    "company": "Island",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-16T18:15:20.393181-08:00",
+    "status": "active"
+  },
+  {
+    "id": "0af005ac700bc02d20300421adfe6d8e",
+    "company": "Corma",
+    "amount": "$1.0B",
+    "stage": "Series A",
+    "investors": "NEA",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "priority": 8,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-16T18:15:16.902759-08:00",
+    "status": "active"
+  },
+  {
     "id": "4f8db1b441d26525d3d675d7255aeb93",
     "company": "Axle",
     "amount": "$9.0M",
@@ -5958,21 +6003,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-10-17T07:26:36.150282-07:00",
-    "status": "active"
-  },
-  {
-    "id": "eed21839d9ab72df3c0826dbb4eece5e",
-    "company": "TypeSafeAI",
-    "amount": "$870.0M",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "a16z (news)",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNkZ5M3FhcGxCT2xVenF3bWk3QTVtSEZzMnhpeDVTV1hQSU0wdVVfS3g4b3pXNU92Z0pSeGV0YzJqenJQZzdyRHBoX3RDTElMWmxtWGtJQTRIQUg4aWRjZjZiMURydFAxaWoxVE9PeksxVlZYeUFJREpPUWtjWmdRTXQwanJiZWkzNnZvVUNvd1QtM0w5enBrcXE3LWMtMjd5V3c?oc=5",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-16T16:55:02.816197-07:00",
     "status": "active"
   }
 ]

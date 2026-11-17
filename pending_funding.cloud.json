@@ -1,122 +1,62 @@
 [
   {
     "item": {
-      "company": "Arborum Labs",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": "Speciale Invest, Ideaspring Capital",
-      "location": null,
-      "blurb": "Arborum Labs raises pre-seed funding led by Speciale Invest, Ideaspring Capital to build AI world models - ET Enterprise AI. Arborum Labs raises pre-seed funding led by Speciale Invest, Ideaspring Capital to build AI world models&nbsp;&nbsp;ET Enterprise AI",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOU2lpbGJYeGtFQ185Zm1scU9mZ2ZvZUdzRUJ1SEhMYVlDX0w2R3A3c0xsUkpxSkN5UVBlMXgwNFBvYVd4OGkwSGpuSGIzTjRaV29XZlFId21LNmJZQXRrRlFrOUpZYXRpTnR2TE53TzI5eFZESkFWUUJHeWNCNnVZd2IwMFlKc05IQUh6dm9TUEFXZUVrcWFaUjlsNUgtTU1IOTNWR3BSYW11eTNNSWM2S1M2dlJlX3kyTXpoQUh6Zlg4M2FYa0xJbGxOUS1XWlotMFUzVThIb01iRS1rTF9jdjFKNFRPbkRXODM0YWtiRWJuNThXMDAyUXZpakJDY1dPTnRKSHdTdF_SAY4CQVVfeXFMUHJ1OFVXVE9Hb0NXLVlfN1VPclh2SXk4X2RIQlhqNnRrY1RnNl9mMXQza0Z3Mk1lNjVNM2NtbkNNM1N5YTBDdlFlb3pVT2NWUmM4aXJ2MDgtc1BHbWtibFdlZFRYWkRGWHFURDhjOEJUci1vTVpMXzQ2dmJvOE1WYk0zZDI1YzR0Rk85YlZKeTNmeVNZVjBnYmllUWlhblVFWDloNTVBb0hkRDNtbFFRNmRNOGlHWEdRLUFySmZnT2c4VW42SlRleVBmblYzVE1VQzFUbS0yeEpYa2ttbkh1bDd5UDJsMFA0dTcwQUZVd1lKUUpWeDJVVFVnWmNzZjJCaV9KeVRpQVhwS1plRFRB?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-11-16T11:19:41.584970-08:00"
-  },
-  {
-    "item": {
-      "company": "Morgan AI",
-      "amount": "$3.65M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Morgan AI Raises $3.65M Seed. Morgan AI raises $3.65M in a seed round led by Blackbird to automate insolvency and restructuring workflows for professional practitioners.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/morgan-ai-raises-3-65m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-16T11:19:44.392023-08:00"
-  },
-  {
-    "item": {
       "company": "Corma",
-      "amount": "$125.0M",
+      "amount": "$1.0B",
       "stage": "Series A",
-      "investors": null,
+      "investors": "NEA",
       "location": null,
-      "blurb": "Corma Raises $125M Series A at $1B Valuation to Scale Defensive AI - Unite.AI. Corma Raises $125M Series A at $1B Valuation to Scale Defensive AI&nbsp;&nbsp;Unite.AI",
+      "blurb": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months. Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2g3Sm1FOGRpLXZrRFg5QnV2VHZKUDFMY3VxOUtvcjE1TmlVck9feVVwMmVzMnUwUXpoenRwMkMtdEk2bDh2ZUI2ZlNmNExaQy1rd3FxdVNhcks0UEU0emFYOXZIb2pSTDJBTzBRRHZERFFlT3o4NFRnUmFjbnlRZjVkU3poREU5YkdYWXc3VQ?oc=5",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
       "priority": 8
     },
-    "remind_at": "2026-11-16T11:19:47.296102-08:00"
+    "remind_at": "2026-11-16T18:45:15.902600-08:00"
   },
   {
     "item": {
-      "company": "LangChain",
-      "amount": "$300.0M",
-      "stage": "Series C",
-      "investors": null,
-      "location": null,
-      "blurb": "LangChain Raises $300M Series C. LangChain raises $300M Series C led by CapitalG at a $3B valuation to advance its agent engineering platform and support enterprise AI adoption.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/langchain-raises-300m-series-c/",
-      "priority": 6
-    },
-    "remind_at": "2026-11-16T11:19:50.099808-08:00"
-  },
-  {
-    "item": {
-      "company": "In The AI Era",
+      "company": "Island",
       "amount": null,
       "stage": null,
-      "investors": "Strattam Capital",
+      "investors": null,
       "location": null,
-      "blurb": "In The AI Era, Keep Hiring New College Grads \u2014 And Make Them Managers From Day One. As AI takes over entry-level knowledge work, guest authors Bob Morse of Strattam Capital and Michael Quoia of KSE Leadership argue that these workers should begin their careers managing AI agents, developing skills in delegation, oversight and judgment traditionally learned later.",
+      "blurb": "Island is a new screen-time app that turns staying off your phone into a game. YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
       "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/ai/new-college-grads-workforce-management-morse-strattam-quoia-kse/",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
       "priority": 3
     },
-    "remind_at": "2026-11-16T11:19:59.303481-08:00"
+    "remind_at": "2026-11-16T18:45:19.392863-08:00"
   },
   {
     "item": {
-      "company": "Numa",
-      "amount": "$45.0M",
+      "company": "Noeri",
+      "amount": "$110.0M",
       "stage": null,
-      "investors": null,
-      "location": "Silicon Valley",
-      "blurb": "AI startup Numa raises $45M at $500M valuation to automate car dealerships with AI agents as ARR triples. Car dealerships lose customers every day through missed calls, unanswered messages, and slow follow-ups. AI startup Numa wants to fix that problem, and investors are betting $45 million that its AI agents can do the job. Numa, a Silicon Valley-based [&#8230;]\nThe post AI startup Numa raises $45M at $500M valuation to automate car dealerships with AI agents as ARR triples first appeared on Te",
+      "investors": "NEA, Menlo Ventures, Seattle-based Madrona Ventures",
+      "location": "Seattle",
+      "blurb": "Noeri raises $110M to help companies build living AI systems that self-improve over time. Noeri Inc., a startup developing artificial intelligence systems that continuously improve their outputs as they learn from an organization\u2019s data and work, is launching with $110 million in funding. Today\u2019s round was led by Menlo Ventures and saw participation from Seattle-based Madrona Ventures, Kindred Ventures, Wing Venture Capital and NEA. Snowflake and Cisco Ventures also [&#8230;]\nThe post Noeri rais",
       "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/11/16/ai-startup-numa-raises-45m-at-500m-valuation-to-automate-car-dealerships-with-ai-agents-as-arr-triples/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
       "priority": 3
     },
-    "remind_at": "2026-11-16T11:20:02.237094-08:00"
+    "remind_at": "2026-11-16T18:45:22.081039-08:00"
   },
   {
     "item": {
-      "company": "Dreamteam",
-      "amount": "$53.0M",
+      "company": "BlueMatrix Acquires Aiera",
+      "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Freshworks veterans raise $53M for AI startup Dreamteam to challenge Salesforce and HubSpot. Three former Freshworks executives have raised $53 million to take on Salesforce and HubSpot, betting that artificial intelligence can fix one of enterprise software&#8217;s oldest frustrations: salespeople spending more time updating customer records than selling. Their startup, Dreamteam, announced Monday [&#8230;]\nThe post Freshworks veterans raise $53M for AI startup Dreamteam to challenge Salesforce",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/11/16/freshworks-veterans-raise-53m-for-ai-startup-dreamteam-to-challenge-salesforce-and-hubspot/",
-      "priority": 3
-    },
-    "remind_at": "2026-11-16T11:20:13.930195-08:00"
-  },
-  {
-    "item": {
-      "company": "Axle",
-      "amount": "$9.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Axle Raises $9M to Give Investment Banks an Operating System for Corporate Access. Behind every bank-hosted roadshow sits a scheduling puzzle that most of Wall Street still solves in spreadsheets. Sam Shapiro worked the corporate access desk at Goldman Sachs, watched how much manual effort each investor meeting demanded, and then built software to take it over. Three of North America's largest banks now run on it, and Axle just raised $9M to push further. Find out what happens when AI agents sta",
+      "blurb": "BlueMatrix Acquires Aiera to Bring Governed AI Distribution to Investment Research. Your research is feeding AI models, and nobody\u2019s checking who gets credit. BlueMatrix just bought NYC\u2019s Aiera to fix that. The goal: every report carries its author, its rights, and an audit trail from the first draft to the final query.",
       "founders": [],
       "source": "AlleyWatch",
-      "url": "https://www.alleywatch.com/2026/11/axle-sell-side-corporate-access-software-capital-markets-infrastructure-operating-system-sam-shapiro/",
+      "url": "https://www.alleywatch.com/2026/11/bluematrix-acquisition-aiera-ai-research-distribution-financial-research-governance/",
       "priority": 3
     },
-    "remind_at": "2026-11-16T11:20:16.639262-08:00"
+    "remind_at": "2026-11-16T18:45:28.655899-08:00"
   }
 ]

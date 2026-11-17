@@ -1,5 +1,22 @@
 [
   {
+    "id": "8da0db5d5d95b47f4d2332a750275141",
+    "title": "Product Designer, Growth",
+    "company": "Figma",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "salary": "Not listed",
+    "url": "https://boards.greenhouse.io/figma/jobs/6251104004?gh_jid=6251104004",
+    "source": "Figma",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-11-16T18:14:56.237458-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "eca23e4896caa36678f6f211f3fca41c",
     "title": "UI/UX Designer",
     "company": "Konrad",
@@ -345,7 +362,8 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-11-16T10:48:19.123019-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "778855327fb1521f497bc72e48f881de",
@@ -361,7 +379,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-16T10:48:17.387542-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "23f1e42ab157660359decfab2cdc676c",
@@ -377,7 +396,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:48:15.643845-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "46564f509f81ca83d9858feb4ff355fa",
@@ -393,7 +413,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-16T10:48:13.874009-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "823eef207fc2b8f837f1b6e1448fe28f",
@@ -409,7 +430,8 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-11-16T10:48:11.996961-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "066fd252c5ec8597590c44882e0edbda",
@@ -425,7 +447,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:48:10.088567-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "9505755a0957d1ebec28d3c3162555ad",
@@ -441,7 +464,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-16T10:48:08.344550-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "5462dd6baae7c1a396b8cc7645df81aa",
@@ -473,7 +497,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-16T10:47:39.171977-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "d42d21e9e44c22bebdc2ade1b5ab08c1",
@@ -489,7 +514,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:47:37.302989-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a3d8e74e8697004ef5abf669fc02da11",
@@ -505,7 +531,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-16T10:47:35.562832-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "0b47b10d84759607a9a763906f75e435",
@@ -948,23 +975,6 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-16T10:46:21.121659-08:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "6b6c7cddaeca3deae640e843384089d2",
-    "title": "IT Consulting & Staffing Services",
-    "company": "Superworq",
-    "location": "Remote",
-    "salary": "Not listed",
-    "url": "https://superworq.com/jobs/USA1-C93DA8AC8728F21F7F3AE68A96515C12",
-    "source": "OpenDoors",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-11-16T10:46:19.199206-08:00",
     "status": "active",
     "jd": "yes"
   },

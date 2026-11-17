@@ -3165,7 +3165,7 @@
     "first_seen": "2026-10-06T17:18:57.895729-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "ca1ff4d2300ef02f81ebb17d4f2a1192": {
@@ -4005,7 +4005,7 @@
     "first_seen": "2026-10-12T09:08:12.854628-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "8ed137ebc2df0259cb409c9c7040790f": {
@@ -4026,7 +4026,7 @@
     "first_seen": "2026-10-12T09:08:14.787651-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "eea596a3b1dc91cdadc4b585b2c97f37": {
@@ -4047,7 +4047,7 @@
     "first_seen": "2026-10-12T09:08:16.476444-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "88393be835cfd64e0aaadb41173a4394": {
@@ -4068,7 +4068,7 @@
     "first_seen": "2026-10-12T09:08:18.672561-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "bdb02bc2e94297c38251a74c299dd3f6": {
@@ -4089,7 +4089,7 @@
     "first_seen": "2026-10-12T09:08:20.296477-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "773340c1f3d4724bb713cf1405110102": {
@@ -4110,7 +4110,7 @@
     "first_seen": "2026-10-12T09:08:22.327753-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "01c4af6e05711d71cbe0d4a69288eeed": {
@@ -4739,7 +4739,7 @@
     "first_seen": "2026-10-19T01:24:54.903518-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "2869c468032fd1ed5a6aa51f496c9618": {
@@ -4760,8 +4760,8 @@
     "first_seen": "2026-10-19T08:47:48.952454-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
-    "dead_strikes": 0
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
+    "dead_strikes": 1
   },
   "0cec3f1f61332c2cc9d5e67c15aa57d9": {
     "id": "0cec3f1f61332c2cc9d5e67c15aa57d9",
@@ -4781,7 +4781,7 @@
     "first_seen": "2026-10-19T08:47:50.543289-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "4c6a7ee51238c7c9ed0a32b79a2c0b45": {
@@ -4802,7 +4802,7 @@
     "first_seen": "2026-10-19T08:47:52.070992-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "1da04b9b290bf3fd1b57c8c7d9315cd3": {
@@ -4823,7 +4823,7 @@
     "first_seen": "2026-10-19T08:47:53.774633-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "d88b15ac1869b5e76ec88ae1e3344a55": {
@@ -4844,7 +4844,7 @@
     "first_seen": "2026-10-19T08:47:55.503720-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "fa8fbc7bc218f7713c58ae70489f8c8a": {
@@ -4865,7 +4865,7 @@
     "first_seen": "2026-10-19T08:47:57.044141-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "b10fd403ff94e7ff2402a4e93fb698a6": {
@@ -4886,7 +4886,7 @@
     "first_seen": "2026-10-19T08:47:58.753014-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "26f8cb721520b99fa48cc6c4d71703ad": {
@@ -5285,7 +5285,7 @@
     "first_seen": "2026-10-20T17:20:12.443372-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "6d8753d0f8b47342b2e1e9b8d0ce9c09": {
@@ -5306,7 +5306,7 @@
     "first_seen": "2026-10-20T17:20:14.255649-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "29b6cb31a810bcbd89ea1f8fb5c9adc8": {
@@ -5516,7 +5516,7 @@
     "first_seen": "2026-10-22T03:39:26.285108-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-11T17:36:34.082605-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "96c7088298584a1044f5dc161ae79ff1": {
@@ -6313,8 +6313,8 @@
     "first_seen": "2026-10-26T08:11:55.029274-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-11T17:36:34.082605-08:00",
-    "dead_strikes": 0
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
+    "dead_strikes": 1
   },
   "235ca6dda60c2526f71c1d6cf98d0c2c": {
     "id": "235ca6dda60c2526f71c1d6cf98d0c2c",
@@ -6334,7 +6334,7 @@
     "first_seen": "2026-10-26T08:11:56.584224-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-11T17:36:34.082605-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "08311c6523c97fa434964d9e17ea7beb": {
@@ -6356,7 +6356,7 @@
     "first_seen": "2026-10-26T13:29:18.936424-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-11T17:36:34.082605-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "ce48ba73f825a28cca5f8284362c0bc0": {
@@ -6943,7 +6943,7 @@
     "first_seen": "2026-11-01T08:25:40.795683-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-11T17:36:34.082605-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "e8a39edc66ad0cdf23056f71dc62a601": {
@@ -8658,7 +8658,7 @@
     "first_seen": "2026-11-04T10:24:00.418112-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-11T17:36:34.082605-08:00",
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
     "dead_strikes": 0
   },
   "ab1df5b0d5bf93ef62278e06fc6d7b29": {
@@ -10189,7 +10189,9 @@
     "priority": 1,
     "first_seen": "2026-11-13T16:05:51.629053-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
+    "dead_strikes": 0
   },
   "59d16d1225b356488d5780a9db24c70d": {
     "id": "59d16d1225b356488d5780a9db24c70d",
@@ -10208,7 +10210,9 @@
     "priority": 1,
     "first_seen": "2026-11-13T16:05:53.314735-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-16T18:14:04.597288-08:00",
+    "dead_strikes": 0
   },
   "77cab1ab65bf1c34a9840eda228d8ef3": {
     "id": "77cab1ab65bf1c34a9840eda228d8ef3",
@@ -10454,25 +10458,6 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:46:17.315777-08:00",
-    "status": "active",
-    "applied_at": null
-  },
-  "6b6c7cddaeca3deae640e843384089d2": {
-    "id": "6b6c7cddaeca3deae640e843384089d2",
-    "title": "IT Consulting & Staffing Services",
-    "company": "Superworq",
-    "location": "Remote",
-    "salary": "Not listed",
-    "url": "https://superworq.com/jobs/USA1-C93DA8AC8728F21F7F3AE68A96515C12",
-    "source": "OpenDoors",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "visa": null,
-    "founders": [],
-    "description": "Group O is seeking a Digital Experience Designer to support digital design for business. This hands-on contract opportunity combines exceptional visual design, digital merchandising, visual storytelling, and practical UX/UI execution. The designer will elevate customer-facing responsive web experien",
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-11-16T10:46:19.199206-08:00",
     "status": "active",
     "applied_at": null
   },
@@ -11001,7 +10986,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "About us\nOur mission is to reinvent the way people learn, starting with language.\nLearning a language can change a life by opening doors to new cultures, careers, and communities. Two billion people around the world are actively trying to learn a language, but the best way to learn (one-on-one tutoring) is hard to access at scale and hasn\u2019t been meaningfully improved in decades. Speak is building a human-level, AI-powered tutor in your pocket: a conversation-first experience that lets learners actually speak, get instant feedback, and progress through carefully designed lessons. The result is a complete path from beginner to confident speaker across multiple languages.\nSpeak first launched in South Korea in 2019, where Speak has now become the number one language learning app, and we now serve learners across many markets and 15+ languages. Speak is one of the world\u2019s leading AI companies, with over $150m raised in venture investment from OpenAI, Accel, Founders Fund, Khosla Ventures, and more, with a distributed team across San Francisco, Seoul, Tokyo, Taipei, and Ljubljana.\n\nAbout the design team\nWe\u2019re a small, high-craft team that sits at the intersection of research, invention, and product thinking. We build consumer and B2B experiences used by millions across 150+ markets \u2014 and a lot of the work is genuinely novel: inventing how someone talks to an AI tutor, what feedback feels like when you\u2019re learning out loud, and how progress should be measured and celebrated.\nWe stay close to learners through prototyping, interviews, betas, and experiments. We take craft seriously, iterate fast, and value a high-trust critique-and-build culture. We have something to prove \u2014 and we care about doing work that is both useful and genuinely excellent.\n\nAbout this role\nWe\u2019re hiring a seasoned Designer to improve how design and engineering work together, starting with a world-class, agent-first design system.\nBy agent-first, we mean the system is structured so humans and AI agents can make the same good decisions: choosing the right components, applying the right patterns, using consistent names, and reviewing UI against shared rules.\nThis is a systems thinker, high-craft, high-collaboration role. You\u2019ll work closely with dedicated engineers who will be your collaborators in bringing this to life across our product surfaces. You\u2019ll own the design quality, semantics, and product usefulness of the system; engineering will own the technical architecture and implementation, with close collaboration on component APIs, constraints, and adoption.\nScope\nYou\u2019ll work across iOS, Android, and web.\n\nWe\u2019re mobile-first in the near term, with an expectation that components and patterns translate cleanly to web as those surfaces expand.\n\nThis role focuses on product surfaces (not the marketing site).\n\nWhat you\u2019ll own\nDesign \u2194 Engineering workflow improvements. Treat the seams between functions as a design problem: shared language, fewer re-made decisions, clearer handoffs, and faster shipping.\n\nComponent craft and system coherence. Set the quality bar for components and patterns, and pressure-test them by building and feeling the real thing (ideally prototyping with agents), not only speccing.\n\nThe semantic layer that scales. Component naming, usage rules, and decision guidance so the right choice is the easy choice for any designer, engineer, or agent.\n\nAdoption across the design org. Create the standards and workflows that make using the design system the default, not something teams and agents have to seek out.\n\nDocumentation + QA workflows. Own usage documentation and quality check workflows that make quality as hands-off and reliable as possible, including AI-assisted checks for consistency, accessibility, and component usage.\n\nWhat you\u2019ll build first\nIn your first months, you\u2019ll likely:\nBuild and evolve the components we actually need \u2014 prioritizing the highest-leverage gaps, pressure-testing them in real product work, and turning repeated decisions",
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-16T10:47:35.562832-08:00",
@@ -11020,7 +11005,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "Ibotta is seeking a Product Designer for our fast-growing B2B product offering, to join our team and contribute to our mission to Make Every Purchase Rewarding. UX at Ibotta, including designers, content designers, and researchers, works cross-functionally to help millions of shoppers save time and money. You will contribute to all stages of the product development process, from exploring early concepts to refining details before launch. We are looking for someone curious and collaborative who turns research and requirements into clear, usable experiences that help our brand clients, publishers, and internal teams plan, launch, and measure promotions.\nThis position is located in Denver, Colorado as a hybrid position requiring 3 days in office (Tuesday, Wednesday, and Thursday). Candidates must live in the United States.\nNot based in Denver? We will offer a relocation bonus to help make your move to the Mile High City a smooth one.\nWhat you will be doing:\nCollaborate with product managers, engineers, and researchers to define problems and create user-centered solutions, working in a weekly delivery cadence\n\nOwn the design for features and projects within a product area, with direction available when you need it\n\nWork with other designers to apply and extend our design system across B2B products rather than building one-off patterns. Explore AI tooling, and contribute back to the design system.\n\nApply the same rigor, standards, and thoughtfulness for designing B2B products that goes into building consumer-facing products\n\nCommunicate design decisions and rationale to product managers, engineers, and other stakeholders\n\nProvide and solicit constructive feedback that drives quality and effectiveness\n\nDeliver high-quality design assets, including wireframes, prototypes, and design specs\n\nWork across more than one surface as priorities shift, rather than being assigned permanently to a single product\n\nEmbrace and uphold Ibotta's Core Values: Integrity, Boldness, Ownership, Teamwork, Transparency, and A Good Idea Can Come from Anywhere\n\nWhat we are looking for:\n3+ years of experience in a UX design role, with a portfolio showing strong interaction and visual design and problem-solving across complex flows or systems\n\nBachelor's degree in Design, HCI, Psychology, Computer Science, or equivalent practical experience\n\nExperience designing and shipping digital products. B2B experience is a plus, but not required\n\nFamiliarity with design systems and a willingness to contribute to shared patterns\n\nComfort designing for workflows with real operational consequences, where a wrong decision costs a customer money\n\nDeep communication skills and the ability to clearly explain design thinking\n\nFamiliarity with design and prototyping tools (e.g., Figma), collaboration and documentation tools (e.g., Jira, Confluence), and AI tooling\n\nComfort working in a fast-paced environment with some ambiguity, and openness to feedback and iteration\n\nOwns features and projects within a product area with direction available, and is growing toward setting approach independently.\n\nAbout Ibotta (\"I bought a...\")\nIbotta (NYSE: IBTA) is a leading performance marketing platform allowing brands to deliver digital promotions to over 200 million consumers through a network of publishers called the Ibotta Performance Network (IPN). The IPN allows marketers to influence what people buy, and where and how often they shop, all while paying only when their campaigns directly result in a sale. American shoppers have earned over $2.6 billion through the IPN since 2012. The largest tech IPO in history to come out of Colorado, Ibotta is headquartered in Denver, and is continually listed as a top place to work by The Denver Post and Inc. Magazine.\n\nTo learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium.com\n\nAdditional Details:\nThis position is located in Denver, CO and includes competitive pay, flexible time off, benefits package (including me",
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:47:37.302989-08:00",
@@ -11039,7 +11024,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "PermitSF is San Francisco\u2019s citywide permitting transformation initiative. The team partners across departments to simplify permitting, improve the customer experience, modernize business processes, and expand integrated online permitting services through the PermitSF Portal. The initiative is working to make permitting easier, more cost-effective, transparent, predictable, and efficient for residents, businesses, property owners, applicants, and City staff through a customer-centered, unified approach supported by accountable performance management and modern technology.\nJob Description\nUnder the general direction of the PermitSF Portal Program Director, the 1053 Content Designer & User Researcher supports the end-to-end design and improvement of PermitSF services. The position plans and conducts user research, translates evidence into clear and accessible content and service recommendations, and helps ensure that public-facing permitting experiences are understandable, usable, and responsive to the needs of applicants and City staff.\nThis position works across the full implementation lifecycle\u2014from discovery and future-state design through configuration, testing, launch, stabilization, and continuous improvement. The Content Designer & User Researcher collaborates with customers, permit staff, implementation and configuration teams, communications staff, policy and legal partners, subject-matter experts, and the PermitSF platform vendor to identify user needs, simplify complex requirements, and shape consistent end-to-end experiences across permit types.\nThe position produces plain-language content, research plans and findings, journey maps, service blueprints, prototypes, and structured recommendations that inform business-process, configuration, product, and launch decisions. Consistent with the senior level of the 1053 classification, the incumbent works under general direction, exercises independent judgment, leads complex deliverables, and communicates evidence-based recommendations to cross-functional stakeholders.\nThe successful candidate will have a positive, solution-oriented mindset, embrace hard work and challenges with resilience, focus on solutions rather than problems, and contribute constructive energy to the team. They will work collaboratively across technical and non-technical teams, navigate competing priorities, and develop practical, evidence-based solutions that improve the user experience.\nEssential duties of the position include but are not limited to the following:\nPlan and conduct user research with applicants, residents, businesses, permit staff, and other users during discovery, design, testing, launch, and continuous improvement.\nSelect and apply appropriate qualitative and quantitative research methods, including interviews, contextual inquiry, usability testing, surveys, and facilitated feedback sessions.\nSynthesize research findings to identify user needs, current-state pain points, workflow gaps, accessibility barriers, and opportunities for technology or business-process improvement.\nCreate and maintain service blueprints, journey maps, process maps, content models, prototypes, and related artifacts that describe the end-to-end applicant and staff experience.\nDesign, write, edit, and govern clear, concise, accessible, and plain-language content for online forms, instructions, eligibility questions, notifications, help text, confirmation messages, and related public-facing services.\nAnalyze and translate complex legal, policy, technical, and operational requirements into content, functional requirements, and user interaction recommendations that users can understand and act on.\nAdvise implementation and configuration leads on how workflow, form, naming, notification, and business-rule decisions will affect the applicant and staff experience.\nTranslate research evidence and customer pain points into prioritized recommendations, acceptance criteria, user stories, and product feature requests fo",
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-16T10:47:39.171977-08:00",
@@ -11063,7 +11048,8 @@
     "priority": 4,
     "first_seen": "2026-11-16T10:47:40.948129-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "9505755a0957d1ebec28d3c3162555ad": {
     "id": "9505755a0957d1ebec28d3c3162555ad",
@@ -11077,7 +11063,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "Our Mission\nRebuild how the world works, to make institutions work better for the people they serve.\n\nAbout Brain Co.\nBrain Co. builds AI-native operating systems for large, regulated institutions. Each system is built for a specific industry, powered by agents that push real workflows forward. Underneath it all is Atlas, our proprietary platform that keeps customers in control, secure by design, and never locked into one model.\n\nWhy Now\nBrain Co. is entering its next phase of production deployments on a national scale with an elite team built from Palantir, Google, Meta, and Nvidia, and a growing footprint across government, insurance, health, and financial services.\nJoining now means shaping both the company and a new category of applied AI. Every project here ships to production and is expected to create measurable customer value and impact.\nYou'll work alongside exceptional peers on some of the hardest problems in applied AI. It\u2019s the kind of work you'll still be proud of in ten years from now.\n\nAbout The Role\nWe are looking for a passionate and experienced Product Designer. You will play a critical role in shaping both the visual and structural design of complex, AI-driven software products. Your contributions will directly influence the company\u2019s trajectory and the success of our innovative product suite.\n\nWhat You'll Do\nLead end-to-end design efforts, including UX research, interaction design, visual design, prototyping, and testing.\n\nExperiment with new AI design tools like Lovable, v0, and more to define how Product Design\u2019s function on product teams is changing.\n\nCollaborate closely with product managers, engineers, and stakeholders to understand user requirements and translate them into elegant, intuitive solutions.\n\nDesign sophisticated software experiences tailored for enterprise and governmental environments, prioritizing usability, scalability, and aesthetics.\n\nHelp establish and evolve the design system and guidelines to ensure consistency, quality, and efficiency across all products.\n\nAdvocate for the user, continuously seeking insights and data to iterate and refine our product experiences.\n\nQualifications\n10+ years of professional experience in software product design, with a strong portfolio demonstrating elegant solutions for complex enterprise software.\n\nProven experience designing visually appealing, workflow-oriented products that significantly improve user productivity.\n\nExceptional skills in design tools (Figma, Adobe Creative Suite, etc.) and familiarity with prototyping tools (e.g., Rive, Framer).\n\nStrong understanding of UX principles, design thinking, and accessibility standards.\n\nExperience working collaboratively in fast-paced, agile, and multidisciplinary teams.\n\nExcellent communication and presentation skills, with the ability to clearly articulate design decisions and rationale.\n\nPrior experience in AI-driven or data-intensive software solutions is a significant plus.\n\nAt Brain Co., we believe in transparent, data-driven compensation that attracts and retains top talent. Our compensation framework is built on market research from leading platforms including Pave and Carta, ensuring our offers are competitive and equitable across all roles. We regularly benchmark our compensation packages against technology companies to maintain our position as an employer of choice.\n\nCompensation\nWe pay competitively for every role and back that with meaningful equity, because we want the people building Brain Co. to genuinely share in what we build together. Beyond salary and equity, we invest in country-specific benefits because we want our team to feel taken care of, not only compensated.\nThe annual base salary range for this role is $170,000 - $310,000 . We publish this range for every role, as a matter of policy regardless of whether local law requires it. Actual pay will depend on skills, scope, and experience.",
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-16T10:48:08.344550-08:00",
@@ -11096,7 +11082,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "We are rebuilding biotech for the AI era.\n\nWhen a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&D work into years. But that only happens when clean, structured scientific data and AI are built into how science gets done.\n\nBenchling is the AI platform for biotech R&D. Scientists use Benchling to design experiments, capture structured data, and run AI agents and models directly in their workflows. Over 200,000 scientists around the world trust Benchling to power their most important work, from academic labs to Sanofi, Moderna, and more than half of the world's top 50 biopharma.\n\nWe\u2019re building an AI scientist for our customers. We can\u2019t do that if we haven\u2019t built the muscle ourselves. AI fluency is the foundation we build on; it's core to how we work, and we're committed to helping every new hire integrate it into their day-to-day. As part of our interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about and use AI to drive impact in your role. Feel free to reference any tools, platforms, or workflows you use today.\n\nROLE OVERVIEW\nThe Product Design team at Benchling is committed to building user experiences that support the scientists who are solving the world\u2019s most important problems. Our work has a direct impact on making scientific workflows more efficient while improving the quality of that research\u2014ultimately helping to drive the biotech revolution.\n\nWe\u2019re looking for an experienced Product Designer to help build Benchling\u2019s small molecule solution, enabling scientists to discover and develop small molecules and hybrid modalities with the same power and collaboration Benchling brings to biologics. You will own the strategy, roadmap, and execution for this critical product area, working cross-functionally with scientists, engineers, designers, and GTM teams to bring new capabilities to life.\nThis role will also contribute to platform-level initiatives including new homepage and navigation features that tie into the day-to-day work of a chemist.\nAn ideal person for this team will be able to balance customer needs and priorities with scalable, consistent, delightful user experiences in an agile environment.\n\nRESPONSIBILITIES\nWork with Product Management and Engineering teams to define product strategy, scope, and prioritization in a startup-like environment\n\nWork through product problems from definition and opportunity to shipping features to our customers\n\nDesign and prototype multiple ideas quickly to validate product directions\n\nOwn the design for high-impact initiatives from research through implementation\n\nQUALIFICATIONS\n5+ years of experience* driving the design of software products, ideally SaaS, while maintaining a relentless focus on the user\n\nA strong portfolio of relevant design work that conveys an ability to ship successful products\n\nA track record of working with and simplifying complex product architectures or workflows\n\nStrong communication skills and ability to explain the reasoning behind complex decisions\n\nExperience contributing to a design system for complex software products\n\nExperience working with Product Management, Engineers, and fellow Designers in an agile environment\n\nA background with lab work, scientific research, or healthcare will serve you well in this role\u2014but it is not a requirement.\n\n* We've learned that people hesitate to apply without quantifiable years of experience. However, what\u2019s most important to us is the kind of experiences you\u2019ve had and the skills you\u2019ve developed along the way, regardless of how long it took you to get there. Have well over 5 years of experience? That's great! Have fewer than 5 years, but feel you meet the other requirements? That's ok too! Please apply.\n\nHOW WE WORK\nWe offer a flexible hybrid work arrangement that",
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:48:10.088567-08:00",
@@ -11115,7 +11101,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "At Fubo, we understand the importance of finding your next career opportunity. We try our best to keep our process as streamlined as possible, while also being engaging and informative.\nFirst is a 30-minute phone or video interview with a member of the Talent Acquisition team. This is an opportunity for you to learn more about Fubo and the role you are interviewing for, while highlighting your background and skills.\nThe second stage of the process is a one-hour video call with the hiring manager or a senior member of the team. Engineering positions typically require live coding with another engineer.\nThe third and typically final stage of the interview process is a panel-style interview. It\u2019s two-to-five hours, either virtually or in person, and a great chance to meet various team members you will work with closely.\n*Fubo's interview process is subject to change, depending on the role, the level of the position, the location of the position, and other factors.\nWe have been made aware of recent internet scams involving individuals falsely stating that they are recruiting for positions at Fubo and asking for personal information and/or money as part of the interview process. Our recruiters will only contact you from an official company email address ending in @fubo.tv. They will not request funds or payment in any form or personal information such as photos of government-issued identification. If you receive a suspicious email, we suggest you mark the email as junk or spam so that your email provider will block them.\nWe're ranked as one of The Americas' Fastest Growing Companies.\nJoin the team that's changing the way people watch live TV and",
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-11-16T10:48:11.996961-08:00",
@@ -11134,7 +11120,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "3+ Years experience \u2022 Flexible: Monthly Salary or Contract-based\nAbout the role\nAt NaxtBrand, design is our primary competitive moat. We believe that elite software is defined by uncompromising visual craft, intuitive information architecture, and fluid motion design.\nIn this role, you will take end-to-end design ownership across high-converting marketing landing pages, complex enterprise SaaS dashboards with dense financial charts, and modern banking and fintech mobile apps.\nYou will bridge static UI with dynamic motion graphics\u2014designing micro-interactions, state transitions, and interactive prototypes in Figma and Framer that make financial and data-dense platforms feel effortless and modern.\nDesign high-converting marketing websites and landing pages with clear typographic hierarchy, elegant visual rhythm, and strategic conversion pathways that maximize qualified user actions.\nArchitect complex SaaS, fintech, and digital banking dashboards featuring dense financial charts, multi-state interactive data tables, and responsive analytics views that simplify complex workflows.\nCraft modern iOS and Android mobile app interfaces for fintech, digital banking, wallet systems, and investment platforms with intuitive user journeys and polished, native-feeling interactions.\nBuild and maintain scalable design systems in Figma utilizing advanced auto-layout, comprehensive token structures, component variants, and multi-brand variables for rapid cross-team iteration.\nCreate high-fidelity interactive prototypes in Figma and Framer with fluid micro-animations, spring curves, and state transitions to communicate exact interactive behavior to engineering teams.\nCollaborate closely with frontend engineers throughout implementation, conducting thorough design QA to guarantee 100% pixel-perfect fidelity and responsive consistency across all devices.\n3+ years of demonstrated professional experience in product design and UI/UX with an exceptional portfolio showcasing shipped web applications, digital products, and production design systems.\nProven expertise in designing data-dense dashboards, complex financial charts, and modern fintech or mobile banking apps with deep attention to information density, typography, and visual clarity.\nAdvanced mastery of Figma, including nested component architectures, responsive auto-layout structures, variable modes, design token management, and interactive prototype simulation.\nStrong practical command of interactive motion design, dynamic micro-interactions, and prototype animations using tools like Framer, After Effects, or Protopie to bring static interfaces to life.\nDeep understanding of conversion rate optimization (CRO), visual psychology, grid systems, dark-mode contrast ratios, and typographic balance to create compelling, high-converting digital journeys.\nSolid grounding in modern web layout constraints, the CSS box model, flexbox, and Tailwind CSS utility frameworks to ensure smooth, efficient collaboration and seamless developer handoffs.\nFlexible compensation structures: Choose between a competitive full-time monthly salary or high-yield contract-based agreements tailored to your workflow, schedule, and availability.\nPerformance milestone incentives: Earn direct project bonuses and bi-annual financial rewards based on product delivery excellence, client satisfaction, and shipped feature impact.\n100% remote working freedom: Work from anywhere with flexible self-managed hours and complete autonomy, prioritizing creative flow, design craftsmanship, and tangible project results.\nDirect high-impact ownership: Architect end-to-end design systems and fintech interfaces for scaling tech products, working directly with founders with zero corporate bureaucracy.\nStreamlined asynchronous culture: Enjoy minimal meetings, protected deep work blocks, and swift feedback cycles designed to let you focus on what you do best\u2014designing world-class software.\nApplication process Apply for UI/UX & Product Designer\nSubmit ",
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-16T10:48:13.874009-08:00",
@@ -11153,7 +11139,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "CapTech is a national technology and management consulting firm. Our Government portfolio designs, builds, and modernizes the systems that government organizations depend on to serve residents: benefits and claims platforms, case management, data and analytics, and the digital services citizens and employers actually touch. We are a delivery-first firm: the people who sell the work stand next to the people who do it, our consultants are employees rather than subcontractors, and our reputation in this market rests on programs that go live and stay live.\nJob Description\nCapTech's Customer Experience (CX) team seeks a Product Designer with a track record of designing digital experiences that are intuitive, impactful, and accessible. As a Product Designer, you help influence user behavior and strengthen brand-to-customer relationships by contributing to the delivery of elegant and engaging digital products and services. You will partner with project managers, user researchers, senior product designers, content strategists, and developers to bring end-to-end digital experiences to life. Your work will be mostly hands-on and focused on client delivery. You'll grow your skills alongside experienced design leaders and contribute to the growth of our practice.\nQualifications\nCreating personas, customer journey maps, wireframes, responsive visual designs, and interactive prototypes that follow interaction design and usability best practices\nWorking with the project team to deliver high-quality client work and sharing knowledge with peers\nPresenting design concepts and rationale to clients and internal teams clearly and persuasively\nProducing clean, concise presentations that explain the reasoning behind your designs\nGiving constructive feedback on experience design, including interactions, information architecture, content, layout, and alignment with goals and brand\nSupporting competitive assessments and researching design and technology trends\nContributing to the evolution of CX methods, capabilities, approaches, and tools\nAttending and taking part in CX meetings and trainings\nTaking part in professional development and industry involvement\nApplying user interface design best practices across platforms, including web, OS-native, and embedded apps\nAdvocating for accessible experience and visual design with clients and team members\nExploring AI-powered design tools and workflows, keeping up with emerging technologies, and trying new approaches to improve creativity, efficiency, and impact\nQualifications\n3\u20135 years of professional experience in product, UX, or interaction design, ideally in a design consultancy or digital agency\n4-year degree in design, HCI, or a similar field preferred\nAble to manage multiple workstreams at once while delivering on time and within scope\nExperience in several areas of human-centered design, such as user research, experience strategy, information architecture, experience design, content strategy, and customer insight\nStrong written, verbal, conceptual, and visual communication skills\nProficiency in Figma is required, including designing developer-ready visual assets and UI components. Familiarity with auto layout, component libraries, variables, and design tokens is preferred.\nExperience with AI-powered prototyping tools (such as Claude Code, Claude for Design, Lovable, UX Pilot, Figma Make, or similar) is a plus\nProficiency with PowerPoint, Illustrator, Photoshop, and InDesign is a plus\nFamiliarity with user research tools (e.g., Optimal Workshop, UserTesting, SurveyMonkey) is a plus\nWorking knowledge of Agile product development lifecycles and practices is a plus\nFamiliarity with WCAG 2.2 accessibility standards and inclusive design principles is a plus\nWe want everyone at CapTech to be able to envision a lasting and rewarding career here, which is why we offer a variety of career paths based on your skills and passions.\u00a0 You decide where and how you want to develop, and we help get you there with customi",
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:48:15.643845-08:00",
@@ -11172,7 +11158,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "Job Summary\nAs a Product Designer at WebstaurantStore, you'll help improve how our customers find, purchase, and manage the products they need to run their businesses. You'll work closely with product managers, developers, and other teams to understand customer problems and design experiences that make their work easier.\nWe're looking for someone who thinks critically, asks good questions, and takes initiative. Someone who is comfortable when a problem isn\u2019t fully defined, can look beyond the initial request, use research and data to inform decisions, and move quickly without sacrificing quality or getting caught up in unnecessary process.\nResponsibilities\nOwn design work from understanding the problem through delivery and iteration.\nUse customer research, feedback, and data to identify opportunities, inform decisions, and evaluate results.\nFrame ambiguous problems, ask the questions that clarify them, and challenge assumptions to help teams focus on solving the right problems.\nCreate user flows, wireframes, mockups, and prototypes to communicate solutions.\nCollaborate with product owners, developers, and other partners to make decisions and move work forward.\nDesign clear, usable experiences that meet accessibility standards, account for edge cases, and are consistent with established patterns.\nHelp improve the quality of existing experiences, including how we audit, prioritize, and fix usability issues.\nContribute to our design system, share feedback that improves team quality, and support design through development.",
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-16T10:48:17.387542-08:00",
@@ -11191,7 +11177,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "Cross-Functional Partnership: Partnering with Marketing, Digital and other teams to bring new products, shops and campaigns to life.\nCreative Perspective: Staying sharp on design trends, competitive moves and cultural shifts, and bringing what\u2019s relevant back to the team.\nRequirements\n3\u20135 years of experience in graphic, brand or environmental design. Retail or hospitality experience is a plus but not mandatory.\nProficiency in Adobe Creative Suite and Figma . Working knowledge of Adobe After Effects or Adobe Premiere Pro is a plus.\nA portfolio of projects you\u2019ve led from idea to finished work.\nBased in New York, working mainly from our Brooklyn office.\nBlank Street, in good faith, believes that the posted salary range is accurate for this role in New York City at the time of posting. Our salary ranges are rooted in the desire to pay competitively relative to our organization size and industry, reflecting just one part of the total compensation package. Blank Street may pay more or less than the posted range based on factors such as relevant experience and skills, qualifications and location, among others. This range may be modified in the future.\nEquity package [only for roles at HQ-office, L.5 and above]\n15 days of paid annual leave (on top of company-observed holidays and sick time)\nThree health plan options, with full coverage available for two employee-only tiers\nExclusive access to our coveted Regulars program \u2013 yes, that means free coffee, matcha and more! \u2615\ufe0f\nInterested in building your career at Blank Street? Get future opportunities sent straight to your email.\n*",
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-11-16T10:48:19.123019-08:00",
@@ -11216,7 +11202,7 @@
     "first_seen": "2026-11-16T10:48:21.039935-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "090200d7c22f7fea3540d642c9a5f785": {
     "id": "090200d7c22f7fea3540d642c9a5f785",
@@ -11255,7 +11241,7 @@
     "first_seen": "2026-11-16T10:48:24.676616-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "805f05b8d856a1cb17946fc4e23a001d": {
     "id": "805f05b8d856a1cb17946fc4e23a001d",
@@ -11275,7 +11261,7 @@
     "first_seen": "2026-11-16T10:48:26.547467-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "4039a1ee60f04c0110f62f0c5e312a04": {
     "id": "4039a1ee60f04c0110f62f0c5e312a04",
@@ -11333,7 +11319,7 @@
     "first_seen": "2026-11-16T10:48:31.958877-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "ead4a77a39508cef4261220e8185245e": {
     "id": "ead4a77a39508cef4261220e8185245e",
@@ -11353,7 +11339,7 @@
     "first_seen": "2026-11-16T10:48:33.816206-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "08ddebc0300c0cdbc59b3f852a61287b": {
     "id": "08ddebc0300c0cdbc59b3f852a61287b",
@@ -11373,7 +11359,7 @@
     "first_seen": "2026-11-16T10:48:35.688569-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "a2453004d23a568738557885b116ce72": {
     "id": "a2453004d23a568738557885b116ce72",
@@ -11393,7 +11379,7 @@
     "first_seen": "2026-11-16T10:48:37.568034-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "cd04c7f1a7835e0568347eee8ae0e063": {
     "id": "cd04c7f1a7835e0568347eee8ae0e063",
@@ -11489,7 +11475,7 @@
     "first_seen": "2026-11-16T10:49:12.184015-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "fceea67de4aa25e7d389b7fbfc95d352": {
     "id": "fceea67de4aa25e7d389b7fbfc95d352",
@@ -11583,6 +11569,25 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-11-16T10:49:21.293028-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "8da0db5d5d95b47f4d2332a750275141": {
+    "id": "8da0db5d5d95b47f4d2332a750275141",
+    "title": "Product Designer, Growth",
+    "company": "Figma",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "salary": "Not listed",
+    "url": "https://boards.greenhouse.io/figma/jobs/6251104004?gh_jid=6251104004",
+    "source": "Figma",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "description": "We\u2019re looking for an experienced product designer to join our Growth & Monetization area\u2014a cross-functional space that spans core product experiences like onboarding, account management, admin tooling, billing, and beyond. As a designer on this team, you\u2019ll shape experiences that fuel Figma\u2019s growth\u2014from how users discover value to how organizations manage their accounts and scale over time. You\u2019ll partner closely with cross-functional teams to design intuitive, high-impact solutions that balance user needs with business goals, and help customers expand their use of the Figma ecosystem. This role calls for a systems thinker and skilled visual designer who can move fluidly between strategy, storytelling, and execution. You\u2019ll simplify complex workflows, contribute to product strategy, and design scalable systems that strengthen the relationship between users and Figma\u2014always with a strong sense of craft and user advocacy.\nThis is a full time role that can be held from one of our US hubs or remotely in the United States.\nWhat you\u2019ll do at Figma:\nContribute to overall strategy and decision-making about product direction\nHelp deliver and refine clear storytelling around product needs and opportunities\nWork cross-functionally with product management, engineering, design, and research peers\nCreate and iterate on flows, prototypes, and high-fidelity visuals, as well as provide thoughtful feedback for others doing the same so you can all do your best work\nDesign and ship high-quality product improvements\nContribute to our design org\u2019s culture by participating in design critiques, mentoring peers, and sharing best practices across teams\n3+ years of work experience designing UX and UI for a software product of similar scale and complexity\nGreat attention to detail and a strong eye for visual craft, such as composition, typography, and layout\nFluency in interaction design and prototyping, to express and refine nuanced design decisions\nA track record of independently driving design processes from discovery through launch, guiding decisions with structured thinking, clearly articulated rationale, and user-centered research\nExperience designing for multiple user types (e.g., individual users, admins, buyers) and\u00a0using experimentation and metrics to inform design decisions\nWhile it\u2019s not required, it\u2019s an added plus if you also have:\nExperience designing in growth, monetization, or enterprise environments\nA generative mindset and excitement for uncovering new opportunities across the product ecosystem\nAt Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you\u2019re excited about this role but your past experience doesn\u2019t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.\nJob level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location.\nFigma offers equity to employees, as well as a competitive package of additional benefits, including health, dental, and vision coverage; retirement benefits with company contributions; parental leave and reproductive or family planning support; mental health and wellness benefits; and paid time off. Figma provides paid sick leave, holidays, and other leave benefits in compliance with applicable federal, state, and local laws, including the requirements of the Washington Minimum Wage Act and related regulations. Exempt employees are eligible for employer\u2011provided paid flexible PTO in addition to flexible paid sick leave. PTO is subject to manager approval. Additional benefits may include company recharge days, cell phone and home internet reimbursements, and a number of lifestyle spe",
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-11-16T18:14:56.237458-08:00",
     "status": "active",
     "applied_at": null
   }
