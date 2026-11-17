@@ -1,62 +1,257 @@
 [
   {
     "item": {
-      "company": "Corma",
-      "amount": "$1.0B",
+      "company": "PROTEGEY",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": "LvlUp Ventures",
+      "location": null,
+      "blurb": "PROTEGEY Secures Pre-Seed Funding. PROTEGEY secures pre-seed funding backed by LvlUp Ventures and angel investors to expand its AI-powered fraud intelligence and compliance platform in Africa.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/protegey-secures-pre-seed-funding-to-expand-fraud-intelligence-compliance-in-africa/",
+      "priority": 10
+    },
+    "remind_at": "2026-11-17T03:27:10.926342-08:00"
+  },
+  {
+    "item": {
+      "company": "Newsbound",
+      "amount": "$3.0M",
+      "stage": "Pre-Seed",
+      "investors": "Joule Ventures, Mind Ventures",
+      "location": null,
+      "blurb": "Newsbound Raises $3M Pre-seed. Newsbound raises $3 million in a pre-seed round led by Joule Ventures and State of Mind Ventures to automate PR operations with its AI platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/newsbound-raises-3m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-11-17T03:27:29.114021-08:00"
+  },
+  {
+    "item": {
+      "company": "Scoutz",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Scoutz Raises $600,000 Pre-seed. Scoutz raises $600,000 in a pre-seed round led by Delaware Seed to expand its AI-powered basketball recruiting platform and enter new sports categories.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/scoutz-raises-600000-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-11-17T03:27:47.154209-08:00"
+  },
+  {
+    "item": {
+      "company": "Lemonpeel",
+      "amount": "$1.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Lemonpeel Raises $1M Pre-seed. Lemonpeel raises $1M pre-seed round led by Shastra VC to develop its multi-agent AI video production infrastructure for enterprise creative teams.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/lemonpeel-raises-1m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-11-17T03:28:05.314673-08:00"
+  },
+  {
+    "item": {
+      "company": "Vision Makers",
+      "amount": "$4.0M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Vision Makers Raises $4M in Funding. Vision Makers raises $4M in cumulative funding across pre-seed and seed rounds at a $20M valuation to scale its AI-powered Web3 intelligence platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/vision-makers-raises-4m-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-11-17T03:29:20.058453-08:00"
+  },
+  {
+    "item": {
+      "company": "Lemonpeel",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": "Shastra VC&nbsp",
+      "location": null,
+      "blurb": "AI video production startup Lemonpeel raises $1 Mn in pre-seed round led by Shastra VC - Entrackr. AI video production startup Lemonpeel raises $1 Mn in pre-seed round led by Shastra VC&nbsp;&nbsp;Entrackr",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ1p2a2drbFFzVVJKam95Z1A1U2hmekV3ODVVemNad2d4MkdheWh0bUtzeU5oVGl3VF9MTW9DRW5wbmVFVWdjU1BXYlhsaU41VXNEcTE0cjFtc3lfclhlZmtVcl9feUZLSmtwR0EwS0Q3R1VmLU9rWGlwTVVYY2JuRkc0S1ptWG1hLVF0N0pWN2QyNWRwUVBna1NiX2pNV3BLbHVydW85Z1U3dDF0aTVzUFdCZG82Ni00Mnh0LTljR0UtZ9IBwgFBVV95cUxQQ1p2a2drbFFzVVJKam95Z1A1U2hmekV3ODVVemNad2d4MkdheWh0bUtzeU5oVGl3VF9MTW9DRW5wbmVFVWdjU1BXYlhsaU41VXNEcTE0cjFtc3lfclhlZmtVcl9feUZLSmtwR0EwS0Q3R1VmLU9rWGlwTVVYY2JuRkc0S1ptWG1hLVF0N0pWN2QyNWRwUVBna1NiX2pNV3BLbHVydW85Z1U3dDF0aTVzUFdCZG82Ni00Mnh0LTljR0UtZw?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-11-17T03:29:37.972820-08:00"
+  },
+  {
+    "item": {
+      "company": "JohnAIC",
+      "amount": null,
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "AI infra startup JohnAIC raises $1.9 Mn in pre-seed round - Entrackr. AI infra startup JohnAIC raises $1.9 Mn in pre-seed round&nbsp;&nbsp;Entrackr",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmRIMmFheWdjc3lqM3VFR0llV3hqeEl0Rmo3WlhRZVFQM2JSelNJZ05qRl9ReDNjZnpKU3RGSjdZZ2lLZHAyY0p4eVZGcWNsajg0c3ZsNUh5RTVxRHR5R2Q0d0xwOXozSDRpaXo4eXhpeFU3a1JuTVBaNGtBX0N2UTVqX2tnMDVjdjRoRE15YnNYY1BZZm5vTUF30gGaAUFVX3lxTE9iZEgyYWF5Z2NzeWozdUVHSWVXeGp4SXRGajdaWFFlUVAzYlJ6U0lnTmpGX1F4M2NmekpTdEZKN1lnaUtkcDJjSnh5VkZxY2xqODRzdmw1SHlFNXFEdHlHZDR3THA5ejNINGlpejh5eGl4VTdrUm5NUFo0a0FfQ3ZRNWpfa2cwNWN2NGhETXlic1hjUFlmbm9NQXc?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-11-17T03:29:55.871281-08:00"
+  },
+  {
+    "item": {
+      "company": "Moneiva",
+      "amount": "$3.1M",
+      "stage": "Seed",
+      "investors": "Reformation Partners",
+      "location": null,
+      "blurb": "Moneiva Raises $3.1M Seed. Moneiva raises $3.1 million in seed funding led by Reformation Partners to scale its AI platform for complex logistics and supply chain automation.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/moneiva-raises-3-1m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-17T03:30:13.727218-08:00"
+  },
+  {
+    "item": {
+      "company": "Bevado",
+      "amount": "$10.0M",
+      "stage": "Seed",
+      "investors": "RET Ventures",
+      "location": null,
+      "blurb": "Bevado Raises $10M Seed. Bevado raises $10 million in a seed round led by RET Ventures to expand its AI-native property management communication platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/bevado-raises-10m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-17T03:30:31.753475-08:00"
+  },
+  {
+    "item": {
+      "company": "Asynchronics",
+      "amount": "$3.1M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Asynchronics raises $3.1M seed to simulate satellites before launch - Dealroom. Asynchronics raises $3.1M seed to simulate satellites before launch&nbsp;&nbsp;Dealroom",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2paMkZabWV4M3NCaUYtb0MweFFLWU5wVWxIeW1pUnhTQTM0SzNKVW9hRExwWjcyazdYcV9RdDdwakV6dzczZHNGcUd6dFZTbTJjNVpqT1JGYUlZa0djVXN0WVJZT2wySDZMMmNKdElDcVE0eExTRXh4MTV4YXplcS1mdVBiRTlMSUZha3FOeEZxNS04UjVFSGpEOUVGXzl6NFE?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-11-17T03:30:49.744862-08:00"
+  },
+  {
+    "item": {
+      "company": "Bharat Semi",
+      "amount": null,
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Semiconductor Startup Bharat Semi Raises $24 Mn Seed Funding - BW Disrupt. Semiconductor Startup Bharat Semi Raises $24 Mn Seed Funding&nbsp;&nbsp;BW Disrupt",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUNJejhVQ1VwWEdLa0h3X1VSdUNoSXlyRkNJMmFWX0lRNDdKNGVBQXZkdTI4VnNvVzB4RGZIY3Bxc0VqbjY0YW1pSzVQSHZ2Q3E3bkpUVmpzLWMxRXRaSjRxallJOUNJZVlDdk9raUxIOHJZazAtaEpsOE5GYy13LWNucjBLZ2d5WlN6ejRNMHdwZERXLUNwbWwtT2dwa2JQdkE?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-11-17T03:31:40.295942-08:00"
+  },
+  {
+    "item": {
+      "company": "Knit Health",
+      "amount": "$35.0M",
       "stage": "Series A",
       "investors": "NEA",
       "location": null,
-      "blurb": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months. Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "blurb": "Knit Health Raises $35M Series A. Knit Health raises $35M in a Series A round led by NEA to accelerate the commercial deployment of its Med-BEAM AI world model for healthcare.",
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/knit-health-raises-35m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-11-16T18:45:15.902600-08:00"
+    "remind_at": "2026-11-17T03:32:17.830446-08:00"
   },
   {
     "item": {
-      "company": "Island",
+      "company": "Olyv",
       "amount": null,
+      "stage": "Series B",
+      "investors": null,
+      "location": null,
+      "blurb": "Lending Fintech Startup Olyv Raises $6 Mn, Takes Series B To $30 Mn - BW Disrupt. Lending Fintech Startup Olyv Raises $6 Mn, Takes Series B To $30 Mn&nbsp;&nbsp;BW Disrupt",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZE9ueXJJcW00NnRhMWZCQndlYzlBZ19FVWxvVWtOZ2pmbmhQeFBRdGRTcjNEd3oxZVF5LTBpbDVKTmVBNjJOX2tRZUNxYWZLMnNwVE0xbnVEck9yWUp6UTZMUG1BT3hKbGRiNXp4Q1RPZVVaRUdfVTE5OTJhaDktZnk4UEIyVjk4NndRSVNXelIxbkt5d05wWjZEdEZwZ2s2OGNWekVOVl8?oc=5",
+      "priority": 7
+    },
+    "remind_at": "2026-11-17T03:32:35.797770-08:00"
+  },
+  {
+    "item": {
+      "company": "Accountable",
+      "amount": "$20.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Island is a new screen-time app that turns staying off your phone into a game. YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
+      "blurb": "Accountable Raises $20M in Funding. Accountable raises $20M in total funding to build its new tax filing and civic transparency platform.",
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/accountable-raises-20m-seed/",
       "priority": 3
     },
-    "remind_at": "2026-11-16T18:45:19.392863-08:00"
+    "remind_at": "2026-11-17T03:32:53.686379-08:00"
   },
   {
     "item": {
-      "company": "Noeri",
-      "amount": "$110.0M",
-      "stage": null,
-      "investors": "NEA, Menlo Ventures, Seattle-based Madrona Ventures",
-      "location": "Seattle",
-      "blurb": "Noeri raises $110M to help companies build living AI systems that self-improve over time. Noeri Inc., a startup developing artificial intelligence systems that continuously improve their outputs as they learn from an organization\u2019s data and work, is launching with $110 million in funding. Today\u2019s round was led by Menlo Ventures and saw participation from Seattle-based Madrona Ventures, Kindred Ventures, Wing Venture Capital and NEA. Snowflake and Cisco Ventures also [&#8230;]\nThe post Noeri rais",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
-      "priority": 3
-    },
-    "remind_at": "2026-11-16T18:45:22.081039-08:00"
-  },
-  {
-    "item": {
-      "company": "BlueMatrix Acquires Aiera",
-      "amount": null,
+      "company": "Duetti",
+      "amount": "$665.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "BlueMatrix Acquires Aiera to Bring Governed AI Distribution to Investment Research. Your research is feeding AI models, and nobody\u2019s checking who gets credit. BlueMatrix just bought NYC\u2019s Aiera to fix that. The goal: every report carries its author, its rights, and an audit trail from the first draft to the final query.",
+      "blurb": "Duetti Raises $665M Growth Capital. Duetti raises $665M in growth capital led by Carlyle to expand its music catalog investment platform and proprietary data technology for independent artists.",
       "founders": [],
-      "source": "AlleyWatch",
-      "url": "https://www.alleywatch.com/2026/11/bluematrix-acquisition-aiera-ai-research-distribution-financial-research-governance/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/duetti-raises-665m-growth-capital/",
       "priority": 3
     },
-    "remind_at": "2026-11-16T18:45:28.655899-08:00"
+    "remind_at": "2026-11-17T03:33:11.746306-08:00"
+  },
+  {
+    "item": {
+      "company": "Mavria",
+      "amount": "$130.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Woodlands startup Mavria raises $130M to mass-produce AI data centers - InnovationMap. Woodlands startup Mavria raises $130M to mass-produce AI data centers&nbsp;&nbsp;InnovationMap",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWGZWWm1tUmttYUpEd0o1UVhoUE1NT1VObnYzdFF5Qi1kSmZVV1I1STZQbFRwLVRVMzg1WHhnVVFwaEh5ei1fYVRzeXVzY21kUWd2RzhSZ3BqVGlXUkZIYXRSSE1vcFBzZEJWMTFDNGs2X0ZUTHVzNS1LQnA0SzYzZGoyYw?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-11-17T03:33:29.767327-08:00"
+  },
+  {
+    "item": {
+      "company": "Bedrock Energy",
+      "amount": "$24.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Exclusive: Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings - TechCrunch. Exclusive: Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings&nbsp;&nbsp;TechCrunch",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNnBJM0hWdkhObHNmNi1vRHh5WXpSck45MTJBVERGbVRjOTFGQ2JoTVhpSjU0cEZrb3pucEQ4d0Q3WWF6RjZ4dTJCbG9QbUVOSUtDUGkydE5rVklDenVzS3NrbkJFNTd2bHEyTm1XQWh0aUZjMG1OVW8wZ0xENnhrQ3FvY0ctLVQtb1Izc0czclFXbEpLSG42b183QnlpT2l5RG5ha1ByYXVuWno5NDA2eFRyUklWN0NET1hxYmI4RUVJYXN3c2dKeDNoVTI?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-11-17T03:34:20.401743-08:00"
   }
 ]

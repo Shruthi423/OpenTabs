@@ -1,19 +1,87 @@
 [
   {
     "job": {
-      "title": "Product Designer, Growth",
-      "company": "Figma",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "url": "https://boards.greenhouse.io/figma/jobs/6251104004?gh_jid=6251104004",
+      "title": "Digital Experience Designer",
+      "company": "Superworq",
+      "location": "Remote",
+      "url": "https://superworq.com/jobs/USA1-C93DA8AC8728F21F7F3AE68A96515C12",
       "salary": "Not listed",
-      "description": "",
+      "description": "Group O is seeking a Digital Experience Designer to support digital design for business. This hands-on contract opportunity combines exceptional visual design, digital merchandising, visual storytelling, and practical UX/UI execution. The designer will elevate customer-facing responsive web experien",
       "posted_at": "Recently",
-      "source": "Figma",
+      "source": "OpenDoors",
       "relevant": true,
       "is_new_grad": false,
-      "is_big_tech": true,
+      "is_big_tech": false,
       "visa": null
     },
-    "remind_at": "2026-11-16T18:44:56.681829-08:00"
+    "remind_at": "2026-11-17T03:26:31.656439-08:00"
+  },
+  {
+    "job": {
+      "title": "UX Designer",
+      "company": "Aviture",
+      "location": "Omaha, NE",
+      "url": "https://uiuxjobsboard.com/job/1682526-ux-designer-omaha-ne-united-states",
+      "salary": "Not listed",
+      "description": "",
+      "posted_at": "1h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-17T03:26:33.325156-08:00"
+  },
+  {
+    "job": {
+      "title": "Growth & Brand Designer",
+      "company": "MAGIC AI",
+      "location": "London",
+      "url": "https://uiuxjobsboard.com/job/1683726-growth-brand-designer-london-united-kingdom",
+      "salary": "Not listed",
+      "description": "",
+      "posted_at": "1h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-17T03:26:35.106500-08:00"
+  },
+  {
+    "job": {
+      "title": "UX Product Designer II",
+      "company": "HCSC",
+      "location": "Chicago, IL",
+      "url": "https://uiuxjobsboard.com/job/1684126-ux-product-designer-ii-chicago-il-united-states",
+      "salary": "$76,600 - $138,500",
+      "description": "",
+      "posted_at": "3h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-17T03:26:36.862151-08:00"
+  },
+  {
+    "job": {
+      "title": "Brand & Motion Designer",
+      "company": "Constellation",
+      "location": "New York",
+      "url": "https://uiuxjobsboard.com/job/1682026-brand-motion-designer-new-york-united-states",
+      "salary": "$95,000 - $115,000",
+      "description": "",
+      "posted_at": "3h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-17T03:26:38.664691-08:00"
   }
 ]

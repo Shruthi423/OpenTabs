@@ -1,5 +1,90 @@
 [
   {
+    "id": "8bb54fe34b10c40945fedaa5b3f5e25c",
+    "title": "Brand & Motion Designer",
+    "company": "Constellation",
+    "location": "New York",
+    "salary": "$95,000 - $115,000",
+    "url": "https://uiuxjobsboard.com/job/1682026-brand-motion-designer-new-york-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "3h",
+    "priority": 3,
+    "first_seen": "2026-11-17T02:56:37.862642-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "7d26079047d21e58dc1cb8e2fbeb95f1",
+    "title": "UX Product Designer II",
+    "company": "HCSC",
+    "location": "Chicago, IL",
+    "salary": "$76,600 - $138,500",
+    "url": "https://uiuxjobsboard.com/job/1684126-ux-product-designer-ii-chicago-il-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "3h",
+    "priority": 4,
+    "first_seen": "2026-11-17T02:56:36.107180-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "c7118f62e131ea0ae5b24671381558f3",
+    "title": "Growth & Brand Designer",
+    "company": "MAGIC AI",
+    "location": "London",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1683726-growth-brand-designer-london-united-kingdom",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "1h",
+    "priority": 4,
+    "first_seen": "2026-11-17T02:56:34.325678-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "f2f0f75f007baa8527e86dd65c0d7c64",
+    "title": "UX Designer",
+    "company": "Aviture",
+    "location": "Omaha, NE",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1682526-ux-designer-omaha-ne-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "1h",
+    "priority": 4,
+    "first_seen": "2026-11-17T02:56:32.671813-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "85a4f4d02241a0807f258463ab8694a2",
+    "title": "Digital Experience Designer",
+    "company": "Superworq",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://superworq.com/jobs/USA1-C93DA8AC8728F21F7F3AE68A96515C12",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-17T02:56:31.111321-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "8da0db5d5d95b47f4d2332a750275141",
     "title": "Product Designer, Growth",
     "company": "Figma",
@@ -115,7 +200,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-16T10:49:12.184015-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "bcdf229dc8e3d18e019d0baea650251e",
@@ -199,7 +285,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-16T10:48:37.568034-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "08ddebc0300c0cdbc59b3f852a61287b",
@@ -215,7 +302,8 @@
     "posted_at": "Recently",
     "priority": 2,
     "first_seen": "2026-11-16T10:48:35.688569-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ead4a77a39508cef4261220e8185245e",
@@ -231,7 +319,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:48:33.816206-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "1301e9ec070c21220057ad80347ffa0f",
@@ -247,7 +336,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:48:31.958877-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "ec35db63f7f9c63f4399b6e63c4ec09f",
@@ -297,7 +387,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:48:26.547467-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "321a7b6119231644fd924186cc9db2e9",
@@ -313,7 +404,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-16T10:48:24.676616-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "090200d7c22f7fea3540d642c9a5f785",
@@ -346,7 +438,8 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-11-16T10:48:21.039935-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3354b7c5c98f5d4dda2cd5c011046284",
@@ -548,7 +641,8 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-16T10:47:33.688755-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "72d323bbc272389bd31627446d3385a3",
@@ -580,7 +674,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-16T10:47:30.061119-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "f8794f32bd6f2a4f2e0ca64888c24af6",
@@ -4141,23 +4236,6 @@
     "jd": "yes"
   },
   {
-    "id": "f09164c60377a79d4fa64a7840beecb0",
-    "title": "Product Management Intern, End User Experience - Winter 2027",
-    "company": "1Password",
-    "location": "Remote",
-    "salary": "Not listed",
-    "url": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003",
-    "source": "Startups.Gallery",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-10-26T08:11:55.029274-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "0bd42e635aacecd0ff0c23a3d956ff5d",
     "title": "Product Designer",
     "company": "Neighbor",
@@ -5344,23 +5422,6 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-10-19T08:47:50.543289-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "2869c468032fd1ed5a6aa51f496c9618",
-    "title": "User Experience Designer - Online",
-    "company": "The Home Depot",
-    "location": "Atlanta, United States",
-    "salary": "Not listed",
-    "url": "https://careers.homedepot.com/job/24020850/user-experience-designer-online-atlanta-ga",
-    "source": "OpenDoors",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 4,
-    "first_seen": "2026-10-19T08:47:48.952454-07:00",
     "status": "active",
     "jd": "yes"
   },

@@ -416,7 +416,7 @@
     "first_seen": "2026-09-22T08:06:23.035073-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "59befdba3968c7ac0efae46fa3fc4e74": {
@@ -1024,7 +1024,7 @@
     "first_seen": "2026-09-26T09:21:50.447862-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "2902d8a345ff5337c71f312e2d5ddbfb": {
@@ -1045,7 +1045,7 @@
     "first_seen": "2026-09-26T17:34:54.255684-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "32725013c67fe8cb2d1a5efa16103d13": {
@@ -4758,10 +4758,10 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-10-19T08:47:48.952454-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-11-16T18:14:04.597288-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
+    "dead_strikes": 2
   },
   "0cec3f1f61332c2cc9d5e67c15aa57d9": {
     "id": "0cec3f1f61332c2cc9d5e67c15aa57d9",
@@ -4907,7 +4907,7 @@
     "first_seen": "2026-10-19T08:48:00.296952-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "d4e66886065232968f49b6c92f4ea021": {
@@ -4928,7 +4928,7 @@
     "first_seen": "2026-10-19T08:48:01.970655-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "12c1557107821fd0862e0bbfaac442bd": {
@@ -4949,7 +4949,7 @@
     "first_seen": "2026-10-19T08:48:03.638816-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "87367e6dd922dea5f7016e565c368567": {
@@ -4970,7 +4970,7 @@
     "first_seen": "2026-10-19T08:48:05.210532-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "59a7bebf6b4c4be60777a35bd4dfcf5f": {
@@ -4991,7 +4991,7 @@
     "first_seen": "2026-10-19T08:48:06.963664-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "f8f901f11a66ba94a86e3787d47b346a": {
@@ -5012,7 +5012,7 @@
     "first_seen": "2026-10-19T08:48:08.509987-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "fa43ab49a79ab5a2ffb7a1d74aa6577b": {
@@ -5033,7 +5033,7 @@
     "first_seen": "2026-10-19T08:48:10.236330-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "0bbe5847c1024db43a1dc075d556727a": {
@@ -5054,7 +5054,7 @@
     "first_seen": "2026-10-19T08:48:11.928972-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "caae30b460a0e79b35fa96f576c16cd3": {
@@ -5075,7 +5075,7 @@
     "first_seen": "2026-10-19T08:48:13.493764-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "e4aa412cf5a829cac66d5df4028c9f3e": {
@@ -5096,7 +5096,7 @@
     "first_seen": "2026-10-19T13:50:42.727591-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "bbdff515791a635cfcbf67988a22d3fa": {
@@ -5117,7 +5117,7 @@
     "first_seen": "2026-10-19T13:50:44.311471-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "da8ae35935844ddef6b752a6f8dbd181": {
@@ -5138,7 +5138,7 @@
     "first_seen": "2026-10-19T13:50:46.104109-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "59561dbcdbcf0fbc16ae421477cf9f51": {
@@ -5685,7 +5685,7 @@
     "first_seen": "2026-10-24T06:37:43.362094-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "e0fd907f03a4f38581a2e1609d31090e": {
@@ -5706,7 +5706,7 @@
     "first_seen": "2026-10-24T06:37:45.107242-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "cb248a7fd9058a1d2e18aae32dc09322": {
@@ -6311,10 +6311,10 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-10-26T08:11:55.029274-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-11-16T18:14:04.597288-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
+    "dead_strikes": 2
   },
   "235ca6dda60c2526f71c1d6cf98d0c2c": {
     "id": "235ca6dda60c2526f71c1d6cf98d0c2c",
@@ -6588,7 +6588,7 @@
     "first_seen": "2026-10-29T07:15:46.719604-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "58e168e6375f7920383ee14bb2071fd5": {
@@ -6609,7 +6609,7 @@
     "first_seen": "2026-10-29T07:15:48.164285-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "d42823994e6b1fecaf88b69fdd955c22": {
@@ -6630,7 +6630,7 @@
     "first_seen": "2026-10-29T07:15:49.708009-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "c68192488f5ffad93acd4d12205fb5c4": {
@@ -6651,7 +6651,7 @@
     "first_seen": "2026-10-29T07:15:51.383281-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "ea6f9284f50bfc77e775f631c7c2a350": {
@@ -6672,7 +6672,7 @@
     "first_seen": "2026-10-29T07:15:53.045738-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T01:02:22.134159-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "22fc4e0ef1c908eac9ba7ec8f6a0a044": {
@@ -6964,7 +6964,7 @@
     "first_seen": "2026-11-02T03:56:52.546364-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T02:55:26.894715-08:00",
     "dead_strikes": 0
   },
   "8e9d4f4bc5cce9d0491f99ab8adfc004": {
@@ -10858,7 +10858,8 @@
     "priority": 4,
     "first_seen": "2026-11-16T10:47:22.864056-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "e595331fae98fd9ab0a31d42ff67d3f2": {
     "id": "e595331fae98fd9ab0a31d42ff67d3f2",
@@ -10877,7 +10878,8 @@
     "priority": 4,
     "first_seen": "2026-11-16T10:47:24.619735-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "3f4e41f01a78c4c4c58efde694d8a963": {
     "id": "3f4e41f01a78c4c4c58efde694d8a963",
@@ -10896,7 +10898,8 @@
     "priority": 3,
     "first_seen": "2026-11-16T10:47:26.390713-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "f8794f32bd6f2a4f2e0ca64888c24af6": {
     "id": "f8794f32bd6f2a4f2e0ca64888c24af6",
@@ -10915,7 +10918,8 @@
     "priority": 3,
     "first_seen": "2026-11-16T10:47:28.293779-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "99cad1a70212b15ac8573bb238e5b62f": {
     "id": "99cad1a70212b15ac8573bb238e5b62f",
@@ -10929,7 +10933,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "At Render, we\u2019re building the modern cloud platform for developers creating AI-native, full-stack, multi-service applications. Our mission is to eliminate the tradeoff between the power of hyperscalers and the simplicity of developer-friendly platforms\u2014so teams can ship fast, scale reliably, and focus on their product, not infrastructure.\nUnlike complex hyperscalers or ephemeral edge/serverless solutions, Render offers a developer-first experience with persistent compute, dynamic autoscaling, built-in orchestration, and observability, allowing teams to launch, scale, and manage real-world applications without writing infrastructure code or managing servers. Whether you're building LLM-powered applications, scalable SaaS products, or async processing pipelines, Render empowers teams to move fast and scale confidently from MVP to millions of users.\nOur platform is trusted by over 7 million developers worldwide and continues to grow rapidly. In February 2026, we raised an additional $100M in Series C financing, bringing our total funding to $260M, to accelerate our vision of making cloud infrastructure both powerful and intuitive\u2014designed for the speed of modern AI development.\nWe\u2019re a diverse and talented team that values craft, velocity, and user experience. If you\u2019re excited to help shape the future of the intelligent cloud and empower developers everywhere, we\u2019d love to hear from you.\n\nApplying to Render\nWe're seeking candidates who possess high integrity, humility, and an insatiable drive to learn. Through reasoned discussions and continuous feedback, we strive to improve both individually and collectively. We foster an environment of mutual trust and respect, empowering effective debate to achieve the best outcomes for our customers and team.\nWe especially encourage members of underrepresented groups in the tech community to apply and understand that not all successful candidates will meet each requirement listed.\nOur interview process is unique to each role, and we value the candidate experience just as much as our customer experience. We hope your conversations with us reflect a thoughtful process that is illuminative, enjoyable, and respectful of your time.\n\nAbout the Role\nRender's mission is simple: eliminate the tedious work of building software by providing a cloud platform that just works.\nWe're evolving from the go-to platform for solo developers into the backbone for fast-scaling teams. Our brand has to evolve with us. Developers already love Render for how it feels to use; now the brand needs to carry that same clarity and confidence everywhere else: on our site, in our campaigns, on a conference floor, and in every launch we put into the world.\nAs Brand Designer, you'll be a core maker on the brand team. You'll take briefs and turn them into sharp, finished work across campaigns, launches, events, and everyday brand moments. You'll contribute ideas in concept development, own projects from first sketch to final files, and help keep the brand system consistent as it grows. You'll work closely with senior brand designers and creative leads, with plenty of room to take on bigger projects as you grow.\nWhat makes this work hard and interesting: developers are a famously skeptical audience. They can spot marketing gloss from a mile away, and they reward brands that are honest, specific, and a little bit delightful. Great brand work here has to earn attention from people who don't want to be sold to. That takes real craft and a good sense of what engineers find genuine.\nYou'll join a design team that takes its craft seriously, with weekly critiques and deep collaboration with marketing, product, and engineering. You'll thrive here if you love making things, care deeply about the details, and want to grow your craft alongside people who will push you.\n\nWhat You'll Do\nCreate high-craft graphic design across the brand. Design key visuals, web and social assets, ads, presentations, print, and merch. Typography, layout, colo",
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-16T10:47:30.061119-08:00",
@@ -10953,7 +10957,8 @@
     "priority": 4,
     "first_seen": "2026-11-16T10:47:31.950816-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "0b47b10d84759607a9a763906f75e435": {
     "id": "0b47b10d84759607a9a763906f75e435",
@@ -10967,7 +10972,7 @@
     "is_big_tech": true,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "About the Team\nThe Physical Engineering team sits within OpenAI\u2019s Enterprise Verticals organization. We\u2019re exploring how frontier AI can help people design, simulate, and build better physical products - shortening development cycles, improving product performance, and expanding what engineering teams can accomplish.\nWe\u2019re building experiences within ChatGPT and integrations with tools such as CAD, eCAD, CAE, and simulation software to support engineers from early concepts through design, validation, and preparation for production.\nWe operate as a small founding team, working directly with customers and closely with research, product, data science, and forward-deployed engineering. We learn by building, putting products in users\u2019 hands, and using their feedback to guide what comes next.\nAbout the Role\nWe\u2019re looking for a highly autonomous Product Designer to become the first dedicated designer on the Physical Engineering team. You\u2019ll help define this product area from its earliest stages - shaping what we build, how it works, and how design operates within the team.\nThis is a hands-on, zero-to-one role for someone with a founder\u2019s mindset. You\u2019ll work deeply with engineers and customers to understand complex technical workflows, identify valuable opportunities, and turn emerging AI capabilities into intuitive, trustworthy products. You\u2019ll move between product strategy, interaction design, prototyping, research, and detailed execution, often making decisions with incomplete information.\nWhile your initial focus may be Physical Engineering, your work could extend across Enterprise Verticals as the design function grows. You\u2019ll help establish reusable patterns and a high bar for craft across specialized AI products.\nThis role is based in our San Francisco HQ. We offer relocation assistance to new employees.\nIn this role, you will:\nDefine the product and design vision for AI-powered physical-engineering experiences.\n\nLead design from customer discovery and early prototyping through detailed execution, launch, and iteration.\n\nCreate intuitive interfaces that help engineers understand, inspect, and refine complex designs, simulations, and model outputs.\n\nWork directly with mechanical, electrical, and other physical engineers to understand their tools, constraints, and workflows.\n\nPartner closely with product, engineering, research, data science, and forward-deployed teams to translate emerging AI capabilities into practical products.\n\nPrototype new interaction models for visual, spatial, and technically complex work.\n\nBalance speed and exploration with a high bar for interaction design, visual craft, reliability, and user trust.\n\nEstablish foundational design patterns and practices that can scale across Physical Engineering and other enterprise verticals.\n\nOperate independently, identify the highest-leverage opportunities, and bring clarity to an exceptionally early and ambiguous product space.\n\nYou might thrive in this role if you:\nHave independently led substantial zero-to-one products from early exploration through launch.\n\nBring exceptional product judgment, interaction design, and visual craft to complex professional software.\n\nAre highly autonomous and comfortable defining both the problem and the path forward.\n\nThink and operate like a founder: learning quickly, making pragmatic decisions, and remaining accountable for outcomes.\n\nEnjoy working directly with highly technical users and translating specialized workflows into clear product experiences.\n\nCan move fluidly between long-term vision, systems thinking, rapid prototyping, and detailed execution.\n\nBuild alignment through compelling prototypes, clear narratives, and close cross-functional collaboration.\n\nAre energized by unfamiliar domains and can develop enough technical depth to make thoughtful design decisions.\n\nWant to help establish the design culture and foundations of a new team.\n\nParticularly relevant experience includes:\nDesigning CAD, CAE, eCAD, simulation, chip",
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-16T10:47:33.688755-08:00",
@@ -11049,7 +11054,7 @@
     "first_seen": "2026-11-16T10:47:40.948129-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "9505755a0957d1ebec28d3c3162555ad": {
     "id": "9505755a0957d1ebec28d3c3162555ad",
@@ -11202,7 +11207,7 @@
     "first_seen": "2026-11-16T10:48:21.039935-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "090200d7c22f7fea3540d642c9a5f785": {
     "id": "090200d7c22f7fea3540d642c9a5f785",
@@ -11241,7 +11246,7 @@
     "first_seen": "2026-11-16T10:48:24.676616-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "805f05b8d856a1cb17946fc4e23a001d": {
     "id": "805f05b8d856a1cb17946fc4e23a001d",
@@ -11261,7 +11266,7 @@
     "first_seen": "2026-11-16T10:48:26.547467-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "4039a1ee60f04c0110f62f0c5e312a04": {
     "id": "4039a1ee60f04c0110f62f0c5e312a04",
@@ -11319,7 +11324,7 @@
     "first_seen": "2026-11-16T10:48:31.958877-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "ead4a77a39508cef4261220e8185245e": {
     "id": "ead4a77a39508cef4261220e8185245e",
@@ -11339,7 +11344,7 @@
     "first_seen": "2026-11-16T10:48:33.816206-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "08ddebc0300c0cdbc59b3f852a61287b": {
     "id": "08ddebc0300c0cdbc59b3f852a61287b",
@@ -11359,7 +11364,7 @@
     "first_seen": "2026-11-16T10:48:35.688569-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "a2453004d23a568738557885b116ce72": {
     "id": "a2453004d23a568738557885b116ce72",
@@ -11379,7 +11384,7 @@
     "first_seen": "2026-11-16T10:48:37.568034-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "cd04c7f1a7835e0568347eee8ae0e063": {
     "id": "cd04c7f1a7835e0568347eee8ae0e063",
@@ -11475,7 +11480,7 @@
     "first_seen": "2026-11-16T10:49:12.184015-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "fceea67de4aa25e7d389b7fbfc95d352": {
     "id": "fceea67de4aa25e7d389b7fbfc95d352",
@@ -11588,6 +11593,101 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-16T18:14:56.237458-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "85a4f4d02241a0807f258463ab8694a2": {
+    "id": "85a4f4d02241a0807f258463ab8694a2",
+    "title": "Digital Experience Designer",
+    "company": "Superworq",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://superworq.com/jobs/USA1-C93DA8AC8728F21F7F3AE68A96515C12",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Group O is seeking a Digital Experience Designer to support digital design for business. This hands-on contract opportunity combines exceptional visual design, digital merchandising, visual storytelling, and practical UX/UI execution. The designer will elevate customer-facing responsive web experien",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-17T02:56:31.111321-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "f2f0f75f007baa8527e86dd65c0d7c64": {
+    "id": "f2f0f75f007baa8527e86dd65c0d7c64",
+    "title": "UX Designer",
+    "company": "Aviture",
+    "location": "Omaha, NE",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1682526-ux-designer-omaha-ne-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Think in systems. Look past the feature in front of you to how pieces fit together across a product and program. Set a long-term vision for the experience, and connect today\u2019s decisions to where the product needs to grow.\nShape direction early, grounded in research. Do in-depth research with real users, and use it with prototypes to influence product decisions before requirements harden and changes get expensive. Keep pushing until decisions are validated with evidence, not left as assumptions.\nCollaborate deeply and give direction. Work closely with every role on the team. Evaluate the opportunities and prototypes others bring, including engineer-built and AI-generated ones, and give clear, confident guidance on where to take them.\nBuild relationships that hold the system together with your team, the customer, and the users you design for. Systems thinking depends on trust and context from all three.\nPair with engineers. Build functional prototypes and, using AI coding tools, contribute front-end changes (component updates, token changes, UI fixes) through your team\u2019s normal code review process.\nEstablish AI-augmented workflows for research synthesis, ideation, prototyping, and validation, and help teammates adopt them.\nOwn accessibility on every program, commercial or government. Treat WCAG 2.2 AA as the floor, not the goal. Design inclusively for people with permanent, temporary, and situational disabilities, test with assistive technology and real users, and document compliance, including Section 508 when a program requires it.\nFacilitate workshops, design sprints, and usability studies that turn ambiguity into decisions.\nMake the case for UX in terms of risk reduced, rework avoided, and decision quality, and help define the metrics that prove it.\nGrow the people around you by mentoring designers and contributing to Aviture\u2019s UX community through critique and shared practices.\nAI fluency is a core expectation for every designer at Aviture. We use AI to synthesize research, explore a wider solution space, prototype earlier, and move work into code faster, while human judgment stays in charge of the decisions.\nTooling varies by program. Some client environments, particularly in government, restrict which AI tools are approved. You will be expected to work effectively within those constraints and help your team get the most from whatever is approved.\n5+ years of UX or product design experience, including complex, multi-surface products. Enterprise, data-dense, or mission-critical work is a plus.\nHands-on design system experience: contributing to or leading a system with tokens, component libraries, and documentation, ideally across multiple teams.\nExpert Figma skills, including variables, components, auto layout, and handoff practices that make designs development-ready.\nWorking fluency with AI for design work: writing effective prompts, critically evaluating output, and knowing when AI is the wrong tool.\nComfort working in code, or a real willingness to learn: reading HTML, CSS, and component code, and using AI-assisted tools to make and submit changes through Git. We will teach you the workflow.\nStrong accessibility knowledge beyond compliance checklists: WCAG 2.2 AA, inclusive design practices, and hands-on testing with screen readers, keyboard, and magnification. Section 508 experience is a plus.\nEvidence of systems thinking: work where you connected multiple teams, products, or user journeys into a coherent long-term direction, not just a single feature.\nA research practice you can defend: you pick methods to fit the question, synthesize findings into decisions, and advocate for users when the findings are inconvenient.\nConfidence evaluating others\u2019 work: you can review a prototype or proposal from any team member, name what works and what does not, and give clear direction without needing to own the design yourself.\nA portfolio or case studies that show your process, your rationale, and the outcomes your work drove, not",
+    "posted_at": "1h",
+    "priority": 4,
+    "first_seen": "2026-11-17T02:56:32.671813-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "c7118f62e131ea0ae5b24671381558f3": {
+    "id": "c7118f62e131ea0ae5b24671381558f3",
+    "title": "Growth & Brand Designer",
+    "company": "MAGIC AI",
+    "location": "London",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1683726-growth-brand-designer-london-united-kingdom",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Must: Figma; Adobe Creative Suite (Photoshop, Illustrator); generative / creative AI skillset; strong portfolio of brand and digital work (email, web/landing, social)\nNice: After Effects or similar for motion basics; experience with DTC / e-commerce / consumer hardware brands\nWho you are\nMid-level (roughly 3\u20135 years) brand, marketing or digital design\nPortfolio that shows craft across channels, not just one format\nComfortable owning briefs end-to-end in a small team\nStrong taste, typography and attention to detail\nHappy switching between email, web, social and one-off brand asks\nGenerative / creative AI skillset, used as part of the day-to-day design process\nConnected fitness, hardware, DTC or subscription brand experience\nM Art Director Mojang Studios P Senior Brand Designer Plaid A Art Director AntiSocial N Brand Designer Navan B Brand Designer Blank Street\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs Content designer jobs\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nMEDvidi is hiring Staff Product Designer (AI Track)",
+    "posted_at": "1h",
+    "priority": 4,
+    "first_seen": "2026-11-17T02:56:34.325678-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "7d26079047d21e58dc1cb8e2fbeb95f1": {
+    "id": "7d26079047d21e58dc1cb8e2fbeb95f1",
+    "title": "UX Product Designer II",
+    "company": "HCSC",
+    "location": "Chicago, IL",
+    "salary": "$76,600 - $138,500",
+    "url": "https://uiuxjobsboard.com/job/1684126-ux-product-designer-ii-chicago-il-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "This position is responsible for producing designs based out of principle, practice, and research that promotes the betterment of the user experience; initiating activities and managing the expectations of design peers, product teams and stakeholders.\nRequired Job Qualifications:\n\u2022Bachelors degree and 2 years of expereince user in product/UX Design/Graphic Design OR 6 years of expereince in product/UX Design\n\u2022A portfolio demonstrating your ability to craft engaging experiences across multiple channels (e.g. desktop and mobile)\n\u2022Understanding of the human centered design process\n\u2022History of staying informed about best practices in human centered design\n\u2022Ability to communicate clearly and effectively\nPreferred Job Qualifications:\n\u2022Ability to design for desktop and mobile experiences\n\u2022Demonstrated ability to design for desktop and mobile experiences\n\u2022Experience practicing any or all of the following: HCD, Design Thinking, Visual Design, Mobile Design, Prototyping and Heuristics\n\u2022Experience designing for conversational/voice UI\n\u2022Understanding of how Design Systems add value\n\u2022Ability to rapidly prototype concepts\n\u2022Deliver value to the business through well-crafted and timely work\n\u2022Highly collaborative and able to self start on a cross-functional team\n\u2022Communicate clearly and effectively with stakeholders\n\u2022Welcome design critique and consistently iterate based on feedback\n\u2022Learn from everyone mindset\n\u2022Use prototyping tools such as Sketch, Invision, Axure, Adobe CC, Jira\n\u2022Experience with usability testing\nAre you being referred to one of our roles? If so, ask your connection at HCSC about our Employee Referral process!\nAt Health Care Service Corporation, you will be part of an organization committed to offering meaningful benefits to our employees to support their life outside of work. From health and wellness benefits, 401(k) savings plan, pension plan, paid time off, paid parental leave, disability insurance, supplemental life insurance, employee assistance program, paid holidays, tuition reimbursement, plus other incentives, we offer a robust total rewards package for employees. \u00a0Learn more about our benefit offerings by visiting https://careers.hcsc.com/totalrewards .\nThe compensation offered will vary depending on your job-related skills, education, knowledge, and experience. This role aligns with an annual incentive bonus plan \u00a0subject to the terms and the conditions of the plan.\nFlex employees are expected to be in the office a minimum of three days a week. Management will have discretion to modify an employee's weekly schedule for exigent circumstances.\nWe are an Equal Opportunity Employment employer dedicated to providing a welcoming environment where the unique differences of our employees are respected and valued. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other legally protected characteristics. We are a drug-free and smoke-free workplace. Employment may be contingent upon successful completion of drug screening in accordance with applicable law.\n$76,600.00 - $138,500.00 Exact compensation may vary based on skills, experience, and location.\nD Senior Product Designer Dexory Lead Product Designer SiteMinder 9 Senior Product Designer 9fin S Senior Product Designer SOTI S Staff Product Designer Sapiom\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs Content designer jobs\nProduct Designer Salary Guide Product Designer Salary in United States Product Designer Salary in Illinois Product Designer Salary in Chicago\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nMEDvidi is hiring Staff Product Designer (AI Track)",
+    "posted_at": "3h",
+    "priority": 4,
+    "first_seen": "2026-11-17T02:56:36.107180-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "8bb54fe34b10c40945fedaa5b3f5e25c": {
+    "id": "8bb54fe34b10c40945fedaa5b3f5e25c",
+    "title": "Brand & Motion Designer",
+    "company": "Constellation",
+    "location": "New York",
+    "salary": "$95,000 - $115,000",
+    "url": "https://uiuxjobsboard.com/job/1682026-brand-motion-designer-new-york-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Constellation was named the 65th Fastest-Growing Private Company in America, the 10th Fastest-Growing Women-Owned Private Company, and the 7th Fastest-Growing Marketing & Advertising Company by Inc 500. In 2022, our platform won the Digiday Technology Award for Best Marketing Automation Platform.\nAbout the Role\nWe\u2019re looking for a strategic Mid-Level to Senior Brand & Motion Designer to join our growing Creative Team\u2014someone who possesses strong visual design fundamentals and exceptional typography skills, alongside a solid foundation in motion design. You will sit at the intersection of brand craft, AI optimization, and a high-volume systems approach.\nYou\u2019ll craft multi-channel video and motion creative across legacy automotive, pharma, and healthcare brands, while working closely with our Product and Tech teams to continue building on products leveraging proprietary technology. Constellation is the gold standard when it comes to top tier creative at scale. The designer we seek will continue to elevate that standard as an aficionado of design at the intersection of technology.\nMotion & Video Craft: Design, edit and animate video content for large-scale campaigns, paid social, and promo spots. Incorporate motion to communicate complex product stories in a clear, engaging, and premium way.\nVisual Brand & Marketing Design: Design high-quality visual experiences including sales decks, paid ads, social media assets, event collateral, and marketing materials for the Constellation brand alongside our clients\u2019 brands. Translate messaging into visually engaging creative across digital formats.\nTemplate-Driven System Design: Develop modular design systems incorporating video for multi-brand clients that strike a balance between creative freedom and brand compliance, particularly in regulated industries such as automotive.\nAI-Powered Design Implementation: Adopt the use of Constellation\u2019s proprietary technology to create scalable visuals that feel elevated and brand compliant. Help determine how AI and creativity co-exist in daily workflows.\nBrand Consistency: Uphold (and push) brand guidelines across every execution. Maintain consistency while building variety across the format and funnel.\nCross-Functional Collaboration: Work closely with our platform team, product managers, and strategists to evolve our creative engine and user workflows. Constructive feedback is critical to how we improve our platform.\nWho You Are\nYou have 5-7 years of professional visual and motion design experience in a fast-paced agency, high-growth SaaS, or multi-disciplinary environment.\nYou have a strong, diverse portfolio demonstrating exceptional typography, layout, visual storytelling, and a clear capability in motion design and video editing.\nYou are a master of Figma and the Adobe Creative Suite, with advanced skills in Illustrator, Photoshop, InDesign, After Effects, and Premiere.\nYou have a passion for creating scalable design systems and reusable components across channels and platforms to reduce manual work throughout production cycles.\nYou are comfortable presenting design work and concepts both across the internal team and in leadership forums.\nYou are highly organized and detail-oriented, able to prioritize competing workstreams based on impact and deadlines.\nYou continuously experiment with different AI tools (e.g., Midjourney, Claude, Veo) to rapidly build moodboards, design frameworks, and streamline internal creative tools.\nYou think about the big picture for messaging and design, understanding how they ladder up to a full campaign or brand identity.\nComprehensive Healthcare, Dental, and Vision coverage\nUber Eats stipend, free snacks, and beverages\nIncludes base salary and benefits. Final package commensurate with experience.\nConstellation is committed to diversity, inclusion, and equal opportunity. If you require accommodation during the interview process, please let us know.\nM Creative Video and Motion Designer Mastercard C Senior 3D Motion De",
+    "posted_at": "3h",
+    "priority": 3,
+    "first_seen": "2026-11-17T02:56:37.862642-08:00",
     "status": "active",
     "applied_at": null
   }
