@@ -1,5 +1,22 @@
 [
   {
+    "id": "56dc03b0085fd0c59e5b0ce7a1416bf5",
+    "title": "Product Designer",
+    "company": "Alveole",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://weworkremotely.com/remote-jobs/alveole-product-designer",
+    "source": "WeWorkRemotely",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-17T11:31:44.094541-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "8bb54fe34b10c40945fedaa5b3f5e25c",
     "title": "Brand & Motion Designer",
     "company": "Constellation",
@@ -64,23 +81,6 @@
     "posted_at": "1h",
     "priority": 4,
     "first_seen": "2026-11-17T02:56:32.671813-08:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "85a4f4d02241a0807f258463ab8694a2",
-    "title": "Digital Experience Designer",
-    "company": "Superworq",
-    "location": "Remote",
-    "salary": "Not listed",
-    "url": "https://superworq.com/jobs/USA1-C93DA8AC8728F21F7F3AE68A96515C12",
-    "source": "OpenDoors",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-11-17T02:56:31.111321-08:00",
     "status": "active",
     "jd": "yes"
   },
@@ -574,7 +574,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:47:40.948129-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "416e836abac2c48afb1d6dab8944ab62",
@@ -820,7 +821,8 @@
     "posted_at": "10h",
     "priority": 3,
     "first_seen": "2026-11-16T10:47:13.671585-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "65b0f1c070175e616db1217c63a971a8",
@@ -836,7 +838,8 @@
     "posted_at": "10h",
     "priority": 5,
     "first_seen": "2026-11-16T10:47:11.927523-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "0d0d368cc7eb78373310d09f2e54d747",
@@ -852,7 +855,8 @@
     "posted_at": "10h",
     "priority": 3,
     "first_seen": "2026-11-16T10:47:09.983748-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a6d4aac7d34a31908a2386a2332666be",
@@ -868,7 +872,8 @@
     "posted_at": "10h",
     "priority": 4,
     "first_seen": "2026-11-16T10:47:08.078256-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "ab8394ff568ac5198f1ce5d09aba112c",
@@ -884,7 +889,8 @@
     "posted_at": "9h",
     "priority": 4,
     "first_seen": "2026-11-16T10:47:06.206248-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "07a8f59e51c7243d5c4ed0d4b80e06c5",
@@ -5473,23 +5479,6 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-10-17T23:16:07.892002-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "a6ceb84113050f16043911cec89b64b4",
-    "title": "Product Designer",
-    "company": "Discord",
-    "location": "San Francisco, CA",
-    "salary": "$188,000 - $211,500",
-    "url": "https://uiuxjobsboard.com/job/1640926-product-designer-san-francisco-ca-united-states",
-    "source": "UIUXJobsBoard",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "4h",
-    "priority": 1,
-    "first_seen": "2026-10-17T04:37:11.326834-07:00",
     "status": "active",
     "jd": "yes"
   }

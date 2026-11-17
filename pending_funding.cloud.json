@@ -1,257 +1,171 @@
 [
   {
     "item": {
-      "company": "PROTEGEY",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": "LvlUp Ventures",
+      "company": "LanceDB",
+      "amount": "$57.5M",
+      "stage": "Series B",
+      "investors": "Bessemer, Bessemer Venture Partners, Theory Ventures",
       "location": null,
-      "blurb": "PROTEGEY Secures Pre-Seed Funding. PROTEGEY secures pre-seed funding backed by LvlUp Ventures and angel investors to expand its AI-powered fraud intelligence and compliance platform in Africa.",
+      "blurb": "LanceDB raises $57.5M to accelerate AI model training with multimodal data platform. LanceDB Inc., the developer of database technology designed to speed up artificial intelligence models, today announced it has raised $57.5 million in early-stage funding to bring a multimodal lakehouse to researchers, model builders and platform teams. Bessemer Venture Partners and Innovation Endeavors led the Series B round. Other investors in the round included Theory Ventures, [&#8230;]\nThe post LanceDB rais",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/protegey-secures-pre-seed-funding-to-expand-fraud-intelligence-compliance-in-africa/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
       "priority": 10
     },
-    "remind_at": "2026-11-17T03:27:10.926342-08:00"
+    "remind_at": "2026-11-17T12:02:06.403910-08:00"
   },
   {
     "item": {
-      "company": "Newsbound",
+      "company": "Sqwish Labs",
       "amount": "$3.0M",
       "stage": "Pre-Seed",
-      "investors": "Joule Ventures, Mind Ventures",
-      "location": null,
-      "blurb": "Newsbound Raises $3M Pre-seed. Newsbound raises $3 million in a pre-seed round led by Joule Ventures and State of Mind Ventures to automate PR operations with its AI platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/newsbound-raises-3m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-11-17T03:27:29.114021-08:00"
-  },
-  {
-    "item": {
-      "company": "Scoutz",
-      "amount": null,
-      "stage": "Pre-Seed",
       "investors": null,
-      "location": null,
-      "blurb": "Scoutz Raises $600,000 Pre-seed. Scoutz raises $600,000 in a pre-seed round led by Delaware Seed to expand its AI-powered basketball recruiting platform and enter new sports categories.",
+      "location": "Cambridge",
+      "blurb": "Cambridge AI startup Sqwish Labs raises $3M as its decision models beat OpenAI and Microsoft in benchmark tests. An eight-person AI startup from Cambridge, UK, is taking on some of the biggest names in artificial intelligence, and its latest benchmark results suggest that massive funding isn&#8217;t always necessary to compete. Sqwish Labs has raised $3 million in pre-seed [&#8230;]\nThe post Cambridge AI startup Sqwish Labs raises $3M as its decision models beat OpenAI and Microsoft in benchmark",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/scoutz-raises-600000-pre-seed/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/11/17/cambridge-ai-startup-sqwish-labs-raises-3m-as-its-decision-models-beat-openai-and-microsoft-in-benchmark-tests/",
       "priority": 10
     },
-    "remind_at": "2026-11-17T03:27:47.154209-08:00"
+    "remind_at": "2026-11-17T12:02:09.267119-08:00"
   },
   {
     "item": {
-      "company": "Lemonpeel",
-      "amount": "$1.0M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Lemonpeel Raises $1M Pre-seed. Lemonpeel raises $1M pre-seed round led by Shastra VC to develop its multi-agent AI video production infrastructure for enterprise creative teams.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/lemonpeel-raises-1m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-11-17T03:28:05.314673-08:00"
-  },
-  {
-    "item": {
-      "company": "Vision Makers",
+      "company": "Global Kiwi Labs",
       "amount": "$4.0M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Vision Makers Raises $4M in Funding. Vision Makers raises $4M in cumulative funding across pre-seed and seed rounds at a $20M valuation to scale its AI-powered Web3 intelligence platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/vision-makers-raises-4m-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-11-17T03:29:20.058453-08:00"
-  },
-  {
-    "item": {
-      "company": "Lemonpeel",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": "Shastra VC&nbsp",
-      "location": null,
-      "blurb": "AI video production startup Lemonpeel raises $1 Mn in pre-seed round led by Shastra VC - Entrackr. AI video production startup Lemonpeel raises $1 Mn in pre-seed round led by Shastra VC&nbsp;&nbsp;Entrackr",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ1p2a2drbFFzVVJKam95Z1A1U2hmekV3ODVVemNad2d4MkdheWh0bUtzeU5oVGl3VF9MTW9DRW5wbmVFVWdjU1BXYlhsaU41VXNEcTE0cjFtc3lfclhlZmtVcl9feUZLSmtwR0EwS0Q3R1VmLU9rWGlwTVVYY2JuRkc0S1ptWG1hLVF0N0pWN2QyNWRwUVBna1NiX2pNV3BLbHVydW85Z1U3dDF0aTVzUFdCZG82Ni00Mnh0LTljR0UtZ9IBwgFBVV95cUxQQ1p2a2drbFFzVVJKam95Z1A1U2hmekV3ODVVemNad2d4MkdheWh0bUtzeU5oVGl3VF9MTW9DRW5wbmVFVWdjU1BXYlhsaU41VXNEcTE0cjFtc3lfclhlZmtVcl9feUZLSmtwR0EwS0Q3R1VmLU9rWGlwTVVYY2JuRkc0S1ptWG1hLVF0N0pWN2QyNWRwUVBna1NiX2pNV3BLbHVydW85Z1U3dDF0aTVzUFdCZG82Ni00Mnh0LTljR0UtZw?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-11-17T03:29:37.972820-08:00"
-  },
-  {
-    "item": {
-      "company": "JohnAIC",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "AI infra startup JohnAIC raises $1.9 Mn in pre-seed round - Entrackr. AI infra startup JohnAIC raises $1.9 Mn in pre-seed round&nbsp;&nbsp;Entrackr",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmRIMmFheWdjc3lqM3VFR0llV3hqeEl0Rmo3WlhRZVFQM2JSelNJZ05qRl9ReDNjZnpKU3RGSjdZZ2lLZHAyY0p4eVZGcWNsajg0c3ZsNUh5RTVxRHR5R2Q0d0xwOXozSDRpaXo4eXhpeFU3a1JuTVBaNGtBX0N2UTVqX2tnMDVjdjRoRE15YnNYY1BZZm5vTUF30gGaAUFVX3lxTE9iZEgyYWF5Z2NzeWozdUVHSWVXeGp4SXRGajdaWFFlUVAzYlJ6U0lnTmpGX1F4M2NmekpTdEZKN1lnaUtkcDJjSnh5VkZxY2xqODRzdmw1SHlFNXFEdHlHZDR3THA5ejNINGlpejh5eGl4VTdrUm5NUFo0a0FfQ3ZRNWpfa2cwNWN2NGhETXlic1hjUFlmbm9NQXc?oc=5",
-      "priority": 10
-    },
-    "remind_at": "2026-11-17T03:29:55.871281-08:00"
-  },
-  {
-    "item": {
-      "company": "Moneiva",
-      "amount": "$3.1M",
-      "stage": "Seed",
-      "investors": "Reformation Partners",
-      "location": null,
-      "blurb": "Moneiva Raises $3.1M Seed. Moneiva raises $3.1 million in seed funding led by Reformation Partners to scale its AI platform for complex logistics and supply chain automation.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/moneiva-raises-3-1m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-17T03:30:13.727218-08:00"
-  },
-  {
-    "item": {
-      "company": "Bevado",
-      "amount": "$10.0M",
-      "stage": "Seed",
-      "investors": "RET Ventures",
-      "location": null,
-      "blurb": "Bevado Raises $10M Seed. Bevado raises $10 million in a seed round led by RET Ventures to expand its AI-native property management communication platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/bevado-raises-10m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-17T03:30:31.753475-08:00"
-  },
-  {
-    "item": {
-      "company": "Asynchronics",
-      "amount": "$3.1M",
       "stage": "Seed",
       "investors": null,
       "location": null,
-      "blurb": "Asynchronics raises $3.1M seed to simulate satellites before launch - Dealroom. Asynchronics raises $3.1M seed to simulate satellites before launch&nbsp;&nbsp;Dealroom",
+      "blurb": "Global Kiwi Labs raises $4M to bring Wall Street\u2019s fair-access trading Infrastructure to crypto. In crypto trading, speed can be worth millions, and the firms with the deepest pockets often have the fastest connections. Global Kiwi Labs wants to change that. The startup announced Tuesday that it has raised $4 million in seed funding [&#8230;]\nThe post Global Kiwi Labs raises $4M to bring Wall Street\u2019s fair-access trading Infrastructure to crypto first appeared on Tech Startups.",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2paMkZabWV4M3NCaUYtb0MweFFLWU5wVWxIeW1pUnhTQTM0SzNKVW9hRExwWjcyazdYcV9RdDdwakV6dzczZHNGcUd6dFZTbTJjNVpqT1JGYUlZa0djVXN0WVJZT2wySDZMMmNKdElDcVE0eExTRXh4MTV4YXplcS1mdVBiRTlMSUZha3FOeEZxNS04UjVFSGpEOUVGXzl6NFE?oc=5",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/11/17/global-kiwi-labs-raises-4m-to-bring-wall-streets-fair-access-trading-infrastructure-to-crypto/",
       "priority": 9
     },
-    "remind_at": "2026-11-17T03:30:49.744862-08:00"
+    "remind_at": "2026-11-17T12:02:14.905296-08:00"
   },
   {
     "item": {
-      "company": "Bharat Semi",
+      "company": "Isomorphic Labs",
+      "amount": "$5.0B",
+      "stage": "Series C",
+      "investors": "Greenoaks, Sequoia, Sequoia Capital",
+      "location": null,
+      "blurb": "Isomorphic Labs Raises $5 Billion Series C With Greenoaks, Sequoia Capital - Quantum Zeitgeist. Isomorphic Labs Raises $5 Billion Series C With Greenoaks, Sequoia Capital&nbsp;&nbsp;Quantum Zeitgeist",
+      "founders": [],
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hazlzaG9zQ2pWQk54Q3ZwQkhYNGlCVlRqZ3pGTXh6RVRJRGtDRk14d291UDN4LTNWa0tuYmdlRmhtQ3U1VkZ3U2ItTFVsUFQzdi00X1YzYzJZcVUzOXNPOWhGNTdManRqaFdtVHpXR2V4MlJnS2Q3M0JMcw?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-11-17T12:02:17.753298-08:00"
+  },
+  {
+    "item": {
+      "company": "Marble",
+      "amount": "$5.5M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Restaurant AI startup Marble raises $5.5M seed round - Dealroom. Restaurant AI startup Marble raises $5.5M seed round&nbsp;&nbsp;Dealroom",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdTlSUHNiU081M3N6UXcwcDd0SllXRWtOSGsxUE92NEN0cDlCUGp3alBGVUx0ejhXVW9YRTdxRnZSc2RxbWpuMWItVzhhRlliT2UyTTI0c0ZXT3NpUm1qMmlfUmNyTHlIRUw1Z3RlVDR5cEZ1MnV0NmFRZTRYMjFmanEtUEZrY3BacFNLUEdn?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-11-17T12:02:21.368994-08:00"
+  },
+  {
+    "item": {
+      "company": "Karta AI",
       "amount": null,
       "stage": "Seed",
-      "investors": null,
+      "investors": "Peer Capital & Cedar Hill Capital - BW Disrupt Karta AI Raises Rs",
       "location": null,
-      "blurb": "Semiconductor Startup Bharat Semi Raises $24 Mn Seed Funding - BW Disrupt. Semiconductor Startup Bharat Semi Raises $24 Mn Seed Funding&nbsp;&nbsp;BW Disrupt",
+      "blurb": "Karta AI Raises Rs 28.52 Cr In Seed Round Led By Peer Capital & Cedar Hill Capital - BW Disrupt. Karta AI Raises Rs 28.52 Cr In Seed Round Led By Peer Capital & Cedar Hill Capital&nbsp;&nbsp;BW Disrupt",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUNJejhVQ1VwWEdLa0h3X1VSdUNoSXlyRkNJMmFWX0lRNDdKNGVBQXZkdTI4VnNvVzB4RGZIY3Bxc0VqbjY0YW1pSzVQSHZ2Q3E3bkpUVmpzLWMxRXRaSjRxallJOUNJZVlDdk9raUxIOHJZazAtaEpsOE5GYy13LWNucjBLZ2d5WlN6ejRNMHdwZERXLUNwbWwtT2dwa2JQdkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdTVyc25aNmxSc0VlaDFuazRuUExiempwZ2MyLWJ6UG9sdnF3cnlqWThwNHVxSzBjSHRNSzNEQWlJMTN5aDlaUzZNLWtrU3hIbVVlT3VtZmJ6aGJsYnR3QmFVZ080Ylk5YnRhUU5zcERCUXV3Uko2dE9CQmJXRnN6YVpOMUJNMDdSaWxlU0dEWG5HVDFzaFpvVWJCTlJrcFFGVjhFRW5mMHdYUXJrY1ZsTE01RXJzbENPVTZKLW13?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-11-17T03:31:40.295942-08:00"
+    "remind_at": "2026-11-17T12:02:24.280974-08:00"
   },
   {
     "item": {
-      "company": "Knit Health",
-      "amount": "$35.0M",
+      "company": "Genesis AI",
+      "amount": "$500.0M",
       "stage": "Series A",
-      "investors": "NEA",
+      "investors": null,
       "location": null,
-      "blurb": "Knit Health Raises $35M Series A. Knit Health raises $35M in a Series A round led by NEA to accelerate the commercial deployment of its Med-BEAM AI world model for healthcare.",
+      "blurb": "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses. Genesis AI, a startup teaching robots to perform physical tasks by learning from human movements, announced Tuesday it has raised $500 million in Series A funding at a $3.5 billion valuation.",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/knit-health-raises-35m-series-a/",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
       "priority": 8
     },
-    "remind_at": "2026-11-17T03:32:17.830446-08:00"
+    "remind_at": "2026-11-17T12:02:27.693367-08:00"
   },
   {
     "item": {
-      "company": "Olyv",
+      "company": "Pedestal AI",
+      "amount": "$4.7M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Pedestal AI raises $4.7 million to agentify the supply chain. The company uses agentic AI to make supply chains faster and more reliable.",
+      "founders": [],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-17T12:02:30.481588-08:00"
+  },
+  {
+    "item": {
+      "company": "Hank Green",
       "amount": null,
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "blurb": "Lending Fintech Startup Olyv Raises $6 Mn, Takes Series B To $30 Mn - BW Disrupt. Lending Fintech Startup Olyv Raises $6 Mn, Takes Series B To $30 Mn&nbsp;&nbsp;BW Disrupt",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZE9ueXJJcW00NnRhMWZCQndlYzlBZ19FVWxvVWtOZ2pmbmhQeFBRdGRTcjNEd3oxZVF5LTBpbDVKTmVBNjJOX2tRZUNxYWZLMnNwVE0xbnVEck9yWUp6UTZMUG1BT3hKbGRiNXp4Q1RPZVVaRUdfVTE5OTJhaDktZnk4UEIyVjk4NndRSVNXelIxbkt5d05wWjZEdEZwZ2s2OGNWekVOVl8?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-11-17T03:32:35.797770-08:00"
-  },
-  {
-    "item": {
-      "company": "Accountable",
-      "amount": "$20.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Accountable Raises $20M in Funding. Accountable raises $20M in total funding to build its new tax filing and civic transparency platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/accountable-raises-20m-seed/",
+      "blurb": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids. Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
+      "founders": [
+        "Leslie Morgan"
+      ],
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
       "priority": 3
     },
-    "remind_at": "2026-11-17T03:32:53.686379-08:00"
+    "remind_at": "2026-11-17T12:02:39.051086-08:00"
   },
   {
     "item": {
-      "company": "Duetti",
-      "amount": "$665.0M",
+      "company": "Fairly",
+      "amount": "$22.0M",
       "stage": null,
       "investors": null,
-      "location": null,
-      "blurb": "Duetti Raises $665M Growth Capital. Duetti raises $665M in growth capital led by Carlyle to expand its music catalog investment platform and proprietary data technology for independent artists.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/duetti-raises-665m-growth-capital/",
+      "location": "Portland",
+      "blurb": "Portland startup Fairly raises $22M to pair local caretakers with AI for vacation rentals. The company, led by Vacasa founder Eric Breon, says guest bookings on its platform jumped to more than $66 million over the past year. Read More",
+      "founders": [
+        "Eric Breon"
+      ],
+      "source": "GeekWire Funding",
+      "url": "https://www.geekwire.com/2026/portland-startup-fairly-raises-22m-to-pair-local-caretakers-with-ai-for-vacation-rentals/",
       "priority": 3
     },
-    "remind_at": "2026-11-17T03:33:11.746306-08:00"
+    "remind_at": "2026-11-17T12:02:41.986791-08:00"
   },
   {
     "item": {
-      "company": "Mavria",
-      "amount": "$130.0M",
+      "company": "Aarden",
+      "amount": "$8.0M",
       "stage": null,
       "investors": null,
-      "location": null,
-      "blurb": "Woodlands startup Mavria raises $130M to mass-produce AI data centers - InnovationMap. Woodlands startup Mavria raises $130M to mass-produce AI data centers&nbsp;&nbsp;InnovationMap",
+      "location": "Seattle",
+      "blurb": "Aarden raises $8M to build smarter land markets for AI buildout and energy projects. The AI boom is creating a new land rush, and Seattle-based startup Aarden wants to help determine where the next generation of infrastructure gets built. The company has raised $8 million to modernize how landowners, developers, and investors evaluate, value, [&#8230;]\nThe post Aarden raises $8M to build smarter land markets for AI buildout and energy projects first appeared on Tech Startups.",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWGZWWm1tUmttYUpEd0o1UVhoUE1NT1VObnYzdFF5Qi1kSmZVV1I1STZQbFRwLVRVMzg1WHhnVVFwaEh5ei1fYVRzeXVzY21kUWd2RzhSZ3BqVGlXUkZIYXRSSE1vcFBzZEJWMTFDNGs2X0ZUTHVzNS1LQnA0SzYzZGoyYw?oc=5",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/11/17/aarden-raises-8m-to-build-smarter-land-markets-for-ai-buildout-and-energy-projects/",
       "priority": 3
     },
-    "remind_at": "2026-11-17T03:33:29.767327-08:00"
-  },
-  {
-    "item": {
-      "company": "Bedrock Energy",
-      "amount": "$24.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Exclusive: Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings - TechCrunch. Exclusive: Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings&nbsp;&nbsp;TechCrunch",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNnBJM0hWdkhObHNmNi1vRHh5WXpSck45MTJBVERGbVRjOTFGQ2JoTVhpSjU0cEZrb3pucEQ4d0Q3WWF6RjZ4dTJCbG9QbUVOSUtDUGkydE5rVklDenVzS3NrbkJFNTd2bHEyTm1XQWh0aUZjMG1OVW8wZ0xENnhrQ3FvY0ctLVQtb1Izc0czclFXbEpLSG42b183QnlpT2l5RG5ha1ByYXVuWno5NDA2eFRyUklWN0NET1hxYmI4RUVJYXN3c2dKeDNoVTI?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-11-17T03:34:20.401743-08:00"
+    "remind_at": "2026-11-17T12:02:45.795227-08:00"
   }
 ]

@@ -6985,7 +6985,7 @@
     "first_seen": "2026-11-02T03:56:54.031052-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "848f39287bd02682f82e972f6a000b80": {
@@ -7006,7 +7006,7 @@
     "first_seen": "2026-11-02T03:56:55.639218-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "eb4b3062cdbfa93ccf1499ed6d28ab71": {
@@ -7048,7 +7048,7 @@
     "first_seen": "2026-11-02T03:56:58.726393-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "9873644d783e0d369741175a59f3761a": {
@@ -7069,7 +7069,7 @@
     "first_seen": "2026-11-02T03:57:02.078065-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "223a0d9e60749df27b5006ddf8af5b8b": {
@@ -8679,7 +8679,7 @@
     "first_seen": "2026-11-04T20:42:07.008412-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "1ebbcac0f22878b2a58f33af383248d2": {
@@ -8700,7 +8700,7 @@
     "first_seen": "2026-11-04T20:42:08.569654-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "6ce588029be90275feb9e1c038406f56": {
@@ -8847,7 +8847,7 @@
     "first_seen": "2026-11-09T02:01:05.157543-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T09:40:33.647142-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "ecfa5bda583a3733d2a9d37b195c2feb": {
@@ -8868,8 +8868,8 @@
     "first_seen": "2026-11-09T12:32:54.953022-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
-    "dead_strikes": 0
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
+    "dead_strikes": 1
   },
   "ed3da13c87f5c0e5dc42da1b22bf3dd5": {
     "id": "ed3da13c87f5c0e5dc42da1b22bf3dd5",
@@ -8889,7 +8889,7 @@
     "first_seen": "2026-11-09T12:32:56.502031-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "137bcfcdeb859ef42728f653e769d7c9": {
@@ -8910,7 +8910,7 @@
     "first_seen": "2026-11-09T12:32:58.277015-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "979cedf255b17ea879c5b2d74188e9b1": {
@@ -8931,7 +8931,7 @@
     "first_seen": "2026-11-09T12:32:59.940129-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "b1d3149fc72e764a5a50363c73c7704f": {
@@ -8952,7 +8952,7 @@
     "first_seen": "2026-11-09T12:33:01.694274-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "d6de6fae1bfac623c5f3bd35ea0455f9": {
@@ -8973,7 +8973,7 @@
     "first_seen": "2026-11-09T12:33:03.366744-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "09c703efad7a0706abcf03909016c886": {
@@ -8994,7 +8994,7 @@
     "first_seen": "2026-11-09T12:33:05.092097-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "64db6ffa35f857888816fc948a79e80d": {
@@ -9015,7 +9015,7 @@
     "first_seen": "2026-11-09T12:33:06.844934-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00"
+    "checked_at": "2026-11-17T11:30:09.809044-08:00"
   },
   "a895714b9c2524d784db00da13bc14c8": {
     "id": "a895714b9c2524d784db00da13bc14c8",
@@ -9056,7 +9056,7 @@
     "first_seen": "2026-11-09T12:33:10.258083-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "2fdda5fb29be98c4b94973543636521a": {
@@ -9077,7 +9077,7 @@
     "first_seen": "2026-11-09T12:33:12.055449-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "faa87e3a044f5c2564500df270efe12c": {
@@ -9098,7 +9098,7 @@
     "first_seen": "2026-11-09T12:33:13.705235-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "ff762068729d85188c549bffe1d5f997": {
@@ -9119,7 +9119,7 @@
     "first_seen": "2026-11-09T12:33:15.465507-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "06094acc4c4b93eb5405195bfd0f8b8c": {
@@ -9140,7 +9140,7 @@
     "first_seen": "2026-11-09T12:33:17.237880-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "192e64c916b705496c5c28fdf8305e72": {
@@ -9161,8 +9161,8 @@
     "first_seen": "2026-11-09T12:33:18.981134-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
-    "dead_strikes": 0
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
+    "dead_strikes": 1
   },
   "b7ee003c72625a38ecd729f7cc510dca": {
     "id": "b7ee003c72625a38ecd729f7cc510dca",
@@ -9182,7 +9182,7 @@
     "first_seen": "2026-11-09T12:33:20.605103-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "ab83f30ea6e3e70d79785265eae6c574": {
@@ -9203,7 +9203,7 @@
     "first_seen": "2026-11-09T12:33:22.360532-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "5c96ebef529e4e7fd8761e34fdae612b": {
@@ -9245,7 +9245,7 @@
     "first_seen": "2026-11-09T12:33:25.786783-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-12T15:01:53.416429-08:00",
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
     "dead_strikes": 0
   },
   "83231d86063a17d9bea530cce11a8e33": {
@@ -10231,7 +10231,9 @@
     "priority": 5,
     "first_seen": "2026-11-14T05:54:16.765033-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-17T11:30:09.809044-08:00",
+    "dead_strikes": 0
   },
   "e5df6e7ce0b20a3677bc8b1c03967e36": {
     "id": "e5df6e7ce0b20a3677bc8b1c03967e36",
@@ -10682,7 +10684,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "Sponsors UI/UX Jobs Board Subscribe for weekly design jobs Your brand here Sponsor UI/UX Jobs Board Your brand here Sponsor UI/UX Jobs Board Your brand here Sponsor UI/UX Jobs Board\nGRVTY is seeking a UI/UX Designer with a TS/SCI + Poly clearance (applicable to this customer) to join one of our top projects in McLean, VA.\nPlan and conduct user research activities including interviews, usability testing, and feedback sessions with diverse user groups (e.g., analysts, SMEs, managers, data scientists).\nAnalyze and synthesize research findings into actionable insights, personas, user journeys, and workflow maps.\nDocument research findings and recommendations to support stakeholder understanding and buy-in, particularly in government settings.\nApply ethical, secure, and compliant research practices appropriate for classified or sensitive environments.\nLead UX and UI efforts for complex, high-visibility applications.\nDefine, maintain, and evolve design systems and component libraries in collaboration with engineering teams.\nEstablish consistent interaction patterns, workflows, and design standards across multiple applications.\nCreate service blueprints and end-to-end experience maps to align cross-functional teams.\nDevelop interactive prototypes using tools such as Figma, Adobe XD, or similar, to explore concepts and validate user flows.\nProduce high-fidelity UI designs that are accessible, usable, and visually consistent.\nEnsure designs align with accessibility standards (e.g., WCAG) and applicable government design guidelines.\nDocument interaction behaviors, design rationale, and micro-copy to support implementation.\nBachelor\u2019s degree in Design, Human-Computer Interaction, Psychology, Computer Science, or a related field (or equivalent experience).\nMinimum 8 years of experience with a Bachelor\u2019s degree; or 7 years of experience with a Masters degree; or 6 years of experience with a Doctorate\nDemonstrated experience conducting UX research, analysis, and synthesis (not UI-only).\nStrong proficiency with design and prototyping tools such as Figma, Adobe XD, or equivalent.\nExperience collaborating closely with product managers and engineering teams.\nAbility to clearly articulate design decisions and research findings to stakeholders.\nPortfolio (website, case studies, or work samples) demonstrating UX research methodology, analysis, and UI design quality.\nExperience designing for mission-critical or government systems.\nFamiliarity with accessibility standards (WCAG) and inclusive design practices.\nExperience contributing to or managing design systems.\nFamiliarity with modern front-end frameworks and design constraints (e.g., component-based development).\nExperience supporting data-heavy or analytical user workflows.\nPay Range:\u00a0 At GRVTY, we understand that compensation is influenced by many factors\u2014such as geographic location, federal contract labor categories, wage rates, prior experience, skillsets, education, and certifications.\nWe\u2019re proud to offer a work environment that empowers our team to achieve a strong work-life balance. GRVTY provides competitive pay, comprehensive benefits, and meaningful opportunities for professional growth.\nOur benefits package is designed to support the well-being of our employees and their families, and includes coverage in areas such as healthcare, financial wellness, retirement planning, family assistance, continued education, and paid time off.\nPay Range: At GRVTY, we understand that compensation is influenced by many factors\u2014such as geographic location, federal contract labor categories, wage rates, prior experience, skillsets, education, and certifications.\nWe\u2019re proud to offer a work environment that empowers our team to achieve a strong work-life balance. GRVTY provides competitive pay, comprehensive benefits, and meaningful opportunities for professional growth.\nOur benefits package is designed to support the well-being of our employees and their families, and includes coverage in areas such as",
     "posted_at": "9h",
     "priority": 4,
     "first_seen": "2026-11-16T10:47:06.206248-08:00",
@@ -10701,7 +10703,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "Multiple trillion-dollar companies will be built in healthcare over the next two decades. We intend to be one of them.\nIf you want to work on problems where the stakes are high, you belong at Anima. Your work here will save lives.\n-- Shun\nThe role\nDesign software that makes complex clinical work feel simple.\nYou\u2019ll own product problems from discovery through launch and beyond, working directly with customers and engineers. That could mean rethinking a workflow clinicians repeat hundreds of times a day, or taking a new product from its first idea to daily use.\nThis is a hands-on IC role with real influence over what we build. We don\u2019t have Product Managers: you\u2019ll help decide which problems matter, make the product trade-offs and stay close to the details that make great software. You\u2019ll also help shape our design standards and how we work as the team grows.\nWhat you\u2019ll do\nGet close to users. Join customer calls and visit GP practices to understand how care actually happens, where people struggle and what would make a difference.\nOwn problems end to end. Turn ambiguous needs into clear product decisions, test ideas and work with engineers to ship them.\nMake complexity feel simple. Design intuitive workflows and polished interfaces for people making consequential decisions under pressure.\nKeep improving after launch. Use customer feedback and product usage to understand what worked and where to go next.\nRaise the standard. Develop reusable patterns, improve our design tools and help the team ship excellent work consistently.\nExcellent design craft. A sharp eye for visual and interaction design, with care for the details that make software feel effortless.\nEvidence of shipped work. Experience designing complex B2B software and improving it through real use, with clear examples of your contribution and its impact.\nStrong product judgement. An instinct for what matters to users, backed by evidence and the ability to turn messy problems into simple, useful solutions.\nTechnical fluency. An understanding of how software is built, plus curiosity about using code, prototypes and AI tools to bring ideas to life.\nHigh agency and drive. The resourcefulness to keep work moving through ambiguity and obstacles, taking responsibility for the outcome.\nThoughtful collaboration. Clear reasoning, openness to challenge and a willingness to change direction when someone has a better idea.\nAnima should be where you do your life\u2019s best work. We support that with:\nTime off: 25 days\u2019 annual leave plus 8 UK public holidays, with flexible additional time off.\nHealth cover: private medical, dental, vision and mental health insurance.\nParental leave: 12 weeks\u2019 maternity leave at full pay, rising to 24 weeks after two years; 4 weeks\u2019 paternity leave at full pay.\nPension: 4% employer contributions, with salary sacrifice and 100% of the employer National Insurance savings passed on to you.\nLearning: \u00a31,000 annual budget for your development.\nFitness: gym subscription matching up to \u00a350 per month.\nEquipment: a high-spec MacBook and a home office budget.\nTime together: two full-team off-sites each year, previous destinations include Mykonos and Mexico.\nFarringdon office: a beautiful new London HQ, with most of the team together at least twice a week.\nEveryone is welcome at Anima. We strongly believe in building a diverse and inclusive team. If you\u2019re excited by our mission and believe you could do this work well, we\u2019d love to hear from you, even if your experience doesn\u2019t match every point above. If adjustments would help you participate fully in the interview process, please let us know.\nD Senior Product Designer Dexory Lead Product Designer SiteMinder 9 Senior Product Designer 9fin S Senior Product Designer SOTI S Staff Product Designer Sapiom\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs Content designer jobs Design engineer jobs Brand designer jobs Graphic designer jobs Motion designer jobs Design management j",
     "posted_at": "10h",
     "priority": 4,
     "first_seen": "2026-11-16T10:47:08.078256-08:00",
@@ -10720,7 +10722,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "Sponsors UI/UX Jobs Board Subscribe for weekly design jobs Your brand here Sponsor UI/UX Jobs Board Your brand here Sponsor UI/UX Jobs Board Your brand here Sponsor UI/UX Jobs Board\nAbout the Role\niCapital is seeking a Senior UX Writer to enhance the user experience across the iCapital platform by crafting clear, engaging, and user-centered content across all products. This role plays a critical part in shaping how users interact with experiences, including AI-driven capabilities, by defining intuitive inputs and ensuring clear, consistent outputs. The ideal candidate will collaborate closely with cross-functional partners, including product leadership, to elevate content standards and ensure users navigate the platform with clarity and confidence.\nThis individual will operate as both a hands-on contributor and a strategic leader, helping to shape and scale the design system content guidelines and governance frameworks while supporting the complexity of a multi-language, multi-currency product environment.\nOperate as both a hands-on contributor and a strategic leader.\nCreate clear, consistent, and user-centered content that guides clients through complex application workflows, subscription and onboarding journeys.\nDrive content design leadership by shaping and evolving iCapital design system writing style guides, reusable patterns, and governance frameworks to ensure consistent, multi-language and multi-currency experiences across platforms.\nGuide content recommendation through design critiques, content reviews, and collaborative workshops.\nEnsure all content aligns with accessibility standards, regulatory guidelines, and plain-language best practices.\nManage multiple priorities and deliver high-quality content solutions.\nCollaborate cross-functionally with the UX, Product, Legal and Compliance teams and business stakeholders to translate requirements into effective content solutions.\nQualifications\n7+ years of experience in UX writing, content design, or digital product content strategy\nBachelor\u2019s degree in English, communications, journalism, UX design, human-computer interaction, or a related discipline, or equivalent experience with financial services, or other regulated industries\nDemonstrated experience designing application flows, subscriptions, onboarding journeys, and user guidance for digital products\nProvide clear, user-focused writing for complex systems or enterprise applications\nExperience developing and building design systems, content standards, and governance frameworks\nProficiency with collaboration and design tools such as Figma, Confluence, or similar platforms\nStrong stakeholder management and cross-functional collaboration skills\nExperience working in fast-paced product environments\nFamiliar with accessibility standards such as WCAG 2.1 AA and inclusive design principles\nExperience working with AI-assisted content tools\nExperience working within legal, regulatory, and compliance review processes, collaborating closely with cross-functional teams to ensure designs meet approval requirements\nPortfolio, website, or any other relevant link to your work in your resume is required\nThe base salary range for this role is $160,000 to $190,000.\u00a0 iCapital offers a compensation package which includes salary, equity for all full-time employees, and an annual performance bonus. Employees also receive a comprehensive benefits package that includes an employer matched retirement plan, generously subsidized healthcare with 100% employer paid dental, vision, telemedicine, and virtual mental health counseling, parental leave, and unlimited paid time off (PTO).\nWe believe the best ideas and innovation happen when we are together. Employees in this role will work in the office Monday-Thursday, with the flexibility to work remotely on Friday.\nFor additional information on iCapital, please visit https://www.icapitalnetwork.com/about-us \u00a0 Twitter: @icapitalnetwork | LinkedIn: https://www.linkedin.com/company/icapital-network-inc",
     "posted_at": "10h",
     "priority": 3,
     "first_seen": "2026-11-16T10:47:09.983748-08:00",
@@ -10739,7 +10741,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "Sponsors UI/UX Jobs Board Subscribe for weekly design jobs Your brand here Sponsor UI/UX Jobs Board Your brand here Sponsor UI/UX Jobs Board Your brand here Sponsor UI/UX Jobs Board\nPlanning Center exists to help churches build stronger, more connected communities.\nSince 2006, over 80,000 churches have trusted our tools to care for their people\u2014whether that\u2019s communicating with their congregation, organizing important information, or coordinating the details that make ministry happen.\nWe\u2019re an independent, profitable company with no outside investors. That means we get to focus on building products thoughtfully, caring for our team well, and making decisions for the long term.\nOur team is fully remote, working together daily through tools like Slack, Asana, Linear, Notion, and Zoom. Three times a year we gather to connect in person, strengthen relationships, and align on where we\u2019re headed.\nPlanning Center is looking for a Product Designer to join our UX Design team, with a focus on our Giving product. You'll work day-to-day alongside your product PM and Engineering Manager, while staying plugged into a UX team that does weekly design critiques and genuinely cares about craft. You'll own the experience from early problem framing all the way to shipped product, supporting church administrators and the congregants they serve. You'll also take a leading role in evolving Doxy, our design system for Church Center.\nLead design on one or more product squads, partnering with Product Managers, Engineering, and other designers to set direction and make trade-offs\nOwn the design quality and craft of the products you support, keeping standards high across every detail\nHelp shape ambiguous problems into clear solutions, with a strong sense of what\u2019s being built, why, and for whom\nCraft simple, intuitive experiences with our customers in mind, accounting for accessibility, localization, and every interaction state\nAdvocate for design strategy in your products, using research to validate decisions when needed\nContribute to and champion our design systems to support our suite of products\nCommunicate your work with clarity and confidence, building consensus and handling feedback gracefully\nStrengthen the design team through feedback, design reviews, and the example you set, including thoughtful use of AI tools\nAt least four years of UX/UI design experience\nProven experience that shows both craft depth and systems thinking\nOwnership of your work, and the drive to move forward independently\nCollaboration and a natural ability to build strong working relationships with PMs, engineers, fellow designers, and other disciplines\nA desire to explore the products you design for, ask good questions, and come to conversations already having done your homework\nComfort with ambiguity. You don't need perfect information to move forward\nActive use of AI as part of your design process, and judgment to know when to trust it and when to push back\nAbility to communicate design vision and language through design systems\nGenuine curiosity about the people using your software\nThe best fits for any role on the Planning Center team are people embodying our Core Values:\nEngage with Humility: \u00a0We actively participate with openness and receptiveness. We are ready to listen, learn, and speak thoughtfully and kindly\u2014regardless of skill level, expertise, or place on the org chart.\nInvest in our team: \u00a0We give our time and energy to our team\u2019s success\u2014improving collaboration with effective communication, making space for diverse perspectives, sharing knowledge, and asking questions.\nDo Our Best Work: We aspire to do our best possible work\u2014continually looking for ways to improve the quality of our individual output and contribute to our team's overall success and growth.\nFocus on Customer Impact: \u00a0We advocate for our customer\u2019s best interests in our decision-making\u2014we can trace the goal of every project back to creating positive value for our customers.\nThink Holistically, Wo",
     "posted_at": "10h",
     "priority": 5,
     "first_seen": "2026-11-16T10:47:11.927523-08:00",
@@ -10758,7 +10760,7 @@
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "",
+    "description": "Your portfolio should showcase creative ideation and execution of stellar design work. We\u2019re looking for someone who can take initiative, be scrappy when needed, and is excited to push this brand forward. You should be able to understand our industry and brand, then translate to work for different audiences and channels.\nJoin us! We have serious momentum in the market and an incredible roster of smart folks making it happen every day.\nWhat You\u2019ll Do:\nDevelop the Navan brand and maintain a cohesive visual identity, ensuring consistency across all marketing touchpoints.\nDesign and produce high-quality marketing materials, including digital assets, print collateral, social media graphics, and presentation decks.\nCollaborate with cross-functional teams to ensure brand consistency and alignment with overall business goals.\nStay current with industry trends, design techniques, and emerging technologies to continuously improve the quality and effectiveness of our brand design.\nManage multiple projects simultaneously, ensuring deadlines are met and deliverables exceed expectations.\nPartner with our brand copywriters to marry copy and design for creative excellence.\nA robust portfolio showcasing design and creative excellence.\nExpertise in Figma, Adobe Creative Suite, and Google products.\nStrong understanding of typography, color theory, and layout design.\nExcellent communication and presentation skills, with the ability to articulate design decisions and rationale.\nA creative thinker with a proactive approach to problem-solving.\nAppetite for streamlining workflows and creative innovation with AI tools.\nAnimation and art direction skills are a plus.\nNavan uses AI-assisted Automated Employment Decision Tool (Metaview) to assist with evaluating resumes against job qualifications for this role. All final decisions are made by human recruiters and hiring managers.\nHuman oversight: \u00a0 Metaview does not automatically reject candidates or make final hiring decisions. Our recruiters and hiring managers review all outputs and make the final hiring decision regarding every application.\nYour rights: If you prefer to have your application reviewed without AI assistance, you may request a human evaluation by entering your email here . Your decision to do so will not affect how your candidacy is evaluated.\nPlease refer to our Candidate Privacy Notice for more information about our processing of personal data, and your rights.\nM Growth & Brand Designer MAGIC AI M Art Director Mojang Studios P Senior Brand Designer Plaid A Art Director AntiSocial B Brand Designer Blank Street\nUI/UX designer jobs Product designer jobs UX designer jobs UI designer jobs UX researcher jobs Content designer jobs Design engineer jobs Brand designer jobs Graphic designer jobs Motion designer jobs Design management jobs\nApply for this job Please mention you found this position on UI/UX Jobs Board when applying for this job.\nStay safe! When applying for a job you should never have to pay anything.\nMEDvidi is hiring Staff Product Designer (AI Track)",
     "posted_at": "10h",
     "priority": 3,
     "first_seen": "2026-11-16T10:47:13.671585-08:00",
@@ -10801,7 +10803,8 @@
     "priority": 5,
     "first_seen": "2026-11-16T10:47:17.518848-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "b2e140ab612cbd0ba573c6596d545dc1": {
     "id": "b2e140ab612cbd0ba573c6596d545dc1",
@@ -10820,7 +10823,8 @@
     "priority": 4,
     "first_seen": "2026-11-16T10:47:19.226469-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "fb76d28da977d5dfe0f0438cf9388913": {
     "id": "fb76d28da977d5dfe0f0438cf9388913",
@@ -10839,7 +10843,8 @@
     "priority": 4,
     "first_seen": "2026-11-16T10:47:20.989737-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "jd_failed": 1
   },
   "1f6751930e394dc31f0f64a532032613": {
     "id": "1f6751930e394dc31f0f64a532032613",
@@ -10859,7 +10864,7 @@
     "first_seen": "2026-11-16T10:47:22.864056-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "e595331fae98fd9ab0a31d42ff67d3f2": {
     "id": "e595331fae98fd9ab0a31d42ff67d3f2",
@@ -10879,7 +10884,7 @@
     "first_seen": "2026-11-16T10:47:24.619735-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "3f4e41f01a78c4c4c58efde694d8a963": {
     "id": "3f4e41f01a78c4c4c58efde694d8a963",
@@ -10899,7 +10904,7 @@
     "first_seen": "2026-11-16T10:47:26.390713-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "f8794f32bd6f2a4f2e0ca64888c24af6": {
     "id": "f8794f32bd6f2a4f2e0ca64888c24af6",
@@ -10919,7 +10924,7 @@
     "first_seen": "2026-11-16T10:47:28.293779-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "99cad1a70212b15ac8573bb238e5b62f": {
     "id": "99cad1a70212b15ac8573bb238e5b62f",
@@ -10958,7 +10963,7 @@
     "first_seen": "2026-11-16T10:47:31.950816-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 2
   },
   "0b47b10d84759607a9a763906f75e435": {
     "id": "0b47b10d84759607a9a763906f75e435",
@@ -11054,7 +11059,7 @@
     "first_seen": "2026-11-16T10:47:40.948129-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "9505755a0957d1ebec28d3c3162555ad": {
     "id": "9505755a0957d1ebec28d3c3162555ad",
@@ -11596,25 +11601,6 @@
     "status": "active",
     "applied_at": null
   },
-  "85a4f4d02241a0807f258463ab8694a2": {
-    "id": "85a4f4d02241a0807f258463ab8694a2",
-    "title": "Digital Experience Designer",
-    "company": "Superworq",
-    "location": "Remote",
-    "salary": "Not listed",
-    "url": "https://superworq.com/jobs/USA1-C93DA8AC8728F21F7F3AE68A96515C12",
-    "source": "OpenDoors",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "visa": null,
-    "founders": [],
-    "description": "Group O is seeking a Digital Experience Designer to support digital design for business. This hands-on contract opportunity combines exceptional visual design, digital merchandising, visual storytelling, and practical UX/UI execution. The designer will elevate customer-facing responsive web experien",
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-11-17T02:56:31.111321-08:00",
-    "status": "active",
-    "applied_at": null
-  },
   "f2f0f75f007baa8527e86dd65c0d7c64": {
     "id": "f2f0f75f007baa8527e86dd65c0d7c64",
     "title": "UX Designer",
@@ -11688,6 +11674,25 @@
     "posted_at": "3h",
     "priority": 3,
     "first_seen": "2026-11-17T02:56:37.862642-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "56dc03b0085fd0c59e5b0ce7a1416bf5": {
+    "id": "56dc03b0085fd0c59e5b0ce7a1416bf5",
+    "title": "Product Designer",
+    "company": "Alveole",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://weworkremotely.com/remote-jobs/alveole-product-designer",
+    "source": "WeWorkRemotely",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Headquarters: Vancouver, British Columbia, Canada\n    URL: https://www.alveole.com\n\n\nAbout us \ud83d\udc1d\nAlv\u00e9ole is on a mission to connect people with nature in cities, one building at a time. As a certified B Corporation since 2018, we believe business can be a force for good.We partner with the world\u2019s",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-17T11:31:44.094541-08:00",
     "status": "active",
     "applied_at": null
   }
