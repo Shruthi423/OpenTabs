@@ -1,5 +1,22 @@
 [
   {
+    "id": "f3688e701e6e7fc3de6f169fd42f47a4",
+    "title": "Product Design Engineer",
+    "company": "Fortinet",
+    "location": "Santa Clara, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4491786222",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 2,
+    "first_seen": "2026-11-17T17:23:18.818643-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "b82ee76e15b2043859c03b2c9b2bf0a5",
     "title": "User Experience Designer",
     "company": "VIVA",
@@ -15857,23 +15874,6 @@
     "posted_at": "2026-09-13",
     "priority": 2,
     "first_seen": "2026-10-18T20:51:47.892680-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "8d1f083e45124d14d8fb23fd71dcb445",
-    "title": "UX/UI/Technical Content Intern",
-    "company": "Clearwater Analytics",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4470538331",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-10-17T18:20:42.435839-07:00",
     "status": "active",
     "jd": "yes"
   }
