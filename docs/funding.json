@@ -1,5 +1,37 @@
 [
   {
+    "id": "483eecd4ade78fca82524432fd88827e",
+    "company": "Scammers",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/11/17/nvidia-investment-phishing-emails",
+    "priority": 3,
+    "founders": [
+      "Jensen Huang"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-17T17:50:39.205854-08:00",
+    "status": "active"
+  },
+  {
+    "id": "bb9babeeefb5b28748cdd034bbc72c54",
+    "company": "Microsoft Veterans' Edelbyte",
+    "amount": "$70.0M",
+    "stage": "Seed",
+    "investors": "Sequoia",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DN1A0Mm1ubFNaSi1SMUN2cWJsLUpoc1BDWjlBZ1NUUUNrbGo5aFRsTTA5RzBGY3JLWlFwNzRLQ1ItM1dYUFpQVXZpUmpKWng4dkln?oc=5",
+    "priority": 12,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-17T17:50:34.801091-08:00",
+    "status": "active"
+  },
+  {
     "id": "4abfbae733efa738cb1ed8efeae496a9",
     "company": "Hank Green",
     "amount": "Undisclosed",
@@ -6335,36 +6367,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-10-18T04:14:37.070179-07:00",
-    "status": "active"
-  },
-  {
-    "id": "68a53ee2e0bcef1b0ea2f87805b9f709",
-    "company": "AIsa",
-    "amount": "$9.0M",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXFUSGFpX1hEVDEzQlNTQ0JEOE4wRXVWLVhyUDFjRHZIdlpZbmQ4MEhuME5fbUt1am40bjdDRzRPUGwySG5DRk9qNEQzQ0R2bG1HMC1Cd0wxSzlZNkV3RHFyVXNrak1NV0NVMy15QVh0X0JLRVZ0Q1dMZDhVNjFFc2RRXy1FeVV0d0oxbEFsYnE4cEdYd3E2c0tBeTBqNi1wZTlv?oc=5",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-17T16:28:40.871909-07:00",
-    "status": "active"
-  },
-  {
-    "id": "fcc1b26d5c4676170d9482ba076d38a7",
-    "company": "Minicor",
-    "amount": "$3.8M",
-    "stage": "Seed",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXI4bUtUUmVyNGcwcHlKdkYzYlNUT0M2V2hVekd3TUQ0dFZGejk0Mi1LM05JU1Y4bTNfdHFHRmVocnBGcEpnLXNIc05PanRjc1p0QUptRnVyUXpCV1VEQ1ZLYWpXOHRSZHJCeGtKUkxydzhSemtKNlc3bTVaTTZZdGxn?oc=5",
-    "priority": 9,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-17T14:45:34.954690-07:00",
     "status": "active"
   }
 ]

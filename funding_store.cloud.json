@@ -13966,5 +13966,39 @@
     "roles": [],
     "first_seen": "2026-11-17T11:32:46.795344-08:00",
     "status": "active"
+  },
+  "bb9babeeefb5b28748cdd034bbc72c54": {
+    "id": "bb9babeeefb5b28748cdd034bbc72c54",
+    "company": "Microsoft Veterans' Edelbyte",
+    "amount": "$70.0M",
+    "stage": "Seed",
+    "investors": "Sequoia",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DN1A0Mm1ubFNaSi1SMUN2cWJsLUpoc1BDWjlBZ1NUUUNrbGo5aFRsTTA5RzBGY3JLWlFwNzRLQ1ItM1dYUFpQVXZpUmpKWng4dkln?oc=5",
+    "priority": 12,
+    "blurb": "Microsoft Veterans' Edelbyte Raises $70M Seed and Series A Led by Sequoia to Challenge Data Infrastructure Giants - Wowtale. Microsoft Veterans' Edelbyte Raises $70M Seed and Series A Led by Sequoia to Challenge Data Infrastructure Giants&nbsp;&nbsp;Wowtale",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-17T17:50:34.801091-08:00",
+    "status": "active"
+  },
+  "483eecd4ade78fca82524432fd88827e": {
+    "id": "483eecd4ade78fca82524432fd88827e",
+    "company": "Scammers",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/11/17/nvidia-investment-phishing-emails",
+    "priority": 3,
+    "blurb": "Scammers are sending fake emails to people worried about Nvidia's stock. Scammers are already exploiting the scandal surrounding Nvidia to lure unsuspecting investors and business professionals into downloading malware.Why it matters: AI is making it easier for criminals to capitalize on the news cycle and tailor scams to specific audiences before people have time to recognize the threat.Driving the news: KnowBe4, the cybersecurity training platform, says it's seen scammer emails using the subje",
+    "founders": [
+      "Jensen Huang"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-17T17:50:39.205854-08:00",
+    "status": "active"
   }
 }

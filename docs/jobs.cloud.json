@@ -659,7 +659,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:47:31.950816-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "99cad1a70212b15ac8573bb238e5b62f",
@@ -692,7 +693,8 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-11-16T10:47:28.293779-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "3f4e41f01a78c4c4c58efde694d8a963",
@@ -708,7 +710,8 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-11-16T10:47:26.390713-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "e595331fae98fd9ab0a31d42ff67d3f2",
@@ -724,7 +727,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:47:24.619735-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "1f6751930e394dc31f0f64a532032613",
@@ -740,7 +744,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:47:22.864056-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "fb76d28da977d5dfe0f0438cf9388913",
@@ -772,7 +777,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:47:19.226469-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "78216ad6998d88bffb1da6df49b9d2f0",
@@ -2100,23 +2106,6 @@
     "jd": "yes"
   },
   {
-    "id": "192e64c916b705496c5c28fdf8305e72",
-    "title": "Junior Interaction Designer - Government Digital Service",
-    "company": "Civil Service World",
-    "location": "Manchester, United Kingdom",
-    "salary": "Not listed",
-    "url": "https://www.civilserviceworld.com/jobs/listing/junior-interaction-designer",
-    "source": "OpenDoors",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 4,
-    "first_seen": "2026-11-09T12:33:18.981134-08:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "06094acc4c4b93eb5405195bfd0f8b8c",
     "title": "User Experience Designer",
     "company": "Department of the Treasury - Internal Revenue Service",
@@ -2317,23 +2306,6 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-11-09T12:32:56.502031-08:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "ecfa5bda583a3733d2a9d37b195c2feb",
-    "title": "DataAnnotation is seeking a Visual Designer - AI Model Evaluator",
-    "company": "Unknown",
-    "location": "Remote",
-    "salary": "See posting",
-    "url": "https://www.coroflot.com/design-jobs/Visual-Designer-AI-Model-Evaluator-DataAnnotation-United-States-685373",
-    "source": "Coroflot",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-11-09T12:32:54.953022-08:00",
     "status": "active",
     "jd": "yes"
   },

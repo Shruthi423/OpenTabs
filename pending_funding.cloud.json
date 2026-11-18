@@ -1,171 +1,34 @@
 [
   {
     "item": {
-      "company": "LanceDB",
-      "amount": "$57.5M",
-      "stage": "Series B",
-      "investors": "Bessemer, Bessemer Venture Partners, Theory Ventures",
-      "location": null,
-      "blurb": "LanceDB raises $57.5M to accelerate AI model training with multimodal data platform. LanceDB Inc., the developer of database technology designed to speed up artificial intelligence models, today announced it has raised $57.5 million in early-stage funding to bring a multimodal lakehouse to researchers, model builders and platform teams. Bessemer Venture Partners and Innovation Endeavors led the Series B round. Other investors in the round included Theory Ventures, [&#8230;]\nThe post LanceDB rais",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
-      "priority": 10
-    },
-    "remind_at": "2026-11-17T12:02:06.403910-08:00"
-  },
-  {
-    "item": {
-      "company": "Sqwish Labs",
-      "amount": "$3.0M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": "Cambridge",
-      "blurb": "Cambridge AI startup Sqwish Labs raises $3M as its decision models beat OpenAI and Microsoft in benchmark tests. An eight-person AI startup from Cambridge, UK, is taking on some of the biggest names in artificial intelligence, and its latest benchmark results suggest that massive funding isn&#8217;t always necessary to compete. Sqwish Labs has raised $3 million in pre-seed [&#8230;]\nThe post Cambridge AI startup Sqwish Labs raises $3M as its decision models beat OpenAI and Microsoft in benchmark",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/11/17/cambridge-ai-startup-sqwish-labs-raises-3m-as-its-decision-models-beat-openai-and-microsoft-in-benchmark-tests/",
-      "priority": 10
-    },
-    "remind_at": "2026-11-17T12:02:09.267119-08:00"
-  },
-  {
-    "item": {
-      "company": "Global Kiwi Labs",
-      "amount": "$4.0M",
+      "company": "Microsoft Veterans' Edelbyte",
+      "amount": "$70.0M",
       "stage": "Seed",
-      "investors": null,
+      "investors": "Sequoia",
       "location": null,
-      "blurb": "Global Kiwi Labs raises $4M to bring Wall Street\u2019s fair-access trading Infrastructure to crypto. In crypto trading, speed can be worth millions, and the firms with the deepest pockets often have the fastest connections. Global Kiwi Labs wants to change that. The startup announced Tuesday that it has raised $4 million in seed funding [&#8230;]\nThe post Global Kiwi Labs raises $4M to bring Wall Street\u2019s fair-access trading Infrastructure to crypto first appeared on Tech Startups.",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/11/17/global-kiwi-labs-raises-4m-to-bring-wall-streets-fair-access-trading-infrastructure-to-crypto/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-17T12:02:14.905296-08:00"
-  },
-  {
-    "item": {
-      "company": "Isomorphic Labs",
-      "amount": "$5.0B",
-      "stage": "Series C",
-      "investors": "Greenoaks, Sequoia, Sequoia Capital",
-      "location": null,
-      "blurb": "Isomorphic Labs Raises $5 Billion Series C With Greenoaks, Sequoia Capital - Quantum Zeitgeist. Isomorphic Labs Raises $5 Billion Series C With Greenoaks, Sequoia Capital&nbsp;&nbsp;Quantum Zeitgeist",
+      "blurb": "Microsoft Veterans' Edelbyte Raises $70M Seed and Series A Led by Sequoia to Challenge Data Infrastructure Giants - Wowtale. Microsoft Veterans' Edelbyte Raises $70M Seed and Series A Led by Sequoia to Challenge Data Infrastructure Giants&nbsp;&nbsp;Wowtale",
       "founders": [],
       "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hazlzaG9zQ2pWQk54Q3ZwQkhYNGlCVlRqZ3pGTXh6RVRJRGtDRk14d291UDN4LTNWa0tuYmdlRmhtQ3U1VkZ3U2ItTFVsUFQzdi00X1YzYzJZcVUzOXNPOWhGNTdManRqaFdtVHpXR2V4MlJnS2Q3M0JMcw?oc=5",
-      "priority": 9
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DN1A0Mm1ubFNaSi1SMUN2cWJsLUpoc1BDWjlBZ1NUUUNrbGo5aFRsTTA5RzBGY3JLWlFwNzRLQ1ItM1dYUFpQVXZpUmpKWng4dkln?oc=5",
+      "priority": 12
     },
-    "remind_at": "2026-11-17T12:02:17.753298-08:00"
+    "remind_at": "2026-11-17T18:20:33.800937-08:00"
   },
   {
     "item": {
-      "company": "Marble",
-      "amount": "$5.5M",
-      "stage": "Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Restaurant AI startup Marble raises $5.5M seed round - Dealroom. Restaurant AI startup Marble raises $5.5M seed round&nbsp;&nbsp;Dealroom",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdTlSUHNiU081M3N6UXcwcDd0SllXRWtOSGsxUE92NEN0cDlCUGp3alBGVUx0ejhXVW9YRTdxRnZSc2RxbWpuMWItVzhhRlliT2UyTTI0c0ZXT3NpUm1qMmlfUmNyTHlIRUw1Z3RlVDR5cEZ1MnV0NmFRZTRYMjFmanEtUEZrY3BacFNLUEdn?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-11-17T12:02:21.368994-08:00"
-  },
-  {
-    "item": {
-      "company": "Karta AI",
-      "amount": null,
-      "stage": "Seed",
-      "investors": "Peer Capital & Cedar Hill Capital - BW Disrupt Karta AI Raises Rs",
-      "location": null,
-      "blurb": "Karta AI Raises Rs 28.52 Cr In Seed Round Led By Peer Capital & Cedar Hill Capital - BW Disrupt. Karta AI Raises Rs 28.52 Cr In Seed Round Led By Peer Capital & Cedar Hill Capital&nbsp;&nbsp;BW Disrupt",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdTVyc25aNmxSc0VlaDFuazRuUExiempwZ2MyLWJ6UG9sdnF3cnlqWThwNHVxSzBjSHRNSzNEQWlJMTN5aDlaUzZNLWtrU3hIbVVlT3VtZmJ6aGJsYnR3QmFVZ080Ylk5YnRhUU5zcERCUXV3Uko2dE9CQmJXRnN6YVpOMUJNMDdSaWxlU0dEWG5HVDFzaFpvVWJCTlJrcFFGVjhFRW5mMHdYUXJrY1ZsTE01RXJzbENPVTZKLW13?oc=5",
-      "priority": 9
-    },
-    "remind_at": "2026-11-17T12:02:24.280974-08:00"
-  },
-  {
-    "item": {
-      "company": "Genesis AI",
-      "amount": "$500.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses. Genesis AI, a startup teaching robots to perform physical tasks by learning from human movements, announced Tuesday it has raised $500 million in Series A funding at a $3.5 billion valuation.",
-      "founders": [],
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
-      "priority": 8
-    },
-    "remind_at": "2026-11-17T12:02:27.693367-08:00"
-  },
-  {
-    "item": {
-      "company": "Pedestal AI",
-      "amount": "$4.7M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Pedestal AI raises $4.7 million to agentify the supply chain. The company uses agentic AI to make supply chains faster and more reliable.",
-      "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-      "priority": 3
-    },
-    "remind_at": "2026-11-17T12:02:30.481588-08:00"
-  },
-  {
-    "item": {
-      "company": "Hank Green",
+      "company": "Scammers",
       "amount": null,
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids. Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
+      "blurb": "Scammers are sending fake emails to people worried about Nvidia's stock. Scammers are already exploiting the scandal surrounding Nvidia to lure unsuspecting investors and business professionals into downloading malware.Why it matters: AI is making it easier for criminals to capitalize on the news cycle and tailor scams to specific audiences before people have time to recognize the threat.Driving the news: KnowBe4, the cybersecurity training platform, says it's seen scammer emails using the subje",
       "founders": [
-        "Leslie Morgan"
+        "Jensen Huang"
       ],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/17/nvidia-investment-phishing-emails",
       "priority": 3
     },
-    "remind_at": "2026-11-17T12:02:39.051086-08:00"
-  },
-  {
-    "item": {
-      "company": "Fairly",
-      "amount": "$22.0M",
-      "stage": null,
-      "investors": null,
-      "location": "Portland",
-      "blurb": "Portland startup Fairly raises $22M to pair local caretakers with AI for vacation rentals. The company, led by Vacasa founder Eric Breon, says guest bookings on its platform jumped to more than $66 million over the past year. Read More",
-      "founders": [
-        "Eric Breon"
-      ],
-      "source": "GeekWire Funding",
-      "url": "https://www.geekwire.com/2026/portland-startup-fairly-raises-22m-to-pair-local-caretakers-with-ai-for-vacation-rentals/",
-      "priority": 3
-    },
-    "remind_at": "2026-11-17T12:02:41.986791-08:00"
-  },
-  {
-    "item": {
-      "company": "Aarden",
-      "amount": "$8.0M",
-      "stage": null,
-      "investors": null,
-      "location": "Seattle",
-      "blurb": "Aarden raises $8M to build smarter land markets for AI buildout and energy projects. The AI boom is creating a new land rush, and Seattle-based startup Aarden wants to help determine where the next generation of infrastructure gets built. The company has raised $8 million to modernize how landowners, developers, and investors evaluate, value, [&#8230;]\nThe post Aarden raises $8M to build smarter land markets for AI buildout and energy projects first appeared on Tech Startups.",
-      "founders": [],
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/11/17/aarden-raises-8m-to-build-smarter-land-markets-for-ai-buildout-and-energy-projects/",
-      "priority": 3
-    },
-    "remind_at": "2026-11-17T12:02:45.795227-08:00"
+    "remind_at": "2026-11-17T18:20:38.205707-08:00"
   }
 ]
