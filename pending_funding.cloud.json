@@ -1,167 +1,62 @@
 [
   {
     "item": {
-      "company": "Voyage Labs",
-      "amount": "$12.0M",
+      "company": "Unsiloed",
+      "amount": "$7.5M",
       "stage": "Seed",
-      "investors": "Kleiner Perkins",
+      "investors": "Y Combinator, Uncorrelated Ventures",
       "location": null,
-      "blurb": "Voyage Labs Raises $12M Seed. Voyage Labs raises $12 million in a seed round led by Kleiner Perkins to scale its AI-powered travel planning platform Atlas.",
+      "blurb": "Unsiloed\u00a0nabs $7.5M to turn scanned documents into structured data for AI agents. Document-scanning firm Unsiloed Inc. today announced it has raised $7.5 million in seed funding to turn PDFs and other complex documents into structured, readable data for artificial intelligence agents. Participants in the round, led by Felicis, included Y Combinator, Orange Collective, Uncorrelated Ventures, Aarthi Ramamurthy and Beth Turner. A variety of documents arrive in formats [&#8230;]\nThe post Unsiloed\u00a0na",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/voyage-labs-raises-12m-seed/",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/18/unsiloed-nabs-7-5m-to-turn-scanned-documents-into-structured-data-for-ai-agents/",
       "priority": 12
     },
-    "remind_at": "2026-11-18T02:03:28.998324-08:00"
+    "remind_at": "2026-11-18T11:03:32.563716-08:00"
   },
   {
     "item": {
-      "company": "Valkryn",
-      "amount": "$15.0M",
-      "stage": "Seed",
-      "investors": "Andreessen Horowitz",
-      "location": null,
-      "blurb": "Valkryn Raises $15M Seed. Valkryn raises $15M seed round led by Andreessen Horowitz to scale its autonomous warfare testing and evaluation software infrastructure.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/valkryn-raises-15m-seed/",
-      "priority": 12
-    },
-    "remind_at": "2026-11-18T02:03:31.939145-08:00"
-  },
-  {
-    "item": {
-      "company": "Mulga",
-      "amount": "$1.77M",
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Mulga Raises $1.77M Pre-seed. Mulga raises $1.77 million in pre-seed funding to expand its open-source Spinifex platform, helping enterprises run AWS workloads on any compute infrastructure.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/mulga-raises-1-77m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-11-18T02:03:34.891006-08:00"
-  },
-  {
-    "item": {
-      "company": "Iconic",
-      "amount": "$10.0M",
-      "stage": "Seed",
-      "investors": "Peak Capital",
-      "location": null,
-      "blurb": "Iconic Raises $10M Seed. Iconic raises $10M in seed funding led by Peak Capital to expand its AI platform for managing and reviewing large capital project documentation.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/iconic-raises-10m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-18T02:03:37.911113-08:00"
-  },
-  {
-    "item": {
-      "company": "Remanence",
-      "amount": "$30.0M",
-      "stage": "Seed",
-      "investors": "EQT Ventures",
-      "location": null,
-      "blurb": "Remanence Raises $30M Seed. Remanence raises $30 million in a seed round led by EQT Ventures and FirstMark to help companies train and own their proprietary AI models.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/remanence-raises-30m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-18T02:03:40.954918-08:00"
-  },
-  {
-    "item": {
-      "company": "Nvidia-backed Genesis AI",
-      "amount": "$500.0M",
+      "company": "Soombit AI",
+      "amount": null,
       "stage": "Series A",
       "investors": null,
       "location": null,
-      "blurb": "Nvidia-backed Genesis AI raises $500M Series A at $3.5B valuation to build general-purpose robots. What if robots could do more than repeat a single programmed task? Imagine a machine that can pack&#8230;",
+      "blurb": "Medical Imaging AI Startup Soombit AI Raises USD 9.1M Series A, Selected for Scale-up TIPS - Wowtale. Medical Imaging AI Startup Soombit AI Raises USD 9.1M Series A, Selected for Scale-up TIPS&nbsp;&nbsp;Wowtale",
       "founders": [],
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/nvidia-backed-genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-build-general-purpose-robots/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YMHllcC1zd0FlT2E1cm9pYmtSVVJBd3VCT2VVS21JZVJwcm5ZZzZidWxDaVo2eUFaWFptRHhqVHBYV2xmY01XcEg1bFF3U2dYOGNj?oc=5",
       "priority": 8
     },
-    "remind_at": "2026-11-18T02:03:46.588849-08:00"
+    "remind_at": "2026-11-18T11:03:37.009752-08:00"
   },
   {
     "item": {
-      "company": "Model ML",
-      "amount": "$250.0M",
-      "stage": "Series B",
-      "investors": "General Atlantic and QED Investors",
-      "location": null,
-      "blurb": "Model ML Raises $250M Series B. Model ML raises $250M Series B at a $1.5B valuation led by General Atlantic and QED Investors to automate financial modeling and analysis.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/model-ml-raises-250m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-11-18T02:03:52.213035-08:00"
-  },
-  {
-    "item": {
-      "company": "Sensei Labs",
-      "amount": null,
-      "stage": "Series B",
-      "investors": "Straylight Capital",
-      "location": null,
-      "blurb": "Sensei Labs Raises Series B. Sensei Labs raises a Series B round led by Straylight Capital to scale its AI-native strategy execution platform and accelerate market expansion.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sensei-labs-raises-series-b-led-by-straylight-to-scale-conductor-names-john-harris-ceo/",
-      "priority": 7
-    },
-    "remind_at": "2026-11-18T02:03:55.069017-08:00"
-  },
-  {
-    "item": {
-      "company": "Compute Desk",
-      "amount": "$45.0M",
-      "stage": null,
-      "investors": "Lightspeed, Lightspeed Venture Partners",
-      "location": null,
-      "blurb": "Compute Desk Raises $45M in Funding. Compute Desk raises $45M in a funding round led by Lightspeed Venture Partners to scale its compute-focused financial clearing and trading platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/compute-desk-raises-45m-other/",
-      "priority": 6
-    },
-    "remind_at": "2026-11-18T02:04:00.782659-08:00"
-  },
-  {
-    "item": {
-      "company": "Payhawk",
-      "amount": "$280.0M",
-      "stage": "Series C",
+      "company": "Humyn Labs",
+      "amount": "$47.0M",
+      "stage": "Series A",
       "investors": null,
       "location": null,
-      "blurb": "Payhawk Raises $280M Series C. Payhawk raises $280M in a Series C round led by Goldman Sachs Alternatives at a $2B valuation to scale its AI-native finance operating system.",
+      "blurb": "AI startup Humyn Labs raises $47 million in Series A funding round - Business Standard. AI startup Humyn Labs raises $47 million in Series A funding round&nbsp;&nbsp;Business Standard",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/payhawk-raises-280m-series-c/",
-      "priority": 6
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNXZSOGpKLWxTdFIzakN4c0JQS3BJdkM5MVNfRDA0QUZjVUdxMWZOSUdWbHROQ0ZYQmh6VjNSSm1xQmFXZnZGMVlyMHBSeTFtem1OTUhoMEtfZWZfRkZMdXduT2ZSQVNETV9rZGptWmJEckg4cU4yTVNES3hKU2NNY3gwaDR1Q0tESFRlSTZ3bTVUN1B5TTQtcFlhUHRrR2V5X2tlYkxJTTV4d2JvWjRMTnRnbHhMWkVHNWJPSFJTUWo0dlJpWGFEYjQxdTNodVnSAdQBQVVfeXFMUDBNU251cTZyY1huU29YVFhrd3lqUHNPNlBVRXNLR0I5T3d6aWpaazBPX1Q2NGcybjZ2ZTZoZG9lYjl3VnBLOHlRQkdHQzBmNWhyZmY2YTJPd1NiVk9zTjFYVXk4SXBodWotVlpQbTJlbUt6czliUzhDRlVqX1lNa29pZjl6SGx3dVFseFR3UUhXOXg2QllDMjdJM0xVZVM0OGpCVEFOQkFhbldrMmltRWdScXhWY0t6dTdCa3gxTWdFNVc0SmhGZG01cjB4SG9JQl9HRl8?oc=5",
+      "priority": 8
     },
-    "remind_at": "2026-11-18T02:04:03.891934-08:00"
+    "remind_at": "2026-11-18T11:03:40.054546-08:00"
   },
   {
     "item": {
-      "company": "Akua",
-      "amount": null,
+      "company": "BrightAI",
+      "amount": "$97.0M",
       "stage": null,
-      "investors": "Ita\u00fa Ventures",
-      "location": null,
-      "blurb": "Akua Secures Investment. Akua receives an investment from Ita\u00fa Ventures to implement its artificial intelligence payment acquiring technology for Ita\u00fa in Uruguay.",
+      "investors": null,
+      "location": "The Palo Alto",
+      "blurb": "BrightAI raises $97M to bring physical AI to critical infrastructure using robots, drones, and smart sensors. BrightAI has raised $97 million to bring artificial intelligence out of data centers and into the physical infrastructure that keeps everyday life running. The Palo Alto-based startup bets that AI-powered sensors, autonomous robots, and drones can help utilities and industrial [&#8230;]\nThe post BrightAI raises $97M to bring physical AI to critical infrastructure using robots, drones, an",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/akua-secures-investment/",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/11/18/brightai-raises-97m-to-bring-physical-ai-to-critical-infrastructure-using-robots-drones-and-smart-sensors/",
       "priority": 3
     },
-    "remind_at": "2026-11-18T02:04:06.949745-08:00"
+    "remind_at": "2026-11-18T11:03:43.372928-08:00"
   }
 ]
