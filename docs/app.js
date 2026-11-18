@@ -14,21 +14,21 @@ let FUND = [];                          // raw data from funding.json
 const state = {
   q: "", source: [], loc: [], date: "",              // source/loc = multi
   mode: "board",                                    // cognition mode was retired from the rail
-  cog: localStorage.getItem("cogCol") || "today",   // which column cognition mode works
-  view: localStorage.getItem("view") === "list" ? "list" : "board",   // board (3 columns) | list (one)
-  tab: localStorage.getItem("tab") || "today",       // which column the list view shows
-  cogI: 0,                                          // cursor into that column's deck
-  rank: JSON.parse(localStorage.getItem("rank") || '{"today":false,"prev":false,"raised":false}'),
-  theme: localStorage.getItem("theme") || "dark",
-  drawer: null,                                     // null | "app" | "trash"
+  cog: localStorage.getItem("cogCol") || "jobs",    // which pile cognition mode works
+  page: localStorage.getItem("page") || "jobs",      // jobs | news
+  cogI: 0,                                          // cursor into that pile's deck
+  rank: JSON.parse(localStorage.getItem("rank") || '{"jobs":false}'),
+  theme: localStorage.getItem("theme") || "paper",
+  drawer: null,                                     // null | "app" | "out" | "trash"
 };
 /* Labels for the confirm dialog and the empty states. */
-const LABELS = { today: "Last 24h", prev: "Older than 24h", raised: "Just Raised", app: "Applied", trash: "Trash", bury: "Trash" };
+const LABELS = { jobs: "Open roles", raised: "Just Raised", app: "Applied", trash: "Trash", bury: "Trash" };
 /* Rail modes. "board" is this three-column triage surface. Cognition mode
    ("brain") was retired from the rail: its code below is still here and
    working, but nothing can reach it until a control is put back. */
 const MODES = ["board", "cognition"];
-const COG_COLS = ["today", "prev", "raised"];
+const COG_COLS = ["jobs", "raised"];
+const PAGES = ["jobs", "news"];
 const THEMES = ["dark", "paper", "blush", "mint", "cream"];
 const PAGE = 40;                        // rows rendered per column up front
 const MAX_AGE_MS = 30 * 864e5;          // the site ignores anything older
@@ -971,27 +971,48 @@ function decayOf(j) {
   return Math.max(0.5, 1 - Math.min(1, Math.max(0, days - 3) / 25) * 0.5);
 }
 
+/* A logo, where one can be found. The feeds carry no image, so the domain
+   is guessed from the company name and asked of DuckDuckGo's icon service.
+   It answers "no icon" with a 48x48 grey glyph under a 404 — and Chrome
+   paints a 404's body — so the glyph is caught by its size and dropped,
+   which leaves the letter mark underneath: tinted from the name, stable
+   per company. (unavatar was the other candidate and rate-limits hard.)
+   A guessed domain is sometimes the wrong company's logo; the alternative
+   was no logos at all. */
+function logoMark(name, extra) {
+  const t = (name || "?").trim();
+  let h = 0;
+  for (let i = 0; i < t.length; i++) h = (h * 31 + t.charCodeAt(i)) % 360;
+  const d = coDomain(t);
+  const img = d ? `<img src="https://icons.duckduckgo.com/ip3/${esc(d)}.com.ico" alt="" loading="lazy" onload="if(this.naturalWidth===48||this.naturalWidth<12)this.remove();else this.classList.add('on')" onerror="this.remove()">` : "";
+  return `<span class="logo-mark${extra ? " " + extra : ""}" style="--hue:${h}" aria-hidden="true"><i>${esc(t[0] || "?").toUpperCase()}</i>${img}</span>`;
+}
+
+/* One row of the feed. The reference list is a single wide line: mark,
+   role, company, then location and date flushed right — so the eye runs
+   down the titles and only stops where it wants to. The verbs that used
+   to sit on every card now open on hover / focus, because 9,000 rows of
+   buttons is a wall, not a board. */
 function jobHTML(j, n, mode) {
-  const idx = String(n).padStart(2, "0");
   const badges =
     (j.is_new_grad ? '<span class="badge">New Grad</span>' : "") +
     (j.is_big_tech ? '<span class="badge">Big Tech</span>' : "")
     + thinJD(j);
   // The nouns carry the links: the company name goes to its site, the title
-  // to the posting. Nothing is added to the card to make that possible.
+  // to the posting. Nothing is added to the row to make that possible.
   const site = outreachUrls.site(j.company);
   const co = site !== "#"
     ? `<a class="co" href="${esc(site)}" target="_blank" rel="noopener" title="${esc(j.company)} website">${esc(j.company)}</a>`
     : `<span class="co">${esc(j.company)}</span>`;
-  const line = [
-    esc(j.location || "—") + (j._n ? ` <span class="dupe" title="${esc(j._locs.slice(0, 12).join(" · "))}">+${j._n - 1} more</span>` : ""),
-    esc(j.salary && j.salary !== "Not listed" ? j.salary : ""),
-    "posted " + esc(postedAgo(j)),
-  ].filter(Boolean).join('<span class="sep">·</span>');
+  const loc = esc(j.location || "—") +
+    (j._n ? ` <span class="dupe" title="${esc(j._locs.slice(0, 12).join(" · "))}">+${j._n - 1} more</span>` : "");
+  // "Not listed" / "See posting" are the scraper shrugging, not a number
+  const paid = j.salary && !/^(not listed|see posting|n\/a|—|-)$/i.test(j.salary.trim());
+  const pay = paid ? `<span class="pay">${esc(j.salary)}</span>` : "";
 
   const pending = mode !== "app" && APPLY_T[j.id];
   const applyVerb = mode === "app"
-    ? verb("unapply", { label: "applied", done: true, hint: "Applied — click to move it back to the board" })
+    ? verb("unapply", { label: "applied", done: true, hint: "Applied — click to move it back to the list" })
     : verb("apply", { label: "applied", done: !!pending, hint: "File this posting to Applied" });
   const verbs = mode === "trash"
     ? verb("restore", { label: "put it back" })
@@ -1002,16 +1023,17 @@ function jobHTML(j, n, mode) {
       + `<span class="verbs-tail">${verb("delete", { label: "remove", quiet: true, hint: "Move to Trash" })}</span>`;
 
   return `<div class="job${pending ? " is-done" : ""}" data-id="${esc(j.id)}"${j._ids ? ` data-ids="${esc(j._ids.join(" "))}"` : ""} data-url="${esc(j.url || "#")}" data-title="${esc(j.title)}" data-flip-id="${esc(j.id)}" style="--age:${decayOf(j).toFixed(3)}">
-      <div class="job-top">
-        <span class="idx">${idx}</span>
-        ${co}
-        <span class="src">${sourceLabel(j.source)}</span>
+      <div class="job-line">
+        ${logoMark(j.company)}
+        <span class="job-id">
+          <a class="job-title" href="${esc(j.url || "#")}" target="_blank" rel="noopener">${esc(j.title)}</a>
+          ${co}
+        </span>
+        <span class="job-right">${pay}<span class="where">${loc}</span><span class="when">${esc(postedAgo(j))}</span></span>
       </div>
-      <a class="job-title" href="${esc(j.url || "#")}" target="_blank" rel="noopener">${esc(j.title)}</a>
-      <div class="job-meta">${line}</div>
       ${badges ? `<div class="badges">${badges}</div>` : ""}
       ${j._why && j._why.length ? `<div class="score-trace">${j._why.map((w) => `<b>${esc(w)}</b>`).join("")}</div>` : ""}
-      <div class="verbs">${verbs}</div>
+      <div class="verbs"><span class="src">${sourceLabel(j.source)}</span>${verbs}</div>
     </div>`;
 }
 
@@ -1024,41 +1046,34 @@ function val(v) {
   const t = (v || "").trim();
   return /^(\?|-|—|n\/a|unknown|undisclosed\?)$/i.test(t) ? "" : t;
 }
+/* A raise is a table row now, not a card: company, amount, round, when,
+   who led, and the article. The fields the extractor could not read fall
+   back to a dash rather than widening the row with "unknown". */
 function raiseHTML(f, n) {
-  const idx   = String(n).padStart(2, "0");
   const loc   = locOf(f);
   const roles = f.roles || [];
-  const vc = tier1Of(f);
-  const badges =
-    (vc ? `<span class="badge vc">${esc(vc)}</span>` : "") +
-    (roles.length ? `<span class="badge">${roles.length} design role${roles.length > 1 ? "s" : ""}</span>` : "");
-  // headline = what happened, the way a job card's headline is the role
-  const amt = val(f.amount), stage = val(f.stage);
-  const headline = amt ? esc(amt) + (stage ? " · " + esc(stage) : "")
-                       : (stage ? esc(stage) : "Undisclosed round");
+  const vc = tier1Of(f) || val(f.investors).split(/,| and /)[0] || "";
+  const amt = val(f.amount) || "—";
+  const stage = val(f.stage) || "Venture";
   const rolesLine = roles.length
-    ? `<div class="roles">` + roles.slice(0, 2).map((r) =>
+    ? `<span class="roles">` + roles.slice(0, 2).map((r) =>
         `<a class="role" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>`).join('<span class="sep">·</span>') +
-      (roles.length > 2 ? `<span class="more-roles">+${roles.length - 2}</span>` : "") + `</div>`
-    : '<div class="roles none">No design roles posted yet — DM the founder.</div>';
-  const trace = f._why && f._why.length ? `<div class="score-trace">${f._why.map((w) => `<b>${esc(w)}</b>`).join("")}</div>` : "";
-  return `<div class="job raise" data-id="${esc(fundId(f))}">
-      <div class="job-top">
-        <span class="idx">${idx}</span>
-        <a class="co" href="${esc(outreachUrls.site(f.company))}" target="_blank" rel="noopener" title="${esc(f.company)} website">${esc(f.company)}</a>
-        <span class="src">${esc(f.source || "")}</span>
+      (roles.length > 2 ? `<span class="more-roles">+${roles.length - 2}</span>` : "") + `</span>`
+    : '<span class="roles none">No design roles posted yet — DM the founder.</span>';
+  const trace = f._why && f._why.length ? `<span class="score-trace">${f._why.map((w) => `<b>${esc(w)}</b>`).join("")}</span>` : "";
+  return `<div class="job raise" data-id="${esc(fundId(f))}" data-url="${esc(f.url || "#")}">
+      <div class="fund-line">
+        <span class="fund-co">${logoMark(f.company, "sm")}<a class="co" href="${esc(outreachUrls.site(f.company))}" target="_blank" rel="noopener" title="${esc(f.company)} website">${esc(f.company)}</a></span>
+        <span class="fund-amt">${esc(amt)}</span>
+        <span class="fund-round">${esc(stage)}</span>
+        <span class="fund-when">${esc(ago(f.first_seen))}</span>
+        <span class="fund-vc">${esc(vc || "—")}</span>
+        <span class="fund-press">
+          ${f.url ? `<a class="press" href="${esc(f.url)}" target="_blank" rel="noopener">Source<svg viewBox="0 0 256 256" width="11" height="11" fill="currentColor" aria-hidden="true"><path d="M200,64V168a8,8,0,0,1-16,0V83.31L69.66,197.66a8,8,0,0,1-11.32-11.32L172.69,72H88a8,8,0,0,1,0-16H192A8,8,0,0,1,200,64Z"></path></svg></a>` : "—"}
+          ${verb("dismiss", { label: "remove", quiet: true, hint: "Dismiss this raise" })}
+        </span>
       </div>
-      <div class="job-title">${headline}</div>
-      <div class="job-meta">
-        ${esc(val(loc) || "Location unknown")}<span class="sep">/</span>${esc(val(f.investors) || "—")}<span class="sep">/</span>Raised ${ago(f.first_seen)}
-      </div>
-      ${rolesLine}${trace}
-      ${badges ? `<div class="badges">${badges}</div>` : ""}
-      <div class="verbs">
-        ${f.url ? `<a class="verb" href="${esc(f.url)}" target="_blank" rel="noopener">read the article</a><span class="vsep">·</span>` : ""}
-        ${verb("reach", { label: "find people", hint: `Designers and design hiring at ${f.company}` })}
-        <span class="verbs-tail">${verb("dismiss", { label: "remove", quiet: true, hint: "Dismiss this raise" })}</span>
-      </div>
+      <div class="fund-sub">${esc(val(loc) || "Location unknown")}<span class="sep">·</span>${rolesLine}${trace}</div>
     </div>`;
 }
 
@@ -1067,8 +1082,10 @@ function raiseHTML(f, n) {
    the end pulls in the next page as it scrolls into view. Previous alone
    can hold thousands of rows, and building all of them on every keystroke
    was the single biggest thing making the page feel slow. */
-const LIMITS = { today: PAGE, prev: PAGE, raised: PAGE, app: PAGE, trash: PAGE };
-const LISTS  = { today: [], prev: [], raised: [], app: [], trash: [] };
+const LIMITS = { jobs: PAGE, raised: PAGE, app: PAGE, trash: PAGE };
+/* today / prev are still kept apart: cognition mode works one pile at a
+   time, and the Jobs feed is simply the two of them laid end to end. */
+const LISTS  = { today: [], prev: [], jobs: [], raised: [], app: [], trash: [] };
 let MORE_IO = null;
 const APPLY_T = {};   // jobId -> timer: a ticked card shows struck-through for a moment before it is filed
 
@@ -1149,7 +1166,11 @@ function drawRows(k) {
   const rows = $("#rows-" + k);
   if (!rows) return;
   if (!items.length) {
-    rows.innerHTML = `<div class="col-empty">${k === "trash" ? "Trash is empty." : "Nothing here."}</div>`;
+    const empty = k === "trash" ? "Trash is empty."
+      : k === "raised" ? "No raises match this filter."
+      : k === "app" ? "Nothing filed yet."
+      : "No roles match these filters.";
+    rows.innerHTML = `<div class="col-empty">${empty}</div>`;
     return;
   }
   const slice = items.slice(0, limit);
@@ -1157,11 +1178,11 @@ function drawRows(k) {
     ? slice.map((f, i) => raiseHTML(f, i + 1)).join("")
     : k === "app"
       ? datedCards(slice)
-      : slice.map((j, i) => jobHTML(j, i + 1, k)).join("");
+      : slice.map((j, i) => jobHTML(j, i + 1, k === "jobs" ? bucket(j) : k)).join("");
   rows.innerHTML = cards + (items.length > limit
     ? `<div class="more" data-more="${k}">${limit} of ${items.length} — keep scrolling</div>` : "");
 }
-/* Watch each column's sentinel; when it appears, extend that column only. */
+/* Watch each list's sentinel; when it appears, extend that list only. */
 function watchMore() {
   if (!MORE_IO) {
     MORE_IO = new IntersectionObserver((entries) => {
@@ -1191,8 +1212,8 @@ function render(animate, reset) {
   groups.app.sort((a, b) => (appliedWhen(b) || "").localeCompare(appliedWhen(a) || "")
                             || jobTime(b) - jobTime(a));
 
-  // unfiltered totals, so a column head can say "showing 3 of 76" — grouped
-  // the same way as the cards, else the two numbers disagree
+  // unfiltered totals, so the feed can say "showing 3 of 76" — grouped the
+  // same way as the rows, else the two numbers disagree
   const totals = { today: 0, prev: 0, app: 0 };
   groupDupes(allJobs().filter((j) => !isTrashed(j))).forEach((j) => totals[bucket(j)]++);
 
@@ -1201,18 +1222,16 @@ function render(animate, reset) {
   LISTS.raised = visibleRaises();
   LISTS.app    = groups.app;
 
-  // Ranking is per column, so Older than 24h can sort by fit (where "newest" of
-  // 1600 old jobs means little) while Last 24h stays chronological.
-  ["today", "prev"].forEach((k) => {
-    if (!rankOn(k)) { LISTS[k].forEach((j) => delete j._why); return; }
-    LISTS[k].forEach((j) => { const r = scoreJob(j); j._score = r.n; j._why = r.why; });
-    LISTS[k].sort((a, b) => b._score - a._score || jobTime(b) - jobTime(a));
-  });
-  if (rankOn("raised")) {
-    LISTS.raised.forEach((f) => { const r = scoreRaise(f); f._score = r.n; f._why = r.why; });
-    LISTS.raised.sort((a, b) => b._score - a._score);
+  // One feed, last-24h first: the two piles still exist underneath, so
+  // cognition mode can work either of them on its own.
+  LISTS.jobs = groups.today.concat(groups.prev);
+
+  // Ranking is a toggle over the whole feed now rather than per column.
+  if (rankOn("jobs")) {
+    LISTS.jobs.forEach((j) => { const r = scoreJob(j); j._score = r.n; j._why = r.why; });
+    LISTS.jobs.sort((a, b) => b._score - a._score || jobTime(b) - jobTime(a));
   } else {
-    LISTS.raised.forEach((f) => delete f._why);
+    LISTS.jobs.forEach((j) => delete j._why);
   }
   $$('[data-rank]').forEach((b) => {
     const on = rankOn(b.dataset.rank);
@@ -1224,14 +1243,16 @@ function render(animate, reset) {
   const raisesTotal = FUND.filter((f) => f.status !== "dismissed" && !DISMISSED.has(fundId(f))
                                         && (!locOf(f).trim() || isSF(f))).length;
 
-  ["today", "prev", "raised", "app", "trash"].forEach(drawRows);
+  ["jobs", "raised", "app", "trash"].forEach(drawRows);
   watchMore();
 
   setCount("today",  LISTS.today.length,  totals.today);
   setCount("prev",   LISTS.prev.length,   totals.prev);
+  setCount("jobs",   LISTS.jobs.length,   totals.today + totals.prev);
   setCount("raised", LISTS.raised.length, raisesTotal);
   setCount("app",    LISTS.app.length,    totals.app);
   setCount("trash",  LISTS.trash.length,  LISTS.trash.length);
+  setNum($("#heroJobs"), (totals.today + totals.prev).toLocaleString());
 
   renderOutreach();
   const due = outreachDue();
@@ -1250,7 +1271,7 @@ function render(animate, reset) {
   setNum($("#statRaises"), raisesTotal);
 
   // a pile with nothing in it is not worth entering — kept current here so
-  // filtering the board down to nothing is reflected before the picker opens
+  // filtering the feed down to nothing is reflected before the picker opens
   $$('.cog-pick-opt').forEach((o) => { o.disabled = !(LISTS[o.dataset.col] || []).length; });
 
   syncCog();
@@ -1269,7 +1290,7 @@ function setCount(k, shown, total) {
    left arrow can never show you what you just did. Every action therefore
    carries its own Undo, and progress counts down instead of claiming a
    total that keeps moving. ─────────────────────────────────────────── */
-const COG_LABEL = { today: "Last 24h", prev: "Older than 24h", raised: "Just Raised" };
+const COG_LABEL = { jobs: "Open roles", raised: "Just Raised" };
 let cogDir = 1;                       // last direction travelled, for the slide
 
 function cogDeck() { return LISTS[state.cog] || []; }
@@ -1432,7 +1453,7 @@ function cogDoneHTML() {
       <p>Nothing left to work through in this pile.</p>
       <div class="cog-jump">
         ${others.map((c) => `<button class="cog-act" type="button" data-focus="${c}">${esc(COG_LABEL[c])} <em>${LISTS[c].length}</em></button>`).join("")}
-        <button class="cog-act" type="button" id="cogDoneBack">Back to board</button>
+        <button class="cog-act" type="button" id="cogDoneBack">Back to the list</button>
       </div>
     </div>`;
 }
@@ -1493,8 +1514,8 @@ function renderCog() {
         state.cog === "raised"
           ? [khint(["X"], "dismiss"), khint(["&crarr;"], "read")]
           : [khint(["A"], "applied"), khint(["X"], "trash"), khint(["&crarr;"], "open")],
-        [khint(["Esc"], "board")])
-    : [khint(["Esc"], "board")];
+        [khint(["Esc"], "list")])
+    : [khint(["Esc"], "list")];
   $("#cogKeys").innerHTML = hints.join('<span class="sep">/</span>');
 
   COG_SIG = cogSig();
@@ -1546,33 +1567,34 @@ function bindCogSwipe() {
   }, { passive: true });
 }
 
-/* ── apply persisted size/theme/sort to the DOM ────────────────── */
+/* ── apply persisted page/theme to the DOM ─────────────────────── */
 function applyChrome() {
-  if (!THEMES.includes(state.theme)) state.theme = "dark";
+  if (!THEMES.includes(state.theme)) state.theme = "paper";
   // a mode saved before it shipped (or after one is removed) falls back
   if (!MODES.includes(state.mode)) state.mode = "board";
-  if (!COG_COLS.includes(state.cog)) state.cog = "today";
+  if (!COG_COLS.includes(state.cog)) state.cog = "jobs";
+  if (!PAGES.includes(state.page)) state.page = "jobs";
   document.documentElement.setAttribute("data-theme", state.theme);
   document.documentElement.setAttribute("data-mode", state.mode);
-  if (!COG_COLS.includes(state.tab)) state.tab = "today";
-  document.documentElement.setAttribute("data-view", state.view);
-  $$('[data-view]').forEach((b) => {
-    if (b === document.documentElement) return;
-    b.classList.toggle("is-on", state.view === "list");
-    b.setAttribute("aria-pressed", state.view === "list" ? "true" : "false");
-  });
-  $$('.col[data-col]').forEach((c) => c.classList.toggle("is-active", c.dataset.col === state.tab));
-  $$('[data-tab]').forEach((b) => {
-    const on = b.dataset.tab === state.tab;
-    b.classList.toggle("is-on", on);
-    b.setAttribute("aria-pressed", on ? "true" : "false");
-  });
-  $$('[data-mode]').forEach((b) => {
-    const on = b.dataset.mode === state.mode && !(state.mode === "board" && state.view === "list");
+  document.documentElement.setAttribute("data-page", state.page);
+  $$('main .page').forEach((p) => p.classList.toggle("is-on", p.dataset.page === state.page));
+  $$('#pills button').forEach((b) => {
+    const on = b.dataset.page === state.page;
     b.classList.toggle("is-on", on);
     b.setAttribute("aria-pressed", on ? "true" : "false");
   });
   $$('.sw').forEach((b) => b.classList.toggle("is-on", b.dataset.theme === state.theme));
+}
+
+/* The three surfaces are one scroll position each — jumping between them
+   should land at the top of the new one, not halfway down the old one. */
+function setPage(p) {
+  if (!PAGES.includes(p) || p === state.page) { if (p === state.page) window.scrollTo({ top: 0 }); return; }
+  state.page = p;
+  localStorage.setItem("page", p);
+  applyChrome();
+  watchMore();
+  window.scrollTo({ top: 0 });
 }
 
 /* ── right-hand panels (Applied · Trash) ───────────────────────── */
@@ -1611,9 +1633,8 @@ function bind() {
   });
   ddInit();
 
-  // Mode switch. Modes that aren't built yet stay inert — clicking one
-  // says so rather than half-switching into a surface that isn't there.
-  $$('button[data-mode], button[data-view], #syncBtn').forEach((b) => {
+  // Tooltips on the icon-only buttons in the top bar.
+  $$('#topbar .icon-btn, .foot-link, button[data-mode]').forEach((b) => {
     ["pointerenter", "focus"].forEach((ev) =>
       b.addEventListener(ev, () => { if (!tipHold) showTip(b); }));
     ["pointerleave", "blur"].forEach((ev) => b.addEventListener(ev, hideTip));
@@ -1623,19 +1644,16 @@ function bind() {
     const m = b.dataset.mode;
     // The brain is a doorway, not a switch: it asks which pile to work.
     if (m === "cognition") { e.stopPropagation(); togglePicker(b); return; }
-    if (m === "board") { exitCog(); if (state.view === "list") setView("board"); }
+    if (m === "board") exitCog();
   }));
 
-  // List view: one column at a time, chosen from the tab row or with 1 / 2 / 3.
-  const setView = (v) => { state.view = v; localStorage.setItem("view", v); applyChrome(); watchMore(); };
-  const setTab = (t) => { state.tab = t; localStorage.setItem("tab", t); applyChrome(); watchMore(); window.scrollTo({ top: 0 }); };
-  $('button[data-view="list"]').addEventListener("click", () => setView(state.view === "list" ? "board" : "list"));
-  $$('[data-tab]').forEach((b) => b.addEventListener("click", () => setTab(b.dataset.tab)));
+  // The three surfaces.
+  $$('#pills button').forEach((b) => b.addEventListener("click", () => { exitCog(); setPage(b.dataset.page); }));
   document.addEventListener("keydown", (e) => {
-    if (state.view !== "list" || state.mode !== "board") return;
+    if (state.mode !== "board") return;
     if (e.metaKey || e.ctrlKey || e.altKey || e.target.closest?.("input, textarea, select")) return;
-    const t = { "1": "today", "2": "prev", "3": "raised" }[e.key];
-    if (t) setTab(t);
+    const t = { "1": "jobs", "2": "news" }[e.key];
+    if (t) setPage(t);
   });
 
   // picker + per-column shortcuts
@@ -1689,7 +1707,11 @@ function bind() {
   $("#cogExit").addEventListener("click", exitCog);
   $("#cogStage").addEventListener("click", (e) => {
     const a = e.target.closest("[data-cog-act]");
-    if (a) cogAct(a.dataset.cogAct);
+    if (a) return cogAct(a.dataset.cogAct);
+    // "<pile> is clear" offers the other pile — those buttons are drawn
+    // after bind() ran, so they are caught here rather than bound directly.
+    const jump = e.target.closest("[data-focus]");
+    if (jump) enterCog(jump.dataset.focus);
   });
   bindCogKeys();
   bindCogSwipe();

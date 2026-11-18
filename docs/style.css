@@ -998,3 +998,455 @@ html[data-view="list"] .col.is-active { display: block; border-left: 1px solid v
 html[data-view="list"] .col-head { top: 103px; }
 html[data-view="list"][data-mode="cognition"] .view-tabs { display: none; }
 @media (max-width: 1024px) { html[data-view="list"] .col-head { position: sticky; } }
+
+/* ════════════════════════════════════════════════════════════════
+   OpenTabs v2 — one centred column.
+   The three-column board and its left rail are gone. What is left is a
+   top bar, a headline, a filter row and one wide list — the shape a
+   person actually reads a job board in. Everything below overrides the
+   board rules above; the themes, the type and the verbs are unchanged.
+   ════════════════════════════════════════════════════════════════ */
+
+/* Rows need to sit *on* the page, so each theme gains a page tint and a
+   surface one step lighter (one step darker, in dark). */
+:root[data-theme="paper"] { --page:#f6f7f9; --surface:#ffffff; --ring:rgba(12,13,15,.07); --shadow:0 1px 2px rgba(12,13,15,.05); }
+:root[data-theme="dark"]  { --page:#0c0d0f; --surface:#15171a; --ring:rgba(255,255,255,.07); --shadow:none; }
+:root[data-theme="blush"] { --page:#f7e9e8; --surface:#fdf6f5; --ring:rgba(26,20,19,.07); --shadow:0 1px 2px rgba(26,20,19,.05); }
+:root[data-theme="mint"]  { --page:#e7f6e8; --surface:#f5fcf6; --ring:rgba(15,26,17,.07); --shadow:0 1px 2px rgba(15,26,17,.05); }
+:root[data-theme="cream"] { --page:#f9f8d8; --surface:#fffdef; --ring:rgba(26,26,14,.07); --shadow:0 1px 2px rgba(26,26,14,.05); }
+
+body { background: var(--page); }
+main { flex: 1 0 auto; width: 100%; max-width: 1180px; margin: 0 auto; padding: 0 24px 80px; }
+
+/* ── Top bar ─────────────────────────────────────────────────────
+   Brand left, the three surfaces centred, your own piles right. The
+   centre pill group is the one thing that has to stay dead centre, so
+   the two sides are equal-width columns. */
+.top {
+  position: sticky; top: 0; z-index: 70;
+  display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;
+  gap: 16px; padding: 14px 24px;
+  background: color-mix(in srgb, var(--page) 86%, transparent);
+  backdrop-filter: blur(12px);
+}
+.top .brand {
+  display: inline-flex; align-items: center; gap: 8px;
+  color: var(--fg); justify-self: start;
+}
+.top .brand .wordmark {
+  font-family: var(--font-title); font-weight: 800; font-size: 15px; letter-spacing: -.01em;
+}
+
+.pills {
+  display: inline-flex; gap: 2px; padding: 4px; justify-self: center;
+  background: var(--surface); border: 1px solid var(--ring); border-radius: 999px;
+  box-shadow: var(--shadow);
+}
+.pills button {
+  appearance: none; border: 0; cursor: pointer; background: none;
+  font-family: var(--font-title); font-weight: 600; font-size: 13px;
+  color: var(--mut); padding: 7px 18px; border-radius: 999px;
+  transition: color .16s ease, background .16s ease;
+}
+.pills button:hover { color: var(--fg); }
+.pills button.is-on {
+  color: var(--fg); background: var(--page);
+  box-shadow: inset 0 0 0 1px var(--ring);
+}
+
+.top-right { display: inline-flex; align-items: center; gap: 14px; justify-self: end; }
+.piles { display: inline-flex; gap: 4px; }
+.pile {
+  appearance: none; cursor: pointer; background: none; border: 0;
+  display: inline-flex; align-items: center; gap: 6px;
+  font-family: var(--font-ui); font-size: 11px; letter-spacing: .04em;
+  text-transform: uppercase; color: var(--mut); padding: 6px 9px; border-radius: 8px;
+  transition: color .16s ease, background .16s ease;
+}
+.pile:hover { color: var(--fg); background: var(--surface); }
+.pile em { font-style: normal; color: var(--fg); font-weight: 500; }
+.pile.has-due em { color: var(--co); }
+
+.top-icons { display: inline-flex; align-items: center; gap: 2px; }
+.icon-btn {
+  appearance: none; cursor: pointer; background: none; border: 0;
+  display: inline-grid; place-items: center; width: 32px; height: 32px;
+  border-radius: 9px; color: var(--mut);
+  transition: color .16s ease, background .16s ease;
+}
+.icon-btn:hover { color: var(--fg); background: var(--surface); }
+#syncBtn[data-state="on"] { color: var(--co); }
+#syncBtn[data-state="err"] { color: var(--danger); }
+
+.theme-wrap { position: relative; }
+.swatches {
+  position: absolute; top: calc(100% + 8px); right: 0; z-index: 80;
+  display: flex; gap: 8px; padding: 9px 10px;
+  background: var(--surface); border: 1px solid var(--ring);
+  border-radius: 12px; box-shadow: 0 12px 34px rgba(0,0,0,.14);
+}
+.swatches .sw {
+  width: 18px; height: 18px; border-radius: 50%; cursor: pointer;
+  background: var(--c); border: 1px solid var(--line); padding: 0;
+  transition: transform .14s ease, box-shadow .14s ease;
+}
+.swatches .sw:hover { transform: scale(1.12); }
+.swatches .sw.is-on { box-shadow: 0 0 0 2px var(--page), 0 0 0 3.5px var(--fg); }
+
+/* ── Pages ───────────────────────────────────────────────────────── */
+.page { display: none; }
+.page.is-on { display: block; }
+:root[data-mode="cognition"] main { display: none; }
+
+.hero { text-align: center; padding: 56px 0 34px; }
+.hero h1 {
+  font-family: var(--font-title); font-weight: 800; letter-spacing: -.03em;
+  font-size: clamp(30px, 5vw, 52px); line-height: 1.05; margin: 0 0 14px;
+  color: var(--spec);
+}
+.hero p { margin: 0; color: var(--mut); font-size: 14px; }
+.hero p b { color: var(--fg); font-weight: 500; }
+
+/* ── Filter row ──────────────────────────────────────────────────
+   Search carries the width; the dropdowns from the old control bar keep
+   working unchanged, they just wear pills now. */
+.toolbar {
+  display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+.search-field {
+  display: inline-flex; align-items: center; gap: 9px; flex: 1 1 300px;
+  background: var(--surface); border: 1px solid var(--ring); border-radius: 12px;
+  padding: 0 14px; height: 44px; box-shadow: var(--shadow);
+  color: var(--mut); transition: border-color .16s ease;
+}
+.search-field.wide { flex: 1 1 100%; }
+.search-field:focus-within { border-color: color-mix(in srgb, var(--co) 55%, var(--ring)); }
+.search-field input {
+  flex: 1; min-width: 0; background: none; border: 0; outline: 0;
+  font-family: var(--font-ui); font-size: 13px; color: var(--fg); height: 100%;
+}
+.search-field input::placeholder { color: var(--mut); }
+
+.toolbar .dd { display: inline-flex; }
+.toolbar .dd-btn {
+  height: 44px; padding: 0 14px; gap: 7px;
+  background: var(--surface); border: 1px solid var(--ring); border-radius: 12px;
+  box-shadow: var(--shadow); transition: border-color .16s ease;
+}
+.toolbar .dd-btn:hover { border-color: var(--line); }
+.toolbar .dd-btn .lbl { text-transform: none; letter-spacing: 0; font-size: 13px; color: var(--fg); }
+.toolbar .dd-btn .dd-sum { display: none; }
+.toolbar .dd.has-val .dd-btn { border-color: var(--co); }
+.toolbar .dd.has-val .dd-btn .dd-sum {
+  display: inline; color: var(--co); text-transform: none; letter-spacing: 0; max-width: 120px;
+}
+
+.tool-end { display: inline-flex; gap: 8px; margin-left: auto; }
+.tool-btn {
+  appearance: none; cursor: pointer; display: inline-flex; align-items: center; gap: 7px;
+  height: 44px; padding: 0 14px; border-radius: 12px;
+  background: var(--surface); border: 1px solid var(--ring); box-shadow: var(--shadow);
+  font-family: var(--font-ui); font-size: 13px; color: var(--fg);
+  transition: border-color .16s ease, color .16s ease;
+}
+.tool-btn:hover { border-color: var(--line); }
+.tool-btn.is-on { color: var(--co); border-color: var(--co); }
+
+.feed-head {
+  display: flex; align-items: baseline; gap: 12px;
+  padding: 0 4px 10px; color: var(--mut); font-size: 11px;
+  text-transform: uppercase; letter-spacing: .06em;
+}
+.feed-head .status { margin-left: auto; }
+
+/* ── The feed ────────────────────────────────────────────────────
+   One row per posting. Everything a row says is on one line; the verbs
+   open underneath on hover or keyboard focus, so a list this long reads
+   as titles rather than as a wall of controls. */
+.feed {
+  background: var(--surface); border: 1px solid var(--ring);
+  border-radius: 16px; overflow: hidden; box-shadow: var(--shadow);
+}
+.feed .job {
+  display: block; padding: 14px 18px; border-bottom: 1px solid var(--ring);
+  cursor: pointer; transition: background .14s ease;
+}
+.feed .job:last-child { border-bottom: 0; }
+.feed .job:hover { background: color-mix(in srgb, var(--fg) 3%, var(--surface)); }
+
+.job-line { display: flex; align-items: center; gap: 12px; min-width: 0; }
+.logo-mark {
+  flex: none; width: 34px; height: 34px; border-radius: 9px;
+  display: grid; place-items: center;
+  font-family: var(--font-title); font-weight: 700; font-size: 14px;
+  background: hsl(var(--hue) 46% 92%); color: hsl(var(--hue) 46% 28%);
+  border: 1px solid var(--ring);
+}
+:root[data-theme="dark"] .logo-mark { background: hsl(var(--hue) 28% 20%); color: hsl(var(--hue) 55% 78%); }
+.logo-mark.sm { width: 26px; height: 26px; border-radius: 7px; font-size: 12px; }
+
+.job-id { display: flex; align-items: center; gap: 9px; min-width: 0; flex: 1; }
+.feed .job-title {
+  font-family: var(--font-title); font-weight: 600; font-size: 15px;
+  color: var(--spec); letter-spacing: -.01em;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 62%;
+  opacity: var(--age, 1);
+}
+.feed .job:hover .job-title { opacity: 1; text-decoration: underline; text-underline-offset: 3px; }
+.job-id .co { color: var(--mut); font-size: 12px; white-space: nowrap; }
+.job-id .co:hover { color: var(--fg); }
+.job-right {
+  display: inline-flex; align-items: center; gap: 10px; flex: none;
+  color: var(--mut); font-size: 12px; white-space: nowrap;
+}
+.job-right .pay { color: var(--fg); }
+.job-right .where { max-width: 320px; overflow: hidden; text-overflow: ellipsis; }
+.job-right .when::before { content: "· "; color: var(--mut); }
+
+/* Verbs: hidden until the row is wanted. */
+.feed .job > .verbs,
+.feed .job > .badges,
+.feed .job > .score-trace {
+  display: none; padding-left: 46px;
+}
+.feed .job:hover > .verbs,
+.feed .job:focus-within > .verbs,
+.feed .job:hover > .badges,
+.feed .job:focus-within > .badges,
+.feed .job:hover > .score-trace,
+.feed .job:focus-within > .score-trace { display: flex; }
+.feed .job > .verbs { align-items: center; gap: 10px; margin-top: 10px; flex-wrap: wrap; }
+.feed .job > .verbs .src { color: var(--mut); display: inline-flex; align-items: center; gap: 5px; }
+.feed .job > .verbs .verbs-tail { margin-left: auto; }
+.feed .job > .badges { gap: 8px; margin-top: 10px; flex-wrap: wrap; }
+
+/* The Applied drawer keeps the dated headings; its rows are the same shape. */
+.drawer .rows .job { padding: 12px 2px; border-bottom: 1px solid var(--ring); }
+.drawer .rows .job > .verbs, .drawer .rows .job > .badges { display: flex; padding-left: 0; }
+.drawer .job-right { font-size: 11px; }
+
+.col-empty { padding: 44px 20px; text-align: center; color: var(--mut); }
+.more {
+  padding: 14px 18px; text-align: center; color: var(--mut);
+  font-size: 11px; text-transform: uppercase; letter-spacing: .06em;
+}
+
+/* ── News: the funding table ─────────────────────────────────────── */
+.table-wrap { margin-top: 8px; }
+.fund-head, .fund-line {
+  display: grid; align-items: center; gap: 16px;
+  grid-template-columns: minmax(180px, 1.6fr) 90px 100px 110px minmax(140px, 1fr) 110px;
+}
+.fund-head {
+  padding: 0 18px 10px; color: var(--mut);
+  font-size: 11px; text-transform: uppercase; letter-spacing: .06em;
+}
+.feed.fund .job { padding: 13px 18px; }
+.fund-co { display: inline-flex; align-items: center; gap: 10px; min-width: 0; }
+.fund-co .co {
+  font-family: var(--font-title); font-weight: 600; font-size: 14px; color: var(--spec);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.fund-amt { color: var(--fg); }
+.fund-round, .fund-when, .fund-vc { color: var(--mut); font-size: 12px; }
+.fund-vc { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.fund-press { display: inline-flex; align-items: center; gap: 10px; justify-content: flex-end; }
+.press { display: inline-flex; align-items: center; gap: 4px; color: var(--mut); font-size: 12px; }
+.press:hover { color: var(--co); }
+.fund-press .verb { opacity: 0; }
+.feed.fund .job:hover .fund-press .verb { opacity: 1; }
+.fund-sub {
+  display: none; padding-left: 36px; margin-top: 8px;
+  color: var(--mut); font-size: 12px; align-items: center; gap: 8px; flex-wrap: wrap;
+}
+.feed.fund .job:hover .fund-sub, .feed.fund .job:focus-within .fund-sub { display: flex; }
+.fund-sub .role { color: var(--co); }
+.fund-sub .roles.none { color: var(--mut); }
+
+/* ── Explore: companies ──────────────────────────────────────────── */
+.cards {
+  display: grid; gap: 12px; margin-top: 4px;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+.co-card {
+  appearance: none; cursor: pointer; text-align: left;
+  display: grid; gap: 7px; padding: 16px;
+  background: var(--surface); border: 1px solid var(--ring); border-radius: 14px;
+  box-shadow: var(--shadow); font-family: var(--font-ui); color: var(--fg);
+  transition: border-color .16s ease, transform .16s ease;
+}
+.co-card:hover { border-color: var(--line); transform: translateY(-2px); }
+.co-name {
+  font-family: var(--font-title); font-weight: 700; font-size: 15px;
+  color: var(--spec); letter-spacing: -.01em;
+}
+.co-meta { color: var(--mut); font-size: 12px; }
+.co-raise { color: var(--co); font-size: 12px; }
+.co-roles { display: grid; gap: 3px; margin-top: 2px; }
+.co-roles em {
+  font-style: normal; color: var(--mut); font-size: 12px;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+
+/* ── Footer ──────────────────────────────────────────────────────── */
+.foot {
+  display: flex; align-items: center; gap: 18px; flex-wrap: wrap;
+  max-width: 1180px; margin: 0 auto; padding: 22px 24px 34px;
+  border-top: 1px solid var(--ring); color: var(--mut); font-size: 12px;
+}
+.foot .stats { margin-left: auto; }
+
+/* ── Narrow screens ──────────────────────────────────────────────── */
+@media (max-width: 860px) {
+  .top { grid-template-columns: auto 1fr; row-gap: 10px; padding: 12px 16px; }
+  .pills { grid-column: 1 / -1; order: 3; justify-self: stretch; }
+  .pills button { flex: 1; }
+  .top-right { gap: 8px; }
+  .piles .pile span { display: none; }
+  main { padding: 0 16px 64px; }
+  .hero { padding: 34px 0 24px; }
+  .job-right .where, .job-right .pay { display: none; }
+  .feed .job-title { max-width: 100%; }
+  .fund-head { display: none; }
+  .fund-line { grid-template-columns: 1fr auto; gap: 6px 12px; }
+  .fund-round, .fund-vc { display: none; }
+  .foot { padding: 20px 16px 28px; }
+}
+
+/* The swatch row is a popover now, not an always-on rail group: it hides
+   when closed, and never collapses the unselected colours. */
+.theme-wrap .swatches[hidden] { display: none; }
+.theme-wrap .swatches .sw,
+.theme-wrap .swatches:not(:hover) .sw:not(.is-on) {
+  width: 18px; height: 18px; margin: 0; opacity: 1; pointer-events: auto;
+}
+
+/* Cognition mode is still a full-bleed surface, but there is no rail to
+   inset it from any more — and the top bar steps aside, because the only
+   way out is the card's own exit. */
+html[data-mode="cognition"] .cog { inset: 0; background: var(--page); }
+html[data-mode="cognition"] .top { display: none; }
+
+/* ── Drawer rows ──
+   The panels are a third of the feed's width, so a row that reads as one
+   line out on the page has to stack in here. */
+.drawer .job-line { flex-wrap: wrap; row-gap: 6px; }
+.drawer .job-id { flex: 1 1 100%; flex-wrap: wrap; row-gap: 4px; order: 2; }
+.drawer .feed .job-title, .drawer .job-title {
+  white-space: normal; max-width: 100%; font-size: 14px; line-height: 1.3;
+}
+.drawer .logo-mark { order: 1; }
+.drawer .job-right { order: 3; flex: 1 1 100%; justify-content: flex-start; white-space: normal; }
+.drawer .job-right .where { max-width: 100%; }
+
+/* ════════════════════════════════════════════════════════════════
+   v2, second pass — no hero, no icon buttons, caps on everything the
+   mono face sets. Two surfaces: Jobs and Just Raised.
+   ════════════════════════════════════════════════════════════════ */
+
+/* The mono face is the UI voice here, and it speaks in caps: metadata,
+   verbs, counts, filters, table cells. Titles stay in Manrope, mixed case,
+   because a 9,000-row list of shouted job titles is unreadable. */
+.job-id .co, .job-right, .badge, .verb, .pile, .status, .showing, .more,
+.col-empty, .dd-opt, .dd-btn .lbl, .dd-btn .dd-sum, .tool-btn, .search-field input,
+.fund-head, .fund-amt, .fund-round, .fund-when, .fund-vc, .press, .fund-sub,
+.day-head, .drawer-head h2, .clear-all, .count-chip, .foot, .foot-link,
+.out-head, .out-co, .out-when, .out-role, .cog-pick-lbl, .cog-pick-opt {
+  text-transform: uppercase;
+}
+.search-field input::placeholder { text-transform: uppercase; letter-spacing: .04em; }
+.job-id .co, .job-right { letter-spacing: .04em; font-size: 12px; }
+.toolbar .dd-btn .lbl, .tool-btn, .toolbar .dd-btn .dd-sum,
+.toolbar .dd.has-val .dd-btn .dd-sum {
+  letter-spacing: .06em; font-size: 11px; text-transform: uppercase;
+}
+.fund-amt, .fund-round, .fund-when, .fund-vc, .press { letter-spacing: .04em; font-size: 12px; }
+
+/* ── The colour dots live in the bar again, the way the rail had them:
+   one dot showing, the rest fanning out on hover. ─────────────────── */
+.top-right .swatches { display: flex; align-items: center; gap: 0; }
+.top-right .swatches .sw { width: 15px; height: 15px; }
+.top-right .swatches:not(:hover) .sw:not(.is-on) {
+  width: 0; opacity: 0; margin-left: 0; border-width: 0; transform: scale(.4); pointer-events: none;
+}
+.top-right .sw.is-on { box-shadow: 0 0 0 2px var(--page), 0 0 0 3px var(--fg); }
+
+/* ── The count, parked in the corner ──────────────────────────────
+   It is a fact about the feed, not a headline, so it sits out of the
+   way and stays there while you scroll. */
+.count-chip {
+  position: fixed; left: 18px; bottom: 18px; z-index: 50;
+  padding: 8px 12px; border-radius: 999px;
+  background: var(--surface); border: 1px solid var(--ring); box-shadow: var(--shadow);
+  color: var(--mut); font-family: var(--font-ui); font-size: 11px; letter-spacing: .06em;
+  pointer-events: none;
+}
+.count-chip b { color: var(--fg); font-weight: 500; }
+html[data-mode="cognition"] .count-chip { display: none; }
+
+/* Without the hero the toolbar is the top of the page — give it air. */
+.page > .toolbar:first-child { margin-top: 28px; }
+.page[data-page="news"] .hero { padding: 46px 0 28px; }
+
+/* ── Footer settings (what the link and cloud icons used to be) ───── */
+.foot-settings { display: inline-flex; gap: 14px; }
+.foot-link {
+  appearance: none; background: none; border: 0; cursor: pointer; padding: 0;
+  font-family: var(--font-ui); font-size: 11px; letter-spacing: .06em; color: var(--mut);
+  border-bottom: 1px solid transparent;
+}
+.foot-link:hover { color: var(--fg); border-bottom-color: var(--fg); }
+#syncBtn[data-state="on"] { color: var(--co); }
+#syncBtn[data-state="err"] { color: var(--danger); }
+.foot .stats { margin-left: auto; }
+
+/* ── Logos ───────────────────────────────────────────────────────── */
+.logo-mark { position: relative; overflow: hidden; }
+.logo-mark i { font-style: normal; }
+/* The letter shows until a real logo has actually painted — a half-loaded
+   or blank favicon must not leave an empty white square in the row. */
+.logo-mark img {
+  position: absolute; inset: 0; width: 100%; height: 100%;
+  object-fit: contain; padding: 3px; opacity: 0;
+}
+.logo-mark img.on { opacity: 1; background: #fff; }
+
+/* The one line of mono left on a hero follows the same rule as the rest. */
+.hero p { text-transform: uppercase; letter-spacing: .06em; font-size: 12px; }
+
+/* Just Raised opens straight on the table — no headline, no caption. */
+.page[data-page="news"] .table-wrap { margin-top: 28px; }
+
+/* Titles ride the same line as the company and the date. A flex item with
+   overflow:hidden hands up its bottom edge as a baseline, so baseline
+   alignment here put every long title a few pixels off its own row. */
+.feed .job-title { line-height: 1.35; display: block; }
+.job-id .co { line-height: 1.35; }
+
+/* ── Contrast ──
+   The line you read most — company, place, age — was 11px uppercase in the
+   muted ink, which lands under 4.5:1 on the light themes. One step darker
+   in each theme, and the metadata is 12px above, clears AA for small text
+   without changing the colour language. */
+:root[data-theme="paper"] { --mut:#696f78; }
+:root[data-theme="blush"] { --mut:#7c6361; }
+:root[data-theme="mint"]  { --mut:#4f6d55; }
+:root[data-theme="cream"] { --mut:#6d6b48; }
+:root[data-theme="dark"]  { --mut:#8c929b; }
+
+/* ── Touch ──
+   The verbs opened on hover, which a phone does not have: every row was
+   read-only, and a tap just opened the posting. Where there is no hover —
+   or no width to hide them in — they are simply always there. */
+@media (hover: none), (max-width: 860px) {
+  .feed .job > .verbs { display: flex; }
+  .feed.fund .fund-press .verb { opacity: 1; }
+  .feed .job > .verbs { padding-left: 46px; }
+}
+@media (max-width: 860px) {
+  .feed .job > .verbs { padding-left: 0; }
+  .feed .job > .verbs .verbs-tail { margin-left: auto; }
+  /* the count would sit on top of the last row on a narrow screen */
+  .count-chip { left: 50%; transform: translateX(-50%); bottom: 10px; }
+}

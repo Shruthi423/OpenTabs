@@ -1,66 +1,46 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en" data-theme="paper">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>OpenTabs</title>
-  <meta name="description" content="OpenTabs — live design-job board: Last 24h, Older than 24h, Just Raised.">
+  <meta name="description" content="OpenTabs — live design-job board: open roles and the startups that just raised.">
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,400;0,500;1,400&family=Manrope:wght@600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,400;0,500;1,400&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-  <!-- ── Permanent left rail: brand + settings, always on screen ───── -->
-  <aside class="rail" id="rail" aria-label="Settings">
-
-    <div class="rail-group modes" id="modes" role="group" aria-label="Mode">
-      <span class="rail-lbl">Mode</span>
-      <button class="mode is-on" data-mode="board" type="button" aria-pressed="true"
-              data-tip="Board — triage what's open">
-        <svg viewBox="0 0 256 256" width="19" height="19" fill="currentColor" aria-hidden="true"><path d="M104,40H56A16,16,0,0,0,40,56v48a16,16,0,0,0,16,16h48a16,16,0,0,0,16-16V56A16,16,0,0,0,104,40Zm0,64H56V56h48v48Zm96-64H152a16,16,0,0,0-16,16v48a16,16,0,0,0,16,16h48a16,16,0,0,0,16-16V56A16,16,0,0,0,200,40Zm0,64H152V56h48v48Zm-96,32H56a16,16,0,0,0-16,16v48a16,16,0,0,0,16,16h48a16,16,0,0,0,16-16V152A16,16,0,0,0,104,136Zm0,64H56V152h48v48Zm96-64H152a16,16,0,0,0-16,16v48a16,16,0,0,0,16,16h48a16,16,0,0,0,16-16V152A16,16,0,0,0,200,136Zm0,64H152V152h48v48Z"></path></svg>
-        <span class="sr">Board</span>
-      </button>
-      <button class="mode" data-view="list" type="button" aria-pressed="false"
-              data-tip="List — one column at a time">
-        <svg viewBox="0 0 256 256" width="19" height="19" fill="currentColor" aria-hidden="true"><path d="M32,64a8,8,0,0,1,8-8H216a8,8,0,0,1,0,16H40A8,8,0,0,1,32,64Zm104,56H40a8,8,0,0,0,0,16h96a8,8,0,0,0,0-16Zm0,64H40a8,8,0,0,0,0,16h96a8,8,0,0,0,0-16Zm112-24a8,8,0,0,1-3.76,6.78l-64,40A8,8,0,0,1,168,200V120a8,8,0,0,1,12.24-6.78l64,40A8,8,0,0,1,248,160Zm-23.09,0L184,134.43v51.14Z"></path></svg>
-        <span class="sr">List — one column at a time</span>
-      </button>
-    </div>
-
-    <div class="rail-group swatches" id="swatches" role="group" aria-label="Theme">
-      <span class="rail-lbl">Theme</span>
-      <button class="sw" data-theme="dark"  style="--c:#0c0d0f" title="Dark"></button>
-      <button class="sw" data-theme="paper" style="--c:#ffffff" title="Paper"></button>
-      <button class="sw" data-theme="blush" style="--c:#f4dcda" title="Blush"></button>
-      <button class="sw" data-theme="mint"  style="--c:#d9f0db" title="Mint"></button>
-      <button class="sw" data-theme="cream" style="--c:#f1efbe" title="Cream"></button>
-    </div>
-
-    <div class="rail-group" id="projGroup">
-      <span class="rail-lbl">Résumé</span>
-      <button class="mode" id="projBtn" type="button" aria-haspopup="true" aria-expanded="false"
-              data-tip="Résumé project link">
-        <svg viewBox="0 0 256 256" width="19" height="19" fill="currentColor" aria-hidden="true"><path d="M137.54,186.36a8,8,0,0,1,0,11.31l-9.94,10A56,56,0,0,1,48.38,128.4L72.5,104.28A56,56,0,0,1,149.31,102a8,8,0,1,1-10.64,12A40,40,0,0,0,83.81,115.6L59.7,139.71a40,40,0,0,0,56.58,56.58l9.94-9.93A8,8,0,0,1,137.54,186.36Zm70.08-138a56.08,56.08,0,0,0-79.22,0l-9.94,9.95a8,8,0,0,0,11.32,11.31l9.94-9.94a40,40,0,0,1,56.58,56.58L172.19,140.4A40,40,0,0,1,117.33,142,8,8,0,1,0,106.69,154a56,56,0,0,0,76.81-2.26l24.12-24.12A56.08,56.08,0,0,0,207.62,48.38Z"></path></svg>
-        <span class="sr">Set your résumé project link</span>
-      </button>
-    </div>
-
-    <div class="rail-group" id="syncGroup">
-      <span class="rail-lbl">Sync</span>
-      <button class="mode" id="syncBtn" type="button" data-state="off"
-              data-tip="Sync Applied / Trash across devices">
-        <svg viewBox="0 0 256 256" width="19" height="19" fill="currentColor" aria-hidden="true"><path d="M160,40A88.09,88.09,0,0,0,81.29,88.67,64,64,0,1,0,72,216h88a88,88,0,0,0,0-176Zm0,160H72a48,48,0,0,1,0-96c1.1,0,2.2,0,3.29.11A88,88,0,0,0,72,128a8,8,0,0,0,16,0,72,72,0,1,1,72,72Z"></path></svg>
-        <span class="sr">Sync Applied and Trash across devices</span>
-      </button>
-    </div>
-
-    <a class="rail-brand" href="#top" title="OpenTabs" aria-label="OpenTabs">
+  <!-- ── Top bar: brand · the three surfaces · your own piles ─────────
+       The left rail is gone. Everything that used to live down the side
+       is here, so the page itself is one centred column. ───────────── -->
+  <header class="top" id="topbar">
+    <a class="brand" href="#top" aria-label="OpenTabs">
+      <svg viewBox="0 0 256 256" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M232,216H208V40a16,16,0,0,0-16-16H64A16,16,0,0,0,48,40V216H24a8,8,0,0,0,0,16H232a8,8,0,0,0,0-16Zm-64,0H64V40H168Zm-40-84a12,12,0,1,1,12-12A12,12,0,0,1,128,132Z"></path></svg>
       <span class="wordmark">OpenTabs</span>
-      <svg viewBox="0 0 256 256" width="19" height="19" fill="currentColor" aria-hidden="true"><path d="M232,216H208V40a16,16,0,0,0-16-16H64A16,16,0,0,0,48,40V216H24a8,8,0,0,0,0,16H232a8,8,0,0,0,0-16Zm-64,0H64V40H168Zm-40-84a12,12,0,1,1,12,12A12,12,0,0,1,128,132Z"></path></svg>
     </a>
-  </aside>
+
+    <nav class="pills" id="pills" aria-label="Sections">
+      <button type="button" data-page="jobs" aria-pressed="true">Jobs</button>
+      <button type="button" data-page="news" aria-pressed="false">Just Raised</button>
+    </nav>
+
+    <div class="top-right">
+      <div class="piles">
+        <button class="pile" id="tabApplied" aria-label="Open Applied"><span>Applied</span><em data-count="app">0</em></button>
+        <button class="pile" id="tabOutreach" aria-label="Open Outreach"><span>Outreach</span><em data-count="out">0</em></button>
+        <button class="pile" id="tabTrash" aria-label="Open Trash"><span>Trash</span><em data-count="trash">0</em></button>
+      </div>
+      <div class="swatches" id="swatches" role="group" aria-label="Theme">
+        <button class="sw" data-theme="paper" style="--c:#ffffff" title="Paper"></button>
+        <button class="sw" data-theme="dark"  style="--c:#0c0d0f" title="Dark"></button>
+        <button class="sw" data-theme="blush" style="--c:#f4dcda" title="Blush"></button>
+        <button class="sw" data-theme="mint"  style="--c:#d9f0db" title="Mint"></button>
+        <button class="sw" data-theme="cream" style="--c:#f1efbe" title="Cream"></button>
+      </div>
+    </div>
+  </header>
 
   <!-- ── Where the Résumé button sends each job description ────────── -->
   <div class="cog-pick proj-pick" id="projPick" role="dialog" aria-label="Résumé project link" hidden>
@@ -78,119 +58,101 @@
     </div>
   </div>
 
-  <!-- ── Which column do you want to work through? ─────────────────── -->
-  <div class="cog-pick" id="cogPick" role="menu" aria-label="Focus a column" hidden>
+  <!-- ── Which pile do you want to work through, one card at a time? ── -->
+  <div class="cog-pick" id="cogPick" role="menu" aria-label="Focus a pile" hidden>
     <span class="cog-pick-lbl">Work through</span>
-    <button class="cog-pick-opt" data-col="today"  role="menuitem">Last 24h<em data-count="today">0</em></button>
-    <button class="cog-pick-opt" data-col="prev"   role="menuitem">Older than 24h<em data-count="prev">0</em></button>
+    <button class="cog-pick-opt" data-col="jobs"   role="menuitem">Open roles<em data-count="jobs">0</em></button>
     <button class="cog-pick-opt" data-col="raised" role="menuitem">Just Raised<em data-count="raised">0</em></button>
   </div>
 
-  <!-- ── One control row: search · filters · undo ─────────────────── -->
-  <section class="controls" id="controls">
-    <div class="row">
-      <label class="field search">
-        <span class="lbl">Search</span>
-        <input id="q" type="search" placeholder="" autocomplete="off">
-      </label>
+  <main id="top">
+    <!-- ── Jobs: one wide list, newest first ───────────────────────── -->
+    <section class="page is-on" data-page="jobs">
+      <div class="toolbar">
+        <label class="search-field">
+          <svg viewBox="0 0 256 256" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M229.66,218.34l-50.07-50.06a88.11,88.11,0,1,0-11.31,11.31l50.06,50.07a8,8,0,0,0,11.32-11.32ZM40,112a72,72,0,1,1,72,72A72.08,72.08,0,0,1,40,112Z"></path></svg>
+          <input id="q" type="search" placeholder="Search by role or company" autocomplete="off">
+        </label>
 
-      <!-- Filters and sort sit together, right-aligned; the search field
-           keeps the left edge on its own. -->
-      <div class="settings-group">
-      <div class="dd" data-dd="source" data-multi>
-        <button class="dd-btn" type="button" aria-haspopup="true" aria-expanded="false">
-          <span class="lbl">Source</span><span class="dd-sum">All</span>
-          <svg class="dd-caret" viewBox="0 0 256 256" width="11" height="11" fill="currentColor" aria-hidden="true"><path d="M213.66,101.66l-80,80a8,8,0,0,1-11.32,0l-80-80A8,8,0,0,1,53.66,90.34L128,164.69l74.34-74.35a8,8,0,0,1,11.32,11.32Z"></path></svg>
-        </button>
-        <div class="dd-panel" role="listbox" aria-label="Source"></div>
-      </div>
-      <div class="dd" data-dd="loc" data-multi>
-        <button class="dd-btn" type="button" aria-haspopup="true" aria-expanded="false">
-          <span class="lbl">Location</span><span class="dd-sum">All</span>
-          <svg class="dd-caret" viewBox="0 0 256 256" width="11" height="11" fill="currentColor" aria-hidden="true"><path d="M213.66,101.66l-80,80a8,8,0,0,1-11.32,0l-80-80A8,8,0,0,1,53.66,90.34L128,164.69l74.34-74.35a8,8,0,0,1,11.32,11.32Z"></path></svg>
-        </button>
-        <div class="dd-panel" role="listbox" aria-label="Location">
-          <label class="dd-opt"><input type="checkbox" value="sfbay"><span>San Francisco &amp; Bay Area</span></label>
-          <label class="dd-opt"><input type="checkbox" value="ny"><span>New York</span></label>
-          <label class="dd-opt"><input type="checkbox" value="us"><span>Rest of USA</span></label>
-          <label class="dd-opt"><input type="checkbox" value="uk"><span>United Kingdom</span></label>
-          <label class="dd-opt"><input type="checkbox" value="remote"><span>Remote</span></label>
+        <div class="dd" data-dd="loc" data-multi>
+          <button class="dd-btn" type="button" aria-haspopup="true" aria-expanded="false">
+            <span class="lbl">Location</span><span class="dd-sum">All</span>
+            <svg class="dd-caret" viewBox="0 0 256 256" width="11" height="11" fill="currentColor" aria-hidden="true"><path d="M213.66,101.66l-80,80a8,8,0,0,1-11.32,0l-80-80A8,8,0,0,1,53.66,90.34L128,164.69l74.34-74.35a8,8,0,0,1,11.32,11.32Z"></path></svg>
+          </button>
+          <div class="dd-panel" role="listbox" aria-label="Location">
+            <label class="dd-opt"><input type="checkbox" value="sfbay"><span>San Francisco &amp; Bay Area</span></label>
+            <label class="dd-opt"><input type="checkbox" value="ny"><span>New York</span></label>
+            <label class="dd-opt"><input type="checkbox" value="us"><span>Rest of USA</span></label>
+            <label class="dd-opt"><input type="checkbox" value="uk"><span>United Kingdom</span></label>
+            <label class="dd-opt"><input type="checkbox" value="remote"><span>Remote</span></label>
+          </div>
+        </div>
+
+        <div class="dd" data-dd="source" data-multi>
+          <button class="dd-btn" type="button" aria-haspopup="true" aria-expanded="false">
+            <span class="lbl">Source</span><span class="dd-sum">All</span>
+            <svg class="dd-caret" viewBox="0 0 256 256" width="11" height="11" fill="currentColor" aria-hidden="true"><path d="M213.66,101.66l-80,80a8,8,0,0,1-11.32,0l-80-80A8,8,0,0,1,53.66,90.34L128,164.69l74.34-74.35a8,8,0,0,1,11.32,11.32Z"></path></svg>
+          </button>
+          <div class="dd-panel" role="listbox" aria-label="Source"></div>
+        </div>
+
+        <div class="dd" data-dd="date">
+          <button class="dd-btn" type="button" aria-haspopup="true" aria-expanded="false">
+            <span class="lbl">Posted</span><span class="dd-sum">Any time</span>
+            <svg class="dd-caret" viewBox="0 0 256 256" width="11" height="11" fill="currentColor" aria-hidden="true"><path d="M213.66,101.66l-80,80a8,8,0,0,1-11.32,0l-80-80A8,8,0,0,1,53.66,90.34L128,164.69l74.34-74.35a8,8,0,0,1,11.32,11.32Z"></path></svg>
+          </button>
+          <div class="dd-panel" role="listbox" aria-label="Posted">
+            <label class="dd-opt"><input type="radio" name="ddDate" value="" checked><span>Any time</span></label>
+            <label class="dd-opt"><input type="radio" name="ddDate" value="3"><span>Last 3 hours</span></label>
+            <label class="dd-opt"><input type="radio" name="ddDate" value="8"><span>Last 8 hours</span></label>
+            <label class="dd-opt"><input type="radio" name="ddDate" value="16"><span>Last 16 hours</span></label>
+            <label class="dd-opt"><input type="radio" name="ddDate" value="24"><span>Last 24 hours</span></label>
+            <label class="dd-opt"><input type="radio" name="ddDate" value="72"><span>Last 3 days</span></label>
+            <label class="dd-opt"><input type="radio" name="ddDate" value="168"><span>Last week</span></label>
+            <label class="dd-opt"><input type="radio" name="ddDate" value="720"><span>Last 30 days</span></label>
+          </div>
+        </div>
+
+        <div class="tool-end">
+          <button class="tool-btn" data-rank="jobs" type="button" aria-pressed="false" title="Rank by fit">
+            <svg viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M32,64a8,8,0,0,1,8-8H216a8,8,0,0,1,0,16H40A8,8,0,0,1,32,64Zm8,72H160a8,8,0,0,0,0-16H40a8,8,0,0,0,0,16Zm64,48H40a8,8,0,0,0,0,16h64a8,8,0,0,0,0-16Z"></path></svg>
+            <span>Rank by fit</span>
+          </button>
+          <button class="tool-btn" id="focusBtn" type="button" data-mode="cognition" aria-haspopup="true" aria-expanded="false" title="Work through one card at a time">
+            <svg viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M248,124a56.11,56.11,0,0,0-32-50.61V72a48,48,0,0,0-88-26.49A48,48,0,0,0,40,72v1.39a56,56,0,0,0,0,101.2V176a48,48,0,0,0,88,26.49A48,48,0,0,0,216,176v-1.41A56.09,56.09,0,0,0,248,124ZM88,208a32,32,0,0,1-31.81-28.56A55.87,55.87,0,0,0,64,180h8a8,8,0,0,0,0-16H64A40,40,0,0,1,50.67,86.27,8,8,0,0,0,56,78.73V72a32,32,0,0,1,64,0v68.26A47.8,47.8,0,0,0,88,128a8,8,0,0,0,0,16,32,32,0,0,1,0,64Zm104-44h-8a8,8,0,0,0,0,16h8a55.87,55.87,0,0,0,7.81-.56A32,32,0,1,1,168,144a8,8,0,0,0,0-16,47.8,47.8,0,0,0-32,12.26V72a32,32,0,0,1,64,0v6.73a8,8,0,0,0,5.33,7.54A40,40,0,0,1,192,164Zm16-52a8,8,0,0,1-8,8h-4a36,36,0,0,1-36-36V80a8,8,0,0,1,16,0v4a20,20,0,0,0,20,20h4A8,8,0,0,1,208,112ZM60,120H56a8,8,0,0,1,0-16h4A20,20,0,0,0,80,84V80a8,8,0,0,1,16,0v4A36,36,0,0,1,60,120Z"></path></svg>
+            <span>Focus</span>
+          </button>
         </div>
       </div>
-      <div class="dd" data-dd="date">
-        <button class="dd-btn" type="button" aria-haspopup="true" aria-expanded="false">
-          <span class="lbl">Posted</span><span class="dd-sum">Any time</span>
-          <svg class="dd-caret" viewBox="0 0 256 256" width="11" height="11" fill="currentColor" aria-hidden="true"><path d="M213.66,101.66l-80,80a8,8,0,0,1-11.32,0l-80-80A8,8,0,0,1,53.66,90.34L128,164.69l74.34-74.35a8,8,0,0,1,11.32,11.32Z"></path></svg>
-        </button>
-        <div class="dd-panel" role="listbox" aria-label="Posted">
-          <label class="dd-opt"><input type="radio" name="ddDate" value="" checked><span>Any time</span></label>
-          <label class="dd-opt"><input type="radio" name="ddDate" value="3"><span>Last 3 hours</span></label>
-          <label class="dd-opt"><input type="radio" name="ddDate" value="8"><span>Last 8 hours</span></label>
-          <label class="dd-opt"><input type="radio" name="ddDate" value="16"><span>Last 16 hours</span></label>
-          <label class="dd-opt"><input type="radio" name="ddDate" value="24"><span>Last 24 hours</span></label>
-          <label class="dd-opt"><input type="radio" name="ddDate" value="72"><span>Last 3 days</span></label>
-          <label class="dd-opt"><input type="radio" name="ddDate" value="168"><span>Last week</span></label>
-          <label class="dd-opt"><input type="radio" name="ddDate" value="720"><span>Last 30 days</span></label>
+
+      <div class="feed-head">
+        <span class="showing" data-showing="jobs"></span>
+        <span class="status" id="status">Loading…</span>
+      </div>
+      <div class="feed rows" id="rows-jobs"></div>
+    </section>
+
+    <!-- ── News: the funding table ─────────────────────────────────── -->
+    <section class="page" data-page="news">
+      <div class="table-wrap">
+        <div class="fund-head">
+          <span>Company</span><span>Amount</span><span>Round</span>
+          <span>Raised</span><span>Lead investor</span><span>Press</span>
         </div>
+        <div class="feed rows fund" id="rows-raised"></div>
       </div>
-
-      </div>
-
-      <span class="status" id="status">Loading…</span>
-    </div>
-  </section>
-
-  <!-- ── Three columns: Last 24h · Older than 24h · Just Raised ─────────────── -->
-  <!-- ── List view: pick one column; the other two step aside ──────── -->
-  <nav class="view-tabs" id="viewTabs" aria-label="Column">
-    <button type="button" data-tab="today"><span>Last 24h</span><em data-count="today">0</em></button>
-    <button type="button" data-tab="prev"><span>Older than 24h</span><em data-count="prev">0</em></button>
-    <button type="button" data-tab="raised"><span>Just Raised</span><em data-count="raised">0</em></button>
-  </nav>
-
-  <main id="top" class="board">
-    <section class="col col-new" data-col="today">
-      <div class="col-head">
-        <h2><svg class="col-ico" viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M215.79,118.17a8,8,0,0,0-5-5.66L153.18,90.9l14.66-73.33a8,8,0,0,0-13.69-7l-112,120a8,8,0,0,0,3,13l57.63,21.61L88.16,238.43a8,8,0,0,0,13.69,7l112-120A8,8,0,0,0,215.79,118.17ZM109.37,214l10.47-52.38a8,8,0,0,0-5-9.06L62,132.71l84.62-90.66L136.16,94.43a8,8,0,0,0,5,9.06l52.8,19.8Z"></path></svg>Last 24h</h2><em data-count="today">0</em>
-        <span class="showing" data-showing="today"></span>
-        <button class="col-rank" data-rank="today" title="Rank Last 24h by fit" aria-pressed="false" aria-label="Rank Last 24h by fit"><svg viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M32,64a8,8,0,0,1,8-8H216a8,8,0,0,1,0,16H40A8,8,0,0,1,32,64Zm8,72H160a8,8,0,0,0,0-16H40a8,8,0,0,0,0,16Zm64,48H40a8,8,0,0,0,0,16h64a8,8,0,0,0,0-16Z"></path></svg></button>
-        <button class="col-focus" data-focus="today" title="Work through Last 24h one at a time" aria-label="Work through Last 24h one at a time"><svg viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M248,124a56.11,56.11,0,0,0-32-50.61V72a48,48,0,0,0-88-26.49A48,48,0,0,0,40,72v1.39a56,56,0,0,0,0,101.2V176a48,48,0,0,0,88,26.49A48,48,0,0,0,216,176v-1.41A56.09,56.09,0,0,0,248,124ZM88,208a32,32,0,0,1-31.81-28.56A55.87,55.87,0,0,0,64,180h8a8,8,0,0,0,0-16H64A40,40,0,0,1,50.67,86.27,8,8,0,0,0,56,78.73V72a32,32,0,0,1,64,0v68.26A47.8,47.8,0,0,0,88,128a8,8,0,0,0,0,16,32,32,0,0,1,0,64Zm104-44h-8a8,8,0,0,0,0,16h8a55.87,55.87,0,0,0,7.81-.56A32,32,0,1,1,168,144a8,8,0,0,0,0-16,47.8,47.8,0,0,0-32,12.26V72a32,32,0,0,1,64,0v6.73a8,8,0,0,0,5.33,7.54A40,40,0,0,1,192,164Zm16-52a8,8,0,0,1-8,8h-4a36,36,0,0,1-36-36V80a8,8,0,0,1,16,0v4a20,20,0,0,0,20,20h4A8,8,0,0,1,208,112ZM60,120H56a8,8,0,0,1,0-16h4A20,20,0,0,0,80,84V80a8,8,0,0,1,16,0v4A36,36,0,0,1,60,120Z"></path></svg></button>
-        <button class="clear-all" data-clear="today">Clear all</button>
-      </div>
-      <div class="rows" id="rows-today"></div>
-    </section>
-    <section class="col col-prev" data-col="prev">
-      <div class="col-head">
-        <h2><svg class="col-ico" viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M216,208H168V184h4a68.07,68.07,0,0,0,68-68,28,28,0,0,0-56,0,12,12,0,0,1-12,12h-4V56a40,40,0,0,0-80,0V88H84A12,12,0,0,1,72,76a28,28,0,0,0-56,0,68.07,68.07,0,0,0,68,68h4v64H40a8,8,0,0,0,0,16H216a8,8,0,0,0,0-16ZM96,128H84A52.06,52.06,0,0,1,32,76a12,12,0,0,1,24,0,28,28,0,0,0,28,28H96a8,8,0,0,0,8-8V56a24,24,0,0,1,48,0v80a8,8,0,0,0,8,8h12a28,28,0,0,0,28-28,12,12,0,0,1,24,0,52.06,52.06,0,0,1-52,52H160a8,8,0,0,0-8,8v32H104V136A8,8,0,0,0,96,128Z"></path></svg>Older than 24h</h2><em data-count="prev">0</em>
-        <span class="showing" data-showing="prev"></span>
-        <button class="col-rank" data-rank="prev" title="Rank Older than 24h by fit" aria-pressed="false" aria-label="Rank Older than 24h by fit"><svg viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M32,64a8,8,0,0,1,8-8H216a8,8,0,0,1,0,16H40A8,8,0,0,1,32,64Zm8,72H160a8,8,0,0,0,0-16H40a8,8,0,0,0,0,16Zm64,48H40a8,8,0,0,0,0,16h64a8,8,0,0,0,0-16Z"></path></svg></button>
-        <button class="col-focus" data-focus="prev" title="Work through Older than 24h one at a time" aria-label="Work through Older than 24h one at a time"><svg viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M248,124a56.11,56.11,0,0,0-32-50.61V72a48,48,0,0,0-88-26.49A48,48,0,0,0,40,72v1.39a56,56,0,0,0,0,101.2V176a48,48,0,0,0,88,26.49A48,48,0,0,0,216,176v-1.41A56.09,56.09,0,0,0,248,124ZM88,208a32,32,0,0,1-31.81-28.56A55.87,55.87,0,0,0,64,180h8a8,8,0,0,0,0-16H64A40,40,0,0,1,50.67,86.27,8,8,0,0,0,56,78.73V72a32,32,0,0,1,64,0v68.26A47.8,47.8,0,0,0,88,128a8,8,0,0,0,0,16,32,32,0,0,1,0,64Zm104-44h-8a8,8,0,0,0,0,16h8a55.87,55.87,0,0,0,7.81-.56A32,32,0,1,1,168,144a8,8,0,0,0,0-16,47.8,47.8,0,0,0-32,12.26V72a32,32,0,0,1,64,0v6.73a8,8,0,0,0,5.33,7.54A40,40,0,0,1,192,164Zm16-52a8,8,0,0,1-8,8h-4a36,36,0,0,1-36-36V80a8,8,0,0,1,16,0v4a20,20,0,0,0,20,20h4A8,8,0,0,1,208,112ZM60,120H56a8,8,0,0,1,0-16h4A20,20,0,0,0,80,84V80a8,8,0,0,1,16,0v4A36,36,0,0,1,60,120Z"></path></svg></button>
-        <button class="clear-all" data-clear="prev">Clear all</button>
-      </div>
-      <div class="rows" id="rows-prev"></div>
-    </section>
-    <section class="col col-raised" data-col="raised">
-      <div class="col-head">
-        <h2><svg class="col-ico" viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm0,192a88,88,0,1,1,88-88A88.1,88.1,0,0,1,128,216Zm40-68a28,28,0,0,1-28,28h-4v8a8,8,0,0,1-16,0v-8H104a8,8,0,0,1,0-16h36a12,12,0,0,0,0-24H116a28,28,0,0,1,0-56h4V72a8,8,0,0,1,16,0v8h16a8,8,0,0,1,0,16H116a12,12,0,0,0,0,24h24A28,28,0,0,1,168,148Z"></path></svg>Just Raised</h2>
-        <em data-count="raised">0</em><span class="hint">SF / Bay Area</span>
-        <span class="showing" data-showing="raised"></span>
-        <button class="col-rank" data-rank="raised" title="Rank Just Raised by fit" aria-pressed="false" aria-label="Rank Just Raised by fit"><svg viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M32,64a8,8,0,0,1,8-8H216a8,8,0,0,1,0,16H40A8,8,0,0,1,32,64Zm8,72H160a8,8,0,0,0,0-16H40a8,8,0,0,0,0,16Zm64,48H40a8,8,0,0,0,0,16h64a8,8,0,0,0,0-16Z"></path></svg></button>
-        <button class="col-focus" data-focus="raised" title="Work through Just Raised one at a time" aria-label="Work through Just Raised one at a time"><svg viewBox="0 0 256 256" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M248,124a56.11,56.11,0,0,0-32-50.61V72a48,48,0,0,0-88-26.49A48,48,0,0,0,40,72v1.39a56,56,0,0,0,0,101.2V176a48,48,0,0,0,88,26.49A48,48,0,0,0,216,176v-1.41A56.09,56.09,0,0,0,248,124ZM88,208a32,32,0,0,1-31.81-28.56A55.87,55.87,0,0,0,64,180h8a8,8,0,0,0,0-16H64A40,40,0,0,1,50.67,86.27,8,8,0,0,0,56,78.73V72a32,32,0,0,1,64,0v68.26A47.8,47.8,0,0,0,88,128a8,8,0,0,0,0,16,32,32,0,0,1,0,64Zm104-44h-8a8,8,0,0,0,0,16h8a55.87,55.87,0,0,0,7.81-.56A32,32,0,1,1,168,144a8,8,0,0,0,0-16,47.8,47.8,0,0,0-32,12.26V72a32,32,0,0,1,64,0v6.73a8,8,0,0,0,5.33,7.54A40,40,0,0,1,192,164Zm16-52a8,8,0,0,1-8,8h-4a36,36,0,0,1-36-36V80a8,8,0,0,1,16,0v4a20,20,0,0,0,20,20h4A8,8,0,0,1,208,112ZM60,120H56a8,8,0,0,1,0-16h4A20,20,0,0,0,80,84V80a8,8,0,0,1,16,0v4A36,36,0,0,1,60,120Z"></path></svg></button>
-        <button class="clear-all" data-clear="raised">Clear all</button>
-      </div>
-      <div class="rows" id="rows-raised"></div>
     </section>
   </main>
 
   <!-- ── Cognition mode: one card, one decision, nothing else ────────
-       A cursor over the chosen column. The deck shrinks as you decide, so
+       A cursor over the chosen pile. The deck shrinks as you decide, so
        progress counts down and every action carries its own Undo — going
        back cannot show you a card you already filed. ─────────────────── -->
   <section class="cog" id="cog" aria-label="Cognition mode">
     <header class="cog-head">
       <h2 class="cog-col" id="cogCol">Last 24h</h2>
       <span class="cog-left" id="cogLeft"></span>
-      <button class="cog-exit" id="cogExit" type="button">Back to board <kbd>Esc</kbd></button>
+      <button class="cog-exit" id="cogExit" type="button">Back to the list <kbd>Esc</kbd></button>
     </header>
 
     <button class="cog-arrow prev" id="cogPrev" type="button" aria-label="Previous listing">
@@ -205,16 +167,11 @@
 
     <div class="cog-toast" id="cogToast" role="status"></div>
 
-    <!-- hints are rewritten per column: Just Raised has no "Applied" -->
+    <!-- hints are rewritten per pile: Just Raised has no "Applied" -->
     <footer class="cog-keys" id="cogKeys"></footer>
   </section>
 
-  <!-- ── Right panels: Applied · Trash (collapse and open) ──────────── -->
-  <div class="drawer-tabs">
-    <button class="drawer-tab" id="tabApplied" aria-label="Open Applied"><span>Applied</span><em data-count="app">0</em></button>
-    <button class="drawer-tab" id="tabOutreach" aria-label="Open Outreach"><span>Outreach</span><em data-count="out">0</em></button>
-    <button class="drawer-tab" id="tabTrash" aria-label="Open Trash"><span>Trash</span><em data-count="trash">0</em></button>
-  </div>
+  <!-- ── Right panels: Applied · Outreach · Trash ───────────────────── -->
   <div class="drawer-scrim" id="drawerScrim"></div>
 
   <aside class="drawer drawer-right" id="drawerApplied" aria-label="Applied jobs">
@@ -245,6 +202,8 @@
     <div class="rows" id="rows-trash"></div>
   </aside>
 
+  <div class="count-chip" aria-live="polite"><b id="heroJobs">0</b> open design roles</div>
+
   <footer class="foot">
     <span class="foot-brand">
       <svg class="logo" viewBox="0 0 256 256" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M232,216H208V40a16,16,0,0,0-16-16H64A16,16,0,0,0,48,40V216H24a8,8,0,0,0,0,16H232a8,8,0,0,0,0-16Zm-64,0H64V40H168Zm-40-84a12,12,0,1,1,12-12A12,12,0,0,1,128,132Z"></path></svg>
@@ -252,6 +211,10 @@
     </span>
     <span class="stats"><b id="statOpen">0</b> tabs open · <b id="statDone">0</b> done · <b id="statRaises">0</b> raises</span>
     <span class="tagline">Close the tabs. Get the offer.</span>
+    <span class="foot-settings">
+      <button class="foot-link" id="projBtn" type="button" aria-haspopup="true" aria-expanded="false">Résumé project</button>
+      <button class="foot-link" id="syncBtn" type="button" data-state="off">Sync</button>
+    </span>
   </footer>
 
   <!-- ── Confirm modal (Clear all) ─────────────────────────────────── -->
