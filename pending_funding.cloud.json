@@ -1,34 +1,167 @@
 [
   {
     "item": {
-      "company": "Microsoft Veterans' Edelbyte",
-      "amount": "$70.0M",
+      "company": "Voyage Labs",
+      "amount": "$12.0M",
       "stage": "Seed",
-      "investors": "Sequoia",
+      "investors": "Kleiner Perkins",
       "location": null,
-      "blurb": "Microsoft Veterans' Edelbyte Raises $70M Seed and Series A Led by Sequoia to Challenge Data Infrastructure Giants - Wowtale. Microsoft Veterans' Edelbyte Raises $70M Seed and Series A Led by Sequoia to Challenge Data Infrastructure Giants&nbsp;&nbsp;Wowtale",
+      "blurb": "Voyage Labs Raises $12M Seed. Voyage Labs raises $12 million in a seed round led by Kleiner Perkins to scale its AI-powered travel planning platform Atlas.",
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DN1A0Mm1ubFNaSi1SMUN2cWJsLUpoc1BDWjlBZ1NUUUNrbGo5aFRsTTA5RzBGY3JLWlFwNzRLQ1ItM1dYUFpQVXZpUmpKWng4dkln?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/voyage-labs-raises-12m-seed/",
       "priority": 12
     },
-    "remind_at": "2026-11-17T18:20:33.800937-08:00"
+    "remind_at": "2026-11-18T02:03:28.998324-08:00"
   },
   {
     "item": {
-      "company": "Scammers",
-      "amount": null,
-      "stage": null,
+      "company": "Valkryn",
+      "amount": "$15.0M",
+      "stage": "Seed",
+      "investors": "Andreessen Horowitz",
+      "location": null,
+      "blurb": "Valkryn Raises $15M Seed. Valkryn raises $15M seed round led by Andreessen Horowitz to scale its autonomous warfare testing and evaluation software infrastructure.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/valkryn-raises-15m-seed/",
+      "priority": 12
+    },
+    "remind_at": "2026-11-18T02:03:31.939145-08:00"
+  },
+  {
+    "item": {
+      "company": "Mulga",
+      "amount": "$1.77M",
+      "stage": "Pre-Seed",
       "investors": null,
       "location": null,
-      "blurb": "Scammers are sending fake emails to people worried about Nvidia's stock. Scammers are already exploiting the scandal surrounding Nvidia to lure unsuspecting investors and business professionals into downloading malware.Why it matters: AI is making it easier for criminals to capitalize on the news cycle and tailor scams to specific audiences before people have time to recognize the threat.Driving the news: KnowBe4, the cybersecurity training platform, says it's seen scammer emails using the subje",
-      "founders": [
-        "Jensen Huang"
-      ],
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/11/17/nvidia-investment-phishing-emails",
+      "blurb": "Mulga Raises $1.77M Pre-seed. Mulga raises $1.77 million in pre-seed funding to expand its open-source Spinifex platform, helping enterprises run AWS workloads on any compute infrastructure.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/mulga-raises-1-77m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-11-18T02:03:34.891006-08:00"
+  },
+  {
+    "item": {
+      "company": "Iconic",
+      "amount": "$10.0M",
+      "stage": "Seed",
+      "investors": "Peak Capital",
+      "location": null,
+      "blurb": "Iconic Raises $10M Seed. Iconic raises $10M in seed funding led by Peak Capital to expand its AI platform for managing and reviewing large capital project documentation.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/iconic-raises-10m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-18T02:03:37.911113-08:00"
+  },
+  {
+    "item": {
+      "company": "Remanence",
+      "amount": "$30.0M",
+      "stage": "Seed",
+      "investors": "EQT Ventures",
+      "location": null,
+      "blurb": "Remanence Raises $30M Seed. Remanence raises $30 million in a seed round led by EQT Ventures and FirstMark to help companies train and own their proprietary AI models.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/remanence-raises-30m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-18T02:03:40.954918-08:00"
+  },
+  {
+    "item": {
+      "company": "Nvidia-backed Genesis AI",
+      "amount": "$500.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Nvidia-backed Genesis AI raises $500M Series A at $3.5B valuation to build general-purpose robots. What if robots could do more than repeat a single programmed task? Imagine a machine that can pack&#8230;",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/nvidia-backed-genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-build-general-purpose-robots/",
+      "priority": 8
+    },
+    "remind_at": "2026-11-18T02:03:46.588849-08:00"
+  },
+  {
+    "item": {
+      "company": "Model ML",
+      "amount": "$250.0M",
+      "stage": "Series B",
+      "investors": "General Atlantic and QED Investors",
+      "location": null,
+      "blurb": "Model ML Raises $250M Series B. Model ML raises $250M Series B at a $1.5B valuation led by General Atlantic and QED Investors to automate financial modeling and analysis.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/model-ml-raises-250m-series-b/",
+      "priority": 7
+    },
+    "remind_at": "2026-11-18T02:03:52.213035-08:00"
+  },
+  {
+    "item": {
+      "company": "Sensei Labs",
+      "amount": null,
+      "stage": "Series B",
+      "investors": "Straylight Capital",
+      "location": null,
+      "blurb": "Sensei Labs Raises Series B. Sensei Labs raises a Series B round led by Straylight Capital to scale its AI-native strategy execution platform and accelerate market expansion.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/sensei-labs-raises-series-b-led-by-straylight-to-scale-conductor-names-john-harris-ceo/",
+      "priority": 7
+    },
+    "remind_at": "2026-11-18T02:03:55.069017-08:00"
+  },
+  {
+    "item": {
+      "company": "Compute Desk",
+      "amount": "$45.0M",
+      "stage": null,
+      "investors": "Lightspeed, Lightspeed Venture Partners",
+      "location": null,
+      "blurb": "Compute Desk Raises $45M in Funding. Compute Desk raises $45M in a funding round led by Lightspeed Venture Partners to scale its compute-focused financial clearing and trading platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/compute-desk-raises-45m-other/",
+      "priority": 6
+    },
+    "remind_at": "2026-11-18T02:04:00.782659-08:00"
+  },
+  {
+    "item": {
+      "company": "Payhawk",
+      "amount": "$280.0M",
+      "stage": "Series C",
+      "investors": null,
+      "location": null,
+      "blurb": "Payhawk Raises $280M Series C. Payhawk raises $280M in a Series C round led by Goldman Sachs Alternatives at a $2B valuation to scale its AI-native finance operating system.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/payhawk-raises-280m-series-c/",
+      "priority": 6
+    },
+    "remind_at": "2026-11-18T02:04:03.891934-08:00"
+  },
+  {
+    "item": {
+      "company": "Akua",
+      "amount": null,
+      "stage": null,
+      "investors": "Ita\u00fa Ventures",
+      "location": null,
+      "blurb": "Akua Secures Investment. Akua receives an investment from Ita\u00fa Ventures to implement its artificial intelligence payment acquiring technology for Ita\u00fa in Uruguay.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/akua-secures-investment/",
       "priority": 3
     },
-    "remind_at": "2026-11-17T18:20:38.205707-08:00"
+    "remind_at": "2026-11-18T02:04:06.949745-08:00"
   }
 ]

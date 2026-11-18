@@ -761,7 +761,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:47:20.989737-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "b2e140ab612cbd0ba573c6596d545dc1",
@@ -794,7 +795,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-16T10:47:17.518848-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "194ff2cd6ae1b62075cd3585cd47ecb8",
@@ -5434,23 +5436,6 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-10-19T01:24:24.386877-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "f30cef694fb296143e31443ece08fa73",
-    "title": "Freelance UI Dev (1 month contract)",
-    "company": "Unknown",
-    "location": "Remote",
-    "salary": "See posting",
-    "url": "https://himalayas.app/companies/talent-shore/jobs/freelance-ui-dev-1-month-contract",
-    "source": "Himalayas",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 5,
-    "first_seen": "2026-10-17T23:16:07.892002-07:00",
     "status": "active",
     "jd": "yes"
   }
