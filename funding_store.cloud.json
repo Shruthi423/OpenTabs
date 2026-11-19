@@ -14240,5 +14240,75 @@
     "roles": [],
     "first_seen": "2026-11-18T10:33:44.373103-08:00",
     "status": "active"
+  },
+  "2a10ae48fa04d8e93380491c74f4ab8a": {
+    "id": "2a10ae48fa04d8e93380491c74f4ab8a",
+    "company": "Boltz",
+    "amount": "$110.0M",
+    "stage": "Series A",
+    "investors": "Bessemer&nbsp",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YcUc3X0xDRGRJYTVhajZDT2xTa2NsVFVXSzU5UXcwTmJ1VHlscWZPcktGN2dGZGJ6NDZmbGR2d1ZIZnl5cjVmMGQtVjRsZndpanNN?oc=5",
+    "priority": 11,
+    "blurb": "Biomolecular AI Startup Boltz Raises $110M Series A Led by Bessemer - Wowtale. Biomolecular AI Startup Boltz Raises $110M Series A Led by Bessemer&nbsp;&nbsp;Wowtale",
+    "founders": [],
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Product Designer, Boltz Lab",
+        "url": "https://jobs.ashbyhq.com/boltz/3db8b622-2f8a-49bd-91b0-8046300655a2",
+        "location": "Remote"
+      }
+    ],
+    "first_seen": "2026-11-18T16:54:04.691374-08:00",
+    "status": "active"
+  },
+  "f4e1ac4550b02edf62c98e764c814bf1": {
+    "id": "f4e1ac4550b02edf62c98e764c814bf1",
+    "company": "Linq",
+    "amount": "$90.0M",
+    "stage": "Series B",
+    "investors": "Andreessen Horowitz",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/11/18/linq-raises-90m-from-andreessen-horowitz-to-power-ai-agents-that-can-text-call-and-get-things-done/",
+    "priority": 10,
+    "blurb": "Linq raises $90M from Andreessen Horowitz to power AI agents that can text, call, and get things done. AI agents are getting closer to doing more than answering questions. San Francisco-based Linq has raised $90 million in Series B funding led by Andreessen Horowitz (a16z) to build the communication infrastructure that lets AI agents send text messages, make [&#8230;]\nThe post Linq raises $90M from Andreessen Horowitz to power AI agents that can text, call, and get things done first appeared on ",
+    "founders": [],
+    "location": "San Francisco",
+    "roles": [],
+    "first_seen": "2026-11-18T16:54:07.494045-08:00",
+    "status": "active"
+  },
+  "03b4caf52a48a6f64f7badd25e6ca1c4": {
+    "id": "03b4caf52a48a6f64f7badd25e6ca1c4",
+    "company": "Anthropic",
+    "amount": "$81.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion",
+    "priority": 3,
+    "blurb": "Anthropic valued at over $1 trillion in historic IPO. Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion.Why it matters: Wall Street expects the AI boom to continue, despite some recent tumult.Zoom in: Anthropic priced at $83 per share, well above its planned range of $70 to $78 per share.It imputes an initial market cap of $1.08 trillion and a fully diluted value of around $1.5 trillion.Anthropic originally planned to sell 825 m",
+    "founders": [],
+    "location": "San Francisco, CA",
+    "roles": [
+      {
+        "title": "Product Designer, Design Systems",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428124008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer, Growth",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446776008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer, Safeguards",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      }
+    ],
+    "first_seen": "2026-11-18T16:54:10.296524-08:00",
+    "status": "active"
   }
 }

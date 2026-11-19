@@ -1,36 +1,49 @@
 [
   {
     "job": {
-      "title": "UX/UI Designer",
-      "company": "The National Gallery",
-      "location": "London",
-      "url": "https://uiuxjobsboard.com/job/1690826-ux-ui-designer-london-united-kingdom",
-      "salary": "\u00a339,353 - \u00a3300,000 GBP",
-      "description": "",
-      "posted_at": "4h",
-      "source": "UIUXJobsBoard",
+      "title": "Founding Product Designer",
+      "company": "Finch Legal",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/finch-legal/0287e127-3545-4af2-96cd-e2013ebdaaa1",
+      "salary": "Not listed",
+      "description": "ABOUT FINCH\n\nWe\u2019re building the applied AI platform for consumer law.\n\nLegal is the largest services market in the global economy, and consumer law drives tangible, customer outcomes. Our purpose-built platform combines AI agents and legal operators to reduce manual work, enabling firms to serve far",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery",
       "relevant": true,
       "is_new_grad": false,
       "is_big_tech": false,
       "visa": null
     },
-    "remind_at": "2026-11-18T11:03:08.451373-08:00"
+    "remind_at": "2026-11-18T17:23:40.057036-08:00"
   },
   {
     "job": {
-      "title": "Product Designer",
-      "company": "T-Mobile",
-      "location": "Philadelphia, PA",
-      "url": "https://uiuxjobsboard.com/job/1684626-product-designer-philadelphia-pa-united-states",
-      "salary": "$83,600 - $150,920",
-      "description": "",
-      "posted_at": "9h",
-      "source": "UIUXJobsBoard",
+      "title": "Motion Designer + Editor, Social",
+      "company": "Runway Ml",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/runway-ml/91826105-13e0-4265-842b-7d756c9a766e",
+      "salary": "Not listed",
+      "description": "We are building AI to simulate the world through merging art and science.\n\nWe believe that world models are at the frontier of progress in artificial intelligence. Language models alone won\u2019t solve the world\u2019s hardest problems \u2013 robotics, disease, scientific discovery. Real progress requires models ",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery",
       "relevant": true,
       "is_new_grad": false,
       "is_big_tech": false,
       "visa": null
     },
-    "remind_at": "2026-11-18T11:03:10.088597-08:00"
+    "remind_at": "2026-11-18T17:23:41.755628-08:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer, Boltz Lab",
+      "company": "Boltz",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/boltz/3db8b622-2f8a-49bd-91b0-8046300655a2",
+      "salary": "Not listed",
+      "description": "About Boltz\n\nBoltz is a public benefit company building the next generation of AI-powered molecular modeling tools to make biology programmable and accelerate drug discovery, while keeping frontier capabilities broadly accessible.\n\nBoltz was founded by former MIT scientists who created Boltz-1, the ",
+      "posted_at": "Recently",
+      "source": "Startups.Gallery"
+    },
+    "remind_at": "2026-11-18T17:24:02.132372-08:00"
   }
 ]

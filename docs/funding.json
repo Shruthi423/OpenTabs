@@ -1,5 +1,51 @@
 [
   {
+    "id": "03b4caf52a48a6f64f7badd25e6ca1c4",
+    "company": "Anthropic",
+    "amount": "$81.0B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco, CA",
+    "roles": [
+      {
+        "title": "Product Designer, Design Systems",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428124008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer, Growth",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446776008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer, Safeguards",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      }
+    ],
+    "first_seen": "2026-11-18T16:54:10.296524-08:00",
+    "status": "active"
+  },
+  {
+    "id": "f4e1ac4550b02edf62c98e764c814bf1",
+    "company": "Linq",
+    "amount": "$90.0M",
+    "stage": "Series B",
+    "investors": "Andreessen Horowitz",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/11/18/linq-raises-90m-from-andreessen-horowitz-to-power-ai-agents-that-can-text-call-and-get-things-done/",
+    "priority": 10,
+    "founders": [],
+    "location": "San Francisco",
+    "roles": [],
+    "first_seen": "2026-11-18T16:54:07.494045-08:00",
+    "status": "active"
+  },
+  {
     "id": "30afd60ca85e5dbac4ad0d95256d57de",
     "company": "BrightAI",
     "amount": "$97.0M",

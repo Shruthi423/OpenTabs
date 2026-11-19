@@ -1,62 +1,47 @@
 [
   {
     "item": {
-      "company": "Unsiloed",
-      "amount": "$7.5M",
-      "stage": "Seed",
-      "investors": "Y Combinator, Uncorrelated Ventures",
-      "location": null,
-      "blurb": "Unsiloed\u00a0nabs $7.5M to turn scanned documents into structured data for AI agents. Document-scanning firm Unsiloed Inc. today announced it has raised $7.5 million in seed funding to turn PDFs and other complex documents into structured, readable data for artificial intelligence agents. Participants in the round, led by Felicis, included Y Combinator, Orange Collective, Uncorrelated Ventures, Aarthi Ramamurthy and Beth Turner. A variety of documents arrive in formats [&#8230;]\nThe post Unsiloed\u00a0na",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/18/unsiloed-nabs-7-5m-to-turn-scanned-documents-into-structured-data-for-ai-agents/",
-      "priority": 12
-    },
-    "remind_at": "2026-11-18T11:03:32.563716-08:00"
-  },
-  {
-    "item": {
-      "company": "Soombit AI",
-      "amount": null,
+      "company": "Boltz",
+      "amount": "$110.0M",
       "stage": "Series A",
-      "investors": null,
+      "investors": "Bessemer&nbsp",
       "location": null,
-      "blurb": "Medical Imaging AI Startup Soombit AI Raises USD 9.1M Series A, Selected for Scale-up TIPS - Wowtale. Medical Imaging AI Startup Soombit AI Raises USD 9.1M Series A, Selected for Scale-up TIPS&nbsp;&nbsp;Wowtale",
+      "blurb": "Biomolecular AI Startup Boltz Raises $110M Series A Led by Bessemer - Wowtale. Biomolecular AI Startup Boltz Raises $110M Series A Led by Bessemer&nbsp;&nbsp;Wowtale",
       "founders": [],
       "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YMHllcC1zd0FlT2E1cm9pYmtSVVJBd3VCT2VVS21JZVJwcm5ZZzZidWxDaVo2eUFaWFptRHhqVHBYV2xmY01XcEg1bFF3U2dYOGNj?oc=5",
-      "priority": 8
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YcUc3X0xDRGRJYTVhajZDT2xTa2NsVFVXSzU5UXcwTmJ1VHlscWZPcktGN2dGZGJ6NDZmbGR2d1ZIZnl5cjVmMGQtVjRsZndpanNN?oc=5",
+      "priority": 11
     },
-    "remind_at": "2026-11-18T11:03:37.009752-08:00"
+    "remind_at": "2026-11-18T17:24:03.691223-08:00"
   },
   {
     "item": {
-      "company": "Humyn Labs",
-      "amount": "$47.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "AI startup Humyn Labs raises $47 million in Series A funding round - Business Standard. AI startup Humyn Labs raises $47 million in Series A funding round&nbsp;&nbsp;Business Standard",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNXZSOGpKLWxTdFIzakN4c0JQS3BJdkM5MVNfRDA0QUZjVUdxMWZOSUdWbHROQ0ZYQmh6VjNSSm1xQmFXZnZGMVlyMHBSeTFtem1OTUhoMEtfZWZfRkZMdXduT2ZSQVNETV9rZGptWmJEckg4cU4yTVNES3hKU2NNY3gwaDR1Q0tESFRlSTZ3bTVUN1B5TTQtcFlhUHRrR2V5X2tlYkxJTTV4d2JvWjRMTnRnbHhMWkVHNWJPSFJTUWo0dlJpWGFEYjQxdTNodVnSAdQBQVVfeXFMUDBNU251cTZyY1huU29YVFhrd3lqUHNPNlBVRXNLR0I5T3d6aWpaazBPX1Q2NGcybjZ2ZTZoZG9lYjl3VnBLOHlRQkdHQzBmNWhyZmY2YTJPd1NiVk9zTjFYVXk4SXBodWotVlpQbTJlbUt6czliUzhDRlVqX1lNa29pZjl6SGx3dVFseFR3UUhXOXg2QllDMjdJM0xVZVM0OGpCVEFOQkFhbldrMmltRWdScXhWY0t6dTdCa3gxTWdFNVc0SmhGZG01cjB4SG9JQl9HRl8?oc=5",
-      "priority": 8
-    },
-    "remind_at": "2026-11-18T11:03:40.054546-08:00"
-  },
-  {
-    "item": {
-      "company": "BrightAI",
-      "amount": "$97.0M",
-      "stage": null,
-      "investors": null,
-      "location": "The Palo Alto",
-      "blurb": "BrightAI raises $97M to bring physical AI to critical infrastructure using robots, drones, and smart sensors. BrightAI has raised $97 million to bring artificial intelligence out of data centers and into the physical infrastructure that keeps everyday life running. The Palo Alto-based startup bets that AI-powered sensors, autonomous robots, and drones can help utilities and industrial [&#8230;]\nThe post BrightAI raises $97M to bring physical AI to critical infrastructure using robots, drones, an",
+      "company": "Linq",
+      "amount": "$90.0M",
+      "stage": "Series B",
+      "investors": "Andreessen Horowitz",
+      "location": "San Francisco",
+      "blurb": "Linq raises $90M from Andreessen Horowitz to power AI agents that can text, call, and get things done. AI agents are getting closer to doing more than answering questions. San Francisco-based Linq has raised $90 million in Series B funding led by Andreessen Horowitz (a16z) to build the communication infrastructure that lets AI agents send text messages, make [&#8230;]\nThe post Linq raises $90M from Andreessen Horowitz to power AI agents that can text, call, and get things done first appeared on ",
       "founders": [],
       "source": "TechStartups",
-      "url": "https://techstartups.com/2026/11/18/brightai-raises-97m-to-bring-physical-ai-to-critical-infrastructure-using-robots-drones-and-smart-sensors/",
+      "url": "https://techstartups.com/2026/11/18/linq-raises-90m-from-andreessen-horowitz-to-power-ai-agents-that-can-text-call-and-get-things-done/",
+      "priority": 10
+    },
+    "remind_at": "2026-11-18T17:24:06.493892-08:00"
+  },
+  {
+    "item": {
+      "company": "Anthropic",
+      "amount": "$81.0B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Anthropic valued at over $1 trillion in historic IPO. Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion.Why it matters: Wall Street expects the AI boom to continue, despite some recent tumult.Zoom in: Anthropic priced at $83 per share, well above its planned range of $70 to $78 per share.It imputes an initial market cap of $1.08 trillion and a fully diluted value of around $1.5 trillion.Anthropic originally planned to sell 825 m",
+      "founders": [],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion",
       "priority": 3
     },
-    "remind_at": "2026-11-18T11:03:43.372928-08:00"
+    "remind_at": "2026-11-18T17:24:09.296363-08:00"
   }
 ]
