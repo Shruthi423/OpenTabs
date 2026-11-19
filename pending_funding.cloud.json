@@ -1,212 +1,137 @@
 [
   {
     "item": {
-      "company": "Wepinion Inc.",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": "Green Mountain Accelerator Fund",
-      "location": null,
-      "blurb": "Wepinion Inc. Raises $500,000 Pre-seed. Wepinion Inc. raises $500K in a pre-seed round led by the Green Mountain Accelerator Fund to scale its social crowdsourcing decision-making platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/wepinion-inc-raises-500000-pre-seed/",
-      "priority": 13
-    },
-    "remind_at": "2026-11-19T00:45:02.586278-08:00"
-  },
-  {
-    "item": {
-      "company": "Collamo",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Collamo Raises $600,000 Pre-seed. Collamo raises $600,000 in a pre-seed round led by Prizmatric Group to expand its content operations platform for creators and marketing teams.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/collamo-raises-600000-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-11-19T00:45:05.685000-08:00"
-  },
-  {
-    "item": {
-      "company": "Endeem",
-      "amount": "$2.5M",
-      "stage": "Pre-Seed",
-      "investors": "Auriga Cyber Ventures",
-      "location": null,
-      "blurb": "Endeem Raises $2.5M Pre-seed. Endeem raises $2.5M in pre-seed funding led by Beta Boom and Auriga Cyber Ventures to provide security and identity management for enterprise AI agents.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/endeem-raises-2-5m-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-11-19T00:45:08.832127-08:00"
-  },
-  {
-    "item": {
-      "company": "labs",
-      "amount": "$7.0M",
+      "company": "Nodal Networks",
+      "amount": "$11.3M",
       "stage": "Seed",
-      "investors": "Revo Capital",
-      "location": null,
-      "blurb": "each::labs Raises $7M Seed. each::labs raises $7M seed round co-led by Revo Capital and EBRD to expand its generative media production platform and build custom AI models.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/each-labs-raises-7m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-19T00:45:10.624249-08:00"
-  },
-  {
-    "item": {
-      "company": "Unsiloed AI",
-      "amount": "$7.5M",
-      "stage": "Seed",
-      "investors": "Felicis",
-      "location": null,
-      "blurb": "Unsiloed AI Raises $7.5M Seed. Unsiloed AI raises $7.5M seed round led by Felicis to scale its document processing platform for AI agents.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/unsiloed-ai-raises-7-5m-seed/",
-      "priority": 9
-    },
-    "remind_at": "2026-11-19T00:45:13.804220-08:00"
-  },
-  {
-    "item": {
-      "company": "Hone Health",
-      "amount": "$228.0M",
-      "stage": "Series A",
       "investors": null,
       "location": null,
-      "blurb": "Hone Health Raises $228M in Funding. Hone Health raises $28M Series A and $200M in growth financing to expand its physician-led longevity care and research platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/hone-health-raises-228m-series-a-growth-round/",
-      "priority": 8
-    },
-    "remind_at": "2026-11-19T00:45:19.691722-08:00"
-  },
-  {
-    "item": {
-      "company": "StepSecurity",
-      "amount": "$20.0M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "StepSecurity Raises $20M Series A. StepSecurity raises $20 million Series A led by Elephant to expand its developer environment and software supply chain security platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/stepsecurity-raises-20m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-11-19T00:45:22.623786-08:00"
-  },
-  {
-    "item": {
-      "company": "Connect Money",
-      "amount": "$3.5M",
-      "stage": "Series A",
-      "investors": "Algebra Ventures, Disruptech",
-      "location": null,
-      "blurb": "Connect Money Raises $3.5M Pre-Series A. Egyptian fintech startup Connect Money raises $3.5M in pre-Series A funding led by Algebra Ventures, Disruptech, and Mohamed Farouk for regional expansion.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/connect-money-raises-3-5m-pre-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-11-19T00:45:28.377719-08:00"
-  },
-  {
-    "item": {
-      "company": "Soombit AI",
-      "amount": "$9.1M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Soombit AI Raises $9.1M Series A. Soombit AI raises $9.1M Series A led by SV Investment to expand its generative AI medical imaging software into CT and MRI diagnostics.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/soombit-ai-raises-9-1m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-11-19T00:45:31.445696-08:00"
-  },
-  {
-    "item": {
-      "company": "Speakeasy",
-      "amount": "$18.8M",
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Speakeasy Raises $18.8M Series A. Speakeasy raises $18.8M Series A led by VMG Technology to expand its AI-driven platform for live entertainment and hospitality operations.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/speakeasy-raises-18-8m-series-a/",
-      "priority": 8
-    },
-    "remind_at": "2026-11-19T00:45:34.410953-08:00"
-  },
-  {
-    "item": {
-      "company": "Variational",
-      "amount": "$110.0M",
-      "stage": "Series B",
-      "investors": "Bain Capital Crypto",
-      "location": null,
-      "blurb": "Variational Raises $110M Series B. Variational raises $110M Series B at a $1.5B valuation led by Bain Capital Crypto to scale its on-chain derivatives trading platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/variational-raises-110m-series-b/",
-      "priority": 7
-    },
-    "remind_at": "2026-11-19T00:45:37.793128-08:00"
-  },
-  {
-    "item": {
-      "company": "LanceDB",
-      "amount": null,
-      "stage": "Series B",
-      "investors": null,
-      "location": null,
-      "blurb": "AI Data Startup LanceDB Raises Series B; 100x Parquet Speed Claim Rests on Its Own Preliminary Test - Tech Times. AI Data Startup LanceDB Raises Series B; 100x Parquet Speed Claim Rests on Its Own Preliminary Test&nbsp;&nbsp;Tech Times",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdFAtMUFWc3ZYQmxFQzN6QUNZU2VsWEZkWTFiT1M2T3k5TFYwZ2hYNGhYeDFaa2dhQXNYSGw0eGliM3JQVF9sVTRGTDBHaHExTzlPeXE4LWw1VkozZzAzSEl3YmtQMzBGMFhTTEZPcFNPUzVoQWtjVDk2TERtUnZyUE9aQlhfeFpreXlXMGhEQ2FnbUJHaTB5cUVPdzkzSXpaV0FzNG5Ub3c0ckxFOTFSY2d3aFAwa2dHRi13VTc0UlUwR2ZfUFdkaDB2YnZXS2tYQVA3TjBWRERQTzNua0tMV1ZEREw?oc=5",
-      "priority": 7
-    },
-    "remind_at": "2026-11-19T00:45:40.747359-08:00"
-  },
-  {
-    "item": {
-      "company": "Payhawk",
-      "amount": "$2.0B",
-      "stage": "Series C",
-      "investors": "Goldman Sachs\u2019 growth equity arm",
-      "location": null,
-      "blurb": "Fintech startup Payhawk valued at $2B in $280M round. Payhawk Ltd., a startup that helps enterprises manage their business expenses, has raised $280 million in funding. The Series C round was led by Goldman Sachs\u2019 growth equity arm. The bank was joined by Greenoaks, Lightspeed and more than a half-dozen others. Payhawk stated today that it\u2019s now valued at $2 billion. Issuing corporate credit [&#8230;]\nThe post Fintech startup Payhawk valued at $2B in $280M round appeared first on SiliconANGLE.",
+      "blurb": "Nodal Networks raises $11.3M to solve global shipping bottlenecks. Nodal Networks Inc., a company that builds artificial intelligence decision networks to manage the world\u2019s shipping container terminals, announced today that it has raised $11.3 million in seed funding to help port and rail hubs reduce congestion and move more cargo. Freight networks move more than a billion shipping containers per year. They carry everything [&#8230;]\nThe post Nodal Networks raises $11.3M to solve global shippin",
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/18/fintech-startup-payhawk-valued-at-2b-in-280m-round/",
-      "priority": 6
+      "url": "https://siliconangle.com/2026/11/19/nodal-networks-raises-11-3m-to-solve-global-shipping-bottlenecks/",
+      "priority": 9
     },
-    "remind_at": "2026-11-19T00:45:43.749361-08:00"
+    "remind_at": "2026-11-19T10:01:33.715136-08:00"
   },
   {
     "item": {
-      "company": "Vero Security",
-      "amount": "$11.0M",
-      "stage": null,
-      "investors": "TLV Partners",
+      "company": "YC-backed LATO",
+      "amount": "$4.7M",
+      "stage": "Seed",
+      "investors": null,
       "location": null,
-      "blurb": "Vero Security Raises $11M in Funding. Vero Security raises $11 million led by TLV Partners to advance its AI runtime governance platform for enterprise AI agent security.",
+      "blurb": "YC-backed LATO raises $4.7M seed to put AI agents on private equity\u2019s due diligence calls. Private equity investors work to tight deal timetables when they assess a company\u2019s customers, market position and growth&#8230;",
+      "founders": [],
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/yc-backed-lato-raises-4-7m-seed-to-put-ai-agents-on-private-equitys-due-diligence-calls/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-19T10:01:39.390717-08:00"
+  },
+  {
+    "item": {
+      "company": "Wilgot",
+      "amount": "$3.0M",
+      "stage": "Seed",
+      "investors": "Industrifonden",
+      "location": null,
+      "blurb": "Wilgot Raises $3M Seed. Wilgot raises $3M seed round led by Industrifonden to expand its AI-driven product optimization platform for brands.",
       "founders": [],
       "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/vero-security-raises-11m-other/",
+      "url": "https://www.thesaasnews.com/news/wilgot-raises-3m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-19T10:01:42.373632-08:00"
+  },
+  {
+    "item": {
+      "company": "Pulley",
+      "amount": "$64.0M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "Pulley Raises $64M in Funding. Pulley raises $64M in combined Series A and Series B funding to accelerate real estate development and expand its AI-native permitting platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/pulley-raises-64m-series-a-series-b/",
+      "priority": 8
+    },
+    "remind_at": "2026-11-19T10:01:45.386391-08:00"
+  },
+  {
+    "item": {
+      "company": "Groundcover",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Groundcover launches Agent Investigations, a shared workspace for AI agents and engineers. Observability company groundcover Inc. today announced the launch of Agent Investigations, a shared workspace designed to allow groundcover&#8217;s artificial intelligence agents, a team&#8217;s own coding agents and on-call engineers to work production incidents together. Agent Investigations is aimed at the problem of scattered findings as AI agents take on a bigger role in incident response. [&#8230;]\nT",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/19/groundcover-launches-agent-investigations-a-shared-workspace-for-ai-agents-and-engineers/",
       "priority": 3
     },
-    "remind_at": "2026-11-19T00:45:57.766829-08:00"
+    "remind_at": "2026-11-19T10:01:48.424169-08:00"
+  },
+  {
+    "item": {
+      "company": "Metano",
+      "amount": "$12.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Metano launches with $12M to help enterprises secure AI agents. Artificial intelligence agent security startup Metano Inc. today launched with $12 million in funding to help enterprises secure AI agents across endpoints, cloud infrastructure and software-as-a-service applications. Metano&#8217;s platform is aimed at giving enterprises consistent visibility and control over AI agents, bringing together agent discovery, context-aware threat detection and real-time enforcement in a single layer. [&",
+      "founders": [],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/19/metano-launches-with-12m-to-help-enterprises-secure-ai-agents/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-19T10:01:51.486792-08:00"
+  },
+  {
+    "item": {
+      "company": "Extrordinas",
+      "amount": "$1.5M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Extrordinas raises $1.5M to help companies fight cyberattacks with AI-powered incident response. A former CrowdStrike incident response director and a former FBI special agent have teamed up to tackle one of cybersecurity&#8217;s toughest problems: helping businesses figure out what happened during a cyberattack and get back to work. Their startup, Extrordinas, has [&#8230;]\nThe post Extrordinas raises $1.5M to help companies fight cyberattacks with AI-powered incident response first appeared on",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/11/19/extrordinas-raises-1-5m-to-help-companies-fight-cyberattacks-with-ai-powered-incident-response/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-19T10:01:54.786680-08:00"
+  },
+  {
+    "item": {
+      "company": "Anthropic",
+      "amount": "$81.3B",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Anthropic raises record $81.3 billion in historic IPO, surpasses spaceX ahead of Nasdaq debut at $1.5 trillion valuation. Anthropic has raised a staggering $81.3 billion in the largest initial public offering in history, surpassing SpaceX&#8217;s record-setting June debut and giving the Claude AI maker a fully diluted valuation of approximately $1.5 trillion. The blockbuster offering comes as Wall [&#8230;]\nThe post Anthropic raises record $81.3 billion in historic IPO, surpasses spaceX ahead of",
+      "founders": [],
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/11/19/anthropic-raises-record-81-3-billion-in-historic-ipo-surpasses-spacex-ahead-of-nasdaq-debut-at-1-5-trillion-valuation/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-19T10:01:57.738709-08:00"
+  },
+  {
+    "item": {
+      "company": "NYC Startups",
+      "amount": "$5.69B",
+      "stage": null,
+      "investors": null,
+      "location": "New York",
+      "blurb": "NYC Startups Raised $5.69B in Q3 2026. It Took 40% Fewer Deals to Do It.. New York startups raised $5.69 billion in Q3 2026, 7% more than a year ago, on 40% fewer deals. Sixteen mega-rounds took 61% of the money. AI led at 38% of capital, Finance fell by two-thirds from Q2, and September\u2019s $3.1 billion rebound made it the city\u2019s best third quarter since 2021.",
+      "founders": [],
+      "source": "AlleyWatch",
+      "url": "https://www.alleywatch.com/2026/11/nyc-venture-capital-q3-2026/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-19T10:02:18.359869-08:00"
   }
 ]

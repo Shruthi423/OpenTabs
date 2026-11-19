@@ -143,7 +143,7 @@
     "first_seen": "2026-09-22T03:22:15.496251-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "4d314eccce618ca81ff6869f45f7d0d7": {
@@ -248,7 +248,7 @@
     "first_seen": "2026-09-22T03:22:24.224681-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "1edd106a29675674d38ab47075da871c": {
@@ -522,7 +522,7 @@
     "first_seen": "2026-09-23T01:12:52.104392-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "9b3776b3b7c23d6a9a40218f80edcfec": {
@@ -2264,7 +2264,7 @@
     "first_seen": "2026-10-03T03:31:25.391232-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "5f476c4e977329d4eb7a012d38aa34f6": {
@@ -8124,7 +8124,7 @@
     "first_seen": "2026-11-03T15:20:21.976155-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-13T22:49:59.824708-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "3f50ca143c066c66a18eb7bda0b6318e": {
@@ -8145,7 +8145,7 @@
     "first_seen": "2026-11-03T15:20:23.504948-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-13T22:49:59.824708-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "f0668193c026a28832d0d8b6e0968269": {
@@ -8167,7 +8167,7 @@
     "status": "active",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-13T22:49:59.824708-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "3c461d107d8ce58470c2fbffce782fa8": {
@@ -8188,7 +8188,7 @@
     "first_seen": "2026-11-03T15:20:26.748201-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "75b36af6ff8caf5265eb3eced80a5d84": {
@@ -8209,7 +8209,7 @@
     "first_seen": "2026-11-03T15:20:28.405637-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "d5fb4a6cf9db5cee5dd410a3364181ab": {
@@ -8230,7 +8230,7 @@
     "first_seen": "2026-11-03T15:20:29.910295-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "dee9bcd33db8adccf39f5e739a0d6557": {
@@ -8251,7 +8251,7 @@
     "first_seen": "2026-11-03T15:20:31.570082-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "9ebcc1ec2e21d54740f1c1212a1798a1": {
@@ -8272,7 +8272,7 @@
     "first_seen": "2026-11-03T15:20:33.086286-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "52c057d1a854e1f41ed52825eb1c5fdb": {
@@ -8293,7 +8293,7 @@
     "first_seen": "2026-11-03T15:20:34.622791-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "27fe4ffaa0922c1e6dccdd3d17a454f5": {
@@ -8315,7 +8315,7 @@
     "status": "active",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "e88acf076edc62fbe54e774a2922b607": {
@@ -8336,7 +8336,7 @@
     "first_seen": "2026-11-03T15:20:37.913234-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "6ffeff88c083d18104a87e0c270470f4": {
@@ -8357,7 +8357,7 @@
     "first_seen": "2026-11-03T15:20:39.424807-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "099cf32ca7f32523e92e4bfa0efea1c5": {
@@ -8401,7 +8401,7 @@
     "status": "active",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "5c21cafacaba9767ac8d9e33f3a31bc5": {
@@ -8422,7 +8422,7 @@
     "first_seen": "2026-11-03T15:20:44.363322-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "d3badc3c4415db072bd0f13a1bd158df": {
@@ -8443,7 +8443,7 @@
     "first_seen": "2026-11-03T15:20:45.866785-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "48299cdfbf7a499f85ea5f65941d7e7e": {
@@ -8464,7 +8464,7 @@
     "first_seen": "2026-11-03T15:20:47.518815-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "adfeafabc835446f2326b9db544eda9d": {
@@ -8485,7 +8485,7 @@
     "first_seen": "2026-11-03T15:20:49.046046-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "7bfe22306b4d62da607f216cb5d30505": {
@@ -9748,7 +9748,7 @@
     "first_seen": "2026-11-10T19:58:21.845406-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-13T22:49:59.824708-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "9f730ad86fa2697bc8efc34a235a7959": {
@@ -9769,7 +9769,7 @@
     "first_seen": "2026-11-10T19:58:23.543488-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-13T22:49:59.824708-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "c72e238e062e418b0bc3b6f33f93219c": {
@@ -9790,7 +9790,7 @@
     "first_seen": "2026-11-11T03:41:59.445468-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "94b2333f8dc437cc9cb10bb91fbfca45": {
@@ -9811,7 +9811,7 @@
     "first_seen": "2026-11-11T03:42:01.143039-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T05:53:23.237952-08:00",
+    "checked_at": "2026-11-19T09:30:09.979504-08:00",
     "dead_strikes": 0
   },
   "5307cfe835fb0ef5f7ccc3b2f865d637": {
@@ -11798,22 +11798,41 @@
     "status": "active",
     "applied_at": null
   },
-  "e7db91efb7e1319a4c61ac1020586e04": {
-    "id": "e7db91efb7e1319a4c61ac1020586e04",
-    "title": "Backend Engineer - Subscriptions at Spotify",
+  "2101defc3c054d7c6e18723174bec68a": {
+    "id": "2101defc3c054d7c6e18723174bec68a",
+    "title": "System Engineer at Ben Fatto",
     "company": "Unknown",
     "location": "Remote",
     "salary": "See posting",
-    "url": "https://remotefirstjobs.com/companies/spotify/jobs/backend-engineer-subscriptions-884540",
+    "url": "https://remotefirstjobs.com/companies/ben-fatto/jobs/system-engineer-884888",
     "source": "JobsCollider",
     "is_new_grad": false,
     "is_big_tech": false,
     "visa": null,
     "founders": [],
-    "description": "Our mission on the Advertising Product &amp; Technology team is to build a next generation advertising platform that aligns with our unique value proposition for audio and video. We work to scale the user experience for hundreds of millions of fans and hundreds of thousands of advertisers. This scal",
+    "description": "Description\n\nWe are seeking an experienced, true full stack Developer/Tester who can own an application end to end: Angular front-end, .NET API and backend services, SQL Server data layer, and automated testing. The ideal candidate is equally comfortable building a UI component, designing an API con",
     "posted_at": "Recently",
     "priority": 5,
-    "first_seen": "2026-11-19T00:14:39.620538-08:00",
+    "first_seen": "2026-11-19T09:31:06.790536-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "8331a0ee4b09adf4633e6698f605b7e9": {
+    "id": "8331a0ee4b09adf4633e6698f605b7e9",
+    "title": "UX Research Intern",
+    "company": "Bask Health",
+    "location": "Remote",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1686926-remote-united-states-ux-research-intern",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "We're an entrepreneurial, product-focused engineering team that values ownership, technical excellence, and building software that solves real problems. Engineers work closely with product teams and company leadership, take features from idea to production, and have a direct role in shaping the platform.\nEngineering at Bask is AI-first and builder-led. We use tools like Cursor and Claude Code throughout development while maintaining high standards for reliability, testing, and software quality.\nAbout the Role\nWe're looking for a UX Research Intern to join Bask Health and gain practical experience researching how people interact with digital products.\nBask Health enables entrepreneurs, doctors, and healthcare businesses to launch, manage, and grow direct-to-consumer telehealth businesses. Our platform brings together merchant tools, patient experiences, clinical workflows, pharmacy operations, and commerce capabilities.\nAs a UX Research Intern, you'll work alongside experienced researchers, product designers, product managers, and engineers to help us better understand user needs, behaviors, and challenges.\nThis internship is designed for students, recent graduates, and aspiring researchers who want to develop hands-on skills in user research and usability evaluation.\nYou'll support research projects that investigate how users navigate our platform, complete important tasks, interpret information, and interact with different product features.\nYour projects may involve merchant onboarding, administrative dashboards, patient questionnaires, account settings, product configuration, and other experiences across the platform.\nYou'll learn how research questions are developed, how appropriate research methods are selected, and how studies are planned and conducted.\nYou'll assist with preparing interview guides, usability testing scripts, participant instructions, and research materials.\nYou'll have opportunities to observe user interviews and moderated usability testing sessions, with increasing participation as your skills develop.\nYou'll learn how to take structured research notes, identify patterns in user behavior, and distinguish direct observations from interpretations.\nYou'll help organize research findings and contribute to summaries that explain what users experienced and where improvements may be needed.\nYou'll work with product designers to understand how research findings inform interface decisions and design iterations.\nYou'll also collaborate with product managers to learn how research supports product discovery, feature development, and prioritization.\nYou'll become familiar with research tools, participant recruitment processes, documentation practices, and the practical challenges of conducting research within a software company.\nA key part of this internship will be learning how to conduct research responsibly, including asking unbiased questions, protecting participant information, and accurately representing findings.\nBecause Bask supports healthcare-related workflows, you'll also learn why privacy, consent, sensitive information, and appropriate research boundaries are especially important.\nYou'll receive guidance on research activities and opportunities to contribute to increasingly complex assignments as your knowledge grows.\nWe're looking for someone who is curious about human behavior, enjoys asking thoughtful questions, and is excited to develop practical UX research skills while working on real product challenges.\nWhat You'll Do\nSupport UX research projects across Bask Health's software platform.\nAssist with preparing research plans and study materials.\nHelp develop user interview questions and discussion guides.\nSupport the organization of usability testing sessions.\nObserve moderated user interviews and usability studies.\nTake structured notes during research sessions.\nDocument participant feedback, behaviors, and challenges.\nAssist with evaluating merchant onboarding experiences.\nSupport research involvi",
+    "posted_at": "10h",
+    "priority": 5,
+    "first_seen": "2026-11-19T09:31:08.368545-08:00",
     "status": "active",
     "applied_at": null
   }
