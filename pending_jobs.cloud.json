@@ -1,36 +1,53 @@
 [
   {
     "job": {
-      "title": "System Engineer at Ben Fatto",
-      "company": "Unknown",
+      "title": "Product Designer",
+      "company": "Tebra",
       "location": "Remote",
-      "url": "https://remotefirstjobs.com/companies/ben-fatto/jobs/system-engineer-884888",
-      "salary": "See posting",
-      "description": "Description\n\nWe are seeking an experienced, true full stack Developer/Tester who can own an application end to end: Angular front-end, .NET API and backend services, SQL Server data layer, and automated testing. The ideal candidate is equally comfortable building a UI component, designing an API con",
+      "url": "https://weworkremotely.com/remote-jobs/tebra-product-designer",
+      "salary": "$121,500",
+      "description": "\n  Headquarters: United States - Remote\n\n\nTebra only initiates contact with candidates via email from an official Tebra email address (@tebra.com, @patientpop.com, or @kareo.com) or through our applicant tracking system, Greenhouse.&nbsp;We will only ask you to provide sensitive personal information",
       "posted_at": "Recently",
-      "source": "JobsCollider",
+      "source": "WeWorkRemotely",
       "relevant": true,
       "is_new_grad": false,
       "is_big_tech": false,
       "visa": null
     },
-    "remind_at": "2026-11-19T10:01:07.341797-08:00"
+    "remind_at": "2026-11-19T16:15:15.759640-08:00"
   },
   {
     "job": {
-      "title": "UX Research Intern",
-      "company": "Bask Health",
+      "title": "Product Designer, Education",
+      "company": "OpenAI",
       "location": "Remote",
-      "url": "https://uiuxjobsboard.com/job/1686926-remote-united-states-ux-research-intern",
+      "url": "https://jobs.ashbyhq.com/openai/4885f56d-9f59-4c40-81d8-c33a167cb26c",
       "salary": "Not listed",
-      "description": "",
-      "posted_at": "10h",
-      "source": "UIUXJobsBoard",
+      "description": "About the Team\n\nOpenAI\u2019s mission is to ensure that general-purpose artificial intelligence benefits all of humanity. The Education team is focused on making AI safe, useful, and empowering for students, faculty, and institutions.\n\nOur work spans core learning experiences, course-based tools, and cam",
+      "posted_at": "Recently",
+      "source": "OpenAI",
       "relevant": true,
       "is_new_grad": false,
-      "is_big_tech": false,
+      "is_big_tech": true,
       "visa": null
     },
-    "remind_at": "2026-11-19T10:01:09.189606-08:00"
+    "remind_at": "2026-11-19T16:15:17.594913-08:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer, Advertiser Experiences",
+      "company": "OpenAI",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/openai/919b3666-14c2-4c70-b28c-7a49fedc418e",
+      "salary": "Not listed",
+      "description": "About the Team\n\nOpenAI\u2019s mission is to ensure that general-purpose artificial intelligence benefits all of humanity. The Ads team is exploring how AI can create more useful connections between people and businesses while helping businesses grow.\n\nWe\u2019re particularly interested in making sophisticated",
+      "posted_at": "Recently",
+      "source": "OpenAI",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": true,
+      "visa": null
+    },
+    "remind_at": "2026-11-19T16:15:19.274773-08:00"
   }
 ]

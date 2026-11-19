@@ -14694,5 +14694,53 @@
     "roles": [],
     "first_seen": "2026-11-19T09:32:19.360040-08:00",
     "status": "active"
+  },
+  "677917f05435936d995295fdc729aba6": {
+    "id": "677917f05435936d995295fdc729aba6",
+    "company": "Chipverse",
+    "amount": "Undisclosed",
+    "stage": "Pre-Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53WVA2NXFBUGZrUWNFYm5PdjEtQ01OOVJfVVVCT0FKc1l3UE1pcks5bFRvaHlwcExSU0FOaVYzTVJZaGlSUEFwVEN1RDlGLUdtUFlJNlY1MWc0VmdiRVlqMl9iTVRMRjc4Q0VmOG9KUGRDOU1yZG84?oc=5",
+    "priority": 10,
+    "blurb": "Egyptian AI startup Chipverse raises pre-seed funding - Condia. Egyptian AI startup Chipverse raises pre-seed funding&nbsp;&nbsp;Condia",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-19T15:45:40.940466-08:00",
+    "status": "active"
+  },
+  "30d2fc6eba9beaae6a84b234fdcc6602": {
+    "id": "30d2fc6eba9beaae6a84b234fdcc6602",
+    "company": "Humyn Labs",
+    "amount": "Undisclosed",
+    "stage": "Series A",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oU3htTy1tZG5yQUVVSTZlcHVTQklLeUdqVzVwSWhvdzd3eGNXTC1nSTdodFF2RklGb2g3YXNBRGNVb0tMZEF3LU9rUVFPU0tfUUFr?oc=5",
+    "priority": 8,
+    "blurb": "Physical AI Startup Humyn Labs Raises USD 47M Series A - Wowtale. Physical AI Startup Humyn Labs Raises USD 47M Series A&nbsp;&nbsp;Wowtale",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-19T15:45:43.782202-08:00",
+    "status": "active"
+  },
+  "4fb4adfb9ac6ac379a783ca96eccf54d": {
+    "id": "4fb4adfb9ac6ac379a783ca96eccf54d",
+    "company": "Enterprise AI",
+    "amount": "Undisclosed",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/11/19/enterprise-ai-pushing-cloud-infrastructure-beyond-gpu-kubeconna/",
+    "priority": 3,
+    "blurb": "Enterprise AI is pushing cloud infrastructure beyond the GPU. Enterprise adoption of artificial intelligence is creating new requirements for enterprise AI infrastructure. While much of the early AI investment centered on access to powerful GPUs, organizations moving AI applications and agents into production are discovering that accelerators are only one part of the equation. Agentic AI systems need environments where they can execute code, [&#8230;]\nThe post Enterprise AI is pushing cloud infr",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-19T15:45:47.237969-08:00",
+    "status": "active"
   }
 }
