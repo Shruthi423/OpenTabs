@@ -1,5 +1,22 @@
 [
   {
+    "id": "92e75bf9bdfc458e916e63ea9d3b687d",
+    "title": "UX Designer",
+    "company": "Tech-assist",
+    "location": "US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=02e4803657a7f17a",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-11-17",
+    "priority": 4,
+    "first_seen": "2026-11-18T20:01:46.041574-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "2b542b209f4382f79e33afc36e389e78",
     "title": "Patient Engagement Portal & Web User Experience",
     "company": "Kelly Science, Engineering, Technology & Telecom",
@@ -16469,40 +16486,6 @@
     "posted_at": "2026-10-18",
     "priority": 4,
     "first_seen": "2026-10-18T22:05:53.405781-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "70b448a7d8f720f686d202f06069c55d",
-    "title": "UI Desktop Engineer Hybird, North Carolina Hybrid",
-    "company": "Cisco",
-    "location": "Research Triangle Park, NC, US",
-    "salary": "$115,800 \u2013 $226,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=21f8e27145209897",
-    "source": "Indeed",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-10-17",
-    "priority": 4,
-    "first_seen": "2026-10-18T20:51:51.928282-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "31275154bd8d4f74e84078cea752c6e3",
-    "title": "Touch Sensing Product Design Engineer",
-    "company": "Apple",
-    "location": "Sunnyvale, CA, US",
-    "salary": "$129,300 \u2013 $225,300 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=f4b98130adb11dfa",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "2026-09-13",
-    "priority": 2,
-    "first_seen": "2026-10-18T20:51:47.892680-07:00",
     "status": "active",
     "jd": "yes"
   }
