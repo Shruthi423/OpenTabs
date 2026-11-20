@@ -14918,5 +14918,53 @@
     "roles": [],
     "first_seen": "2026-11-20T06:16:29.072938-08:00",
     "status": "active"
+  },
+  "969c293109b3bacd3da097313e13cfec": {
+    "id": "969c293109b3bacd3da097313e13cfec",
+    "company": "Anthropic Stock Sinks",
+    "amount": "$3.79B",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/11/20/top-tech-news-roundup-for-today-november-20-2026-anthropic-stock-slides-gta-vi-hits-3-79-billion-nvidia-faces-subpoena-more/",
+    "priority": 3,
+    "blurb": "Top Tech News Today, November 20, 2026: Anthropic Stock Sinks, Apple\u2019s AI Agent, GTA VI\u2019s $3.79 Billion Debut, Nvidia Subpoena & More. It\u2019s Friday, November 20, 2026, and the tech world is closing the week with record-breaking deals, a Wall Street shakeup, and fresh cybersecurity threats\u2014from Anthropic\u2019s turbulent stock debut and GTA VI\u2019s historic launch to Nvidia\u2019s deepening regulatory troubles and the [&#8230;]\nThe post Top Tech News Today, November 20, 2026: Anthropic Stock Sinks, Apple\u2019s AI ",
+    "founders": [],
+    "location": "San Francisco, CA",
+    "roles": [
+      {
+        "title": "Product Designer, Design Systems",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428124008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer, Growth",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446776008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Product Designer, Safeguards",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      }
+    ],
+    "first_seen": "2026-11-20T13:55:36.227336-08:00",
+    "status": "active"
+  },
+  "8cdffaafa0498e059386d146e9092d32": {
+    "id": "8cdffaafa0498e059386d146e9092d32",
+    "company": "AI-Native SEO Agency",
+    "amount": "$21.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "First Round (news)",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45YkUzNkJMQ01GQjhWdWN5blYwUnZ2RDVVaUJhY0tJTjhDRGQ2MldDbHdkX0xoRXQ0T3IyLWtPRzVIZTItSDdxMVZDRXR5N0VZS1NRUW1rNTdSSjN6ODEzRndrOEdtdw?oc=5",
+    "priority": 3,
+    "blurb": "Daydream: AI-Native SEO Agency, $21M Raised, WndrCo - Everything-PR. Daydream: AI-Native SEO Agency, $21M Raised, WndrCo&nbsp;&nbsp;Everything-PR",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-20T13:55:41.846052-08:00",
+    "status": "active"
   }
 }
