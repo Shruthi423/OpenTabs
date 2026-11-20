@@ -1,5 +1,22 @@
 [
   {
+    "id": "0e414ad0fee9ac03e190a50a2a23a30d",
+    "title": "UX Designer",
+    "company": "Vantor",
+    "location": "McLean, VA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4492759387",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-11-19T17:17:20.760689-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "75bab11eba6edbf27d9f1e6a8446de21",
     "title": "User Experience Designer (Remote)",
     "company": "Designer Brands",
@@ -16282,40 +16299,6 @@
     "posted_at": "2026-10-18",
     "priority": 4,
     "first_seen": "2026-10-19T18:30:43.963018-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "b0adc56317c098fc7404b1d28a804515",
-    "title": "Brand and Motion Designer",
-    "company": "Kamino",
-    "location": "New York, NY, US",
-    "salary": "$100,000 \u2013 $150,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=9ad0219497cebf2d",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-10-18",
-    "priority": 3,
-    "first_seen": "2026-10-19T18:10:47.277626-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "cb3608068b7bedc23edaea2917a0202d",
-    "title": "Product Design Engineer",
-    "company": "Yamaichi Electronics",
-    "location": "San Jose, CA, US",
-    "salary": "$90,000 \u2013 $125,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=78a4c5d3f2be0d2f",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-10-19",
-    "priority": 2,
-    "first_seen": "2026-10-19T18:10:43.518996-07:00",
     "status": "active",
     "jd": "yes"
   }
