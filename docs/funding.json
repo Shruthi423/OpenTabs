@@ -1,5 +1,20 @@
 [
   {
+    "id": "097e85f9f6e237da9ec378255f86f7a3",
+    "company": "MatriQ",
+    "amount": "$140.0M",
+    "stage": "Series B",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU91akdWX01Rb0lBYzJQOEVmUVV6NXR1WjdOd0RxMmNPbnlDYkxRaDhhQVpLM2V4UDg0UlZGN0ZVRlBSVWpJV0JKbTZKWlN5c3FvSW4tN2hLQld0NmRpV2NIanRmb01JYTRTM3NoeEN0R0tOdUtlT0haTEdVWVpiTkt5UV9OUS1NWVN0N01WNERZaFNvcFJSeE03U3lScGxtU0pjc2NKeVY?oc=5",
+    "priority": 7,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-19T21:05:44.092481-08:00",
+    "status": "active"
+  },
+  {
     "id": "4fb4adfb9ac6ac379a783ca96eccf54d",
     "company": "Enterprise AI",
     "amount": "Undisclosed",
@@ -6699,36 +6714,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-10-20T02:41:13.730488-07:00",
-    "status": "active"
-  },
-  {
-    "id": "99cb9cb46db71b5fbb6501488b280253",
-    "company": "Ayan",
-    "amount": "Undisclosed",
-    "stage": "Pre-Seed",
-    "investors": "Undisclosed",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUE1nR3NzcG10bW9rNTJCMzBiSzZnc0kzS2h1Rk1GVGVvbldSZ2NqRndsSG1Qd0lDeTR3aFQ1UnVDSlh0MG5wNUx1YnNNck8zcTVrZ3NvZkFLdG5NVmt5VGZoc2VTZTlmQkI4MzJPcG9HU3RZRDlPU1VVZllxNXhNdVMzRERyUERZZXVWUmpsQk9GZzd4ZjlrQ1lsUzhZNGRYUFVaVDUwckQ3S0o4X0dneA?oc=5",
-    "priority": 10,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-19T21:46:29.814573-07:00",
-    "status": "active"
-  },
-  {
-    "id": "1db748fda3160218331b6eeb6a3b7e88",
-    "company": "U.S.-Based Town",
-    "amount": "$108.0M",
-    "stage": "Series B",
-    "investors": "Undisclosed",
-    "source": "a16z (news)",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOTlrOUd5OXVvUW9URGYxR3VQUVMtRmw0bkFqOHcyWmJ6OEJBcW1ZenpyQ2tUcjdJLUZfZjlPQlNlbjRjT3dSbDQ2TFFhNlJOMTZKZnlfZV9GbERFTm15MU5SVjQwRXJadmtETDM2OHNwUFBrczdOMVAwZEI1STEyaWk2YjZFWU9lOTZwbWtHdmw0VzltU1UyT2VHSmdqLVduSXhPeURrRFhkQ3gwREpLVQ?oc=5",
-    "priority": 7,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-19T17:05:21.674888-07:00",
     "status": "active"
   }
 ]
