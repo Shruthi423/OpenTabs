@@ -1,5 +1,22 @@
 [
   {
+    "id": "5b7dca57b35f3027158776d40378dfcc",
+    "title": "Brand Designer",
+    "company": "Teneo",
+    "location": "Atlanta, GA, US",
+    "salary": "$80,000 \u2013 $90,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=0cb6c9b38621e467",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-11-20",
+    "priority": 4,
+    "first_seen": "2026-11-21T09:09:26.124236-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "1ca95b053f63366be4606418ee785249",
     "title": "Product Designer [84786]",
     "company": "Onward Search",
@@ -15232,23 +15249,6 @@
     "jd": "yes"
   },
   {
-    "id": "ab5516bb68690a65176e8ba7694709b9",
-    "title": "UX Designer II",
-    "company": "The Home Depot",
-    "location": "Houston, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4481389487",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-10-22T16:45:41.117832-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "a787efc8af00ddeb45202040bd3686c4",
     "title": "Design Systems Designer (Contract)",
     "company": "SoFi",
@@ -15347,23 +15347,6 @@
     "posted_at": "nan",
     "priority": 3,
     "first_seen": "2026-10-22T14:12:15.488147-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "d3c591c088ddd8ff9f4d5df83a2d4944",
-    "title": "Engineer I, Product Design",
-    "company": "ICU Medical",
-    "location": "San Clemente, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4482433199",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-10-22T13:43:36.683258-07:00",
     "status": "active",
     "jd": "yes"
   },
@@ -16078,23 +16061,6 @@
     "posted_at": "2026-10-21",
     "priority": 4,
     "first_seen": "2026-10-21T11:20:08.720151-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "8e1e7dcc8e911372c135eb9cbd44b81a",
-    "title": "Brand Designer",
-    "company": "The Ziegenfelder Company",
-    "location": "Wheeling, WV",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4482120516",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-10-21T09:18:40.108971-07:00",
     "status": "active",
     "jd": "yes"
   }
