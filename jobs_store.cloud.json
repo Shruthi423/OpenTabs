@@ -689,7 +689,7 @@
     "first_seen": "2026-09-24T05:17:52.701314-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "e625058339775322206312f0f24a20e5": {
@@ -710,7 +710,7 @@
     "first_seen": "2026-09-24T05:17:54.502271-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "621507666705255764ac4a74053c97c5": {
@@ -731,7 +731,7 @@
     "first_seen": "2026-09-24T10:26:01.232533-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "116ff82c2622e4d1240a78e55a260055": {
@@ -752,7 +752,7 @@
     "first_seen": "2026-09-24T10:26:03.142034-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "f5755c4d4879d808ae536504e43eb498": {
@@ -773,7 +773,7 @@
     "first_seen": "2026-09-24T13:38:14.460756-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00"
+    "checked_at": "2026-11-21T02:35:46.432303-08:00"
   },
   "240e613f86f51a1d7a50ccf37f4435cc": {
     "id": "240e613f86f51a1d7a50ccf37f4435cc",
@@ -1842,7 +1842,7 @@
     "first_seen": "2026-09-29T15:30:03.962203-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "019dca12fe3aacc70d8f725f58d26672": {
@@ -1948,8 +1948,8 @@
     "first_seen": "2026-09-30T06:42:11.100196-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
-    "dead_strikes": 0
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
+    "dead_strikes": 1
   },
   "32bf5e923fcc81db13c9fe640996c9d9": {
     "id": "32bf5e923fcc81db13c9fe640996c9d9",
@@ -2159,7 +2159,7 @@
     "first_seen": "2026-10-01T17:01:42.112198-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "8f1900a1743ac8553046a676d6d1f13f": {
@@ -2180,7 +2180,7 @@
     "first_seen": "2026-10-01T17:01:44.024355-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-15T01:41:15.556554-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "06139a1e141a16e7a0ddc9c5ce28b3ed": {
@@ -2222,7 +2222,7 @@
     "first_seen": "2026-10-02T17:13:26.197709-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "bbb290d89c1f3690a7b38b5e1e5f1e43": {
@@ -2306,7 +2306,7 @@
     "first_seen": "2026-10-03T22:49:57.749488-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "860143327273372e54182a8b2c22f50b": {
@@ -2369,7 +2369,7 @@
     "first_seen": "2026-10-05T00:01:23.759932-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "b0e48c9b5684c5507e00d41ee374027e": {
@@ -2390,7 +2390,7 @@
     "first_seen": "2026-10-05T00:01:25.260635-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "ac71f9b11e8f76f0806cdd232f03ec17": {
@@ -2411,7 +2411,7 @@
     "first_seen": "2026-10-05T00:01:27.143654-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "e414d3db5614404cfab4ab421408e910": {
@@ -3522,7 +3522,7 @@
     "first_seen": "2026-10-08T15:45:21.205449-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "fd6cb52fb1b2be65e05b370d1c97f060": {
@@ -3753,7 +3753,7 @@
     "first_seen": "2026-10-11T17:41:13.428107-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "0124364b37e61eee0057de47ca124bec": {
@@ -4486,7 +4486,7 @@
     "first_seen": "2026-10-14T04:49:08.628527-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "88e5edf5421fac8bbc87a521f7473750": {
@@ -4507,7 +4507,7 @@
     "first_seen": "2026-10-14T04:49:10.461889-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "baaf712c6ac1906b3d740f37215809c6": {
@@ -4612,7 +4612,7 @@
     "first_seen": "2026-10-15T09:08:55.675108-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "05cd34841729cf600d3f054fb0be51e1": {
@@ -5222,7 +5222,7 @@
     "first_seen": "2026-10-20T07:30:08.050974-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "73bb8859aa6e08d14494188e2f52ff7e": {
@@ -5243,7 +5243,7 @@
     "first_seen": "2026-10-20T07:30:09.646653-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "f022810b16a990f72098b60b0d268194": {
@@ -5264,7 +5264,7 @@
     "first_seen": "2026-10-20T07:30:11.229244-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "8904e028dd2c3772ce1663dff14b5d0d": {
@@ -5559,7 +5559,7 @@
     "first_seen": "2026-10-22T22:43:38.639493-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "508ed83d316134eade8d04ec9fadffb0": {
@@ -5747,7 +5747,7 @@
     "first_seen": "2026-10-25T05:17:27.422964-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T18:18:36.983829-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "7e8795acc196ad3be68cf32f2b627cc7": {
@@ -9958,7 +9958,7 @@
     "first_seen": "2026-11-11T11:05:42.002567-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-14T14:50:01.670166-08:00",
+    "checked_at": "2026-11-21T02:35:46.432303-08:00",
     "dead_strikes": 0
   },
   "103fa371fac327049236648f23181023": {
@@ -12024,6 +12024,25 @@
     "posted_at": "Recently",
     "priority": 1,
     "first_seen": "2026-11-19T21:05:18.825514-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "044d9f1bee7c7a821d26d2a5f5037011": {
+    "id": "044d9f1bee7c7a821d26d2a5f5037011",
+    "title": "Product Designer (12 month FTC) at AND Digital",
+    "company": "Unknown",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://remotefirstjobs.com/companies/and-digital/jobs/product-designer-12-month-ftc-886632",
+    "source": "JobsCollider",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Junior Product Designer, 12 months, Hybrid/London\n\nAbout us:\n\nWe help organisations navigate the future of technology, combining human expertise, emerging tech and AI to deliver better outcomes, faster.\n\nSince 2014, we\u2019ve worked side-by-side with clients to solve complex challenges, build high-perfo",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-21T02:36:41.668456-08:00",
     "status": "active",
     "applied_at": null
   }
