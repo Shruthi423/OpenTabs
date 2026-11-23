@@ -1,5 +1,22 @@
 [
   {
+    "id": "8d7b6ec0c90616a99f8740cb0db800f4",
+    "title": "Brand Designer",
+    "company": "nan",
+    "location": "Remote, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=f512cc4cf457c4fd",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-11-22",
+    "priority": 4,
+    "first_seen": "2026-11-22T18:20:15.361373-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "38f5d51154f8292f505b63ff77c3fc39",
     "title": "UX Design Intern (Summer 2027)",
     "company": "Vertiv",
@@ -15058,23 +15075,6 @@
     "posted_at": "2026-10-21",
     "priority": 1,
     "first_seen": "2026-10-22T19:27:18.464974-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "f662fd4ce97000d5c73100ff9b124552",
-    "title": "UI/User Experience Designer",
-    "company": "nan",
-    "location": "Detroit, MI, US",
-    "salary": "$105,000 \u2013 $115,000 / yearly",
-    "url": "https://www.indeed.com/viewjob?jk=23f24c326ef53b94",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-10-22",
-    "priority": 4,
-    "first_seen": "2026-10-22T18:22:10.096507-07:00",
     "status": "active",
     "jd": "yes"
   }
