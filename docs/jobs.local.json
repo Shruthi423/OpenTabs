@@ -1,5 +1,39 @@
 [
   {
+    "id": "3ab1f8cedf7fea3fb1a36ed4d91aa32d",
+    "title": "Product Design Engineer II - Skincare",
+    "company": "SharkNinja",
+    "location": "Needham, MA, US",
+    "salary": "$78,000 \u2013 $108,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=961a17ac6f13137e",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-11-22",
+    "priority": 4,
+    "first_seen": "2026-11-23T09:16:16.582975-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "c4de93f0f4b3840f170d8f427c1a0004",
+    "title": "UI/UX Designer",
+    "company": "Omygon",
+    "location": "US",
+    "salary": "$91,400 \u2013 $112,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=fcccaaf40da3b232",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-11-23",
+    "priority": 4,
+    "first_seen": "2026-11-23T09:15:23.068788-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "54d136a6f4755178624be0891b9292f1",
     "title": "Product Designer",
     "company": "Fuse Energy",
@@ -14837,23 +14871,6 @@
     "posted_at": "2026-10-22",
     "priority": 4,
     "first_seen": "2026-10-23T10:20:33.398613-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "82d239708728003e8540b3fad6c5ea50",
-    "title": "Motion Designer",
-    "company": "nan",
-    "location": "Orlando, FL, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=ea5177feae471877",
-    "source": "Indeed",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-10-21",
-    "priority": 4,
-    "first_seen": "2026-10-23T10:00:42.034908-07:00",
     "status": "active",
     "jd": "yes"
   }
