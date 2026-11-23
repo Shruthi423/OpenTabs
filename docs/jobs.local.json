@@ -1,5 +1,22 @@
 [
   {
+    "id": "4a11ccc3008ba3d15ce22ce072259be1",
+    "title": "Product Designer",
+    "company": "Meltwater",
+    "location": "Austin, TX, US",
+    "salary": "$115,000 \u2013 $125,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=f4028157e023500e",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-11-22",
+    "priority": 4,
+    "first_seen": "2026-11-23T15:25:06.139577-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "b668806d76609968effdb69412d65373",
     "title": "Motion Designer",
     "company": "Pyramid Consulting, Inc",
@@ -15351,23 +15368,6 @@
     "jd": "yes"
   },
   {
-    "id": "cf24d0027959b9241eb738bba4a152a1",
-    "title": "Frontend Engineer - Design Systems",
-    "company": "Mercury",
-    "location": "San Francisco, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4481021055",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 1,
-    "first_seen": "2026-10-23T18:42:14.224246-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "35fbb9514ae90ada5781adfb2d9fdcfa",
     "title": "Founding Product Designer",
     "company": "Beacon Holdings",
@@ -15449,40 +15449,6 @@
     "posted_at": "2026-10-22",
     "priority": 4,
     "first_seen": "2026-10-23T16:36:51.122325-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "bf766ea2074f99a184d804959e4e2366",
-    "title": "User Experience Researcher",
-    "company": "nan",
-    "location": "Sacramento, CA, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=74ed674ea97d5174",
-    "source": "Indeed",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-10-23",
-    "priority": 4,
-    "first_seen": "2026-10-23T16:19:29.384742-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "ef8c12a0a402c7a18b55b0bfcd02ff85",
-    "title": "Product Designer",
-    "company": "Betterment",
-    "location": "New York, NY",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4480689611",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 3,
-    "first_seen": "2026-10-23T16:19:24.945569-07:00",
     "status": "active",
     "jd": "yes"
   }
