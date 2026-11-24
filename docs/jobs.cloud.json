@@ -1,5 +1,22 @@
 [
   {
+    "id": "5acce651c50077980840a44c4d5259a4",
+    "title": "Design Engineer",
+    "company": "Tldraw",
+    "location": "London Office",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/tldraw/fd20bbce-30d8-499a-92cb-7aca3f41b516",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-11-23T18:43:16.257241-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "7924c38c74e2133d95c6708d1815cbdc",
     "title": "UX Designer",
     "company": "Methods",
@@ -268,7 +285,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-22T21:00:14.511937-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "16be09fa15b11e1a8ee848191d6435ad",
@@ -284,7 +302,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-22T21:00:12.731381-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "a69ce09a9c305dfef10d2b8abfff26f0",
@@ -300,7 +319,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-22T21:00:10.820922-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "780940b42f1c44ea60f41887301ce186",
@@ -316,7 +336,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-22T20:59:43.317941-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "d09be8fde7b1e7e37ac1eda3d509ad87",
@@ -383,7 +404,8 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-22T20:59:35.855438-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "392af05cc0931386c46b9f6c8b375fd1",
@@ -416,7 +438,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-22T20:59:32.249806-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "4250d95f836c7b6d1d868c2adede4c48",
@@ -449,7 +472,8 @@
     "posted_at": "Recently",
     "priority": 2,
     "first_seen": "2026-11-22T20:59:28.561912-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "210884848ddb56ae45ed397bca75abd9",
@@ -499,7 +523,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-22T20:59:23.109065-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "yes"
   },
   {
     "id": "832dde424ae3f7aad79dfa4bd8925cc2",
@@ -5542,74 +5567,6 @@
     "posted_at": "4h",
     "priority": 2,
     "first_seen": "2026-10-24T06:37:43.362094-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "f6f2ed4b6d4d72e126870fb147b1383c",
-    "title": "Product Designer",
-    "company": "Roadrunner",
-    "location": "San Francisco",
-    "salary": "Not listed",
-    "url": "https://jobs.ashbyhq.com/Roadrunner/ed48acf6-8764-4aef-ac41-e69cab289b90",
-    "source": "Startups.Gallery",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 1,
-    "first_seen": "2026-10-23T17:59:22.237669-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "4b43f2183766f0d6541d85288b388d26",
-    "title": "Freelance UX/UI Designer (100% Remote)",
-    "company": "See posting",
-    "location": "San Francisco Bay Area, CA",
-    "salary": "Not listed",
-    "url": "https://www.builtinsf.com/job/freelance-ux-ui-designer-100-remote/11842303",
-    "source": "BuiltIn SF",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 1,
-    "first_seen": "2026-10-23T12:28:16.244374-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "70a6f7402009d8bf2173e9c76aedb040",
-    "title": "Product Designer / UX Researcher Intern",
-    "company": "See posting",
-    "location": "San Francisco Bay Area, CA",
-    "salary": "Not listed",
-    "url": "https://www.builtinsf.com/job/product-designer-ux-researcher-intern/11845731",
-    "source": "BuiltIn SF",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 1,
-    "first_seen": "2026-10-23T12:28:14.637927-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "fa778487709de930c72a5f65d89f1d9d",
-    "title": "Founding Designer",
-    "company": "Phonely (S24)",
-    "location": "San Francisco, CA, US",
-    "salary": "$140K - $230K",
-    "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D117510&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29645",
-    "source": "Y Combinator",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "Recently",
-    "priority": 1,
-    "first_seen": "2026-10-23T12:28:13.031305-07:00",
     "status": "active",
     "jd": "yes"
   }
