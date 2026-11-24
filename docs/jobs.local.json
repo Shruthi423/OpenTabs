@@ -1,5 +1,22 @@
 [
   {
+    "id": "f0c95c3e1c4a266d227a5da2487588e1",
+    "title": "Design Engineer",
+    "company": "Motherson Yachiyo",
+    "location": "Columbus, OH, US",
+    "salary": "$85,000 \u2013 $90,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=6276cb5ba0ce36c0",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-11-24",
+    "priority": 4,
+    "first_seen": "2026-11-24T14:15:15.912631-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "65be775163903607c41fb3cff4d175c4",
     "title": "Product Design Engineer",
     "company": "Ingersoll-Rand",
@@ -15449,40 +15466,6 @@
     "posted_at": "2026-10-23",
     "priority": 4,
     "first_seen": "2026-10-24T15:49:17.332562-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "fa5a66c63af83f921634a20c8c6dbdf7",
-    "title": "Jr. UI/UX Designer (IT Statewide Associate Analyst 1-4, ASP 50699943 & 50699944)",
-    "company": "Grambling State University",
-    "location": "Baton Rouge, LA, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=295d3b49f3819dc2",
-    "source": "Indeed",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-10-23",
-    "priority": 4,
-    "first_seen": "2026-10-24T14:47:05.679591-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "d580aa2a55a0caeb5664f46048292fd5",
-    "title": "Jr. UI/UX Designer (IT Statewide Associate Analyst 1-4, ASP 50699943 & 50699944)",
-    "company": "Nunez Community College",
-    "location": "Baton Rouge, LA, US",
-    "salary": "Not listed",
-    "url": "https://www.indeed.com/viewjob?jk=13c40bb04dbbbe1e",
-    "source": "Indeed",
-    "is_new_grad": true,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "2026-10-23",
-    "priority": 4,
-    "first_seen": "2026-10-24T14:47:03.990756-07:00",
     "status": "active",
     "jd": "yes"
   }
