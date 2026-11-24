@@ -1,19 +1,70 @@
 [
   {
     "job": {
-      "title": "Design Engineer",
-      "company": "Tldraw",
-      "location": "London Office",
-      "url": "https://jobs.ashbyhq.com/tldraw/fd20bbce-30d8-499a-92cb-7aca3f41b516",
-      "salary": "Not listed",
-      "description": "ABOUT YOU\n\n\n\nYou\u2019re a product designer who likes to build.\n\n\n\nYou have exceptional product and interaction design instincts, a strong visual eye, and enough engineering ability to take ideas into working prototypes and production. You care about how software feels in use: interactions, motion, respo",
+      "title": "Founding Product Designer (Expression of Interest)",
+      "company": "Blue (S25)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D120009&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30813",
+      "salary": "$160K - $300K",
+      "description": "AI rebuilt coding. We\u2019re rebuilding the phone",
       "posted_at": "Recently",
-      "source": "Startups.Gallery",
+      "source": "Y Combinator",
       "relevant": true,
       "is_new_grad": false,
       "is_big_tech": false,
       "visa": null
     },
-    "remind_at": "2026-11-23T19:13:16.939468-08:00"
+    "remind_at": "2026-11-24T05:40:06.689496-08:00"
+  },
+  {
+    "job": {
+      "title": "User Researcher",
+      "company": "NetEase Games",
+      "location": "Bothell, WA",
+      "url": "https://uiuxjobsboard.com/job/1697226-user-researcher-bothell-wa-united-states",
+      "salary": "Not listed",
+      "description": "",
+      "posted_at": "3h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-24T05:40:08.542091-08:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "The New York Times",
+      "location": "Remote",
+      "url": "https://uiuxjobsboard.com/job/1699126-remote-united-states-product-designer",
+      "salary": "$166,400 - $228,800",
+      "description": "",
+      "posted_at": "7h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-24T05:40:10.384409-08:00"
+  },
+  {
+    "job": {
+      "title": "Product Designer",
+      "company": "Much Better Adventures",
+      "location": "Remote",
+      "url": "https://uiuxjobsboard.com/job/1697926-remote-united-kingdom-product-designer",
+      "salary": "\u00a360,000 - \u00a375,000",
+      "description": "",
+      "posted_at": "8h",
+      "source": "UIUXJobsBoard",
+      "relevant": true,
+      "is_new_grad": false,
+      "is_big_tech": false,
+      "visa": null
+    },
+    "remind_at": "2026-11-24T05:40:12.248443-08:00"
   }
 ]

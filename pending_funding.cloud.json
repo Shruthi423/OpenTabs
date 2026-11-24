@@ -1,77 +1,167 @@
 [
   {
     "item": {
-      "company": "Embo",
-      "amount": "$110.0M",
+      "company": "Verra",
+      "amount": "$5.0M",
       "stage": "Seed",
-      "investors": null,
+      "investors": "Kearny Jackson and saw participation from Andreessen Horowitz&#",
       "location": null,
-      "blurb": "Embo Raises $110M Seed Round to Develop World Models for Robots - AI Insider. Embo Raises $110M Seed Round to Develop World Models for Robots&nbsp;&nbsp;AI Insider",
+      "blurb": "Verra raises $5M to help consulting firms forget their institutional amnesia. Verra, an artificial intelligence startup building the institutional memory layer for consulting firms, said today it has raised $5 million in seed funding to help those companies overcome their amnesia and make their decades of knowledge accessible to every employee. Today\u2019s round was led by Kearny Jackson and saw participation from Andreessen Horowitz&#8217;s a16z Speedrun, [&#8230;]\nThe post Verra raises $5M to help",
       "founders": [],
-      "source": "a16z (news)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQkFqZXhjUTZBMkEzZUlOU21vbEJQeWxtOTByeG11NlQ5RkExSnpZcXFYbmlxVE9nbVAtZFdYNzVENS1KNW5CRWRuTlJlQks5VjN5dURtN3FWT2h5SlIwMnVOak14clF2TTNMLXdSMnlkOGJQaE9PUExYbmdjN2xIdUMxdm1NWWNQTVN3NHdGX2pycmpuZlVpVm1fajZwa1Zncmc?oc=5",
-      "priority": 9
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/24/verra-raises-5m-to-help-consulting-firms-forget-their-institutional-amnesia/",
+      "priority": 12
     },
-    "remind_at": "2026-11-23T19:13:38.808394-08:00"
+    "remind_at": "2026-11-24T05:40:33.283035-08:00"
   },
   {
     "item": {
-      "company": "Agon",
-      "amount": "$70.0M",
+      "company": "Intelligent Legal Solutions",
+      "amount": "$11.0M",
       "stage": "Series A",
       "investors": null,
       "location": null,
-      "blurb": "Agon Raises $70M Series A at $450M Valuation to Train Autonomous Defence Systems in a Synthetic Battle Arena - Wowtale. Agon Raises $70M Series A at $450M Valuation to Train Autonomous Defence Systems in a Synthetic Battle Arena&nbsp;&nbsp;Wowtale",
+      "blurb": "Intelligent Legal Solutions Raises $11M Series A. Intelligent Legal Solutions raises $11M Series A led by Aquiline and BlackFin to expand its legal tech platform for private investment funds.",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mX2RvUTluM2NPZUJSRlJSbmFBeTZuYWpiWE9jWjNBSGk5ejBiajNNa1hEYzJFZVp5Z3VyUEtwTUhWZVRadlNDcDZoVjNPMFE5RlhB?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/intelligent-legal-solutions-raises-11m-series-a/",
       "priority": 8
     },
-    "remind_at": "2026-11-23T19:13:41.713115-08:00"
+    "remind_at": "2026-11-24T05:40:39.429027-08:00"
   },
   {
     "item": {
-      "company": "Supertake",
-      "amount": "$20.0M",
-      "stage": null,
+      "company": "Tabi Connect",
+      "amount": null,
+      "stage": "Series A",
       "investors": null,
       "location": null,
-      "blurb": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios. Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "blurb": "Tabi Connect Secures Series A Investment. Tabi Connect secures a Series A investment from Kleinschmidt to advance its freight pricing intelligence platform and expand joint product development.",
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "priority": 3
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/tabi-connect-secures-series-a-investment/",
+      "priority": 8
     },
-    "remind_at": "2026-11-23T19:13:44.535143-08:00"
+    "remind_at": "2026-11-24T05:40:56.086927-08:00"
   },
   {
     "item": {
-      "company": "Decart",
-      "amount": "$7.5B",
+      "company": "Sierra",
+      "amount": "$1.75B",
+      "stage": "Series F",
+      "investors": "Greenoaks, Lightspeed, Lightspeed Venture Partners",
+      "location": null,
+      "blurb": "Sierra Raises $1.75B Series F. Sierra raises $1.75 billion in a Series F round led by Greenoaks and Lightspeed Venture Partners to scale its enterprise AI agent platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/sierra-raises-1-75b-series-f/",
+      "priority": 6
+    },
+    "remind_at": "2026-11-24T05:40:59.195323-08:00"
+  },
+  {
+    "item": {
+      "company": "Zipher",
+      "amount": "$53.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Amazon acquires key assets of AI startup Decart for reported $7.5B. Amazon.com Inc. today announced plans to hire the technical staff of startup Decart.AI Inc. and acquire its core technology. The company didn\u2019t disclose the terms of the deal. However, sources told Bloomberg that Amazon is paying about $7.5 billion. That\u2019s nearly twice the valuation Decart reportedly received after its most recent funding round in May. [&#8230;]\nThe post Amazon acquires key assets of AI startup Decart for report",
+      "blurb": "Zipher lands $53M to put AI agents, not data engineers, in charge of data workloads. Data infrastructure startup Zipher Technologies Ltd. today announced that it has raised $53 million in funding for a platform where artificial intelligence agents, not data engineers, decide how enterprise data workloads run. Founded in 2024, Zipher takes over the day-to-day running of enterprise data workloads, from resource allocation to framework selection and scheduling. Customers set [&#8230;]\nThe post Ziph",
       "founders": [],
       "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/23/amazon-acquires-key-assets-of-ai-startup-decart-for-reported-7-5b/",
+      "url": "https://siliconangle.com/2026/11/24/zipher-lands-53m-to-put-ai-agents-not-data-engineers-in-charge-of-data-workloads/",
       "priority": 3
     },
-    "remind_at": "2026-11-23T19:13:48.168199-08:00"
+    "remind_at": "2026-11-24T05:41:02.114933-08:00"
   },
   {
     "item": {
-      "company": "Matters.AI",
-      "amount": "$12.0M",
+      "company": "IGEL",
+      "amount": "$1.0B",
+      "stage": null,
+      "investors": "Vitruvian Partners",
+      "location": null,
+      "blurb": "IGEL Raises Strategic Investment. IGEL reaches unicorn status at a $1B valuation with a strategic investment from Vitruvian Partners to scale its endpoint security platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/igel-raises-strategic-investment/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-24T05:41:04.912447-08:00"
+  },
+  {
+    "item": {
+      "company": "Imagen Technologies",
+      "amount": "$100.0M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Matters.AI raises $12M as it expands its data security business in North America. Enterprise data security startup Matters.AI today announced that it has raised $12 million in new funding as it expands its business in North America. Matters.AI offers a platform called the AI Security Engineer for Data that is designed to protect sensitive data used by employees, artificial intelligence systems and AI agents across the enterprise. Formerly [&#8230;]\nThe post Matters.AI raises $12M as it expands i",
+      "blurb": "Imagen Technologies Raises $100M Growth Capital. Imagen Technologies raises over $100 million in growth capital to expand its AI-enabled diagnostic imaging services and support its radiologist network.",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/23/matters-ai-raises-12m-as-it-expands-its-data-security-business-in-north-america/",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/imagen-technologies-raises-100m-growth-capital/",
       "priority": 3
     },
-    "remind_at": "2026-11-23T19:13:51.116331-08:00"
+    "remind_at": "2026-11-24T05:41:07.866927-08:00"
+  },
+  {
+    "item": {
+      "company": "K4Connect",
+      "amount": "$8.0M",
+      "stage": null,
+      "investors": "Memento Growth Partners",
+      "location": null,
+      "blurb": "K4Connect Raises $8M in Funding. K4Connect raises $8M in funding led by Memento Growth Partners to advance its AI platforms for senior living communities.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/k4connect-raises-8m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-24T05:41:10.872791-08:00"
+  },
+  {
+    "item": {
+      "company": "Trissino",
+      "amount": "$1.24M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Trissino Raises $1.24M in Funding. Trissino raises $1.24M in a funding round featuring ANOBAKA and Techstars to scale its AI-native competitive intelligence platform Steve AI.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/trissino-raises-1-24m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-24T05:41:13.934422-08:00"
+  },
+  {
+    "item": {
+      "company": "Korridor",
+      "amount": null,
+      "stage": null,
+      "investors": "Korridor Raises Growth Capital, Apis Partners",
+      "location": null,
+      "blurb": "Korridor Raises Growth Capital. Korridor secures growth capital from Apis Partners to shift from a physical to a digital-first logistics fintech platform serving Sub-Saharan Africa.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/korridor-raises-growth-capital/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-24T05:41:16.858541-08:00"
+  },
+  {
+    "item": {
+      "company": "Whereable.ai",
+      "amount": null,
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Autonomous Driving Startup Whereable.ai Raises USD 2.3M in Pre-SeriesA Funding - Wowtale. Autonomous Driving Startup Whereable.ai Raises USD 2.3M in Pre-SeriesA Funding&nbsp;&nbsp;Wowtale",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UYmdmbDlOYmY2YXhZcElJWXFxbnIwS2thcXRvVWlFUzdDcWwySXUxLS1DZHFCR1RHbmJZVlhmUVd5S18yU09ZT1IyZm16cThTa2RN?oc=5",
+      "priority": 3
+    },
+    "remind_at": "2026-11-24T05:41:19.918803-08:00"
   }
 ]

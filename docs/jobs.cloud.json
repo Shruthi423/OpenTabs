@@ -1,18 +1,69 @@
 [
   {
-    "id": "5acce651c50077980840a44c4d5259a4",
-    "title": "Design Engineer",
-    "company": "Tldraw",
-    "location": "London Office",
+    "id": "c739f260da7d6cd1d81090b662c3f37a",
+    "title": "Product Designer",
+    "company": "Much Better Adventures",
+    "location": "Remote",
+    "salary": "\u00a360,000 - \u00a375,000",
+    "url": "https://uiuxjobsboard.com/job/1697926-remote-united-kingdom-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "8h",
+    "priority": 5,
+    "first_seen": "2026-11-24T05:10:11.384828-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "9eb2e715a4261876ce75a0867905def6",
+    "title": "Product Designer",
+    "company": "The New York Times",
+    "location": "Remote",
+    "salary": "$166,400 - $228,800",
+    "url": "https://uiuxjobsboard.com/job/1699126-remote-united-states-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "7h",
+    "priority": 5,
+    "first_seen": "2026-11-24T05:10:09.542788-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "ca09a1c34a980ac7f57ce18ad7639bac",
+    "title": "User Researcher",
+    "company": "NetEase Games",
+    "location": "Bothell, WA",
     "salary": "Not listed",
-    "url": "https://jobs.ashbyhq.com/tldraw/fd20bbce-30d8-499a-92cb-7aca3f41b516",
-    "source": "Startups.Gallery",
+    "url": "https://uiuxjobsboard.com/job/1697226-user-researcher-bothell-wa-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "3h",
+    "priority": 4,
+    "first_seen": "2026-11-24T05:10:07.740023-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "5eea0a12f347da093dcae49497de9b76",
+    "title": "Founding Product Designer (Expression of Interest)",
+    "company": "Blue (S25)",
+    "location": "Santa Clara, CA, US",
+    "salary": "$160K - $300K",
+    "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D120009&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30813",
+    "source": "Y Combinator",
     "is_new_grad": false,
     "is_big_tech": false,
     "founders": [],
     "posted_at": "Recently",
-    "priority": 4,
-    "first_seen": "2026-11-23T18:43:16.257241-08:00",
+    "priority": 2,
+    "first_seen": "2026-11-24T05:10:06.073195-08:00",
     "status": "active",
     "jd": "yes"
   },
@@ -574,7 +625,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-22T20:59:17.661745-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "18fcd1a54c37953182da8ed5ced5be6a",
@@ -607,7 +659,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-22T20:59:14.051328-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "37d89a2021dad5d9870ca90f8341ec4b",
@@ -640,7 +693,8 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-22T20:59:10.425698-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2198806dcaccb530fa917c71af9ab96e",
@@ -656,7 +710,8 @@
     "posted_at": "Recently",
     "priority": 3,
     "first_seen": "2026-11-22T20:59:08.558410-08:00",
-    "status": "active"
+    "status": "active",
+    "jd": "no"
   },
   {
     "id": "2265d583890c4085ff129552b68a75b2",
