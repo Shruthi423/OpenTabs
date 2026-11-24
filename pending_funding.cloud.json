@@ -1,167 +1,32 @@
 [
   {
     "item": {
-      "company": "Verra",
-      "amount": "$5.0M",
-      "stage": "Seed",
-      "investors": "Kearny Jackson and saw participation from Andreessen Horowitz&#",
-      "location": null,
-      "blurb": "Verra raises $5M to help consulting firms forget their institutional amnesia. Verra, an artificial intelligence startup building the institutional memory layer for consulting firms, said today it has raised $5 million in seed funding to help those companies overcome their amnesia and make their decades of knowledge accessible to every employee. Today\u2019s round was led by Kearny Jackson and saw participation from Andreessen Horowitz&#8217;s a16z Speedrun, [&#8230;]\nThe post Verra raises $5M to help",
-      "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/24/verra-raises-5m-to-help-consulting-firms-forget-their-institutional-amnesia/",
-      "priority": 12
-    },
-    "remind_at": "2026-11-24T05:40:33.283035-08:00"
-  },
-  {
-    "item": {
-      "company": "Intelligent Legal Solutions",
-      "amount": "$11.0M",
-      "stage": "Series A",
+      "company": "Maple",
+      "amount": "$5.3M",
+      "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Intelligent Legal Solutions Raises $11M Series A. Intelligent Legal Solutions raises $11M Series A led by Aquiline and BlackFin to expand its legal tech platform for private investment funds.",
+      "blurb": "Maple raises $5.3M to build AI products that protect your data, even from itself. The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/intelligent-legal-solutions-raises-11m-series-a/",
-      "priority": 8
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "priority": 3
     },
-    "remind_at": "2026-11-24T05:40:39.429027-08:00"
-  },
-  {
-    "item": {
-      "company": "Tabi Connect",
-      "amount": null,
-      "stage": "Series A",
-      "investors": null,
-      "location": null,
-      "blurb": "Tabi Connect Secures Series A Investment. Tabi Connect secures a Series A investment from Kleinschmidt to advance its freight pricing intelligence platform and expand joint product development.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/tabi-connect-secures-series-a-investment/",
-      "priority": 8
-    },
-    "remind_at": "2026-11-24T05:40:56.086927-08:00"
+    "remind_at": "2026-11-24T15:41:46.076718-08:00"
   },
   {
     "item": {
       "company": "Sierra",
-      "amount": "$1.75B",
+      "amount": null,
       "stage": "Series F",
-      "investors": "Greenoaks, Lightspeed, Lightspeed Venture Partners",
-      "location": null,
-      "blurb": "Sierra Raises $1.75B Series F. Sierra raises $1.75 billion in a Series F round led by Greenoaks and Lightspeed Venture Partners to scale its enterprise AI agent platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sierra-raises-1-75b-series-f/",
-      "priority": 6
-    },
-    "remind_at": "2026-11-24T05:40:59.195323-08:00"
-  },
-  {
-    "item": {
-      "company": "Zipher",
-      "amount": "$53.0M",
-      "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Zipher lands $53M to put AI agents, not data engineers, in charge of data workloads. Data infrastructure startup Zipher Technologies Ltd. today announced that it has raised $53 million in funding for a platform where artificial intelligence agents, not data engineers, decide how enterprise data workloads run. Founded in 2024, Zipher takes over the day-to-day running of enterprise data workloads, from resource allocation to framework selection and scheduling. Customers set [&#8230;]\nThe post Ziph",
+      "blurb": "Sierra Reaches US$30bn Series F Valuation as AI Agents Scale - AI Magazine. Sierra Reaches US$30bn Series F Valuation as AI Agents Scale&nbsp;&nbsp;AI Magazine",
       "founders": [],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/24/zipher-lands-53m-to-put-ai-agents-not-data-engineers-in-charge-of-data-workloads/",
+      "source": "Sequoia (news)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa08tSkpUNGIydE1qUjNfU0RBaTNyMzk4b3VTelVUcmNBcm5uYk90V1lnZjlRMll5Y3pJYU1lTkVCQjBfN0V0Sjhic21vNkgyNGtmV2txYnIwNUZBV3dMZHI5aFBIR0U2ZXNrckp2VDZCWFgtWGlFRjFKQ1JBQmxRWXgxWmJ5S2pnQThQck5OOFI?oc=5",
       "priority": 3
     },
-    "remind_at": "2026-11-24T05:41:02.114933-08:00"
-  },
-  {
-    "item": {
-      "company": "IGEL",
-      "amount": "$1.0B",
-      "stage": null,
-      "investors": "Vitruvian Partners",
-      "location": null,
-      "blurb": "IGEL Raises Strategic Investment. IGEL reaches unicorn status at a $1B valuation with a strategic investment from Vitruvian Partners to scale its endpoint security platform.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/igel-raises-strategic-investment/",
-      "priority": 3
-    },
-    "remind_at": "2026-11-24T05:41:04.912447-08:00"
-  },
-  {
-    "item": {
-      "company": "Imagen Technologies",
-      "amount": "$100.0M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Imagen Technologies Raises $100M Growth Capital. Imagen Technologies raises over $100 million in growth capital to expand its AI-enabled diagnostic imaging services and support its radiologist network.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/imagen-technologies-raises-100m-growth-capital/",
-      "priority": 3
-    },
-    "remind_at": "2026-11-24T05:41:07.866927-08:00"
-  },
-  {
-    "item": {
-      "company": "K4Connect",
-      "amount": "$8.0M",
-      "stage": null,
-      "investors": "Memento Growth Partners",
-      "location": null,
-      "blurb": "K4Connect Raises $8M in Funding. K4Connect raises $8M in funding led by Memento Growth Partners to advance its AI platforms for senior living communities.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/k4connect-raises-8m-other/",
-      "priority": 3
-    },
-    "remind_at": "2026-11-24T05:41:10.872791-08:00"
-  },
-  {
-    "item": {
-      "company": "Trissino",
-      "amount": "$1.24M",
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Trissino Raises $1.24M in Funding. Trissino raises $1.24M in a funding round featuring ANOBAKA and Techstars to scale its AI-native competitive intelligence platform Steve AI.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/trissino-raises-1-24m-other/",
-      "priority": 3
-    },
-    "remind_at": "2026-11-24T05:41:13.934422-08:00"
-  },
-  {
-    "item": {
-      "company": "Korridor",
-      "amount": null,
-      "stage": null,
-      "investors": "Korridor Raises Growth Capital, Apis Partners",
-      "location": null,
-      "blurb": "Korridor Raises Growth Capital. Korridor secures growth capital from Apis Partners to shift from a physical to a digital-first logistics fintech platform serving Sub-Saharan Africa.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/korridor-raises-growth-capital/",
-      "priority": 3
-    },
-    "remind_at": "2026-11-24T05:41:16.858541-08:00"
-  },
-  {
-    "item": {
-      "company": "Whereable.ai",
-      "amount": null,
-      "stage": null,
-      "investors": null,
-      "location": null,
-      "blurb": "Autonomous Driving Startup Whereable.ai Raises USD 2.3M in Pre-SeriesA Funding - Wowtale. Autonomous Driving Startup Whereable.ai Raises USD 2.3M in Pre-SeriesA Funding&nbsp;&nbsp;Wowtale",
-      "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UYmdmbDlOYmY2YXhZcElJWXFxbnIwS2thcXRvVWlFUzdDcWwySXUxLS1DZHFCR1RHbmJZVlhmUVd5S18yU09ZT1IyZm16cThTa2RN?oc=5",
-      "priority": 3
-    },
-    "remind_at": "2026-11-24T05:41:19.918803-08:00"
+    "remind_at": "2026-11-24T15:41:48.925696-08:00"
   }
 ]

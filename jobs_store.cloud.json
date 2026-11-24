@@ -1485,7 +1485,7 @@
     "first_seen": "2026-09-28T07:31:03.484503-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "8a1d35a600a5a787664c5a7d23ab4435": {
@@ -1506,7 +1506,7 @@
     "first_seen": "2026-09-28T07:31:05.332773-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "ea807707d94371f53ba4469151c033a0": {
@@ -1527,7 +1527,7 @@
     "first_seen": "2026-09-28T07:31:08.553706-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "858dad222b4104ade330809c46d058d6": {
@@ -1548,7 +1548,7 @@
     "first_seen": "2026-09-28T07:31:10.389923-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "7c0bc9fb50bb5592de4e86691cc4819a": {
@@ -1569,7 +1569,7 @@
     "first_seen": "2026-09-28T07:31:12.303490-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "b9db683856b5ba571d0eed5221c38a11": {
@@ -1590,7 +1590,7 @@
     "first_seen": "2026-09-28T07:31:14.180845-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "c14b4432cc4db13f925bed5c7d88e526": {
@@ -1611,7 +1611,7 @@
     "first_seen": "2026-09-28T07:31:15.917577-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "dca797605980e9e9dedde756f709178b": {
@@ -6377,7 +6377,7 @@
     "first_seen": "2026-10-27T08:53:09.008069-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "db60c2117d34f47c784b4bca22cf2ea4": {
@@ -6398,7 +6398,7 @@
     "first_seen": "2026-10-27T08:53:10.525020-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "a410db0c6ad53382acdef12344ffca3b": {
@@ -6419,7 +6419,7 @@
     "first_seen": "2026-10-27T08:53:12.244209-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "8cc4b89cc6f8b6e3863f99c31615b50a": {
@@ -6714,7 +6714,7 @@
     "first_seen": "2026-10-29T16:36:15.743838-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "01fc0aa3fd0ab2c16d84cd20d6a1aa9e": {
@@ -6735,8 +6735,8 @@
     "first_seen": "2026-10-29T16:36:17.342287-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
-    "dead_strikes": 0
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
+    "dead_strikes": 1
   },
   "7a8f567e4fbfcb122226830972fe88b4": {
     "id": "7a8f567e4fbfcb122226830972fe88b4",
@@ -6756,7 +6756,7 @@
     "first_seen": "2026-10-29T16:36:18.986607-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "d0b9b9c6eca6fb4f022bf0ba5582aef0": {
@@ -6777,7 +6777,7 @@
     "first_seen": "2026-10-29T16:36:20.669321-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "c6ffee9468c9db555436e656b0caa9b2": {
@@ -7426,7 +7426,7 @@
     "first_seen": "2026-11-03T02:36:29.003497-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "9c4a778da7cfdd76d5e9d4947bc3fc26": {
@@ -7447,7 +7447,7 @@
     "first_seen": "2026-11-03T02:36:30.827230-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "8a95302925ec40c1c5143e2832c19d0e": {
@@ -7468,7 +7468,7 @@
     "first_seen": "2026-11-03T02:36:32.706396-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "c0e1d023d6301e2987f08a2ca8daff36": {
@@ -7489,7 +7489,7 @@
     "first_seen": "2026-11-03T02:36:34.601801-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "2486b1d11c90d74b6137623d137f79fa": {
@@ -7510,7 +7510,7 @@
     "first_seen": "2026-11-03T02:36:36.530013-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "699e913d0c0c302d5f240bc8e918e327": {
@@ -7531,7 +7531,7 @@
     "first_seen": "2026-11-03T02:36:38.343585-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "3f40fd0d0f355240c8c66959520325e9": {
@@ -8721,7 +8721,7 @@
     "first_seen": "2026-11-05T04:45:42.561190-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "60d032ae5e7f08b342ddef0ce817b9c8": {
@@ -9350,7 +9350,7 @@
     "first_seen": "2026-11-09T12:34:01.860619-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-17T17:49:15.089819-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "ab36c6c4813c76d93ae9ecff053a2c39": {
@@ -9371,7 +9371,7 @@
     "first_seen": "2026-11-09T12:34:03.636055-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "286347a144634c674b5ca254f4cc5c31": {
@@ -9392,7 +9392,7 @@
     "first_seen": "2026-11-09T12:34:05.403424-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "a990729930ad64f3d350a4e9420f065e": {
@@ -9413,7 +9413,7 @@
     "first_seen": "2026-11-09T12:34:07.161478-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T01:32:05.753405-08:00",
+    "checked_at": "2026-11-24T15:10:26.630446-08:00",
     "dead_strikes": 0
   },
   "8d7e49d756e3f7957f43ec025d31f93c": {
@@ -12124,7 +12124,7 @@
     "first_seen": "2026-11-22T20:59:06.914330-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 3
   },
   "2198806dcaccb530fa917c71af9ab96e": {
     "id": "2198806dcaccb530fa917c71af9ab96e",
@@ -12935,6 +12935,63 @@
     "posted_at": "8h",
     "priority": 5,
     "first_seen": "2026-11-24T05:10:11.384828-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "227ec032c8bdfbc0bf1cf76b6de980a0": {
+    "id": "227ec032c8bdfbc0bf1cf76b6de980a0",
+    "title": "Altosoft LLC is hiring for a position of UI/UX Designer (iGaming) in Boca Raton, FL",
+    "company": "Altosoft LLC",
+    "location": "Remote",
+    "salary": "See posting",
+    "url": "https://dribbble.com/jobs/311957-UI-UX-Designer-iGaming?source=feed",
+    "source": "Dribbble",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Altosoft LLC is a Boca Raton software studio building slot casino games and iGaming products. We're hiring a full-time UI/UX Designer to design game lobbies, in-game interfaces, menus, HUDs and player flows across web and mobile.\n\nWhat you'll do:\nDesign intuitive, high-energy interfaces for slot games and casino platforms\n\nCreate wireframes, user flows, prototypes and polished UI in Figma\n\nBuild and maintain a consistent design system and UI kit\n\nWork closely with game designers, artists and developers to ship features\n\nWhat we're looking for:\n3+ years of UI/UX experience, ideally in gaming, iGaming or mobile apps\n\nStrong portfolio showing game or entertainment UI work\n\nExpert in Figma; motion/animation skills are a plus\n\nAble to work on-site in Boca Raton, FL\n\nFull-time W-2 position. To apply, email your portfolio and resume to kenan@altosoft.com.",
+    "posted_at": "Recently",
+    "priority": 5,
+    "first_seen": "2026-11-24T15:11:22.654206-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "07b6cdffcfead98a4fd0061d2b43a525": {
+    "id": "07b6cdffcfead98a4fd0061d2b43a525",
+    "title": "Founding Designer",
+    "company": "August",
+    "location": "New York City",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/august/7dbe2914-e9af-4df8-a59e-428318435b1f",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "THE WORLD\u2019S LARGEST LAW FIRM WON\u2019T BE A LAW FIRM. JOIN US IN BUILDING IT.\n\nAugust allows law firms to compound their expertise by building an autonomous organization of AI agents that run the firm's knowledge work. We partner closely with our firms and grow alongside them through sharing revenue on",
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-11-24T15:11:24.618717-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "7ab039da37468a6c9118f9856286a33c": {
+    "id": "7ab039da37468a6c9118f9856286a33c",
+    "title": "Product Designer, Interaction Design",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA; New York, NY",
+    "salary": "Not listed",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8240638?t=gh_src=&gh_jid=8240638",
+    "source": "Robinhood",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "visa": null,
+    "founders": [],
+    "description": "At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams.\nWhat you'll do\nDesign end-to-end experiences for onboarding, identity verification, trading, crypto and money movement in international markets. Deliverables include user flows, wireframes, interactive prototypes, interaction specifications and high-fidelity designs.\nApply cognitive psychology and human factors principles to high-stakes flows such as a first deposit or first trade, including trust formation, risk perception, decision-making under uncertainty, cognitive load and mental models.\nPlan and run usability studies, diary studies and behavioral experiments, such as moderated testing, interviews, surveys and A/B tests. Turn the findings into design decisions and document the evidence.\nWork with product, engineering, legal, compliance and security to translate market-specific regulatory requirements into clear, usable interface designs.\nSimplify cross-border and multi-currency concepts (FX, fees, settlement) through interface design, information hierarchy and content design. Localize and adapt experiences so they feel native to each market.\nBuild and maintain design system components that balance global consistency with local needs, informed by research on cultural differences in attitudes toward money, risk and trust.\nDesign accessible experiences that meet WCAG standards, including for users in sensitive or high-stakes situations.\nUse AI tools to explore concepts, catch edge cases and prototype faster. You own quality and direction, and you review AI output for user bias, confusion and emotional impact.\nDefine design direction in markets with little precedent using hypothesis-driven design: frame the question, test it with users, and let the findings guide the work.\nOwn the design of products from concept through launch, defining form, function, usability and interaction behavior.\nProduce design specifications and work with engineers through implementation, reviewing builds for fidelity, performance and usability.\nBalance usability, technical feasibility, regulatory requirements and business constraints in design decisions.\nApply human factors principles, including usability, safety and error prevention, to reduce user mistakes in high-stakes flows.\nDesign across web, iOS and Android, adapting interactions to each device's capabilities and input methods (touch, haptics, biometrics).\nBuild prototypes at multiple fidelities and test them against usability criteria before launch.\nA bachelor's degree in psychology, cognitive science or a closely related behavioral science. This knowledge is a core requirement of the role, because our design decisions rest on how people perceive risk, form trust and make decisions.\n2+ years of product design experience, including internships and co-ops.\nA portfolio showing end-to-end ownership of shipped digital product design, from research-informed problem framing through prototyping, usability testing and final design, with outcomes tied to user behavior.\nHands-on research experience in academic or applied settings, including research methods and basic statistics applied to usability studies and experiments.\nKnowledge of cognitive psychology and human factors, including cognitive load, decision-making and cross-cultural differences.\nFamiliarity with research ethics, informed consent and participant protection.\nExperience working with legal, compliance and cross-functional partners in a regulated environment, ideally expanding products across markets.\nExperience with design systems and accessibility.\nRegular use of AI in your design process, with the judgment to review its output critically.\nStrong systems thinking, with the ability to decide what stays consistent across markets and what should flex.\nA bias for action: you find the next step through ambiguity and le",
+    "posted_at": "Recently",
+    "priority": 2,
+    "first_seen": "2026-11-24T15:11:26.284491-08:00",
     "status": "active",
     "applied_at": null
   }

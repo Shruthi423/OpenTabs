@@ -1,5 +1,41 @@
 [
   {
+    "id": "7cef5e298717238353da870c9da02c9b",
+    "company": "Sierra",
+    "amount": "Undisclosed",
+    "stage": "Series F",
+    "investors": "Undisclosed",
+    "source": "Sequoia (news)",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa08tSkpUNGIydE1qUjNfU0RBaTNyMzk4b3VTelVUcmNBcm5uYk90V1lnZjlRMll5Y3pJYU1lTkVCQjBfN0V0Sjhic21vNkgyNGtmV2txYnIwNUZBV3dMZHI5aFBIR0U2ZXNrckp2VDZCWFgtWGlFRjFKQ1JBQmxRWXgxWmJ5S2pnQThQck5OOFI?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": "San Francisco, CA",
+    "roles": [
+      {
+        "title": "Product Designer",
+        "url": "https://jobs.ashbyhq.com/Sierra/ba780c1d-ebd7-45b8-8c99-12666af5bfa3",
+        "location": "San Francisco, CA"
+      }
+    ],
+    "first_seen": "2026-11-24T15:11:49.925851-08:00",
+    "status": "active"
+  },
+  {
+    "id": "74143252a93508e488b879a8b42aa730",
+    "company": "Maple",
+    "amount": "$5.3M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-24T15:11:47.076839-08:00",
+    "status": "active"
+  },
+  {
     "id": "0279b266757a5bc3baaa3479932df0b2",
     "company": "Whereable.ai",
     "amount": "Undisclosed",
@@ -6098,36 +6134,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-10-25T19:44:11.165538-07:00",
-    "status": "active"
-  },
-  {
-    "id": "eb5de13e9db6cbd1c7c21f3b1ab31837",
-    "company": "INVE",
-    "amount": "Undisclosed",
-    "stage": "Pre-Seed",
-    "investors": "Outliers VC&nbsp",
-    "source": "Funding Sweep (news)",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3RYYklTVS12M00xN2xXakYxSldOcFZXYjVBSWhVN09abExxTThJeWZQb3F3LVA5N2ZQS2lONlpKRnVDeTVfTU1seEVmMkEyRDh1Zm10UWducWZqWHhWckxqbDJTSnZTbTdjS3ZtaUl1ZHUzVVQ0S0dqY2VvR3JrZXg0a2xleHRGZWp3VS1FcHpiX211R2d5SV96TVFrMG5t?oc=5",
-    "priority": 10,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-24T14:44:09.858005-07:00",
-    "status": "active"
-  },
-  {
-    "id": "72d743dc0d5fb78b75c0d1c8096339d7",
-    "company": "Therapists",
-    "amount": "Undisclosed",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "Fortune",
-    "url": "https://fortune.com/2026/10/24/ai-sudden-wealth-syndrome-therapists-billionaires-isolation/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-24T06:38:07.526762-07:00",
     "status": "active"
   }
 ]
