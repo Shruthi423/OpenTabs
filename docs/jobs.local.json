@@ -1,5 +1,22 @@
 [
   {
+    "id": "97724d50e85119471a36735af48c750f",
+    "title": "Research Support, User Experience Research",
+    "company": "Allstate Insurance",
+    "location": "Remote, US",
+    "salary": "$75,100 \u2013 $126,325 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=43c3016d913781c5",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-11-23",
+    "priority": 4,
+    "first_seen": "2026-11-24T12:28:47.582010-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "3485f2f6e958f1bdcefeec1621f2eeb2",
     "title": "Product Designer, Agentic AI Experiences, AWS Billing",
     "company": "Amazon Web Services (AWS)",
@@ -3825,23 +3842,6 @@
     "jd": "yes"
   },
   {
-    "id": "4530bf3eb096feb504733369cd06b44c",
-    "title": "Product Designer (AI-Native)",
-    "company": "The Camelback",
-    "location": "Phoenix, AZ",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4491416440",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-11-17T16:24:16.732080-08:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
     "id": "2517d185f52f5437484b3bce26a1a18a",
     "title": "Product Designer",
     "company": "Manifest OS",
@@ -5181,23 +5181,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-11-16T11:38:19.892695-08:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "6c18d36d8670abe3e966e4312a4a85cb",
-    "title": "Frontend Developer \u2013 Design Systems",
-    "company": "Perfict Global, Inc.",
-    "location": "Foster City, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4490901138",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-11-16T10:49:58.388494-08:00",
     "status": "active",
     "jd": "yes"
   },
