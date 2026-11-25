@@ -1,5 +1,39 @@
 [
   {
+    "id": "4ed1deb8e23e73f914435e88d8ad54fe",
+    "title": "Product Design Engineer",
+    "company": "Metalcraft of Mayville, Inc.",
+    "location": "Mayville, WI",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4493046853",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": true,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 4,
+    "first_seen": "2026-11-24T16:23:46.471855-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
+    "id": "698f688050249aafec075f9066f3f408",
+    "title": "UX Researcher [AQ-28283]",
+    "company": "Aquent",
+    "location": "San Francisco, CA",
+    "salary": "Not listed",
+    "url": "https://www.linkedin.com/jobs/view/4493066316",
+    "source": "Linkedin",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "nan",
+    "priority": 1,
+    "first_seen": "2026-11-24T16:23:44.516132-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "5621b58e27a3b2223406005c20995de3",
     "title": "Product Designer",
     "company": "Specialized Education Services, Inc.",
@@ -15449,23 +15483,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-10-24T20:11:44.048251-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "0908b603fe1d99b5d8cc9073338dac89",
-    "title": "UI/UX Designer \u2013 Advanced Imaging (Bedford, MA)",
-    "company": "Philips",
-    "location": "Bedford, MA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4482660763",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-10-24T17:20:15.441399-07:00",
     "status": "active",
     "jd": "yes"
   }
