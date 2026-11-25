@@ -1,32 +1,49 @@
 [
   {
     "item": {
-      "company": "Maple",
-      "amount": "$5.3M",
-      "stage": null,
-      "investors": null,
+      "company": "Huver",
+      "amount": null,
+      "stage": "Seed",
+      "investors": "DHP",
       "location": null,
-      "blurb": "Maple raises $5.3M to build AI products that protect your data, even from itself. The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "blurb": "Medical AI startup Huver raises seed round from DHP for US push - Dealroom. Medical AI startup Huver raises seed round from DHP for US push&nbsp;&nbsp;Dealroom",
       "founders": [],
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-      "priority": 3
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMlpvRmlnaTl1eXpUU3dKMzNnVC1CRGhLX3JTVjduMnU3V1NxdE50WUlQXzJkWFVXMTNKaUt3SmJKNFYtblM0TnQwWjdCMzVybWdWRDZqOUtsb1cyMVdWbGlFWTh6UDJkeTFrU05rRDNBbXRQdm93YjNYVk5iSUVoYndfaWRyc1pjaFA5Z2FXRjVZTzMwMUI0QVdrZ09Ddw?oc=5",
+      "priority": 9
     },
-    "remind_at": "2026-11-24T15:41:46.076718-08:00"
+    "remind_at": "2026-11-24T22:04:58.001133-08:00"
   },
   {
     "item": {
-      "company": "Sierra",
-      "amount": null,
-      "stage": "Series F",
+      "company": "Sebastian Thrun\u2019s Dulo",
+      "amount": "$130.0M",
+      "stage": "Seed",
       "investors": null,
       "location": null,
-      "blurb": "Sierra Reaches US$30bn Series F Valuation as AI Agents Scale - AI Magazine. Sierra Reaches US$30bn Series F Valuation as AI Agents Scale&nbsp;&nbsp;AI Magazine",
+      "blurb": "Sebastian Thrun\u2019s Dulo Raises $130M Seed for Hardware Design AI - Wowtale. Sebastian Thrun\u2019s Dulo Raises $130M Seed for Hardware Design AI&nbsp;&nbsp;Wowtale",
       "founders": [],
-      "source": "Sequoia (news)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa08tSkpUNGIydE1qUjNfU0RBaTNyMzk4b3VTelVUcmNBcm5uYk90V1lnZjlRMll5Y3pJYU1lTkVCQjBfN0V0Sjhic21vNkgyNGtmV2txYnIwNUZBV3dMZHI5aFBIR0U2ZXNrckp2VDZCWFgtWGlFRjFKQ1JBQmxRWXgxWmJ5S2pnQThQck5OOFI?oc=5",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rTjFOV0FPUGdDZEwwc3E0bHRSSUY2UDZZeHA3ZklaaTlqSTZ4UHRNOC0yR0hGaXpkbUFhZXBlVWZ3cEx5MktzNU94N1E0Q1R0ZFZr?oc=5",
+      "priority": 9
+    },
+    "remind_at": "2026-11-24T22:05:03.821964-08:00"
+  },
+  {
+    "item": {
+      "company": "Epochal",
+      "amount": "$100.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Epochal launches with $100M to help developers train predictive AI models. Artificial intelligence tooling startup Epochal AI Inc. launched today with $100 million in funding. The capital was provided by Chief Executive Officer Guodong Zhang, a machine learning researcher who earlier co-founded xAI Corp. He established Epochal earlier this year with two other xAI co-founders, Zihang Dai and Manuel Kroiss. The company\u2019s staff also includes former [&#8230;]\nThe post Epochal launches with $100M to ",
+      "founders": [
+        "Guodong Zhang"
+      ],
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
       "priority": 3
     },
-    "remind_at": "2026-11-24T15:41:48.925696-08:00"
+    "remind_at": "2026-11-24T22:05:06.912313-08:00"
   }
 ]

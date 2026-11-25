@@ -15474,5 +15474,55 @@
     ],
     "first_seen": "2026-11-24T15:11:49.925851-08:00",
     "status": "active"
+  },
+  "fb55f7dc434e739ca672900cd2a7a1d9": {
+    "id": "fb55f7dc434e739ca672900cd2a7a1d9",
+    "company": "Huver",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "DHP",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMlpvRmlnaTl1eXpUU3dKMzNnVC1CRGhLX3JTVjduMnU3V1NxdE50WUlQXzJkWFVXMTNKaUt3SmJKNFYtblM0TnQwWjdCMzVybWdWRDZqOUtsb1cyMVdWbGlFWTh6UDJkeTFrU05rRDNBbXRQdm93YjNYVk5iSUVoYndfaWRyc1pjaFA5Z2FXRjVZTzMwMUI0QVdrZ09Ddw?oc=5",
+    "priority": 9,
+    "blurb": "Medical AI startup Huver raises seed round from DHP for US push - Dealroom. Medical AI startup Huver raises seed round from DHP for US push&nbsp;&nbsp;Dealroom",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-24T21:34:59.001259-08:00",
+    "status": "active"
+  },
+  "eb6ddaf9080382232d4557ae38d5cb88": {
+    "id": "eb6ddaf9080382232d4557ae38d5cb88",
+    "company": "Sebastian Thrun\u2019s Dulo",
+    "amount": "$130.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rTjFOV0FPUGdDZEwwc3E0bHRSSUY2UDZZeHA3ZklaaTlqSTZ4UHRNOC0yR0hGaXpkbUFhZXBlVWZ3cEx5MktzNU94N1E0Q1R0ZFZr?oc=5",
+    "priority": 9,
+    "blurb": "Sebastian Thrun\u2019s Dulo Raises $130M Seed for Hardware Design AI - Wowtale. Sebastian Thrun\u2019s Dulo Raises $130M Seed for Hardware Design AI&nbsp;&nbsp;Wowtale",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-24T21:35:04.822123-08:00",
+    "status": "active"
+  },
+  "03454fd893b38f92668e2926ac1f5f82": {
+    "id": "03454fd893b38f92668e2926ac1f5f82",
+    "company": "Epochal",
+    "amount": "$100.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+    "priority": 3,
+    "blurb": "Epochal launches with $100M to help developers train predictive AI models. Artificial intelligence tooling startup Epochal AI Inc. launched today with $100 million in funding. The capital was provided by Chief Executive Officer Guodong Zhang, a machine learning researcher who earlier co-founded xAI Corp. He established Epochal earlier this year with two other xAI co-founders, Zihang Dai and Manuel Kroiss. The company\u2019s staff also includes former [&#8230;]\nThe post Epochal launches with $100M to ",
+    "founders": [
+      "Guodong Zhang"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-24T21:35:07.912466-08:00",
+    "status": "active"
   }
 }

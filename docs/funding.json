@@ -1,5 +1,52 @@
 [
   {
+    "id": "03454fd893b38f92668e2926ac1f5f82",
+    "company": "Epochal",
+    "amount": "$100.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+    "priority": 3,
+    "founders": [
+      "Guodong Zhang"
+    ],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-24T21:35:07.912466-08:00",
+    "status": "active"
+  },
+  {
+    "id": "eb6ddaf9080382232d4557ae38d5cb88",
+    "company": "Sebastian Thrun\u2019s Dulo",
+    "amount": "$130.0M",
+    "stage": "Seed",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rTjFOV0FPUGdDZEwwc3E0bHRSSUY2UDZZeHA3ZklaaTlqSTZ4UHRNOC0yR0hGaXpkbUFhZXBlVWZ3cEx5MktzNU94N1E0Q1R0ZFZr?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-24T21:35:04.822123-08:00",
+    "status": "active"
+  },
+  {
+    "id": "fb55f7dc434e739ca672900cd2a7a1d9",
+    "company": "Huver",
+    "amount": "Undisclosed",
+    "stage": "Seed",
+    "investors": "DHP",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMlpvRmlnaTl1eXpUU3dKMzNnVC1CRGhLX3JTVjduMnU3V1NxdE50WUlQXzJkWFVXMTNKaUt3SmJKNFYtblM0TnQwWjdCMzVybWdWRDZqOUtsb1cyMVdWbGlFWTh6UDJkeTFrU05rRDNBbXRQdm93YjNYVk5iSUVoYndfaWRyc1pjaFA5Z2FXRjVZTzMwMUI0QVdrZ09Ddw?oc=5",
+    "priority": 9,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-24T21:34:59.001259-08:00",
+    "status": "active"
+  },
+  {
     "id": "7cef5e298717238353da870c9da02c9b",
     "company": "Sierra",
     "amount": "Undisclosed",
