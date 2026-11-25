@@ -1,5 +1,22 @@
 [
   {
+    "id": "20f840788d7c516b3914525456a72b99",
+    "title": "Web Designer",
+    "company": "nan",
+    "location": "Austin, TX, US",
+    "salary": "$70,000 \u2013 $75,000 / yearly",
+    "url": "https://www.indeed.com/viewjob?jk=56293807953e6c9a",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-11-24",
+    "priority": 4,
+    "first_seen": "2026-11-24T17:54:05.503347-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "c3e3d3a877c2a7ca7eb9cf0ddac91bf4",
     "title": "Product Designer",
     "company": "Fashion Nova",
@@ -9805,23 +9822,6 @@
     "posted_at": "2026-11-06",
     "priority": 4,
     "first_seen": "2026-11-06T14:09:28.291240-08:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "068cb725392647db16daebf7e3cde1aa",
-    "title": "Product Designer",
-    "company": "Moxo",
-    "location": "Palo Alto, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4487329765",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-11-06T14:09:26.308644-08:00",
     "status": "active",
     "jd": "yes"
   },
