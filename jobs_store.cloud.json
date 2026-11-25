@@ -1779,7 +1779,7 @@
     "first_seen": "2026-09-29T11:25:59.052967-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "dd92cd2909c03f2a931048852dab284f": {
@@ -1800,7 +1800,7 @@
     "first_seen": "2026-09-29T11:26:00.714691-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "7fabaae9eec26e42d9eb8a373da349a1": {
@@ -1970,7 +1970,7 @@
     "first_seen": "2026-10-01T00:50:14.587166-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "68920079b4b2d7fb27ba94006d6f5e3b": {
@@ -1991,7 +1991,7 @@
     "first_seen": "2026-10-01T08:01:23.821079-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "2f5a373663b46c566dc196331aae89ce": {
@@ -2012,7 +2012,7 @@
     "first_seen": "2026-10-01T08:01:25.566330-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "6ed007abee9b78861858fd5b2e4bb4a6": {
@@ -2033,7 +2033,7 @@
     "first_seen": "2026-10-01T08:01:27.379592-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "fd152848cdf98d2338b734f7bf2db81b": {
@@ -2054,8 +2054,8 @@
     "first_seen": "2026-10-01T08:01:29.226298-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
-    "dead_strikes": 0
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
+    "dead_strikes": 1
   },
   "9b0c1202343d4c9dc5a970979d442e39": {
     "id": "9b0c1202343d4c9dc5a970979d442e39",
@@ -3730,10 +3730,10 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-10-11T05:55:06.936438-07:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-11-24T21:33:47.019021-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
+    "dead_strikes": 2
   },
   "bc58377c374df5a5f50329954297f238": {
     "id": "bc58377c374df5a5f50329954297f238",
@@ -5159,7 +5159,7 @@
     "first_seen": "2026-10-19T13:50:48.062426-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "575801b5bf1f18fe4180d7ac13c741e7": {
@@ -5180,7 +5180,7 @@
     "first_seen": "2026-10-19T13:50:49.732807-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "8839f33ba4d5d47ddf3fe35785e23d89": {
@@ -6798,7 +6798,7 @@
     "first_seen": "2026-10-29T19:58:24.475848-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00"
+    "checked_at": "2026-11-25T08:34:21.550264-08:00"
   },
   "40ea1f3297841e3116fc406ef7b05982": {
     "id": "40ea1f3297841e3116fc406ef7b05982",
@@ -7658,7 +7658,7 @@
     "first_seen": "2026-11-03T15:19:17.362983-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "42a69894fbaa7b0eaa28e517f50bf11f": {
@@ -7679,7 +7679,7 @@
     "first_seen": "2026-11-03T15:19:18.821725-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "67b29e68c850954dc196043b4377541e": {
@@ -7701,7 +7701,7 @@
     "status": "active",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "4bc972a8c6b746b30a8766034c5d5a1d": {
@@ -7722,7 +7722,7 @@
     "first_seen": "2026-11-03T15:19:21.976849-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "757acde589edc684512113a01bdadc01": {
@@ -7743,7 +7743,7 @@
     "first_seen": "2026-11-03T15:19:23.484564-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "c7a85459c91703b09cf92c8c4e4059b4": {
@@ -7764,7 +7764,7 @@
     "first_seen": "2026-11-03T15:19:25.128147-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "c85f8a6e9eb99529145e4949e5d4bd8d": {
@@ -7785,7 +7785,7 @@
     "first_seen": "2026-11-03T15:19:26.759492-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "fab64e8e5306d327248e14e912a45b1b": {
@@ -7806,7 +7806,7 @@
     "first_seen": "2026-11-03T15:19:28.400723-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "58cb17cbd06db6643e38e1925efee371": {
@@ -7848,7 +7848,7 @@
     "first_seen": "2026-11-03T15:19:31.549838-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "878b4122a4358bbeb253ff5bf2bb7fb7": {
@@ -9455,7 +9455,7 @@
     "first_seen": "2026-11-10T03:30:33.565016-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T10:32:09.870109-08:00"
+    "checked_at": "2026-11-25T08:34:21.550264-08:00"
   },
   "47a7feda50d5a698f521df24f5fb4717": {
     "id": "47a7feda50d5a698f521df24f5fb4717",
@@ -9475,7 +9475,7 @@
     "first_seen": "2026-11-10T03:30:35.146212-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T10:32:09.870109-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "9d0d4e497432ecb95a355ed95521703b": {
@@ -9517,7 +9517,7 @@
     "first_seen": "2026-11-10T03:30:38.493764-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T16:52:44.974475-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "3051837814fd58ef0eb12c2230a7829c": {
@@ -10253,7 +10253,7 @@
     "first_seen": "2026-11-15T08:45:18.352210-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T10:32:09.870109-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "f08e9e0a8278d5fbeb019615fed4609f": {
@@ -10274,7 +10274,7 @@
     "first_seen": "2026-11-15T08:45:19.955551-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-18T10:32:09.870109-08:00",
+    "checked_at": "2026-11-25T08:34:21.550264-08:00",
     "dead_strikes": 0
   },
   "088ab6ecb14da7437a73c604083cfa12": {
@@ -12995,6 +12995,215 @@
     "posted_at": "Recently",
     "priority": 2,
     "first_seen": "2026-11-24T15:11:26.284491-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "c21de6a7a1adfe6bde3787ec4641c29c": {
+    "id": "c21de6a7a1adfe6bde3787ec4641c29c",
+    "title": "Founding Designer",
+    "company": "Limrun (P26)",
+    "location": "San Francisco, CA, US / Istanbul, \u0130stanbul, TR / Remote (US)",
+    "salary": "$80K - $180K",
+    "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D124688&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=31377",
+    "source": "Y Combinator",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Extend cloud sandboxes with iOS, Android and more",
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-11-25T08:35:13.563556-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "803c9392b397cbb7df3fe0c18e16f57a": {
+    "id": "803c9392b397cbb7df3fe0c18e16f57a",
+    "title": "Product Design Intern - Summer 2027",
+    "company": "Beli",
+    "location": "New York, United States",
+    "salary": "Not listed",
+    "url": "https://beli.breezy.hr/p/d626dd05f64d-product-design-intern-summer-2027",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Job OverviewAt Beli, individual team members operate with a high degree of ownership and impact. As a Product Design Intern , you will play a key role in shaping the user experience of Beli\u2019s iOS and Android applications. You will research, design, prototype, and iterate on features that drive user",
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-11-25T08:35:15.184610-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "4198648176d17df8bfa8ccb7df8ab39c": {
+    "id": "4198648176d17df8bfa8ccb7df8ab39c",
+    "title": "Associate Product Designer",
+    "company": "Mochi Health",
+    "location": "San Francisco, United States",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/mochihealth/jobs/5362322008",
+    "source": "OpenDoors",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "About the RoleJoin Mochi Health as an Associate Product Designer and help us build a product experience that makes healthcare feel approachable, trustworthy, and human. You\u2019ll work in a tight-knit product team alongside product managers, engineers, and growth partners, with a real voice in shaping w",
+    "posted_at": "Recently",
+    "priority": 1,
+    "first_seen": "2026-11-25T08:35:16.722161-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "ddcb32cca8898b936edc0450f5fed93e": {
+    "id": "ddcb32cca8898b936edc0450f5fed93e",
+    "title": "Graduate Trainee - Service Design and Digital Adoption (User Experience)",
+    "company": "North Yorkshire Council",
+    "location": "Northallerton, United Kingdom",
+    "salary": "Not listed",
+    "url": "https://nycjobs.engageats.co.uk/Vacancies/W/5967/0/476817/23850/graduate-trainee-service-design-and-digital-adoption-user-experience",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "About the roleAs a Graduate Trainee, you'll join our Service Design and Digital Adoption (SDDA) team within Transformation Services.Transformation Services is an innovative and fast-paced service focused on helping North Yorkshire Council continually improve the way it delivers services. We work wit",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-11-25T08:35:18.288108-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "5a2f4dc2ce0e66fdc2abc96237a939ee": {
+    "id": "5a2f4dc2ce0e66fdc2abc96237a939ee",
+    "title": "Graduate Service Designer",
+    "company": "University of the Arts London",
+    "location": "London, United Kingdom",
+    "salary": "Not listed",
+    "url": "https://artstemps.arts.ac.uk/vacancies/64890/graduate-service-designer.html",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Job OverviewUniversity of the Arts London (UAL) generates and inspires the creativity the world needs for a better future. Since 1842 our Colleges have been defining creative education. With curiosity, imagination and intent we make work which creates lasting change for people and our planet.Under t",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-11-25T08:35:19.981562-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "c9424b25fb95a55858feb0e17670aca3": {
+    "id": "c9424b25fb95a55858feb0e17670aca3",
+    "title": "Associate UI/UX Product Designer",
+    "company": "Koddi",
+    "location": "Fort Worth, United States",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/koddi/jobs/8944805002",
+    "source": "OpenDoors",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Associate UI/UX Product Designer Cohort - Start date February 15th, 2027.The Koddi Cohort Program is an intensive eight-week training program that introduces participants to product design at Koddi. Participants will develop skills in user experience, interaction design, visual design, research, pro",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-11-25T08:35:21.547397-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "2a87fb3a98c54e98e2d33925fa740d22": {
+    "id": "2a87fb3a98c54e98e2d33925fa740d22",
+    "title": "UI/UX Designer, Product",
+    "company": "Alpaca Research",
+    "location": "Cambridge, United States",
+    "salary": "Not listed",
+    "url": "https://jobs.ashbyhq.com/Alpaca%20Research/bbf198b9-0d1b-435a-a4b1-545e73f47a81",
+    "source": "OpenDoors",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Who we are:Today, AI is something you rent. Alpaca is building the full stack of hardware, software, models, and applications together to make it something you own.We are developing a new computer architecture that breaks the economics keeping frontier models trapped in datacenters. On top of that,",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-11-25T08:35:23.215827-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "c0082ba689f90fe5df7eb2c968b04869": {
+    "id": "c0082ba689f90fe5df7eb2c968b04869",
+    "title": "Early Career UX/ UI Designer",
+    "company": "TP-Link Systems USA",
+    "location": "Irvine, United States",
+    "salary": "Not listed",
+    "url": "https://tplink.wd503.myworkdayjobs.com/en-US/External/job/Irvine-California/Early-Career-UX--UI-Designer_R26_0000000183-7?q=ux",
+    "source": "OpenDoors",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "About UsHeadquartered in the United States, TP-Link Systems Inc. is a global provider of reliable networking devices and smart home products, consistently ranked as the world\u2019s top provider of Wi-Fi devices. The company is committed to delivering innovative products that enhance people\u2019s lives throu",
+    "posted_at": "Recently",
+    "priority": 4,
+    "first_seen": "2026-11-25T08:35:24.873919-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "c43bb7d9196cb43f5d53a74cca05135a": {
+    "id": "c43bb7d9196cb43f5d53a74cca05135a",
+    "title": "Associate Product Designer",
+    "company": "Perpay",
+    "location": "Philadelphia, United States",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/perpay/jobs/5003430007",
+    "source": "OpenDoors",
+    "is_new_grad": true,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "What You'll DoContribute to design projects that directly impact our customers\u2019 financial livesApply design thinking methodologies to solve user and business problemsCollaborate with product, engineering, brand, and marketing partners to ship experiences that are useful, beautiful, and on-brandBring",
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-11-25T08:35:26.406346-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "4e3df9bc8b6180fea7877cb01efa054e": {
+    "id": "4e3df9bc8b6180fea7877cb01efa054e",
+    "title": "Product Designer II",
+    "company": "Valon",
+    "location": "New York",
+    "salary": "$168,000 - $197,500",
+    "url": "https://uiuxjobsboard.com/job/1700826-product-designer-ii-new-york-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "About the Company\nValon is the leading AI platform for mortgage servicing, building the AI-native operating system for regulated finance.\nBefore providing the system of record that powers the entire industry, we built and ran our own mortgage servicer on it. That gave us a real regulated environment to prove our technology could replace the mainframe systems servicers have used for decades. Carrington acquired that servicer and adopted ValonOS as its core platform, allowing us to focus entirely on scaling our SaaS platform.\nValonOS is now on track to power 1 in 6 U.S. mortgages across major mortgage servicers like Newrez, Carrington, and ServiceMac. Every process on the platform is structured and programmable, enabling our AI agents to perform core servicing work, like handling payments, escrow, and homeowner questions, directly within the system's controls.\nWe recently raised a $150 million Series D at a $2.3 billion valuation joined by new investor Ribbit Capital, with continued support from existing backer a16z, amongst others.\nThe Design Team at Valon\nValon's Design team is a tight-knit and ambitious team. We are a user-centered design team that creates meaningful, intuitive experiences and sets the industry bar. Today, our core products include a mortgage servicing platform that empowers our servicing agents and a homeowner console that makes managing everything mortgage-related easy.\nWe are at the stage where you can help shape the core experiences of the homeowners we serve and the teams who serve them. Sitting inside the product organization, you will work closely with world-class cross-functional teams to build products that deliver value to homeowners, servicing agents, and mortgage lenders.\nA portfolio is required for consideration.\nAbout the Role\nWe are looking for a Product Designer to join our I/O team. I/O owns how loans move in and out of Valon: onboarding loans onto our servicing platform and offboarding them to the next servicer. It covers data intake, mapping, validation, conflict resolution, transfer arrangements, and the document packages and borrower letters that go with them. Every loan Valon services passes through this work, so the experience has to be accurate, reliable, and fast, often across thousands of loans at a time.\nYour users are mostly operations teams and specialists who manage transfers and boarding day to day, both at Valon and at the servicers we work with. You will design the I/O Console and the surrounding tools so they can ingest messy data, spot and fix problems early, and track a transfer from start to finish with confidence. As we bring in more automation and AI-assisted data parsing, you will help decide how that work is surfaced, reviewed, and trusted.\nThe work is data and detail-heavy. Transfers involve edge cases, strict timelines, and many handoffs between systems and parties. You will need to be comfortable with ambiguity, and you will work closely with product, engineering, and operations to turn that complexity into clear, simple workflows.\nResponsibilities\nDesign end-to-end experiences for loan onboarding and offboarding, from research and prototyping through testing and delivery.\n\nBuild expertise in how loans are boarded and transferred, and switch context quickly across workstreams in a fast, iterative environment.\n\nDesign batch-oriented, data-dense workflows in the I/O Console (intake, validation, conflict resolution, offboarding batches) that make high-volume work fast and hard to get wrong.\n\nCreate user journeys, wireframes, and high-fidelity designs that explain your solutions clearly and support business goals.\n\nPartner with product managers, engineers, operations, and client-facing teams to make sure designs are feasible, scalable, and accurate.\n\nDesign clear states, errors, and status tracking for long-running, multi-step processes that span many loans and parties.\n\nAdvocate for users at every stage of product development.\n\nWork within and help evolve our design sy",
+    "posted_at": "8h",
+    "priority": 3,
+    "first_seen": "2026-11-25T08:35:27.963374-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "576638f073f1d083a01e7aa63dd5d1f1": {
+    "id": "576638f073f1d083a01e7aa63dd5d1f1",
+    "title": "UX Content Designer",
+    "company": "Trainline",
+    "location": "London",
+    "salary": "Not listed",
+    "url": "https://uiuxjobsboard.com/job/1702926-ux-content-designer-london-united-kingdom",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "About us\nAt Trainline, our purpose is to empower greener travel choices, connecting people and places. Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile app, website, and B2B partner channels.\nGreat journeys start with Trainline \ud83d\ude84\nWe\u2019re Europe\u2019s leading independent rail platform, helping millions of travellers find and book the best-value rail and coach journeys across our app, website and partner channels.\nOur job is to make the green travel choice the best choice. By building a better train travel experience, we help more people choose rail - creating a positive impact for customers, our business and the planet.\nWe\u2019re a team of more than 1,000 Trainliners from over 50 nationalities, working across London, Paris, Barcelona, Milan, Edinburgh and Madrid. Now is a brilliant time to join us and help shape the future of travel.\nIntroducing the Trainline UX Content Design Team \ud83d\udc4b\nThe UX Content Design team is a small but high-impact group of Content Designers and Localisation experts working across Trainline\u2019s most important initiatives. We sit within the Product organisation as part of a wider cross-functional UX team, partnering closely with UX Designers, Engineers, Product Managers, and insight specialists to cut through\nthe complexity of travel for millions of users across more than 40 countries.\nWe\u2019re looking for a content designer who wants to take the next step in their career development. We work from discovery so we can shape the best content decisions early, and you\u2019ll be right at the heart of that. In this role, you\u2019ll have genuine end-to-end impact of meaningful projects, with the backing of an experienced content design team around you. You\u2019ll report to the UX Content Lead, who will support your priorities, skill development, and career growth, while bringing your own areas of influence to a team tackling some genuinely interesting challenges.\nIn this role as the Content Designer, you will...\ud83d\ude84\nCo-design clear, intuitive end-to-end user journeys and contribute to content strategy across key Trainline initiatives\n\nBring clarity to propositions by working with our tone of voice, adapting how it dials up or down to support users across different contexts and needs\n\nTake AI prototypes through testing and refinement with real rail users, helping to shape how emerging technology serves our travellers\n\nDevelop and execute content strategies that drive conversion, using insights, testing, and performance data to strengthen your decisions\n\nCreate scalable content governance standards for internal and customer-facing agents, contributing to how our content strategy is interpreted and applied at scale\n\nAdvise on inclusive and accessible content best practices with the wider Product team\n\nCollaborate closely with Product, Design, Research, and Engineering across workshops and sprints\n\nThink deeply about localisation, ensuring the content you create works meaningfully for travellers across the more than 40 countries we serve\n\nWe\u2019d love to hear from you if you have...\ud83d\udd0d\nExperience designing content for digital products, with examples of work you\u2019re proud of - whether from professional experience or personal projects you\u2019ve dedicated time to (please include one or two links in your CV or application)\n\nExperience testing and optimising content, using data and user insight to inform and strengthen your decisions\n\nConfidence working with a tone of voice and adapting it to suit different user needs and contexts throughout a journey\n\nComfort experimenting with AI in your content practice - you don\u2019t need to be an expert, but an openness to exploring AI systems and governance is important to us\n\nA collaborative mindset with the ability to communicate your rationale clearly and effectively to teammates and stakeholders\n\nA foundational understanding of UX best practices and design principles\n\nIdeally, some experience in the travel, transpo",
+    "posted_at": "8h",
+    "priority": 4,
+    "first_seen": "2026-11-25T08:35:29.604183-08:00",
     "status": "active",
     "applied_at": null
   }

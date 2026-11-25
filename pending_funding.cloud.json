@@ -1,49 +1,152 @@
 [
   {
     "item": {
-      "company": "Huver",
+      "company": "Lawvek",
       "amount": null,
-      "stage": "Seed",
-      "investors": "DHP",
+      "stage": "Pre-Seed",
+      "investors": "Neon Fund",
       "location": null,
-      "blurb": "Medical AI startup Huver raises seed round from DHP for US push - Dealroom. Medical AI startup Huver raises seed round from DHP for US push&nbsp;&nbsp;Dealroom",
+      "blurb": "Lawvek Raises $550,000 Pre-seed. Lawvek raises $550K pre-seed funding led by Neon Fund to expand its enterprise AI platform for vendor billing management and cost recovery.",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMlpvRmlnaTl1eXpUU3dKMzNnVC1CRGhLX3JTVjduMnU3V1NxdE50WUlQXzJkWFVXMTNKaUt3SmJKNFYtblM0TnQwWjdCMzVybWdWRDZqOUtsb1cyMVdWbGlFWTh6UDJkeTFrU05rRDNBbXRQdm93YjNYVk5iSUVoYndfaWRyc1pjaFA5Z2FXRjVZTzMwMUI0QVdrZ09Ddw?oc=5",
-      "priority": 9
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/lawvek-raises-550000-pre-seed/",
+      "priority": 10
     },
-    "remind_at": "2026-11-24T22:04:58.001133-08:00"
+    "remind_at": "2026-11-25T09:05:51.038248-08:00"
   },
   {
     "item": {
-      "company": "Sebastian Thrun\u2019s Dulo",
-      "amount": "$130.0M",
+      "company": "Backgrounder",
+      "amount": "$2.0M",
+      "stage": "Pre-Seed",
+      "investors": "Paladin Capital",
+      "location": null,
+      "blurb": "Backgrounder Raises $2M Pre-seed. Backgrounder raises $2 million in pre-seed funding led by Paladin Capital Group to expand its AI platform for preventing scams and digital impersonation.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/backgrounder-raises-2m-pre-seed/",
+      "priority": 10
+    },
+    "remind_at": "2026-11-25T09:05:54.414261-08:00"
+  },
+  {
+    "item": {
+      "company": "Sequent",
+      "amount": "$2.2M",
+      "stage": "Pre-Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Sequent raises $2.2M pre-seed round, lands Curve as first client - Crypto Briefing. Sequent raises $2.2M pre-seed round, lands Curve as first client&nbsp;&nbsp;Crypto Briefing",
+      "founders": [],
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VSkdnM0ZVLVhCOG9DNVh3QllsVnVZM0gwZFd6d3huLTgzVVUzRUVHZG1HSFF5VVJSTnNERHpFV2YzSC1WbGtTcWJhOUxGdlk3RVA1QXBUeWZVNHk2R1lxZ09uamFleGZ3d3BWNlZRdFJqUQ?oc=5",
+      "priority": 10
+    },
+    "remind_at": "2026-11-25T09:05:57.355785-08:00"
+  },
+  {
+    "item": {
+      "company": "Rialto",
+      "amount": "$5.0M",
       "stage": "Seed",
       "investors": null,
       "location": null,
-      "blurb": "Sebastian Thrun\u2019s Dulo Raises $130M Seed for Hardware Design AI - Wowtale. Sebastian Thrun\u2019s Dulo Raises $130M Seed for Hardware Design AI&nbsp;&nbsp;Wowtale",
+      "blurb": "Rialto Raises $5M Seed. Rialto raises $5 million in a seed round co-led by Robinhood and Tandem to scale its onchain trading infrastructure for crypto and tokenized assets.",
       "founders": [],
-      "source": "Funding Sweep (news)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rTjFOV0FPUGdDZEwwc3E0bHRSSUY2UDZZeHA3ZklaaTlqSTZ4UHRNOC0yR0hGaXpkbUFhZXBlVWZ3cEx5MktzNU94N1E0Q1R0ZFZr?oc=5",
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/rialto-raises-5m-seed/",
       "priority": 9
     },
-    "remind_at": "2026-11-24T22:05:03.821964-08:00"
+    "remind_at": "2026-11-25T09:06:00.213935-08:00"
   },
   {
     "item": {
-      "company": "Epochal",
-      "amount": "$100.0M",
+      "company": "Umber",
+      "amount": "$2.0M",
+      "stage": "Seed",
+      "investors": null,
+      "location": null,
+      "blurb": "Umber Raises $2M Seed. Umber raises $2 million in seed funding to expand its digital asset as a service platform for businesses managing large volumes of content.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/umber-raises-2m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-25T09:06:03.179869-08:00"
+  },
+  {
+    "item": {
+      "company": "OpenVault",
+      "amount": "$2.0M",
+      "stage": "Seed",
+      "investors": "HorizonArc Ventures",
+      "location": null,
+      "blurb": "OpenVault Raises $2M Seed. OpenVault raises $2M in a seed round led by HorizonArc Ventures to expand its AI-powered digital asset yield management platform.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/openvault-raises-2m-seed/",
+      "priority": 9
+    },
+    "remind_at": "2026-11-25T09:06:06.101584-08:00"
+  },
+  {
+    "item": {
+      "company": "whereable.ai",
+      "amount": "$2.26M",
+      "stage": "Series A",
+      "investors": null,
+      "location": null,
+      "blurb": "whereable.ai Raises $2.26M Pre-Series A. whereable.ai raises $2.26 million in a pre-Series A funding round to advance its autonomous driving software for industrial and logistics environments.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/whereable-ai-raises-2-26m-pre-series-a/",
+      "priority": 8
+    },
+    "remind_at": "2026-11-25T09:06:09.541668-08:00"
+  },
+  {
+    "item": {
+      "company": "Every",
+      "amount": "$17.5M",
       "stage": null,
       "investors": null,
       "location": null,
-      "blurb": "Epochal launches with $100M to help developers train predictive AI models. Artificial intelligence tooling startup Epochal AI Inc. launched today with $100 million in funding. The capital was provided by Chief Executive Officer Guodong Zhang, a machine learning researcher who earlier co-founded xAI Corp. He established Epochal earlier this year with two other xAI co-founders, Zihang Dai and Manuel Kroiss. The company\u2019s staff also includes former [&#8230;]\nThe post Epochal launches with $100M to ",
-      "founders": [
-        "Guodong Zhang"
-      ],
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+      "blurb": "Every raises $17.5 million at $110 million valuation, betting venture-backed media can work. Every, an AI-focused media company and publication, has raised $17.5 million at a $110 million post-money valuation, Fortune has exclusively learned.",
+      "founders": [],
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work/",
       "priority": 3
     },
-    "remind_at": "2026-11-24T22:05:06.912313-08:00"
+    "remind_at": "2026-11-25T09:06:12.530810-08:00"
+  },
+  {
+    "item": {
+      "company": "Bayesline",
+      "amount": "$4.0M",
+      "stage": null,
+      "investors": "Nyca Partners",
+      "location": null,
+      "blurb": "Bayesline Raises $4M in Funding. Bayesline raises $4 million in an institutional funding round led by Nyca Partners to expand its GPU-powered financial analytics platform for asset managers.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/bayesline-raises-4m-other/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-25T09:06:15.808208-08:00"
+  },
+  {
+    "item": {
+      "company": "Bound",
+      "amount": "$50.0M",
+      "stage": null,
+      "investors": null,
+      "location": null,
+      "blurb": "Bound Raises $50M Debt Financing. Bound secures $50M in debt financing from Viola Credit to scale its AI-powered foreign exchange risk management platform for mid-market companies.",
+      "founders": [],
+      "source": "The SaaS News",
+      "url": "https://www.thesaasnews.com/news/bound-raises-50m-debt-financing/",
+      "priority": 3
+    },
+    "remind_at": "2026-11-25T09:06:18.731235-08:00"
   }
 ]
