@@ -1,5 +1,22 @@
 [
   {
+    "id": "813ee0a224f64d3ee2262f30e26b5e26",
+    "title": "Product Design Engineer",
+    "company": "Ingersoll-Rand",
+    "location": "Belle Vernon, PA, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=79da84d817065e83",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-11-23",
+    "priority": 4,
+    "first_seen": "2026-11-24T18:58:16.656917-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "c3e3d3a877c2a7ca7eb9cf0ddac91bf4",
     "title": "Product Designer",
     "company": "Fashion Nova",
@@ -1747,23 +1764,6 @@
     "posted_at": "nan",
     "priority": 4,
     "first_seen": "2026-11-21T14:30:55.885479-08:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "a5acc1d9b8594bf2cc8cd17fb70ff7eb",
-    "title": "UX Designer",
-    "company": "Tech-Assist",
-    "location": "Dallas, TX",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4493114060",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": false,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 4,
-    "first_seen": "2026-11-21T14:30:53.783384-08:00",
     "status": "active",
     "jd": "yes"
   },
