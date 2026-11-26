@@ -143,7 +143,7 @@
     "first_seen": "2026-09-22T03:22:15.496251-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T09:30:09.979504-08:00",
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
     "dead_strikes": 0
   },
   "4d314eccce618ca81ff6869f45f7d0d7": {
@@ -248,7 +248,7 @@
     "first_seen": "2026-09-22T03:22:24.224681-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T09:30:09.979504-08:00",
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
     "dead_strikes": 0
   },
   "1edd106a29675674d38ab47075da871c": {
@@ -522,8 +522,8 @@
     "first_seen": "2026-09-23T01:12:52.104392-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T09:30:09.979504-08:00",
-    "dead_strikes": 0
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
+    "dead_strikes": 1
   },
   "9b3776b3b7c23d6a9a40218f80edcfec": {
     "id": "9b3776b3b7c23d6a9a40218f80edcfec",
@@ -2264,7 +2264,7 @@
     "first_seen": "2026-10-03T03:31:25.391232-07:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T09:30:09.979504-08:00",
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
     "dead_strikes": 0
   },
   "5f476c4e977329d4eb7a012d38aa34f6": {
@@ -9643,7 +9643,7 @@
     "first_seen": "2026-11-10T10:46:55.052451-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T00:13:41.074864-08:00",
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
     "dead_strikes": 0
   },
   "3fff7af235ab853787d2fcf55c75c370": {
@@ -9664,7 +9664,7 @@
     "first_seen": "2026-11-10T15:51:40.858813-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T00:13:41.074864-08:00",
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
     "dead_strikes": 0
   },
   "b52db774ac34162007b8af031ff74a7e": {
@@ -9685,7 +9685,7 @@
     "first_seen": "2026-11-10T15:51:42.509692-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T00:13:41.074864-08:00",
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
     "dead_strikes": 0
   },
   "89961d6c2131b83e42437c27e016de8b": {
@@ -9706,7 +9706,7 @@
     "first_seen": "2026-11-10T15:51:44.143304-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T00:13:41.074864-08:00",
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
     "dead_strikes": 0
   },
   "8ec747aa91fe6b16bd391c42e4d712e5": {
@@ -9727,7 +9727,7 @@
     "first_seen": "2026-11-10T15:51:45.970489-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T00:13:41.074864-08:00",
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
     "dead_strikes": 0
   },
   "f28d8e8b1a41a4d7aa15b38c6b710e81": {
@@ -10295,7 +10295,7 @@
     "first_seen": "2026-11-16T00:13:27.388646-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T00:13:41.074864-08:00",
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
     "dead_strikes": 0
   },
   "d0d160561b80bb331541163db87216f6": {
@@ -12445,10 +12445,10 @@
     "posted_at": "Recently",
     "priority": 5,
     "first_seen": "2026-11-22T20:59:34.112081-08:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-11-26T01:04:14.156830-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
+    "dead_strikes": 2
   },
   "a962951bd42788fc675e32936221f288": {
     "id": "a962951bd42788fc675e32936221f288",
@@ -12657,7 +12657,8 @@
     "first_seen": "2026-11-22T21:00:18.273843-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 1,
+    "checked_at": "2026-11-26T11:12:06.636721-08:00"
   },
   "ae909c47980aac774b37a1c824246ead": {
     "id": "ae909c47980aac774b37a1c824246ead",
@@ -12676,7 +12677,9 @@
     "priority": 5,
     "first_seen": "2026-11-22T21:00:20.131087-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
+    "dead_strikes": 0
   },
   "e01817371dc08d33ff1fb7c7558eefe0": {
     "id": "e01817371dc08d33ff1fb7c7558eefe0",
@@ -12695,7 +12698,9 @@
     "priority": 4,
     "first_seen": "2026-11-22T21:00:21.995917-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
+    "dead_strikes": 0
   },
   "b2e6cb6b95a1e28eef61a4ea7ba7e10b": {
     "id": "b2e6cb6b95a1e28eef61a4ea7ba7e10b",
@@ -12714,7 +12719,9 @@
     "priority": 5,
     "first_seen": "2026-11-22T21:00:23.733839-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
+    "dead_strikes": 0
   },
   "20f1c61dcfd6d4671c46448e02fa6369": {
     "id": "20f1c61dcfd6d4671c46448e02fa6369",
@@ -12733,7 +12740,9 @@
     "priority": 5,
     "first_seen": "2026-11-23T07:44:01.675792-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
+    "dead_strikes": 0
   },
   "98034f0661080028ac55b0e143fd49f4": {
     "id": "98034f0661080028ac55b0e143fd49f4",
@@ -12752,7 +12761,9 @@
     "priority": 3,
     "first_seen": "2026-11-23T07:44:03.292342-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
+    "dead_strikes": 0
   },
   "218a989a55c14daefe0aef8649c64b11": {
     "id": "218a989a55c14daefe0aef8649c64b11",
@@ -12771,7 +12782,8 @@
     "priority": 4,
     "first_seen": "2026-11-23T07:44:04.947031-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T11:12:06.636721-08:00"
   },
   "7dee1b41b2683cc87c50950ce609badf": {
     "id": "7dee1b41b2683cc87c50950ce609badf",
@@ -12790,7 +12802,8 @@
     "priority": 3,
     "first_seen": "2026-11-23T07:44:06.604450-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T11:12:06.636721-08:00"
   },
   "86e7f0d8f548cd17ca36d2a408203605": {
     "id": "86e7f0d8f548cd17ca36d2a408203605",
@@ -12809,7 +12822,9 @@
     "priority": 4,
     "first_seen": "2026-11-23T07:44:08.300096-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
+    "dead_strikes": 0
   },
   "597d67fb67129e97bdc2129b38bb81fd": {
     "id": "597d67fb67129e97bdc2129b38bb81fd",
@@ -12828,7 +12843,9 @@
     "priority": 4,
     "first_seen": "2026-11-23T07:44:10.120651-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
+    "dead_strikes": 0
   },
   "f842aef43b2719a3c88e8470cb173db5": {
     "id": "f842aef43b2719a3c88e8470cb173db5",
@@ -12847,7 +12864,9 @@
     "priority": 4,
     "first_seen": "2026-11-23T07:44:11.946421-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
+    "dead_strikes": 0
   },
   "898d120566ec59a55dc61b1495f57af0": {
     "id": "898d120566ec59a55dc61b1495f57af0",
@@ -12866,7 +12885,9 @@
     "priority": 3,
     "first_seen": "2026-11-23T07:44:13.602378-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
+    "dead_strikes": 0
   },
   "b68a74fb6728510d670af9d2808408ff": {
     "id": "b68a74fb6728510d670af9d2808408ff",
@@ -12885,7 +12906,9 @@
     "priority": 3,
     "first_seen": "2026-11-23T07:44:15.469613-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
+    "dead_strikes": 0
   },
   "7924c38c74e2133d95c6708d1815cbdc": {
     "id": "7924c38c74e2133d95c6708d1815cbdc",
@@ -12904,7 +12927,9 @@
     "priority": 4,
     "first_seen": "2026-11-23T07:44:17.121206-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T11:12:06.636721-08:00",
+    "dead_strikes": 0
   },
   "5eea0a12f347da093dcae49497de9b76": {
     "id": "5eea0a12f347da093dcae49497de9b76",
@@ -13264,6 +13289,63 @@
     "posted_at": "25mi",
     "priority": 4,
     "first_seen": "2026-11-26T01:05:09.621233-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "f28cdb1ca57cfe73981b04dc0b0926db": {
+    "id": "f28cdb1ca57cfe73981b04dc0b0926db",
+    "title": "Brand Designer",
+    "company": "Forage",
+    "location": "Remote",
+    "salary": "$135,200 - $166,400",
+    "url": "https://uiuxjobsboard.com/job/1703726-remote-anywhere-brand-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "About Us:\nForage\u2019s mission is to expand financial access for low-income families. According to recent studies, the cost of groceries is the number-one financial stressor in America\u2014even more stressful than housing, healthcare, and childcare. At Forage, we believe that it doesn\u2019t have to be that way, and our mission is to help people put food on the table. Our technology makes it easy for retailers like Albertsons and Dollar General to accept benefits like SNAP and WIC. Our free consumer app helps cost-conscious shoppers check their EBT balances, find savings, and earn rewards on everyday purchases. And we\u2019re just getting started: we\u2019re building new products every day that will help low-income families save on groceries and improve their financial health. Our impact so far: Forage\u2019s payments technology is used at over 100,000+ stores in all 50 states\nWe\u2019ve helped deliver tens of millions of grocery orders to low-income families\nOver the last year, we\u2019ve grown payments volume by more than 13x\nSince its launch in 2025, the Forage App has been downloaded over 300,000 times\nWe recently raised our $40M Series B, bringing our total funding to over $75M\nWatch our story and see why we do what we do .\n\nThe Role\nWe are hiring our first Brand Designer: a thoughtful, inventive designer who will own brand and marketing design across Forage. This role focuses on brand expression and creative assets, not UI/UX or product design. You\u2019ll help define what makes Forage feel like Forage. We\u2019re looking for someone who can develop a distinctive brand voice and visual identity, then carry them through our work. You\u2019ll have room to explore, challenge familiar approaches, and give the brand more personality as we grow. You\u2019ll also build guidelines, templates, and asset libraries that make it easy for people across Forage to put the brand into practice. We care about the idea behind a piece and the details that make it work: the typography, the composition, the image choice, and how it makes someone feel. You\u2019ll report to our Product Design Lead and work closely with our Head of Communications, Marketing, Partnerships, and Recruiting. This is an ongoing, part-time contract engagement, and we\u2019ll provide you with clear priorities and direct creative feedback.\n\nWhat You\u2019ll Do\nDevelop Forage\u2019s point of view. Help define how we look, sound, and express what we believe. Explore creative directions, make deliberate choices about our personality, and turn those choices into guidelines and work that feels unmistakably Forage.\nBuild a brand others can build with. Create guidelines, templates, and asset libraries that make it easy for non-designers to apply Forage\u2019s identity directly or through AI-assisted workflows across presentations, partner materials, campaigns, and everyday communications, with enough flexibility for different needs and enough direction to keep the brand distinctive.\nExtend our illustration world. Create custom artwork and a reusable library for onboarding, reward moments, empty states, and other moments in the app.\nUplevel campaigns and partner creative. Design for paid ads, social, newsletters, and product launches. Work with our Consumer Growth Marketer and Consumer PM to elevate and test ad creative, and create co-marketing materials with partners like Instacart, DoorDash, and Uber Eats, including email templates and app banners.\nBring our brand to life online. Shape the visual direction of our marketing website and created branded page layouts and assets in collaboration with our Product Design Lead. If you work in Framer, you\u2019ll also have opportunities to build and publish your designs.\nMake our app\u2019s first impression count. Design App Store and Google Play creative, exploring different ways to introduce Forage to different audiences and working with Marketing to learn what converts.\nMake useful information easy to understand. Create digital materials that help shoppers use SNAP online, understand eligible purchases, and check their ba",
+    "posted_at": "11h",
+    "priority": 5,
+    "first_seen": "2026-11-26T11:12:57.783288-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "c6bd79112ee17901420fca73941feb25": {
+    "id": "c6bd79112ee17901420fca73941feb25",
+    "title": "Product Designer",
+    "company": "Quo",
+    "location": "Remote",
+    "salary": "$135,700 - $177,300",
+    "url": "https://uiuxjobsboard.com/job/1703626-remote-united-states-product-designer",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Small businesses represent 99.9% of all companies, yet they're still forced to choose between clunky, outdated enterprise phone systems or their personal phones. This multi-billion dollar market has been overlooked for decades, left to cobble together solutions that slow them down instead of helping them grow.\nQuo is changing that. We bring calls, texts, and customer information together into one easy-to-use, AI-powered platform. We're not just building a phone system. We're setting a new standard for how businesses connect with their customers.\nDriven by our values, we move fast, build with determination, and obsess over delivering value to the businesses that have been underserved for far too long.\nToday, Quo is trusted by more than 120,000 companies and rated #1 in customer satisfaction on G2. We're backed by Y Combinator, Tiger Global, Craft Ventures, Slow Ventures, and other top-tier investors. It's safe to say we're onto something big.\nAbout the role\n\nQuo is a product-led business, which means our product is the funnel. How someone signs up, what they do in their first ten minutes, and why they decide to upgrade are all design problems \u2014 and getting them right is one of the biggest levers we have.\nWe\u2019re looking for a growth product designer to take this head on. Working in close partnership with our Growth PM, you\u2019ll design across the entire funnel \u2014 the moments where a curious visitor becomes a paying customer, and a paying customer becomes a bigger one. This is a role for someone who thinks commercially as naturally as they think visually, who\u2019s comfortable living in data and experiment results, and who shows up as a genuine thought partner on what to build, not just how it should look.\n\nSome of the things you\u2019ll do:\n\nDesign Quo\u2019s core growth surfaces end to end, from signup, onboarding, and activation to upgrade flows and in-product expansion moments\n\nPartner closely with our Growth PM to help shape the roadmap, contributing your perspective on where the biggest opportunities sit and what\u2019s worth testing next\n\nDig into funnel data and customer research to find friction, translating what you learn into impactful design solutions\n\nDesign and run experiments alongside Product and Engineering, treating each one as a way to learn rather than just a way to win\n\nBalance commercial outcomes with customer experience, knowing that a short-term conversion lift that erodes the brand isn\u2019t a win\n\nPrototype concepts in code when it\u2019s more effective than static mocks, using tools like Claude Code to validate ideas early and often\n\nContribute to the design system and help improve patterns that growth surfaces share with the rest of the product\n\nGive and seek out feedback, participate in critiques, and help raise the quality and craft bar for the whole design team\n\nAbout you\n\n4+ years of product design experience, with a strong portfolio showing depth in growth, activation, and conversion work for PLG motions and self-serve products\n\nGenuine commercial fluency, understanding funnels, activation metrics, retention, and pricing, and able to hold a real conversation about the business decision behind a design\n\nComfort working with quantitative data, from reading dashboards and analyzing funnel drop-off, to designing experiments and interpreting results honestly\n\nStrong craft and attention to detail across user experience, interface, interaction, and visual design\n\nProven ability to partner closely with engineering, articulating the reasoning behind design decisions and navigating technical constraints early\n\nDemonstrated understanding of the importance of keeping things simple, and ensuring that nothing gets in the way of the customer experience and value\n\nNice to have:\n\nFamiliarity with experimentation tooling and analytics/data platforms\n\nUX copywriting instincts, especially for conversion-oriented microcopy\n\nCompensation\n\nThe annual base salary range for this position is as follow, plus equity and benefits:\n\nSF Bay Area, Los Angeles, ",
+    "posted_at": "11h",
+    "priority": 5,
+    "first_seen": "2026-11-26T11:12:59.441863-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "ca42d595d96270dc90f46f37b5c28d44": {
+    "id": "ca42d595d96270dc90f46f37b5c28d44",
+    "title": "Graphic and Motion Designer",
+    "company": "LA Galaxy",
+    "location": "Carson, CA",
+    "salary": "$72,000 - $75,000",
+    "url": "https://uiuxjobsboard.com/job/1704726-graphic-and-motion-designer-carson-ca-united-states",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "LA Galaxy is where soccer, culture, and community come together. As one of Major League Soccer\u2019s most storied clubs, the Galaxy deliver unforgettable matchdays and moments that connect fans across Los Angeles and beyond.\n\nOwned by AEG, the LA Galaxy are powered by teams who bring energy, creativity, and commitment to everything they do, from matchday operations and fan engagement to the work that happens behind the scenes. Every role plays a part in shaping the experience on and off the pitch and building a club that reflects the city it represents.\n\nIf you want to be part of a team where your work shows up live, in real time, and in front of passionate fans, there\u2019s a place for you here. Because on matchday, it happens here.\n\nJob Summary\n\nThe Graphic and Motion Designer will conceptualize and execute creative design concepts for communication across print, digital and multimedia formats for the LA Galaxy and Dignity Health Sports Park. This role is approximately 70% graphic design and 30% motion design, supporting digital, social media and video teams with visual communication through the build out of static and animated creative assets. Grow and evolve brand and brand relevance of the LA Galaxy and Dignity Health Sports Park.\n\nEssential Functions\n\nCollaborate on and design logos, digital and social graphics, stadium videoboard graphics, print ads, out of home ads and retail merchandise; design advertisements, print materials, still digital imaging, web graphics, marketing campaigns and sales promotions that reach and retain fans, per strategy set by the Head of Creative and Brand\n\nAnimate and adapt existing brand assets into motion graphics for social media, videoboard, LED and broadcast use, including title cards, lower thirds, transitions, logo stings, sponsor animations and short-form animated storytelling; translate static campaign design systems into motion while ensuring visual and brand consistency across every format and screen size\n\nServe as the daily point-of-contact for Dignity Health Sports Park graphic design needs by interacting directly with Dignity Health Sports Park employees and project managing and designing their graphic requests\n\nExecute game day digital strategy for both home and away matches by designing in-game static and animated graphics for use on web, social media and videoboard\n\nCollaborate with Creative and Brand leaders on strategizing and developing methods to increase fan engagement and brand awareness across all digital platforms\n\nMaintain organized project files, asset libraries and animation templates to allow for rapid turnaround during matchdays and campaign launches\n\nPerform other duties and responsibilities as deemed appropriate by management and supervisors\n\nRequired Qualifications\n\nBA/BS Degree (4-year) Graphic Design, Motion Design or a related field.\n\n2-4 years Related work experience.\n\nPortfolio showcasing graphic design and motion design work across digital, print, and video platforms.\n\nAbility to create compelling visual communication for print, digital and video platforms.\n\nAdvance proficiency in Adobe Creative Suite, including Photoshop, Illustrator and InDesign.\n\nAdvanced proficiency in Adobe After Effects and Premiere Pro, including keyframing, basic 2D animation and exporting to platform and videoboard specifications.\n\nStrong knowledge of print, web and social media best practices.\n\nAbility to manage multiple projects simultaneously, prioritize competing deadlines, and effectively manage stakeholder expectations in a fast-paced environment.\n\nHighly organized with strong attention to detail and follow-through.\n\nStrong written and verbal communication skills.\n\nCreative thinker with the ability to develop innovative design solutions and contribute new ideas to enhance fan engagement and brand storytelling.\n\nCollaborative team player who demonstrates professionalism, accountability, initiative, and dependability.\n\nFlexible and adapts to various environments and situations.\n\nWil",
+    "posted_at": "13h",
+    "priority": 4,
+    "first_seen": "2026-11-26T11:13:01.369313-08:00",
     "status": "active",
     "applied_at": null
   }

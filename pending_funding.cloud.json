@@ -1,107 +1,77 @@
 [
   {
     "item": {
-      "company": "Wonderscent",
-      "amount": "$2.25M",
-      "stage": "Pre-Seed",
-      "investors": null,
+      "company": "Linq Funding",
+      "amount": "$90.0M",
+      "stage": "Series B",
+      "investors": "Andreessen Horowitz&nbsp",
       "location": null,
-      "blurb": "Wonderscent Raises $2.25M Pre-seed. Wonderscent raises $2.25M in pre-seed funding to expand its AI-powered fragrance discovery and recommendation platform for perfume shoppers.",
+      "blurb": "Linq Funding: $90M Series B Led by Andreessen Horowitz - AI Funding Tracker. Linq Funding: $90M Series B Led by Andreessen Horowitz&nbsp;&nbsp;AI Funding Tracker",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/wonderscent-raises-2-25m-pre-seed/",
+      "source": "a16z (news)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kV25vYW9Ea2NDVm5RU1h2dGlrQ0RlZ2hYci0yVEgwRW5CUW9LbExkRDdWZE5YZ01OaGVJMXpNcTNKaDFJY3RjRFNGUzd1SDJncURHZQ?oc=5",
       "priority": 10
     },
-    "remind_at": "2026-11-26T01:35:31.649794-08:00"
+    "remind_at": "2026-11-26T11:43:23.815154-08:00"
   },
   {
     "item": {
-      "company": "Kunstig Aero",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": "Althing Ventures",
-      "location": null,
-      "blurb": "Kunstig Aero Raises $270,000 Pre-seed. Kunstig Aero raises $270,000 in pre-seed funding from Althing Ventures to develop its AI-powered aviation safety and monitoring technology.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/kunstig-aero-raises-270000-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-11-26T01:35:37.362884-08:00"
-  },
-  {
-    "item": {
-      "company": "Listener.com",
-      "amount": null,
-      "stage": "Pre-Seed",
-      "investors": null,
-      "location": null,
-      "blurb": "Listener.com Raises $500,000 Pre-seed. Listener.com raises $500,000 pre-seed round led by Aristotle Loumis to scale its AI-powered omni-channel campaign reporting platform for the podcast industry.",
-      "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/listener-com-raises-500000-pre-seed/",
-      "priority": 10
-    },
-    "remind_at": "2026-11-26T01:35:41.348701-08:00"
-  },
-  {
-    "item": {
-      "company": "NCredible",
-      "amount": null,
+      "company": "Lupa Robotics",
+      "amount": "$1.67M",
       "stage": "Seed",
-      "investors": "Kakao Ventures, The Ventures",
+      "investors": null,
       "location": null,
-      "blurb": "NCredible Secures Seed Investment. Ncredible secures seed funding from Kakao Ventures and The Ventures to advance its AI-powered operational software for the food manufacturing industry.",
+      "blurb": "Lupa Robotics raises $1.67 million seed round to teach robots human dexterity - Tech In Africa. Lupa Robotics raises $1.67 million seed round to teach robots human dexterity&nbsp;&nbsp;Tech In Africa",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/ncredible-secures-seed-investment/",
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX0w3RXBKeG8zbHUwM0RLblg0SUJCcVZvN1ZvZTA3T2IwSmtrOGlka2lORXZMOHdrUUxxSnFYWmc1eE15N2Z4NFpnR2ZGaEJJeHRkV3Jid3pHaUlDZU81d2lNX09xdzdrUjgtVEdrS1dOejRCMzFoaEt3RnFGcVVWVmtqbHZLSlJ3QXltbWNOcnFWTG9oYjFpMDZxSWEyZF9hRE9wTWpyaU9VQQ?oc=5",
       "priority": 9
     },
-    "remind_at": "2026-11-26T01:35:44.343026-08:00"
+    "remind_at": "2026-11-26T11:43:40.653685-08:00"
   },
   {
     "item": {
-      "company": "XEBO.ai",
-      "amount": "$10.5M",
-      "stage": "Series A",
-      "investors": "Emirates Growth Fund",
+      "company": "Audun",
+      "amount": "$3.0M",
+      "stage": null,
+      "investors": "Y Combinator",
       "location": null,
-      "blurb": "XEBO.ai Raises $10.5M Series A. XEBO.ai raises $10.5 million in Series A funding from Emirates Growth Fund to advance its AI-native experience management platform and scale globally.",
+      "blurb": "Norwegian AI debt collection startup Audun raises $3M from Y Combinator and Alliance VC. Norwegian startup Audun has raised $3 million to modernise debt collection with artificial intelligence. The round includes Alliance&#8230;",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/xebo-ai-raises-10-5m-series-a/",
-      "priority": 8
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/norwegian-ai-debt-collection-startup-audun-raises-3m-from-y-combinator-and-alliance-vc/",
+      "priority": 6
     },
-    "remind_at": "2026-11-26T01:35:47.301830-08:00"
+    "remind_at": "2026-11-26T11:43:43.417107-08:00"
   },
   {
     "item": {
-      "company": "Mechademy",
-      "amount": "$9.5M",
-      "stage": "Series A",
-      "investors": "Silverton Partners",
+      "company": "American Express",
+      "amount": "$1.3M",
+      "stage": null,
+      "investors": null,
       "location": null,
-      "blurb": "Mechademy Raises $9.5M Series A. Mechademy raises $9.5M Series A led by Silverton Partners to expand its AI-native predictive analytics platform for power generation fleets.",
+      "blurb": "American Express is giving away $1.3 million in cash to British small business owners\u2014with no strings attached. As AI kills the dream of a stable job and corner office, millions are starting their own business\u2014and American Express is throwing $1.3 million behind them",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/mechademy-raises-9-5m-series-a/",
-      "priority": 8
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/11/26/american-express-is-giving-away-1-3-million-cash-to-british-small-business-owners-grant-apply-founders/",
+      "priority": 3
     },
-    "remind_at": "2026-11-26T01:35:50.220751-08:00"
+    "remind_at": "2026-11-26T11:43:53.055412-08:00"
   },
   {
     "item": {
-      "company": "SenseNet",
-      "amount": "$43.0M",
-      "stage": "Series B",
-      "investors": "Idealist Capital",
+      "company": "Lute",
+      "amount": null,
+      "stage": null,
+      "investors": null,
       "location": null,
-      "blurb": "SenseNet Raises $43M Series B. SenseNet raises $43 million in a Series B round led by Idealist Capital to expand its international operations and wildfire detection platform.",
+      "blurb": "Polish-American physical AI Startup Lute Raises \u20ac17.2M to Give Robots a Sense of Touch - The Recursive. Polish-American physical AI Startup Lute Raises \u20ac17.2M to Give Robots a Sense of Touch&nbsp;&nbsp;The Recursive",
       "founders": [],
-      "source": "The SaaS News",
-      "url": "https://www.thesaasnews.com/news/sensenet-raises-43m-series-b/",
-      "priority": 7
+      "source": "Funding Sweep (news)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUltYUdhWDRYMWtMTjZYUjdKa3ZpdnJNckF1ZU5lSjdVaENvZFBmRVZZWEkwVU1GV0NfMzlLZnJGcTJRSTE3TGhDYWN5RVRBM2FOUHNSYXdnWnJCSktzYWdCMVpMV0Y4X1ZLRjNxRVBaVVlEYm0yMGFNaWZGcVROZnVQUWdsUEx1aHlrSXFhT1U4aW1HRWEwbE93ZzZIbFRVSVR1ZGhNbXg0UGlaT2M4TUJyN001T1FmOXc?oc=5",
+      "priority": 3
     },
-    "remind_at": "2026-11-26T01:35:53.060505-08:00"
+    "remind_at": "2026-11-26T11:43:55.849793-08:00"
   }
 ]
