@@ -12127,7 +12127,9 @@
     "first_seen": "2026-11-22T20:59:06.914330-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 3
+    "jd_failed": 3,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 0
   },
   "2198806dcaccb530fa917c71af9ab96e": {
     "id": "2198806dcaccb530fa917c71af9ab96e",
@@ -12147,7 +12149,9 @@
     "first_seen": "2026-11-22T20:59:08.558410-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 3
+    "jd_failed": 3,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 0
   },
   "21003793f6e35e6fa64aa9c31bb6a558": {
     "id": "21003793f6e35e6fa64aa9c31bb6a558",
@@ -12167,7 +12171,9 @@
     "first_seen": "2026-11-22T20:59:10.425698-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 3
+    "jd_failed": 3,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 0
   },
   "37d89a2021dad5d9870ca90f8341ec4b": {
     "id": "37d89a2021dad5d9870ca90f8341ec4b",
@@ -12186,7 +12192,9 @@
     "priority": 4,
     "first_seen": "2026-11-22T20:59:12.171270-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 0
   },
   "dc22221c98d9daee21c3d0c086621708": {
     "id": "dc22221c98d9daee21c3d0c086621708",
@@ -12206,7 +12214,9 @@
     "first_seen": "2026-11-22T20:59:14.051328-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 3
+    "jd_failed": 3,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 0
   },
   "18fcd1a54c37953182da8ed5ced5be6a": {
     "id": "18fcd1a54c37953182da8ed5ced5be6a",
@@ -12225,7 +12235,9 @@
     "priority": 1,
     "first_seen": "2026-11-22T20:59:15.922726-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 0
   },
   "64d75d26631a2a6653d0974e94755aef": {
     "id": "64d75d26631a2a6653d0974e94755aef",
@@ -12245,7 +12257,8 @@
     "first_seen": "2026-11-22T20:59:17.661745-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 3
+    "jd_failed": 3,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00"
   },
   "5d7e5b5ab91ec6e9a37cdf02f9044065": {
     "id": "5d7e5b5ab91ec6e9a37cdf02f9044065",
@@ -12264,7 +12277,9 @@
     "priority": 4,
     "first_seen": "2026-11-22T20:59:19.397743-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 0
   },
   "832dde424ae3f7aad79dfa4bd8925cc2": {
     "id": "832dde424ae3f7aad79dfa4bd8925cc2",
@@ -12283,7 +12298,9 @@
     "priority": 3,
     "first_seen": "2026-11-22T20:59:21.252039-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 0
   },
   "095557c98b4dbd428fb3871bb7f81ef7": {
     "id": "095557c98b4dbd428fb3871bb7f81ef7",
@@ -12303,7 +12320,8 @@
     "first_seen": "2026-11-22T20:59:23.109065-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 2,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00"
   },
   "437529ff1ca8f7531f461dccde057f07": {
     "id": "437529ff1ca8f7531f461dccde057f07",
@@ -12322,7 +12340,9 @@
     "priority": 3,
     "first_seen": "2026-11-22T20:59:24.970530-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 0
   },
   "210884848ddb56ae45ed397bca75abd9": {
     "id": "210884848ddb56ae45ed397bca75abd9",
@@ -12341,7 +12361,9 @@
     "priority": 4,
     "first_seen": "2026-11-22T20:59:26.829229-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 0
   },
   "f3688e701e6e7fc3de6f169fd42f47a4": {
     "id": "f3688e701e6e7fc3de6f169fd42f47a4",
@@ -12361,7 +12383,9 @@
     "first_seen": "2026-11-22T20:59:28.561912-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 3
+    "jd_failed": 3,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 0
   },
   "4250d95f836c7b6d1d868c2adede4c48": {
     "id": "4250d95f836c7b6d1d868c2adede4c48",
@@ -12380,7 +12404,9 @@
     "priority": 1,
     "first_seen": "2026-11-22T20:59:30.433240-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 0
   },
   "4427aae198cc5f5d7cc15fd2bdaffe35": {
     "id": "4427aae198cc5f5d7cc15fd2bdaffe35",
@@ -12400,7 +12426,8 @@
     "first_seen": "2026-11-22T20:59:32.249806-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 2,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00"
   },
   "392af05cc0931386c46b9f6c8b375fd1": {
     "id": "392af05cc0931386c46b9f6c8b375fd1",
@@ -12419,7 +12446,9 @@
     "priority": 5,
     "first_seen": "2026-11-22T20:59:34.112081-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 1
   },
   "a962951bd42788fc675e32936221f288": {
     "id": "a962951bd42788fc675e32936221f288",
@@ -12439,7 +12468,8 @@
     "first_seen": "2026-11-22T20:59:35.855438-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 2,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00"
   },
   "f19b7344f21c791353f6a209257b8652": {
     "id": "f19b7344f21c791353f6a209257b8652",
@@ -12458,7 +12488,9 @@
     "priority": 1,
     "first_seen": "2026-11-22T20:59:37.711776-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 0
   },
   "9faf62c89edf48db4ffb0a5a42aa6547": {
     "id": "9faf62c89edf48db4ffb0a5a42aa6547",
@@ -12477,7 +12509,9 @@
     "priority": 4,
     "first_seen": "2026-11-22T20:59:39.571746-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 0
   },
   "d09be8fde7b1e7e37ac1eda3d509ad87": {
     "id": "d09be8fde7b1e7e37ac1eda3d509ad87",
@@ -12496,7 +12530,9 @@
     "priority": 1,
     "first_seen": "2026-11-22T20:59:41.444428-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00",
+    "dead_strikes": 0
   },
   "780940b42f1c44ea60f41887301ce186": {
     "id": "780940b42f1c44ea60f41887301ce186",
@@ -12516,7 +12552,8 @@
     "first_seen": "2026-11-22T20:59:43.317941-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 3
+    "jd_failed": 3,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00"
   },
   "a69ce09a9c305dfef10d2b8abfff26f0": {
     "id": "a69ce09a9c305dfef10d2b8abfff26f0",
@@ -12536,7 +12573,8 @@
     "first_seen": "2026-11-22T21:00:10.820922-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 3
+    "jd_failed": 3,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00"
   },
   "16be09fa15b11e1a8ee848191d6435ad": {
     "id": "16be09fa15b11e1a8ee848191d6435ad",
@@ -12556,7 +12594,8 @@
     "first_seen": "2026-11-22T21:00:12.731381-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 2,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00"
   },
   "d720f4464068fa2a0acbc9e239060b77": {
     "id": "d720f4464068fa2a0acbc9e239060b77",
@@ -12576,7 +12615,8 @@
     "first_seen": "2026-11-22T21:00:14.511937-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 2
+    "jd_failed": 2,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00"
   },
   "a50a12c822ea526c487fb5cc9a5a167d": {
     "id": "a50a12c822ea526c487fb5cc9a5a167d",
@@ -12596,7 +12636,8 @@
     "first_seen": "2026-11-22T21:00:16.383409-08:00",
     "status": "active",
     "applied_at": null,
-    "jd_failed": 1
+    "jd_failed": 1,
+    "checked_at": "2026-11-26T01:04:14.156830-08:00"
   },
   "4cdca58f9b8885479be870ac7ab8214d": {
     "id": "4cdca58f9b8885479be870ac7ab8214d",
@@ -13204,6 +13245,25 @@
     "posted_at": "8h",
     "priority": 4,
     "first_seen": "2026-11-25T08:35:29.604183-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "bd6632c32f3f13fad407c4c8e6e4999c": {
+    "id": "bd6632c32f3f13fad407c4c8e6e4999c",
+    "title": "Product Designer",
+    "company": "Noodle",
+    "location": "London",
+    "salary": "\u00a360,000 - \u00a365,000 GBP",
+    "url": "https://uiuxjobsboard.com/job/1708826-product-designer-london-united-kingdom",
+    "source": "UIUXJobsBoard",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "Product Designer\nSalary: \u00a360,000 - \u00a365,000\n\nReports to: Head of Product\n\nTeam/Function: Product\n\nLocation/Working model: UK- Hybrid. 2 days per weeks in our Canary Wharf \u00a0 \u00a0 \u00a0Office\n\nIdeal start: ASAP\n\nApplications \u00a0close: 4th December\n\n\ud83e\ude77 About Noodle Noodle (previously Care ADHD) began as a small team with big ambitions and has since grown into a global organisation supporting thousands of people across the UK and India. Though our teams are continents apart, we\u2019re united by one mission: We drive lasting change through neurodevelopmental care that\u2019s personal, clinically exceptional and easy to access for everyone. We created Noodle because ADHD and autism shape how someone experiences the world, every day. The right support can bring more choice, more stability and more confidence \u2013 at home, at school and at work. What drives us is simple: opening a world of possibility for different minds. Neurodevelopmental support, when done well, is one of the highest\u2011impact interventions in healthcare. The right care gives people more agency, more stability and the chance we all deserve: to thrive and be happy. We\u2019re here to make that happen for as many people as we can. Brilliant works demands different minds. When different skills and experiences come together, something special happens. \ud83c\udfaf Purpose of the Role Noodle is on a journey to marry product-inspired practices with our clinical delivery, becoming an organisation where experience quality is inseparable from clinical quality and trust. We\u2019re early in our product maturity \u2013 building the function from the ground up \u2013 which makes this a brilliant moment to join and shape the craft as we grow. \u00a0 As a Product Designer, you\u2019ll be a strong hands-on maker at the heart of the team. You\u2019ll design frictionless healthcare experiences that bring reassurance and delight \u2013 taking people through sensitive, high-stakes moments in a way that feels calm, clear and genuinely human. You\u2019ll work across discovery and delivery: prototyping, testing, and turning insight into intuitive flows, states and interactions that people trust. \u00a0 This is a craft role. You\u2019ll apply and help extend the emerging design system, raise the bar on interaction and motion, and bring ideas to life across products and service touchpoints. You\u2019ll work under the direction of our Head of Product, with real ownership of the journeys you\u2019re responsible for \u2013 and plenty of room to grow your influence. \u00a0 You\u2019ll design for diverse users and contexts: adults, children and young people, parents/guardians, clinicians, and ops/service teams, across the UK and India. It\u2019s for someone who\u2019s user-centric to the core, passionate about their craft, energised by interaction design, and always willing to learn. \u00a0 Why join us \u2728 Our product Team are early in their product maturity, building a function from the ground up, which makes this an exciting time to join and shape the craft as we grow. \u00a0 \ud83d\udc40 Is this the right fit for you? \ud83d\udeabWhat This Job Isn\u2019t\nNot \u00a0 \u00a0 \u00a0a pixel-pusher who digitises paper \u2013 you reimagine journeys.\n\nNot \u00a0 \u00a0 \u00a0a lone \u201cdesign hero\u201d \u2013 you thrive on collaboration and welcome critique.\n\nNot \u00a0 \u00a0 \u00a0motion for motion\u2019s sake \u2013 every interaction earns its place and stays \u00a0 \u00a0 \u00a0accessible.\n\n\ud83e\udded Core Duties and Responsibilities 1. Design frictionless experiences that reassure and delight\nDesign end-to-end journeys across our app, portal and service touchpoints so people always know what\u2019s happening and what happens next.\n\nReduce friction and cognitive load at the moments that matter \u2013 sign-up, assessment, results, care \u2013 turning anxiety into reassurance.\n\nDesign with accessibility and neurodiversity-aware principles at the centre, balancing clarity, calm and usability.\n\n2. Bring experiences to life through interaction and motion\nCraft intuitive interactions \u2013 flows, states, transitions, feedback, micro-interactions \u2013 that make experiences feel responsive and alive.\n\nUse motion, sound and sensory design with intent and restraint, so they guide, r",
+    "posted_at": "25mi",
+    "priority": 4,
+    "first_seen": "2026-11-26T01:05:09.621233-08:00",
     "status": "active",
     "applied_at": null
   }
