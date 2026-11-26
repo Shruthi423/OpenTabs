@@ -1,5 +1,22 @@
 [
   {
+    "id": "b3c072658ca6c18f93ed3a9c0f4c2e3e",
+    "title": "Product Designer",
+    "company": "Blink Health",
+    "location": "Pittsburgh, PA, US",
+    "salary": "Not listed",
+    "url": "https://www.indeed.com/viewjob?jk=096b4af58484c59d",
+    "source": "Indeed",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "founders": [],
+    "posted_at": "2026-11-24",
+    "priority": 4,
+    "first_seen": "2026-11-26T06:37:25.050677-08:00",
+    "status": "active",
+    "jd": "yes"
+  },
+  {
     "id": "94cebb9af08ba7c039247a3a7e67c90e",
     "title": "Product Designer",
     "company": "Cambio",
@@ -16061,23 +16078,6 @@
     "posted_at": "2026-10-25",
     "priority": 4,
     "first_seen": "2026-10-26T13:57:13.316868-07:00",
-    "status": "active",
-    "jd": "yes"
-  },
-  {
-    "id": "a8be2fe68c27adbfb7a71fe4fd928631",
-    "title": "UX Designer, Searching in Chrome",
-    "company": "Google",
-    "location": "Mountain View, CA",
-    "salary": "Not listed",
-    "url": "https://www.linkedin.com/jobs/view/4483249346",
-    "source": "Linkedin",
-    "is_new_grad": false,
-    "is_big_tech": true,
-    "founders": [],
-    "posted_at": "nan",
-    "priority": 2,
-    "first_seen": "2026-10-26T13:57:11.522939-07:00",
     "status": "active",
     "jd": "yes"
   },
