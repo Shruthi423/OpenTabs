@@ -15892,5 +15892,37 @@
     "roles": [],
     "first_seen": "2026-11-26T11:13:56.849918-08:00",
     "status": "active"
+  },
+  "4df5fc045bcbb0e1d495baec88a938a9": {
+    "id": "4df5fc045bcbb0e1d495baec88a938a9",
+    "company": "Four Startups",
+    "amount": "$515.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc1ZlQmxMakNYMk9MMC1YV1pXN3VHblZQbGNXSFd3ZFdBWXdGYXllMjZ5ZjktWm93bzc4WVU0MjU1N3FIOWhFV0NtR0FrTVAwSENseHVXYXVvRUx6R09zdGdBSkFIUmpvTm45UzAtVmtYeVlWX05oTzlWYmtSVnNaVW52a2pZZ3NxN2c?oc=5",
+    "priority": 3,
+    "blurb": "Four Startups Raise $515 Million for AI Agent Tools - Wisevoter. Four Startups Raise $515 Million for AI Agent Tools&nbsp;&nbsp;Wisevoter",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-26T18:21:28.417509-08:00",
+    "status": "active"
+  },
+  "613b692d74761bbd41890d94bb05978c": {
+    "id": "613b692d74761bbd41890d94bb05978c",
+    "company": "Lute",
+    "amount": "$20.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUltYUdhWDRYMWtMTjZYUjdKa3ZpdnJNckF1ZU5lSjdVaENvZFBmRVZZWEkwVU1GV0NfMzlLZnJGcTJRSTE3TGhDYWN5RVRBM2FOUHNSYXdnWnJCSktzYWdCMVpMV0Y4X1ZLRjNxRVBaVVlEYm0yMGFNaWZGcVROZnVQUWdsUEx1aHlrSXFhT1U4aW1HRWEwbE93ZzZIbFRVSVR1ZGhNbXg0UGlaT2M4TUJyN001T1FmOXc?oc=5",
+    "priority": 3,
+    "blurb": "Lute Raises $20M to Build Touch-Based AI for Robots - The Recursive. Lute Raises $20M to Build Touch-Based AI for Robots&nbsp;&nbsp;The Recursive",
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-26T18:21:31.276493-08:00",
+    "status": "active"
   }
 }

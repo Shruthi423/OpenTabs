@@ -1,5 +1,35 @@
 [
   {
+    "id": "613b692d74761bbd41890d94bb05978c",
+    "company": "Lute",
+    "amount": "$20.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "Funding Sweep (news)",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUltYUdhWDRYMWtMTjZYUjdKa3ZpdnJNckF1ZU5lSjdVaENvZFBmRVZZWEkwVU1GV0NfMzlLZnJGcTJRSTE3TGhDYWN5RVRBM2FOUHNSYXdnWnJCSktzYWdCMVpMV0Y4X1ZLRjNxRVBaVVlEYm0yMGFNaWZGcVROZnVQUWdsUEx1aHlrSXFhT1U4aW1HRWEwbE93ZzZIbFRVSVR1ZGhNbXg0UGlaT2M4TUJyN001T1FmOXc?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-26T18:21:31.276493-08:00",
+    "status": "active"
+  },
+  {
+    "id": "4df5fc045bcbb0e1d495baec88a938a9",
+    "company": "Four Startups",
+    "amount": "$515.0M",
+    "stage": "?",
+    "investors": "Undisclosed",
+    "source": "a16z (news)",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc1ZlQmxMakNYMk9MMC1YV1pXN3VHblZQbGNXSFd3ZFdBWXdGYXllMjZ5ZjktWm93bzc4WVU0MjU1N3FIOWhFV0NtR0FrTVAwSENseHVXYXVvRUx6R09zdGdBSkFIUmpvTm45UzAtVmtYeVlWX05oTzlWYmtSVnNaVW52a2pZZ3NxN2c?oc=5",
+    "priority": 3,
+    "founders": [],
+    "location": null,
+    "roles": [],
+    "first_seen": "2026-11-26T18:21:28.417509-08:00",
+    "status": "active"
+  },
+  {
     "id": "bace4a1bed64556f13554d5c74acad6f",
     "company": "Lute",
     "amount": "Undisclosed",
@@ -6241,51 +6271,6 @@
     "location": null,
     "roles": [],
     "first_seen": "2026-10-27T03:03:57.003065-07:00",
-    "status": "active"
-  },
-  {
-    "id": "bf3e4010b814e71fda9be7f26406507f",
-    "company": "Meta",
-    "amount": "$95.0B",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "SiliconANGLE",
-    "url": "https://siliconangle.com/2026/10/26/meta-to-sell-up-to-95b-in-stock-to-finance-ai-infrastructure-buildout/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-26T17:01:12.105473-07:00",
-    "status": "active"
-  },
-  {
-    "id": "d5f127719ad0a502913cf6a614b93cab",
-    "company": "CarbonAI",
-    "amount": "$12.0M",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "AlleyWatch",
-    "url": "https://www.alleywatch.com/2026/10/carbonai-commercial-real-estate-lending-ai-agents-underwriting-cre-loan-surveillance-lending-automation-josh-kaufman-jeff-saul/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-26T13:29:27.879077-07:00",
-    "status": "active"
-  },
-  {
-    "id": "2b0c3279a3a9beb81110c7dbc936c6b7",
-    "company": "Nvidia",
-    "amount": "$95.0B",
-    "stage": "?",
-    "investors": "Undisclosed",
-    "source": "TechStartups",
-    "url": "https://techstartups.com/2026/10/26/tech-news-today-october-26-2026-nvidia-metas-95b-ai-funding-plan-spacexs-40b-chip-deal-and-anthropic-security-breach/",
-    "priority": 3,
-    "founders": [],
-    "location": null,
-    "roles": [],
-    "first_seen": "2026-10-26T13:29:25.066721-07:00",
     "status": "active"
   }
 ]
