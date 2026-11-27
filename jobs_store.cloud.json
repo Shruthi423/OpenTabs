@@ -10419,10 +10419,10 @@
     "posted_at": "Recently",
     "priority": 4,
     "first_seen": "2026-11-16T10:46:11.771609-08:00",
-    "status": "active",
+    "status": "closed",
     "applied_at": null,
-    "checked_at": "2026-11-27T03:07:04.435835-08:00",
-    "dead_strikes": 1
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
+    "dead_strikes": 2
   },
   "c365c7014b6e0e7383e85fa7f2781a72": {
     "id": "c365c7014b6e0e7383e85fa7f2781a72",
@@ -10906,7 +10906,7 @@
     "status": "active",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00"
+    "checked_at": "2026-11-27T12:07:31.665906-08:00"
   },
   "1f6751930e394dc31f0f64a532032613": {
     "id": "1f6751930e394dc31f0f64a532032613",
@@ -10927,7 +10927,7 @@
     "status": "active",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00"
+    "checked_at": "2026-11-27T12:07:31.665906-08:00"
   },
   "e595331fae98fd9ab0a31d42ff67d3f2": {
     "id": "e595331fae98fd9ab0a31d42ff67d3f2",
@@ -10948,7 +10948,7 @@
     "status": "active",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00"
+    "checked_at": "2026-11-27T12:07:31.665906-08:00"
   },
   "3f4e41f01a78c4c4c58efde694d8a963": {
     "id": "3f4e41f01a78c4c4c58efde694d8a963",
@@ -10969,7 +10969,7 @@
     "status": "active",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00"
+    "checked_at": "2026-11-27T12:07:31.665906-08:00"
   },
   "f8794f32bd6f2a4f2e0ca64888c24af6": {
     "id": "f8794f32bd6f2a4f2e0ca64888c24af6",
@@ -10990,7 +10990,7 @@
     "status": "active",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00"
+    "checked_at": "2026-11-27T12:07:31.665906-08:00"
   },
   "99cad1a70212b15ac8573bb238e5b62f": {
     "id": "99cad1a70212b15ac8573bb238e5b62f",
@@ -11010,7 +11010,7 @@
     "first_seen": "2026-11-16T10:47:30.061119-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00",
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
     "dead_strikes": 0
   },
   "72d323bbc272389bd31627446d3385a3": {
@@ -11032,7 +11032,7 @@
     "status": "active",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00"
+    "checked_at": "2026-11-27T12:07:31.665906-08:00"
   },
   "0b47b10d84759607a9a763906f75e435": {
     "id": "0b47b10d84759607a9a763906f75e435",
@@ -11052,7 +11052,7 @@
     "first_seen": "2026-11-16T10:47:33.688755-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00",
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
     "dead_strikes": 0
   },
   "a3d8e74e8697004ef5abf669fc02da11": {
@@ -11073,7 +11073,7 @@
     "first_seen": "2026-11-16T10:47:35.562832-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00",
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
     "dead_strikes": 0
   },
   "d42d21e9e44c22bebdc2ade1b5ab08c1": {
@@ -11094,7 +11094,7 @@
     "first_seen": "2026-11-16T10:47:37.302989-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00",
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
     "dead_strikes": 0
   },
   "416e836abac2c48afb1d6dab8944ab62": {
@@ -11115,7 +11115,7 @@
     "first_seen": "2026-11-16T10:47:39.171977-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00",
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
     "dead_strikes": 0
   },
   "5462dd6baae7c1a396b8cc7645df81aa": {
@@ -11137,7 +11137,7 @@
     "status": "active",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00"
+    "checked_at": "2026-11-27T12:07:31.665906-08:00"
   },
   "9505755a0957d1ebec28d3c3162555ad": {
     "id": "9505755a0957d1ebec28d3c3162555ad",
@@ -11157,7 +11157,7 @@
     "first_seen": "2026-11-16T10:48:08.344550-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00",
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
     "dead_strikes": 0
   },
   "066fd252c5ec8597590c44882e0edbda": {
@@ -11178,7 +11178,7 @@
     "first_seen": "2026-11-16T10:48:10.088567-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00",
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
     "dead_strikes": 0
   },
   "823eef207fc2b8f837f1b6e1448fe28f": {
@@ -11199,7 +11199,7 @@
     "first_seen": "2026-11-16T10:48:11.996961-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00",
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
     "dead_strikes": 0
   },
   "46564f509f81ca83d9858feb4ff355fa": {
@@ -11220,7 +11220,7 @@
     "first_seen": "2026-11-16T10:48:13.874009-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00",
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
     "dead_strikes": 0
   },
   "23f1e42ab157660359decfab2cdc676c": {
@@ -11241,7 +11241,7 @@
     "first_seen": "2026-11-16T10:48:15.643845-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00",
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
     "dead_strikes": 0
   },
   "778855327fb1521f497bc72e48f881de": {
@@ -11262,7 +11262,7 @@
     "first_seen": "2026-11-16T10:48:17.387542-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00",
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
     "dead_strikes": 0
   },
   "3354b7c5c98f5d4dda2cd5c011046284": {
@@ -11283,7 +11283,7 @@
     "first_seen": "2026-11-16T10:48:19.123019-08:00",
     "status": "active",
     "applied_at": null,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00",
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
     "dead_strikes": 0
   },
   "624454dfa5c918a373acf3060c60060a": {
@@ -11305,7 +11305,7 @@
     "status": "active",
     "applied_at": null,
     "jd_failed": 3,
-    "checked_at": "2026-11-19T21:04:08.353284-08:00",
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
     "dead_strikes": 0
   },
   "090200d7c22f7fea3540d642c9a5f785": {
@@ -12949,7 +12949,9 @@
     "priority": 2,
     "first_seen": "2026-11-24T05:10:06.073195-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
+    "dead_strikes": 0
   },
   "ca09a1c34a980ac7f57ce18ad7639bac": {
     "id": "ca09a1c34a980ac7f57ce18ad7639bac",
@@ -12968,7 +12970,9 @@
     "priority": 4,
     "first_seen": "2026-11-24T05:10:07.740023-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
+    "dead_strikes": 0
   },
   "9eb2e715a4261876ce75a0867905def6": {
     "id": "9eb2e715a4261876ce75a0867905def6",
@@ -12987,7 +12991,9 @@
     "priority": 5,
     "first_seen": "2026-11-24T05:10:09.542788-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
+    "dead_strikes": 0
   },
   "c739f260da7d6cd1d81090b662c3f37a": {
     "id": "c739f260da7d6cd1d81090b662c3f37a",
@@ -13006,7 +13012,9 @@
     "priority": 5,
     "first_seen": "2026-11-24T05:10:11.384828-08:00",
     "status": "active",
-    "applied_at": null
+    "applied_at": null,
+    "checked_at": "2026-11-27T12:07:31.665906-08:00",
+    "dead_strikes": 0
   },
   "227ec032c8bdfbc0bf1cf76b6de980a0": {
     "id": "227ec032c8bdfbc0bf1cf76b6de980a0",
@@ -13366,6 +13374,25 @@
     "posted_at": "2h",
     "priority": 4,
     "first_seen": "2026-11-27T03:07:57.392441-08:00",
+    "status": "active",
+    "applied_at": null
+  },
+  "23d5ef9e2035db230e4235ee99db01ef": {
+    "id": "23d5ef9e2035db230e4235ee99db01ef",
+    "title": "Product Designer - Product Platform",
+    "company": "ATOMS Careers page",
+    "location": "Los Angeles, CA",
+    "salary": "Not listed",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8796082002",
+    "source": "Startups.Gallery",
+    "is_new_grad": false,
+    "is_big_tech": false,
+    "visa": null,
+    "founders": [],
+    "description": "In the past, to be a successful restaurateur, you simply had to have a passion for food and a passion for people - but to succeed as a digital restaurateur you also need to have a passion for technology. We believe in the joy of serving others, and that's why we created Otter \u2013 to help restaurateurs succeed in online food delivery. Restaurants around the world, both large and small, including Chick-fil-A, Ben & Jerry\u2019s, KFC, and Eataly trust our software to power their delivery business. We increase sales, reduce order issues, and decrease delivery headaches.\nWhat you\u2019ll do\nAs Product Designer for Platform, you\u2019ll define the experience architecture and critical cross-product systems that shape how Otter works as a unified platform. Your work will influence the foundations every product team builds on and some of the most important journeys across the customer lifecycle. You will:\nDefine platform-level experience architecture across navigation, hierarchy, permissions, configuration, entitlements, and shared interaction patterns.\nLead critical cross-product workflows such as onboarding, activation, setup, upsell, and expansion.\nSimplify complex, workflow-heavy tools by creating clear mental models, scalable interaction frameworks, and reusable product patterns.\nPartner deeply with Product and Engineering to align user experience with underlying system models, platform capabilities, and technical constraints.\nWork closely with the Design System team to translate shared product patterns into reusable, consistent UI foundations.\nEmbrace new technologies and ways of working to prototype faster, iterate more effectively, and raise the quality of design outcomes.\nExplore how AI and new technologies can lower the barrier to complex software and shift experiences from \u201cusing tools\u201d to \u201cgetting outcomes as a service,\u201d with strong judgment about when to use them\u2014and when not to.\n10+ years of product design experience, or equivalent seniority, with a track record of leading complex, high-impact product work.\nStrong systems thinking and information architecture skills, with experience designing workflow-heavy products or tools with meaningful complexity.\nProven ability to define scalable experience models, frameworks, and patterns that work across multiple products, teams, or customer journeys.\nExcellent product judgment, including the ability to simplify complexity while balancing usability, flexibility, and technical constraints.\nStrong cross-functional leadership and influence, with the ability to drive alignment across Product, Engineering, Design, and other stakeholders.\nComfort working with complex system models, including permissions, configuration, object relationships, states, dependencies, and edge cases.\nExperience partnering closely with Design System teams and understanding the relationship between product architecture and reusable UI foundations.\nAdaptable and forward-looking in how design gets done, with meaningful use of emerging technologies such as AI, prototyping, and implementation tools to improve speed and quality.\nComfortable operating in ambiguity and proactively identifying opportunities beyond a single feature or product area.\nB2B or enterprise experience is a plus, but not required; we care more about the complexity of the product and workflows they\u2019ve designed.\nDemand for online food delivery is growing really fast! In the last 5 years, just in the US, the overall market has expanded 10X from $10B to $100B, and could expand to $500bn- $1T by 2030.\nChanging the restaurant industry: You\u2019ll be part of a team that helps restaurants succeed in online food delivery.\nCollaborative environment: You will receive support and guidance from experienced colleagues and managers, helping you to learn, grow and achieve your goals, and you\u2019ll work closely with other teams to ensure our customer\u2019s success.\nThis role is based in our Los Angeles office location. As a company driven by innovation and continuous change, close collabor",
+    "posted_at": "Recently",
+    "priority": 3,
+    "first_seen": "2026-11-27T12:08:26.014668-08:00",
     "status": "active",
     "applied_at": null
   }
